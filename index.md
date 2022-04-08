@@ -22,7 +22,7 @@ _You can also use one underscore._
 
 > This is a quote, using a GreaterThan sign.
 
-[This is a link to another Markdown page.](./index.md).
+[This is a link to another Markdown page](./index.md)
 
 1. Use a number, a dot, and a space
 2. To make an ordered list.
