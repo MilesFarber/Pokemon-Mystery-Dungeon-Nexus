@@ -9,12 +9,19 @@ This is text one linebreak below. It will appear on the same line.
 This is text TWO linebreaks below. It will NOT appear on the same line.
 
 *This is italic text, using one asterisk.*
+
 _You can also use one underscore._
+
 **This is bold text, using two asterisks.**
+
 *This is italic, but you can add **two asterisks to turn the italic bold, and end both with three asterisks.***
+
 ***You can do the same* in reverse, and strike ~~something~~ in between.**
+
 `Use grave accents for tiny code or keywords.`
+
 > This is a quote, using a GreaterThan sign.
+
 [This is a link to another Markdown page.](./index.md).
 
 1. Use a number, a dot, and a space
