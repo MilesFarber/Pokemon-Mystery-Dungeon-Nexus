@@ -8,6 +8,8 @@ This is text one linebreak below. It will appear on the same line.
 
 This is text TWO linebreaks below. It will NOT appear on the same line.
 
+~~This is striked text, delet this.🔫~~
+
 *This is italic text, using one asterisk.*
 
 _You can also use one underscore._
