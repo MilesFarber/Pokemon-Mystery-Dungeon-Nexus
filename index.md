@@ -1,123 +1,70 @@
 ---
 layout: default
 ---
+# Hi, this is a Markdown header
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+This is text.
+*This is italic text, using one asterisk.*
+_You can also use one underscore._
+**This is bold text, using two asterisks.**
+*This is italic, but you can add **two asterisks to turn the italic bold, and end both with three asterisks.***
+***You can do the same* in reverse, and strike ~~something~~ in between.**
+`Use grave accents for tiny code or keywords.`
+> This is a quote, using a GreaterThan sign.
+[This is a link to another Markdown page.](./index.md).
 
-[Link to another page](./another-page.html).
+1. Use a number, a dot, and a space
+2. To make an ordered list.
 
-There should be whitespace between paragraphs.
+1. You can use 1
+1. For every row
+1. To allow Markdown
+1. To number the list
+1. Automatically.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* Use an asterisk and a space
+* To make an unordered list.
 
-# Header 1
+- You can also
+- Use a dash.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* Use tabs
+  * To add layers
+    * To the unordered list.
 
-## Header 2
+Asterisk, space, asterisk, space, asterisk...
+* * *
+...creates a horizontal rule.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+| Head 1              | Head Two            |
+|:--------------------|:--------------------|
+| Use line above      | To set length.      |
+| Use monospace fonts | To avoid confusion. |
 
-### Header 3
+This is a smol image.
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+This is a lorge image.
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ```js
-// Javascript code with syntax highlighting.
+// Use three grave accents and the language to create code blocks. Here's some meme javascript.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+```md
+Specify md or no language to display normal text. Long lines outside of code blocks wrap around, but long lines inside code blocks do not. This is a long enough text to demonstrate this. Did you know that in terms of Human to Pokemon breeding Vaporeon is- ok sorry.
 ```
 
-#### Header 4
+## This is a smaller header
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### An even smaller header
 
-##### Header 5
+#### so smol
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+##### pls halp
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+###### a
