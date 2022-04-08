@@ -53,10 +53,11 @@ Asterisk, space, asterisk, space, asterisk...
 | Use monospace fonts | To avoid confusion. |
 
 This is a smol image.
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
 This is a lorge image.
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+![Branching](https://static.f-list.net/images/charinline/a0/ce/a0ceb589e437b739a897f116d9e9065a62d338bf.png)
 
 ```js
 // Use three grave accents and the language to create code blocks. Here's some meme javascript.
