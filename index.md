@@ -24,7 +24,16 @@ _You can also use one underscore._
 
 > This is a quote, using a GreaterThan sign.
 
-[This is a link to another Markdown page](./index.md)
+[This is a link to another local Markdown page](./index.md)
+
+[This is a link to another webpage.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+Add ! at the beginning to embed. This is a smol image one line below.
+![Possum](https://static.f-list.net/images/avatar/tokumei%20kii.png)
+
+This is a lorge image two lines below.
+
+![Bigger Possum](https://static.f-list.net/images/charinline/a0/ce/a0ceb589e437b739a897f116d9e9065a62d338bf.png)
 
 1. Use a number, a dot, and a space
 2. To make an ordered list.
@@ -54,12 +63,7 @@ Asterisk, space, asterisk, space, asterisk...
 | Use line above      | To set length.      |
 | Use monospace fonts | To avoid confusion. |
 
-This is a smol image.
-![Octocat](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
-This is a lorge image.
-
-![Branching](https://static.f-list.net/images/charinline/a0/ce/a0ceb589e437b739a897f116d9e9065a62d338bf.png)
 
 ```js
 // Use three grave accents and the language to create code blocks. Here's some meme javascript.
