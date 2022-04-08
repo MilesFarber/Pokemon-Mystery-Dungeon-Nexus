@@ -1,2 +1,0 @@
-# Zeitgeist
-[REDACTED]
