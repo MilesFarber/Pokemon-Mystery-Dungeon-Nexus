@@ -8,7 +8,7 @@ This is text one linebreak below. It will appear on the same line.
 
 This is text TWO linebreaks below. It will NOT appear on the same line.
 
-~~This is striked text, delet this.🔫~~
+~~This is striked text, using two tildes, delet this.🔫~~
 
 *This is italic text, using one asterisk.*
 
@@ -26,29 +26,31 @@ _You can also use one underscore._
 
 [This is a link to another local Markdown page](./index.md)
 
+[This is a link to another local webpage](./Zeitgeist.url)
+
 [This is a link to another webpage.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Add ! at the beginning to embed. This is a smol image one line below.
 ![Possum](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
-This is a lorge image two lines below.
+This is a l o r g e image two lines below.
 
 ![Bigger Possum](https://static.f-list.net/images/charinline/a0/ce/a0ceb589e437b739a897f116d9e9065a62d338bf.png)
 
 1. Use a number, a dot, and a space
 2. To make an ordered list.
 
+* Use an asterisk and a space
+* To make an unordered list.
+
+- You can also
+- Use a dash instead.
+
 1. You can use 1
 1. For every row
 1. To allow Markdown
 1. To number the list
 1. Automatically.
-
-* Use an asterisk and a space
-* To make an unordered list.
-
-- You can also
-- Use a dash.
 
 * Use tabs
   * To add layers
@@ -62,8 +64,6 @@ Asterisk, space, asterisk, space, asterisk...
 |:--------------------|:--------------------|
 | Use line above      | To set length.      |
 | Use monospace fonts | To avoid confusion. |
-
-
 
 ```js
 // Use three grave accents and the language to create code blocks. Here's some meme javascript.
