@@ -26,8 +26,6 @@ _You can also use one underscore._
 
 [This is a link to another local Markdown page](./index.md)
 
-[This is a link to another local webpage](./Zeitgeist.url)
-
 [This is a link to another webpage.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Add ! at the beginning to embed. This is a smol image one line below.
