@@ -18,7 +18,7 @@ _You can also use one underscore._
 
 *This is italic, but you can add **two asterisks to turn the italic bold, and end both with three asterisks.***
 
-***You can do the same* in reverse, and strike ~~something~~ in between.**
+*~~You can do the same~~ in reverse, and **even** in between.**
 
 `Use grave accents for tiny code or keywords.`
 
