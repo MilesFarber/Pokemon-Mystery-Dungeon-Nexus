@@ -28,6 +28,8 @@ _You can also use one underscore._
 
 [This is a link to another webpage.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+[You can link files too. If they can't display on a browser window, a download will start.](https://static.f-list.net/images/avatar/tokumei%20kii.png)
+
 Add ! at the beginning to embed. This is a smol image one line below.
 ![Possum](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
