@@ -18,7 +18,7 @@ _You can also use one underscore._
 
 *This is italic, but you can add **two asterisks to turn the italic bold, and end both with three asterisks.***
 
-*~~You can do the same~~ in reverse, and **even** in between.**
+*~~You can do the same~~ in reverse, and **even** in between.*
 
 `Use grave accents for tiny code or keywords.`
 
@@ -28,7 +28,7 @@ _You can also use one underscore._
 
 [This is a link to another webpage.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[You can link files too. If they can't display on a browser window, a download will start.](https://static.f-list.net/images/avatar/tokumei%20kii.png)
+[You can link files too. If the file can't display on a browser window, a download will start.](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
 Add ! at the beginning to embed. This is a smol image one line below.
 ![Possum](https://static.f-list.net/images/avatar/tokumei%20kii.png)
@@ -43,8 +43,8 @@ This is a l o r g e image two lines below.
 * Use an asterisk and a space
 * To make an unordered list.
 
-- You can also
-- Use a dash instead.
+- You can also use
+- A dash and space instead.
 
 1. You can use 1
 1. For every row
@@ -66,7 +66,7 @@ Asterisk, space, asterisk, space, asterisk...
 | Use monospace fonts | To avoid confusion. |
 
 ```js
-// Use three grave accents and the language to create code blocks. Here's some meme javascript.
+// Use three grave accents and the language to create code blocks. Here's some meme js.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
