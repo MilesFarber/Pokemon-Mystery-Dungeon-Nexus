@@ -20,9 +20,11 @@ _You can also use one underscore._
 
 *~~You can do the same~~ in reverse, and **even** in between.*
 
-`Use grave accents for tiny code or keywords.`
-
 > This is a quote, using a GreaterThan sign.
+
+<sub>Smol text at the bottom using HTML subscript tags.</sub>
+
+<sup>Smol text at the top using HTML superscript tags.</sup>
 
 [This is a link to another local Markdown page](./index.md)
 
@@ -65,6 +67,10 @@ Asterisk, space, asterisk, space, asterisk...
 | Use line above      | To set length.      |
 | Use monospace fonts | To avoid confusion. |
 
+`Use grave accents for tiny code or keywords.`
+
+Putting HEX codes such as `#9933FF` or `rgb(153, 51, 255)` displays a color.
+
 ```js
 // Use three grave accents and the language to create code blocks. Here's some meme js.
 var fun = function lang(l) {
@@ -76,6 +82,8 @@ var fun = function lang(l) {
 ```md
 Specify md or no language to display normal text. Long lines outside of code blocks wrap around, but long lines inside code blocks do not. This is a long enough text to demonstrate this. Did you know that in terms of Human to Pokemon breeding Vaporeon is- ok sorry.
 ```
+
+
 
 ## This is a smaller header
 
