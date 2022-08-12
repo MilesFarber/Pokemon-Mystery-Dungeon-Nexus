@@ -1,6 +1,6 @@
 # CSV Test
 
-{% assign row = site.data.authors[0] %}
+{% assign row = site.data.profiles[0] %}
 {% for pair in row %}
   {{ pair | inspect }}
 {% endfor %}
