@@ -2,7 +2,7 @@
 title: Table test
 ---
 
-{% assign row = site.data.authors[0] %}
+{% assign row = site.data.profiles[0] %}
 {{ row | inspect }}
 
 {% assign row = site.data.profiles[0] %}
