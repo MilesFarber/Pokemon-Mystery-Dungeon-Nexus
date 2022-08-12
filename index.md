@@ -73,8 +73,6 @@ To add a Label to the collapse, add the HTML tags `summary` and `/summary` on th
 
 `Use grave accents for tiny code or keywords.`
 
-Putting HEX codes such as `#9933FF` or `rgb(153, 51, 255)` between grave accents displays a color.
-
 ```js
 // Use three grave accents and the language to create code blocks. Here's some meme js.
 var fun = function lang(l) {
@@ -97,21 +95,24 @@ To create a link, put the name of the link between square parentheses, then put 
 
 Add ! at the beginning before the square parenthesis to embed.
 
-This is a smol image one line below.
+This is a smol PNG one line below.
 ![Possum](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
-This is a l o r g e image two lines below.
+This is a l o r g e PNG two lines below.
 
 ![Bigger Possum](https://static.f-list.net/images/charinline/a0/ce/a0ceb589e437b739a897f116d9e9065a62d338bf.png)
 
+[This is a CSV file.](./Data/Profiles.csv)
+
 Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, .LOG, .DOCX, .PPTX, .XLSX, .TXT, .PDF, .ZIP, or .GZ.
+
 Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop (x86) Chromium and Firefox.
 
 ## This is a smaller header
 
 ### An even smaller header
 
-#### so smol
+#### So smol
 
 ##### pls halp
 
