@@ -1,4 +1,9 @@
-#CSV Test
+# CSV Test
+
+{% assign row = site.data.authors[0] %}
+{% for pair in row %}
+  {{ pair | inspect }}
+{% endfor %}
 
 <table>
   {% for row in site.data.profiles %}
