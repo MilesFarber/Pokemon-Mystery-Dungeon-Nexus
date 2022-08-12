@@ -10,6 +10,16 @@ title: Table test
   {{ pair | inspect }}
 {% endfor %}
 
+<ul>
+{% for member in site.data.test %}
+  <li>
+    <a href="https://github.com/{{ member.github }}">
+      {{ member.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
 <table>
   <thead>
   {% for row in site.data.test %}
