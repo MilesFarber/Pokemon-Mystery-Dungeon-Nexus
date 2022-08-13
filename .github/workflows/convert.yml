@@ -25,4 +25,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Rename file 
-        run: mv _data/*.csv Data/*.md
+        run: mv _data/*.csv markdown/*.md
