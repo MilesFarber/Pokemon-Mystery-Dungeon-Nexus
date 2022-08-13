@@ -106,9 +106,9 @@ Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop 
 |Use vertical bars to create a table.| Use monospace fonts to avoid confusion.|
 |Cells can vary in width| And do not need to be perfectly aligned within columns.|
 
-| Left | Center | Right |
-| :- | :-: | -: |
-| To tell text where to align | Use :- :-: or -: | On the second row. |
+|Left|Center|Right|
+|:-|:-:|-:|
+|To tell text where to align|Use :- :-: or -:|On the second row.|
 
 {% assign row = site.data.test[0] %}
 {% for row in site.data.test %}{% if forloop.first %}{% for pair in row %}|{{ pair[0] }}{% endfor %}{% endif %}|
