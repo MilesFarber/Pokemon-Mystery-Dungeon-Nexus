@@ -11,7 +11,6 @@ title: Table test
 {% endfor %}
 
 <table>
-  <thead>
   {% for row in site.data.authors %}
     {% if forloop.first %}
     <tr>
@@ -20,11 +19,8 @@ title: Table test
       {% endfor %}
     </tr>
     {% endif %}
-  </thead>
-  <tbody>
     {% tablerow pair in row %}
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
-  </tbody>
 </table>
