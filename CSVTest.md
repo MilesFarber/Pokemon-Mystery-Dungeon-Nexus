@@ -5,16 +5,22 @@ title: Table test
 {% assign row = site.data.test[0] %}
 {{ row | inspect }}
 
+* * *
+
 {% assign row = site.data.test[0] %}
 {% for pair in row %}
   {{ pair | inspect }}
 {% endfor %}
+
+* * *
 
 <ul>
 {% for row in site.data.test %}
   <li>{{ pair[0] }}-{{ pair[1] }}</li>
 {% endfor %}
 </ul>
+
+* * *
 
 <table>
   <thead>
@@ -28,6 +34,8 @@ title: Table test
     {% endif %}
   </thead>
 
+* * *
+
   <tbody>
     {% tablerow pair in row %}
       {{ pair[1] }}
@@ -35,6 +43,8 @@ title: Table test
   {% endfor %}
   </tbody>
 </table>
+
+* * *
 
 <table>
     <thead>
