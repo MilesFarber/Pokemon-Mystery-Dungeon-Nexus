@@ -1,7 +1,4 @@
----
-layout: default
----
-# Hi, this is a Markdown header
+# Markdown
 
 This is text.
 This is text one linebreak below. It will appear on the same line.
@@ -30,6 +27,18 @@ Smol text at the <sup>top</sup> using HTML superscript tags.
 
 <!-- Bruh. -->
 
+# Use a number sign to create a header
+
+## Add more number signs to make smaller headers
+
+### An even smaller header
+
+#### So smol
+
+##### pls halp
+
+###### a
+
 1. Use a number, a dot, and a space
 2. To make an ordered list.
 
@@ -52,27 +61,6 @@ Smol text at the <sup>top</sup> using HTML superscript tags.
 Asterisk, space, asterisk, space, asterisk...
 * * *
 ...creates a horizontal rule.
-
-| Head 1 | Head Two |
-| --- | --- |
-| Use vertical bars to create a table. | Use monospace fonts to avoid confusion. |
-| Cells can vary in width | And do not need to be perfectly aligned within columns. |
-| There must be at least three hyphens | In each column of the header row. |
-| ![Possum](https://static.f-list.net/images/avatar/tokumei%20kii.png) | Images and [Links](./index.md) can embed? |
-
-| But what | if |
-| - | - |
-| I only use | One hyphen |
-
-| But what | if |
-| I don't use | hyphens |
-
-|But what if|I don't use|
-|Any spaces|At all|
-
-| Beginning | Both | End |
-| :- | :-: | -: |
-| Add colons around the hyphens as described above | To tell the text | Where to align |
 
 <details><summary>This is a Collapse with a Label.</summary>
 <p>
@@ -115,19 +103,16 @@ Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, 
 
 Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop (x86) Chromium and Firefox.
 
+|Use vertical bars to create a table.| Use monospace fonts to avoid confusion.|
+|Cells can vary in width| And do not need to be perfectly aligned within columns.|
+
+| Left | Center | Right |
+| :- | :-: | -: |
+| To tell text where to align | Use :- :-: or -: | On the second row. |
+
 {% assign row = site.data.test[0] %}
 {% for row in site.data.test %}{% if forloop.first %}{% for pair in row %}|{{ pair[0] }}{% endfor %}{% endif %}|
 {% for pair in row %}|{{ pair[1] }}{% endfor %}{% endfor %}|
-
-## This is a smaller header
-
-### An even smaller header
-
-#### So smol
-
-##### pls halp
-
-###### a
 
 You can use footnotes with a caret and a number, between square brackets[^1].
 You can also use whatever name you want instead of a number.[^Name]
