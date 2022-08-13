@@ -11,12 +11,8 @@ title: Table test
 {% endfor %}
 
 <ul>
-{% for member in site.data.test %}
-  <li>
-    <a href="https://github.com/{{ member.github }}">
-      {{ member.name }}
-    </a>
-  </li>
+{% for row in site.data.test %}
+  <li>{{ pair[0] }}-{{ pair[1] }}</li>
 {% endfor %}
 </ul>
 
