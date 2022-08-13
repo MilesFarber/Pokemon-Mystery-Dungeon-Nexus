@@ -1,3 +1,3 @@
 # Index
 
-[Markdown Tutorial](./markdown.md)
+[Markdown Tutorial](./Markdown.md)
