@@ -27,7 +27,7 @@ Smol text at the <sup>top</sup> using HTML superscript tags.
 
 <!-- Bruh. -->
 
-# Use a number sign to create a header
+# Use a number sign to create a linkable header
 
 ## Add more number signs to make smaller headers
 
@@ -39,10 +39,10 @@ Smol text at the <sup>top</sup> using HTML superscript tags.
 
 ###### a
 
-1. Use a number, a dot, and a space
+1. Use a number, a period, and space
 2. To make an ordered list.
 
-* Use an asterisk and a space
+* Use an asterisk and space
 * To make an unordered list.
 
 - You can also use
@@ -60,9 +60,9 @@ Smol text at the <sup>top</sup> using HTML superscript tags.
 
 Asterisk, space, asterisk, space, asterisk...
 * * *
-...creates a horizontal rule.
+...creates a horizontal bar.
 
-<details><summary>This is a Collapse with a Label.</summary>
+<details><summary>This is a clickable Collapse with a Label.</summary>
 <p>
 To create a Collapse, use the HTML tag `details`, then `p`, then `/p`, then `/details`, between LessThan and GreaterThan signs. To add a Label to the collapse, add the HTML tags `summary` and `/summary` on the right of the `details` HTML tag. Collapses aren't recommended because they can't embed many things and require extra clicks to read the content.
 </p>
@@ -79,14 +79,14 @@ var fun = function lang(l) {
 ```
 
 ```md
-Specify md or no language to display normal text. Long lines outside of code blocks wrap around, but long lines inside code blocks do not. This is a long enough text to demonstrate this. Did you know that in terms of Human to Pokemon breeding Vaporeon is- ok sorry.
+Specify md to display normal text. Long lines outside of code blocks wrap around, but long lines inside code blocks do not. This is a long enough text to demonstrate this. Did you know that in terms of Human to Pokemon breeding Vaporeon is- ok sorry.
 ```
 
-To create a link, put the name of the link between square parentheses, then put the link between round parentheses, with no spaces.
+To create a link, put the name of the link between square parentheses, then put the link itself between round parentheses, with no spaces.
 
 [This is a link to a local Markdown page.](./index.md)
 
-[This is a link to another webpage.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[This is a link to another webpage.](https://en.wikipedia.org/wiki/Mesothelioma)
 
 [You can link files too. If the file can't display on a browser window, a download will start.](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
@@ -98,6 +98,10 @@ This is a smol PNG one line below.
 This is a l o r g e PNG two lines below.
 
 ![Bigger Possum](https://static.f-list.net/images/charinline/a0/ce/a0ceb589e437b739a897f116d9e9065a62d338bf.png)
+
+You can even embed Youtube videos.
+
+![Funny Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, .LOG, .TXT, .PDF, or .ZIP.
 
@@ -114,7 +118,7 @@ Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop 
 {% for row in site.data.test %}{% if forloop.first %}{% for pair in row %}|{{ pair[0] }}{% endfor %}{% endif %}|
 {% for pair in row %}|{{ pair[1] }}{% endfor %}{% endfor %}|
 
-You can use footnotes with a caret and a number, between square brackets[^1].
+You can make footnotes with a caret and a number, between square brackets[^1].
 You can also use whatever name you want instead of a number.[^Name]
 
 [^1]: Add a colon (NOT semicolon) to invoke the footnote, make sure it's at the bottom of the page and at the beginning of the line.
