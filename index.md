@@ -60,6 +60,13 @@ Asterisk, space, asterisk, space, asterisk...
 | There must be at least three hyphens | In each column of the header row. |
 | ![Possum](https://static.f-list.net/images/avatar/tokumei%20kii.png) | Images and [Links](./index.md) can embed? |
 
+| But what | if |
+| - | - |
+| I only use | One hyphen |
+
+| But what | if |
+| I don't use | hyphens |
+
 | Beginning | Both | End |
 | :--- | :---: | ---: |
 | Add colons around the hyphens as described above | To tell the text | Where to align |
