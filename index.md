@@ -131,16 +131,7 @@ Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop 
   {% endfor %}
 </table>
 
-{% for row in site.data.test %}
-  {% if forloop.first %}
-    {% for pair in row %}
-      |{{ pair[0] }}|
-    {% endfor %}
-  {% endif %}
-  {% for pair in row %}
-    |{{ pair[1] }}|
-  {% endfor %}
-{% endfor %}
+{% for row in site.data.test %}{% if forloop.first %}{% for pair in row %}|{{ pair[0] }}|{% endfor %}{% endif %}{% for pair in row %}|{{ pair[1] }}|{% endfor %}{% endfor %}
 
 ## This is a smaller header
 
