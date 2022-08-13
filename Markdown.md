@@ -86,11 +86,13 @@ To create a link, put the name of the link between square parentheses, then put 
 
 [This is a link to a local Markdown page.](./index.md)
 
-[This is a link to another webpage.](https://en.wikipedia.org/wiki/Mesothelioma)
+![This is an embed to a local Markdown page.](./index.md)
+
+[This is a link to another webpage.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [You can link files too. If the file can't display on a browser window, a download will start.](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
-Add ! at the beginning before the square parenthesis to embed.
+Add ! at the beginning before the square parenthesis to embed a file. You cannot embed pages.
 
 This is a smol PNG one line below.
 ![Possum](https://static.f-list.net/images/avatar/tokumei%20kii.png)
@@ -98,10 +100,6 @@ This is a smol PNG one line below.
 This is a l o r g e PNG two lines below.
 
 ![Bigger Possum](https://static.f-list.net/images/charinline/a0/ce/a0ceb589e437b739a897f116d9e9065a62d338bf.png)
-
-You can even embed Youtube videos.
-
-![Funny Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, .LOG, .TXT, .PDF, or .ZIP.
 
