@@ -7,7 +7,7 @@ title: Table test
 
 * * *
 
-{% assign row = site.data.test[0] %}
+{% assign row = site.data.authors[0] %}
 {% for pair in row %}
   {{ pair | inspect }}
 {% endfor %}
@@ -15,7 +15,7 @@ title: Table test
 * * *
 
 <ul>
-{% for row in site.data.test %}
+{% for row in site.data.authors %}
   <li>{{ pair[0] }}-{{ pair[1] }}</li>
 {% endfor %}
 </ul>
@@ -24,7 +24,7 @@ title: Table test
 
 <table>
   <thead>
-  {% for row in site.data.test %}
+  {% for row in site.data.authors %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
