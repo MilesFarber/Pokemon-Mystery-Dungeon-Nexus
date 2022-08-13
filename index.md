@@ -58,6 +58,7 @@ Asterisk, space, asterisk, space, asterisk...
 | Use vertical bars to create a table. | Use monospace fonts to avoid confusion. |
 | Cells can vary in width | And do not need to be perfectly aligned within columns. |
 | There must be at least three hyphens | In each column of the header row. |
+| ![Possum](https://static.f-list.net/images/avatar/tokumei%20kii.png) | Images and [Links](./index.md) can embed? |
 
 | Beginning | Both | End |
 | :--- | :---: | ---: |
