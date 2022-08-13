@@ -67,8 +67,11 @@ Asterisk, space, asterisk, space, asterisk...
 | But what | if |
 | I don't use | hyphens |
 
+|But what if|I don't use|
+|Any spaces|At all|
+
 | Beginning | Both | End |
-| :--- | :---: | ---: |
+| :- | :-: | -: |
 | Add colons around the hyphens as described above | To tell the text | Where to align |
 
 <details><summary>This is a Collapse with a Label.</summary>
