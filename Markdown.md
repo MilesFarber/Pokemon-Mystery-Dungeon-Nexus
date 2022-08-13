@@ -86,13 +86,11 @@ To create a link, put the name of the link between square parentheses, then put 
 
 [This is a link to a local Markdown page.](./index.md)
 
-![This is an embed to a local Markdown page.](./index.md)
-
 [This is a link to another webpage.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [You can link files too. If the file can't display on a browser window, a download will start.](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
-Add ! at the beginning before the square parenthesis to embed a file. You cannot embed pages.
+Add ! at the beginning before the square parenthesis to embed. You cannot embed links or webpages, only files.
 
 This is a smol PNG one line below.
 ![Possum](https://static.f-list.net/images/avatar/tokumei%20kii.png)
