@@ -66,9 +66,7 @@ Asterisk, space, asterisk, space, asterisk...
 
 <details><summary>This is a Collapse with a Label.</summary>
 <p>
-To create a Collapse, use the HTML tag `details`, then `p`, then `/p`, then `/details`, between LessThan and GreaterThan signs.
-
-To add a Label to the collapse, add the HTML tags `summary` and `/summary` on the right of the `details` HTML tag.
+To create a Collapse, use the HTML tag `details`, then `p`, then `/p`, then `/details`, between LessThan and GreaterThan signs. To add a Label to the collapse, add the HTML tags `summary` and `/summary` on the right of the `details` HTML tag. Collapses aren't recommended because they can't embed many things and require extra clicks to read the content.
 </p>
 </details>
 
