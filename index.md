@@ -106,6 +106,22 @@ Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, 
 
 Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop (x86) Chromium and Firefox.
 
+{% assign row = site.data.test[0] %}
+<table>
+  {% for row in site.data.test %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+
 ## This is a smaller header
 
 ### An even smaller header
