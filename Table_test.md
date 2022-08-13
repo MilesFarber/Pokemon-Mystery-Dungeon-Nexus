@@ -3,12 +3,6 @@ title: Table test
 ---
 
 {% assign row = site.data.authors[0] %}
-{{ row | inspect }}
-
-{% assign row = site.data.authors[0] %}
-{% for pair in row %}
-  {{ pair | inspect }}
-{% endfor %}
 
 <table>
   {% for row in site.data.authors %}
