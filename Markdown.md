@@ -97,6 +97,8 @@ This is a smol PNG one line below.
 
 ![](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
+!(https://static.f-list.net/images/avatar/tokumei%20kii.png)
+
 This is a l o r g e PNG two lines below.
 
 ![Bigger Possum](https://static.f-list.net/images/charinline/a0/ce/a0ceb589e437b739a897f116d9e9065a62d338bf.png)
