@@ -107,8 +107,8 @@ Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, 
 
 Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop (x86) Chromium and Firefox.
 
-|Use vertical bars to create a table.| Use monospace fonts to avoid confusion.|
-|Cells can vary in width| And do not need to be perfectly aligned within columns.|
+|Use vertical bars to create a table.|Use monospace fonts to avoid confusion.|
+|Cells can vary in width|And do not need to be perfectly aligned within columns.|
 
 |Left|Center|Right|
 |:-|:-:|-:|
