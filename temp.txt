@@ -1,0 +1,345 @@
+==List of food items==
+{{Item
+|name=Tiny Apple
+|jp=ちいさなリンゴ
+|jpt=Tiny Apple
+|mdex=yes
+|gen=VIII
+|bag=MD
+|sprite=Tiny Apple RTDX
+|effect=A food item that restores 20 {{DL|Statistic|Belly}}. If eaten while full, maximum Belly goes up by 5.
+|descmdrtdx=Eating this fills your Belly a little tiny bit. If you eat it when your Belly is full, it increases your Belly's capacity ever so slightly during that adventure.
+|locmdrtdx=Various dungeons with Food Finder [[rare quality]]
+}}
+{{Item
+|name=Apple
+|jp=リンゴ
+|jpt=Apple
+|gen=III
+|mdex=yes
+|sprite=Apple VI
+|sprite2=Apple Fresh VI
+|bag=MD
+|buyable=yes
+|buy=25{{tt|*|Rescue Team and Explorers}}
+|buy2=100{{tt|*|Gates to Infinity}}
+|buy3=20{{tt|*|Super Mystery Dungeon}}
+|sell=1
+|sellnotes=Rescue Team and Explorers
+|sell2=10
+|sellnotes2=Gates to Infinity
+|sell3=100
+|sellnotes3=Super Mystery Dungeon, fresh
+|sell4=2
+|sellnotes4=Super Mystery Dungeon, not fresh
+|currencybuy=[[File:Poké currency.png|link=Poké]]
+|currencybuy2=[[File:Poké currency V.png|link=Poké]]
+|currencybuy3=[[File:Poké currency VI Sprite.png|link=Poké]]
+|currencysell=[[File:Poké currency.png|link=Poké]]
+|currencysell2=[[File:Poké currency V.png|link=Poké]]
+|currencysell3=[[File:Poké currency VI Sprite.png|link=Poké]]
+|currencysell4=[[File:Poké currency VI Sprite.png|link=Poké]]
+|effect=A food item that restores 50 {{DL|Statistic|Belly}}. If eaten while full, maximum Belly goes up by 5{{sup/md|RB}}{{sup/md|TDS}}/3{{sup/md|Gti}}.
+|descmdrb=A food item that somewhat fills the Pokémon's Belly. Eating this when its Belly is full will slightly enlarge its Belly size.
+|descmdtds=A food item that somewhat fills the Pokémon's Belly. If the Pokémon already has a full Belly, it will slightly enlarge its Belly size.
+|descmdgti=It somewhat fills the Pokémon's Belly. If the Pokémon's Belly is already full, it will slightly enlarge is Belly size.
+|descsmd=It's a very fresh Apple. Eating it somewhat fills your Belly. If you eat it when your Belly is full, it increases your Belly's capacity slightly. A fresh Apple can be sold for a higher price. It'll be an Apple after a while.{{tt|*|Fresh Apples}}<br>Eating it somewhat fills your Belly. If you eat it when your Belly is full, it increases your Belly's capacity slightly.{{tt|*|Non-fresh Apples}}
+|descmdrtdx=Eating this fills your Belly a bit. If you eat it when your Belly is full, it increases your Belly's capacity slightly during that adventure.
+|locmdrb=[[Thunderwave Cave]], [[Sinister Woods]], [[Silent Chasm]], [[Mt. Thunder]]{{tt|*|first part only}}, [[Great Canyon]], [[Lapis Cave]], [[Frosty Forest]]{{tt|*|first part only}}, [[Mt. Freeze]]{{tt|*|first part only}}, [[Magma Cavern]]{{tt|*|first part only}}, [[Sky Tower]]{{tt|*|first part only}}, [[Uproar Forest]], [[Howling Forest]], [[Fiery Field]], [[Lightning Field]], [[Northwind Field]], [[Buried Relic]], [[Purity Forest]], [[Oddity Cave]], [[Remains Island]], [[Makuhita Dojo]]{{tt|*|Team Mazes}}<br/>[[Kecleon Shop]] ([[Mt. Blaze]], Frosty Forest, Magma Cavern, [[Northern Range]], [[Pitfall Valley]], [[Desert Region]], [[Joyous Tower]], Purity Forest, Oddity Cave, Remains Island)<br/>[[Pokémon Square]] shop{{tt|*|before Great Canyon}}
+|locmdtds=[[Kecleon Shop]], [[Treasure Box]]es, job reward (A)<br>All dungeons except [[Beach Cave]], [[Northern Desert]], [[Quicksand Cave]], [[Quicksand Pit]], [[Blizzard Island]], [[Lake Afar]], [[Shimmer Desert]], [[Giant Volcano]], [[World Abyss]], [[Zero Isle North]]
+|locmds=[[Secret Bazaar|Grab Bags]]
+|locmdgti=[[Treat Road]], [[Cape at the Edge]], [[Slumbering Cave]], [[Path of No Return]]
+|locsmd=[[Kecleon Shop]], various dungeons
+}}
+{{Item
+|name=Big Apple
+|jp=おおきなリンゴ
+|jpt=Big Apple
+|gen=III
+|mdex=yes
+|sprite=Apple VI
+|sprite2=Apple Fresh VI
+|bag=MD
+|buyable=yes
+|buy=50{{tt|*|Rescue Team, Explorers, and Super Mystery Dungeon}}
+|buy2=200{{tt|*|Gates to infinity}}
+|sell=1
+|sellnotes=Rescue Team and Explorers
+|sell2=20
+|sellnotes2=Gates to Infinity
+|sell3=250
+|sellnotes3=Super Mystery Dungeon, fresh
+|sell4=5
+|sellnotes4=Super Mystery Dungeon, not fresh
+|currencybuy=[[File:Poké currency.png|link=Poké]]
+|currencybuy2=[[File:Poké currency V.png|link=Poké]]
+|currencysell=[[File:Poké currency.png|link=Poké]]
+|currencysell2=[[File:Poké currency V.png|link=Poké]]
+|currencysell3=[[File:Poké currency VI Sprite.png|link=Poké]]
+|currencysell4=[[File:Poké currency VI Sprite.png|link=Poké]]
+|effect=A food item that restores 100 {{DL|Statistic|Belly}}. If eaten while full, maximum Belly goes up by 10{{sup/md|RB}}{{sup/md|TDS}}/4{{sup/md|Gti}}.
+|descmdrb=A food item that amply fills the Pokémon's Belly.<br>Eating this when its Belly is full will slightly enlarge its Belly size.
+|descmdtds=A food item that amply fills the Pokémon's Belly. If the Pokémon already has a full Belly, it will slightly enlarge its Belly size.
+|descmdgti=It amply fills the Pokémon's Belly. If the Pokémon's Belly is already full, it will slightly enlarge is Belly size.
+|descsmd=It's a very fresh Big Apple! Eating it fills your Belly significantly. If you eat it when your Belly is full, it increases your Belly's capacity slightly. A fresh Big Apple can be sold for a higher price. It'll be a Big Apple after a while.{{tt|*|Fresh Big Apples}}<br>Eating it fills your Belly significantly. If you eat it when your Belly is full, it increases your Belly's capacity slightly.{{tt|*|Non-fresh Big Apples}}
+|descmdrtdx=Eating this fills your Belly a lot. If you eat it when your Belly is full, it increases your Belly's capacity quite a bit during that adventure.
+|locmdrb=[[Rock Path]], [[Snow Path]], [[Southern Cavern]], [[Wyvern Hill]], [[Joyous Tower]], [[Purity Forest]]<br/>[[Kecleon Shop]] ([[Mt. Blaze]], [[Frosty Forest]], [[Magma Cavern]], [[Northern Range]], [[Pitfall Valley]], Wyvern Hill, Joyous Tower, Purity Forest, [[Oddity Cave]], [[Remains Island]])<br/>[[Pokémon Square]] shop{{tt|*|before Great Canyon}}
+|locmdtds=[[Treasure Box]]es, job reward (A)<br>[[Drenched Bluff]], [[Mt. Bristle]], [[Waterfall Cave]], [[Apple Woods]], [[Craggy Coast]], [[Mt. Horn]], [[Serenity River]], [[Amp Plains]], [[Crystal Cave]], [[Crystal Crossing]], [[Landslide Cave]], [[Lush Prairie]], [[Tiny Meadow]], [[Treeshroud Forest]], [[Hidden Land]], [[Temporal Tower]], [[Mystifying Forest]], [[Surrounded Sea]], [[Mt. Travail]], [[Marine Resort]], [[Lake Afar]], [[Happy Outlook]], [[Mt. Mistral]], [[Shimmer Hill]], [[Midnight Forest]], [[Mystery Jungle]], [[Zero Isle East]], [[Zero Isle West]], [[Zero Isle South]]
+|locmds=[[Secret Bazaar|Grab Bags]], [[Prize Ticket]]s, [[Treasure Box]]es, from [[Treasure Memo]] floor<br>[[Sky Peak Mountain Path]], [[Star Cave]], [[Oblivion Forest]], [[Treacherous Waters]], [[Southeastern Islands]], [[Inferno Cave]], [[Destiny Tower (Explorers of Sky)|Destiny Tower]], [[Murky Forest]], [[Fortune Ravine]], [[Spring Cave]], [[Southern Jungle]], [[Boulder Quarry]], [[Right Cave Path]], [[Left Cave Path]], [[Limestone Cavern]]
+|locmdgti=[[Treat Road]], [[Cape at the Edge]], [[Slumbering Cave]], [[Path of No Return]]
+|locsmd=[[Kecleon Shop]], various dungeons
+}}
+{{Item
+|name=Huge Apple
+|jp=とくだいリンゴ
+|jpt=Extra-Large Apple
+|gen=III
+|mdex=yes
+|sprite=Apple VI
+|bag=MD
+|buyable=yes
+|buy=100{{tt|*|Rescue Team}}
+|buy2=450{{tt|*|Explorers}}
+|sell=50
+|sellnotes=Rescue Team
+|sell2=10
+|sellnotes2=Explorers
+|currencybuy=[[File:Poké currency.png|link=Poké]]
+|currencybuy2=[[File:Poké currency.png|link=Poké]]
+|currencysell=[[File:Poké currency.png|link=Poké]]
+|currencysell2=[[File:Poké currency.png|link=Poké]]
+|effect=A food item that fully restores the Pokémon's {{DL|Statistic|Belly}} and increases maximum Belly by 10.
+|descmdrb=A food item that completely fills the Pokémon's Belly.<br>It also slightly enlarges the Belly size.
+|descmdtds=A food item that completely fills the Pokémon's Belly. It also slightly enlarges the Pokémon's Belly size.
+|locmdrb=[[Wish Cave]], [[Joyous Tower]]<br/>[[Kecleon Shop]] ([[Mt. Faraway]], [[Western Cave]])<br/>Buried items ([[Mt. Blaze Peak]], [[Frosty Grotto]], [[Mt. Freeze Peak]], [[Magma Cavern Pit]], [[Lightning Field]], [[Northwind Field]])<br/>[[Pokémon Square]] shop{{tt|*|after Great Canyon}}
+|locmdtds=[[Marine Resort]], [[Mystery Jungle]], [[Zero Isle North]], [[Zero Isle South]], [[Prize Ticket]]
+|locmds=[[Grab Bag]]s, [[Prize Ticket]]s<br>[[Zero Isle Center]]
+}}
+{{Item
+|name=Golden Apple
+|jp=おうごんのリンゴ
+|jpt=Golden Apple
+|gen=IV
+|mdex=yes
+|sprite=Golden Apple VI
+|bag=MD
+|buyable=yes
+|buy=3{{tt|*|Super Mystery Dungeon}}
+|buy2=1600{{tt|*|Super Mystery Dungeon, not usually buyable}}
+|sellable=yes
+|sell=800
+|sellnotes=Super Mystery Dungeon
+|currencybuy=[[File:MDBag Gold Bar VI Sprite.png|17px|Gold Bars]]
+|currencybuy2=[[File:Poké currency VI Sprite.png|link=Poké]]
+|currencysell=[[File:Poké currency VI Sprite.png|link=Poké]]
+|effect=A food item that fully restores the Pokémon's {{DL|Statistic|Belly}} and increases maximum Belly by 50.
+|descmdtds=A miraculous apple that glows with an alluring golden aura. It's far too precious and beautiful to even consider eating! If it were eaten, however, it would completely fill and greatly enlarge the Pokémon's Belly.
+|descsmd=It's one of the {{DL|Treasure Collection|Golden Items}}, with a golden glow. They say eating it totally fills your Belly and also increases your Belly's capacity significantly during the adventure.
+|locmdtds={{DL|Mystery Dungeon|Dungeon structures|Treasure Floor}} item, {{DL|Treasure Box|Deluxe Box}} from [[Golden Chamber]]
+|locsmd=[[World Tree]], [[Glorious Gold]]{{tt|*|Once recorded in Treasure Collection}}
+}}
+{{Item
+|name=Perfect Apple
+|jp=セカイイチ
+|jpt={{wp|Sekai Ichi}}
+|gen=VI
+|mdex=yes
+|bag=MD
+|buyable=yes
+|buy=1000{{tt|*|Not usually buyable}}
+|sell=500
+|sellnotes=Super Mystery Dungeon
+|sell2=50
+|sellnotes2=Rescue Team DX
+|currencybuy=[[File:Poké currency VI Sprite.png|link=Poké]]
+|currencysell=[[File:Poké currency VI Sprite.png|link=Poké]]
+|currencysell2=[[File:Poké currency VI Sprite.png|link=Poké]]
+|effect=A food item that fully restores the Pokémon's {{DL|Statistic|Belly}} and increases maximum Belly by 50.
+|descsmd=Eating it totally fills your Belly. It also increases your Belly's capacity significantly during the adventure.
+|descmdrtdx=Eating this fills your Belly completely, and it increases your Belly's capacity by a lot during that adventure.
+|locsmd=[[Super Apple Forest]]
+|locmdrtdx=Mission reward
+}}
+{{Item
+|name=Banana
+|jp=バナナ
+|jpt=Banana
+|sprite=Banana RTRB
+|gen=III
+|mdex=yes
+|bag=MD
+|buyable=yes
+|buy=9000
+|sell=5000
+|currencybuy=[[File:Poké currency.png|link=Poké]]
+|currencysell=[[File:Poké currency.png|link=Poké]]
+|effect=A food item that restores 50 {{DL|Statistic|Belly}}. If eaten while full, maximum Belly goes up by 5.
+|descmdrb=A rare food item that somewhat fills the Pokémon's Belly.<br>Eating this when its Belly is full will slightly enlarge its Belly size.<br>It is occasionally found inside walls.
+|locmdrb={{OBP|Unknown Dungeon|Mystery Dungeon}}<br/>Buried items ([[Mt. Blaze Peak]], [[Frosty Grotto]], [[Mt. Freeze Peak]], [[Magma Cavern Pit]])
+|locmdww=Unknown
+}}
+{{Item
+|name=Golden Banana
+|jp=おうごんのバナナ
+|jpt=Golden Banana
+|gen=VI
+|genex=yes
+|mdex=yes
+|sprite=Golden Banana VI
+|bag=MD
+|buyable=yes
+|buy=35
+|buy2=6000{{tt|*|Not usually buyable}}
+|currencybuy=[[File:MDBag Gold Bar VI Sprite.png|17px|Gold Bars]]
+|currencybuy2=[[File:Poké currency VI Sprite.png|link=Poké]]
+|currencysell=[[File:Poké currency VI Sprite.png|link=Poké]]
+|sell=1200
+|effect=A food item that raises the user's [[level]] by 5.
+|descsmd=It's one of the {{DL|Treasure Collection|Golden Items}}, with a golden glow. They say eating it raises your level by 5.
+|locsmd=[[Fossil Excavation]], [[Glorious Gold]]{{tt|*|Once recorded in Treasure Collection}}
+}}
+{{Item
+|name=Chestnut
+|jp=イガグリ
+|jpt=Chestnut
+|sprite=Chestnut RTRB
+|gen=III
+|mdex=yes
+|bag=MD
+|buyable=yes
+|buy=3{{tt|*|Rescue Team}}
+|buy2=1000{{tt|*|Rescue Team DX}}
+|sell=1
+|sellnotes=Rescue Team
+|sell2=100
+|sellnotes2=Rescue Team DX
+|currencybuy2=[[File:Poké currency VI Sprite.png|link=Poké]]
+|currencybuy=[[File:Poké currency.png|link=Poké]]
+|currencysell2=[[File:Poké currency.png|link=Poké]]
+|currencysell=[[File:Poké currency.png|link=Poké]]
+|effect=A food item that restores 50 {{DL|Statistic|Belly}}. If eaten while full, maximum Belly goes up by 5.
+|descmdrb=A food item that somewhat fills the Pokémon's Belly.<br>{{p|Mankey}} love to eat this.
+|descmdrtdx=Mankey's favorite. Eating this fills your Belly a bit. If you eat it when your Belly is full, it increases your Belly's capacity slightly during that adventure.
+|locmdrb=[[Uproar Forest]]
+|locmdww=Unknown
+}}
+{{Item
+|name=Donut
+|jp=ドーナツ
+|jpt=Donut
+|gen=V
+|genex=yes
+|mdex=yes
+|bag=MD
+|buyable=yes
+|buy=600
+|sell=60
+|currencybuy=[[File:Poké currency V.png|link=Poké]]
+|currencysell=[[File:Poké currency V.png|link=Poké]]
+|effect=A food item that raises a Pokémon's [[experience]] points by 1500.
+|descmdgti=A special donut said to exist only in a certain dungeon. Just eating it gives you Exp. Points. It won't become [[#Grimy Food|Grimy Food]] even if you step on a {{DL|Dungeon tile|Traps|trap}}. The bigger the donut, the better the effect.
+|locmdgti=[[Treat Road]]
+}}
+{{Item
+|name=Mini Donut
+|jp=ミニドーナツ
+|jpt=Mini Donut
+|gen=V
+|genex=yes
+|mdex=yes
+|bag=MD
+|buyable=yes
+|buy=30
+|sell=3
+|currencybuy=[[File:Poké currency V.png|link=Poké]]
+|currencysell=[[File:Poké currency V.png|link=Poké]]
+|effect=A food item that raises a Pokémon's [[experience]] points by 500.
+|descmdgti=A special donut said to exist only in a certain dungeon. Eating it gives you some Exp. Points. It won't become [[#Grimy Food|Grimy Food]] even if you step on a {{DL|Dungeon tile|Traps|trap}}. The bigger the donut, the better the effect.
+|locmdgti=[[Treat Road]]
+}}
+{{Item
+|name=Mega Donut
+|jp=ビッグドーナツ
+|jpt=Big Donut
+|gen=V
+|mdex=yes
+|sprite=Mega Donut VI
+|bag=MD
+|buyable=yes
+|buy=3{{tt|*|Super Mystery Dungeon}}
+|buy2=3000{{tt|*|Super Mystery Dungeon, not usually buyable}}
+|sell=300|sellnotes=Super Mystery Dungeon
+|currencybuy=[[File:MDBag Gold Bar VI Sprite.png|17px|Gold Bars]]
+|currencybuy2=[[File:Poké currency VI Sprite.png|17px|link=Poké]]
+|currencysell=[[File:Poké currency VI Sprite.png|link=Poké]]
+|effect=A food item that raises a Pokémon's [[experience]] points by 5000.{{sup/md|GTI}} <br> A food item that randomly and permanently raises one or more of a Pokémon's stats.{{sup/md|SMD}}
+|descmdgti=A special donut said to exist only in a certain dungeon. Just eating it gives you Exp. Points. It won't become [[#Grimy Food|Grimy Food]] even if you step on a {{DL|Dungeon tile|Traps|trap}}. The bigger the donut, the better the effect.
+|descsmd=Eating it raises your max HP, Attack, Defense, Sp. Atk, Sp. Def, or Speed. The effect lasts even after this adventure. If you're lucky, it raises multiple stats.
+|locmdgti=[[Treat Road]]
+|locsmd=[[Glorious Gold]]
+}}
+{{Item
+|name=Grimy Food
+|jp=ベトベタフード
+|jpt=Sticky Food
+|gen=III
+|mdex=yes
+|sprite=Grimy Food VI
+|bag=MD
+|buyable=yes
+|buy=5{{tt|*|Rescue Team and Explorers}}
+|buy2=6{{tt|*|Super Mystery Dungeon}}
+|sell=1|sellnotes=Rescue Team, Explorers, and Super Mystery Dungeon
+|currencybuy=[[File:Poké currency.png|link=Poké]]
+|currencybuy2=[[File:Poké currency VI Sprite.png|link=Poké]]
+|currencysell=[[File:Poké currency.png|link=Poké]]
+|effect=A food item that restores 30 {{DL|Statistic|Belly}}. Inflicts [[Status condition (Mystery Dungeon)#Conditions affecting mobility|Leg Hold]], {{status|poison}}, {{status|paralysis}}, or {{status|burn}} (sometimes negated by {{a|Gluttony}} or {{DL|IQ|IQ skills|Survivalist}})
+|descmdrb=A food item that somewhat fills the Pokémon's Belly.<br>However, it will cause a variety of status problems.
+|descmdtds=A food item that somewhat fills the Pokémon's Belly but will also inflict a variety of status problems because it's covered in filthy grime. Be careful of what you eat!
+|descmdgti=It somewhat fills the Pokémon's Belly. But it will also cause bad status conditions because it's covered in filthy grime. So don't eat it unless you have to!
+|descsmd=It somewhat fills your Belly. But it will also cause bad status conditions, because it's covered in filthy grime. So don't eat it unless you have to!
+|descmdrtdx=Eating this fills your Belly a bit, but it will give you a bad status, so be forewarned!
+|locmdrb={{DL|Dungeon tile|Effect tile|Grimy Trap}} (holding food)<br/>[[Silver Trench]], [[Darknight Relic]]<br/>[[Kecleon Shop]] ([[Joyous Tower]], [[Purity Forest]])
+|locmdtds={{DL|Dungeon tile|Effect tile|Grimy Trap}} (holding food)<br>[[Northern Desert]], [[Quicksand Cave]], [[Mt. Mistral]], [[Shimmer Desert]], [[Zero Isle East]], [[Zero Isle West]], [[Zero Isle South]]
+|locmds=[[Destiny Tower (Explorers of Sky)|Destiny Tower]]
+|locmdgti=[[Slumbering Cave]]
+|locsmd={{DL|Dungeon tile|Effect tile|Grimy Trap}}, various dungeons
+}}
+{{Item
+|name=Four-Leaf Cookie
+|jp=よつばのクッキー
+|jpt=Four-Leaf Cookie
+|gen=VI
+|mdex=yes
+|bag=MD
+|buyable=yes
+|buy=2{{tt|*|Super Mystery Dungeon}}
+|buy2=3000{{tt|*|Super Mystery Dungeon, not usually buyable}}
+|sell=300|sellnotes=Super Mystery Dungeon
+|currencybuy=[[File:MDBag Gold Bar VI Sprite.png|17px|Gold Bars]]
+|currencybuy2=[[File:Poké currency VI Sprite.png|17px|link=Poké]]
+|currencysell=[[File:Poké currency VI Sprite.png|link=Poké]]
+|effect=A food item that randomly and permanently raises one or more of a Pokémon's [[Statistic|stats]].
+|descsmd=Eating it raises your max HP, Attack, Defense, Sp. Atk, Sp. Def, or Speed. The effect lasts even after this adventure. If you're lucky, it raises multiple stats.
+|locmdww=Unknown
+|locsmd=[[Glorious Gold]]
+}}
+{{Item
+|name=Sweet Chocolate
+|jp=スイートチョコ
+|jpt=Sweet Choco
+|gen=VI
+|mdex=yes
+|bag=MD
+|buyable=yes
+|buy=2{{tt|*|Super Mystery Dungeon}}
+|buy2=3000{{tt|*|Super Mystery Dungeon, not usually buyable}}
+|sell=300|sellnotes=Super Mystery Dungeon
+|currencybuy=[[File:MDBag Gold Bar VI Sprite.png|17px|Gold Bars]]
+|currencybuy2=[[File:Poké currency VI Sprite.png|17px|link=Poké]]
+|currencysell=[[File:Poké currency VI Sprite.png|link=Poké]]
+|effect=A food item that randomly and permanently raises one or more of a Pokémon's [[Statistic|stats]].
+|descsmd=Eating it raises your max HP, Attack, Defense, Sp. Atk, Sp. Def, or Speed. The effect lasts even after this adventure. If you're lucky, it raises multiple stats.
+|locmdww=Unknown
+|locsmd=[[Glorious Gold]]
+}}
