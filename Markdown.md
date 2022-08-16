@@ -84,12 +84,6 @@ Specify md to display normal text. Long lines outside of code blocks wrap around
 
 To create a link, put the name of the link between square parentheses, then put the link itself between round parentheses, with no spaces.
 
-(./index.md)
-
-[](./index.md)
-
-[!](./index.md)
-
 [This is a link to a local Markdown page.](./index.md)
 
 [This is a link to another webpage.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -100,6 +94,8 @@ Add ! at the beginning before the square parenthesis to embed. You cannot embed 
 
 This is a smol PNG one line below.
 ![Possum](https://static.f-list.net/images/avatar/tokumei%20kii.png)
+
+![](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
 This is a l o r g e PNG two lines below.
 
