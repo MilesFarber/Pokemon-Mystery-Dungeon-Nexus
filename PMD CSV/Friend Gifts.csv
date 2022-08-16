@@ -1,0 +1,37 @@
+==Elemental Gifts==
+{{Item,name=Bug Gift,jp=むしギフト,jpt=Bug Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Bug-Type Pokémon when accepted,descmdgti=Give it to a Bug-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=Post main story-line dungeons, [[Kecleon Bazaar]]
+}}
+{{Item,name=Dark Gift,jp=あくギフト,jpt=Evil Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=192,effect=Automatically recruits unevolved Dark-Type Pokémon when accepted,descmdgti=Give it to a Dark-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Dragon Gift,jp=ドラゴンギフト,jpt=Dragon Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Dragon-Type Pokémon when accepted,descmdgti=Give it to a Dragon-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Electric Gift,jp=でんきギフト,jpt=Electric Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Electric-Type Pokémon when accepted,descmdgti=Give it to an Electric-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Fighting Gift,jp=かくとうギフト,jpt=Fighting Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Fighting-Type Pokémon when accepted,descmdgti=Give it to a Fighting-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Fire Gift,jp=ほのおギフト,jpt=Flame Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Fire-Type Pokémon when accepted,descmdgti=Give it to a Fire-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Flying Gift,jp=ひこうギフト,jpt=Flying Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Flying-Type Pokémon when accepted,descmdgti=Give it to a Flying-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Ghost Gift,jp=ゴーストギフト,jpt=Ghost Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=80,effect=Automatically recruits unevolved Ghost-Type Pokémon when accepted,descmdgti=Give it to a Ghost-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Grass Gift,jp=くさギフト,jpt=Grass Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Grass-Type Pokémon when accepted,descmdgti=Give it to a Grass-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Ground Gift,jp=じめんギフト,jpt=Ground Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Ground-Type Pokémon when accepted,descmdgti=Give it to a Ground-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Ice Gift,jp=こおりギフト,jpt=Ice Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Ice-Type Pokémon when accepted,descmdgti=Give it to an Ice-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Normal Gift,jp=ノーマルギフト,jpt=Normal Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Normal-Type Pokémon when accepted,descmdgti=Give it to a Normal-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Poison Gift,jp=どくギフト,jpt=Poison Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Poison-Type Pokémon when accepted,descmdgti=Give it to a Poison-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=Post main-storyline dungeons (including [[Kecleon Bazaar]])
+}}
+{{Item,name=Psychic Gift,jp=エスパーギフト,jpt=Esper Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Psychic-Type Pokémon when accepted,descmdgti=Give it to a Psychic-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Rock Gift,jp=いわギフト,jpt=Rock Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Rock-Type Pokémon when accepted,descmdgti=Give it to a Rock-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Steel Gift,jp=はがねギフト,jpt=Steel Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Steel-Type Pokémon when accepted,descmdgti=Give it to a Steel-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Water Gift,jp=みずギフト,jpt=Water Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Water-Type Pokémon when accepted,descmdgti=Give it to a Water-type Pokémon to become friends. But you can't befriend evolved Pokémon this way.,locmdgti=[[Kecleon Bazaar]]
+}}
+{{Item,name=Premier Gift,jp=プレミアギフト,jpt=Premier Gift,gen=V,sprite=Gift,mdex=yes,bag=MD,buyable=no,sellable=yes,sell=0,effect=Automatically recruits unevolved Pokémon of any type when accepted,descmdgti=,locmdgti=[[Cape at the Edge]] 30F
+}}
