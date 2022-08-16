@@ -84,6 +84,12 @@ Specify md to display normal text. Long lines outside of code blocks wrap around
 
 To create a link, put the name of the link between square parentheses, then put the link itself between round parentheses, with no spaces.
 
+(./index.md)
+
+[](./index.md)
+
+[!](./index.md)
+
 [This is a link to a local Markdown page.](./index.md)
 
 [This is a link to another webpage.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
