@@ -39,6 +39,35 @@ Smol text at the <sup>top</sup> using HTML superscript tags.
 Use a colon one line below to describe a term.
 : Description of the term.
 
+Add `{: .label .label-color }`, replacing color with one of the colors below to create labels.
+
+Blue
+{: .label .label-blue }
+Green
+{: .label .label-green }
+
+Yellow
+{: .label .label-yellow }
+
+
+Red
+{: .label .label-red }
+
+
+
+**Purple and bold!?**
+{: .label .label-purple }
+
+Use `{: .fw-300 }` to set the font weight to 300.
+{: .fw-300 }
+Or 700.
+{: .fw-700 }
+
+Use `{: .fs-1 }` to set the font size to 1.
+{: .fs-1 }
+Or 10.
+{: .fs-10 }
+
 <!- Use HTML comment tags to make something invisible. This is visible because there's only one dash instead of two. ->
 
 <!-- Bruh. -->
@@ -143,33 +172,6 @@ This is a l o r g e PNG two lines below.
 Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, .LOG, .TXT, .PDF, or .ZIP.
 
 Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop (x86) Chromium and Firefox.
-
-Add `{: .label .label-color }`, replacing color with one of the colors below to create labels.
-
-Blue
-{: .label .label-blue }
-
-Green
-{: .label .label-green }
-
-Yellow
-{: .label .label-yellow }
-
-Red
-{: .label .label-red }
-
-**Purple and bold!?**
-{: .label .label-purple }
-
-Use `{: .fw-100 }` to set the font weight to 100.
-{: .fw-100 }
-Or 1000.
-{: .fw-1000 }
-
-Use `{: .fs-1 }` to set the font size to 1.
-{: .fs-1 }
-Or 10.
-{: .fs-10 }
 
 |Use vertical bars to create a table.|Use monospace fonts to avoid confusion.|
 |Cells can vary in width|And do not need to be perfectly aligned within columns.|
