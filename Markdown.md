@@ -11,6 +11,7 @@ title: Markdown
 permalink: Markdown
 ---
 ```
+[***Old Version***](https://just-the-docs.github.io/just-the-docs/docs/index-test/){: .btn }
 
 This is text.
 This is text one linebreak below. It will appear on the same line.
@@ -34,6 +35,9 @@ _You can also use one underscore._
 Smol text at the <sub>bottom</sub> using HTML subscript tags.
 
 Smol text at the <sup>top</sup> using HTML superscript tags.
+
+Use a colon one line below to describe a term.
+: Description of the term.
 
 <!- Use HTML comment tags to make something invisible. This is visible because there's only one dash instead of two. ->
 
@@ -60,15 +64,36 @@ Smol text at the <sup>top</sup> using HTML superscript tags.
 - You can also use
 - A dash and space instead.
 
+* [ ] Add square brackets and a space next to an unordered item to create checkmarks.
+* [x] You can add an x (lowercase) instead of a space to mark the item done.
+
 1. You can use 1
-1. For every row
-1. To allow Markdown
-1. To number the list
-1. Automatically.
+2. For every row
+3. To allow Markdown
+4. To number the list
+5. Automatically.
 
 * Use tabs
   * To add layers
     * To the unordered list.
+
+Nesting an unordered list inside an ordered list inside an unordered list.
+
+- level 1 item (Unordered)
+  1. level 2 item (Ordered)
+  1. level 2 item (Ordered)
+    - level 3 item (Unordered)
+    - level 3 item (Unordered)
+- level 1 item (Unordered)
+  1. level 2 item (Ordered)
+  1. level 2 item (Ordered)
+    - level 3 item (Unordered)
+    - level 3 item (Unordered)
+  1. level 4 item (Ordered)
+  1. level 4 item (Ordered)
+    - level 3 item (Unordered)
+    - level 3 item (Unordered)
+- level 1 item (Unordered)
 
 Asterisk, space, asterisk, space, asterisk...
 * * *
@@ -94,20 +119,15 @@ var fun = function lang(l) {
 Specify md to display normal text. Long lines outside of code blocks wrap around, but long lines inside code blocks do not. This is a long enough text to demonstrate this. Did you know that in terms of Human to Pokemon breeding Vaporeon is- ok sorry.
 ```
 
-It even supports Mermaid Flowcharts!
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
-
 To create a link, put the name of the link between square parentheses, then put the link itself between round parentheses, with no spaces.
 
 [This is a link to a local Markdown page.](./index.md)
 
 [This is a link to another webpage.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+Add `{: .btn }` next to ) to create a button.
+[The two links above,](./index.md){: .btn }
+[But as buttons.](https://www.youtube.com/watch?v=dQw4w9WgXcQ){: .btn }
 
 [You can link files too. If the file can't display on a browser window, a download will start.](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
@@ -123,6 +143,33 @@ This is a l o r g e PNG two lines below.
 Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, .LOG, .TXT, .PDF, or .ZIP.
 
 Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop (x86) Chromium and Firefox.
+
+Add `{: .label .label-color }`, replacing color with one of the colors below to create labels.
+
+Blue
+{: .label .label-blue }
+
+Green
+{: .label .label-green }
+
+Yellow
+{: .label .label-yellow }
+
+Red
+{: .label .label-red }
+
+**Purple and bold!?**
+{: .label .label-purple }
+
+Use `{: .fw-100 }` to set the font weight to 100.
+{: .fw-100 }
+Or 1000.
+{: .fw-1000 }
+
+Use `{: .fs-1 }` to set the font size to 1.
+{: .fs-1 }
+Or 10.
+{: .fs-10 }
 
 |Use vertical bars to create a table.|Use monospace fonts to avoid confusion.|
 |Cells can vary in width|And do not need to be perfectly aligned within columns.|
