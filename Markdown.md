@@ -4,6 +4,15 @@ title: Markdown
 permalink: Markdown
 ---
 
+Put the code below at the VERY top of the Markdown file to change the page's properties. Search will NOT work without this.
+```yaml
+---
+layout: default
+title: Markdown
+permalink: Markdown
+---
+```
+
 This is text.
 This is text one linebreak below. It will appear on the same line.
 
@@ -68,7 +77,7 @@ Asterisk, space, asterisk, space, asterisk...
 
 <details><summary>This is a clickable Collapse with a Label.</summary>
 <p>
-To create a Collapse, use the HTML tag `details`, then `p`, then `/p`, then `/details`, between LessThan and GreaterThan signs. To add a Label to the collapse, add the HTML tags `summary` and `/summary` on the right of the `details` HTML tag. Collapses aren't recommended because they can't embed many things and require extra clicks to read the content.
+To create a Collapse, use the HTML tag `details`, then `p`, then `/p`, then `/details`, between LessThan and GreaterThan signs. To add a Label to the collapse, add the HTML tags `summary` and `/summary` on the right of the `details` HTML tag. Collapses aren't recommended because they're complicated, can't embed many things and require extra clicks to read the content.
 </p>
 </details>
 
@@ -94,14 +103,10 @@ To create a link, put the name of the link between square parentheses, then put 
 
 [You can link files too. If the file can't display on a browser window, a download will start.](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
-Add ! at the beginning before the square parenthesis to embed. You cannot embed links or webpages, only files.
+Add ! at the beginning before the square parenthesis to embed. You cannot embed links or webpages, only files. There's no need to put anything inside the square parenthesis when you're embedding.
 
 This is a smol PNG one line below.
-![Possum](https://static.f-list.net/images/avatar/tokumei%20kii.png)
-
 ![](https://static.f-list.net/images/avatar/tokumei%20kii.png)
-
-!(https://static.f-list.net/images/avatar/tokumei%20kii.png)
 
 This is a l o r g e PNG two lines below.
 
