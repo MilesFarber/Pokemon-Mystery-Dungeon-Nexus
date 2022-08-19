@@ -3,7 +3,6 @@ layout: default
 title: Markdown
 permalink: Markdown
 ---
-
 Put the code below at the VERY top of the Markdown file to change the page's properties. Search will NOT work without this.
 ```yaml
 ---
@@ -95,6 +94,16 @@ var fun = function lang(l) {
 Specify md to display normal text. Long lines outside of code blocks wrap around, but long lines inside code blocks do not. This is a long enough text to demonstrate this. Did you know that in terms of Human to Pokemon breeding Vaporeon is- ok sorry.
 ```
 
+It even supports Mermaid Flowcharts!
+```mermaid
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
+
 To create a link, put the name of the link between square parentheses, then put the link itself between round parentheses, with no spaces.
 
 [This is a link to a local Markdown page.](./index.md)
@@ -110,7 +119,7 @@ This is a smol PNG one line below.
 
 This is a l o r g e PNG two lines below.
 
-![Bigger Possum](https://static.f-list.net/images/charinline/a0/ce/a0ceb589e437b739a897f116d9e9065a62d338bf.png)
+![](https://static.f-list.net/images/charinline/a0/ce/a0ceb589e437b739a897f116d9e9065a62d338bf.png)
 
 Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, .LOG, .TXT, .PDF, or .ZIP.
 
