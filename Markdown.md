@@ -1,4 +1,8 @@
-# Markdown
+---
+layout: default
+title: Markdown
+permalink: Markdown
+---
 
 This is text.
 This is text one linebreak below. It will appear on the same line.
