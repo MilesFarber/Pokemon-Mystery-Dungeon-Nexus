@@ -45,16 +45,10 @@ Blue
 {: .label .label-blue }
 Green
 {: .label .label-green }
-
 Yellow
 {: .label .label-yellow }
-
-
 Red
 {: .label .label-red }
-
-
-
 **Purple and bold!?**
 {: .label .label-purple }
 

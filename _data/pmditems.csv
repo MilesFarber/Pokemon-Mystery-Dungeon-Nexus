@@ -16,9 +16,9 @@ Food,Silver Gummi,"A Gummi that makes certain Pokemon drool in delight. Fills yo
 Food,Sky Gummi,"A Gummi that makes certain Pokemon drool in delight. Fills your belly by 5; 10; 15; 20; or 25; and increases your IQ by 1, 2, 3, 4, or 5 depending on your type. Flying types love these!",800
 Food,White Gummi,"A Gummi that makes certain Pokemon drool in delight. Fills your belly by 5; 10; 15; 20; or 25; and increases your IQ by 1, 2, 3, 4, or 5 depending on your type. Normal types love these!",800
 Food,Yellow Gummi,"A Gummi that makes certain Pokemon drool in delight. Fills your belly by 5; 10; 15; 20; or 25; and increases your IQ by 1, 2, 3, 4, or 5 depending on your type. Electric types love these!",800
-Food,Violet Gummi,"A Gummi that makes certain Pokemon drool in delight. Fills your belly by 5; 10; 15; 20; or 25; and increases your IQ by 1, 2, 3, 4, or 5 depending on your type. Fairy types love these!",
-Food,Wonder Gummi,"It has a curious texture unlike any other Gummi, never has the same taste twice... it's always delicious! Fills your belly by 25 and increases your IQ by 5, regardless of your type.",800
-Food,Rainbow Gummi,"Absolute perfection in Gummi form. Don't look at it too long... Fills your belly by 50 and increases your IQ by 15, regardless of your type.",800
+Food,Violet Gummi,"A Gummi that makes certain Pokemon drool in delight. Fills your belly by 5; 10; 15; 20; or 25; and increases your IQ by 1, 2, 3, 4, or 5 depending on your type. Fairy types love these!",800
+Food,Wonder Gummi,"It has a curious texture unlike any other Gummi, never has the same taste twice... it's always delicious! Fills your belly by 25 and increases your IQ by 5, regardless of your type.",2000
+Food,Rainbow Gummi,"Absolute perfection in Gummi form. Don't look at it too long... Fills your belly by 50 and increases your IQ by 15, regardless of your type.",8000
 Food,Tiny Apple,A very tiny Apple. Fills your belly by 25; or temporarily increases Belly Size by 1 if already full.,10
 Food,Apple,A juicy Apple. Fills your belly by 50; or temporarily increases Belly Size by 5 if already full.,25
 Food,Big Apple,A very fresh Big Apple! Fills your belly by 100; or temporarily increases Belly Size by 10 if already full.,50
@@ -28,11 +28,11 @@ Food,Golden Apple,It's one of the Golden Items. A Perfect Apple coated in a gold
 Food,Banana,A rare; healthy Banana. Fills your belly by 50. Temporarily increases Belly Size by 10 if already full. Also has a 10% chance to raise your level by 1...,150
 Food,Golden Banana,It's one of the Golden Items. A mysterious Banana coated in a golden glow. So healthy... Fills your belly by 50. Temporarily increases Belly Size by 10 if already full; and increases your level by 5!,12000
 Food,Chestnut,A Chestnut to peel open. Fills your belly by 50. Temporarily increases Belly Size by 5 if already full. Mankeys and Primeapes get +1 to all stats when eating this!,50
-Food,Mini Donut,A little diet Donut. Fills your belly by 25; or temporarily increases Belly Size by 1 if already full; and randomly; permanently increases one of your stats by 1.,300
-Food,Donut,A sugary Donut. Fills your belly by 50; or temporarily increases Belly Size by 1 if already full; and randomly; permanently increases one of your stats by 1... twice.,600
-Food,Mega Donut,A thick; round Donut! Fills your belly by 100; or temporarily increases Belly Size by 1 if already full; and randomly; permanently increases one of your stats by 1... thrice!,900
-Food,Four-Leaf Cookie,A fortune cookie. Fills your belly by 25; or temporarily increases Belly Size by 1 if already full; and randomly; permanently increases one of your stats by 1... a random number of times between 1 and 4!,900
-Food,Sweet Chocolate,Just objectively the best thing ever. Fills your belly by 25; or temporarily increases Belly Size by 1 if already full. Permanently increases all your stats by 1!,1500
+Food,Mini Donut,A little diet Donut. Fills your belly by 25; or temporarily increases Belly Size by 1 if already full; and randomly; permanently increases one of your stats by 1.,500
+Food,Donut,A sugary Donut. Fills your belly by 50; or temporarily increases Belly Size by 1 if already full; and randomly; permanently increases one of your stats by 1... twice.,1000
+Food,Mega Donut,A thick; round Donut! Fills your belly by 100; or temporarily increases Belly Size by 1 if already full; and randomly; permanently increases one of your stats by 1... thrice!,1500
+Food,Four-Leaf Cookie,A fortune cookie. Fills your belly by 25; or temporarily increases Belly Size by 1 if already full; and randomly; permanently increases one of your stats by 1... a random number of times between 1 and 4!,2000
+Food,Sweet Chocolate,Just objectively the best thing ever. Fills your belly by 25; or temporarily increases Belly Size by 1 if already full. Permanently increases all your stats by 1!,2500
 Food,Grimy Food,Yuck. Fills your belly by 25; or temporarily increases Belly Size by 1 if already full. But you will get a random bad status condition!,1
 Ammo,Geo Pebble,When thrown; it flies high in an arc to clear obstacles and strike the target for 10 damage. It is not affected by Pierce or Long Toss and can be thrown at any angle.,10
 Ammo,Gravelerock,When thrown; it flies high in an arc to clear obstacles and strike the target for 20 damage. It is not affected by Pierce or Long Toss and can be thrown at any angle.,25
@@ -121,52 +121,108 @@ Flag,Insomnia Flag,"Protects teammates from sleeping, but not the holder.",3000
 Flag,Limber Flag,"Protects teammates from being paralyzed, but not the holder.",3000
 Flag,Resilient Flag,"Protects teammates from stat drops, but not the holder.",3000
 Flag,Tough Flag,"Allows teammates to survive a move that would KO them with 1 HP, but not the holder.",4000
-Gifts,Bug Gift,"May contain a rare item, but only if gifted to a Bug type connection.",
-Gifts,Dark Gift,"May contain a rare item, but only if gifted to a Dark type connection.",
-Gifts,Dragon Gift,"May contain a rare item, but only if gifted to a Dragon type connection.",
-Gifts,Electric Gift,"May contain a rare item, but only if gifted to an Electric type connection.",
-Gifts,Fighting Gift,"May contain a rare item, but only if gifted to a Fighting type connection.",
-Gifts,Fire Gift,"May contain a rare item, but only if gifted to a Fire type connection.",
-Gifts,Flying Gift,"May contain a rare item, but only if gifted to a Flying type connection.",
-Gifts,Ghost Gift,"May contain a rare item, but only if gifted to a Ghost type connection.",
-Gifts,Grass Gift,"May contain a rare item, but only if gifted to a Grass type connection.",
-Gifts,Ground Gift,"May contain a rare item, but only if gifted to a Ground type connection.",
-Gifts,Ice Gift,"May contain a rare item, but only if gifted to an Ice type connection.",
-Gifts,Normal Gift,"May contain a rare item, but only if gifted to a Normal type connection.",
-Gifts,Poison Gift,"May contain a rare item, but only if gifted to a Poison type connection.",
-Gifts,Psychic Gift,"May contain a rare item, but only if gifted to a Psychic type connection.",
-Gifts,Rock Gift,"May contain a rare item, but only if gifted to a Rock type connection.",
-Gifts,Steel Gift,"May contain a rare item, but only if gifted to a Steel type connection.",
-Gifts,Water Gift,"May contain a rare item, but only if gifted to a Water type connection.",
-Gifts,Fairy Gift,"May contain a rare item, but only if gifted to a Fairy type connection.",
-Gifts,Premier Gift,"May contain an exceptionally rare item, but only if gifted to a Legendary or Mythical connection!",
-Gifts,Sky Gift,"May contain an exceptionally rare item, but only if shipped to a connection from the Shaymin Village!",
-Equipment,Alert Specs,Antitheft specs that prevent the Pokémon from having its held item snatched away or swatted down.,
-Equipment,Goggle Specs,"High field of view specs that reveal hidden traps, Pokemon, and stairs to the holder.",
-Equipment,Gold Scope,Golden scopes that scan for any hidden Gold Bars or Golden Items hidden in the floor.,
-Equipment,Insomniscope,"Psychedelic glasses that prevent Sleep, Yawning, Napping, or having a Nightmare.",
-Equipment,Lock-On Specs,Specs with a built in HUD that makes thrown items never miss.,
-Equipment,No-Con Specs,"Lookalike of Lock-On Specs, with a defective HUD that makes thrown items fly in random directions!",
-Equipment,Scope Lens,Thermal lens that increases the holder's Crit chance by +1.,
-Equipment,Whiff Specs,Modified Lock-On Specs that allow the holder to throw items without hitting anyone. There must be a use case for this...,
-Equipment,X-Ray Specs,"Powerful, wall scanning specs that make all Pokemon and Items fully visible on the map, but not tiles or stairs.",
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+Gifts,Bug Gift,"May contain a rare item, but only if gifted to a Bug type connection.",50
+Gifts,Dark Gift,"May contain a rare item, but only if gifted to a Dark type connection.",50
+Gifts,Dragon Gift,"May contain a rare item, but only if gifted to a Dragon type connection.",50
+Gifts,Electric Gift,"May contain a rare item, but only if gifted to an Electric type connection.",50
+Gifts,Fighting Gift,"May contain a rare item, but only if gifted to a Fighting type connection.",50
+Gifts,Fire Gift,"May contain a rare item, but only if gifted to a Fire type connection.",50
+Gifts,Flying Gift,"May contain a rare item, but only if gifted to a Flying type connection.",50
+Gifts,Ghost Gift,"May contain a rare item, but only if gifted to a Ghost type connection.",50
+Gifts,Grass Gift,"May contain a rare item, but only if gifted to a Grass type connection.",50
+Gifts,Ground Gift,"May contain a rare item, but only if gifted to a Ground type connection.",50
+Gifts,Ice Gift,"May contain a rare item, but only if gifted to an Ice type connection.",50
+Gifts,Normal Gift,"May contain a rare item, but only if gifted to a Normal type connection.",50
+Gifts,Poison Gift,"May contain a rare item, but only if gifted to a Poison type connection.",50
+Gifts,Psychic Gift,"May contain a rare item, but only if gifted to a Psychic type connection.",50
+Gifts,Rock Gift,"May contain a rare item, but only if gifted to a Rock type connection.",50
+Gifts,Steel Gift,"May contain a rare item, but only if gifted to a Steel type connection.",50
+Gifts,Water Gift,"May contain a rare item, but only if gifted to a Water type connection.",50
+Gifts,Fairy Gift,"May contain a rare item, but only if gifted to a Fairy type connection.",50
+Gifts,Premier Gift,"May contain an exceptionally rare item, but only if gifted to a Legendary or Mythical connection!",100
+Gifts,Sky Gift,"May contain an exceptionally rare item, but only if shipped to a connection from the Shaymin Village!",100
+Equipment,Alert Specs,Antitheft specs that prevent the Pokémon from having its held item snatched away or swatted down.,4000
+Equipment,Goggle Specs,"High field of view specs that reveal hidden traps, Pokemon, and stairs to the holder.",3500
+Equipment,Gold Scope,Golden scopes that scan for any hidden Gold Bars or Golden Items hidden in the floor.,5000
+Equipment,Insomniscope,"Psychedelic glasses that prevent Sleep, Yawning, Napping, or having a Nightmare.",3500
+Equipment,Lock-On Specs,Specs with a built in HUD that makes thrown items never miss.,4000
+Equipment,No-Con Specs,"Lookalike of Lock-On Specs, with a defective HUD that makes thrown items fly in random directions!",1
+Equipment,Scope Lens,Thermal lens that increases the holder's Crit chance by +1.,7500
+Equipment,Whiff Specs,Modified Lock-On Specs that allow the holder to throw items without hitting anyone. There must be a use case for this...,4000
+Equipment,X-Ray Specs,"Powerful, wall scanning specs that make all Pokemon and Items fully visible on the map, but not tiles or stairs.",10000
+Equipment,Courage Crown,One of the Infinite Crowns. It proves that you overcame difficulties with your courageous bravery. Boosts the holder's Attack by 30!,5000
+Equipment,Effort Crown,One of the Infinite Crowns. It proves that you overcame difficulties with your continuous efforts. Boosts the holder's Defense by 30!,5000
+Equipment,Persistence Crown,One of the Infinite Crowns. It proves that you overcame difficulties with your unyelding spirit. Boosts the holder's Special Attack by 30!,5000
+Equipment,Wisdom Crown,One of the Infinite Crowns. It proves that you overcame difficulties with your abundant wisdom. Boosts the holder's Special Defense by 30!,5000
+Equipment,Heart Pendant,"A mysterious pendant that emits a soft, warm glow. Boosts the holder's Max HP by 50!",10000
+Drink,Protein,A healthy vitamin that fills your belly by 5 and permanently raises Attack by 1.,1000
+Drink,Taurine,"An experimental vitamin... it fills your belly by 5 and permanently raises Attack by 3, but will decrease Max HP by 1!",3000
+Drink,Iron,A healthy vitamin that fills your belly by 5 and permanently raises Defense by 1.,1000
+Drink,Bromhexine,"An experimental vitamin... it fills your belly by 5 and permanently raises Defense by 3, but will decrease Max HP by 1!",3000
+Drink,Calcium,A healthy vitamin that fills your belly by 5 and permanently raises Special Attack by 1.,1000
+Drink,Lysozyme,"An experimental vitamin... it fills your belly by 5 and permanently raises Special Attack by 3, but will decrease Max HP by 1!",3000
+Drink,Zinc,A healthy vitamin that fills your belly by 5 and permanently raises Special Defense by 1.,1000
+Drink,Chitosan,"An experimental vitamin... it fills your belly by 5 and permanently raises Special Defense by 3, but will decrease Max HP by 1!",3000
+Drink,Carbos,A healthy vitamin that fills your belly by 5 and permanently raises Speed by 1.,1000
+Drink,Indometacin,"An experimental vitamin... it fills your belly by 5 and permanently raises Speed by 3, but will decrease Max HP by 1!",3000
+Drink,Ginseng,A reinvigorating coffee that increases a move's level by 1. Also fills your belly by 5.,5000
+Drink,Ether,A refreshing drink that restores one of your moves' PP by 10 and fills your belly by 5.,25
+Drink,Elixir,A refreshing drink that restores all of your moves' PP by 10 and fills your belly by 5.,100
+Drink,Max Ether,A refreshing drink that fully restores one of your moves' PP and fills your belly by 5.,50
+Drink,Max Elixir,A refreshing drink that fully restores all of your moves' PP and fills your belly by 5.,200
+Drink,Nectar,A supersweet honey that restores all of your moves' PP by 10 and fills your belly by 10.,150
+Treasure,Sparkly Scarf,"A beautiful and elegant scarf. It has no effect even if you hold it, but you can sell it at a shop for a high price.",3500
+Treasure,White Key,A mysterious key that will open a white door. It disappears after use...,8000
+Treasure,Black Key,A mysterious key that will open a black door. It disappears after use...,8000
+Treasure,Blue Key,A mysterious key that will open a blue door. It disappears after use...,8000
+Treasure,Green Key,A mysterious key that will open a green door. It disappears after use...,8000
+Treasure,Red Key,A mysterious key that will open a red door. It disappears after use...,8000
+Looplets,Air Looplet,It has seven notches. It's one of the Eight Treasures that only the strong are said to be able to obtain. It's said to prevent a Mega-Evolved Pokémon from going berserk if the Pokémon holds it.,5000
+Looplets,Lucky Looplet,It has three notches. It prevents enemy Pokémon's moves from resulting in a critical hit. You can add various effects by setting emeras on it. ,3000
+Looplets,Nonstick Looplet,It has three notches. It prevents carried items from getting sticky as a result of traps or other means. You can add various effects by setting emeras on it. ,3500
+Looplets,Pecha Looplet,It has four notches. It prevents the holder from getting poisoned or badly poisoned. You can add various effects by setting emeras on it.,500
+Looplets,Persim Looplet,It has four notches. It prevents the holder from getting confused. You can add various effects by setting emeras on it.,600
+Looplets,Resilient Looplet,It has four notches. It prevents all of the holder's stats from being lowered. You can add various effects by setting emeras on it.,4000
+Looplets,Wakeful Looplet,"It has four notches. It protects the holder from Sleep, Yawning, Napping, or having Nightmares. You can add various effects by setting emeras on it.",450
+Looplets,Weather Looplet,It has four notches. The holder is completely unaffected by weather!,1800
+Looplets,Wind Looplet,It has one notch. It's one of the Eight Treasures that only the strong are said to be able to obtain. It prevents the holder from having bad status conditions or a reduction in stats.,5200
+Looplets,Attack Looplet,It has four notches. It boosts the holder's Attack by 10. You can add various effects by setting emeras on it.,200
+Looplets,Blue Looplet,It has five notches. It's one of the Ancient Treasures. It's said to have the effect of boosting Max HP by 50.,4500
+Looplets,Choice Looplet,It has four notches. It boosts the critical-hit rate if the holder uses the same move it used the turn before. You can add various effects by setting emeras on it.,2500
+Looplets,Darkness Looplet,It has five notches. It's one of the Ancient Treasures. It's said to boost Attack and Special Attack by 20.,3000
+Looplets,Defense Looplet,It has four notches. It boosts the holder's Defense by 10. You can add various effects by setting emeras on it.,200
+Looplets,Detect Looplet,It has four notches. It boosts the holder's evasiveness. You can add various effects by setting emeras on it.,800
+Looplets,Fickle Looplet,It has four notches. It boosts the critical-hit rate if the holder uses a move it didn't use the turn before. You can add various effects by setting emeras on it.,2500
+Looplets,Focus Looplet,It has three notches. It boosts the holder's critical-hit rate for moves. You can add various effects by setting emeras on it.,2000
+Looplets,Radiance Looplet,It has five notches. It's one of the Ancient Treasures. It's said to boost Defense by 50. You can add various effects by setting emeras on it.,3000
+Looplets,Red Looplet,It has five notches. It's one of the Ancient Treasures. It's said to have the effect of boosting Defense and Sp. Def by 20.,4500
+Looplets,Sand Looplet,It has three notches. It's one of the Eight Treasures that only the strong are said to be able to obtain. It is said to boost the power of moves significantly.,4500
+Looplets,Sky Looplet,It has five notches. It's one of the Ancient Treasures. It's said to boost the Speed of the holder by 50. ,5000
+Looplets,Sp. Attack Looplet,It has four notches. Increases the Special Attack of the holder by 10.,200
+Looplets,Sp. Defense Looplet,It has four notches. Increases the Special Defense of the holder by 10.,200
+Looplets,Speed Looplet,It has three notches. Increases the Speed of the holder by 20.,1000
+Looplets,Tempest Looplet,It has five notches. It's one of the Ancient Treasures. It's said to boost the Special Attack of the holder by 30.,3000
+Looplets,Time Looplet,It has five notches. It's one of the Ancient Treasures. It's said to boost the Special Defense of the holder by 40.,3000
+Looplets,Wildfire Looplet,It has five notches. It's one of the Ancient Treasures. It's said to boost the Attack of the holder by 30.,3000
+Looplets,Alliance Looplet,It has five notches. It enables the holder to participate in an Alliance even when the holder is far away from the leader. You can add various effects by setting emeras on it.,700
+Looplets,Big Belly Looplet,"It has three notches. It's one of the items invented by the legendary glutton team, the Never Hungries. You'll definitely want it for your adventure! The holder gets hungry half as much, even if it walks or uses an Alliance.",6500
+Looplets,Cover Looplet,"It has four notches. When a teammate with low HP is nearby, the holder receives the attack instead.",330
+Looplets,Deflect Looplet,It has four notches. It enables the holder to shrug off moves and pass them on to a nearby Pokémon. But the holder's Belly gets emptier every time it happens. ,350
+Looplets,Earth Looplet,It has two notches. It's one of the Eight Treasures that only the strong are said to be able to obtain. It makes the holder immune to traps.,6000
+Looplets,Excavation Looplet,"It has four notches. If the leader holds it, items buried in the ground shine visibly.",3750
+Looplets,Explosive Looplet,It has six notches. It sometimes explodes when the holder takes damage. It damages nearby Pokémon and makes items on the floor disappear. ,1000
+Looplets,Gold Looplet,"It has four notches. It does nothing, but it can be sold for a high price!",5000
+Looplets,Grass Looplet,It has three notches. It's one of the Eight Treasures that only the strong are said to be able to obtain. It makes all traps on the floor visible to the holder.,5000
+Looplets,Healing Looplet,It has three notches. Doubles the passive HP regeneration when walking.,1000
+Looplets,Huge Meal Looplet,"It has five notches. It's one of the items invented by the legendary glutton team, the Never Hungries. You'll definitely want it for your adventure! Holding it is said to prevent you from getting hungry during an Alliance.",5500
+Looplets,Joy Looplet,"It has one notch. The holder gains 1 experience point each turn, even when not battling.",9000
+Looplets,Looplet,"It has three nothces. It's an ordinary looplet. Holding it has no effect, but you can add various effects by setting emeras on it.",50
+Looplets,Mist Looplet,It has one notch. It's one of the Eight Treasures that only the strong are said to be able to obtain. It's said the holder has a 50% chance to not consume PP's when using a move.,7000
+Looplets,Nullify Looplet,It has ten notches. It prevents the holder's Ability from working.,1000
+Looplets,Prosper Looplet,It has five notches. Picking up Poke' from the ground heals all status conditions.,3000
+Looplets,Satiated Looplet,"It has two notches. It's one of the items invented by the legendary glutton team, the Never Hungries. You definitely want it for your adventure. Holding it is said prevents you from getting hungry by walking.",7500
+Looplets,Sea Looplet,It has two notches. It's one of the Eight Treasures that only the strong are said to be able to obtain. It's said to reveal the locations of items and enemies on the entire floor if the leader holds it.,8000
+Looplets,Unity Looplet,It has two notches. It warps the holder near it's teammates if they end up alone.,3000
+Looplets,Warp Looplet,It has four notches. Has a 10% chance to warp the holder to a random room at the end of their turn.,1200
+Looplets,Water Looplet,It has two notches. It's one of the Eight Treasures that only the strong are said to be able to obtain. It's said to make the holder's thrown items pierce through all Pokémon and walls and fly endlessly.,7500
+Looplets,Well-Fed Looplet,"It has four notches. It's one of the items invented by the legendary glutton team, the Never Hungries. You'll want it for your adventure! The holder gets twice as full as usual from eating.",4500
