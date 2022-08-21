@@ -1,0 +1,493 @@
+Pokemon|Item 1 Name|Item 1 Description|Item 1 Rarity|Item 2 Name|Item 2 Description|Item 2 Rarity|Item 3 Name|Item 3 Description|Item 3 Rarity|Item 4 Name|Item 4 Description|Item 4 Rarity|Item 5 Name|Item 5 Description|Item 5 Rarity|
+Bulbasaur|Bulba-Claw|Raises Attack by 5|🟃|Bulba-Fang|Raises Sp. Attack by 5|🟃|Grass-Guard|Raises Attack and Sp. Attack by 5 each|🟇|Leafy Tie|Increases maximum HP by 10.|✯||||
+Ivysaur|Ivy-Claw|Raises Attack by 5|🟃|Ivy-Fang|Raises Sp. Attack by 5|🟃|Ivy-Crest|Raises Attack and Sp. Attack by 5 each|🟇|Plant Torc|Increases the amount of HP recovered through HP-draining moves.|✯||||
+Venusaur|Venus-Claw|Raises Attack by 5|🟃|Venus-Fang|Raises Sp. Attack by 5|🟃|Venus-Seal|Raises Attack and Sp. Attack by 5 each|🟇|Solar Sash|Recovers HP when hit by a Fire move.|✯||||
+Charmander|Char-Claw|Raises Attack by 5|🟃|Char-Fang|Raises Sp. Attack by 5|🟃|Fiery Heart|Raises Attack and Sp. Attack by 5 each|🟇|Heat Armlet|Increases maximum HP by 10.|✯||||
+Charmeleon|Charme-Claw|Raises Attack by 5|🟃|Charme-Fang|Raises Sp. Attack by 5|🟃|Charme-Crest|Raises Attack and Sp. Attack by 5 each|🟇|Kindle Scarf|Boosts Movement Speed by 1 during the Sunny weather condition.|✯||||
+Charizard|Chariz-Claw|Raises Attack by 5|🟃|Chariz-Fang|Raises Sp. Attack by 5|🟃|Chariz-Seal|Raises Attack and Sp. Attack by 5 each|🟇|Flame Bangle|Recovers HP when hit by a Water move.|✯||||
+Squirtle|Squirt-Foam|Raises Defense by 3|🟃|Squirt-Card|Raises Sp. Defense by 3|🟃|Water-Guard|Raises Defense and Sp. Defense by 3 each|🟇|Aqua Tie|Increases maximum HP by 10.|✯||||
+Wartortle|Wartor-Claw|Raises Attack by 5|🟃|Wartor-Fang|Raises Sp. Attack by 5|🟃|Wartor-Crest|Raises Attack and Sp. Attack by 5 each|🟇|BubbleBangle|Halves damage taken from Selfdestruct and Explosion|✯||||
+Blastoise|Blasto-Claw|Raises Attack by 5|🟃|Blasto-Card|Raises Sp. Defense by 3|🟃|Blasto-Seal|Raises Attack by 5 and Sp. Defense by 3|🟇|Hydro Band|Recovers HP when hit by an Electric move.|✯||||
+Caterpie|Cater-Belt|Any Berry or Apple eaten will recover an extra 10 HP.|🟇|||||||||||||
+Metapod|Defense Bow|Increases maximum HP by 10.|🟇|||||||||||||
+Butterfree|Glittery Bow|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Weedle|Weedle Bow|Any Berry or Apple eaten will recover an extra 10 HP.|🟇|||||||||||||
+Kakuna|Kakuna Scarf|Makes thrown or hurled items bounce off the Pokémon.|🟇|||||||||||||
+Beedrill|Charge Scarf|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Pidgey|Pidgey Bow|Protects against thrown items.|🟇|||||||||||||
+Pidgeotto|Pidgeo-Scarf|Boosts Evasion by 2 during the Clear weather condition.|🟇|||||||||||||
+Pidgeot|Pidgeot Torc|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Rattata|Ratta-Scarf|Reflect and Light Screen do not affect this Pokémon's moves.|🟇|||||||||||||
+Raticate|Overcome Bow|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Spearow|Quirky Bow|Boosts Evasion by 2 during the Clear weather condition.|🟇|||||||||||||
+Fearow|Wing Scarf|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Ekans|Leash Bow|May afflict attacking enemies with a Shadow Hold status condition.|🟇|||||||||||||
+Arbok|Shock Ruff|Recovers HP when hit by a Psychic move.|🟇|||||||||||||
+Pikachu|Pikachu Hair|Raises Defense by 3|🟃|Pikachu Card|Raises Sp. Defense by 3|🟃|Volt Charm|Raises Defense and Sp. Defense by 3 each|🟇|Volt Torc|Reflect and Light Screen do not affect this Pokémon's moves.|✯||||
+Raichu|Raichu Hair|Raises Defense by 3|🟃|Raichu Card|Raises Sp. Defense by 3|🟃|Raichu Crest|Raises Defense and Sp. Defense by 3 each|🟇|Zapper Scarf|Recovers HP when hit by a Ground move.|✯||||
+Sandshrew|Sand-Scarf|Foes cannot get a critical hit on this Pokémon.|🟇|||||||||||||
+Sandslash|Sandy Torc|Recovers HP when hit by an Grass move.|🟇|||||||||||||
+Nidoran♀|Pointy Scarf|Adds 2 to base PP of all moves.|🟇|||||||||||||
+Nidorina|Return Scarf|Earns the Pokémon 5 exp. points each time it is hit.|🟇|||||||||||||
+Nidoqueen|Impact Torc|Recovers HP when hit by a Psychic move.|🟇|||||||||||||
+Nidoran♂|Halve Scarf|Increases maxiumum HP by 10.|🟇|||||||||||||
+Nidorino|Thorny Scarf|May restore PP of a random move upon taking any kind of damage.|🟇|||||||||||||
+Nidoking|King Sash|Recovers HP when hit by a Psychic move.|🟇|||||||||||||
+Clefairy|Clef-Claw|Raises Attack by 5|🟃|Clef-Fang|Raises Sp. Attack by 5|🟃|Moon Jewel|Raises Attack and Sp. Attack by 5 each|🟇|Moon Scarf|Adds 2 to base PP of all moves.|✯||||
+Clefable|Clefa-Claw|Raises Attack by 5|🟃|Clefa-Card|Raises Sp. Defense by 3|🟃|Moon Rock|Raises Attack by 5 and Sp. Defense by 3|🟇|Fairy Bow|Recovers HP when hit by a Fighting move.|✯||||
+Vulpix|Vulpix Tail|Raises Defense by 3|🟃|Vulpix Card|Raises Sp. Defense by 3|🟃|Vulpix Tag|Raises Defense and Sp. Defense by 3 each|🟇|Glowing Bow|Special moves are weakened to half their strength.|✯||||
+Ninetales|Nine-Hair|Raises Defense by 3|🟃|Nine-Card|Raises Sp. Defense by 3|🟃|Nine-Seal|Raises Defense and Sp. Defense by 3 each|🟇|Afire Collar|Recovers HP when hit by a Water move.|✯||||
+Jigglypuff|Jiggly-Song|Raises Sp. Attack by 5|🟃|Jiggly-Card|Raises Sp. Defense by 3|🟃|Slumber Rock|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Snooze Ring|May afflict attacking enemies with a Sleep status condition.|✯||||
+Wigglytuff|Wiggly-Hair|Raises Defense by 3|🟃|Wiggly-Card|Raises Sp. Defense by 3|🟃|Buddy Rock|Raises Defense and Sp. Defense by 3 each|🟇|Friend Torc|Recovers HP when hit by a Fighting move.|✯||||
+Zubat|Dodge Bow|Boosts Evasion by 2 during the Cloudy weather condition.|🟇|||||||||||||
+Golbat|Absorb Scarf|Increases the amount of HP recovered through HP-draining moves.|🟇|||||||||||||
+Oddish|Odd Bow|May afflict attacking enemies with a Confused status condition.|🟇|||||||||||||
+Gloom|Guard Hat|Increases the amount of HP recovered through HP-draining moves.|🟇|||||||||||||
+Vileplume|Aroma Scarf|Recovers HP when hit by a Fire move.|🟇|||||||||||||
+Paras|Moving Scarf|Pokémon cannot be inflicted with the Paralysis status condition.|🟇|||||||||||||
+Parasect|Firm Hat|Recovers HP when hit by a Fire move.|🟇|||||||||||||
+Venonat|Gaze Goggles|Earns the Pokémon 5 exp. points each time it is hit.|🟇|||||||||||||
+Venomoth|Venomoth Bow|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Diglett|Diglett Hat|Protects against thrown items.|🟇|||||||||||||
+Dugtrio|Dugtrio Bow|Recovers HP when hit by a Grass move.|🟇|||||||||||||
+Meowth|Meowth Claw|Raises Attack by 5|🟃|Meowth Fang|Raises Sp. Attack by 5|🟃|Coin Charm|Raises Attack and Sp. Attack by 5 each|🟇|Bling Ruff|Increases maximum HP by 10.|✯||||
+Persian|Persian Claw|Raises Attack by 5|🟃|Persian Fang|Raises Sp. Attack by 5|🟃|Insight Rock|Raises Attack and Sp. Attack by 5 each|🟇|Noble Scarf|Recovers HP when hit by a Fighting move.|✯||||
+Psyduck|Psyduck Hat|Boosts Evasion by 2 during the Clear weather condition.|🟇|||||||||||||
+Golduck|Paddle Scarf|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Mankey|Mankey Torc|May afflict attacking enemies with a Cringe status condition.|🟇|||||||||||||
+Primeape|Nullify Belt|Recovers HP when hit by a Psychic move.|🟇|||||||||||||
+Growlithe|Growl Scarf|Earns the Pokémon bonus Exp. points.|🟇|||||||||||||
+Arcanine|Legend Bow|Recovers HP when hit by a Water move.|🟇|||||||||||||
+Poliwag|Damp Bow|Boosts Evasion by 2 during the Rain weather condition.|🟇|||||||||||||
+Poliwhirl|Poli-Bow|May afflict attacking enemies with a Confusion status condition.|🟇|||||||||||||
+Poliwrath|Bold Belt|Recovers HP when hit by a Flying move.|🟇|||||||||||||
+Abra|Predict Torc|Prevents the Pokémon's moves from being sealed.|🟇|||||||||||||
+Kadabra|Psychic Torc|Random chance of sealing an opponent's move.|🟇|||||||||||||
+Alakazam|Sparkle Ruff|Recovers HP when hit by a Dark move.|🟇|||||||||||||
+Machop|Impish Band|Foes cannot get a critical hit on this Pokémon.|🟇|||||||||||||
+Machoke|Strong Belt|Reflect and Light Screen do not affect this Pokémon's moves.|🟇|||||||||||||
+Machamp|Machamp Belt|Recovers HP when hit by a Psychic move.|🟇|||||||||||||
+Bellsprout|Bell-Bow|Halves damage taken from Selfdestruct and Explosion|🟇|||||||||||||
+Weepinbell|Digest Scarf|Any Berry or Apple eaten will recover an extra 10 HP.|🟇|||||||||||||
+Victreebel|Victree-Torc|Recovers HP when hit by a Fire move.|🟇|||||||||||||
+Tentacool|Tangle Bow|May afflict attacking enemies with a Shadow Hold status condition.|🟇|||||||||||||
+Tentacruel|Tenta-Cape|Recovers HP when hit by a Psychic move.|🟇|||||||||||||
+Geodude|Geodude Torc|Increases recovery rate of HP when walking in a dungeon.|🟇|||||||||||||
+Graveler|Rocky Torc|Eliminates any damage taken from Selfdestruct and Explosion|🟇|||||||||||||
+Golem|Rugged Sash|Recovers HP when hit by a Grass move.|🟇|||||||||||||
+Ponyta|Heated Bow|Boosts Movement Speed by 1 during the Sunny weather condition.|🟇|||||||||||||
+Rapidash|Sunlight Bow|Recovers HP when hit by a Water move.|🟇|||||||||||||
+Slowpoke|Slowpoke Hat|May reduce the Movement Speed of attacking enemies by 1 level when hit.|🟇|||||||||||||
+Slowbro|Slow-Scarf|Recovers HP when hit by a Dark move.|🟇|||||||||||||
+Magnemite|Magne-Torc|Pokémon cannot be inflicted with the Paralysis status condition.|🟇|||||||||||||
+Magneton|Magneton Bow|Boosts Evasion by 2 during the Cloudy weather condition.|🟇|||||||||||||
+Farfetch'd|Bullseye Bow|Enables Fighting moves and Normal moves to inflict increased damage on Ghost Pokémon.|🟇|||||||||||||
+Doduo|Buddy Torc|Hidden Stairs are more likely to appear.|🟇|||||||||||||
+Dodrio|Fight Torc|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Seel|Gentle Bow|May restore PP of a random move upon taking any kind of damage.|🟇|||||||||||||
+Dewgong|North Torc|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Grimer|Grimy Scarf|May afflict attacking enemies with a Blinker status condition.|🟇|||||||||||||
+Muk|Slimy Bow|Recovers HP when hit by a Psychic move.|🟇|||||||||||||
+Shellder|Shell Torc|Boosts Evasion by 2 during the Rainy weather condition.|🟇|||||||||||||
+Cloyster|Cover Armor|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Gastly|Gastly Veil|Boosts Evasion by 2 during the Fog weather condition.|🟇|||||||||||||
+Haunter|Slip Scarf|Ranged moves and thrown items pass harmlessly through teammates.|🟇|||||||||||||
+Gengar|Sunglasses|Recovers HP when hit by a Ghost move.|🟇|||||||||||||
+Onix|Trust Brooch|Halves damage taken from Selfdestruct and Explosion|🟇|||||||||||||
+Drowzee|Drowzee Tie|May afflict attacking enemies with a Sleep status condition.|🟇|||||||||||||
+Hypno|Dream Coin|Recovers HP when hit by a Dark move.|🟇|||||||||||||
+Krabby|Krabby Bow|Increases recovery rate of HP when walking in a dungeon.|🟇|||||||||||||
+Kingler|Super Sash|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Voltorb|Ball Scarf|Eliminates any damage taken from Selfdestruct and Explosion|🟇|||||||||||||
+Electrode|Electro-Bow|Recovers HP when hit by a Ground move.|🟇|||||||||||||
+Exeggcute|Repel Scarf|Prevents the Pokémon's moves from being sealed.|🟇|||||||||||||
+Exeggutor|Exeggu-Sash|Recovers HP when hit by a Bug move.|🟇|||||||||||||
+Cubone|Cubone Scarf|Gives Long Toss status.|🟇|||||||||||||
+Marowak|Marowak Torc|Recovers HP when hit by a Grass move.|🟇|||||||||||||
+Hitmonlee|Counter Ruff|Counters physical damage with full power.|✯|||||||||||||
+Hitmonchan|Victory Belt|Random chance of sealing an opponent's move.|✯|||||||||||||
+Lickitung|Licky Scarf|Kecleon Shops appear more often.|🟇|||||||||||||
+Koffing|Koffing Bow|May afflict attacking enemies with a Blinker status condition.|🟇|||||||||||||
+Weezing|Weez-Scarf|Recovers HP when hit by a Psychic move.|🟇|||||||||||||
+Rhyhorn|Solid Shield|Eliminates any damage taken from Selfdestruct and Explosion|🟇|||||||||||||
+Rhydon|Pierce Drill|Reflect and Light Screen do not affect this Pokémon's moves.|🟇|||||||||||||
+Chansey|Chansey Song|Raises Sp. Attack by 5|🟃|Chansey Card|Raises Sp. Defense by 3|🟃|Lucky Charm|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Lucky Scarf|May restore PP of a random move upon taking any kind of damage.|✯||||
+Tangela|Sticky Bow|May afflict attacking enemies with a Shadow Hold status condition.|🟇|||||||||||||
+Kangaskhan|Kang-Apron|Hidden Stairs are more likely to appear.|🟇|||||||||||||
+Horsea|Horsea Bow|May afflict attacking enemies with a Blinker status condition.|🟇|||||||||||||
+Seadra|Swirl Scarf|Boosts Movement Speed by 1 during the Rain weather condition.|🟇|||||||||||||
+Goldeen|Goldeen Bow|Boosts Movement Speed by 1 during the Rain weather condition.|🟇|||||||||||||
+Seaking|Seaking Bow|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Staryu|Recover Torc|Increases recovery rate of HP when walking in a dungeon.|🟇|||||||||||||
+Starmie|Starmie Belt|Recovers HP when hit by a Dark move.|🟇|||||||||||||
+Mr. Mime|Mime Key|Raises Defense by 3|🟃|Mime Card|Raises Sp. Defense by 3|🟃|Bulwark Rock|Raises Defense and Sp. Defense by 3 each|🟇|Barrier Bow|Recovers HP when hit by a Dark move.|✯||||
+Scyther|Scyther Fang|Raises Sp. Attack by 5|🟃|Scyther Card|Raises Sp. Defense by 3|🟃|Ambush Rock|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Strike Ruff|Protects against thrown items.|✯||||
+Jynx|Jynx Song|Raises Sp. Attack by 5|🟃|Jynx Card|Raises Sp. Defense by 3|🟃|Frozen Ore|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Ruin Scarf|Recovers HP when hit by a Dark move.|✯||||
+Electabuzz|Electa-Claw|Raises Attack by 5|🟃|Electa-Fang|Raises Sp. Attack by 5|🟃|Charge Seal|Raises Attack and Sp. Attack by 5 each|🟇|Volt Bangle|Pokémon cannot be inflicted with the Paralysis status condition.|✯||||
+Magmar|Magmar Claw|Raises Attack by 5|🟃|Magmar Card|Raises Sp. Defense by 3|🟃|Erupt Ore|Raises Attack by 5 and Sp. Defense by 3|🟇|Magma Scarf|Boosts Movement Speed by 1 during the Sunny weather condition.|✯||||
+Pinsir|Pinsir Sash|Reflect and Light Screen do not affect this Pokémon's moves.|🟇|||||||||||||
+Tauros|Rushing Bow|Counters physical damage with full power.|🟇|||||||||||||
+Magikarp|Magikarp Bow|Randomly consumes no PP when using a move.|🟇|||||||||||||
+Gyarados|Tempest Sash|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Lapras|Lapras Song|Raises Sp. Attack by 5|🟃|Lapras Card|Raises Sp. Defense by 3|🟃|Wavy Charm|Halves damage taken from Selfdestruct and Explosion|🟇|Mystic Scarf|Recovers HP when hit by a Fire move.|✯||||
+Ditto|Ditto Torc|Kecleon Shops appear more often.|🟇|||||||||||||
+Eevee|Eevee Tail|Raises Defense by 3|🟃|Eevee Card|Raises Sp. Defense by 3|🟃|Evolve Charm|Earns the Pokémon bonus exp.|🟇|Prism Ruff|Protects against weather damage.|✯||||
+Vaporeon|Aqua Collar|May afflict attacking enemies with a Cringe status condition.|✯|||||||||||||
+Jolteon|Volt Collar|May afflict attacking enemies with a Paralysis status condition.|✯|||||||||||||
+Flareon|Fire Collar|May afflict attacking enemies with a Burn status condition.|✯|||||||||||||
+Porygon|AI Brooch|When hit, it changes type to one that resists the attacking move.|🟇|||||||||||||
+Omanyte|Spike Brooch|Reflect and Light Screen do not affect this Pokémon's moves.|🟇|||||||||||||
+Omastar|Aged Scarf|Recovers HP when hit by a Grass move.|🟇|||||||||||||
+Kabuto|Kabuto Hat|Pokémon cannot be inflicted with the Confusion status condition.|🟇|||||||||||||
+Kabutops|Kabu-Torc|Recovers HP when hit by a Grass move.|🟇|||||||||||||
+Aerodactyl|Old Brooch|Increases amount of PP foes use, in addition to Aerodactyl's Pressure Ability.|🟇|||||||||||||
+Snorlax|Snorlax Gasp|Raises Sp. Attack by 5|🟃|Snorlax Fang|Raises Attack by 5|🟃|Valor Charm|Raises Attack and Sp. Attack by 5|🟇|Glee Scarf|Recovers HP when hit by a Fighting move.|✯||||
+Articuno|Freeze Veil|May leave Articuno with 1 HP after being hit by a fatal blow.|✯|||||||||||||
+Zapdos|Thunder Veil|May leave Zapdos with 1 HP after being hit by a fatal blow.|✯|||||||||||||
+Moltres|Fire Veil|May leave Moltres with 1 HP after being hit by a fatal blow.|✯|||||||||||||
+Dratini|Dragon Sash|Boosts Evasion by 2 during the Fog weather condition.|🟇|||||||||||||
+Dragonair|Aloft Mantle|Adds 2 to base PP of all moves.|🟇|||||||||||||
+Dragonite|Mirage Cape|Recovers HP when hit by an Ice move.|🟇|||||||||||||
+Mewtwo|Havoc Robe|Increases amount of PP foes use, in addition to Mewtwo's Pressure Ability.|✯|||||||||||||
+Mew|Life Ring|Protects Mew from status conditions.|✯|||||||||||||
+Chikorita|Chiko-Claw|Raises Attack by 5|🟃|Chiko-Card|Raises Sp. Defense by 3|🟃|Dawn Jewel|Raises Attack by 5 and Sp. Defense by 3|🟇|Fresh Bow|Increases maximum HP by 10.|✯||||
+Bayleef|Bayleef Claw|Raises Attack by 5|🟃|Bayleef Card|Raises Sp. Defense by 3|🟃|Bayleef Seal|Raises Attack by 5 and Sp. Defense by 3|🟇|Spice Bow|Increases the amount of HP recovered through HP-draining moves.|✯||||
+Meganium|Megani-Claw|Raises Attack by 5|🟃|Megani-Card|Raises Sp. Defense by 3|🟃|Shiny Charm|Raises Attack by 5 and Sp. Defense by 3|🟇|Bright Veil|Recovers HP when hit by a Fire move.|✯||||
+Cyndaquil|Cynda-Hair|Raises Sp. Defense by 3|🟃|Cynda-Claw|Raises Attack by 5|🟃|Blazing Rock|Raises Attack by 5 and Sp. Defense by 3|🟇|Storm Sash|Increases maximum HP by 10.|✯||||
+Quilava|Quila-Hair|Raises Defense by 3|🟃|Quila-Card|Raises Sp. Defense by 3|🟃|Quila-Crest|Raises Defense and Sp. Defense by 3 each|🟇|Volcano Torc|Boosts Movement Speed during the Sunny weather condition.|✯||||
+Typhlosion|Typhlo-Gasp|Raises Sp. Attack by 5|🟃|Typhlo-Fang|Raises Attack by 5|🟃|Typhlo-Seal|Raises Attack and Sp. Attack by 5 each|🟇|Blast Bangle|Recovers HP when hit by a Water move.|✯||||
+Totodile|Totodi-Dew|Raises Defense by 3|🟃|Totodi-Fang|Raises Sp. Attack by 5|🟃|Water Heart|Raises Defense by 3 and Sp. Attack by 5|🟇|Wash Bow|Increases maximum HP by 10.|✯||||
+Croconaw|Croco-Fang|Raises Sp. Attack by 5|🟃|Croco-Card|Raises Sp. Defense by 3|🟃|Swirl Rock|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Anger Scarf|Counters 1/4 of the damage a foe does back at the foe.|✯||||
+Feraligatr|Feral-Claw|Raises Attack by 5|🟃|Feral-Fang|Raises Sp. Attack by 5|🟃|Feral-Crest|Raises Attack and Sp. Attack by 5 each|🟇|Hydro Jaw|Recovers HP when hit by an Electric move.|✯||||
+Sentret|Sentret Ruff|Boosts Movement Speed by 1 during the Cloudy weather condition.|🟇|||||||||||||
+Furret|Body Collar|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Hoothoot|Expose Specs|Enables Fighting moves and Normal moves to inflict increased damage on Ghost Pokémon.|🟇|||||||||||||
+Noctowl|Noctowl Torc|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Ledyba|Morning Bow|Boosts Movement Speed by 1 during the Clear weather condition.|🟇|||||||||||||
+Ledian|Ledian Bow|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Spinarak|Spina-Scarf|May reduce the Movement Speed of attacking enemies by 1 level when hit.|🟇|||||||||||||
+Ariados|Ariados Bow|Recovers HP when hit by an Rock move.|🟇|||||||||||||
+Crobat|Slash Bow|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Chinchou|Shine Torc|May afflict attacking enemies with a Paralysis status condition.|🟇|||||||||||||
+Lanturn|Lanturn Bow|Recovers HP when hit by a Ground move.|🟇|||||||||||||
+Pichu|Pichu Hair|Raises Defense by 3|🟃|Pichu Card|Raises Sp. Defense by 3|🟃|Express Tag|Raises Attack and Sp. Defense by 3 each|🟇|Shocker Cape|Adds 2 to base PP of all moves.|✯|Thundershard|Randomly consumes no PP when using a move.|✯|
+Cleffa|Cleffa Dew|Raises Sp. Attack by 5|🟃|Cleffa Card|Raises Sp. Defense by 3|🟃|Starry Ore|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Comet Ring|May afflict attacking enemies with a Confused status condition.|✯|Fallen Star|Raises the chance of enemies dropping boxes.|✯|
+Igglybuff|Iggly-Dew|Raises Sp. Attack by 5|🟃|Iggly-Card|Raises Sp. Defense by 3|🟃|Bouncy Charm|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Pretty Bow|Increases maximum HP by 10.|✯|Fluff Dust|Raises the chance of enemies dropping boxes.|✯|
+Togepi|Togepi Dew|Raises Sp. Attack by 5|🟃|Togepi Card|Raises Sp. Defense by 3|🟃|Pure Heart|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Angel Scarf|Increases maximum HP by 10.|✯|Egg Shard|Reflects thrown items back at the attacker.|✯|
+Togetic|Togetic Wing|Raises Attack by 5|🟃|Togetic Card|Raises Sp. Defense by 3|🟃|Happy Rock|Raises Attack by 5 and Sp. Defense by 3|🟇|Luck Brooch|Randomly consumes no PP when using a move.|✯||||
+Natu|Lively Scarf|Hidden Stairs are more likely to appear.|🟇|||||||||||||
+Xatu|Xatu Bow|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Mareep|Wool Bow|Protects from the Sleep status condition.|🟇|||||||||||||
+Flaaffy|Fluffy Scarf|Special moves are weakened to half their strength.|🟇|||||||||||||
+Ampharos|Sacred Scarf|Recovers HP when hit by a Ground move.|🟇|||||||||||||
+Bellossom|Bright Tiara|Protects against bad status conditions during the Sunny weather condition.|🟇|||||||||||||
+Marill|Marill Dew|Raises Defense by 3|🟃|Marill Card|Raises Sp. Defense by 3|🟃|Surfer Rock|Raises Defense and Sp. Defense by 3 each|🟇|Brine Scarf|May afflict attacking enemies with a Shadow Hold status condition.|✯||||
+Azumarill|Azuma-Dew|Raises Defense by 3|🟃|Azuma-Card|Raises Sp. Defense by 3|🟃|Stream Charm|Raises Defense and Sp. Defense by 3 each|🟇|Dotted Scarf|Recovers HP when hit by an Electric move.|✯||||
+Sudowoodo|Sudo-Sweat|Raises Attack by 5|🟃|Sudo-Card|Raises Sp. Defense by 3|🟃|Drain Rock|Raises Attack by 5 and Sp. Defense by 3|🟇|Fake Torc|Recovers HP when hit by a Steel move.|✯||||
+Politoed|Rain Crown|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Hoppip|Zephyr Bow|Boosts Evasion by 2 during the Sunny weather condition.|🟇|||||||||||||
+Skiploom|Skip-Scarf|Increases recovery rate of HP when walking in a dungeon.|🟇|||||||||||||
+Jumpluff|Cotton Torc|Recovers HP when hit by an Ice move.|🟇|||||||||||||
+Aipom|Revenge Ruff|This Pokémon's Pickup Ability is more likely to activate.|🟇|||||||||||||
+Sunkern|Hasty Bow|Boosts Evasion by 2 during the Sunny weather condition.|🟇|||||||||||||
+Sunflora|Sun Scarf|Recovers HP when hit by an Fire move.|✯|||||||||||||
+Yanma|Chitin Bow|Weather does not damage this Pokémon.|🟇|||||||||||||
+Wooper|Wooper Bow|Weather does not damage this Pokémon.|🟇|||||||||||||
+Quagsire|Quag-Torc|Recovers HP when hit by a Grass move.|🟇|||||||||||||
+Espeon|Light Collar|May afflict attacking enemies with a Confused status condition.|✯|||||||||||||
+Umbreon|Dusk Collar|May afflict attacking enemies with a Blinker status condition.|✯|||||||||||||
+Murkrow|Murkrow Hat|Random chance of sealing an opponent's move.|🟇|||||||||||||
+Slowking|King Cap|Special moves are weakened to half their strength.|🟇|||||||||||||
+Misdreavus|Misdrea-Cape|May afflict attacking enemies with a Perish Song status condition.|🟇|||||||||||||
+Unown|Cryptic Sash|May afflict attacking enemies with a Confusion status condition.|🟇|||||||||||||
+Wobbuffet|Wobbu-Sweat|Raises Attack by 5|🟃|Wobbu-Card|Raises Sp. Defense by 3|🟃|Endure Rock|Raises Attack by 5 and Sp. Defense by 3|🟇|Suffer Scarf|Recovers HP when hit by a Dark move.|✯||||
+Girafarig|Reverse Bow|May afflict attacking enemies with a Confused status condition.|🟇|||||||||||||
+Pineco|Robust Bow|Increases maximum HP by 10.|🟇|||||||||||||
+Forretress|Dense Poncho|Recovers HP when hit by a Flying move.|🟇|||||||||||||
+Dunsparce|Escape Scarf|Boosts Movement Speed by 1 during the Cloudy weather condition.|🟇|||||||||||||
+Gligar|Takeoff Ruff|Boosts Movement Speed by 1 during the Sandstorm weather condition.|🟇|||||||||||||
+Steelix|Quartz Torc|Recovers HP when hit by a Ground move.|🟇|||||||||||||
+Snubbull|Snub-Cape|Randomly consumes no PP when using a move.|🟇|||||||||||||
+Granbull|Stern Sash|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Qwilfish|Qwilfish Bow|Makes thrown or hurled items bounce off the Pokémon.|🟇|||||||||||||
+Scizor|Scizor Wing|Raises Attack by 5|🟃|Scizor Card|Raises Sp. Defense by 3|🟃|Steel Charm|Raises Attack by 5 and Sp. Defense by 3|🟇|Red Armlet|Recovers HP when hit by a Flying move.|✯||||
+Shuckle|Shuckle Bow|Any Berry or Apple eaten will recover an extra 10 HP.|🟇|||||||||||||
+Heracross|Horn Torc|Reflect and Light Screen do not affect this Pokémon's moves.|🟇|||||||||||||
+Sneasel|Sneasel Claw|Raises Attack by 5|🟃|Sneasel Card|Raises Sp. Defense by 3|🟃|Dusk Jewel|Raises Attack by 5 and Sp. Defense by 3|🟇|Cruel Ring|Prevents an Infatuated status condition.|✯||||
+Teddiursa|Teddi-Claw|Raises Attack by 5|🟃|Teddi-Card|Raises Sp. Defense by 3|🟃|Honey Rock|Raises Attack by 5 and Sp. Defense by 3|🟇|Heal Scarf|Increases recovery rate of HP when walking in a dungeon.|✯||||
+Ursaring|Ursa-Claw|Raises Attack by 5|🟃|Ursa-Fang|Raises Sp. Attack by 5|🟃|Calming Rock|Raises Attack and Sp. Attack by 5 each|🟇|Hiber Scarf|Recovers HP when hit by a Fighting move.|✯||||
+Slugma|Lava Bow|Earns the Pokémon bonus Exp. points.|🟇|||||||||||||
+Magcargo|Torrid Scarf|Recovers HP when hit by a Water move.|🟇|||||||||||||
+Swinub|Frigid Bow|Earns the Pokémon bonus Exp. points|🟇|||||||||||||
+Piloswine|Frost Torc|May afflict attacking enemies with a Frozen status condition.|🟇|||||||||||||
+Corsola|Eager Brooch|Weather does not damage this Pokémon.|🟇|||||||||||||
+Remoraid|Reach Bow|Gives Long Toss status.|🟇|||||||||||||
+Octillery|Psy Bow|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Delibird|Snow Brooch|Attacks twice in one turn during the Hail weather condition.|🟇|||||||||||||
+Mantine|Mantine Foam|Raises Defense by 3|🟃|Mantine Card|Raises Sp. Defense by 3|🟃|Sunset Rock|Raises Defense and Sp. Defense by 3 each|🟇|Horizon Bow|Recovers HP when hit by an Electric move.|✯||||
+Skarmory|Scar-Cape|Counters physical damage with full power.|🟇|||||||||||||
+Houndour|Dark Choker|May afflict attacking enemies with a Cringe status condition.|🟇|||||||||||||
+Houndoom|Pit Fang|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Kingdra|Tornado Bow|Recovers HP when hit by a Dragon move.|🟇|||||||||||||
+Phanpy|Phanpy Claw|Raises Attack by 5|🟃|Phanpy Card|Raises Sp. Defense by 3|🟃|Phanpy Tag|Raises Attack by 5 and Sp. Defense by 3|🟇|Value Ruff|Hidden Stairs are more likely to appear.|✯||||
+Donphan|Donphan Fang|Raises Sp. Attack by 5|🟃|Donphan Card|Raises Sp. Defense by 3|🟃|Don-Crest|Raises Sp Attack by 5 and Sp. Defense by 3|🟇|Armor Scarf|Recovers HP when hit by a Grass move.|✯||||
+Porygon2|Virtual Bow|Ranged moves and thrown items pass harmlessly through teammates.|🟇|||||||||||||
+Stantler|Delusion Bow|May afflict attacking enemies with a Confused status condition.|🟇|||||||||||||
+Smeargle|Paint Scarf|Hidden Stairs are more likely to appear.|🟇|||||||||||||
+Tyrogue|Tyro-Sweat|Raises Attack by 5|🟃|Tyro-Card|Raises Sp. Attack by 5|🟃|Muscle Charm|Gives the Pokémon Longtoss status.|🟇|Pep Sash|Earns the Pokémon 5 exp. points each time it is hit.|✯|Heroic Medal|Enables Fighting moves and Normal moves to inflict increased damage on Ghost Pokémon.|✯|
+Hitmontop|Power Bangle|Reflect and Light Screen do not affect this Pokémon's moves.|✯||||||🟇|||||||
+Smoochum|Smooch-Song|Raises Sp. Attack by 5|🟃|Smooch-Card|Raises Sp. Defense by 3|🟃|Kiss Charm|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Heart Tiara|May afflict attacking enemies with an Infatuated status condition.|✯|Chic Shard|Enables Psychic moves to inflict increased damage on Dark Pokémon.|✯|
+Elekid|Elekid Claw|Raises Attack by 5|🟃|Elekid Card|Raises Sp. Defense by 3|🟃|Jolt Charm|Raises Attack by 5 and Sp. Defense by 3|🟇|Current Ring|Adds 2 to base PP of all moves.|✯|Yellow Jewel|Increases maximum HP by 10.|✯|
+Magby|Magby Claw|Raises Attack by 5|🟃|Magby Card|Raises Sp. Defense by 3|🟃|Ember Jewel|Raises Attack by 5 and Sp. Defense by 3|🟇|Coal Ring|Adds 2 to base PP of all moves.|✯|Red Jewel|Increases maximum HP by 10.|✯|
+Miltank|Milky Scarf|Increases recovery rate of HP when walking in a dungeon.|🟇|||||||||||||
+Blissey|Blissey Song|Raises Sp. Attack by 5|🟃|Blissey Card|Raises Sp. Defense by 3|🟃|Amity Rock|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Faith Ring|Recovers HP when hit by a Fighting move.|✯||||
+Raikou|Bolt Fang|Reflect and Light Screen do not affect Raikou's moves.|✯|||||||||||||
+Entei|Flare Fang|Reflect and Light Screen do not affect Entei's moves.|✯|||||||||||||
+Suicune|Aqua Mantle|Special moves are weakened to half their strength on Suicune.|✯|||||||||||||
+Larvitar|Larvitar Bow|May afflict attacking enemies with a Cringe status condition.|🟇|||||||||||||
+Pupitar|Pupita-Scarf|Halves damage taken from Selfdestruct or Explosion|🟇|||||||||||||
+Tyranitar|Crash Claw|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Lugia|Silver Veil|Increases amount of PP foes use, in addition to Lugia's Pressure Ability.|✯|||||||||||||
+Ho-Oh|Rainbow Veil|Status conditions are reflected from Ho-Oh back to the user.|✯|||||||||||||
+Celebi|Chrono Veil|Restores 1 PP to all of Celebi's moves when it reaches another floor.|✯|||||||||||||
+Treecko|Treeck-Thorn|Raises Attack by 5|🟃|Treeck-Card|Raises Sp. Defense by 3|🟃|Forest Ore|Raises Attack by 5 and Sp. Defense by 3|🟇|Guard Ring|Increases maximum HP by 10.|✯||||
+Grovyle|Grovy-Shoot|Raises Defense by 3|🟃|Grovy-Card|Raises Sp. Defense by 3|🟃|Jungle Tag|Raises Defense and Sp. Defense by 3 each|🟇|Grass Blade|Counters 1/4 of the damage a foe does back at the foe.|✯||||
+Sceptile|Scept-Claw|Raises Attack by 5|🟃|Scept-Card|Raises Sp. Defense by 3|🟃|Scept-Seal|Raises Attack by 5 and Sp. Defense by 3|🟇|Drain Bangle|Recovers HP when hit by a Fire move.|✯||||
+Torchic|Torchic Hair|Raises Defense by 3|🟃|Torchic Card|Raises Sp. Defense by 3|🟃|Hot Pebble|Raises Defense and Sp. Defense by 3 each|🟇|Fire Cape|Increases maximum HP by 10.|✯||||
+Combusken|Combus-Sweat|Raises Attack by 5|🟃|Combus-Claw|Raises Sp. Attack by 5|🟃|Charge Tag|Raises Attack and Sp. Attack by 5 each|🟇|Gutsy Band| Boosts Movement Speed by 1 during the Sunny weather condition.|✯||||
+Blaziken|Blazi-Claw|Raises Attack by 5|🟃|Blazi-Card|Raises Sp. Defense by 3|🟃|Blazi-Seal|Raises Attack by 5 and Sp. Defense by 3|🟇|Blaze Torc|Recovers HP when hit by a Water move.|✯||||
+Mudkip|Mudkip Mud|Raises Sp. Attack by 5|🟃|Mudkip Card|Raises Sp. Defense by 3|🟃|Mud Jewel|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Speed Scarf|Protects against thrown items.|✯||||
+Marshtomp|Marsh-Mud|Raises Sp. Attack by 5|🟃|Marsh-Card|Raises Sp. Defense by 3|🟃|Marsh-Crest|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Marsh Torc|May afflict attacking enemies with a Shadow Hold status condition.|✯||||
+Swampert|Swamp-Mud|Raises Sp. Attack by 5|🟃|Swamp-Card|Raises Sp. Defense by 3|🟃|Swamp-Seal|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Swamp Bangle|Recovers HP when hit by a Grass move.|✯||||
+Poochyena|Pooch-Collar|Boosts Movement Speed by 1 during the Cloudy weather condition.|🟇|||||||||||||
+Mightyena|Dark Fang|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Zigzagoon|Merry Scarf|This Pokémon's Pickup Ability is more likely to activate.|🟇|||||||||||||
+Linoone|Linoone Ruff|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Wurmple|Wurmple Bow|Earns the Pokémon bonus Exp. points.|🟇|||||||||||||
+Silcoon|Tough Scarf|Foes cannot get a critical hit on this Pokémon.|🟇|||||||||||||
+Beautifly|Vivid Silk|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Cascoon|Guard Bow|Weather does not damage this Pokémon.|🟇|||||||||||||
+Dustox|Dustox Bow|Recovers HP when hit by a Psychic move.|🟇|||||||||||||
+Lotad|Kelp Hat|Increases maximum HP by 10.|🟇|||||||||||||
+Lombre|Jolly Scarf|Boosts Evasion by 2 during the Rainy weather condition.|🟇|||||||||||||
+Ludicolo|Ludicolo Hat|Recovers HP when hit by a Bug move.|🟇|||||||||||||
+Seedot|Seedot Hat|Increases maximum HP by 10.|🟇|||||||||||||
+Nuzleaf|Nuzleaf Bow|Boosts Evasion by 2 during the Sunny weather condition.|🟇|||||||||||||
+Shiftry|Shiftry Belt|Recovers HP when hit by a Bug move.|🟇|||||||||||||
+Taillow|Taillow Bow|Earns the Pokémon 5 exp. points each time it is hit.|🟇|||||||||||||
+Swellow|Midair Scarf|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Wingull|Wingull Bow|May restore PP of a random move upon taking any kind of damage.|🟇|||||||||||||
+Pelipper|Stock Scarf|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Ralts|Sensing Hat|Adds 2 to base PP of all moves.|🟇|||||||||||||
+Kirlia|Magical Bow|Enables Psychic moves to inflict increased damage on Dark Pokémon.|🟇|||||||||||||
+Gardevoir|Caring Scarf|Recovers HP when hit by a Dark move.|🟇|||||||||||||
+Surskit|Bliss Scarf|Boosts Movement Speed by 1 during the Rainy weather condition.|🟇|||||||||||||
+Masquerain|Blocking Bow|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Shroomish|Mobile Bow|Pokémon cannot be inflicted with the Paralysis status condition.|🟇|||||||||||||
+Breloom|Thwart Bow|Recovers HP when hit by a Flying move.|🟇|||||||||||||
+Slakoth|Slak-Scarf|May afflict attacking enemies with a Sleep status condition.|🟇|||||||||||||
+Vigoroth|Vigor Sash|Reflect and Light Screen do not affect this Pokémon's moves.|🟇|||||||||||||
+Slaking|Lazy Ruff|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Nincada|Novice Scarf|Increases recovery rate of HP when walking in a dungeon.|🟇|||||||||||||
+Ninjask|Ninja Ruff|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Shedinja|Awe Mantle|Recovers HP when hit by a Ghost move.|🟇|||||||||||||
+Whismur|Good Earring|Adds 2 to base PP of all moves.|🟇|||||||||||||
+Loudred|Nice Bangle|Pokémon cannot be inflicted with the Sleep status condition.|🟇|||||||||||||
+Exploud|Great Torc|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Makuhita|Makuhit-Belt|Counters physical damage with full power.|🟇|||||||||||||
+Hariyama|Thrust Belt|Recovers HP when hit by a Psychic move.|🟇|||||||||||||
+Azurill|Azuri-Dew|Raises Sp. Attack by 5|🟃|Azuri-Card|Raises Sp. Defense by 3|🟃|Fount Charm|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Water Float|Adds 2 to base PP of all moves.|✯|Blue Jewel|Increases maximum HP by 10.|✯|
+Nosepass|Nose-Torc|Pokémon cannot be inflicted with the Confusion status condition.|🟇|||||||||||||
+Skitty|Skitty Fang|Raises Sp. Attack by 5|🟃|Skitty Card|Raises Sp. Defense by 3|🟃|Smile Pebble|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Heal Pendant|Increases recovery rate of HP when walking in a dungeon.|✯||||
+Delcatty|Delcat-Hair|Raises Sp. Defense by 3|🟃|Delcat-Fang|Raises Sp. Attack by 5|🟃|Prim Pebble|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Guard Collar|Recovers HP when hit by a Fighting move.|✯||||
+Sableye|Sable-Scope|May afflict attacking enemies with a Blinker status condition.|🟇|||||||||||||
+Mawile|Deceit Mask|Random chance of sealing an opponent's move.|🟇|||||||||||||
+Aron|Iron Torc|Foes cannot get a critical hit on this Pokémon.|🟇|||||||||||||
+Lairon|Metal Bangle|Eliminates any damage taken from Selfdestruct or Explosion|🟇|||||||||||||
+Aggron|Iron Helmet|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Meditite|Intuit Bow|Boosts Evasion by 2 during the Clear weather condition.|🟇|||||||||||||
+Medicham|Ponder Sash|Recovers HP when hit by a Ghost move.|🟇|||||||||||||
+Electrike|Punish Torc|Counters 1/4 of the damage a foe does back at the foe.|🟇|||||||||||||
+Manectric|Protect Mask|Recovers HP when hit by a Ground move.|🟇|||||||||||||
+Plusle|Plusle Tail|Raises Defense by 3|🟃|Plusle Card|Raises Sp. Defense by 3|🟃|Cheer Rock|Earns the Pokemon bonus Exp. Points.|🟇|Pulse Bow|May restore PP of a random move upon taking any kind of damage.|✯||||
+Minun|Minun Tail|Raises Defense by 3|🟃|Minun Card|Raises Sp. Defense by 3|🟃|Volt Heart|Earns the Pokemon bonus Exp. Points.|🟇|Spark Tie|May restore PP of a random move upon taking any kind of damage.|✯||||
+Volbeat|Neon Scarf|Raises the chance of enemies dropping money.|🟇|||||||||||||
+Illumise|Evening Bow|Raises the chance of enemies dropping boxes.|🟇|||||||||||||
+Roselia|Thorned Torc|Counters 1/4 of the physical damage a foe does back at the foe.|🟇|||||||||||||
+Gulpin|Gulpin Bow|Any Berry or Apple eaten will recover an extra 10 HP.|🟇|||||||||||||
+Swalot|Swalot Belt|Recovers HP when hit by a Psychic move.|🟇|||||||||||||
+Carvanha|Carva-Sash|Boosts Movement Speed by 1 during the Rain weather condition.|🟇|||||||||||||
+Sharpedo|Vicious Bow|Recovers HP when hit by a Bug move.|🟇|||||||||||||
+Wailmer|Spout Scarf|May restore PP of a random move upon taking any kind of damage.|🟇|||||||||||||
+Wailord|Huge Bow|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Numel|Numel Bow|Increases maximum HP by 10.|🟇|||||||||||||
+Camerupt|Erupt Scarf|Recovers HP when hit by a Water move.|🟇|||||||||||||
+Torkoal|Sooty Sash|May afflict attacking enemies with a Burn status condition.|🟇|||||||||||||
+Spoink|Spring Bow|Raises the chance of enemies dropping money.|🟇|||||||||||||
+Grumpig|Scheme Scarf|Recovers HP when hit by a Dark move.|🟇|||||||||||||
+Spinda|Hula Bow|Raises the chance of enemies dropping boxes.|🟇|||||||||||||
+Trapinch|Desert Bow|Boosts Evasion by 2 during the Sandstorm weather condition.|🟇|||||||||||||
+Vibrava|Vibra Scarf|Pokémon cannot be inflicted with the Sleep status condition.|🟇|||||||||||||
+Flygon|Red Glasses|Recovers HP when hit by an Ice move.|🟇|||||||||||||
+Cacnea|Desert Sash|Boosts Movement Speed by 1 during the Sandstorm weather condition.|🟇|||||||||||||
+Cacturne|Cacturne Hat|Recovers HP when hit by a Bug move.|🟇|||||||||||||
+Swablu|Tuft Bow|Prevents the Pokémon's stats from being lowered by enemies or traps.|🟇|||||||||||||
+Altaria|Cloud Ruff|Recovers HP when hit by an Ice move.|🟇|||||||||||||
+Zangoose|Strong Sash|Counters physical damage with full power.|🟇|||||||||||||
+Seviper|Seviper Bow|May afflict attacking enemies with a Cringe status condition.|🟇|||||||||||||
+Lunatone|Lunaton-Torc|May restore PP of a random move upon taking any kind of damage.|🟇|||||||||||||
+Solrock|Solrock Bow|Randomly consumes no PP when using a move.|🟇|||||||||||||
+Barboach|Soak Scarf|Boosts Evasion by 2 during the Rainy weather condition.|🟇|||||||||||||
+Whiscash|Whiscash Bow|Recovers HP when hit by a Grass move.|🟇|||||||||||||
+Corphish|Bossy Scarf|May afflict attacking enemies with a Cringe status condition.|🟇|||||||||||||
+Crawdaunt|Cower Sash|Recovers HP when hit by a Bug move.|🟇|||||||||||||
+Baltoy|Bal-Brooch|Random chance of sealing an opponent's move.|🟇|||||||||||||
+Claydol|Claydol Torc|Recovers HP when hit by a Dark move.|🟇|||||||||||||
+Lileep|Bind Scarf|May afflict attacking enemies with a Shadow Hold status condition.|🟇|||||||||||||
+Cradily|Cradily Bow|Recovers HP when hit by a Steel move.|🟇|||||||||||||
+Anorith|Guard Claw|Increases maximum HP by 10.|🟇|||||||||||||
+Armaldo|Rigid Cape|Recovers HP when hit by a Water move.|🟇|||||||||||||
+Feebas|Admire Scarf|Raises the chance of enemies dropping money.|🟇|||||||||||||
+Milotic|Grace Scarf|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Castform|Cast-Dew|Raises Defense by 3|🟃|Cast-Card|Raises Sp. Defense by 3|🟃|Cloud Rock|Eliminates any damage taken from Selfdestruct or Explosion|🟇|Weather Cape|Prevents all status conditions during the Clear weather condition.|✯||||
+Kecleon|Kecleon Torc|Kecleon Shops appear more often.|🟇|||||||||||||
+Shuppet|Shuppet Cape|Boosts Evasion by 2 during the Cloudy weather condition.|🟇|||||||||||||
+Banette|Ominous Torc|Recovers HP when hit by a Ghost move.|🟇|||||||||||||
+Duskull|Duskull Ruff|Protects from the Sleep status condition.|🟇|||||||||||||
+Dusclops|Illusion Bow|May afflict attacking enemies with a Sleep status condition.|🟇|||||||||||||
+Tropius|Tropius Bow|May afflict attacking enemies with a Poison, Paralysis, or Sleep status condition.|🟇|||||||||||||
+Chimecho|Chime-Scarf|Recovers HP when hit by a Dark move.|🟇|||||||||||||
+Absol|Perish Torc|May afflict attacking enemies with a Perish Song status condition.|🟇|||||||||||||
+Wynaut|Wynaut Tail|Raises Defense by 3|🟃|Wynaut Card|Raises Sp. Defense by 3|🟃|Grin Charm|Raises Defense and Sp. Defense by 3 each|🟇|Cheery Scarf|Increases maximum HP by 10.|✯|Laugh Dust|Raises the chance of enemies dropping boxes.|✯|
+Snorunt|Chilly Hat|May afflict attacking enemies with a Frozen status condition.|🟇|||||||||||||
+Glalie|Hail Scarf|Recovers HP when hit by a Fire move.|🟇|||||||||||||
+Spheal|Sleet Bow|May afflict attacking enemies with a Frozen status condition.|🟇|||||||||||||
+Sealeo|Safe Scarf|Boosts Movement Speed by 1 during the Hail weather condition.|🟇|||||||||||||
+Walrein|Walrein Torc|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Clamperl|Clam-Brooch|Halves damage taken from Selfdestruct or Explosion|🟇|||||||||||||
+Huntail|Deep Torc|Recovers HP when hit by a Grass move.|🟇|||||||||||||
+Gorebyss|Gore-Scarf|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Relicanth|Reli-Torc|Prevents the Pokémon's moves from being sealed.|🟇|||||||||||||
+Luvdisc|Luvdisc Torc|May afflict attacking enemies with an Infatuation status condition.|🟇|||||||||||||
+Bagon|Crag Helmet|Foes cannot get a critical hit on this Pokémon.|🟇|||||||||||||
+Shelgon|Outlast Bow|Eliminates any damage taken from Selfdestruct or Explosion|🟇|||||||||||||
+Salamence|Sala-Cape|Recovers HP when hit by an Ice move.|🟇|||||||||||||
+Beldum|Beldum Torc|Eliminates any damage taken from Selfdestruct or Explosion|🟇|||||||||||||
+Metang|Metang Scarf|Enables Psychic moves to inflict increased damage on Dark Pokémon.|🟇|||||||||||||
+Metagross|Meta-Torc|Recovers HP when hit by a Ground move.|🟇|||||||||||||
+Regirock|Rock Sash|Physical moves are weakened to half their strength on Regirock.|✯|||||||||||||
+Regice|Ice Sash|Physical moves are weakened to half their strength on Regice.|✯|||||||||||||
+Registeel|Steel Sash|Physical moves are weakened to half their strength on Registeel.|✯|||||||||||||
+Latias|Heart Brooch|May inflict Latias with an Invisible status condition when attacked.|✯|||||||||||||
+Latios|Eon Veil|May increase Latios' Movement Speed by 1 when attacked.|✯|||||||||||||
+Kyogre|Seabed Veil|Kyogre can attack twice in one turn during the Rain weather condition.|✯|||||||||||||
+Groudon|Terra Ring|Groudon can attack twice in one turn during the Sunny weather condition.|✯|||||||||||||
+Rayquaza|SkyHigh Veil|Rayquaza can attack twice in one turn during the Clear weather condition.|✯|||||||||||||
+Jirachi|Wish Mantle|Completely restores Jirachi's HP when entering a new floor.|✯|||||||||||||
+Deoxys|Revive Robe|Increases amount of PP foes use, in addition to Deoxys' Pressure Ability.|✯|||||||||||||
+Turtwig|Lucky Leaf|Raises Defense by 3|🟃|Turtwig Card|Raises Sp. Defense by 3|🟃|Sprout Rock|Raises Defense and Sp. Defense by 3 each|🟇|Leafy Hat|Increases maximum HP by 10.|✯||||
+Grotle|Grotle Twig|Raises Defense by 3|🟃|Grotle Claw|Raises Attack by 5|🟃|Grotle Crest|Raises Attack by 5 and Defense by 3|🟇|Woody Scarf|Increases the amount of HP recovered through HP-draining moves.|✯||||
+Torterra|Tort-Claw|Raises Sp. Attack by 5|🟃|Tort-Horn|Raises Attack by 5|🟃|Tort-Seal|Raises Attack and Sp. Attack by 5 each|🟇|Forest Torc|Recovers HP when hit by a Grass move.|✯||||
+Chimchar|Chim-Hair|Raises Sp. Defense by 3|🟃|Chim-Fang|Raises Sp. Attack by 5|🟃|Nimble Charm|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Ember Cap|May afflict attacking enemies with a Burn status condition.|✯||||
+Monferno|Monfer-Hair|Raises Sp. Defense by 3|🟃|Monfer-Fang|Raises Sp. Attack by 5|🟃|Monfer-Crest|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Burst Sash|Boosts Movement Speed by 1 during the Sunny weather condition.|✯||||
+Infernape|Infern-Hair|Raises Sp. Defense by 3|🟃|Infern-Fang|Raises Sp. Attack by 5|🟃|Infern-Seal|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Blazing Ruff|Recovers HP when hit by a Water move.|✯||||
+Piplup|Piplup Foam|Raises Defense by 3|🟃|Piplup Card|Raises Sp. Defense by 3|🟃|Sea Ore|Raises Defense and Sp. Defense by 3 each|🟇|Water Cape|Increases maximum HP by 10.|✯||||
+Prinplup|Prin-Foam|Raises Defense by 3|🟃|Prin-Card|Raises Sp. Defense by 3|🟃|Prin-Crest|Raises Defense and Sp. Defense by 3 each|🟇|Aqua Blade|Counters 1/4 of the damage a foe does back at the foe.|✯||||
+Empoleon|Empol-Claw|Raises Sp. Attack by 5|🟃|Empol-Horn|Raises Attack by 5|🟃|Empol-Seal|Raises Attack and Sp. Attack by 5 each|🟇|Marine Crown|Recovers HP when hit by a Ground move.|✯||||
+Starly|Starly Bow|May afflict attacking enemies with a Confused status condition.|🟇|||||||||||||
+Staravia|Regret Torc|Foes cannot get a critical hit on this Pokémon.|🟇|||||||||||||
+Staraptor|Guts Sash|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Bidoof|Bidoof Tooth|Raises Attack by 5|🟃|Bidoof Card|Raises Sp. Defense by 3|🟃|Fall Charm|Raises Attack by 5 and Sp. Defense by 3|🟇|Stolid Scarf|Protects from the Infatuated status condition.|✯||||
+Bibarel|Biba-Tooth|Raises Attack by 5|🟃|Biba-Card|Raises Sp. Defense by 3|🟃|River Charm|Raises Attack by 5 and Sp. Defense by 3|🟇|Dam Scarf|Recovers HP when hit by an Electric move.|✯||||
+Kricketot|Still Bow|Increases maximum HP by 10.|🟇|||||||||||||
+Kricketune|Kricke-Torc|Recovers HP when hit by a Flying move.|🟇|||||||||||||
+Shinx|Shinx Claw|Raises Attack by 5|🟃|Shinx Fang|Raises Sp. Attack by 5|🟃|Flash Tag|Raises Attack and Sp. Attack by 5 each|🟇|Energy Scarf|Adds 2 to base PP of all moves.|✯||||
+Luxio|Luxio Claw|Raises Attack by 5|🟃|Luxio Fang|Raises Sp. Attack by 5|🟃|Spark Tag|Raises Attack and Sp. Attack by 5 each|🟇|Spark Scarf|May afflict attacking enemies with a Paralysis status condition.|✯||||
+Luxray|Luxray Claw|Raises Attack by 5|🟃|Luxray Fang|Raises Sp. Attack by 5|🟃|Glare Tag|Raises Attack and Sp. Attack by 5 each|🟇|Glare Sash|Recovers HP when hit by a Ground move.|✯||||
+Budew|Budew Scarf|May restore PP of a random move upon taking any kind of damage.|🟇|||||||||||||
+Roserade|Bouquet Cape|Recovers HP when hit by a Fire move.|🟇|||||||||||||
+Cranidos|Hard Helmet|Ignores Reflect and Light Screen.|🟇|||||||||||||
+Rampardos|Skull Helmet|Recovers HP when hit by a Steel move.|🟇|||||||||||||
+Shieldon|Rebound Bow|Makes thrown or hurled items bounce off the Pokémon.|🟇|||||||||||||
+Bastiodon|Block Brooch|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Burmy|Straw Cape|Increases maximum HP by 10.|🟇|||||||||||||
+Wormadam|Worma-Bow|May afflict attacking enemies with a Poisoned, a Paralysis, or a Sleep status condition. |🟇|||||||||||||
+Mothim|Mothim Bow|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Combee|Nectar Bow|Foes are more likely to drop boxes.|🟇|||||||||||||
+Vespiquen|Vespi-Torc|Recovers HP when hit by a Rock move.|🟇|||||||||✯||||
+Pachirisu|Pachi-Tooth|Raises Attack by 5|🟃|Pachi-Card|Raises Sp. Defense by 3|🟃|Rouse Charm|Raises Attack by 5 and Sp. Defense by 3|🟇|Miracle Bow|Recovers HP when hit by a Ground move.|✯||||
+Buizel|Buizel Fang|Raises Sp. Attack by 5|🟃|Buizel Card|Raises Sp. Defense by 3|🟃|Swimmer Rock|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Screw Torc|Boosts Movement Speed by 1 during the Rain weather condition.|✯||||
+Floatzel|Float-Fang|Raises Sp. Attack by 5|🟃|Float-Card|Raises Sp. Defense by 3|🟃|Rescue Rock|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Float Aid|Recovers HP when hit by an Electric move.|✯||||
+Cherubi|Cherubi Seed|Raises Defense by 3|🟃|Cherubi Card|Raises Sp. Defense by 3|🟃|Cute Ore|Raises Defense and Sp. Defense by 3 each|🟇|Charm Bow|Increases maximum HP by 10.|✯||||
+Cherrim|Cherrim Dew|Raises Defense by 3|🟃|Cherrim Card|Raises Sp. Defense by 3|🟃|Sweet Aroma|Raises Defense and Sp. Defense by 3 each|🟇|Petal Dress|Recovers HP when hit by a Fire move.|✯||||
+Shellos|Awake Bow|Boosts Movement Speed by 1 during the Rainy weather condition.|🟇|||||||||||||
+Gastrodon|Gastro-Torc|Recovers HP when hit by a Grass move. |🟇|||||||||||||
+Ambipom|Ambipom Bow|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Drifloon|Drifloo-Gasp|Raises Sp. Attack by 5|🟃|Drifloo-Card|Raises Sp. Defense by 3|🟃|Wind Heart|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Draft Ring|Protects against thrown items.|✯||||
+Drifblim|Drifbli-Gasp|Raises Sp. Attack by 5|🟃|Drifbli-Card|Raises Sp. Defense by 3|🟃|Easy Charm|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Breeze Scarf|Recovers HP when hit by a Ghost move.|✯||||
+Buneary|Defrost Ruff|Protects the Pokemon from a Frozen status.|🟇|||||||||||||
+Lopunny|Allure Coat|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Mismagius|Magic Hat|Recovers HP when hit by a Ghost move.|🟇|||||||||||||
+Honchkrow|Honch-Cape|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Glameow|Glameow Bow|Attacker may become infatuated.|🟇|||||||||||||
+Purugly|Scary Belt|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Chingling|Ching-Torc|Kecleon Shops appear more often.|🟇|||||||||||||
+Stunky|Stinky Scarf|May afflict attacking enemies with a Cringe status condition.|🟇|||||||||||||
+Skuntank|Stench Sash|Recovers HP when hit by a Ground move.|🟇|||||||||||||
+Bronzor|Image Brooch|May afflict attacking enemies with a Blinker status condition.|🟇|||||||||||||
+Bronzong|Mirror Torc| Recovers HP when hit by a Ghost move.|🟇|||||||||||||
+Bonsly|Bonsly Dew|Raises Sp. Attack by 5|🟃|Bonsly Card|Raises Sp. Defense by 3|🟃|Arid Tag|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Teary Cape|Foes cannot get a critical hit on this Pokémon.|✯|Guard Sand|Increases maximum HP by 10.|✯|
+Mime Jr.|Junior Beam|Raises Sp. Attack by 5|🟃|Junior Card|Raises Sp. Defense by 3|🟃|Mimic Pebble|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Copy Mask|Earns the Pokémon 5 exp. points each time it is hit.|✯|Purple Jewel|Enables Psychic moves to inflict increased damage on Dark Pokémon.|✯|
+Happiny|Happiny Dew|Raises Sp. Attack by 5|🟃|Happiny Card|Raises Sp. Defense by 3|🟃|Play Tag|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Nurture Cape|Earns the Pokémon 5 exp. points each time it is hit.|✯|White Jewel|Raises the chance of enemies dropping boxes.|✯|
+Chatot|Chatot Scarf|May make the Pokémon bounce received moves back at the attacker.|🟇|||||||||||||
+Spiritomb|Shadow Veil|Prevents Spiritomb's moves from being sealed.|✯|||||||||||||
+Gible|Gible Fang|Raises Sp. Attack by 5|🟃|Gible Card|Raises Sp. Defense by 3|🟃|Dragon Jewel|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Dragon Tie|Increases maximum HP by 10.|✯||||
+Gabite|Gabite Claw|Raises Attack by 5|🟃|Gabite Fang|Raises Sp. Attack by 5|🟃|Star Rock|Raises Attack and Sp. Attack by 5 each|🟇|Meteor Torc|Reflect and Light Screen do not affect this Pokémon's moves.|✯||||
+Garchomp|Gar-Claw|Raises Attack by 5|🟃|Gar-Fang|Raises Sp. Attack by 5|🟃|Speed Tag|Raises Attack and Sp. Attack by 5 each|🟇|Mach Scarf|Recovers HP when hit by a Dragon move.|✯||||
+Munchlax|Munch-Drool|Raises Sp. Attack by 5|🟃|Munch-Claw|Raises Attack by 5|🟃|Tummy Charm|Raises Attack and Sp. Attack by 5 each|🟇|Glutton Cape|Increases maximum HP by 10.|✯||||
+Riolu|Riolu Tail|Raises Defense by 3|🟃|Riolu Card|Raises Sp. Defense by 3|🟃|Valiant Rock|Raises Defense and Sp. Defense by 3 each|🟇|Emit Ring|Enables Fighting moves and Normal moves to inflict increased damage on Ghost Pokémon.|✯|Brave Dust|Raises the chance of enemies dropping boxes.|✯|
+Lucario|Lucario Fang|Raises Sp. Attack by 5|🟃|Lucario Card|Raises Sp. Defense by 3|🟃|Pledge Rock|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Ravage Ring|Recovers HP when hit by a Psychic move.|✯||||
+Hippopotas|Thick Scarf|Boosts Evasion by 2 during the Sandstorm weather condition.|🟇|||||||||||||
+Hippowdon|Grit Veil|Recovers HP when hit by a Grass move.|🟇|||||||||||||
+Skorupi|Skorupi Bow|May afflict attacking enemies with a Shadow Hold status condition.|🟇|||||||||||||
+Drapion|Dust Scarf|Recovers HP when hit by a Ground move.|🟇|||||||||||||
+Croagunk|Croa-Torc|Foes are more likely to drop boxes.|🟇|||||||||||||
+Toxicroak|Toxi-Belt|Recovers HP when hit by a Psychic move.|🟇|||||||||||||
+Carnivine|Carni-Bow|Any Berry or Apple eaten will recover an extra 10 HP.|🟇|||||||||||||
+Finneon|Swim Bow|Boosts Movement Speed by 1 during the Rainy weather condition.|🟇|||||||||||||
+Lumineon|Lumi-Torc|Recovers HP when hit by an Electric move.|🟇|||||||||||||
+Mantyke|Mantyke Beam|Raises Sp. Attack by 5|🟃|Mantyke Card|Raises Sp. Defense by 3|🟃|Waft Rock|Raises Sp. Attack by 5 and Sp. Defense by 3|🟇|Ocean Bow|Increases maximum HP by 10.|✯|Heal Dew|Increases recovery rate of HP when walking in a dungeon|✯|
+Snover|Snowy Torc|Attacks twice in one turn during the Hail weather condition.|🟇|||||||||||||
+Abomasnow|Frozen Cape|Recovers HP when hit by a Fire move.|🟇|||||||||||||
+Weavile|Weavile Claw|Raises Attack by 5|🟃|Weavile Fang|Raises Sp. Attack by 5|🟃|Vile Tag|Raises Attack and Sp. Attack by 5 each|🟇|Ruin Armlet|Recovers HP when hit by a Fighting move.|✯||||
+Magnezone|Builder Sash|Recovers HP when hit by a Ground move.|🟇|||||||||||||
+Lickilicky|Flabby Belt|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Rhyperior|Rhyperi-Torc|Recovers HP when hit by a Grass move.|🟇|||||||||||||
+Tangrowth|Clinging Bow|Recovers HP when hit by a Fire move.|🟇|||||||||||||
+Electivire|Electi-Claw|Raises Attack by 5|🟃|Electi-Card|Raises Sp. Defense by 3|🟃|Voltaic Rock|Raises Attack by 5 and Sp. Defense by 3|🟇|Voltaic Band|Recovers HP when hit by a Ground move.|✯||||
+Magmortar|Magmor-Claw|Raises Attack by 5|🟃|Magmor-Card|Raises Sp. Defense by 3|🟃|Vulcan Rock|Raises Attack by 5 and Sp. Defense by 3|🟇|Burning Torc|Recovers HP when hit by a Water move.|✯||||
+Togekiss|Togek-Wing|Raises Attack by 5|🟃|Togek-Card|Raises Sp. Defense by 3|🟃|Ovation Rock|Raises Attack by 5 and Sp. Defense by 3|🟇|Glitter Robe|Recovers HP when hit by an Electric move.|✯||||
+Yanmega|Yanmega Bow|Recovers HP when hit by a Rock move.|🟇|||||||||||||
+Leafeon|Virid Collar|May afflict attacking enemies with a Poisoned, a Paralysis, or a Sleep status condition.|✯|||||||||||||
+Glaceon|Icy Collar|May afflict attacking enemies with a Frozen status condition.|✯|||||||||||||
+Gliscor|Gliscor Cape|Recovers HP when hit by an Ice move.|🟇|||||||||||||
+Mamoswine|Glacier Cape|Recovers HP when hit by a Steel move.|🟇|||||||||||||
+Porygon-Z|Best Scarf|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Gallade|Gallant Torc|Recovers HP when hit by a Ghost move.|🟇|||||||||||||
+Probopass|Probo-Hat|Recovers HP when hit by a Fighting move.|🟇|||||||||||||
+Dusknoir|Unlucky Sash|Recovers HP when hit by a Ghost move.|🟇|||||||||||||
+Froslass|Froslass Bow|Recovers HP when hit by a Dark move.|🟇|||||||||||||
+Rotom|Plasma Veil|May afflict attacking enemies with a Paralysis status condition.|✯|||||||||||||
+Uxie|Edify Robe|If Uxie is attacked when it has little health, it may warp to a different area on the same floor.|✯|||||||||||||
+Mesprit|Charity Robe|If Mesprit is attacked when it has little health, it may warp to a different area on the same floor.|✯|||||||||||||
+Azelf|Hope Robe|If Azelf is attacked when it has little health, it may warp to a different area on the same floor.|✯|||||||||||||
+Dialga|Time Shield|Physical moves are weakened to half their strength on Dialga.|✯|||||||||||||
+Palkia|Air Blade|Boosts damage Palkia inflicts by 1.5 times.|✯|||||||||||||
+Heatran|Searing Ring|Completely restores Heatran's HP when entering a new floor.|✯|||||||||||||
+Regigigas|Ancient Ring|Protects Regigigas from status conditions.|✯|||||||||||||
+Giratina|Nether Veil|May afflict attacking foes with a Constricted status condition.|✯|||||||||||||
+Cresselia|Lunar Veil|When moves that increase stats are used on Cresselia, the rest of the party also gets the effects.|✯|||||||||||||
+Phione|Phione Song|Raises Defense by 3|🟃|Phione Card|Raises Sp. Defense by 3|🟃|Wave Jewel|Raises Defense and Sp. Defense by 3 each|🟇|Ripple Cape|Recovers HP when Phione enters a water terrain.|✯|Marine Cache|Heals status conditions when Phione enters a water terrain.|✯|
+Manaphy|Tidal Cape|Recovers HP when Manaphy enters a water terrain.|✯|||||||||||||
+Darkrai|Eclipse Robe|May afflict attacking enemies with a Nightmare status condition.|✯|||||||||||||
+Shaymin|Purify Veil|Cures allies' poisoned or badly poisoned conditions and restores 10HP to Shaymin (Explorers of Sky only).|🟇|||||||||||||
