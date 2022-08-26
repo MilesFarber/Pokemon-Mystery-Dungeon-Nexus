@@ -552,7 +552,9 @@ Gear Equipment,Protective Pads,Held: Prevents side effects of contact moves used
 Gear Equipment,Wisp Pendant,"A cylindrical pendant with steel wings, holding a wisp inside... it's quite soothing to wear. cuts in half damage from Shadow type moves.",
 Gear Equipment,Shin Guards,Fighting type moves do not recoil,
 Gear Equipment,Double Edge Knuckles,"Fighting type moves do 2X damage, but have 50% recoil.",
-Gear Equipment,Amber Tear,Doubles the chances of recruiting wild Pokemon.,
+Gear Equipment,Friend Bow,Increases recruit chance by 10%,
+Gear Equipment,Amber Tear,Increases recruit chance by 15%,
+Gear Equipment,Golden Mask,Increases recruit chance by 20%,
 Gear Equipment,Hollow Coin,Psychic type moves never miss,
 Gear Equipment,Bond Ring,If another teammate is holding a Bond Ring; increases Max HP by 50%.,
 Gem,Fire Gem,Held: When the holder uses a damaging []{type:fire}-type move; the move has 1.5× power and this item is consumed.,
@@ -1011,7 +1013,7 @@ Special,Obsidian Shard,+1 Crit to Lycanroc,
 Special,Reveal Glass,"Tornadus, thundurus, landorus",
 Special,Tesla Coil Nunchucks,Zeraora; Plasma Fists causes flinching,
 Special,Zygarde Cube,Zygarde,
-Ticket,Discount Coupon,Can be used at a boutique for a 50% discount.  Consumed once used.,
+Treasure,Koupon,Can be used at a Kecleon Shop to get one item for free. Any item! Consumed once used.,
 Tool,Escape Rope,Transports user to the outside entrance of a cave.,
 Tool,Poké Doll,Ends a wild battle.,
 Tool,Fluffy Tail,Ends a wild battle.,
@@ -1026,7 +1028,7 @@ Tool,Fishing Rod,Allows the player to fish for Pokémon.,
 Tool,Time Flute,Purifies nearby Shadow Pokemon a little when used.,
 Tool,Philosopher Stone,"When used, transmutates an item for another of equal value, in exchange for HP.",
 Tool,Lockpick,Has a 1% chance of opening a locked door. Consumed after use.,
-Tool,Mystery Part,Glows in the bag when Legendary or Mythical Pokemon are detected in the current floor.,
+Tool,Secret Slab,Glows in the bag when Legendary or Mythical Pokemon are detected in the current floor.,
 Treasure,Gold Ribbon,An item that has no effect even if held by a Pokémon. It can be sold for a good price.,5000
 Treasure,Sparkly Scarf,An item that has no effect even if held by a Pokémon. It can be sold for a great price!,10000
 Treasure,Blue Flute,Cures sleep.,
@@ -1089,18 +1091,54 @@ Treasure,Icy Flute,One of the Seven Secret Treasures. An unusual flute that play
 Treasure,Rock Horn,One of the Seven Secret Treasures. A mystifying horn that blasts sound at rock-shattering volume; rumored to steal the rockiest of hearts. When held by the team leader; it is easier to recruit defeated Rock-type Pokémon to the team.,10000
 Treasure,Sky Melodica,One of the Seven Secret Treasures. A merry melodica that plays tunes airy as cloudless skies; rumored to steal flighty hearts. When held by the team leader; it is easier to recruit defeated Flying-type Pokémon to the team.,10000
 Treasure,Terra Cymbal,One of the Seven Secret Treasures. A marvelous cymbal with a colossal crash that shakes the ground; rumored to steal even the most grounded hearts. When held by the team leader; it is easier to recruit defeated Ground-type Pokémon to the team.,10000
-Treasure,Cute Box,A box that is amazingly adorable. It likely contains something but won't give up its secrets easily.,500
-Treasure,Dainty Box,A box that is dainty and fashionable. It likely contains something but won't give up its secrets easily.,500
-Treasure,Deluxe Box,A box that is extravagant and opulent. It likely contains something but won't give up its secrets easily.,500
-Treasure,Glittery Box,A box that glitters with dazzling light. It likely contains something but won't give up its secrets easily.,500
-Treasure,Gorgeous Box,A box that's beautiful beyond measure. It likely contains something but won't give up its secrets easily.,500
-Treasure,Hard Box,A box that is impenetrably hard. It likely contains something but won't give up its secrets easily.,500
-Treasure,Heavy Box,A box that is unbelievably heavy. It likely contains something but won't give up its secrets easily. ,500
-Treasure,Light Box,A box that is surprisingly light. It likely contains something but won't give up its secrets easily.,500
-Treasure,Nifty Box,A box that is completely impressive. It likely contains something but won't give up its secrets easily.,500
-Treasure,Pretty Box,A box that is startlingly pretty. It likely contains something but won't give up its secrets easily.,500
-Treasure,Shiny Box,A box that sparkles and shines. It likely contains something but won't give up its secrets easily.,500
-Treasure,Sinister Box,A box that is suspiciously sinister. It likely contains something but won't give up its secrets easily. ,500
+Treasure,Cute Key,A key that's most definitely designed to open an amazingly adorable container.,100
+Treasure,Dainty Key,A key that's most definitely designed to open a dainty and fashionable container.,100
+Treasure,Deluxe Key,A key that's most definitely designed to open an extravagant and opulent container.,100
+Treasure,Glittery Key,A key that's most definitely designed to open a dazzling and glittering container.,100
+Treasure,Gorgeous Key,A key that's most definitely designed to open a beautiful beyond measure container.,100
+Treasure,Hard Key,A key that's most definitely designed to open an impenetrably hard container.,100
+Treasure,Heavy Key,A key that's most definitely designed to open an unbelievably heavy container. ,100
+Treasure,Light Key,A key that's most definitely designed to open a surprisingly light container.,100
+Treasure,Nifty Key,A key that's most definitely designed to open a completely impressive container.,100
+Treasure,Pretty Key,A key that's most definitely designed to open a startlingly pretty container.,100
+Treasure,Shiny Key,A key that's most definitely designed to open a sparkly and shiny container.,100
+Treasure,Sinister Key,A key that's most definitely designed to open a suspiciously sinister container. ,100
+Treasure,Cute Box,A box that is amazingly adorable. It likely contains something but won't give up its secrets easily.,100
+Treasure,Dainty Box,A box that is dainty and fashionable. It likely contains something but won't give up its secrets easily.,100
+Treasure,Deluxe Box,A box that is extravagant and opulent. It likely contains something but won't give up its secrets easily.,100
+Treasure,Glittery Box,A box that glitters with dazzling light. It likely contains something but won't give up its secrets easily.,100
+Treasure,Gorgeous Box,A box that's beautiful beyond measure. It likely contains something but won't give up its secrets easily.,100
+Treasure,Hard Box,A box that is impenetrably hard. It likely contains something but won't give up its secrets easily.,100
+Treasure,Heavy Box,A box that is unbelievably heavy. It likely contains something but won't give up its secrets easily. ,100
+Treasure,Light Box,A box that is surprisingly light. It likely contains something but won't give up its secrets easily.,100
+Treasure,Nifty Box,A box that is completely impressive. It likely contains something but won't give up its secrets easily.,100
+Treasure,Pretty Box,A box that is startlingly pretty. It likely contains something but won't give up its secrets easily.,100
+Treasure,Shiny Box,A box that sparkles and shines. It likely contains something but won't give up its secrets easily.,100
+Treasure,Sinister Box,A box that is suspiciously sinister. It likely contains something but won't give up its secrets easily. ,100
+Treasure,Cute Crate,A Crate that is amazingly adorable. It likely contains something rare but won't give up its secrets easily.,500
+Treasure,Dainty Crate,A Crate that is dainty and fashionable. It likely contains something rare but won't give up its secrets easily.,500
+Treasure,Deluxe Crate,A Crate that is extravagant and opulent. It likely contains something rare but won't give up its secrets easily.,500
+Treasure,Glittery Crate,A Crate that glitters with dazzling light. It likely contains something rare but won't give up its secrets easily.,500
+Treasure,Gorgeous Crate,A Crate that's beautiful beyond measure. It likely contains something rare but won't give up its secrets easily.,500
+Treasure,Hard Crate,A Crate that is impenetrably hard. It likely contains something rare but won't give up its secrets easily.,500
+Treasure,Heavy Crate,A Crate that is unbelievably heavy. It likely contains something rare but won't give up its secrets easily. ,500
+Treasure,Light Crate,A Crate that is surprisingly light. It likely contains something rare but won't give up its secrets easily.,500
+Treasure,Nifty Crate,A Crate that is completely impressive. It likely contains something rare but won't give up its secrets easily.,500
+Treasure,Pretty Crate,A Crate that is startlingly pretty. It likely contains something rare but won't give up its secrets easily.,500
+Treasure,Shiny Crate,A Crate that sparkles and shines. It likely contains something rare but won't give up its secrets easily.,500
+Treasure,Sinister Crate,A Crate that is suspiciously sinister. It likely contains something rare but won't give up its secrets easily. ,500
+Treasure,Cute Chest,A Chest that is amazingly adorable. It likely contains something exceptionally rare but won't give up its secrets easily.,3000
+Treasure,Dainty Chest,A Chest that is dainty and fashionable. It likely contains something exceptionally rare but won't give up its secrets easily.,3000
+Treasure,Deluxe Chest,A Chest that is extravagant and opulent. It likely contains something exceptionally rare but won't give up its secrets easily.,3000
+Treasure,Glittery Chest,A Chest that glitters with dazzling light. It likely contains something exceptionally rare but won't give up its secrets easily.,3000
+Treasure,Gorgeous Chest,A Chest that's beautiful beyond measure. It likely contains something exceptionally rare but won't give up its secrets easily.,3000
+Treasure,Hard Chest,A Chest that is impenetrably hard. It likely contains something exceptionally rare but won't give up its secrets easily.,3000
+Treasure,Heavy Chest,A Chest that is unbelievably heavy. It likely contains something exceptionally rare but won't give up its secrets easily. ,3000
+Treasure,Light Chest,A Chest that is surprisingly light. It likely contains something exceptionally rare but won't give up its secrets easily.,3000
+Treasure,Nifty Chest,A Chest that is completely impressive. It likely contains something exceptionally rare but won't give up its secrets easily.,3000
+Treasure,Pretty Chest,A Chest that is startlingly pretty. It likely contains something exceptionally rare but won't give up its secrets easily.,3000
+Treasure,Shiny Chest,A Chest that sparkles and shines. It likely contains something exceptionally rare but won't give up its secrets easily.,3000
+Treasure,Sinister Chest,A Chest that is suspiciously sinister. It likely contains something exceptionally rare but won't give up its secrets easily. ,3000
 Treasure,Ancient Crown,It's proof that you obtained all of the Ancient Treasures. But it seems to have no particular effect; even if you take it on your adventure.,30000
 Treasure,Food Fighter Crown,It's proof that you obtained all of the items invented by the Never Hungries. But it seems to have no particular effect; even if you take it on your adventure.,30000
 Treasure,Treasure Crown,It's proof that you obtained all of the Eight Treasures; but it seems to have no particular effect; even if you take it on your adventure.,30000
@@ -1315,3 +1353,120 @@ Z Crystal,Noivernium Z,Turns Boom Burst into Sonic Boom,
 Z Crystal,Flygonium Z,Turns Fissure into Ancestral Sandsong,
 Z Crystal,Ninetalium Z,Turns Will-O-Wisp into Light Of Shinto,
 Z Crystal,Zoroarkium Z,Turns Night Daze into Shattering Deception,
+Food,Cupcake,,
+,Mushroom,,
+,Corn,,
+,Popcorn,,
+,Carrot,,
+,Onion,,
+,Radish,,
+,Kibbles,,
+,Rice,,
+,Slowpoke Tail,,
+,Magifin,,
+,Bascufin,,
+,Sharfin,,
+,Blissegg,,
+,Shuice,,
+,Heart Potion,,
+,Paraserum,,
+,Skiddo Cheese,,
+,Octillerink,,
+,Ribombee Puff,,
+,Moomoo Ice Cream,,
+,Red Pokeblock,,
+,Blue Pokeblock,,
+,Pink Pokeblock,,
+,Green Pokeblock,,
+,Yellow Pokeblock,,
+,Magenta Pokeblock,,
+,Indigo Pokeblock,,
+,Orange Pokeblock,,
+,Cyan Pokeblock,,
+,Lime Pokeblock,,
+,Gold Pokeblock,,
+,White Pokeblock,,
+,Rainbow Pokeblock,,
+,Black Pokeblock,,
+,Poffin,,
+,Spicy Poffin,,
+,Sour Poffin,,
+,Bitter Poffin,,
+,Sweet Poffin,,
+,Dry Poffin,,
+,Rich Poffin,,
+,Overripe Poffin,,
+,Mild Poffin,,
+,Foul Poffin,,
+,Power Aprijuice,Spicy,
+,Stamina Aprijuice,Sour,
+,Skill Aprijuice,Dry,
+,Jump Aprijuice,Bitter,
+,Sprint Aprijuice,Sweet,
+,Pokepuff,,
+,Frosted Pokepuff,,
+,Fancy Pokepuff,,
+,Deluxe Pokepuff,,
+,Supreme Pokepuff,,
+,Red Pokebean,,
+,Indigo Pokebean,,
+,Blue Pokebean,,
+,Green Pokebean,,
+,Yellow Pokebean,,
+,Violet Pokebean,,
+,Orange Pokebean,,
+,Rainbow Pokebean,,
+,Sacred Ash,"An extremely rare and sought after medicine, acts like a Max Reviver Seed that revives your entire team all at once!",
+,Connection Orb,,
+,Expedition Gadget,,
+,Wonder Chest,"If held, Pokémon gains 15% more experience.",
+,Miracle Chest,"If held, Pokémon gains 30% more experience.",
+,Legendary Chest,"If held, Pokémon gains 50% more experience.",
+,Experience Share,"If held, all Pokemon in the assembly get 10% of the user's experience.",
+Gear Equipment,IQ Booster,An incredibly rare and advanced device that increases the holder's IQ by 1 upon entering a new floor.,
+Tool,Technical Machine,"An empty Technical Machine disc. If one of your moves is level 10 (X), you can reset it's level to copy the move in the disc and teach that move to any other Pokemon!",
+,Used Technical Machine,"A Technical Machine that's been copied and used. If you know the move Recycle, you might be able to recover the data!",
+,Link Box,A marvelous box that lets the user link two moves together.,
+,Assembly Box,A marvelous box that allows the user to send or retrieve one Pokemon to the Assembly.,
+,Gabite Scale,"A scale taken from a Gabite, rumored to be a cure-all for all afflictions. It heals all status conditions and fills your belly by 5.",
+,Progress Device,An incredible machine that allows you to save your progress in the middle of a Mystery Dungeon!,
+,Djinn Bottle,,
+Key Item,Rescue Team Starter Set,"Contains Rescue Badges, a Rescue Toolbox, a Friend Area permit, and a subscription to Pokemon News!",
+Key Item,Pokemon Exploration Team Kit,"Contains two Aura Bows, a Wonder Map, Explorer Badges, and a Treasure Bag!",
+Key Item,HAPPI Adventure Team Package,"Contains an Adventure Backpack, Adventure Badges, a Letter Certificate, and a Medal Box!",
+Key Item,Expedition Society Junior Box,"Contains Expedition Badges, an Expedition Bag, an Expedition Gadget, and a Connection Orb!",
+,Teleport Gem,Grants Access to Sky Tower,
+,Wonder Egg,,
+,Egg,,
+,Lost Loot,,
+,Prize Ticket,,
+,Bronze Ticket,,
+,Silver Ticket,,
+,Gold Ticket,,
+,Prism Ticket,,
+,Move Manual,,
+,Lucha Token,,
+,Clear Wing,,
+,Red Wing,,
+,Sunset Wing,,
+,Rainbow Wing,,
+,Striped Wing,,
+,Engraved Wing,,
+,Silver Wing,,
+,Rock Part,Used for crafting the Music Box,
+,Ice Part,Used for crafting the Music Box,
+,Steel Part,Used for crafting the Music Box,
+,Mystery Part,Makes roaming Legendary or Mythical Pokemon more likely to appear in Dungeons,
+,Pumkin Berry,An extremely rare Berry synthesized from the Enigma Berry.,
+,Drash Berry,An extremely rare Berry synthesized from the Enigma Berry.,
+,Eggant Berry,An extremely rare Berry synthesized from the Enigma Berry.,
+,Strib Berry,An extremely rare Berry synthesized from the Enigma Berry.,
+,Chilan Berry,An extremely rare Berry synthesized from the Enigma Berry.,
+,Nutpea Berry,An extremely rare Berry synthesized from the Enigma Berry.,
+,Ginema Berry,An extremely rare Berry synthesized from the Enigma Berry.,
+,Kuo Berry,An extremely rare Berry synthesized from the Enigma Berry.,
+,Yago Berry,An extremely rare Berry synthesized from the Enigma Berry.,
+,Touga Berry,An extremely rare Berry synthesized from the Enigma Berry.,
+,Niniku Berry,An extremely rare Berry synthesized from the Enigma Berry.,
+,Topo Berry,An extremely rare Berry synthesized from the Enigma Berry.,
+Key Item,Wonder Launcher,,
