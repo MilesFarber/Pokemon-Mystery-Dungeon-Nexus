@@ -174,8 +174,8 @@ Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop 
 |:-|:-:|-:|
 |To tell text where to align|Use :- :-: or -:|On the second row.|
 
-{% assign row = site.data.test[0] %}
-{% for row in site.data.test %}{% if forloop.first %}{% for pair in row %}|{{ pair[0] }}{% endfor %}{% endif %}|
+{% assign row = site.data.markdown[0] %}
+{% for row in site.data.markdown %}{% if forloop.first %}{% for pair in row %}|{{ pair[0] }}{% endfor %}{% endif %}|
 {% for pair in row %}|{{ pair[1] }}{% endfor %}{% endfor %}|
 
 You can make footnotes with a caret and a number, between square brackets[^1].
