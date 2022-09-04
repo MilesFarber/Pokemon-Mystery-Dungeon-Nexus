@@ -1,0 +1,523 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Octillery}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=223|prev=Remoraid|nextnum=225|next=Delibird|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Octillery
+|jname=オクタン
+|jtranslit=Okutan
+|tmname=Okutank
+|ndex=224
+|oldjdex=173
+|jdex=175
+|sdex=133
+|u2dex=236
+|karea=Coastal
+|kdex=145
+|fbrow=115
+|obrow=275
+|typebox=1
+|type1=Water
+|category=Jet
+|height-ftin=2'11"
+|height-m=0.9
+|weight-lbs=62.8
+|weight-kg=28.5
+|abilityn=d
+|ability1=Suction Cups
+|ability2=Sniper
+|abilityd=Moody
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Water 2
+|eggcycles=20
+|evtotal=2
+|evat=1
+|evsa=1
+|expyield=168
+|oldexp=164
+|lv100exp=1,000,000
+|gendercode=127
+|color=Red
+|catchrate=75
+|body=10
+|pokefordex=octillery
+|generation=2
+|friendship=70
+}}
+'''Octillery''' ([[List of Japanese Pokémon names|Japanese]]: '''オクタン''' ''Okutank'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolve]]s from {{p|Remoraid}} starting at [[level]] 25.
+
+==Biology==
+Octillery is a red, cephalopod-like Pokémon with large, round eyes and a turret-like mouth. There are yellow bumps on its rock-hard head and yellow suction cups on each of its eight tentacles. These suction cups and yellow bumps are smaller on a female Octillery. It uses its tentacles for manipulating objects and the suction cups give it strong gripping power. Because of this, it is very hard for it to be blown away. Octillery is the [[Signature move|only known Pokémon]] that learns {{m|Octazooka}} naturally.
+
+Octillery is a relaxed Pokémon who loves fuss from its Trainer. In the wild, it will spurt ink containing substances that dull predators' sense of smell to protect its young from danger. Even though it is more docile when domesticated, it can be very stubborn at times in the wild. It instinctively sneaks into rocky holes, and if it gets sleepy, it steals the nest of a fellow Octillery. It sometimes sprays ink on prey by sticking out only its mouth, and its suction cups hold prey tightly. Octillery is normally found in {{DL|List of Pokémon by habitat|Sea Pokémon|oceans}}.
+
+==In the anime==
+[[File:Officer Jenny Octillery.png|thumb|250px|left|Octillery in the {{pkmn|anime}}]]
+===Major appearances===
+In ''[[EP215|Octillery The Outcast]]'', [[Marcellus]] in the [[Whirl Islands]] tried to get one of his Remoraid to evolve into an Octillery and succeeded.
+
+[[Harley]] owns an Octillery, which debuted in ''[[AG160|Harley Rides Again]]''. It managed to defeat [[May's Munchlax]] in a {{pkmn|Contest}} {{pkmn|battle}}. It was later used during the second Appeal round of the [[Kanto Grand Festival]] in ''[[AG181|Thinning the Hoard!]]''.
+
+An Octillery appeared in ''[[BW129|The Pirates of Decolore!]]'', where it was a powerful member of {{p|Croconaw}}'s pirate gang, and would often battle any Pokémon it came across. Like the other Pokémon in the gang, Octillery was abandoned by its Trainer. However, it eventually joined [[Officer Jenny]]'s new squad.
+
+===Minor appearances===
+An Octillery appeared in {{Gary}}'s explanation in ''[[EP272|Johto Photo Finish]]''.
+
+In ''[[AG021|Which Wurmple's Which?]]'', {{Ash}} and {{ashfr}} were fishing and found an Octillery, which landed on [[Max]]'s head.
+
+An Octillery appeared in ''[[DP149|Sticking With Who You Know!]]''.
+
+An Octillery appeared in ''[[XY024|An Undersea Place to Call Home!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP215|Octillery|Ash's Pokédex|Octillery, the Jet Pokémon, will instinctively sneak into rocky holes. It locks onto opponents with its leg suckers, then rams them with its rock-hard head.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG021|Octillery|May's Pokédex|Octillery, the Jet Pokémon. Octillery attaches its tentacled feet to its opponent before attacking with its hard head.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+==In the manga==
+[[File:Saturn Octillery Adventures.png|thumb|150px|Octillery in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Octillery first appeared in ''[[PS101|Teddiursa's Picnic]]'' in a [[Poké Ball]] that was stuck inside the mouth of a wild {{p|Granbull}}.
+
+An Octillery appeared in ''[[PS128|Indubitably Ditto]]'' under [[Team Rocket Elite Trio|Ken's]] control. In ''[[PS127|Miltank Melee]]'', it is used in an attempt to capture {{DL|Legendary beasts (Adventures)|Suicune}}. It was put to sleep temporarily by {{DL|Crystal (Adventures)|Parasee}}'s Spore in ''[[PS128|Indubitably Ditto]]'', but later woke up.
+
+An Octillery was one of the Pokémon sent to help the fight in [[Ilex Forest]] in ''[[PS179|The Last Battle XIII]]''.
+
+In ''[[PS387|Outwitting Octillery]]'', [[Saturn]] of [[Team Galactic]] used an Octillery to fend off {{adv|Pearl}} during a mission at [[Lake Verity]].
+
+In ''[[PS446|Weavile Wobbles But It Won't Fall Down]]'', a Trainer at the {{safari|Johto}} is seen with one.
+
+==In the TCG==
+{{main|Octillery (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]]: Octillery is the leader of Team Constrictor, a [[Rank (Mystery Dungeon)|Silver Rank]] rescue team. It joins a new team with {{p|Blastoise}} and {{p|Golem}} designed to travel through [[Magma Cavern]], but is defeated.
+* {{g|Mystery Dungeon: Explorers of Sky}}: Octillery is a regular visitor of [[Spinda's Cafe]].
+
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It traps enemies with its suction-cupped tentacles then smashes them with its rock-hard head.}}
+{{Dex/Entry1|v=Silver|entry=It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow Octillery.}}
+{{Dex/Entry1|v=Crystal|entry=Its instinct is to bury itself in holes. It often steals the nesting holes of others to sleep in them.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It ensnares its foe with its suction-cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.}}
+{{Dex/Entry1|v=FireRed|entry=It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow Octillery.}}
+{{Dex/Entry1|v=LeafGreen|entry=It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.}}
+{{Dex/Entry1|v=Pearl|entry=It obscures its foe's vision by spitting a cloud of murky ink. It makes its nest among boulders.}}
+{{Dex/Entry1|v=Platinum|entry=It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.}}
+{{Dex/Entry1|v=HeartGold|entry=It traps enemies with its suction-cupped tentacles then smashes them with its rock-hard head.}}
+{{Dex/Entry1|v=SoulSilver|entry=It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow Octillery.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.}}
+{{Dex/Entry1|v=Y|entry=It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=The ink it spits when escaping is special. It contains a substance that dulls the sense of smell, so Pokémon with keen noses get lost.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It usually sleeps in caves. The pitch-black ink that Octillery spits is also used for cooking.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Remoraid}}}}
+{{Availability/Entry1/None|v=Crystal}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{safari|Hoenn}} extension ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1/None|v=FireRed}}
+{{Availability/Entry1|v=LeafGreen|area=[[Evolution|Evolve]] {{p|Remoraid}}}}
+{{Availability/Entry1|v=Colosseum|area=[[Evolution|Evolve]] {{p|Remoraid}}}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|213|Sinnoh}}, {{rtn|222|Sinnoh}}, {{rtn|223|Sinnoh}}, {{rtn|224|Sinnoh}}, and {{rtn|230|Sinnoh}}, [[Pastoria City]], [[Sunyshore City]], {{si|Pokémon League}} ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|212|Sinnoh}}, {{rtn|213|Sinnoh}}, {{rtn|222|Sinnoh}}, {{rtn|223|Sinnoh}}, {{rtn|224|Sinnoh}}, and {{rtn|230|Sinnoh}}, [[Pastoria City]], [[Sunyshore City]], {{si|Pokémon League}} ({{DL|Fishing|Super Rod}})<br>{{rtn|223|Sinnoh}} ({{DL|Fishing|Good Rod}})}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Remoraid}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Beyond the Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Undella Town]] and [[Undella Bay]] ([[Fishing]] in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|21|Unova}} and [[Undella Bay]] ([[Fishing]] in {{DL|Phenomenon|rippling water}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|12|Kalos}}, [[Shalour City]], [[Azure Bay]] ({{DL|Fishing|Super Rod}})<br>[[Friend Safari]] ([[Friend Safari#Water-type Safari|Water]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Battle Resort]] ({{DL|Fishing|Super Rod}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|8|Alola}}, [[Kala'e Bay]], [[Melemele Sea]] ([[SOS Battle]], [[Fishing|fishing]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Cobalt Coast|Secret Cove]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 6, Endless Level 23, Forever Level 54, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Silver Trench]] (60F-69F), [[Far-off Sea]] (55F-64F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Safra Sea]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Surrounded Sea]] (B1-B20), [[Miracle Sea]] (B1-B18, Deep Miracle Sea B1-B4),<br>[[Bottomless Sea]] (B1-B49)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Surrounded Sea]] (B1-B20), [[Miracle Sea]] (B1-B18, Deep Miracle Sea B1-B4),<br>[[Bottomless Sea]] (B1-B49)}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Iceberg Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area={{ra|Eastern Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Seabreeze Trail]] (Post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#The Electrifying Tynamo|Vehicle Gallery: The Electrifying Tynamo]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Wednesday Stage 3|Safari Jungle: Stage 3]]{{dotw|We}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Zaffiro Coast|Zaffiro Coast: Stage 625]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Windy Sea|Silver Isles: Windy Sea]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Water}}
+{{eventAvail|{{gameabbrev4|DP}}|Golgo Octillery|Japanese|Japan|50|October 14 to 31, 2007|link=List of local Japanese event Pokémon distributions in Generation IV#Golgo Octillery}}
+|}
+
+===Held items===
+{{HeldItems|type=Water
+|ranch1=Focus Band|ranch1type=None|ranchlang=jap|ranch1rar=100
+|walk1=Focus Band|walk1type=None|walk1rar=100
+|event1=Focus Band|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|HP=75
+|Attack=105
+|Defense=75
+|SpAtk=105
+|SpDef=75
+|Speed=45}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=2
+|SpeedMax=2
+|Power=4
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   200
+|Electric=200
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Octillery|Water|Water|2}}
+{{learnlist/level7|1|Octazooka|Water|Special|65|85|10||'''}}
+{{learnlist/level7|1|Gunk Shot|Poison|Physical|120|80|5}}
+{{learnlist/level7|1|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|1|Constrict|Normal|Physical|10|100|35}}
+{{learnlist/level7|1|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level7|1|Aurora Beam|Ice|Special|65|100|20}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Octazooka|Water|Special|65|85|10||'''}}
+{{learnlist/level7|6|Constrict|Normal|Physical|10|100|35}}
+{{learnlist/level7|10|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level7|14|Aurora Beam|Ice|Special|65|100|20}}
+{{learnlist/level7|18|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level7|22|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|28|Wring Out|Normal|Special|&mdash;|100|5}}
+{{learnlist/level7|34|Signal Beam|Bug|Special|75|100|15}}
+{{learnlist/level7|40|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/level7|46|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/level7|52|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|58|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/level7|64|Soak|Water|Status|&mdash;|100|20}}
+{{learnlist/levelf/7|Octillery|Water|Water|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Octillery|Water|Water|2}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Octillery|Water|Water|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Octillery|Water|Water|2}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|211|Qwilfish}}|Acid Spray|Poison|Special|40|100|20|*}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|224|Octillery}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}|Aurora Beam|Ice|Special|65|100|20}}
+{{learnlist/breed7|{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Entrainment|Normal|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|118|Goldeen}}{{MSP|119|Seaking}}{{MSP|129|Magikarp}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}<br>{{MSP|170|Chinchou}}{{MSP|171|Lanturn}}{{MSP|222|Corsola}}{{MSP|349|Feebas}}{{MSP|369|Relicanth}}{{MSP|370|Luvdisc}}<br>{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|550|Basculin}}{{MSP|618|Stunfisk}}{{MSP|692|Clauncher}}<br>{{MSP|693|Clawitzer}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|283|Surskit}}{{MSP|658|Greninja}}|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}<br>{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}<br>{{MSP|537|Seismitoad}}{{MSP|618|Stunfisk}}|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/breed7|{{MSP|224|Octillery}}|Octazooka|Water|Special|65|85|10||'''}}
+{{learnlist/breed7|{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|222|Corsola}}{{MSP|224|Octillery}}|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|318|Carvanha}}<br>{{MSP|319|Sharpedo}}{{MSP|367|Huntail}}{{MSP|779|Bruxish}}|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/breed7|{{MSP|339|Barboach}}{{MSP|340|Whiscash}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}|Snore|Normal|Special|50|100|15}}
+{{learnlist/breed7|{{MSP|118|Goldeen}}{{MSP|119|Seaking}}{{MSP|170|Chinchou}}{{MSP|171|Lanturn}}{{MSP|226|Mantine}}{{MSP|278|Wingull}}<br>{{MSP|279|Pelipper}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}|Supersonic|Normal|Status|&mdash;|55|20}}
+{{learnlist/breed7|{{MSP|342|Crawdaunt}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}|Swift|Normal|Special|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|079|Slowpoke}}<br>{{MSP|080|Slowbro}}{{MSP|118|Goldeen}}{{MSP|119|Seaking}}{{MSP|131|Lapras}}{{MSP|199|Slowking}}{{MSP|226|Mantine}}<br>{{MSP|278|Wingull}}{{MSP|279|Pelipper}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|339|Barboach}}{{MSP|340|Whiscash}}<br>{{MSP|350|Milotic}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}{{MSP|370|Luvdisc}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|456|Finneon}}{{MSP|457|Lumineon}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|656|Froakie}}<br>{{MSP|657|Frogadier}}{{MSP|658|Greninja}}{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/breed7|{{MSP|320|Wailmer}}{{MSP|321|Wailord}}|Water Spout|Water|Special|150|100|5||'''}}
+{{learnlist/breedf/7|Octillery|Water|Water|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Octillery|Water|Water|2}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Octillery|Water|Water|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Octillery|Water|Water|2}}
+{{learnlist/prevo7|223|Remoraid|||||Lock-On|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/prevof/7|Octillery|Water|Water|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg water color light}}; border: 3px solid #{{tcg water color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Smokescreen}}
+| [[Octillery (Aquapolis H20)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/Trozei|col=6|type=Water|ndex=224|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=224
+|body=1
+|rate=-30
+|area=Treasure Sea
+|P1=My suction cups are impossible to pry off!
+|P2=Umm... I think my remaining HP is like half or so.
+|P3=I'm exhausted... My suction cups can't grip anymore...
+|PL=Leveled up! My suction cups grip even tighter now!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=224
+|body=1
+|rate=-12
+|IQ=C
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=0
+|field=None
+|loop=2
+|MinEXP=N/A
+|MaxEXP=N/A
+|browser=Octillery jumps to the water's surface but its heavy weight quickly sinks it.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Crush
+|fieldpower=2
+|past=NA
+|browser=It shoots orbs of water to attack.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Water|ndex=224
+|Pad=Octillery love to battle. They came to the [[Iceberg Zone]] as a group so that they can play!
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=224
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=224|num=753
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Big Wave
+|skilldesc=Increases damage done by any Water types in the combo.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=224
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=150
+|attack=197
+|defense=141
+|fast={{m|Water Gun}}, {{m|Mud Shot}}
+|special={{m|Gunk Shot}}, {{m|Water Pulse}}, {{m|Aurora Beam}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Water
+|pictype=art
+|no1=223
+|name1=Remoraid
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 25}}
+|no2=224
+|name2=Octillery
+|type1-2=Water}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=224}}
+{{Spritebox/3|ndex=224}}
+{{Spritebox/4/Gender|ndex=224}}
+{{Spritebox/5/Gender|ndex=224}}
+{{Spritebox/6/Gender|ndex=224}}
+{{Spritebox/7/Gender|ndex=224}}
+{{Spritebox/Footer|224|Octillery}}
+
+==Trivia==
+===Origin===
+Octillery is based on an {{wp|octopus}}. It also has some basis on a tank or a wheeled cannon.
+
+====Name origin====
+Octillery is a combination of ''{{wp|octopus}}'' and ''{{wp|artillery}}''.
+
+Okutank is a combination of ''octopus'' and ''{{wp|tank}}''.
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=オクタン ''Okutank''|jameaning=From ''octopus'' and ''tank''
+|fr=Octillery|frmeaning=Same as English name
+|es=Octillery|esmeaning=Same as English name
+|de=Octillery|demeaning=Same as English name
+|it=Octillery|itmeaning=Same as English name
+|ko=대포무노 ''Daepomuno''|komeaning=From {{tt|대포 ''daepo''|cannon}} and a corruption of {{tt|문어 ''mun'eo''|octopus}}
+|zh_cmn=章魚桶 / 章鱼桶 ''Zhānyútǒng'' |zh_cmnmeaning=From {{tt|章魚 ''zhānyú''|octopus}} and {{tt|桶 ''tǒng''|container, possibly referring to the tank}}
+|ru=Октиллери ''Oktilleri''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=223|prev=Remoraid|nextnum=225|next=Delibird}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Octillery]]
+[[fr:Octillery]]
+[[it:Octillery]]
+[[ja:オクタン]]
+[[pl:Octillery]]
+[[zh:章鱼桶]]

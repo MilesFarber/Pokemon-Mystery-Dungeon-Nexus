@@ -1,0 +1,569 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Caterpie}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=009|prev=Blastoise|nextnum=011|next=Metapod|round=none}}
+{{PokémonPrevNext/Disambig|species=Caterpie}}
+|}
+{{Pokémon Infobox
+|name=Caterpie
+|tmname=Caterpie
+|jname=キャタピー
+|jtranslit=Kyatapī
+|ndex=010
+|jdex=024
+|karea=Central
+|kdex=023
+|adex=017
+|type1=Bug
+|category=Worm
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=6.4
+|weight-kg=2.9
+|abilityn=d
+|ability1=Shield Dust
+|abilityd=Run Away
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=1
+|evhp=1
+|expyield=39
+|oldexp=53
+|lv100exp=1,000,000
+|gendercode=127
+|color=Green
+|catchrate=255
+|body=14
+|pokefordex=caterpie
+|generation=1
+|friendship=70
+}}
+'''Caterpie''' ([[List of Japanese Pokémon names|Japanese]]: '''キャタピー ''' ''Caterpie'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] into {{p|Metapod}} starting at [[level]] 7, which evolves into {{p|Butterfree}} starting at level 10.
+
+==Biology==
+[[File:Caterpie emitting stench.png|thumb|left|250px|Caterpie emitting a terrible stench]]
+Caterpie is a Pokémon that resembles a green caterpillar. There are yellow ring-shaped markings down the sides of its body, which resemble its large yellow eyes. Its most notable characteristic is the bright red antenna ({{wp|osmeterium}}) on its head, which releases a stench to repel predators. This structure and the large eye-shaped markings help to startle predators. Its feet are tipped with suction cups, permitting this Pokémon to scale most surfaces with minimal effort.
+
+Caterpie will shed its skin many times before finally cocooning itself in thick silk. It can also spit this silk in order to entangle foes as seen in [[EP003|the anime]]. Its primary diet is vegetation, and its voracious appetite causes it to eat leaves larger than itself. According to [[Pokémon Adventures]], its favorite food is the Vermilion flower. Caterpie lives in {{DL|List of Pokémon by habitat|Forest Pokémon|forests}}.
+{{left clear}}
+
+==In the anime==
+===In the [[Pokémon anime|main series]]===
+[[File:Ash Caterpie M20.png|thumb|220px|left|Caterpie in the {{pkmn| anime}}]]
+====Major appearances====
+=====[[Ash's Caterpie]]=====
+Caterpie was the first Pokémon that [[Ash Ketchum]] caught from the wild, in ''[[EP003|Ash Catches a Pokémon]]''. It evolved into {{p|Metapod}} in the same episode after a battle with {{TRT}}, and then into {{p|Butterfree}} [[EP004|the following episode]].
+
+=====Other=====
+[[Bucky]] owns a Caterpie as seen in ''[[EP191|The Dunsparce Deception]]'', where he used it to compete in a race with {{p|Dunsparce}} but lost due to its slow speed.
+
+A Caterpie that appeared in ''[[AG142|Caterpie's Big Dilemma]]'' belonging to a young Trainer named [[Xander]] ate some of [[Dr. Gordon]]'s enhanced [[Rare Candy|Rare Candies]] and turned [[Giant Pokémon|giant]]. Xander's Caterpie eventually evolved into a {{wp|Mothra}}-sized {{p|Butterfree}}.
+
+Multiple Caterpie appeared in ''[[BW130|Butterfree and Me!]]'' on [[Wayfarer Island]], where they evolved into Metapod. Ash befriended one Caterpie that had yet to evolve, which reminded Ash of his own Caterpie. As a result, he helped Caterpie evolve into Metapod and then into Butterfree.
+
+====Minor appearances====
+A Caterpie appeared in ''[[EP010|Bulbasaur and the Hidden Village]]''. It was one of the Pokémon in [[Melanie]]'s care. It reappeared in a flashback in ''[[EP225|Bulbasaur... the Ambassador!]]''.
+
+A Caterpie appeared in ''[[EP014|Electric Shock Showdown]]'', under the ownership of an unnamed Trainer.
+
+A Caterpie appeared in ''[[EP015|Battle Aboard the St. Anne]]'', ''[[EP028|Pokémon Fashion Flash]]'', ''[[EP057|The Breeding Center Secret]]'', ''[[EP062|Clefairy Tales]]'', ''[[M01|Mewtwo Strikes Back]]'', ''[[PK11|Camp Pikachu]]'', ''[[M05|Pokémon Heroes: Latios & Latias]]'', ''[[M07|Destiny Deoxys]]'', and ''[[DP091|One Team, Two Team, Red Team, Blue Team!]]''
+
+A Pink Caterpie appeared in ''[[EP088|In the Pink]]'', residing on the [[Pinkan Island]].
+
+Multiple Caterpie appeared in ''[[EP097|Tracey Gets Bugged]]'', ''[[M04|Celebi: The Voice of the Forest]]'', and ''[[DP176|Coming Full-Festival Circle!]]''.
+
+{{OBP|Ralph|EP100}} and {{OBP|Emily|EP100}} were both shown, in a flashback, to have once owned one {{DL|Ralph (EP100)|Caterpie}} {{DL|Emily (EP100)|Caterpie|each}} in ''[[EP100|Wherefore Art Thou, Pokémon?]]''.
+
+A Caterpie appeared in ''[[EP121|Illusion Confusion!]]'' as an illusion created by {{p|Haunter}} and {{p|Gengar}}.
+
+Multiple Caterpie appeared in ''[[EP132|For Crying Out Loud]]'', where they were accidentally wet by [[Wilhomena]]'s {{DL|Wilhomena|Marill}}.
+
+Multiple {{DL|Bugsy|Caterpie}} were in [[Azalea Gym]] in ''[[EP144|Gettin' The Bugs Out]]''.
+
+A Caterpie appeared in ''[[EP161|The Bug Stops Here]]''. Misty chased it away when it is talking with {{TP|Misty|Togepi}}.
+
+A Caterpie was one of the sick Pokémon in a [[Pokémon Center]] in ''[[EP164|Carrying On!]]''.
+
+A Caterpie appeared in Jessie's fantasy in ''[[EP177|Wings 'N' Things]]''.
+
+A Caterpie was one of the inhabitants of an oasis just for Pokémon in ''[[EP207|Got Miltank?]]''.
+
+Multiple Caterpie appeared in ''[[EP227|For Ho-Oh the Bells Toll!]]'', where they protected the [[Bell Tower|Tin Tower]] after {{TRT}} stole the crystal bells on the top floor.
+
+In ''[[EP235|Talkin' 'Bout an Evolution]]'', [[Team Rocket]]'s experiments made Pokémon feel sick, one being a Caterpie.
+
+A Caterpie was used by one of the students of the [[Pokémon Trainers' School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+A Caterpie appeared in ''[[AG121|Hi Ho Silver Wind!]]'', under the ownership of a {{pkmn|Coordinator}}.
+
+A Caterpie appeared in ''[[DP038|One Big Happiny Family!]]'' in [[Jessie]]'s fantasy.
+
+A Caterpie appeared in ''[[M16|Genesect and the Legend Awakened]]'' at [[Pokémon Hills]].
+
+A Caterpie appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Caterpie appeared in ''[[XY002|Lumiose City Pursuit!]]'', ''[[XY010|Mega-Mega Meowth Madness!]]'', ''[[XY040|Day Three Blockbusters!]]'', and ''[[XY137|Battling With a Clean Slate!]]'' at [[Professor Sycamore]]'s lab.
+
+A Caterpie appeared in a flashback in ''[[XY121|Seeing the Forest for the Trees!]]''.
+
+A Caterpie appeared in ''[[SM003|Loading the Dex!]]'' as a silhouette that [[Rotom Pokédex]] brought up.
+
+Two Caterpie appeared in ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', where they were among the Pokémon playing in {{an|Lillie}}'s garden. It appeared again in ''[[SM030|The Ol' Raise and Switch!]]''.
+
+A Caterpie appeared in ''[[SM029|Lulled to La-La Land!]]'' during a fantasy.
+
+Multiple wild Caterpie appeared in ''[[SM042|Alola, Kanto!]]''.
+
+A Trainer's Caterpie appeared in ''[[SM045|Now You See Them, Now You Don't!]]''.
+
+A Caterpie appeared in [[SM059]].
+
+====Pokédex entries====
+{{Animedexheader|Emerald}}
+{{Animedexbody|AG142|Caterpie|May's Pokédex|Caterpie, the Worm Pokémon. Caterpie uses the suction cups on its feet to climb trees and feed on its favorite leaves.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Emerald}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW130|Caterpie|Ash's Pokédex|Caterpie, the Worm Pokémon. To repel enemies, Caterpie releases an unpleasant odor from its red antenna. It molts several times while growing.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+[[File:Red Caterpie PO.png|thumb|left|220px|Caterpie in [[Pokémon Origins]]]]
+[[File:Caterpie PG.png|thumb|220px|Caterpie in [[Pokémon Generations]]]]
+
+===In [[Pokémon Origins]]===
+{{OBP|Red|Origins}} caught a Caterpie which was registered in his Pokédex. It evolved into {{p|Metapod}} before his Gym battle with [[Brock]].
+
+Two Caterpie appeared in ''[[PO03|File 3: Giovanni]]'' caged in the [[Rocket Hideout]] and [[Silph Co.]] while Team Rocket was around.
+
+===In [[Pokémon Generations]]===
+A wild Caterpie appeared in [[Viridian Forest]] in ''[[PG01|The Adventure]]''.
+{{-}}
+
+==In the manga==
+[[File:Kitty Caterpie.png|thumb|200px|Caterpie in [[Pokémon Adventures]]]]
+
+===In [[The Electric Tale of Pikachu]] manga===
+{{main|Ash's Caterpie}}
+{{Ash}}'s Caterpie appears in the manga series [[The Electric Tale of Pikachu]].
+
+Caterpie is the second wild Pokémon that Ash captures in the manga. It was caught in ''[[ET01|Pikachu, I See You!]]''. It evolves twice in ''[[ET02|Play Misty For Me]]''—first into {{p|Metapod}} while Ash is showing off his Pokémon to {{an|Misty}}, and then into {{p|Butterfree}} during his Gym battle against Misty.
+
+Ash is not shown releasing his Butterfree in the manga, although it is not seen after ''[[ET04|Haunting My Dreams]]''.
+
+===In the [[Pokémon Adventures]] manga===
+{{main|Kitty}}
+Caterpie's first appearance is a cameo in ''[[PS002|Bulbasaur, Come Home!]]'' as one of the Pokémon that escapes from [[Professor Oak's Laboratory]]. It also makes a cameo in ''[[PS003|The Secret of Kangaskhan]]''.
+
+Another Caterpie appeared as a silhouette when {{adv|Green}} explains about {{p|Mew}} in ''[[PS017|The Jynx Jinx]]''.
+
+Caterpie made its main appearance in ''[[PS049|As Gastly as Before]]''. With the help of her fishing rod and {{adv|Red}}'s Pika, {{adv|Yellow}} saved a Caterpie from its tree, which was targeted by a fire attack. Caterpie then followed Yellow to where she and {{adv|Blue}} were training, next to the [[Rock Tunnel]]. It took Yellow a whole day to properly catch this Caterpie with a Poké Ball, but once she prevailed, Yellow welcomed Caterpie to her team and called it "Kitty". It then became one of Yellow's most useful Pokémon, whose string was commonly used to make floaters. However, in the battle against [[Lance]], Yellow did not have a [[Pokédex]], which she needed to stop her Pokémon from evolving, and so Kitty evolved into {{p|Metapod}} and then into {{p|Butterfree}} right afterwards.
+
+A Caterpie was mentioned as one of the Pokémon Crystal had captured for Professor Oak in ''[[PS118|Three Cheers for Chikorita]]''.
+
+A Caterpie was one of the Pokémon Crystal fails to catch in ''[[PS133|Absolutely Azumarill]]''.
+
+A Caterpie appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+According to the Pokédex at the end of [[Pokémon Adventures volume 1|Volume 1]], Red appears to have captured a Caterpie which evolved into a Metapod and then a Butterfree.
+
+===In the [[Pokémon Gotta Catch 'Em All]] manga===
+[[Shu]] has a Caterpie that he uses in various creative ways, mostly involving strange uses of its {{m|String Shot}}.
+
+===In the [[Pokémon Mystery Dungeon: Ginji's Rescue Team]] manga===
+{{main|Caterpie (Red and Blue Rescue Team)}}
+In ''[[Pokémon Mystery Dungeon: Ginji's Rescue Team]]'', [[Ginji]] saved a Caterpie from an attacking {{p|Ariados}}.
+
+===In the [[Pokémon Pocket Monsters]] manga===
+A Caterpie is seen with {{OBP|Green|Pocket Monsters}} during the baseball match that took place in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]''.
+
+==In the TCG==
+{{main|Caterpie (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|Pokémon Mystery Dungeon]]: Caterpie is rescued in the first mission of the game. It is too young to be of any help to the rescue team but remains a strong fan throughout the game, even in its darkest hour.
+
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.}}
+{{Dex/Entry1|v=Yellow|entry=If you touch the feeler on top of its head, it will release a horrible stink to protect itself.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=It has large, eye-like patterns on its head as protection. They are used to frighten off enemies.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=For protection, it releases a horrible stench from the antennae on its head to drive away enemies.}}
+{{Dex/Entry1|v=Silver|entry=Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.}}
+{{Dex/Entry1|v=Crystal|entry=It crawls into foliage where it camouflages itself among leaves that are the same color as its body.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=For protection, it releases a horrible stench from the antennae on its head to drive away enemies.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.}}
+{{Dex/Entry1|v=FireRed|entry=It is covered with a green skin. When it grows, it sheds the skin, covers itself with silk, and becomes a cocoon.}}
+{{Dex/Entry1|v=LeafGreen|entry=Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.}}
+{{Dex/Entry1|v=HeartGold|entry=For protection, it releases a horrible stench from the antennae on its head to drive away enemies.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=For protection, it releases a horrible stench from the antennae on its head to drive away enemies.}}
+{{Dex/Entry1|v=Y|entry=Its feet have suction cups designed to stick to any surface. It tenaciously climbs trees to forage.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=When attacked by bird Pokémon, it resists by releasing a terrifically strong odor from its antennae, but it often becomes their prey.}}
+{{Dex/Entry1|v=Moon|entry=It's easy to catch, and it grows quickly, making it one of the top recommendations for novice Pokémon Trainers.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Perhaps because it would like to grow up quickly, it has a voracious appetite, eating a hundred leaves a day.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its body is soft and weak. In nature, its perpetual fate is to be seen by others as food.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Alternate games====
+;[[Pokémon Pinball]], [[Pokémon Trading Card Game]] ({{TCG|Base Set}}, {{TCG|Base Set 2}}, {{TCG|Legendary Collection}})
+:Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.
+;[[Pokémon Trading Card Game]] ({{TCG|Neo Discovery}})
+:For protection, it releases a horrible stench from the antennae on its head to drive away enemies.
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Red|area={{rt|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1|1|v=Blue|t=FFF|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1|1|v=Blue|ex=(Japan)|t=FFF|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1|1|v=Yellow|area=[[Viridian Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Gold|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|30|Johto}}, and {{rtn|31|Johto}}, [[Ilex Forest]] and [[National Park]]{{sup/t|M}}{{sup/t|D}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br>[[Route]]s {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}, [[Azalea Town]], [[Ilex Forest]], [[Lake of Rage]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|1|v=Silver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Crystal|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|24|Kanto}}, {{rtn|25|Kanto}}, {{rtn|30|Johto}}, and {{rtn|31|Johto}}, [[Ilex Forest]] and [[National Park]]{{sup/t|M}}{{sup/t|D}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br>[[Ilex Forest]] ([[Headbutt tree]]s)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Viridian Forest]], [[Pattern Bush]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|204|Sinnoh}} {{color2|{{FireRed color dark}}|Dual-slot mode|(FireRed)}}}}
+{{Availability/Entry1|v=Platinum|area={{rt|204|Sinnoh}}, [[Eterna Forest]] {{color2|{{FireRed color dark}}|Dual-slot mode|(FireRed)}}}}
+{{Availability/Entry1|v=HeartGold|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|30|Johto}}, and {{rtn|31|Johto}}, [[Ilex Forest]], [[National Park]], [[Viridian Forest]]{{sup/t|M}}{{sup/t|D}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br>[[Ilex Forest]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=SoulSilver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|1|v=Black}}
+{{Availability/Entry1|1|v=White|area={{pkmn|breeding|Breed}} {{p|Metapod}} or {{p|Butterfree}}}}
+{{Availability/Entry1/None|1|v=Black 2}}
+{{Availability/Entry1|1|v=White 2|area={{pkmn|breeding|Breed}} {{p|Butterfree}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|v=X|t=FFF|area=[[Santalune Forest]]}}
+{{Availability/Entry1|v=Y|area={{rt|2|Kalos}}, [[Santalune Forest]]}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|1|Alola}} and {{rtn|5|Alola}}, [[Lush Jungle]], [[Melemele Meadow]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]]s {{rtn|1|Alola}} and {{rtn|5|Alola}}, [[Melemele Meadow]]<br/>[[Lush Jungle]] ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Viridian Forest]], [[Cerulean City]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Viridian Forest (Channel)|Forest]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|1|Phobos Train}}, Endless level 9, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Wish Cave]] (2F-4F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Apple Woods]] (1F-4F), [[Oran Forest]] (1F-4F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Apple Woods]] (1F-4F), [[Oran Forest]] (1F-4F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode C)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Meadow Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Sun-Dappled Bank]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Slithering Trains|Vehicle Gallery: Slithering Trains]], [[Chill Battle#The Forest of Memories|Chill Battle: The Forest of Memories]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 2|Safari Jungle: Stage 2]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#20th release|''Pokémon Safari'']] <small>(20th release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Pixie Glen|Fairy Land: Pixie Glen]] <small>(All Areas)</small>, [[Origin Hideaway#Old-Growth Woods|Origin Hideaway: Old-Growth Woods]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Bug
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1image=no|rby1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|HP=45
+|Attack=30
+|Defense=35
+|SpAtk=20
+|SpDef=20
+|Special=20
+|Speed=45}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|Speed=2
+|SpeedMax=3
+|Power=1
+|PowerMax=3
+|Technique=4
+|TechniqueMax=4
+|Stamina=2
+|StaminaMax=3
+|Jump=2
+|JumpMax=2}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|gen1bug=yes
+|oldpoison=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Caterpie|Bug|Bug|1}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|String Shot|Bug|Status|—|95|40}}
+{{learnlist/level7|9|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/levelf/7|Caterpie|Bug|Bug|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Caterpie|Bug|Bug|1}}
+{{learnlist/tm7null}}
+{{learnlist/tmf/7|Caterpie|Bug|Bug|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Caterpie|Bug|Bug|2}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Caterpie|Bug|Bug|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Caterpie|Bug|Bug|2}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutorf/7|Caterpie|Bug|Bug|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background:#{{tcg grass color light}}; border:3px solid #{{tcg grass color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Headbutt}}
+| style="background:#fff; {{roundybr|5px}}" | [[Caterpie (Expedition 96)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/Pinball|col=3|type=Bug|ndex=010|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=010|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=010
+|body=1
+|rate=10.2
+|area=Mist-Rise Forest
+|P1=I'll eat lots and grow big.
+|P2=This is so hard... My health is down to half.
+|P3=I can't keep up... I can't spit silk anymore...
+|PL=I leveled up! Happy!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=010
+|body=1
+|rate=8.2
+|IQ=A
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Bug|ndex=010
+|Pad=Caterpie fell out of the White Tree on the other side of the bridge in the [[Meadow Zone]]! Her favorite Attraction is {{DL|Attractions|Bulbasaur's Daring Dash}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Bug|ndex=010
+|strong=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|weak=[[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|pad=Their steps are slow, but they are quite aggressive and hate to lose. They are second to none in spirit.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=010
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=010|num=747
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Flash Mob
+|skilldesc=Increases damage when there are more Pokémon with the same type in the puzzle area.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=010
+|hatch=N/A
+|buddy=1
+|evocandy=12
+|stamina=90
+|attack=55
+|defense=62
+|fast={{m|Bug Bite}}, {{m|Tackle}}
+|special={{m|Struggle}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Bug
+|pictype=art
+|no1=010
+|name1=Caterpie
+|type1-1=Bug
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 7}}
+|no2=011
+|name2=Metapod
+|type1-2=Bug
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 10}}
+|no3=012
+|name3=Butterfree
+|type1-3=Bug
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/1|ndex=010}}
+{{Spritebox/2|ndex=010}}
+{{Spritebox/3|ndex=010}}
+{{Spritebox/4|ndex=010}}
+{{Spritebox/5|ndex=010}}
+{{Spritebox/6|ndex=010}}
+{{Spritebox/7|ndex=010}}
+{{Spritebox/Footer|010|Caterpie}}
+
+==Trivia==
+* Caterpie was both the first Pokémon to be captured and the first Pokémon to [[Evolution|evolve]] in the anime.
+* Caterpie shares its {{pkmn|category}} name with {{p|Wurmple}}. They are both known as the Worm Pokémon.
+* Until the release of {{game|Platinum}}, when it became able to learn {{m|Bug Bite}}, Caterpie was unable to do anything to a {{t|Ghost}} type outside of {{m|Struggle|struggling}} except {{m|String Shot|lower its Speed}}. It shares this trait with its evolution, {{p|Metapod}}. This is also true for {{p|Weedle}}, and its evolution, {{p|Kakuna}}, against {{t|Steel}} types before {{game|Platinum}} was released.
+** Due to this, it was impossible to complete a [[Generation I]] game using only Caterpie or Metapod, since Struggle couldn't hit Ghost types at the time.
+* In the anime and in Pokémon Adventures, Caterpie holds the record as the Pokémon who takes the least time to evolve twice, taking only [[BW130|one episode]] in the anime and [[PS89|one chapter]] in Pokémon Adventures.
+** [[Polibo|Poliwag]] and [[Togebo|Togepi]] also share this record, but in Pokémon Adventures only.
+* Prior to Generation VI, Caterpie's body style was [[File:Body02.png]].
+* In ''[[EP003|Ash Catches a Pokémon]]'', when Caterpie evolves into Metapod, the process was similar to a real caterpillar going into pupation. [[AG142|Later]] [[BW130|episodes]] show Caterpie evolving like the rest of the Pokémon do.
+* Caterpie is tied with {{p|Weedle}} for having the lowest Special Defense stat of all {{type|Bug}} Pokémon and is tied with five other Pokémon for having the lowest Special Defense stat of all Pokémon.
+
+===Origin===
+Caterpie is a stylized {{wp|caterpillar}}, most resembling an {{wp|Papilio xuthus|Asian swallowtail}}. Its "antenna" is an {{wp|osmeterium}}, an organ unique to swallowtail caterpillars which, like Caterpie, they use to emit a foul odor. The tip of Caterpie's tail resembles the horn at the rear end of most species of {{wp|Sphingidae|hawk moth}} larvae.
+
+====Name origin====
+Caterpie is a corruption of ''{{wp|caterpillar}}''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=キャタピー ''Caterpie''|jameaning=From {{tt|キャタピラー ''kyatapirā''|caterpillar}}
+|fr=Chenipan|frmeaning=From ''{{tt|chenille|caterpillar}}'' and ''{{tt|pan|trail}}''; also a pun on ''{{tt|chenapan|rascal}}''
+|es=Caterpie|esmeaning=Same as English/Japanese name
+|de=Raupy|demeaning=From ''{{tt|Raupe|caterpillar}}''
+|it=Caterpie|itmeaning=Same as English/Japanese name
+|ko=캐터피 ''Caterpie''|komeaning=Same as Japanese name
+|bg=Катерпи ''Katerpi''|bgmeaning=Transcription as English/Japanese name
+|zh_yue=綠毛蟲 ''Luhkmòuhchùhng''|zh_yuemeaning="Green caterpillar", or literally, "Green furry worm"
+|zh_cmn=綠毛蟲 / 绿毛虫 ''Lǜmáochóng''|zh_cmnmeaning="Green caterpillar", or literally, "Green furry worm"
+|hi=कटेरपी ''Caterpie''|himeaning=Transcription of English/Japanese name
+|lt=Katerpis|ltmeaning=From English name
+|ru=Катерпи ''Katerpi''|rumeaning=Transcription of English/Japanese name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Caterpie]]
+* [[Kitty]]
+* [[Caterpie (Red and Blue Rescue Team)]]
+<!--
+==Notes==-->
+
+==External links==
+* {{wp|Caterpie, Metapod, and Butterfree|Article on Wikipedia}}
+
+{{-}}
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=009|prev=Blastoise|nextnum=011|next=Metapod|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Body style 02 Pokémon]]<!--Prior to Gen VI-->
+
+[[de:Raupy]]
+[[fr:Chenipan]]
+[[it:Caterpie]]
+[[ja:キャタピー]]
+[[pl:Caterpie]]
+[[zh:绿毛虫]]

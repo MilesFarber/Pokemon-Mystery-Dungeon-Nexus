@@ -1,0 +1,537 @@
+{{PokémonPrevNext/Head|type=Water|type2=Electric}}
+{{PokémonPrevNext/GO|species=Lanturn}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=170|prev=Chinchou|nextnum=172|next=Pichu|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Lanturn
+|jname=ランターン
+|jtranslit=Rantān
+|tmname=Lantern
+|ndex=171
+|oldjdex=175
+|jdex=177
+|hdex=182
+|hdex6=191
+|karea=Coastal
+|kdex=148
+|adex=202
+|abrow=089
+|obrow=061
+|type1=Water
+|type2=Electric
+|category=Light
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=49.6
+|weight-kg=22.5
+|ability1=Volt Absorb
+|ability2=Illuminate
+|abilityd=Water Absorb
+|egggroupn=1
+|egggroup1=Water 2
+|eggcycles=20
+|evtotal=2
+|evhp=2
+|expyield=161
+|oldexp=156
+|lv100exp=1,250,000
+|gendercode=127
+|color=Blue
+|catchrate=75
+|body=03
+|pokefordex=lanturn
+|generation=2
+|friendship=70
+}}
+'''Lanturn''' ([[List of Japanese Pokémon names|Japanese]]: '''ランターン''' ''Lantern'') is a dual-type {{2t|Water|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Chinchou}} starting at [[level]] 27.
+
+==Biology==
+Lanturn is a large, blue fish-like Pokémon with small, blue pectoral fins. It has a yellow "mask" over its red eyes. The lower half of its caudal fin is yellow and has jagged edges. A Y-shaped antenna with a teardrop-shaped orb on each tip sprouts from its back. This structure comes from a modification of its dorsal fin. 
+
+These orbs contain a colony of bacteria that chemically react with Lanturn's bodily fluids, generating electricity in a similar fashion to that of a battery. Lanturn uses the bright part of its body to lure fish prey. It then blinds the prey with an intense burst of light, and swallows the immobilized prey in a single gulp. Lanturn inhabits the {{DL|List of Pokémon by habitat|Sea Pokémon|ocean}} at depths of over three miles.
+
+==In the anime==
+===Major appearances===
+[[File:Kyle Lanturn.png|thumb|left|220px|Lanturn in the {{pkmn|anime}}]]
+Lanturn debuted in ''[[EP220|The Mystery is History]]'', under the ownership of [[Oliver]]. He was using it to play with a baby {{p|Lugia}} named [[Silver (Johto)|Silver]].
+
+A Lanturn appeared in ''[[EP256|Just Add Water]]'', under the ownership of [[Dorian]]. Dorian used it to battle against {{an|Misty}}.
+
+In ''[[EP257|Lapras of Luxury]]'', Lanturn's {{m|Supersonic|supersonic waves}} helped [[Naomi]] locate singing voices of {{p|Lapras}}.
+
+A Lanturn appeared in ''[[DP078|Pruning a Passel of Pals!]]'', under the ownership of {{si|Kyle}}. It and its Trainer were participating in the [[Wallace Cup]], and it defeated [[Ash's Buizel]] in a battle.
+
+===Minor appearances===
+A Lanturn appeared in ''[[The Legend of Thunder!]]'', where it was seen swimming in a lake.
+
+Multiple Lanturn were among the Pokémon living in [[Lake Slowpoke]] in ''[[EP244|Enlighten Up!]]''.
+
+A Lanturn was used by a competitor in the [[Tour de Alto Mare]], a water chariot race, in ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+Multiple Lanturn appeared in ''[[M07|Destiny Deoxys]]''.
+
+Multiple Lanturn appeared in ''[[M09|Pokémon Ranger and the Temple of the Sea]]''. They briefly reappeared in a montage in ''[[M10|The Rise of Darkrai]]'', which chronicled the preceding nine movies.
+
+Multiple Lanturn appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Lanturn appeared in a fantasy in ''[[XY009|Clemont's Got a Secret!]]''.
+
+Multiple Lanturn appeared in ''[[XY022|Going for the Gold!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP220|Lanturn|Ash's Pokédex|Lanturn, the Light Pokémon. The light that emits from its tentacle-like limb shines bright enough to illuminate the bottom of a deep sea.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP078|Lanturn|Dawn's Pokédex|Lanturn, the Light Pokémon, and the evolved form of Chinchou. Lanturn's antenna light is strong enough to penetrate the ocean, and can be seen on the water's surface.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Misty Lanturn Adventures.png|thumb|130px|Lanturn in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+An ice sculpture of a Lanturn Pryce made appeared in ''[[PS143|Irked Igglybuff and Curmudgeonly Cleffa]]''.
+
+In ''[[PS151|Lovely Lanturn]]'', [[Misty]] uses a Lanturn to fight {{p|Suicune}} in the [[Tohjo Falls]].
+
+In ''[[PS179|The Last Battle XIII]]'' a Lanturn was one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+The Battle Factory rented a Lanturn which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''.
+
+==In the TCG==
+{{main|Lanturn (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Electric}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=The light it emits is so bright that it can illuminate the sea's surface from a depth of over {{tt|three miles|five kilometers}}.}}
+{{Dex/Entry1|v=Silver|entry=It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.}}
+{{Dex/Entry1|v=Crystal|entry= This Pokémon uses the bright part of its body, which changed from a dorsal fin, to lure prey.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Lanturn is nicknamed "the deep-sea star" for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pokémon's light rising from the depths where it swims. It gives the sea an appearance of a starlit night.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This Pokémon illuminates the inky darkness of deep seas.}}
+{{Dex/Entry1|v=FireRed|entry=It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.}}
+{{Dex/Entry1|v=LeafGreen|entry=The light it emits is so bright that it can illuminate the sea's surface from a depth of over {{tt|three miles|five kilometers}}.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Lanturn's light can shine up from great depths. It is nicknamed "The Deep-Sea Star."}}
+{{Dex/Entry1|v=HeartGold|entry=The light it emits is so bright that it can illuminate the sea's surface from a depth of over {{tt|three miles|five kilometers}}.}}
+{{Dex/Entry1|v=SoulSilver|entry=It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Lanturn's light can shine up from great depths. It is nicknamed "The Deep-Sea Star."}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Lanturn's light can shine up from great depths. It is nicknamed "The Deep-Sea Star."}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Lanturn's light can shine up from great depths. It is nicknamed "The Deep-Sea Star."}}
+{{Dex/Entry1|v=Y|entry=It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Lanturn is nicknamed "the deep-sea star" for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pokémon's light rising from the depths where it swims. It gives the sea an appearance of a starlit night.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Should you peer into the ocean at night and see a light shining like the stars, that is Lanturn.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.}}
+{{Dex/Entry1|v=Ultra Sun|entry=When the bacteria living inside its antennae absorb Lanturn's bodily fluids, a strong luminescent effect is produced.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It lives far down in the depths of the ocean. It blinds its prey with light, using the moment they're dazzled to swallow them whole.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Electric}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, {{rtn|26|Kanto}}, {{rtn|27|Kanto}} and {{rtn|41|Johto}}, [[Olivine City]]{{tt|*|Harbor}}, [[Vermilion City]]{{tt|*|City and Bay}}, [[Pallet Town]], [[New Bark Town]], [[Cinnabar Island]] ({{DL|Fishing|Super Rod}})}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Chinchou}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Chinchou}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|220|Sinnoh}} ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Chinchou}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|41|Johto}}, and {{rtn|47|Johto}}, [[New Bark Town]], [[Pallet Town]], [[Vermilion City]], [[Cinnabar Island]] ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Driftveil City]] ([[Fishing]] in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Undella Bay]] ([[Fishing]] in {{DL|Phenomenon|rippling water}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Shalour City]], [[Azure Bay]] ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|107|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|128|Hoenn}}, {{rtn|129|Hoenn}}, and {{rtn|130|Hoenn}} ([[Underwater]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Chinchou}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|8|Alola}}, [[Akala Outskirts]] ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Electric}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Cobalt Coast|Secret Cove]]}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Chinchou}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 13]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Chinchou}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Miracle Sea]] (B1-B18, Deep Miracle Sea B1-B4)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Miracle Sea]] (B1-B18, Deep Miracle Sea B1-B4)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Sea of Wailord]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Canal Ruins]], {{ra|Eastern Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Challenger's Ground]] (post-ending), [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#The Enemies Within|Secret Warehouse: The Enemies Within]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 3|Safari Jungle: Stage 3]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 287]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Moonlit Island|Pearl Marsh: Moonlit Island]] <small>(All Areas)</small>, [[Origin Hideaway#Secret Cove|Origin Hideaway: Secret Cove]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Water|type2=Electric
+|dp1=DeepSeaScale|dp1type=None|dp1rar=5
+|hgss1=DeepSeaScale|hgss1type=None|hgss1rar=5
+|bw1=DeepSeaScale|bw1type=None|bw1rar=5
+|b2w21=DeepSeaScale|b2w21type=None|b2w21rar=5
+|xy1=Deep Sea Scale|xy1type=None|xy1rar=5
+|oras1=Deep Sea Scale|oras1type=None|oras1rar=5
+|usum1=Deep Sea Scale|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|type2=Electric
+|HP=    125
+|Attack= 58
+|Defense=58
+|SpAtk=  76
+|SpDef=  76
+|Speed=  67}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Electric
+|Speed=3
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=3
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=4
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Electric
+|Normal=  100
+|Fighting=100
+|Flying=   50
+|Poison=  100
+|Ground=  200
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    25
+|Fire=     50
+|Water=    50
+|Grass=   200
+|Electric=100
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|voltabsorb=maybe
+|waterabsorb=maybe}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Lanturn|Water|Electric|2|SM|USUM}}
+{{learnlist/levelVII|{{tt|Evo.|Learned upon evolving}}|{{tt|Evo.|Learned upon evolving}}|Spit Up|Normal|Special|—|100|10}}
+{{learnlist/levelVII|{{tt|Evo.|Learned upon evolving}}|{{tt|Evo.|Learned upon evolving}}|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/levelVII|{{tt|Evo.|Learned upon evolving}}|{{tt|Evo.|Learned upon evolving}}|Swallow|Normal|Status|—|—|10}}
+{{learnlist/levelVII|1|1|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/levelVII|1|1|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/levelVII|1|1|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/levelVII|1|1|Spit Up|Normal|Special|—|100|10}}
+{{learnlist/levelVII|N/A|1|Spotlight|Normal|Status|—|—|15}}
+{{learnlist/levelVII|1|1|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/levelVII|1|1|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/levelVII|1|1|Swallow|Normal|Status|—|—|10}}
+{{learnlist/levelVII|1|1|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/levelVII|6|6|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/levelVII|9|9|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/levelVII|12|12|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/levelVII|17|17|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/levelVII|20|20|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/levelVII|23|23|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/levelVII|29|29|Signal Beam|Bug|Special|75|100|15}}
+{{learnlist/levelVII|33|33|Flail|Normal|Physical|—|100|15}}
+{{learnlist/levelVII|37|37|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/levelVII|43|43|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/levelVII|47|47|Aqua Ring|Water|Status|—|—|20}}
+{{learnlist/levelVII|51|51|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelVII|54|54|Ion Deluge|Electric|Status|—|—|25}}
+{{learnlist/levelVII|58|58|Charge|Electric|Status|—|—|20}}
+{{learnlist/levelf/7|Lanturn|Water|Electric|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Lanturn|Water|Electric|2}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Lanturn|Water|Electric|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Lanturn|Water|Electric|2}}
+{{learnlist/breed7|{{MSP|118|Goldeen}}{{MSP|119|Seaking}}{{MSP|318|Carvanha}}{{MSP|319|Sharpedo}}{{MSP|370|Luvdisc}}|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|339|Barboach}}{{MSP|340|Whiscash}}|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|211|Qwilfish}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|594|Alomomola}}{{MSP|746|Wishiwashi}}|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/breed7|{{MSP|118|Goldeen}}{{MSP|119|Seaking}}{{MSP|129|Magikarp}}{{MSP|170|Chinchou}}{{MSP|171|Lanturn}}{{MSP|370|Luvdisc}}<br>{{MSP|550|Basculin}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|320|Wailmer}}{{MSP|321|Wailord}}|Mist|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|686|Inkay}}{{MSP|687|Malamar}}|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/breed7|{{MSP|318|Carvanha}}{{MSP|319|Sharpedo}}{{MSP|779|Bruxish}}|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/breed7|{{MSP|170|Chinchou}}{{MSP|171|Lanturn}}{{MSP|211|Qwilfish}}|Shock Wave|Electric|Special|60|&mdash;|20|‡|'''}}
+{{learnlist/breed7|{{MSP|118|Goldeen}}{{MSP|119|Seaking}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|321|Wailord}}{{MSP|370|Luvdisc}}<br>{{MSP|456|Finneon}}{{MSP|457|Lumineon}}{{MSP|550|Basculin}}{{MSP|594|Alomomola}}{{MSP|746|Wishiwashi}}|Soak|Water|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|118|Goldeen}}{{MSP|119|Seaking}}{{MSP|223|Remoraid}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|339|Barboach}}<br>{{MSP|340|Whiscash}}{{MSP|370|Luvdisc}}{{MSP|456|Finneon}}{{MSP|457|Lumineon}}{{MSP|594|Alomomola}}|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/breed7|{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|456|Finneon}}{{MSP|457|Lumineon}}{{MSP|594|Alomomola}}|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/breedf/7|Lanturn|Water|Electric|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Lanturn|Water|Electric|2|7}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||'''|no|yes}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Lanturn|Water|Electric|2|7}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Lanturn|Water|Electric|2|7}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Lanturn|Water|Electric|2|7}}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Electric}}
+{{Spindata/PinballRS|col=3|type=Water|ndex=171|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Water|ndex=171|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=171
+|body=1
+|rate=Evolve
+|area=Deep-Sea Floor
+|P1=Am I too bright? Sorry, sorry.
+|P2=I'm getting down to about half HP now.
+|P3=That's it... I can't light my lamps anymore...
+|PL=Leveled up! My lamps blaze even brighter!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=171
+|body=1
+|rate=-4.5
+|IQ=A
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Electric
+|assist=Recharge
+|field=Recharge
+|fieldpower=4
+|browser=It discharges electricity from its body. It attacks by shooting bolts of electricity.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Electric
+|assist=Recharge
+|field=Recharge
+|fieldpower=3
+|past=NA
+|browser= It restores the [[Styler]] Energy.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=171|bttype=Electric
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=171|stype=Electric|num=395
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Cloud Clear+
+|skilldesc=Sometimes clears away three black-cloud disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=171
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=250
+|attack=146
+|defense=146
+|fast={{m|Water Gun}}, {{m|Charge Beam}}
+|special={{m|Hydro Pump}}, {{m|Thunderbolt}}, {{m|Thunder}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Water
+|type2=Electric
+|pictype=art
+|no1=170
+|name1=Chinchou
+|type1-1=Water
+|type2-1=Electric
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 27}}
+|no2=171
+|name2=Lanturn
+|type1-2=Water
+|type2-2=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Electric}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=171}}
+{{Spritebox/3|ndex=171}}
+{{Spritebox/4|ndex=171}}
+{{Spritebox/5|ndex=171}}
+{{Spritebox/6|ndex=171}}
+{{Spritebox/7|ndex=171}}
+{{Spritebox/Footer|171|Lanturn}}
+
+====Japanese sprites====
+{| style="margin:auto; text-align:center; font-size:80%; {{roundy|20px}} border:2px solid #{{electric color}}; background:#{{water color}}"
+|-
+| style="{{roundy|80px}} border:2px solid #{{electric color}}; background:#{{water color light}}; width:160px"| [[File:Spr 2g 171 jp.png]]<br>[[File:Spr 2g 171 s jp.png]]
+| style="{{roundy|80px}} border:2px solid #{{electric color}}; background:#{{water color light}}; width:160px"| [[File:Spr 2s 171 jp.png]]<br>[[File:Spr 2s 171 s jp.png]]
+| style="{{roundy|80px}} border:2px solid #{{electric color}}; background:#{{water color light}}; width:160px"| [[File:Spr b 2g 171 jp.png]]<br>[[File:Spr b 2g 171 s jp.png]]
+|-
+| Gold
+| Silver
+| Back sprites
+|}
+
+==Trivia==
+* Lanturn has the highest base {{stat|HP}} of all {{type|Electric}} Pokémon.
+* Lanturn shares the same {{pkmn|category}} with {{p|Ampharos}}. They are both known as the Light Pokémon.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Chinchou and Lanturn}}
+It is based on an {{wp|anglerfish}}, more specifically the {{wp|footballfish}}, although it shares some similarities with {{wp|dolphins}}. It is also possible that Lanturn's origin contains a small piece of the {{wp|Hellenistic}} god, {{wp|Apollo}}. He was the god of light and his animal was the dolphin.
+
+====Name origin====
+Lanturn is a corruption of ''{{wp|lantern}}''. It may also be a combination of ''lantern'' and ''turn'' (as in "turn on the light").
+
+Lantern is literally ''lantern''.
+
+==In other languages==
+{{Other languages|type=Water|type2=Electric
+|ja=ランターン ''Lantern''|jameaning=From ''lantern''
+|fr=Lanturn|frmeaning=Same as English name
+|es=Lanturn|esmeaning=Same as English name
+|de=Lanturn|demeaning=Same as English name
+|it=Lanturn|itmeaning=Same as English name
+|ko=랜턴 ''Lanturn''|komeaning=Transliteration of Japanese name
+|zh_cmn=電燈怪 / 电灯怪 ''Diàndēngguài''|zh_cmnmeaning=Literally "Lamp freak".
+|zh_yue=電燈怪|zh_yuemeaning=Literally "Lamp freak".
+|hi=लैंटर्न ''Lanturn''|himeaning=Transcription of English name
+|ru=Лантурн ''Lanturn''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water|type2=Electric}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=170|prev=Chinchou|nextnum=172|next=Pichu|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Lanturn]]
+[[fr:Lanturn]]
+[[it:Lanturn]]
+[[ja:ランターン]]
+[[pl:Lanturn]]
+[[zh:电灯怪]]

@@ -1,0 +1,275 @@
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=748|prev=Toxapex|nextnum=750|next=Mudsdale}}
+|}
+{{Pokémon Infobox
+|name=Mudbray
+|jname=ドロバンコ
+|tmname=Dorobanko
+|ndex=749
+|type1=Ground
+|category=Donkey
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=242.5
+|weight-kg=110.0
+|adex=132
+|ability1=Own Tempo
+|ability2=Stamina
+|abilityd=Inner Focus
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=1
+|evat=1
+|expyield=77
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=190
+|body=08
+|pokefordex=mudbray
+|generation=7
+|friendship=70
+}}
+'''Mudbray''' ([[List of Japanese Pokémon names|Japanese]]: '''ドロバンコ''' ''Dorobanko'') is a {{type|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] into {{p|Mudsdale}} starting at [[level]] 30.
+
+==Biology==
+Mudbray is a quadruped, equine Pokémon resembling a small donkey. It has a dark brown coat with a cream-colored underbelly, muzzle, and circular markings on each cheek. A short, teardrop-shaped blaze extends up from its muzzle, and it has long, pointed ears with pink insides. Its large eyes have horizontal pupils. Black bangs hang over its face before turning into a stiff mane along its neck. Additionally, it has a short, black tail. Thick, cream-colored mud surrounds each black hoof.
+
+Because it was hunted nearly to extinction when it lived all over the world, it is believed to run wild only in [[Alola]]. This Pokémon boasts immense strength for its size, and is able to drag or carry loads up to 50 times its own weight. If Mudbray has a place where it can frolic in the mud, it is happy. However, it becomes stressed and may become disobedient if denied this daily pastime.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/mudbray/</ref>
+
+==In the anime==
+[[File:Mudbray anime.png|250px|thumb|left|Mudbray in the {{pkmn|anime}}]]
+===Major appearances===
+Multiple Mudbray debuted in ''[[SM011|Young Kiawe Had a Farm!]]'', where they were among the Pokémon on [[Paniola Ranch]]. They later received a cleaning from {{an|Kiawe}} and {{Ash}}. One of them reappeared in a picture in ''[[SM031|The Island Whisperer!]]''.
+
+A Mudbray appeared in ''[[SM019|A Guardian Rematch!]]'', under the ownership of [[Hiroki]]. It battled Ash and {{AP|Rockruff}}, but was defeated by {{m|Breakneck Blitz}}.
+
+===Minor appearances===
+A Mudbray appeared in [[SM057]], where it fell asleep to {{an|Jigglypuff}} while listening to its {{m|Sing|voice}}, and subsequently had its face scribbled on.
+
+A Mudbray appeared in a flashback in [[SM059]], where it was eating mud next to {{an|Lana}} outside the [[Aina's Kitchen]].
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM011|Mudbray|Rotom Pokédex|Mudbray, the Donkey Pokémon. A {{t|Ground}} type. Mudbray are stubborn and independent. Their daily routine includes eating dirt and frolicking in the mud they kick up.}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+<!--
+==In the manga==
+-->
+
+==In the TCG==
+{{main|Mudbray (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ground}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=The mud stuck to Mudbray's hooves enhances its grip and its powerful running gait.}}
+{{Dex/Entry1|v=Moon|entry=It has a stubborn, individualistic disposition. Eating dirt, making mud, and playing in the mire all form part of its daily routine.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It loves playing in the mud. If it isn't showered with mud on a daily basis, it gets stressed out and stops listening to its Trainer.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Possessing mighty power, Mudbray can be loaded with 50 times its own body weight and will be totally fine.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ground}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|4|Alola}}, {{rtn|6|Alola}}, {{rtn|12|Alola}}, [[Paniola Ranch]], [[Blush Mountain]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]]s {{rtn|4|Alola}}, {{rtn|6|Alola}}, {{rtn|12|Alola}}, [[Paniola Ranch]], [[Blush Mountain]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|The Daily Pokémon (#9)}}''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Ground
+|sm1=Light Clay|sm1type=None|sm1rar=5
+|usum1=Light Clay|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ground
+|HP=70
+|Attack=100
+|Defense=70
+|SpAtk=45
+|SpDef=55
+|Speed=45}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ground
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=yes
+|newelectric=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Mudbray|Ground|Ground|7}}
+{{learnlist/level7|1|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level7|3|Mud Sport|Ground|Status|—|—|15}}
+{{learnlist/level7|8|Rototiller|Ground|Status|—|—|10}}
+{{learnlist/level7|10|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level7|15|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/level7|17|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level7|22|Bide|Normal|Physical|—|—|10}}
+{{learnlist/level7|24|High Horsepower|Ground|Physical|95|95|10||'''}}
+{{learnlist/level7|29|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level7|31|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/level7|36|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/level7|38|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|43|Mega Kick|Normal|Physical|120|75|5}}
+{{learnlist/level7|45|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/levelf/7|Mudbray|Ground|Ground|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Mudbray|Ground|Ground|7}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Mudbray|Ground|Ground|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Mudbray|Ground|Ground|7}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|324|Torkoal}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|432|Purugly}}<br>{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|335|Zangoose}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}{{MSP|448|Lucario}}<br>{{MSP|766|Passimian}}<br>|Close Combat|Fighting|Physical|120|100|5}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|128|Tauros}}{{MSP|133|Eevee}}<br>{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|206|Dunsparce}}{{MSP|231|Phanpy}}{{MSP|264|Linoone}}<br>{{MSP|300|Skitty}}{{MSP|322|Numel}}{{MSP|327|Spinda}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}{{MSP|585|Deerling}}<br>{{MSP|586|Sawsbuck}}{{MSP|672|Skiddo}}{{MSP|673|Gogoat}}{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|766|Passimian}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}<br>{{MSP|232|Donphan}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}|Magnitude|Ground|Physical|—|100|30||'''}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}<br>{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}|Mud Bomb|Ground|Special|65|85|10||'''}}
+{{learnlist/breedf/7|Mudbray|Ground|Ground|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Mudbray|Ground|Ground|7}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutorf/7|Mudbray|Ground|Ground|7}}
+
+===Side game data===
+{{Spindata/Head|type=Ground}}
+{{Spindata/Shuffle|col=6|type=Ground|ndex=749|num=736
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Eject
+|skilldesc=Removes one non-Support Pokémon icon without fail.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Ground
+|pictype=art
+|no1=749
+|name1=Mudbray
+|type1-1=Ground
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no2=750
+|name2=Mudsdale
+|type1-2=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=749}}
+{{Spritebox/Footer|749|Mudbray}}
+
+==Trivia==
+
+===Origin===
+Mudbray is based on a {{wp|donkey}}.
+
+====Name origin====
+Mudbray may be a combination of ''mud'' and ''bray'' (cry of a donkey).
+
+Dorobanko may be a combination of 泥 ''doro'' (mud), 驢馬 ''roba'' (donkey), 輓馬 ''banba'' (draft horse), and 子 ''ko'' (young animal).
+
+==In other languages==
+{{Other languages|type=Ground|type2=Ground
+|ja=ドロバンコ ''Dorobanko''|jameaning=From {{tt|泥 ''doro''|mud}}, {{tt|驢馬 ''roba''|donkey}}, {{tt|輓馬 ''banba''|draft horse}}, and {{tt|子 ''ko''|young animal}}
+|fr=Tiboudet|frmeaning=From {{tt|''petit''|small}}, {{tt|''boue''|mud}}, and {{tt|''baudet''|donkey/horse}}
+|es=Mudbray|esmeaning=Same as English name
+|de=Pampuli|demeaning=From {{tt|''Pampe''|mash}} and {{tt|''Muli''|mule}}
+|it=Mudbray|itmeaning=Same as English name
+|ko=머드나기 ''Meodeunagi''|komeaning=From ''mud'', {{tt|당나귀 ''dangnagwi''|donkey}}, and {{tt|아기 ''agi''|baby}}.
+|zh_cmn=泥驢仔 / 泥驴仔 ''Nílǘzǎi''|zh_cmnmeaning=From {{tt|泥 ''ní''|mud}}, {{tt|驢子 ''lǘzi''|donkey}}, and {{tt|仔 ''zǎi''|young animal}}
+|zh_yue=泥驢仔 ''Nàihlèuihjái''|zh_yuemeaning=From {{tt|泥 ''nàih''|mud}}, {{tt|驢子 ''lèuihjí''|donkey}}, and {{tt|仔 ''jái''|young animal}}
+|ru=Мадбрей ''Madbrey''|rumeaning=Transcription of English name}}
+{{-}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=748|prev=Toxapex|nextnum=750|next=Mudsdale}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Pampuli]]
+[[fr:Tiboudet]]
+[[it:Mudbray]]
+[[ja:ドロバンコ]]
+[[zh:泥驴仔]]

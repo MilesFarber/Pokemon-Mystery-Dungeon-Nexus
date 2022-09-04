@@ -1,0 +1,260 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=663|prev=Talonflame|nextnum=665|next=Spewpa}}
+|}
+{{Pokémon Infobox
+|name=Scatterbug
+|jname=コフキムシ
+|tmname=Kofukimushi
+|category=Scatterdust
+|typebox=1
+|type1=Bug
+|abilityn=d
+|ability1=Shield Dust
+|ability2=Compound Eyes
+|abilityd=Friend Guard
+|ndex=664
+|karea=Central
+|kdex=020
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=5.5
+|weight-kg=2.5
+|egggroupn=1
+|egggroup1=Bug
+|gendercode=127
+|eggcycles=15
+|evtotal=1
+|evde=1
+|expyield=40
+|lv100exp=1,000,000
+|color=Black
+|catchrate=255
+|body=14
+|pokefordex=scatterbug
+|generation=6
+|friendship=70
+}}
+'''Scatterbug''' ([[List of Japanese Pokémon names|Japanese]]: '''コフキムシ''' ''Kofukimushi'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] into {{p|Spewpa}} starting at [[Level|level]] 9, which evolves into {{p|Vivillon}} starting at level 12.
+
+==Biology==
+Scatterbug is a small, black, insectoid Pokémon with a large head that takes up most of its body. The head is bisected by a line that runs from the forehead to the mouth, where it splits off. It has large khaki-colored eyes with square black pupils and no visible sclera. One tooth pokes out of its small mouth, and there are three white hairs on top of its head. Scatterbug has a three-segmented abdomen with two small, nubby legs on each segment. A white ruff of fur runs around its neck, and there is a large beige spot on its rear.
+
+If threatened by a bird Pokémon, it can spew a powder that paralyzes on contact. The powder covering its body regulates its temperature, allowing it to adapt to any climate.
+
+==In the anime==
+[[File:Scatterbug anime.png|thumb|250px|left|Scatterbug in the {{pkmn|anime}}]]
+===Major appearances===
+Multiple Scatterbug appeared in ''[[XY012|To Catch a Pokémon Smuggler!]]'', including one that {{Ash}} and {{ashfr}} helped rescue from [[Dolan]] and his {{p|Diggersby}}. It later evolved into a {{p|Spewpa}}.
+
+===Minor appearances===
+Scatterbug debuted in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''
+
+A Scatterbug appeared in a flashback at [[Professor Sycamore]]'s lab in ''[[SS029|Mega Evolution Special I]]''.
+
+A {{pkmn|Trainer}}'s Scatterbug appeared in a flashback in ''[[XY092|Cloudy Fate, Bright Future!]]'', where one of {{AP|Froakie}}'s original Trainers sent it out for a battle.
+
+A Scatterbug appeared in ''[[XY121|Seeing the Forest for the Trees!]]'', where it, along with an {{p|Oddish}}, {{p|Budew}}, {{p|Sentret}}, and {{p|Zigzagoon}}, were brought into a cave to join Ash in the [[Winding Woods]]. It reappeared in a flashback in ''[[XY139|Facing the Needs of the Many!]]'' and ''[[XY140|Till We Compete Again!]]''.
+
+Five Scatterbug appeared during a flashback in ''[[SS036|The Legend of X, Y, and Z!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY012|Scatterbug|Ash's Pokédex|Scatterbug, the Scatterdust Pokémon. When attacked by another Pokémon, Scatterbug scatters the black powder that covers its body and regulates its body temperature.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Scatterbug Adventures.png|thumb|200px|Scatterbug in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Scatterbug debuted in ''[[PAXY02|X-actly What They Wanted]]'', where one runs away from the battle between {{p|Xerneas}} and {{p|Yveltal}} along with its Trainer.
+
+Another Scatterbug appeared in ''[[PAXY05|Kangaskhan...Kangascan't]]'', where a wild one was in a flashback in [[Santalune Forest]].
+
+A Scatterbug appeared in a flashback in ''[[PAXY27|Pinsir Glares]]''.
+
+==In the TCG==
+{{main|Scatterbug (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=bug}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=When under attack from bird Pokémon, it spews a {{m|Stun Spore|poisonous black powder}} that causes paralysis on contact.}}
+{{Dex/Entry1|v=Y|entry=The powder that covers its body regulates its temperature, so it can live in any region or climate.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=When under attack from bird Pokémon, it spews a {{m|Stun Spore|poisonous black powder}} that causes paralysis on contact.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The powder that covers its body regulates its temperature, so it can live in any region or climate.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=bug}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{rt|2|Kalos}}, [[Santalune Forest]]}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Hau'oli City]] ({{DL|QR Scanner|Island Scan}}){{dotw|Th}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 4|Renegade Meadow: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 218]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Shrub Forest|Leafy Expanse: Shrub Forest]] <small>(All Areas)</small>, [[Dark Land#Boundless Prairie|Dark Land: Boundless Prairie]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|HP=     38
+|Attack= 35
+|Defense=40
+|SpAtk=  27
+|SpDef=  25
+|Speed=  35}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=bug
+|Normal=  100
+|Fighting= 50
+|Flying=  200
+|Poison=  100
+|Ground=   50
+|Rock=    200
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Scatterbug|Bug|Bug|6}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|String Shot|Bug|Status|&mdash;|95|40}}
+{{learnlist/level7|6|Stun Spore|Grass|Status|&mdash;|75|30}}
+{{learnlist/level7|15|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/levelf/7|Scatterbug|Bug|Bug|6}}
+
+====By [[TM]]/[[HM]]====
+{{Learnlist/tmh/7|Scatterbug|Bug|Bug|6}}
+{{learnlist/tm7null}}
+{{Learnlist/tmf/7|Scatterbug|Bug|Bug|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Scatterbug|Bug|Bug|6}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|048|Venonat}}{{MSP|049|Venomoth}}{{MSP|414|Mothim}}<br>{{MSP|666|Vivillon}}|Poison Powder|Poison|Status|&mdash;|75|35}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|637|Volcarona}}|Rage Powder|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|048|Venonat}}{{MSP|049|Venomoth}}{{MSP|267|Beautifly}}<br>{{MSP|284|Masquerain}}{{MSP|666|Vivillon}}{{MSP|742|Cutiefly}}{{MSP|743|Ribombee}}|Stun Spore|Grass|Status|&mdash;|75|30}}
+{{learnlist/breedf/7|Scatterbug|Bug|Bug|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Scatterbug|Bug|Bug|6}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Scatterbug|Bug|Bug|6}}
+
+====Special moves====
+{{learnlist/eventh/7|Scatterbug|Bug|Bug|6}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|USUM}}|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/eventf/7|Scatterbug|Bug|Bug|6}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Template:Spindata/Battle Trozei|col=6|type=Bug|ndex=664
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Bug|ndex=664|num=282
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=bug
+|pictype=art
+|no1=664
+|name1=Scatterbug
+|type1-1=Bug
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 9}}
+|no2=665
+|name2=Spewpa
+|type1-2=Bug
+|evo2={{bag|Rare Candy}} <br>{{color2|000|Level|Level 12}}
+|no3=666
+|name3=Vivillon
+|type1-3=Bug
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=bug}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=664}}
+{{Spritebox/7|ndex=664}}
+{{Spritebox/Footer|664|Scatterbug}}
+
+==Trivia==
+*Scatterbug and its evolutionary relatives are the only {{type|Bug}} Pokémon introduced in [[Generation VI]].
+
+===Origin===
+Scatterbug is based on a {{wp|caterpillar}}.
+
+====Name origin====
+Scatterbug is a combination of ''scatter'' and ''bug'', and perhaps ''litterbug''.
+
+Kofukimushi may be a combination of コフキコガネ ''kofukikogane'' (Japanese {{wp|cockchafer}}), 粉 ''ko'' (powder), 吹き ''fuki'' (blow), and 虫 ''mushi'' (bug).
+
+==In other languages==
+{{Other languages|type=bug|type2=bug
+|ja=コフキムシ ''Kofukimushi''|jameaning=From コフキコガネ ''{{tt|kofukikogane|Japanese cockchafer}}'', {{tt|粉 ''ko''|powder}}, {{tt|吹き ''fuki''|blow}}, and {{tt|虫 ''mushi''|bug}}
+|fr=Lépidonille |frmeaning=From ''{{wp|Lepidoptera}}'' and ''{{tt|chenille|caterpillar}}''
+|es=Scatterbug |esmeaning=Same as English name
+|de=Purmel |demeaning=From ''{{tt|Puder|powder}}'', ''{{tt|Wurm|worm}}'' and ''{{tt|Purzel|cute (little) fellow}}''
+|it=Scatterbug |itmeaning=Same as English name
+|ko=분이벌레 ''Bun'ibeolle''|komeaning=From {{tt|분 (粉) ''bun''|powder}}, {{tt|이 ''i''|diminutive suffix}}, and {{tt|벌레 ''beolle''|worm}}
+|zh_cmn=粉蛹 ''Fěnyǒng''|zh_cmnmeaning=From {{tt|鱗粉 ''línfěn''|scale}} and {{tt|蛹 ''yǒng''|chrysalis}}
+|zh_yue=粉蛹 ''Fányúng''|zh_yuemeaning=From {{tt|鱗粉 ''lèuhnfán''|scale}} and {{tt|蛹 ''yúng''|chrysalis}}
+|hi=स्केटरबग ''Scatterbug''|himeaning=Transcription of English name
+|ru=Скаттербаг ''Skatterbag''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=663|prev=Talonflame|nextnum=665|next=Spewpa}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Purmel]]
+[[fr:Lépidonille]]
+[[it:Scatterbug]]
+[[ja:コフキムシ]]
+[[pl:Scatterbug]]
+[[zh:粉蝶虫]]

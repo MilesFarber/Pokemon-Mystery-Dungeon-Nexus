@@ -1,0 +1,290 @@
+{{PokémonPrevNext/Head|type=Fighting|type2=Ice}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=739|prev=Crabrawler|nextnum=741|next=Oricorio}}
+|}
+{{Pokémon Infobox
+|name=Crabominable
+|jname=ケケンカニ
+|tmname=Kekenkani
+|ndex=740
+|type1=Fighting
+|type2=Ice
+|category=Woolly Crab
+|height-ftin=5'07"
+|height-m=1.7
+|weight-lbs=396.8
+|weight-kg=180.0
+|adex=060
+|abilityn=d
+|ability1=Hyper Cutter
+|ability2=Iron Fist
+|abilityd=Anger Point
+|egggroupn=1
+|egggroup1=Water 3
+|eggcycles=20
+|evtotal=2
+|evat=2
+|expyield=167
+|lv100exp=1,000,000
+|gendercode=127
+|color=White
+|catchrate=60
+|body=14
+|pokefordex=crabominable
+|generation=7
+|friendship=70
+}}
+'''Crabominable''' ([[List of Japanese Pokémon names|Japanese]]: '''ケケンカニ''' ''Kekenkani'') is a dual-type {{2t|Fighting|Ice}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] from {{p|Crabrawler}} when [[level]]ed up at [[Mount Lanakila]].
+
+==Biology==
+Crabominable is a crustacean Pokémon resembling both a horsehair crab and the mythical yeti. It is mostly white, with a blue face and details, and light yellow hair with two taller hairs sticking out on top. It has fur, and has extra furry spots around its arms, mouth, and claws. Its arms are segmented into three parts, with a blue dot on the middle segment. Its claws have the appearance of a dark blue foot print or paw print, with the biggest mark being the actual claw. It has four legs with blue tips made out of ice, which can freeze a victim when touched. Its face consists of a light blue "mask", closed eyes and a large mouth that goes down into its chest fur. It has two large teeth showing as well. It has a marking on its chest probably to make it appear more like a yeti, which is usually portrayed as ape-like. On its stomach is an armor plate that is blue with light blue stripes.
+
+As a {{p|Crabrawler}}, it evolved and grew fur to bear the cold on snowy mountains. It is capable of smashing thick walls of ice to bits, and turning back avalanches. It often launches flurries of punches without thinking. At desperate times, it can lop off its cold-filled pincers and fire them like rockets.
+
+==In the anime==
+[[File:Hala Crabominable.png|thumb|left|220px|Crabominable in the {{pkmn|anime}}]]
+===Major appearances===
+Crabominable debuted in [[SM060]], under the ownership of [[Hala]]. It evolved from his {{p|Crabrawler}} after a battle with a {{p|Sneasel}} in which it emerged victorious.
+
+===Minor appearances===
+
+{{clear}}
+<!--
+==In the manga==-->
+
+==In the TCG==
+{{main|Crabominable (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fighting|type2=Ice}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It aimed for the top but got lost and ended up on a snowy mountain. Being forced to endure the cold, this Pokémon evolved and grew fur.}}
+{{Dex/Entry1|v=Moon|entry=It just throws punches indiscriminately. In times of desperation, it can lop off its own pincers and fire them like rockets.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It stores coldness in its pincers and pummels its foes. It can even smash thick walls of ice to bits!}}
+{{Dex/Entry1|v=Ultra Moon|entry=Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fighting|type2=Ice}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Crabrawler}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Crabrawler}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fighting|type2=Ice}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#18th release|''Pokémon Safari'']] <small>(18th release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Fighting
+|type2=Ice
+|HP=97
+|Attack=132
+|Defense=77
+|SpAtk=62
+|SpDef=67
+|Speed=43}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fighting
+|type2=Ice
+|Normal=100
+|Fighting=200
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=200
+|Fire=200
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=200
+|Ice=50
+|Dragon=100
+|Dark=50
+|Fairy=200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Crabominable|Fighting|Ice|7}}
+{{learnlist/level7|1|Ice Punch|Ice|Physical|75|100|15||'''}}
+{{learnlist/level7|1|Bubble|Water|Special|40|100|30}}
+{{learnlist/level7|1|Rock Smash|Fighting|Physical|40|100|15||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level7|1|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Ice Punch|Ice|Physical|75|100|15||'''}}
+{{learnlist/level7|5|Rock Smash|Fighting|Physical|40|100|15||'''}}
+{{learnlist/level7|9|Leer|Normal|Status|—|100|30}}
+{{learnlist/level7|13|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|17|Bubble Beam|Water|Special|65|100|20}}
+{{learnlist/level7|22|Power-Up Punch|Fighting|Physical|40|100|20||'''}}
+{{learnlist/level7|25|Dizzy Punch|Normal|Physical|70|100|10}}
+{{learnlist/level7|29|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/level7|33|Reversal|Fighting|Physical|—|100|15||'''}}
+{{learnlist/level7|37|Ice Hammer|Ice|Physical|100|90|10||'''}}
+{{learnlist/level7|42|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level7|45|Dynamic Punch|Fighting|Physical|100|50|5||'''}}
+{{learnlist/level7|49|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/levelf/7|Crabominable|Fighting|Ice|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Crabominable|Fighting|Ice|7}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Crabominable|Fighting|Ice|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Crabominable|Fighting|Ice|7}}
+{{learnlist/breed7|{{MSP|345|Lileep}}{{MSP|346|Cradily}}|Amnesia|Psychic|Status|—|—|20}}
+{{learnlist/breed7|{{MSP|566|Archen}}{{MSP|567|Archeops}}|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/breed7|{{MSP|341|Corphish}}|Superpower|Fighting|Physical|120|100|5|*|'''}}
+{{learnlist/breed7|{{MSP|099|Kingler}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}|Wide Guard|Rock|Status|—|—|10}}
+{{learnlist/breedf/7|Crabominable|Fighting|Ice|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Crabominable|Fighting|Ice|7}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||'''|no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5||'''|no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Crabominable|Fighting|Ice|7}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Crabominable|Fighting|Ice|7}}
+{{learnlist/prevo7|739|Crabrawler|||||Crabhammer|Water|Physical|100|90|10}}
+{{learnlist/prevof/7|Crabominable|Fighting|Ice|7}}
+
+===Side game data===
+{{Spindata/Head|type=Fighting|type2=Ice}}
+{{Spindata/Shuffle|col=6|type=Fighting|ndex=740|num=743
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Counterattack+
+|skilldesc=Deals even more damage the more disruptions there are.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Fighting
+|type2=Ice
+|pictype=art
+|no1=739
+|name1=Crabrawler
+|type1-1=Fighting
+|evo1={{bag|Town Map}}<br>{{color2|000|Level|Level up}}<br>at {{color2|000|Mount Lanakila}}
+|no2=740
+|name2=Crabominable
+|type1-2=Fighting
+|type2-2=Ice}}
+
+===Sprites===
+{{Spritebox/Header|type=Fighting|type2=Ice}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=740}}
+{{Spritebox/Footer|740|Crabominable}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Crabominable.
+* Crabominable has the longest English name of all Pokémon, with 12 letters.
+* Crabominable is the only Pokémon with a base stat total of 478.
+* Crabominable was the only {{type|Ice}} Pokémon introduced in [[Generation VII]].
+
+===Origin===
+Crabominable is likely based on a {{wp|horsehair crab}} or the ''{{wp|Kiwa hirsuta}}'', commonly known as the Yeti Crab. It also shares traits with the mythical {{wp|Yeti}}.
+====Name origin====
+Crabominable may be a combination of ''crab'' and ''abominable snowman''.
+
+Kekenkani may be a combination of 毛蟹 ''kegani'' ({{wp|horsehair crab}}) and 喧嘩 ''kenka'' (fight).
+
+==In other languages==
+{{Other languages|type=Fighting|type2=Ice
+|ja=ケケンカニ ''Kekenkani''|jameaning=From {{tt|毛蟹 ''kegani''|horsehair crab}} and {{tt|喧嘩 ''kenka''|fight}}
+|fr=Crabominable|frmeaning=Same as English name
+|es=Crabominable|esmeaning=Same as English name
+|de=Krawell|demeaning=From ''{{tt|Krabbe|crab}}'' and ''{{tt|Krawall|riot}}''
+|it=Crabominable|itmeaning=Same as English name
+|ko=모단단게 ''Modandange''|komeaning=From {{tt|모 (毛) ''mo''|fur}}, {{tt|단단하다 ''dandanhada''|tough}}, and {{tt|게 ''ge''|crab}}
+|zh_cmn=好勝毛蟹 / 好胜毛蟹 ''Hàoshèngmáoxiè''|zh_cmnmeaning=From {{tt|好勝 / 好胜 ''hàoshèng''|competitive; aggresive}} and {{tt|毛蟹 ''máoxiè''|horsehair crab}}
+|zh_yue=好勝毛蟹 ''Housingmòuhháaih''|zh_yuemeaning=From {{tt|好勝 ''housing''|competitive; aggresive}} and {{tt|毛蟹 ''mòuhháaih''|horsehair crab}}
+|ru=Крабаминабл ''Krabaminabl''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Fighting|type2=Ice}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=739|prev=Crabrawler|nextnum=741|next=Oricorio}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Krawell]]
+[[fr:Crabominable]]
+[[it:Crabominable]]
+[[ja:ケケンカニ]]
+[[zh:好胜毛蟹]]

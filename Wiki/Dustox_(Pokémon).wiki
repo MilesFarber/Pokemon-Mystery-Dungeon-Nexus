@@ -1,0 +1,473 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/GO|species=Dustox}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=268|prev=Cascoon|nextnum=270|next=Lotad|round=none}}
+{{PokémonPrevNext/Disambig|species=Dustox}}
+|}
+{{Pokémon Infobox
+|name=Dustox
+|jname=ドクケイル
+|jtranslit=Dokukeiru
+|tmname=Dokucale
+|ndex=269
+|hdex=018
+|sdex=052
+|type1=Bug
+|type2=Poison
+|category=Poison Moth
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=69.7
+|weight-kg=31.6
+|abilitylayout=2
+|ability1=Shield Dust
+|abilityd=Compound Eyes
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=3
+|evsd=3
+|expyield=173<!--135 in Gen V-VI-->
+|g4exp=161
+|oldexp=160
+|lv100exp=1,000,000
+|gendercode=127
+|color=Green
+|catchrate=45
+|body=13
+|pokefordex=dustox
+|generation=3
+|friendship=70
+}}
+'''Dustox''' ([[List of Japanese Pokémon names|Japanese]]: '''ドクケイル''' ''Dokucale'') is a dual-type {{2t|Bug|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Cascoon}} starting at [[level]] 10. It is one of {{p|Wurmple|Wurmple's}} final forms, the other being {{p|Beautifly}}.
+
+==Biology==
+Dustox is a moth-like Pokémon with two pairs of wings. It has a purple egg-shaped body with a jagged fringe on its rear. Its tattered, green wings are wide and flat, forming a disc-shape around its body. They have red markings in the form of rings and streaks, a darker green line around the edges, and contain a toxic dust. This Pokémon has two pairs of red, stubby legs and yellow, stylized compound eyes. There is a pair of fuzzy, yellow antennae on top of its head, which are smaller on the female. These antennae are used to seek food. Dustox is nocturnal and is instinctively drawn to light. Swarms are attracted by the bright light of cities where they wreak havoc by stripping the leaves off roadside trees for food. It lives in {{DL|List of Pokémon by habitat|Forest Pokémon|forests}}.
+
+==In the anime==
+===In the main series===
+[[File:Jessie Dustox.png|thumb|220px|left|Dustox in the {{pkmn|anime}}]]
+[[File:Austin Dustox.png|thumb|220px|left|Shiny Dustox in the anime]]
+====Major appearances====
+=====[[Jessie's Dustox]]=====
+[[Jessie]]'s Cascoon evolved into Dustox in ''[[AG028|Seeing is Believing]]''. It was used in many [[Pokémon Contest]]s, eventually earning Jessie her first [[Ribbon]] in ''[[DP061|Team Shocker!]]'' after it defeated [[Kenny's Prinplup]] in the [[Contest Battle|Battle Stage]] of the {{to|Solaceon}} Contest.
+
+=====Other=====
+A {{Shiny}} Dustox appeared in ''[[DP073|Crossing Paths]]'', under the ownership of [[Austin]]. He and Jessie {{pkmn2|released}} their Dustox so they could take part in the Dustox Crossing, a time when several Dustox gather at a lake and pair up before flying over [[Mt. Coronet]] towards the [[Dustox Flower Field]], where they start their families.
+
+====Minor appearances====
+A Dustox appeared in ''[[AG077|A Fan with a Plan]]'', under the ownership of a [[Pokémon Coordinator]].
+{{-}}
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG028|Dustox|Ash's Pokédex|Dustox, the Toxic Moth Pokémon. Dustox is the evolved form of {{p|Cascoon}} and is drawn toward bright light. When flapping its wings, it will scatter a poison dust.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+===In Pokémon Generations===
+[[File:Lotad Poochyena Beautifly Delcatty Swablu Vigoroth Whismur Dustox Azurill PG.png|thumb|250px|Dustox in [[Pokémon Generations]]]]
+A wild Dustox appeared in ''[[PG08|The Cavern]]'', where it was flying away from a storm which a [[Primal Reversion|Primal]] {{p|Kyogre}} was creating.
+{{-}}
+
+==In the manga==
+[[File:Team Galactic Dustox DPA.png|thumb|200px|Dustox in [[Pokémon Diamond and Pearl Adventure!]]]]
+===In the Pokémon Adventures manga===
+Dustox debuted in ''[[PS184|Distracting Dustox]]''. {{adv|Ruby}} accidentally grabbed one of its wings, angering it and inciting it to attack. Though the boy initially had a hard time confronting it due to his impartiality towards battling, [[Mumu]] eventually felled it with a {{m|Water Gun}}.
+
+The Battle Factory rented a Dustox which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+Dustox is one of the Pokémon used by random [[Team Galactic]] {{tc|Galactic Grunt|Grunts}}. They first appeared in ''[[DPA11|The Legendary Pokémon, Captured]]''.
+{{-}}
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS184]]|When it flaps it wings, it releases a deadly dust that can put even pro wrestlers to sleep. This Pokémon uses its antennae to search for food.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS184]]|When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pokémon searches for food using its antennae like radar.{{tt|*|VIZ Media}}}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Dustox (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Poison}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Dustox is instinctively drawn to light. Swarms of this Pokémon are attracted by the bright light of cities, where they wreak havoc by stripping the leaves off roadside trees for food.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pokémon searches for food using its antennae like radar.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It is a nocturnal Pokémon that flies from fields and mountains to the attraction of streetlights at night. It looses highly toxic powder from its wings.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It scatters horribly toxic dust when it senses danger. They tend to gather in the glow of streetlamps at night.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=A nocturnal Pokémon. Drawn by streetlights, they messily eat the leaves of trees lining boulevards.}}
+{{Dex/Entry1|v=Pearl|entry=It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.}}
+{{Dex/Entry1|v=Platinum|entry=Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It scatters its fine dust all over when it is attacked. It is a nocturnal Pokémon.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=A nocturnal Pokémon. Drawn by streetlights, they messily eat the leaves of trees lining boulevards.}}
+{{Dex/Entry1|v=Y|entry=It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Dustox is instinctively drawn to light. Swarms of this Pokémon are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pokémon searches for food using its antennae like radar.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Cascoon}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Cascoon}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|v=Diamond|area=[[Evolution|Evolve]] {{p|Cascoon}}}}
+{{Availability/Entry1|v=Pearl|area={{rt|230|Sinnoh}}, [[Eterna Forest]]}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|205|Sinnoh}}, {{rtn|224|Sinnoh}}, and {{rtn|229|Sinnoh}}, [[Eterna Forest]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Th}}}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Cascoon}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Cascoon}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Cascoon}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Poison}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Cascoon}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Secret Storage 9, Endless Level 6, Forever Level 6, Mr. Who's Den}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Cascoon}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Landslide Cave]] (B1-B12)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Landslide Cave]] (B1-B12)}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Challenger's Ground]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Challenge Battle#Lord of the Bugs|Challenge Battle: Lord of the Bugs <small>(Possible Boss)</small>]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 2|Safari Jungle: Stage 2]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Prasino Woods|Prasino Woods: Stage 584]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Gracious Woodlands|Distortion Land: Gracious Woodlands]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Bug|type2=Poison
+|p1=Shed Shell|p1type=None|p1rar=5
+|pt1=Shed Shell|pt1type=None|pt1rar=5
+|hgss1=Shed Shell|hgss1type=None|hgss1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|type2=Poison
+|HP=60
+|Attack=50
+|Defense=70
+|SpAtk=50
+|SpDef=90
+|Speed=65}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Poison
+|Speed=2
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Poison
+|Normal=  100
+|Fighting= 25
+|Flying=  200
+|Poison=   50
+|Ground=  100
+|Rock=    200
+|Bug=      50
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    25
+|Electric=100
+|Psychic= 200
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=    50}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Dustox|Bug|Poison|3}}
+{{learnlist/level7|1|Gust|Flying|Special|40|100|35}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Gust|Flying|Special|40|100|35}}
+{{learnlist/level7|12|Confusion|Psychic|Special|50|100|25}}
+{{learnlist/level7|15|Poison Powder|Poison|Status|&mdash;|75|35}}
+{{learnlist/level7|17|Moonlight|Fairy|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|20|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/level7|22|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level7|25|Silver Wind|Bug|Special|60|100|5||'''}}
+{{learnlist/level7|27|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|30|Whirlwind|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|32|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/level7|35|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level7|37|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|40|Quiver Dance|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/levelf/7|Dustox|Bug|Poison|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Dustox|Bug|Poison|3}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Dustox|Bug|Poison|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Dustox|Bug|Poison|3}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Dustox|Bug|Poison|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Dustox|Bug|Poison|3}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutorf/7|Dustox|Bug|Poison|3}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Dustox|Bug|Poison|3}}
+{{learnlist/prevo7|265|Wurmple|||||Tackle|Normal|Physical|40|100|35}}
+{{learnlist/prevo7|265|Wurmple|||||String Shot|Bug|Status|—|95|40}}
+{{learnlist/prevo7|265|Wurmple|||||Poison Sting|Poison|Physical|15|100|35|'''}}
+{{learnlist/prevo7|265|Wurmple|||||Bug Bite|Bug|Physical|60|100|20|'''|{{sup/7|SM}}}}
+{{learnlist/prevo7|268|Cascoon|||||Harden|Normal|Status|—|—|30}}
+{{learnlist/prevof/7|Dustox|Bug|Poison|3}}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{bug color light}}; border: 3px solid #{{poison color}}"
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Stun Spore}}
+| style="background:#fff" | {{typecolor|Grass}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[DP008|Gymbaliar!]]''
+|}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color dark}}"
+! Move
+! Card
+|-
+|- style="background:#fff"
+| {{m|Safeguard}}
+| [[Dustox ex (EX Legend Maker 86)]]
+|- style="background:#fff"
+| {{m|Stun Spore}}
+| [[Dustox (Diamond & Pearl 25)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Poison}}
+{{Spindata/PinballRS|col=3|type=Bug|ndex=269|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=269|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=269
+|body=1
+|rate=Evolve
+|area=Mist-Rise Forest
+|P1= I get drawn to bright lights. It's in my nature.
+|P2= Um... I guess my HP is down about halfway or so?
+|P3= No more, please... I'm running out of poison powders...
+|PL= I gained a level! My supply of toxic powders grew, too!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=269
+|body=1
+|rate=0.5
+|IQ=A
+}}
+|-
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=1
+|def=3
+|speed=3
+}}
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=269
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Bug|ndex=269|stype=Poison|num=703
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Cross Attack+
+|skilldesc=Deals even more damage when making a + shaped match.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=269
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=120
+|attack=98
+|defense=172
+|fast={{m|Struggle Bug}}, {{m|Confusion}}
+|special={{m|Silver Wind}}, {{m|Sludge Bomb}}, {{m|Bug Buzz}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Bug
+|type2=Poison
+|pictype=art
+|no1=265
+|name1=Wurmple
+|type1-1=Bug
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 7}}
+|no2=268
+|name2=Cascoon
+|type1-2=Bug
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 10}}
+|no3=269
+|name3=Dustox
+|type1-3=Bug
+|type2-3=Poison}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Poison}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=269}}
+{{Spritebox/4/Gender|ndex=269}}
+{{Spritebox/5/Gender|ndex=269}}
+{{Spritebox/6/Gender|ndex=269}}
+{{Spritebox/7/Gender|ndex=269}}
+{{Spritebox/Footer|269|Dustox}}
+
+==Trivia==
+* Dustox shares its {{pkmn|category}} with {{p|Venomoth}}. They are both known as the Poison Moth Pokémon.
+* Dustox is the only {{type|Poison}} Pokémon that evolves from a non-Poison-type. Thus, if a {{status|poisoned}} {{p|Cascoon}} evolves into Dustox, it will keep the status condition.
+
+===Origin===
+Dustox is based on ''{{wp|Actias artemis}}'', a Japanese moon moth. Its Shiny coloration may be inspired by moths that mimic dead leaves.
+
+====Name origin====
+Dustox is a combination of ''dust'' (referring to how wing scales are powdery) and ''toxic''.
+
+Dokucale may be a combination of 毒蛾 ''dokuga'' (poisonous {{wp|moth}}) and ''scale'' (referring to wing scales) or ''{{wp|gale}}''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Poison
+|ja= ドクケイル ''Dokucale''|jameaning=From {{tt|毒蛾 ''dokuga''|poisonous moth}}, ''scale'', and ''gale''
+|fr=Papinox|frmeaning=From ''{{tt|papillon|butterfly}}'' and ''{{tt|nox|Latin for &quot;night&quot;}}''
+|es=Dustox|esmeaning=Same as English name
+|de=Pudox|demeaning=From ''{{tt|Puder|powder}}'' and ''{{tt|toxisch|toxic}}''
+|it=Dustox|itmeaning=Same as English name
+|ko=독케일 ''Dokkeil''|komeaning=Transliteration of Japanese name
+|zh_cmn=毒粉蝶 ''Dúfěndié''|zh_cmnmeaning=Literally "Toxic dust butterfly"
+|hi=डास्टक्ष ''Dustox''|himeaning=Transcription of English name
+|ru=Дастокс ''Dastoks''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Jessie's Dustox]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Bug|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=268|prev=Cascoon|nextnum=270|next=Lotad}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Pudox]]
+[[fr:Papinox]]
+[[it:Dustox]]
+[[ja:ドクケイル]]
+[[pl:Dustox]]
+[[zh:毒粉蛾]]

@@ -1,0 +1,424 @@
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=497|prev=Serperior|nextnum=499|next=Pignite|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Tepig}}
+|}
+{{Pokémon Infobox
+|name=Tepig
+|jname=ポカブ
+|tmname=Pokabu
+|category=Fire Pig
+|type1=Fire
+|abilitylayout=2
+|ability1=Blaze
+|abilityd=Thick Fat
+|ndex=498
+|udex=004
+|u2dex=004
+|evtotal=1
+|evhp=1
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=21.8
+|weight-kg=9.9
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=62<!--28 in Gen V-VI-->
+|lv100exp=1,059,860
+|gendercode=31
+|color=Red
+|catchrate=45
+|body=08
+|pokefordex=tepig
+|generation=5
+|friendship=70
+}}
+'''Tepig''' ([[List of Japanese Pokémon names|Japanese]]: '''ポカブ''' ''Pokabu'') is a {{type|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Pignite}} starting at [[level]] 17, which evolves into {{p|Emboar}} starting at level 36.
+
+Along with {{p|Snivy}} and {{p|Oshawott}}, Tepig is one of three [[starter Pokémon]] of [[Unova]] available at the beginning of {{game|Black and White|s|Pokémon Black, White}}, [[Pokémon Black and White Versions 2|Black 2, and White 2]].
+
+==Biology==
+Tepig is a quadruped, pig-like Pokémon that is primarily orange. It has oval eyes, a pink nose, and a thick yellow stripe on its snout. The upper portion of its head is dark brown, and its long, pointed ears are positioned closely together. Tepig has short legs, and its front feet are dark brown. A dark brown band covers its lower back and rear. Its curly tail is tipped with a ruddy pink sphere.
+
+Tepig is a nimble Pokémon capable of blowing fire from its snout. It will cloak itself in these flames in order to use its [[signature move]], {{m|Heat Crash}}. However, it will spout thick, black smoke when ill. Tepig will roast berries before eating them, but occasionally gets overexcited and burns them.
+
+==In the anime==
+[[File:Ash Tepig.png|thumb|250px|Tepig in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Tepig]]====
+[[Ash's Tepig]] debuted in ''[[BW004|The Battle Club and Tepig's Choice!]]''. It was previously owned by an arrogant Trainer named [[Shamus]], but was released because it lost against a {{p|Deerling}} during a battle. {{Ash}} caught it after gaining its trust. It later evolved in ''[[BW077|Evolution by Fire!]]'' during a battle with Shamus.
+
+====Other====
+A Tepig debuted in ''[[BW001|In the Shadow of Zekrom!]]'', under the ownership of [[Professor Juniper]], as one of the [[Starter Pokémon]] to be chosen by [[Trip]]. However, he chose {{TP|Trip|Snivy}} instead.
+
+In ''[[BW109|New Places... Familiar Faces!]]'', [[Nanette]] chose a Tepig as her starter Pokémon.
+
+===Minor appearances===
+Multiple Trainers' Tepig appeared in ''[[BW019|A Connoisseur's Revenge!]]'', where they were seen at a [[Poké Mart]].
+
+A Tepig appeared in ''[[PK24|Meloetta's Moonlight Serenade]]''.
+
+A Tepig appeared in a fantasy in ''[[BW120|Ash and N: A Clash of Ideals!]]''.
+
+Five Trainers' Tepig appeared in ''[[SM034|A Crowning Moment of Truth!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW004|Tepig|Ash's Pokédex|Tepig, the Fire Pig Pokémon. Normally, fire shoots out of Tepig's snout, but it shoots out smoke instead when it is feeling ill.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Tep.png|thumb|200px|Tepig in [[Pokémon Adventures]]]]
+===In the Be the Best! Pokémon B+W manga===
+Tepig is [[Cheren]]'s [[starter Pokémon]] in the [[Be the Best! Pokémon B+W]] manga series.
+
+===In the movie adaptations===
+{{main|Ash's Tepig}}
+Ash's Tepig appeared in ''{{ma|White—Victini and Zekrom}}''.
+
+===In the Pokémon + Nobunaga's Ambition ~ Ranse's Color Picture Scroll ~ manga===
+A Tepig appeared in [[PNA6]].
+
+===In the Pokémon Adventures manga===
+{{main|Tep}}
+{{main|Gigi}}
+Tepig, along with Oshawott and Snivy appear when {{adv|Black}} accidentally drops his box containing the Pokémon. The Tepig eventually joins his team and is named "Tep". He first appeared in ''[[PS461|Fussing and Fighting]]''.
+
+{{adv|White}} also has a Tepig in her possession called "Gigi" that is an actress for the [[BW Agency]]. Her and Tep get along very well and eventually Tep becomes an actor for the BW Agency as well. She first appeared in ''[[PS465|Lights, Camera...Action]]''.
+
+===In the Pocket Monsters BW: Meetings with the Legends manga===
+{{main|Bianca's Tepig}}
+[[Bianca]] was seen with a Tepig in Pocket Monsters BW: Meetings with the Legends.
+
+===In the Pocket Monsters BW: The Heroes of Fire and Thunder manga===
+{{main|Shin's Tepig}}
+{{OBP|Shin|FAT}} owned a Tepig in [[Pocket Monsters BW: The Heroes of Fire and Thunder]].
+
+===In the Pokémon Pocket Monsters manga===
+Tepig appeared in [[PMBW01]].
+
+===In the Pokémon Try Adventure manga===
+Tepig debuted in [[TA39]].
+
+==In the TCG==
+{{main|Tepig (TCG)}}
+
+==Other Appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Wii U]]===
+
+Tepig appears as a stage Pokémon in the {{st|Kalos Pokémon League}} stage. It appears in the {{DL|Pokémon League (Kalos)|Blazing Chamber}} along with other {{type|Fire}} Pokémon, namely {{p|Infernape}}, {{p|Blaziken}}, and {{p|Pyroar}}.
+
+====Trophy information====
+'''NA''': ''Tepig, the Fire Pig Pokémon. Instead of breathing fire from its mouth or ears, Tepig does so from its nostrils. Powerful in battle, Tepig's fire is also great for roasting berries, though it can get carried away and char them. Even as clumsy as it can be, who could possibly resist such a cute Pokémon?''
+
+'''PAL''': ''Tepig is a Fire Pig Pokémon. It blows fire through...its mouth? Nope... Its ears? That's not right either... Oh, of course - its nose! That skill's not just handy in battle - it also lets Tepig roast its favourite food, berries! Sadly, it sometimes gets a little too excited about the idea and accidentally burns them to a crisp. Ahh, Tepig, you're too adorable!''
+
+==Game data==
+[[File:PP2 Tepig.png|thumb|160px|Tepig as seen in PokéPark 2: Wonders Beyond]]
+===As the player===
+Tepig appears as one of the [[player character]]s in [[PokéPark 2: Wonders Beyond]]. He's very ambitious and has a big heart for a small Pokémon. His dream is to become strong and powerful like his mentor, {{p|Emboar}}, who watches over and protects the [[Crag Area]]. When he first meets {{OBP|Pikachu|PokéPark}}, {{p|Oshawott}}, and {{p|Snivy}}, he challenges them to a battle after having been fired out of a cannon. He later forgives them and decides to accompany them in saving the {{ga|PokéPark}} to gain experience and skill to make himself stronger.
+
+Tepig is also playable in [[Pokémon Mystery Dungeon: Gates to Infinity]]. The player may choose to be transformed into Tepig, or have the partner be one.
+
+===Pokédex entries===
+{{Dex/Header|type=Fire}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It can deftly dodge its foe's attacks while shooting fireballs from its nose. It roasts berries before it eats them.}}
+{{Dex/Entry1|v=White|entry=It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It can deftly dodge its foe's attacks while shooting fireballs from its nose. It roasts berries before it eats them.}}
+{{Dex/Entry1|v=Y|entry=It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It can deftly dodge its foe's attacks while shooting fireballs from its nose. It roasts berries before it eats them.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Starter Pokémon]] from [[Professor Juniper]] in [[Nuvema Town]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Starter Pokémon]] from [[Bianca]] in [[Aspertia City]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y|area=[[Trade]]}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=From [[Professor Birch]] on {{rt|101|Hoenn}} after completing the [[Delta Episode]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{pkmn|breeding|Breed}} {{p|Emboar}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Echo Valley]], Lava: [[Volcanic Slope]], Meadow: [[Trailhead Field]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Ignis]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Starter Pokémon]], [[Partner Pokémon]], [[Smoking Mountain]] (1F-24F), [[Slumbering Cave]] (B1-B99), [[Path of No Return]] (B1-B99), [[Mount Tepid]] (1F-14F), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#Get 1,000 Combos!|Variety Battle: Get 1,000 Combos!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 2|Colossal Forest: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 662]]<br>Event: ''[[Special Stages#An Evolving Challenge|Tepig Trots onto Stage!]]''<br>Event: ''[[Special Stages#Great Daily (Third release)|Great Daily Pokémon]]'' <small>(Third release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Blustery Grove|Black Realm: Blustery Grove]] <small>(All Areas)</small>}}<!--
+{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=[[Starter Pokémon]], [[Partner Pokémon]]}} -->
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 03|Area 03: Stage 02]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{Base Stats
+|type=Fire
+|HP=65
+|Attack=63
+|Defense=45
+|SpAtk=45
+|SpDef=45
+|Speed=45}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fire
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=200
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|thickfat=maybe
+|newfire=¼
+|newice=¼}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Tepig|Fire|Fire|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|3|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|7|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level7|9|Odor Sleuth|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|13|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|15|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/level7|19|Smog|Poison|Special|30|70|20}}
+{{learnlist/level7|21|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level7|25|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|27|Heat Crash|Fire|Physical|&mdash;|100|10||'''}}
+{{learnlist/level7|31|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/level7|33|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/level7|37|Head Smash|Rock|Physical|150|80|5}}
+{{learnlist/level7|39|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|43|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/levelf/7|Tepig|Fire|Fire|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Tepig|Fire|Fire|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Tepig|Fire|Fire|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Tepig|Fire|Fire|5}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|324|Torkoal}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|432|Purugly}}<br>{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}|Burn Up|Fire|Special|130|100|5|{{sup/7|USUM}}|'''}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|133|Eevee}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}<br>{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|300|Skitty}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Covet|Normal|Physical|60|100|25}}
+{{learnlist/breed7|{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|206|Dunsparce}}{{MSP|527|Woobat}}<br>{{MSP|528|Swoobat}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}|Endeavor|Normal|Physical|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}|Heavy Slam|Steel|Physical|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}<br>{{MSP|232|Donphan}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}|Magnitude|Ground|Physical|&mdash;|100|30}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}<br>{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}<br>{{MSP|303|Mawile}}{{MSP|327|Spinda}}{{MSP|352|Kecleon}}{{MSP|359|Absol}}{{MSP|431|Glameow}}{{MSP|434|Stunky}}<br>{{MSP|435|Skuntank}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|676|Furfrou}}{{MSP|678|Meowstic}}{{MSP|775|Komala}}|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/breed7|{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|614|Beartic}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}{{MSP|759|Stufful}}{{MSP|760|Bewear}}|Superpower|Fighting|Physical|120|100|5||''}}
+{{learnlist/breed7|{{MSP|034|Nidoking}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|128|Tauros}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}<br>{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|327|Spinda}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|551|Sandile}}<br>{{MSP|552|Krokorok}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|626|Bouffalant}}<br>{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|759|Stufful}}<br>{{MSP|760|Bewear}}{{MSP|766|Passimian}}{{MSP|775|Komala}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|206|Dunsparce}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|287|Slakoth}}<br>{{MSP|289|Slaking}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}<br>{{MSP|450|Hippowdon}}{{MSP|513|Pansear}}{{MSP|517|Munna}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|775|Komala}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Tepig|Fire|Fire|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Tepig|Fire|Fire|5}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Fire Pledge|Fire|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5||''|no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Tepig|Fire|Fire|5}}
+
+===Side game data===
+{{Spindata/Head|type=Fire}}
+{{Spindata/RumbleBlast|col=6|type=Fire
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Fire|ndex=498
+|HP=3
+|atk=1
+|def=1
+|spd=2
+|range=3
+|move=Ember
+|ability1=Blaze
+|ability2=Spirit
+|ability3=Celebrate
+|evo=Evolves into {{p|Pignite}} when its Attack is 41 or higher
+|link={{DL|List of Pokémon Conquest characters|Kazutoyo}}, {{DL|List of Pokémon Conquest characters|Tatsuko}}, and {{DL|List of Pokémon Conquest characters|Naomasa}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Fire|ndex=498
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Fire|ndex=498|num=261
+|min=50
+|max=120
+|raisemaxlevel=15
+|skill=Rock Break
+|skilldesc=Destroys one breakable-rock disruption without fail.
+|swapper=Daunt
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Fire
+|pictype=art
+|no1=498
+|name1=Tepig
+|type1-1=Fire
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 17}}
+|no2=499
+|name2=Pignite
+|type1-2=Fire
+|type2-2=Fighting
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no3=500
+|name3=Emboar
+|type1-3=Fire
+|type2-3=Fighting
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Fire}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=498}}
+{{Spritebox/6|ndex=498}}
+{{Spritebox/7|ndex=498}}
+{{Spritebox/Footer|498|Tepig}}
+
+==Trivia==
+[[File:PokéSun May09 10.png|thumb|The three silhouettes on [[Pokémon Sunday]]]]
+* Tepig is the lightest Pokémon to learn {{m|Heavy Slam}}.
+* Tepig and its fellow {{2v2|Black|White}} starter Pokémon were first revealed as silhouettes on the May 9, 2010 episode of [[Pokémon Sunday]]. They were later completely revealed in the June 2010 issue of [[CoroCoro]].
+* Tepig and its {{p|Pignite|evolutionary}} {{p|Emboar|relatives}} were created by [[Lee HyunJung]].
+* In {{g|Black and White}}, Tepig, along with {{p|Snivy}} and {{p|Oshawott}}, has the lowest [[experience]] yield of all Pokémon, with a base value of 28. This was done specifically for the first two battles of the games, so the player's starter wouldn't level up after defeating [[Bianca]] and thus have a level advantage over [[Cheren]].
+** From {{g|Black 2 and White 2}} onward, their base experience yield was raised to 62 to bring them in line with the other [[starter Pokémon]] in the series.
+
+===Origin===
+Tepig is based on a {{wp|British Saddleback}} piglet. [[Ken Sugimori]] has said that Tepig, {{p|Pignite}}, and {{p|Emboar}} were designed in a Chinese style. Because of this, Tepig may be based on {{wp|Zhu Bajie}}, a pig demon from the Chinese tale ''{{wp|Journey to the West}}''.
+
+====Name origin====
+Tepig is a combination of ''tepid'' (lukewarm) and ''pig''.
+
+Pokabu is a combination of ぽかぽか ''pokapoka'' (warmth circulating through one's body) and 豚 ''buta'' (pig) or ブー ''bū'' (oink).
+
+==In other languages==
+{{Other languages|type=Fire|type2=Fire
+|ja=ポカブ ''Pokabu''|jameaning=From {{tt|ぽかぽか ''pokapoka''|warmth circulating through one's body}} and {{tt|豚 ''buta''|pig}} or {{tt|ブー ''bū''|oink}}
+|de=Floink|demeaning=From {{tt|''Flamme''|flame}} and ''oink''
+|fr=Gruikui|frmeaning=From {{tt|''gruik''|oink}} and ''{{tt|cuit|cooked}}''
+|es=Tepig|esmeaning=Same as English name
+|it=Tepig|itmeaning=Same as English name
+|ko=뚜꾸리 ''Ttukkuri''|komeaning=From {{tt|뜨거운 ''tteugeo-un''|hot}} or {{tt|뜨끈뜨끈 ''ddeukkeun-ddeukkeun''|pleasantly warm}} and {{tt|꿀꿀 ''kkul-kkul''|onomatopoeia for oinking}}
+|zh_cmn=暖暖豬 / 暖暖猪 ''Nuǎnnuǎnzhū''|zh_cmnmeaning=From {{tt|暖 ''nuǎn''|warm}} and {{tt|豬 ''zhū''|pig}}.
+|ru=Тепиг ''Tepig''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Tepig]]
+* [[Bianca's Tepig]]
+* [[Tep]]
+* [[Gigi]]
+* [[Shin's Tepig]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{Starter Pokémon|Fire}}<br>
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=497|prev=Serperior|nextnum=499|next=Pignite}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Starter Pokémon|497]]
+[[Category:Anime starter Pokémon|Tepig]]
+[[Category:Mystery Dungeon starters|497]]
+
+[[de:Floink]]
+[[fr:Gruikui]]
+[[it:Tepig]]
+[[ja:ポカブ]]
+[[pl:Tepig]]
+[[zh:暖暖猪]]

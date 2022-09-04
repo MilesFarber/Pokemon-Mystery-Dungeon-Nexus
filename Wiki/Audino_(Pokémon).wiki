@@ -1,0 +1,535 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=530|prev=Excadrill|nextnum=532|next=Timburr|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Audino}}
+|}
+{{Pokémon Infobox
+|name=Audino
+|jname=タブンネ
+|tmname=Tabunne
+|forme=2
+|form2=Mega Audino
+|image2=531Audino-Mega.png
+|mega=Audinite
+|category=Hearing
+|type1=Normal
+|form2type1=Normal
+|form2type2=Fairy
+|abilitylayout=2+1
+|abilitycolm=2
+|ability1=Healer
+|ability2=Regenerator
+|abilityd=Klutz
+|abilitym=Healer
+|ndex=531
+|udex=037
+|u2dex=036
+|karea=Central
+|kdex=123
+|height-ftin=3'07"
+|height-m=1.1
+|height-ftin2=4'11"
+|height-m2=1.5
+|weight-lbs=68.3
+|weight-kg=31.0
+|weight-lbs2=70.5
+|weight-kg2=32.0
+|egggroupn=1
+|egggroup1=Fairy
+|eggcycles=20
+|expyield=390
+|lv100exp=800,000
+|gendercode=127
+|color=Pink
+|formcolors=yes
+|catchrate=255
+|evtotal=2
+|evhp=2
+|body=06
+|pokefordex=audino
+|generation=5
+|friendship=70
+}}
+'''Audino''' ([[List of Japanese Pokémon names|Japanese]]: '''タブンネ''' ''Tabunne'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+While it is not known to [[Evolution|evolve]] into or from any other Pokémon, it can [[Mega Evolution|Mega Evolve]] into '''Mega Audino''' using the [[Audinite]].
+
+==Biology==
+Audino is a bipedal, pink-and-cream Pokémon with oval, blue eyes. The top of its head, its back, and arms are pink, while the lower half of its face, body, ears are cream-colored, as well as its front and fingers. The patterning of pink and cream on its chest resembles a jacket. There are three digits on its hands and two on its feet. It has a puffy, white tuft for a tail. Audino has floppy ears with thin, curled extensions on the underside. It can use these ears as radars, and it has an incredible hearing ability. The feelers on its ears act like {{wp|stethoscopes}} in that it can feel the beat of another Pokémon's heart, to assess the Pokémon's feelings and overall physical condition. The feelers are also able to determine when an Egg is close to hatching.
+
+When Audino Mega Evolves into Mega Audino, it becomes both heavier and taller. The patterning on its stomach, now completely cream, is covered by what resembles a flared lab coat. Most of its body becomes white with pink tips in four places, one on each ear and near the edges of its "coat". Its eyes turn pink and its ears stand upright with longer, curlier feelers. Its tail becomes larger and a smaller tuft of fur is centered on its chest. Two additional, curled feelers extend from under this extra tuft of fur. White fur covers its feet with two small tufts on the heels. Mega Audino can release pulses that reduce hostility, and the secondary feelers can put those who come in contact with them into a deep sleep.<ref>http://www.pokemonrubysapphire.com/en-us/pokemon/new-mega-evolutions/mega-audino</ref>
+
+Audino is also the [[Signature move|only known Pokémon]] to know {{m|Secret Power}} naturally by [[Level|leveling]] up.
+
+==In the anime==
+===In the main series===
+[[File:Nurse Joy Audino.png|thumb|250px|left|Audino in the {{pkmn|anime}}]]
+====Major appearances====
+=====[[Nurse Joy's Audino]]=====
+Audino debuted in ''[[BW006|Dreams by the Yard Full!]]''. {{an|Cilan}} said that the [[Nurse Joy]] of the [[Unova]] [[region]] use Audino instead of {{TP|Nurse Joy|Chansey}} as partners.
+
+An Audino that can [[Mega Evolution|Mega Evolve]] into Mega Audino appeared in ''[[XY096|A Giga Battle with Mega Results!]]'', under the ownership of a Nurse Joy from [[Kalos]].
+
+=====Other=====
+In ''[[BW035|Where Did You Go, Audino?]]'', a group of Audino mysteriously went missing.
+
+====Minor appearances====
+An Audino appeared in ''[[BW103|Curtain Up, Unova League!]]''.
+
+Multiple Audino appeared in ''[[BW118|Secrets From Out of the Fog!]]''.
+
+An Audino appeared in ''[[BW134|The Journalist from Another Region!]].''
+
+An Audino appeared in ''[[XY005|A Blustery Santalune Gym Battle!]]''.
+
+An Audino appeared in ''[[XY026|A Battle by Any Other Name!]]''.
+
+An Audino appeared in ''[[XY028|The Bonds of Evolution!]]''.
+
+An Audino that can [[Mega Evolution|Mega Evolve]] into Mega Audino appeared in ''[[SS031|Mega Evolution Special II]]''.
+
+A {{pkmn|Trainer}}'s Audino appeared in ''[[XY080|Performing with Fiery Charm!]]'' and ''[[XY113|Performing a Pathway to the Future!]]''.
+
+A Trainer's Audino appeared in ''[[XY126|Valuable Experience for All!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW006|Audino|Ash's Pokédex|Audino, the Hearing Pokémon. Audino can assess a Pokémon's overall physical condition and mood using its ears.}}
+{{Animedexbody|BW035|Audino|Ash's Pokédex|Audino, the Hearing Pokémon. Audino has incredibly sensitive hearing, using its ears like radar to pick up even the faintest sounds.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+===In the Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+[[File:Mega Audino ORAS Trailer.png|thumb|250px|Mega Audino in the animated trailer]]
+A [[Mega Evolution|Mega]] Audino appeared in the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]], under the ownership of {{ga|May}}. It was seen participating in a {{pkmn|Contest|Pokémon Contest Spectacular}} alongside May and Mega {{p|Altaria}}.
+{{-}}
+
+==In the manga==
+[[File:Pauline Audino.png|thumb|100px|Audino in [[Pokémon RéBURST]]]]
+===In the Pokémon Adventures manga===
+A Trainer's Audino appeared in a fantasy in ''[[PS464|Black's First Trainer Battle]]''.
+
+A Trainer's Audino appeared in ''[[PS466|An Odd Speech]]'' and ''[[PS472|Wheeling and Dealing]]''.
+
+An Audino appeared in ''[[PS469|Welcome To Striaton City!!]]'' as a wild Pokémon battling {{adv|Bianca}}.
+
+An Audino appeared in ''[[PS494|Up in the Air]]''.
+
+===In the Pokémon RéBURST manga===
+Audino is one of the Pokémon [[Pauline]] uses to help run and maintain the Burst Heart Survival tournament.
+
+==In the TCG==
+{{main|Audino (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Nintendo 3DS]]===
+Audino appears as a trophy.
+
+====Trophy information====
+''This Pokémon has huge ears and large feelers that look like stethoscopes. It's easy to guess what it's best at! It can pick up even the faintest of sounds perfectly with its feelers, including the heartbeats of other creatures. It can even tell how far away eggs are from hatching. ''
+
+==Game data==
+===NPC appearances===
+* {{g|Super Mystery Dungeon}}: Her role in the game is that of the [[Serene Village|Serene Village school]]'s nurse as well as being the head doctor in the village.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.}}
+{{Dex/Entry1|v=White|entry=Its auditory sense is astounding. It has a radar-like ability to understand its surrounding through slight sounds.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.}}
+{{Dex/Entry1|v=Y|entry=It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Route]]s {{rtn|1|Unova}}, {{rtn|2|Unova}}, {{rtn|3|Unova}}, {{rtn|5|Unova}}, {{rtn|6|Unova}}, {{rtn|7|Unova}}, {{rtn|9|Unova}}, {{rtn|10|Unova}}, {{rtn|11|Unova}}, {{rtn|12|Unova}}, {{rtn|13|Unova}}, {{rtn|14|Unova}}, {{rtn|15|Unova}}, {{rtn|16|Unova}}, and {{rtn|18|Unova}}, [[P2 Laboratory]], [[Dreamyard]], [[Pinwheel Forest]], [[Lostlorn Forest]], [[Dragonspiral Tower]], [[Village Bridge]], [[Giant Chasm]], [[Abundant Shrine]] ({{DL|Phenomenon|rustling grass}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|1|Unova}}, {{rtn|2|Unova}}, {{rtn|3|Unova}}, {{rtn|5|Unova}}, {{rtn|6|Unova}}, {{rtn|7|Unova}}, {{rtn|9|Unova}}, {{rtn|11|Unova}}, {{rtn|12|Unova}}, {{rtn|13|Unova}}, {{rtn|14|Unova}}, {{rtn|15|Unova}}, {{rtn|16|Unova}}, {{rtn|18|Unova}}, {{rtn|20|Unova}}, {{rtn|22|Unova}}, and {{rtn|23|Unova}}, [[Floccesy Ranch]], [[Virbank Complex]], [[Pinwheel Forest]], [[Dreamyard]], [[P2 Laboratory]], [[Castelia City]], [[Lostlorn Forest]], [[Dragonspiral Tower]], [[Village Bridge]], [[Giant Chasm]], [[Abundant Shrine]], {{OBP|Victory Road|Black 2 and White 2}}, [[Reversal Mountain]] ({{DL|Phenomenon|rustling grass}})}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{Dwa|Dream Park}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{rt|6|Kalos}} (rustling bush)<br>[[Friend Safari]] ([[Friend Safari#Normal-type Safari|Normal]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Mirage Forests]] (south of {{rt|109|Hoenn}}, south of {{rt|132|Hoenn}}), [[Mirage Islands|Mirage Island]] (south of [[Pacifidlog Town]]), [[Mirage Mountains|Mirage Mountain]] (north of {{rt|125|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Space Wilds]] ({{DL|Ultra Space Wilds|Rocky World}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Trailhead Field]] (post ending), [[Challenger's Ground]], [[World Axle - B1F]]; Forest: [[Trailhead Field]] (post ending); Autumnwood: [[Firebreathing Mountain]]; Desert: [[Rugged Flats]]; Canyon: [[Volcanic Slope]], [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Aurora]] (special)}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Hazy Pass]] (1F-8F), [[Miragesands]] (1F-29F), [[Moonlit Forest]] (Mapless Street), [[Rusty Mountain]] (1F-24F), [[Jaws of the Abyss]] (Golden Chamber), [[Cape at the Edge]] (B1-B29), [[Slumbering Cave]] (B1-B99), [[Path of No Return]] (B1-B99), [[Treat Road]] (1F-19F), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Grab and Go!|Adventure Area: Grab and Go!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 1|Dragon Hill: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Puerto Blanco|Puerto Blanco: Stage 9]]<br>[[Blau Salon|Blau Salon: Stage 446]]<br>Event: ''[[Special Stages#Special Daily Pokémon (Third release)|Special Daily Pokémon]]'' <small>(Third release; Winking)</small><br>Event: ''[[Special Stages#Great Challenge|Audino Appears]]'' <small>(Winking)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Pixie Glen|Fairy Land: Pixie Glen]] <small>(All Areas)</small>, [[Starlight Islands#Wishing Star Tower|Starlight Islands: Wishing Star Tower]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 18|Area 18: Stage 07]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Normal}}
+{{eventAvail|{{gameabbrev5|BW}}|2010 Birthday Audino|Japanese|Japan|30|November 4, 2010 to November 3, 2011|link=List of local Japanese event Pokémon distributions in Generation V#2010 Birthday Audino}}
+{{eventAvail|{{gameabbrev5|BW}}|2011 Birthday Audino|Japanese|Japan|30|November 4, 2011 to November 3, 2012|link=List of local Japanese event Pokémon distributions in Generation V#2011 Birthday Audino}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|2012 Birthday Audino|Japanese|Japan|30|November 4, 2012 to October 11, 2013|link=List of local Japanese event Pokémon distributions in Generation V#2012 Birthday Audino}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Mega Campaign Audino|All|Japan|100|January 1 to 31, 2016|link=List of local event Pokémon distributions in Generation VI#Audino}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Normal
+|bw1=Oran Berry|bw1type=Berry|bw1rar=50
+|bw2=Sitrus Berry|bw2type=Berry|bw2rar=5
+|b2w21=Oran Berry|b2w21type=Berry|b2w21rar=50
+|b2w22=Sitrus Berry|b2w22type=Berry|b2w22rar=5
+|xy1=Oran Berry|xy1type=Berry|xy1rar=50
+|xy2=Sitrus Berry|xy2type=Berry|xy2rar=5
+|usum1=Oran Berry|usum1type=Berry|usum1rar=50
+|usum2=Sitrus Berry|usum2type=Berry|usum2rar=5
+|event1=Rare Candy|event1type=None|event1rar=100
+|event2=Audinite|event2type=None|event2rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|type2=Normal
+|HP=103
+|Attack=60
+|Defense=86
+|SpAtk=60
+|SpDef=86
+|Speed=50}}
+
+=====Mega Audino=====
+{{Base Stats
+|type=Normal
+|type2=fairy
+|HP=103
+|Attack=60
+|Defense=126
+|SpAtk=80
+|SpDef=126
+|Speed=50 }}
+
+===Type effectiveness===
+====Audino====
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Flying=100
+|Fighting=200
+|Ground=100
+|Rock=100
+|Bug=100
+|Poison=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+====Mega Audino====
+{{TypeEffectiveness
+|type1=Normal
+|type2=Fairy
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=200
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=0
+|Steel=200
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=0
+|Dark=50
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Audino|Normal|Normal|5}}
+{{learnlist/level7|1|Last Resort|Normal|Physical|140|100|5||'''}}
+{{learnlist/level7|1|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/level7|1|Misty Terrain|Fairy|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Play Nice|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Pound|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|5|Baby-Doll Eyes|Fairy|Status|&mdash;|100|30}}
+{{learnlist/level7|9|Refresh|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|13|Disarming Voice|Fairy|Special|40|&mdash;|15||''}}
+{{learnlist/level7|17|Double Slap|Normal|Physical|15|85|10||'''}}
+{{learnlist/level7|21|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/level7|25|Secret Power|Normal|Physical|70|100|20||'''}}
+{{learnlist/level7|29|Entrainment|Normal|Status|&mdash;|100|15}}
+{{learnlist/level7|33|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level7|37|Heal Pulse|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|41|After You|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|45|Simple Beam|Normal|Status|&mdash;|100|15}}
+{{learnlist/level7|49|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/level7|53|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/level7|57|Last Resort|Normal|Physical|140|100|5||'''}}
+{{learnlist/levelf/7|Audino|Normal|Normal|5|form=mega}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Audino|Normal|Normal|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10||''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Audino|Normal|Normal|5|form=mega}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Audino|Normal|Normal|5}}
+{{learnlist/breed7|{{MSP|183|Marill}}{{MSP|351|Castform}}|Amnesia|Psychic|Status|&mdash;|&mdash;|20|*}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|176|Togetic}}{{MSP|311|Plusle}}|Bestow|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|682|Spritzee}}{{MSP|683|Aromatisse}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}{{MSP|742|Cutiefly}}{{MSP|743|Ribombee}}|Draining Kiss|Fairy|Special|50|100|10||''}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|176|Togetic}}{{MSP|311|Plusle}}{{MSP|312|Minun}}|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|300|Skitty}}|Heal Bell|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}|Healing Wish|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}|Lucky Chant|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|025|Pikachu}}{{MSP|026|Raichu}}{{MSP|035|Clefairy}}{{MSP|036|Clefable}}{{MSP|039|Jigglypuff}}{{MSP|040|Wigglytuff}}<br>{{MSP|176|Togetic}}{{MSP|468|Togekiss}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}<br>{{MSP|189|Jumpluff}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}{{MSP|300|Skitty}}<br>{{MSP|301|Delcatty}}{{MSP|303|Mawile}}{{MSP|311|Plusle}}{{MSP|312|Minun}}{{MSP|315|Roselia}}{{MSP|407|Roserade}}<br>{{MSP|351|Castform}}{{MSP|361|Snorunt}}{{MSP|362|Glalie}}{{MSP|417|Pachirisu}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}<br>{{MSP|531|Audino}}{{MSP|546|Cottonee}}{{MSP|547|Whimsicott}}{{MSP|682|Spritzee}}{{MSP|683|Aromatisse}}{{MSP|684|Swirlix}}<br>{{MSP|685|Slurpuff}}{{MSP|702|Dedenne}}{{MSP|742|Cutiefly}}{{MSP|743|Ribombee}}{{MSP|777|Togedemaru}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|176|Togetic}}{{MSP|417|Pachirisu}}{{MSP|682|Spritzee}}{{MSP|683|Aromatisse}}|Sweet Kiss|Fairy|Status|&mdash;|75|10}}
+{{learnlist/breed7|{{MSP|176|Togetic}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}|Wish|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|176|Togetic}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Audino|Normal|Normal|5|form=mega}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Audino|Normal|Normal|5}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25||'''|no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Audino|Normal|Normal|5|form=mega}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Normal|ndex=531
+|pad=She is a reliable, big-sister type. She likes to let her imagination run wild.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Normal|ndex=531
+|HP=4
+|atk=2
+|spd=2
+|def=3
+|range=3
+|move=Pound
+|ability1=Life Force
+|ability2=Healer
+|ability3=Medic
+|evo=Does not evolve into or from anything
+|link={{DL|List of Pokémon Conquest characters|Yukinaga}}
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Normal|ndex=531
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Normal|ndex=531|num=32
+|mega=1
+|stone=Audinite
+|min=50
+|max=120
+|raisemaxlevel=15
+|skill=Opportunist
+|skilldesc=Rarely increases damage.
+|swapper=Mega Boost+
+|megaspeedup=3
+|effectdesc=Erases all Pokémon within one space of the match.
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=531Winking|num=32
+|mega=1
+|stone=Audinite
+|min=50
+|max=120
+|raisemaxlevel=15
+|skill=Mind Zap
+|skilldesc=Delays your opponent's disruptions.
+|megaspeedup=15
+|effectdesc=Clears one kind of Pokémon with the same type as Mega Audino (max 10).
+}}
+|}
+
+===Evolution===
+{{evobox-1
+|pictype=art
+|type1=Normal
+|no1=531
+|name1=Audino
+|type1-1=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=531}}
+{{Spritebox/6/2FormsORAS|ndex=531|form1=M}}
+{{Spritebox/7/2Forms|ndex=531|form1=M}}
+{{Spritebox/Footer|531|Audino}}
+
+==Trivia==
+* Audino is available in all patches of {{DL|Phenomenon|rustling grass}} in {{game|Black and White|s}}.
+* Because of its availability and its high [[List of Pokémon by effort value yield|Exp. yield]], battling wild Audino in {{DL|Phenomenon|Rustling grass|rustling grass}} is a fast way for Pokémon to gain [[experience]] in the [[Generation V]] games, as well as {{g|Omega Ruby and Alpha Sapphire}}.
+**As all the Trainers that look like a {{Tc|Furisode Girl}} in the [[Battle Chateau]] use only Audino, they can be used to perform this trick with greater effectiveness in {{g|X and Y}}.
+* Audino is the only Pokémon introduced in [[Generation V]] that is capable of [[Mega Evolution]].
+* Audino is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 445.
+** Audino is also the only Pokémon to lose this distinction upon Mega Evolution.
+* Mega Audino has the highest base {{stat|Defense}} stat of all {{type|Normal}} Pokémon.
+* Audino is the only Pokémon with two unique [[List of Pokémon by effort value yield|base experience yields]].
+* Audino, along with its Mega Evolution, were designed by [[Megumi Mizutani]].
+
+===Origin===
+Audino seems to be partially based on {{wp|rabbits}}, with features similar to that of a {{wp|physician}} or {{wp|nurse}}. The {{wp|stethoscope}}-like feelers on its ears also bring to mind a butterfly's antennae, or proboscis, and the ears themselves resemble butterfly wings, especially in its Mega form, which may mean it was based on some depiction of a {{wp|fairy}}. Mega Audino could take some influence from {{wp|angel|angels}}, as well as {{wp|doctors}}. Mega Audino may also have a resemblance to the {{wp|Lolita fashion|Sweet Lolita}} fashion style, having flowing, white and pink "coat", "boots" and ears.
+
+====Name origin====
+Audino may be derived from ''audio'' and a pun on the phrase "I dunno." It may also refer to the suffix ''ino'' (which denotes ''youth'') or involve ''din'' (loud noise, referring to the fact that it has stethoscopes for ears) or ''lapin'' (a term for "rabbit").
+
+Tabunne may be derived from 多分ね ''tabun ne'' ("maybe") or 多聞 tabun ("many are heard"). It may also derive from 耳たぶ ''mimitabu'' (earlobe).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=タブンネ ''Tabunne''|jameaning=From {{tt|多分ね ''tabun ne''|maybe}} or {{tt|多聞 ''tabun''|many are heard}}. May also derive from {{tt|耳たぶ ''mimitabu''|earlobe}}
+|de=Ohrdoch|demeaning=From ''{{tt|Ohr|ear}}'', ''{{tt|Doktor|doctor}}'', and ''{{tt|oh, doch|oh, yes, actually}}''
+|fr=Nanméouïe|frmeaning=Phonetically similar to ''{{tt|non mais oui|no but yes}}''. Contains ''{{tt|ouïe|hearing}}''
+|es=Audino|esmeaning=Same as English name
+|it=Audino|itmeaning=Same as English name
+|ko=다부니 ''Dabunie''|komeaning=Corruption of {{tt|다분히 ''dabunhi''|quite}}
+|zh_cmn=差不多娃娃 ''Chàbùduōwáwá''|zh_cmnmeaning=From {{tt|差不多 ''Chàbùduō''|almost/more or less}} and {{tt|娃娃 ''wáwá''|doll}}
+|hi=अडिनो ''Audino''|himeaning=Transliteration of English name
+|ru=Одино ''Odino''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+*[[Nurse Joy's Audino]]
+
+==Notes==
+<references />
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=530|prev=Excadrill|nextnum=532|next=Timburr}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:White-colored Pokémon]]<!--Mega Audino-->
+
+[[de:Ohrdoch]]
+[[fr:Nanméouïe]]
+[[it:Audino]]
+[[ja:タブンネ]]
+[[pl:Audino]]
+[[zh:差不多娃娃]]

@@ -1,0 +1,350 @@
+{{PokémonPrevNext/Head|type=Dark|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=628|prev=Braviary|nextnum=630|next=Mandibuzz}}
+|}
+{{Pokémon Infobox
+|name=Vullaby
+|jname=バルチャイ
+|jtranslit=Baruchai
+|tmname=Valchai
+|category=Diapered
+|typebox=1
+|type1=Dark
+|type2=Flying
+|abilityn=d
+|ability1=Big Pecks
+|ability2=Overcoat
+|abilityd=Weak Armor
+|ndex=629
+|udex=135
+|u2dex=111
+|adex=077
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=19.8
+|weight-kg=9.0
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=20
+|expyield=74
+|lv100exp=1,250,000
+|gendercode=254
+|color=Brown
+|catchrate=190
+|evtotal=1
+|evde=1
+|body=09
+|pokefordex=vullaby
+|generation=5
+|friendship=35
+}}
+'''Vullaby''' ([[List of Japanese Pokémon names|Japanese]]: '''バルチャイ''' ''Valchai'') is a dual-type {{2t|Dark|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Mandibuzz}} starting at [[level]] 54.
+
+==Biology==
+Vullaby resembles a baby vulture. It has a plump, stout body covered in dark gray feathers, tiny wings with gray tips, and pink feet with three clawed toes. Its neck is short and supports a round, pink head devoid of any feathers, except for a crest on the top. There is a collar of fluffy, light gray feathers around its neck. It seems to be wearing a broken skull as a diaper-like undergarment, hence its species name. Vullaby either finds this bone itself or uses one found for it by {{p|Mandibuzz}}. Vullaby is known to chase after weaker creatures. Vullaby is a female-only species.
+
+==In the anime==
+===Major appearances===
+[[File:Vullaby anime.png|thumb|left|220px|Vullaby in the {{pkmn|anime}}]]
+Vullaby debuted in ''[[BW095|Unrest at the Nursery!]]'', where she was a Pokémon in the daycare belonging to {{OBP|Layla|BW095}} and usually got into a fight with {{p|Rufflet}}.
+
+===Minor appearances===
+A Vullaby appeared in the opening sequence of ''[[M15|Kyurem VS. The Sword of Justice]]''.
+
+Two Vullaby appeared in ''[[SM015|Rocking Clawmark Hill!]]'', as some of the Pokémon training up on [[Clawmark Hill]].
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW095|Vullaby|Ash's Pokédex|Vullaby, the Diapered Pokémon. Vullaby's small wings keep it from flying. It tends to chase Pokémon weaker than itself.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:White Barbara.png|thumb|200px|Vullaby in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Vullaby appeared in ''[[PS479|The Case of the Missing Pokémon]]'', where she was one of the Pokémon kidnapped by Team Plasma. She was later found in a stronghold and returned to her trainer.
+
+{{adv|White}} catches a Vullaby who she nicknames Barbara. White casts Barbara for her villainous roles. She first appeared in ''[[PS500|With a Little Help from My Friends]]''.
+
+Multiple Vullaby appeared in ''[[PS501|A Lost Melody]]''.
+
+==In the TCG==
+{{main|Vullaby (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=dark|type2=flying}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.}}
+{{Dex/Entry1|v=White|entry=They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by {{p|Mandibuzz}}.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.}}
+{{Dex/Entry1|v=Y|entry=Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It protects its plump posterior with the bones of prey it has consumed. As it grows, it replaces the bones.}}
+{{Dex/Entry1|v=Moon|entry=It can't fly yet and must wait until its wings have developed more. Since it's still at a playful age, it hops around friskily.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Mandibuzz gives it the bones it wears. Vullaby's wings are short, so it can't fly yet, but it jumps around, dreaming of wide open skies.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=dark|type2=flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Black|t=fff|area=[[Route]]s {{rtn|10|Unova}} and {{rtn|11|Unova}}, {{OBP|Victory Road|Black and White}}, [[Village Bridge]]}}
+{{Availability/Entry1/None|1|v=White}}
+{{Availability/Entry1|1|v=Black 2|t=fff|area={{rt|23|Unova}}}}
+{{Availability/Entry1/None|1|v=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Dark-type Safari|Dark]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Mirage Mountains|Mirage Mountain]] (northeast of {{rt|125|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1/None|1|v=Sun}}
+{{Availability/Entry1|1|v=Moon|area={{rt|3|Alola}}, [[Poké Pelago]]}}
+{{Availability/Entry1/None|1|v=Ultra Sun}}
+{{Availability/Entry1|1|v=Ultra Moon|area={{rt|3|Alola}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dark|type2=Flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Canyon: [[Volcanic Slope]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Desolate Canyon]] (1F-7F), [[Forest Grotto]] (1F-7F), [[Mountain Pass]] (1F-7F), [[Miragesands]] (1F-29F), [[Dreamy Island]] (1F-25F), [[Rusty Mountain]] (Golden Chamber), [[Jaws of the Abyss]] (B1-B28), [[Smoking Mountain]] (1F-24F), [[Scalchop Beach]] (6F-14F), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#A Flowing Desert|Vehicle Gallery: A Flowing Desert]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 3|Safari Jungle: Stage 3]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 266]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Flowery Wooded Dell|Fairy Land: Flowery Wooded Dell]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Dark
+|type2=Flying
+|HP=70
+|Attack=55
+|Defense=75
+|SpAtk=45
+|SpDef=65
+|Speed=60}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|type2=Flying
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=100
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=0
+|Ice=200
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|flying=yes
+|newground=1
+|dark=yes
+|newpsychic=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Vullaby|Dark|Flying|5}}
+{{learnlist/level7|1|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|5|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/level7|10|Pluck|Flying|Physical|60|100|20||'''}}
+{{learnlist/level7|14|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|19|Flatter|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|23|Feint Attack|Dark|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|28|Punishment|Dark|Physical|&mdash;|100|5||'''}}
+{{learnlist/level7|32|Defog|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|37|Tailwind|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|41|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|46|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/level7|50|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|55|Whirlwind|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|59|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/level7|64|Mirror Move|Flying|Status|&mdash;|&mdash;|20}}
+{{learnlist/levelf/7|Vullaby|Dark|Flying|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Vullaby|Dark|Flying|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Vullaby|Dark|Flying|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Vullaby|Dark|Flying|5}}
+{{learnlist/breed7|{{MSP|527|Woobat}}|Fake Tears|Dark|Status|&mdash;|100|20|*}}
+{{learnlist/breed7|{{MSP|198|Murkrow}}{{MSP|430|Honchkrow}}|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}|Knock Off|Dark|Physical|65|100|20||'''}}
+{{learnlist/breed7|{{MSP|041|Zubat}}{{MSP|042|Golbat}}{{MSP|169|Crobat}}{{MSP|198|Murkrow}}|Mean Look|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|163|Hoothoot}}<br>{{MSP|164|Noctowl}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}{{MSP|441|Chatot}}{{MSP|519|Pidove}}{{MSP|520|Tranquill}}<br>{{MSP|521|Unfezant}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}<br>{{MSP|714|Noibat}}{{MSP|715|Noivern}}{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}{{MSP|733|Toucannon}}{{MSP|741|Oricorio}}|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|142|Aerodactyl}}{{MSP|566|Archen}}{{MSP|567|Archeops}}{{MSP|627|Rufflet}}{{MSP|628|Braviary}}|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|227|Skarmory}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/breedf/7|Vullaby|Dark|Flying|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Vullaby|Dark|Flying|5}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15||'''|no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||'''|no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutorf/7|Vullaby|Dark|Flying|5}}
+
+===Side game data===
+{{Spindata/Head|type=Dark|type2=Flying}}
+{{Spindata/RumbleBlast|col=6|type=Dark
+|att=1
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Dark|ndex=629
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Dark|ndex=629|num=396
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Barrier Bash
+|skilldesc=Removes one barrier-type disruption without fail.
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Dark
+|type2=Flying
+|no1=629
+|name1=Vullaby
+|type1-1=Dark
+|type2-1=Flying
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 54}}
+|no2=630
+|name2=Mandibuzz
+|type1-2=Dark
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=dark|type2=flying}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=629}}
+{{Spritebox/6|ndex=629}}
+{{Spritebox/7|ndex=629}}
+{{Spritebox/Footer|629|Vullaby}}
+
+==Trivia==
+* Vullaby and its {{p|Mandibuzz|evolution}} were created by [[James Turner]].<ref>[http://web.archive.org/web/20130115083652/http://www.gamefreak.co.jp/blog/staff/?p=204 Game Freak staff blog]</ref>
+
+===Origin===
+Vullaby is based on a {{wp|vulture}} chick.
+
+According to interviews with [[Ken Sugimori]] in ''Nintendo Dream'', Vullaby and Mandibuzz were added late into the development of {{v2|Black and White|s}}.
+
+====Name origin====
+Vullaby may be a combination of ''vulture'' and ''{{wp|lullaby}}'' (which are often sung to children) or ''baby''.
+
+Valchai may be a combination of ''vulture'' and ''child''.
+
+==In other languages==
+{{Other languages|type=dark|type2=flying
+|ja=バルチャイ ''Valchai''|jameaning=From {{tt|バルチャー ''baruchā''|vulture}} and {{tt|チャイルド ''chairudo''|child}}
+|fr=Vostourno|frmeaning=From ''{{tt|vautour|vulture}}'' and ''{{tt|os|bone}}''
+|es=Vullaby|esmeaning=Same as English name
+|de=Skallyk|demeaning=From ''skull'' and ''{{tt|Küken|fledgling, poult}}''
+|it=Vullaby|itmeaning=Same as English name
+|ko=벌차이 ''Beolchai''|komeaning=Transliteration of Japanese name
+|zh_cmn=禿鷹小子 / 秃鹰小子 ''Tūyīngxiǎozi''|zh_cmnmeaning=Means "Vulture child"
+|ru=Виллаби ''Villabi''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Notes==
+<references/>
+
+==Related articles==
+* [[Vullaby (Rumble Blast)]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Dark|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=628|prev=Braviary|nextnum=630|next=Mandibuzz}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[de:Skallyk]]
+[[fr:Vostourno]]
+[[it:Vullaby]]
+[[ja:バルチャイ]]
+[[pl:Vullaby]]
+[[zh:秃鹰丫头]]

@@ -1,0 +1,331 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=631|prev=Heatmor|nextnum=633|next=Deino}}
+|}
+{{Pokémon Infobox
+|name=Durant
+|jname=アイアント
+|jtranslit=Aianto
+|tmname=Aiant
+|category=Iron Ant
+|typebox=1
+|type1=Bug
+|type2=Steel
+|abilityn=d
+|ability1=Swarm
+|ability2=Hustle
+|abilityd=Truant
+|ndex=632
+|udex=138
+|u2dex=194
+|karea=Mountain
+|kdex=106
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=72.8
+|weight-kg=33.0
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=20
+|expyield=169
+|lv100exp=1,000,000
+|gendercode=127
+|color=Gray
+|catchrate=90
+|evtotal=2
+|evde=2
+|body=14
+|pokefordex=durant
+|generation=5
+|friendship=70
+}}
+'''Durant''' ([[List of Japanese Pokémon names|Japanese]]: '''アイアント''' ''Aiant'') is a dual-type {{2t|Bug|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+Durant is an insectoid Pokémon with a steel body that has three distinct sections. Its ovoid abdomen is dark gray with a light gray band wrapping around the middle and two circles resembling rivets near a jagged seam. Durant's thorax is slightly smaller, but identical in design with its abdomen. The only difference being one circle instead of two. Its head is spherical, containing the same light gray wrap design as its body. However, it wraps from front to back on the head. On each side of its head are large red eyes with hollow black pupils. It has two round mandibles that it uses to grab things and feed itself. The mandibles are attached below its eyes and are situated in front of its horizontally opening mouth. Atop its head are two long antennae, each tipped with small spheres. Durant has six black legs sprouting from its thorax. Each leg has one claw at its tip, except the front legs that each have two.
+
+Durant is extremely territorial. It only lives in colonies and digs mazes underground designed to be as complicated as possible. It grows steel armor to protect itself from its natural predator, {{p|Heatmor}}. When attacked, Durant gathers in groups to attack as a whole to keep Heatmor away. As seen [[BW074|in the anime]], Durant prefers to eat vegetation, namely leaves. It will attack swiftly and aggressively if bothered, but will not pursue intruders once outside of its colony.
+
+==In the anime==
+[[File:Durant anime.png|thumb|left|220px|Durant in the {{pkmn|anime}}]]
+===Major appearances===
+Durant debuted in ''[[BW074|Battling the Leaf Thieves!]]'', where a colony accidentally kidnapped [[Iris's Axew]] while gathering food.
+
+===Minor appearances===
+A group of Durant appeared in ''[[M16|Genesect and the Legend Awakened]]'' at [[Pokémon Hills]], where they attacked {{TRT}}.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW074|Durant|Ash's Pokédex|Durant, the Iron Ant Pokémon. Durant build twisting tunnels in the mountains where they form their nests. They are covered with a steel armor for protection.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Emmet Durant Adventures.png|thumb|200px|Durant in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{FB|Subway Boss|Emmet}} has a Durant which was seen next to him while {{adv|White}} was testing the [[Battle Subway]] in ''[[PS490|A Stormy Time in the Battle Subway]]''.
+
+A Durant appeared in ''[[PAXY30|Pinsir Changes]]''.
+
+===In the Pocket Monsters BW: The Heroes of Fire and Thunder===
+The {{tc|Hooligans}} owned a Durant each.
+
+==In the TCG==
+{{main|Durant (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=bug|type2=steel}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.}}
+{{Dex/Entry1|v=White|entry=Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.}}
+{{Dex/Entry1|v=Y|entry=They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=bug|type2=steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{OBP|Victory Road|Black and White}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Twist Mountain]], [[Clay Tunnel]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Rugged Mountain}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|18|Kalos}}, [[Terminus Cave]]}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lava: [[Firebreathing Mountain]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Entranceway#A Fateful Showdown!|Entranceway: A Fateful Showdown!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 3|Sacred Plains: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#The Daily Pokémon (#5)|The Daily Pokémon (#5)]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Foggy Crags|Silver Isles: Foggy Crags]] <small>(All Areas)</small>, [[Legend Terrain#Sky Crest Range|Legend Terrain: Sky Crest Range]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|type2=Steel
+|HP=58
+|Attack=109
+|Defense=112
+|SpAtk=48
+|SpDef=48
+|Speed=109
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Steel
+|Normal=   50
+|Fighting=100
+|Flying=   100
+|Poison=    0
+|Ground=  100
+|Rock=     100
+|Bug=      50
+|Ghost=   100
+|Steel=   50
+|Fire=    400
+|Water=   100
+|Grass=    25
+|Electric=100
+|Psychic=  50
+|Ice=      50
+|Dragon=   50
+|Dark=     100
+|Fairy=    50
+|notes=yes
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Durant|Bug|Steel|5}}
+{{learnlist/level7|1|Metal Sound|Steel|Status|&mdash;|85|40}}
+{{learnlist/level7|1|Guillotine|Normal|Physical|&mdash;|&mdash;|5}}
+{{learnlist/level7|1|Vice Grip|Normal|Physical|55|100|30}}
+{{learnlist/level7|1|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|1|Fury Cutter|Bug|Physical|40|95|20||'''}}
+{{learnlist/level7|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|6|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|11|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level7|16|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|21|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|26|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level7|31|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level7|36|Entrainment|Normal|Status|&mdash;|100|15}}
+{{learnlist/level7|41|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/level7|46|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|51|Guillotine|Normal|Physical|&mdash;|&mdash;|5}}
+{{learnlist/level7|56|Metal Sound|Steel|Status|&mdash;|85|40}}
+{{learnlist/levelf/7|Durant|Bug|Steel|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Durant|Bug|Steel|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Durant|Bug|Steel|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Durant|Bug|Steel|5}}
+{{learnlist/breed7|{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|283|Surskit}}{{MSP|291|Ninjask}}{{MSP|545|Scolipede}}|Baton Pass|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|214|Heracross}}{{MSP|540|Sewaddle}}{{MSP|588|Karrablast}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|328|Trapinch}}{{MSP|329|Vibrava}}{{MSP|330|Flygon}}{{MSP|557|Dwebble}}<br>{{MSP|558|Crustle}}|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}|Rock Climb|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|193|Yanma}}{{MSP|469|Yanmega}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|291|Ninjask}}{{MSP|329|Vibrava}}<br>{{MSP|330|Flygon}}{{MSP|402|Kricketune}}{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}{{MSP|595|Joltik}}<br>{{MSP|596|Galvantula}}|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/breed7|{{MSP|452|Drapion}}{{MSP|472|Gliscor}}|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/breedf/7|Durant|Bug|Steel|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Durant|Bug|Steel|5}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutorf/7|Durant|Bug|Steel|5}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Steel}}
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=4
+|def=3
+|speed=4
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=632
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=632|num=333
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Block Smash
+|skilldesc=Clears one unbreakable-block disruption without fail.
+|swapper=Risk-Taker
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Bug
+|type2=Steel
+|pictype=art
+|no1=632
+|name1=Durant
+|type1-1=Bug
+|type2-1=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=bug|type2=steel}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=632}}
+{{Spritebox/6|ndex=632}}
+{{Spritebox/7|ndex=632}}
+{{Spritebox/Footer|632|Durant}}
+
+==Trivia==
+* Durant and its {{p|Heatmor|rival}} were designed by [[Ken Sugimori]].
+* Durant being the prey of Heatmor is reflected in their [[type]]s.
+* Durant and Heatmor have many statistical similarities. They share the same leveling rate, catch rate, hatch time, base experience yield, and base stat total.
+
+===Origin===
+Durant is based on an {{wp|ant}}, possibly the {{wp|Argentine ant}}, as its jaw is similar to Durant's. Its coloration may be based on the natural silver coloration of the silver spiny ant (''{{wp|Polyrhachis}} sp.'').
+
+====Name origin====
+Durant may be a combination of ''durable'' or ''endurance'' (referring to its {{t|Steel}} type) and ''ant''.
+
+Aiant may be a combination of アイアン ''aian'' (iron) and ''ant''.
+
+==In other languages==
+{{Other languages|type=bug|type2=steel
+|ja=アイアント ''Aiant''|jameaning=From {{tt|アイアン ''aian''|iron}} and ''ant''
+|fr=Fermite|frmeaning=From ''{{tt|fer|iron}}'' and ''Termite''
+|es=Durant|esmeaning=Same as English name
+|de=Fermicula|demeaning=From ''{{tt|ferrum|Latin for 'iron'}}'' and ''{{wp|Them!|Formicula}}''
+|it=Durant|itmeaning=Same as English name
+|ko=아이앤트 ''Aiant''|komeaning=Transliteration of Japanese name
+|zh_cmn=鐵蟻 / 铁蚁 ''Tiěyǐ''|zh_cmnmeaning=Literally "Iron ant"
+|ru=Дюрант ''Dyurant''|rumeaning=Transcription of English name
+}}
+
+<br clear="left">
+
+==Notes==
+<references />
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=631|prev=Heatmor|nextnum=633|next=Deino}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[de:Fermicula]]
+[[fr:Fermite]]
+[[it:Durant]]
+[[ja:アイアント]]
+[[pl:Durant]]
+[[zh:铁蚁]]

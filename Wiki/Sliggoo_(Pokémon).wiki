@@ -1,0 +1,312 @@
+{{PokémonPrevNext/Head|type=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=704|prev=Goomy|nextnum=706|next=Goodra|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Sliggoo}}
+|}
+{{Pokémon Infobox
+|name=Sliggoo
+|jname=ヌメイル
+|tmname=Numeil
+|jtranslit=Numeiru
+|image=705Sliggoo.png
+|category=Soft Tissue
+|type1=Dragon
+|abilitylayout=2
+|ability1=Sap Sipper
+|ability2=Hydration
+|abilityd=Gooey
+|ndex=705
+|karea=Mountain
+|kdex=020
+|adex=179
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=38.6
+|weight-kg=17.5
+|egggroupn=1
+|egggroup1=Dragon
+|gendercode=127
+|eggcycles=40
+|evtotal=2
+|evsd=2
+|expyield=158
+|lv100exp=1,250,000
+|color=Purple
+|catchrate=45
+|body=02
+|pokefordex=sliggoo
+|generation=6
+|friendship=35
+}}
+'''Sliggoo''' ([[List of Japanese Pokémon names|Japanese]]: '''ヌメイル''' ''Numeil'') is a {{type|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[evolution|evolves]] from {{p|Goomy}} starting at [[level]] 40 and evolves into {{p|Goodra}} starting at level 50 when leveled up during [[rain]] in the overworld. Rain instigated by {{m|Rain Dance}}, {{a|Drizzle}}, or {{a|Primordial Sea}} will not trigger this evolution.
+
+==Biology==
+Sliggoo is a gooey purple Pokémon with the body structure of a snail. Its underbelly is a deeper shade of purple than the top part of its body. It is over twice as tall as its preevolved form, but remains relatively small. Its eyes are now green and large, with one eyelash on each eye; but since its eyes are undeveloped, Sliggoo is blind. It has two pale green spots on either side of its head. It has two small, underdeveloped arms, two sets of antennae atop its head, and a gooey snail-like shell on its back that looks like it is part of its gelatinous body.
+
+It can excrete sticky mucous that can dissolve anything, coating its entire body with it. Because its eyes have devolved from a {{p|Goomy}}'s, it has trouble discerning friends and food, often attempting to calmly melt and eat those it gets along with without realizing it. Instead, it relies on its four horns to sense sounds and smells. The protrusion found on its back contains its brain and other organs. It crawls sluggishly.
+
+==In the anime==
+[[File:Ash Sliggoo.png|left|thumb|250px|Sliggoo in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Sliggoo]]====
+Ash's {{p|Goomy}} [[Evolution|evolved]] into a {{AP|Sliggoo}} in ''[[XY061|An Oasis of Hope!]]''. Sliggoo later evolved into {{AP|Goodra}} during ''[[XY065|Good Friends, Great Training!]]'', when it helped put out a big fire with {{m|Rain Dance}}.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY061|Sliggoo|Ash's Pokédex|Sliggoo, the Soft Tissue Pokémon. Its four horns function as a highly sensitive radar system, picking up many different scents and noises.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+
+===In the [[Pokémon Adventures]] manga===
+[[File:Team Flare Sliggoo Adventures.png|thumb|200px|Sliggoo in [[Pokémon Adventures]]]]
+In the {{chap|X & Y}}, a {{tc|Team Flare Grunt}} used a Sliggoo to trap {{adv|Y}} while she was playing the [[Berry Picker]] game with her newly-caught [[Y (Adventures)#Veevee|Eevee]]. Eevee paid off Y's efforts to befriend it, by evolving into a {{p|Sylveon}} and defeating the Sliggoo with {{m|Draining Kiss}}.
+{{-}}
+
+==In the TCG==
+{{main|Sliggoo (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dragon}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can't see anything.}}
+{{Dex/Entry1|v=Y|entry=Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can't see anything.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It has trouble drawing a line between friends and food. It will calmly try to melt and eat even those it gets along well with.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon's mucous can dissolve anything. Toothless, it sprays mucous on its prey. Once they're nicely dissolved, it slurps them up.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It crawls along sluggishly. The swirly protrusion on its back is filled with its brain and other organs.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its entire body is covered with gooey mucus that can dissolve anything. Be sure to put gloves on if you're going to touch it.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{rt|19|Kalos}}, [[Friend Safari]] ([[Friend Safari#Dragon-type Safari|Dragon]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Exeggutor Island]] ([[SOS Battle]] in {{weather|rain}})}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Exeggutor Island]] ([[SOS Battle]] in {{weather|rain}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 4|Mountain of Order: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 229]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Forgotten Forest|Dark Land: Forgotten Forest]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=Dragon
+|sm1=Shed Shell|sm1type=None|sm1rar=5
+|usum1=Shed Shell|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{Base Stats
+|type=Dragon
+|HP=68
+|Attack=75
+|Defense=53
+|SpAtk=83
+|SpDef=113
+|Speed=60}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dragon
+|Normal=100
+|Flying=100
+|Fighting=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Poison=100
+|Ghost=100
+|Steel=100
+|Fire=50
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=200
+|Dark=100
+|Fairy=200
+|notes=yes
+|sapsipper=maybe}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Sliggoo|Dragon|Dragon|6}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Bubble|Water|Special|40|100|30}}
+{{learnlist/level7|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level7|5|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level7|9|Protect|Normal|Status|—|—|10}}
+{{learnlist/level7|13|Bide|Normal|Physical|—|—|10}}
+{{learnlist/level7|18|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level7|25|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level7|28|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level7|32|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level7|38|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/level7|47|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/levelf/7|Sliggoo|Dragon|Dragon|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Sliggoo|Dragon|Dragon|6}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Sliggoo|Dragon|Dragon|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Sliggoo|Dragon|Dragon|6}}
+{{learnlist/breed7|{{MSP|690|Skrelp}}|Acid Armor|Poison|Status|—|—|20|*}}
+{{learnlist/breed7|{{MSP|559|Scraggy}}|Counter|Fighting|Physical|—|100|20|*}}
+{{learnlist/breed7|{{MSP|696|Tyrunt}}|Curse|Ghost|Status|—|—|10|*}}
+{{learnlist/breed7|{{MSP|776|Turtonator}}|Endure|Normal|Status|—|—|10}}
+{{learnlist/breed7|{{MSP|443|Gible}}{{MSP|610|Axew}}{{MSP|621|Druddigon}}|Iron Tail|Steel|Physical|100|75|15|*}}
+{{learnlist/breed7|{{MSP|336|Seviper}}{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}|Poison Tail|Poison|Physical|50|100|25}}
+{{learnlist/breedf/7|Sliggoo|Dragon|Dragon|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Sliggoo|Dragon|Dragon|6}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Sliggoo|Dragon|Dragon|6}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Sliggoo|Dragon|Dragon|6}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Sliggoo|Dragon|Dragon|6}}
+
+===Side game data===
+{{Spindata/Head|type=Dragon}}
+{{Template:Spindata/Battle Trozei|col=6|type=Dragon|ndex=705
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Dragon|ndex=705|num=289
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Barrier Bash
+|skilldesc=Removes one barrier-type disruption without fail.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=dragon
+|pictype=art
+|no1=704
+|name1=Goomy
+|type1-1=Dragon
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 40}}
+|no2=705
+|name2=Sliggoo
+|type1-2=Dragon
+|evo2={{bag|Rare Candy}} <br>{{color2|000|Level|Level 50}}<br> while {{color2|000|Rain|raining}}
+|no3=706
+|name3=Goodra
+|type1-3=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=Dragon}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=705}}
+{{Spritebox/7|ndex=705}}
+{{Spritebox/Footer|705|Sliggoo}}
+
+==Trivia==
+* Sliggoo was designed by [[Saya Tsuruta]].
+
+===Origin===
+Sliggoo seems based on soft bodied gastropods such as {{wp|slugs}}, {{wp|nudibranch}}, and {{wp|semi-slug}}s.
+Its snail origins as well as its Dragon typing and elongated body shape may mean it could also be based on the {{wp|Lou Carcolh}}, a mythical serpent/mollusk creature from French folklore.
+It may also be based upon the concept of "living slime" in popular culture.
+
+====Name origin====
+Sliggoo may be a combination of ''slick'', ''slither'', ''slippery'', ''slimy'', or ''slug'', and ''goo''.
+
+Numeil is from 滑る ''numeru'' (to be slippery) and ''snail''.
+
+==In other languages==
+{{Other languages|type=Dragon|type2=Dragon
+|ja=ヌメイル ''Numeil''|jameaning=From {{tt|滑る ''numeru''|to be slippery}}'' and ''snail''
+|fr=Colimucus|frmeaning=From ''{{tt|colimaçon|snail}}'' and ''{{wp|mucus}}''
+|es=Sliggoo|esmeaning=Same as English name
+|de=Viscargot|demeaning=From ''{{tt|viskos|viscous}}'' and ''{{tt|escargot|French for 'snail'}}''
+|it=Sliggoo |itmeaning=Same as English name
+|ko=미끄네일 ''Mikkeunaeil''|komeaning=From {{tt|미끄럽다 ''mikkeureopda''|to be slippery}} and ''snail''
+|zh_yue=黏美兒 ''Nìhmméihyìh''|zh_yuemeaning=From {{tt|黏 ''nìhm''|sticky}}, {{tt|美 ''méi''|beautiful}}, and {{tt|兒 ''yìh''|child}}; transliteration of its Japanese name
+|zh_cmn=黏美伊兒 / 黏美伊儿 ''Niánměiyī'er''|zh_cmnmeaning=From {{tt|黏 ''nián''|sticky}}, {{tt|美 ''měi''|beautiful}}, and {{tt|兒 / 儿 ''er''|child}}; transliteration of its Japanese name
+|hi=स्लीगू ''Sliggoo''|himeaning=Transcription of English name
+|ru=Слиггу ''Sliggu''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+*[[Ash's Sliggoo]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=704|prev=Goomy|nextnum=706|next=Goodra}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve through a unique method]]
+
+[[de:Viscargot]]
+[[fr:Colimucus]]
+[[it:Sliggoo]]
+[[ja:ヌメイル]]
+[[pl:Sliggoo]]
+[[zh:黏美儿]]

@@ -1,0 +1,341 @@
+{{PokémonPrevNext/Head|type=Dark|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=686|prev=Inkay|nextnum=688|next=Binacle|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Malamar}}
+|}
+{{Pokémon Infobox
+|name=Malamar
+|jname=カラマネロ
+|jtranslit=Karamanero
+|tmname=Calamanero
+|category=Overturning
+|typebox=1
+|type1=Dark
+|type2=Psychic
+|abilityn=d
+|ability1=Suction Cups
+|ability2=Contrary
+|abilityd=Infiltrator
+|ndex=687
+|karea=Coastal
+|kdex=011
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=103.6
+|weight-kg=47.0
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Water 2
+|gendercode=127
+|eggcycles=20
+|evtotal=2
+|evat=2
+|lv100exp=1,000,000
+|color=Blue
+|catchrate=80
+|expyield=169
+|body=05
+|pokefordex=malamar
+|generation=6
+|friendship=70
+}}
+'''Malamar''' ([[List of Japanese Pokémon names|Japanese]]: '''カラマネロ''' ''Calamanero'') is a dual-type {{2t|Dark|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Inkay}} starting at [[level]] 30 when leveled up while the [[Nintendo 3DS]] system is held upside-down.
+
+==Biology==
+Malamar is a dark-purple squid-like Pokémon. It has a pair of fins on the bottom of its body that function as its legs. Malamar's main body has six light-yellow spots on the front and back and a light-yellow stripe nearly wrapping around its body above the spots. Its arm-like tendrils have grown scythe-like in appearance and are very sharp. Malamar has a red beak, half closed eyes with black sclera, yellow irises and wavy "hair" made of eight tentacles. It possesses strong hypnotic powers, which it uses to force others to do its bidding, making it often utilized by people to do nefarious deeds. It can lure prey with hypnotic motions before it wraps its tentacles around the prey, then it finishes off with digestive fluids. Malamar and its pre-evolution {{p|Inkay}} are the [[signature move|only known Pokémon]] that can learn {{m|Topsy-Turvy}}.
+
+==In the anime==
+[[File:Xerosic Malamar.png|thumb|250px|left|Malamar in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Recurring wild Pokémon in the anime#Malamar|Malamar (anime)]]====
+[[Recurring wild Pokémon in the anime#Malamar|An evil, psychopathic Malamar]] appeared in ''[[XY019|A Conspiracy to Conquer!]]''. It appeared to be under the control of a woman named "Madame X", but in reality, it had hypnotized an [[Officer Jenny]] to pose as Madame X. It also hypnotized [[Jessie]], [[James]], {{an|Clemont}}, {{an|Serena}}, {{an|Bonnie}}, and many Pokémon including [[Ash's Pikachu]]. While it was defeated in the end, it escaped after boasting of a grand plan to conquer the world. It reappeared in ''[[XY054|Facing the Grand Design!]]'' along with two other evil Malamar.
+
+===Other===
+Multiple Malamar appeared in ''[[XY054|Facing the Grand Design!]]'' along with the three evil Malamar. Unlike the three evil Malamar, these Malamar were peaceful and lived with Pokémon living in the forest. They later helped James and Clemont stop the three evil Malamar from completing their plans and rescue their friends.
+
+A Malamar appeared in ''[[XY134|The Right Hero for the Right Job!]]'', under the ownership of [[Xerosic]]. Xerosic used his Malamar to battle several of {{an|Clemont}}'s Pokémon, but it was soon defeated. It reappeared in ''[[XY139|Facing the Needs of the Many!]]'', where it attempted to {{m|Hypnosis|hypnotize}} Clemont, but failed.
+
+===Minor appearances===
+Malamar debuted in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY019|Malamar|Ash's Pokédex|Malamar, the Overturning Pokémon, and the evolved form of Inkay. Possessing the strongest hypnotic powers of any Pokémon, Malamar can compel others to do anything it wants them to do.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Xerosic Malamar Adventures.png|thumb|right|100px|Malamar in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PAXY02|X-actly What They Wanted]]'', [[Team Flare]] Scientist [[Xerosic]] owns a Malamar.
+
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PAXY32]]|It has the most powerful hypnotic powers of any Pokémon and can make others do whatever it wants them to.}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Malamar (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=dark|type2=psychic}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.}}
+{{Dex/Entry1|v=Y|entry=It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It wields the most compelling hypnotic powers of any Pokémon, and it forces others to do whatever it wants.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=It lures prey close with hypnotic motions, then wraps its tentacles around it before finishing it off with digestive fluids.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=When it comes to strong hypnosis, there's an endless number of people who utilize Malamar for their nefarious deeds.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It flashes the pattern on its torso to control its prey and draw them in. The edges of its fins are supremely sharp.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=dark|type2=psychic}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Inkay}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Inkay}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dark|type2=Psychic}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 4|Mountain of Order: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Expert Stages|Expert Stage: Stage EX32]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Upside-Down Island|Starlight Islands: Upside-Down Island]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=dark|type2=psychic}}
+{{eventAvail|{{gameabbrev6|OR}}|Shigeki Morimoto's Malamar|PAL region|Online|50|August 5, 2015 to January 22, 2016|link=List of PAL region serial code event Pokémon distributions in Generation VI#Malamar}}
+|}
+
+===Held items===
+{{HeldItems
+|type=dark|type2=psychic
+|event1=Assault Vest|event1type=None|event1rar=100}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Dark
+|type2=Psychic
+|HP=     86
+|Attack= 92
+|Defense=88
+|SpAtk=  68
+|SpDef=  75
+|Speed=  73}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|type2=Psychic
+|Normal=  100
+|Flying=  100
+|Fighting=100
+|Ground=  100
+|Rock=    100
+|Bug=     400
+|Poison=  100
+|Ghost=   100
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic=   0
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   200
+|notes=no
+|dark=yes
+|newpsychic=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Malamar|Dark|Psychic|6}}
+{{learnlist/level7|1|Reversal|Fighting|Physical|&mdash;|100|15}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Peck|Flying|Physical|35|100|35}}
+{{learnlist/level7|1|Constrict|Normal|Physical|10|100|35}}
+{{learnlist/level7|1|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|4|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|8|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/level7|12|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|13|Psywave|Psychic|Special|&mdash;|100|15}}
+{{learnlist/level7|15|Topsy-Turvy|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|18|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/level7|21|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level7|23|Switcheroo|Dark|Status|&mdash;|100|10}}
+{{learnlist/level7|27|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/level7|31|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|35|Pluck|Flying|Physical|60|100|20}}
+{{learnlist/level7|39|Psycho Cut|Psychic|Physical|70|100|20||'''}}
+{{learnlist/level7|43|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|46|Night Slash|Dark|Physical|70|100|15||'''}}
+{{learnlist/level7|48|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/levelf/7|Malamar|Dark|Psychic|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Malamar|Dark|Psychic|6}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10||'''}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Malamar|Dark|Psychic|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Malamar|Dark|Psychic|6}}
+{{learnlist/breed7|{{MSP|618|Stunfisk}}{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}|Camouflage|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|211|Qwilfish}}|Destiny Bond|Ghost|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|158|Totodile}}|Flatter|Dark|Status|&mdash;|100|15|*}}
+{{learnlist/breed7|{{MSP|194|Wooper}}|Guard Swap|Psychic|Status|—|—|10|*{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|283|Surskit}}|Power Split|Psychic|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}|Simple Beam|Normal|Status|&mdash;|100|15|*}}
+{{learnlist/breedf/7|Malamar|Dark|Psychic|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Malamar|Dark|Psychic|6}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15||'''|no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||'''|no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutorf/7|Malamar|Dark|Psychic|6}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Malamar|Dark|Psychic|6}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Malamar|Dark|Psychic|6}}
+
+===Side game data===
+{{Spindata/Head|type=Dark|type2=Psychic}}
+{{Template:Spindata/Battle Trozei|col=6|type=Dark|ndex=687
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Dark|ndex=687|num=366
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Quirky+
+|skilldesc=Sometimes erases two extra matching Pokémon elsewhere.
+|swapper=Block Shot
+}}
+|}
+
+===Evolution===
+{{evobox/Inkay}}
+
+===Sprites===
+{{Spritebox/Header|type=dark|type2=psychic}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=687}}
+{{Spritebox/7|ndex=687}}
+{{Spritebox/Footer|687|Malamar}}
+
+==Trivia==
+* In addition to {{p|Inkay}}'s method of evolution into Malamar being unique, it would have been impossible in any of the previous [[core series]] Pokémon games, because the [[Nintendo 3DS]] is Nintendo's first handheld system with an internal {{wp|gyroscope}}.
+* Malamar and its pre-evolution were designed by [[Hitoshi Ariga]].<ref>[http://hitoshiariga.deviantart.com/art/Pocket-Monsters-XY-413536751 Pocket Monsters XY by HitoshiAriga on deviantART]</ref>
+* Malamar is the only Pokémon with a [[catch rate]] of 80. 
+
+===Origin===
+Malamar is based on an upside-down {{wp|squid}}. Its body orientation and hypnosis ability may have been inspired by the {{wp|vampire squid}}'s abilities to invert its tentacles and produce light. It also somewhat resembles a {{wp|Owl|standard owl}}, which would symbolically relate to its distinctive wisdom/intelligence.
+
+====Name origin====
+Malamar may be a combination of ''mal-'' (Latin for ''bad''), μαλάκιο ''malákio'' (Greek for ''{{wp|Mollusca|mollusk}}''), ''{{wp|Squid (food)|calamari}}'', and ''mare'' (Latin for ''sea'').
+
+Calamanero may be from 絡ます ''karamasu'' (to entangle), ''calamari'', 魔 ''ma'' (demon), and possibly ''nero di seppia'' (Italian for {{wp|cephalopod ink}}).
+
+==In other languages==
+{{Other languages|type=Dark|type2=Psychic
+|ja=カラマネロ ''Calamanero''|jameaning=Possibly from {{tt|絡ます ''karamasu''|to entangle}}, ''calamari'', {{tt|魔 ''ma''|demon}}, and possibly ''{{tt|nero di seppia|cephalopod ink}}''
+|fr=Sepiatroce|frmeaning=From ''{{tt|sepia|Latin for cuttlefish}}'' and ''{{tt|atroce|atrocious}}''
+|es=Malamar|esmeaning=Same as English name
+|de=Calamanero|demeaning=Same as Japanese name
+|it=Malamar|itmeaning=Same as English name
+|ko=칼라마네로 ''Kallamanero''|komeaning=From its Japanese name
+|zh_cmn=烏賊王 ''Wūzéiwáng''|zh_cmnmeaning=From {{tt|烏賊 ''wūzéi''|squid}} and {{tt|王 ''wáng''|king}}
+|zh_yue=烏賊王 ''Wūchaahkwòhng''|zh_yuemeaning=From {{tt|烏賊 ''wūchaahk''|squid}} and {{tt|王 ''wòhng''|king}}
+|hi=मालेमार ''Malamar''|himeaning=Transcription of English name
+|ru=Маламар ''Malamar''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+* {{DL|Recurring wild Pokémon in the anime|Malamar|Malamar (anime)}}
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Dark|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=686|prev=Inkay|nextnum=688|next=Binacle}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Calamanero]]
+[[fr:Sepiatroce]]
+[[it:Malamar]]
+[[ja:カラマネロ]]
+[[pl:Malamar]]
+[[zh:乌贼王]]

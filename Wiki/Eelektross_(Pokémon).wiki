@@ -1,0 +1,343 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=603|prev=Eelektrik|nextnum=605|next=Elgyem}}
+|}
+{{Pokémon Infobox
+|name=Eelektross
+|jname=シビルドン
+|tmname=Shibirudon
+|category=EleFish
+|typebox=1
+|type1=Electric
+|abilityn=1
+|abilitylayout=1
+|ability1=Levitate
+|ndex=604
+|udex=110
+|u2dex=179
+|height-ftin=6'11"
+|height-m=2.1
+|weight-lbs=177.5
+|weight-kg=80.5
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=20
+|expyield=232
+|lv100exp=1,250,000
+|evtotal=3
+|evat=3
+|gendercode=127
+|color=Blue
+|catchrate=30
+|body=03
+|pokefordex=eelektross
+|generation=5
+|friendship=70
+}}
+'''Eelektross''' ([[List of Japanese Pokémon names|Japanese]]: '''シビルドン''' ''Shibirudon'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Eelektrik}} when exposed to a [[Thunder Stone]]. It is the final form of {{p|Tynamo}}.
+
+==Biology==
+Eelektross is an eel-like Pokémon that resembles a lamprey, with a long tentacle-like, finned limb extending from its head. It has red eyes, dark blue body, and possesses clawed, paddle-like arms with yellow spots and yellow-and-red palms. It has a beige fin on the upper portion of its body and beige fin-like legs below. It lives in the ocean, but it comes ashore to capture prey. It can use its arms to crawl out of the ocean and its sucker mouth to suck in prey. After latching onto its prey using its sucker mouth, it drags the prey into the ocean. It electrifies prey before eating.
+
+==In the anime==
+[[File:Kendrick Eelektross.png|250px|thumb|left|Eelektross in the {{pkmn|anime}}]]
+===Major appearances===
+Eelektross made its main series debut in ''[[BW048|Battle For The Underground!]]'', under the ownership of {{FB|Subway Boss|Emmet}}. It was first seen super-charging a maintenance car that Emmet and {{FB|Subway Boss|Ingo}} were using to catch up to Team Rocket. Eelektross was later used in a battle against {{an|Cilan}} and {{Ash}} in ''[[BW051|Lost at the Stamp Rally!]]'', where it battled {{AP|Tepig}} and {{TP|Cilan|Pansage}} alongside Ingo's {{p|Chandelure}}, and won.
+
+An Eelektross appeared in ''[[BW103|Curtain Up, Unova League!]]'' and ''[[BW104|Mission: Defeat Your Rival!]]'', under the ownership of [[Kendrick]]. Kendrick's Eelektross battled {{un|Cameron}}'s {{p|Ferrothorn}} and was defeated.
+
+An Eelektross appeared in [[SS037]].
+
+===Minor appearances===
+Eelektross debuted in the opening sequence of ''[[M14|White—Victini and Zekrom]]''.
+
+An Eelektross appeared in ''[[BW106|Strong Strategy Steals the Show!]]'', under the ownership of [[Russet]]. Russet's Eelektross appeared briefly, battling [[Manning]]'s {{p|Jellicent}} and winning.
+
+An Eelektross appeared in a fantasy in ''[[XY009|Clemont's Got a Secret!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW048|Eelektross|Ash's Pokédex|Eelektross, the EleFish Pokémon. Eelektross's mouth locks onto its opponents, where upon it delivers an electric shock.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Ghetsis Eelektross Adventures.png|200px|thumb|Eelektross in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+[[Ghetsis]] owns an Eelektross which was first seen in ''[[PS497|Finding Truth]]''.
+
+===In the Pokémon RéBURST manga===
+An Eelektross appears as a [[Burst]] form of [[Toga]].
+
+==In the TCG==
+{{main|Eelektross (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.}}
+{{Dex/Entry1|v=White|entry=With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.}}
+{{Dex/Entry1|v=Y|entry=They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Eelektrik}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Eelektrik}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Eelektrik}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Poni Grove]] ({{DL|QR Scanner|Island Scan}}){{dotw|Su}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Poni Grove]] ({{DL|QR Scanner|Island Scan}}){{dotw|Su}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Shimmering Lake]] (post ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Slithering Trains|Vehicle Gallery: Slithering Trains]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 3|Dragon Hill: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 410]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Tricky Factory|Gold Plateau: Tricky Factory]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Electric
+|HP=85
+|Attack=115
+|Defense=80
+|SpAtk=105
+|SpDef=80
+|Speed=50}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=100
+|Ground=0
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|levitate=yes
+|newground=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Eelektross|Electric|Electric|5}}
+{{learnlist/level7|1|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|1|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|1|Zap Cannon|Electric|Special|120|50|5||'''}}
+{{learnlist/level7|1|Gastro Acid|Poison|Status|&mdash;|100|10}}
+{{learnlist/level7|1|Coil|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Ion Deluge|Electric|Status|&mdash;|&mdash;|25}}
+{{learnlist/level7|1|Crush Claw|Normal|Physical|75|95|10}}
+{{learnlist/level7|1|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|1|Acid|Poison|Special|40|100|30}}
+{{learnlist/level7|1|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/levelf/7|Eelektross|Electric|Electric|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Eelektross|Electric|Electric|5}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Eelektross|Electric|Electric|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Eelektross|Electric|Electric|5}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Eelektross|Electric|Electric|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Eelektross|Electric|Electric|5}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutorf/7|Eelektross|Electric|Electric|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Eelektross|Electric|Electric|5}}
+{{learnlist/prevo7|602|Tynamo|||||Tackle|Normal|Physical|40|100|35}}
+{{learnlist/prevo7|602|Tynamo||603|Eelektrik||Spark|Electric|Physical|65|100|20|'''}}
+{{learnlist/prevo7|603|Eelektrik|||||Bind|Normal|Physical|15|85|20||{{sup/7|SM}}}}
+{{learnlist/prevo7|603|Eelektrik|||||Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/prevof/7|Eelektross|Electric|Electric|5}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/RumbleBlast|col=6|type=Electric
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=604
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=604|num=607
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Hyper Punch
+|skilldesc=Sometimes deals even more damage.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Electric
+|no1=602
+|name1=Tynamo
+|type1-1=Electric
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 39}}
+|no2=603
+|name2=Eelektrik
+|type1-2=Electric
+|evo2={{bag|Thunder Stone}}<br>{{color2|000|Thunder Stone}}
+|no3=604
+|name3=Eelektross
+|type1-3=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=604}}
+{{Spritebox/6|ndex=604}}
+{{Spritebox/7|ndex=604}}
+{{Spritebox/Footer|604|Eelektross}}
+
+==Trivia==
+<!--DO NOT REMOVE OR ALTER THIS. REGARDLESS OF ABILITIES OR MOVES THAT NULLIFY LEVITATE, IT STILL HAS NO WEAKNESSES.-->
+* Eelektross and its {{p|Tynamo|evolutionary}} {{p|Eelektrik|relatives}} are the only Pokémon with no weaknesses.
+
+===Origin===
+Eelektross and its evolutionary relatives may be based on {{wp|electric eels}}, {{wp|lampreys}}, and possibly {{wp|leeches}}. The fact that it is Electric-type may be an allusion to {{wp|bioelectrogenesis}}.
+
+====Name origin====
+Eelektross is a combination of ''eel'', a corruption of ''electric'', and possibly ''boss'' or ''gross''.
+
+Shibirudon may be a combination of 痺れ ''shibire'' (numbness) or しびれうなぎ ''shibireunagi'' (electric eel) and ''don'' (from the Latin ''dominus'', lord) or ''ὀδούς'' ''odoús'' (Greek for tooth).
+
+==In other languages==
+{{Other languages|type=Electric|type2=Electric
+|ja=シビルドン ''Shibirudon''|jameaning=From {{tt|痺れ ''shibire''|numbness}} or {{tt|シビレウナギ ''shibireunagi''|electric eel}} and {{tt|''don''|lord or tooth}}
+|fr=Ohmassacre|frmeaning=From ''{{wp|Ohm}}'' and ''massacre''
+|es=Eelektross|esmeaning=Same as English name
+|de=Zapplarang|demeaning=From ''{{tt|zappeln|to flounce}}'', ''zap'', ''{{tt|Lamprete|lamprey}}'', and ''{{tt|Rang|rank}}''
+|it=Eelektross|itmeaning=Same as English name
+|ko=저리더프 ''Jeorideof''|komeaning=From {{tt|저리다 ''jeorida''|to be numb}}. Last part is possibly from ''Prince''
+|zh_cmn=麻麻鰻魚王 / 麻麻鳗鱼王 ''Mámámányúwáng''|zh_cmnmeaning=From {{tt|麻 ''má''|to feel numb}}, {{tt|鰻魚 ''mányú''|eel}}, and {{tt|王 ''wáng''|king}}
+|ru=Электросс ''Elektross''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=603|prev=Eelektrik|nextnum=605|next=Elgyem}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Zapplarang]]
+[[fr:Ohmassacre]]
+[[it:Eelektross]]
+[[ja:シビルドン]]
+[[pl:Eelektross]]
+[[zh:麻麻鳗鱼王]]

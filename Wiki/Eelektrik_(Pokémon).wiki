@@ -1,0 +1,327 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=602|prev=Tynamo|nextnum=604|next=Eelektross}}
+|}
+{{Pokémon Infobox
+|name=Eelektrik
+|jname=シビビール
+|jtranslit=Shibibīru
+|tmname=Shibibeel
+|category=EleFish
+|typebox=1
+|type1=Electric
+|abilityn=1
+|abilitylayout=1
+|ability1=Levitate
+|ndex=603
+|udex=109
+|u2dex=178
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=48.5
+|weight-kg=22.0
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=20
+|expyield=142
+|lv100exp=1,250,000
+|evtotal=2
+|evat=2
+|gendercode=127
+|color=Blue
+|catchrate=60
+|body=03
+|pokefordex=eelektrik
+|generation=5
+|friendship=70
+}}
+'''Eelektrik''' ([[List of Japanese Pokémon names|Japanese]]: '''シビビール''' ''Shibibeel'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[evolution|evolves]] from {{p|Tynamo}} starting at [[level]] 39 and evolves into {{p|Eelektross}} when exposed to a [[Thunder Stone]].
+
+==Biology==
+Eelektrik is a blue-black, eel-like Pokémon with a beige underbelly. Its round, toothy, leech-like mouth has red lips, and its eyes have small pupils with yellow circle patterning around them, as well as spots. Beige fins extend from above and below its head, and its body is decorated with three yellow spots on the side, which are actually its electricity-generating organs. It has a red tail fin that resembles a fan.
+
+Eelektrik is a vigorous carnivore and has a good appetite. Upon spotting prey, it immediately attacks and paralyzes it, then coils around it and shocks it with electricity from its circular electricity-generating organs before eating it. It dwells in caves and marine environments.
+
+==In the anime==
+[[File:Eelektrik anime.png|250px|thumb|left|Eelektrik in the {{pkmn|anime}}]]
+===Major appearances===
+
+===Minor appearances===
+Several Eelektrik debuted in the opening sequence of ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]''.
+
+Eelektrik made its main series debut in ''[[BW125|Cilan and the Case of the Purrloin Witness!]]'', under the ownership of a {{pkmn|Trainer}} participating in the [[Marine Cup Tournament]]. It was seen battling {{Ash}}, but it was defeated by {{AP|Pikachu}}.
+
+==In the manga==
+[[File:Musician Eelektrik Adventures.png|200px|thumb|Eelektrik in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PS486|Unraveling Mysteries]]'', an Eelektrik was seen next to a {{tc|Musician}} in [[Nimbasa City]].
+
+A Trainer's Eelektrik appeared in ''[[PS489|Drawing Bridges]]''.
+
+An Eelektrik appeared in a flashback in ''[[PS510|A Wretched Reunion]]'' and ''[[PS514|The Tournament Continues]]''.
+{{-}}
+
+==In the TCG==
+{{main|Eelektrik (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.}}
+{{Dex/Entry1|v=White|entry=These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.}}
+{{Dex/Entry1|v=Y|entry=These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Tynamo}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Seaside Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Tynamo}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Tynamo}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Tynamo}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Shimmering Lake]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Slithering Trains|Vehicle Gallery: Slithering Trains]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 3|Dragon Hill: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 404]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Tricky Factory|Gold Plateau: Tricky Factory]] <small>(All Areas)</small>, [[Dark Land#Royal Armory|Dark Land: Royal Armory]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Electric
+|HP=65
+|Attack=85
+|Defense=70
+|SpAtk=75
+|SpDef=70
+|Speed=40}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=100
+|Ground=0
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|levitate=yes
+|newground=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Eelektrik|Electric|Electric|5}}
+{{learnlist/level7|1|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|1|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|1|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/level7|1|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level7|1|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|9|Bind|Normal|Physical|15|85|20}}
+{{learnlist/level7|19|Acid|Poison|Special|40|100|30}}
+{{learnlist/level7|29|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level7|44|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/level7|49|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/level7|54|Coil|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|59|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/level7|64|Gastro Acid|Poison|Status|&mdash;|100|10}}
+{{learnlist/level7|69|Zap Cannon|Electric|Special|120|50|5||'''}}
+{{learnlist/level7|74|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/levelf/7|Eelektrik|Electric|Electric|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Eelektrik|Electric|Electric|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Eelektrik|Electric|Electric|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Eelektrik|Electric|Electric|5}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Eelektrik|Electric|Electric|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Eelektrik|Electric|Electric|5}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutorf/7|Eelektrik|Electric|Electric|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Eelektrik|Electric|Electric|5}}
+{{learnlist/prevo7|602|Tynamo|||||Tackle|Normal|Physical|40|100|35}}
+{{learnlist/prevof/7|Eelektrik|Electric|Electric|5}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/RumbleBlast|col=6|type=Electric
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=603
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=603|num=606
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Paralysis Combo
+|skilldesc=Increases damage done by combos if the foe is paralyzed.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Electric
+|no1=602
+|name1=Tynamo
+|type1-1=Electric
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 39}}
+|no2=603
+|name2=Eelektrik
+|type1-2=Electric
+|evo2={{bag|Thunder Stone}}<br>{{color2|000|Thunder Stone}}
+|no3=604
+|name3=Eelektross
+|type1-3=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=603}}
+{{Spritebox/6|ndex=603}}
+{{Spritebox/7|ndex=603}}
+{{Spritebox/Footer|603|Eelektrik}}
+
+==Trivia==
+<!--DO NOT REMOVE OR ALTER THIS. REGARDLESS OF ABILITIES OR MOVES THAT NULLIFY LEVITATE, IT STILL HAS NO WEAKNESSES.-->
+* Eelektrik and its {{p|Tynamo|evolutionary}} {{p|Eelektross|relatives}} are the only Pokémon with no weaknesses.
+* Eelektrik is the only member of its evolution line that learns moves by leveling up. It is the only Pokémon in the second stage of a three-stage evolutionary line to have this distinction.
+* Eelektrik is the only Pokémon to evolve with a [[Thunder Stone]] that was not introduced in [[Generation I]].
+
+===Origin===
+Eelektrik and its evolutionary relatives may be based on {{wp|electric eels}}, {{wp|lamprey}}s and possibly {{wp|leech}}es. The fact that it is Electric-type may be an allusion to {{wp|bioelectrogenesis}}.
+
+====Name origin====
+Eelektrik is a combination of ''eel'' and a corruption of ''electric''.
+
+Shibibeel may be a combination of 痺れ ''shibire'' (numbness) or しびれうなぎ ''shibireunagi'' (electric eel), ビリビリ ''biribiri'' (onomatopoeia for an electric shock), and ''eel''.
+
+==In other languages==
+{{Other languages|type=Electric|type2=Electric
+|ja=シビビール ''Shibibeel''|jameaning=From {{tt|痺れ ''shibire''|numbness}} or {{tt|シビレウナギ ''shibireunagi''|electric eel}}, plus {{tt|ビリビリ ''biribiri''|onomatopoeic word for an electric shock sound}} and {{tt|イール ''īru''|eel}}
+|fr=Lampéroie|frmeaning=From ''{{tt|lamproie|lamprey}}'' and ''{{wp|ampere}}''
+|es=Eelektrik|esmeaning=Same as English name
+|de=Zapplalek|demeaning=From ''{{tt|zappeln|to flounce}}'', ''zap'', ''{{tt|Lamprete|lamprey}}'', and ''{{tt|Elektrizität|electricity}}''
+|it=Eelektrik|itmeaning=Same as English name
+|ko=저리릴 ''Jeoriril''|komeaning=From {{tt|저리다 ''jeorida''|to be numb}} and ''eel''
+|zh_cmn=麻麻鰻 / 麻麻鳗 ''Mámámán''|zh_cmnmeaning=From {{tt|麻 ''má''|to feel numb}} and {{tt|鰻 ''mán''|eel}}
+|ru=Электрик ''Elektrik''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=602|prev=Tynamo|nextnum=604|next=Eelektross}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve by evolutionary stone]]
+[[Category:Pokémon that evolve using Thunder Stone]]
+
+[[de:Zapplalek]]
+[[fr:Lampéroie]]
+[[it:Eelektrik]]
+[[ja:シビビール]]
+[[pl:Eelektrik]]
+[[zh:麻麻鳗]]

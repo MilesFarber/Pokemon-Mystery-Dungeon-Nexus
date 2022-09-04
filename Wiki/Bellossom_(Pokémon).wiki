@@ -1,0 +1,612 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Bellossom}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=181|prev=Ampharos|nextnum=183|next=Marill|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Bellossom
+|jname=キレイハナ
+|tmname=Kireihana
+|ndex=182
+|jdex=086
+|hdex=091
+|hdex6=094
+|karea=Central
+|kdex=108
+|abrow=117
+|obrow=130
+|opbrow=015
+|type1=Grass
+|category=Flower
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=12.8
+|weight-kg=5.8
+|abilitylayout=2
+|ability1=Chlorophyll
+|abilityd=Healer
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|evtotal=3
+|evsd=3
+|expyield=221<!--216 in Gen V-VI-->
+|oldexp=184
+|lv100exp=1,059,860
+|gendercode=127
+|color=Green
+|catchrate=45
+|body=12
+|pokefordex=bellossom
+|generation=2
+|friendship=70
+}}
+'''Bellossom''' ([[List of Japanese Pokémon names|Japanese]]: '''キレイハナ''' ''Kireihana'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Gloom}} when exposed to a [[Sun Stone]]. It is one of {{p|Oddish}}'s final forms, the other being {{p|Vileplume}}.
+
+==Biology==
+Bellossom is a primarily green Pokémon with circular blue eyes and red markings on its cheeks. It has two bright red flowers on its head and green and yellow leaves around its waist that resemble a skirt, all adding to the appearance of a hula dancer. Bellossom's petals are said to be more beautiful the worse the {{p|Gloom}} it evolved from smelled. When it rubs the petals on its head together, it creates a pleasing sound. Bellossom does not possess feet; in the [[EP122|anime]], its center-most leaves bent as it was getting ready to spring, suggesting that it uses its leaves as substitutes for feet or legs. However, the Pokédex does classify it as a biped.
+
+Bellossom is often seen dancing and chanting. In particular, Bellossom dances when cloudy weather persists, or when the heavy rainfall season ends and it is drawn out by the warm sunlight. It lives in {{DL|List of Pokémon by habitat|Grassland Pokémon|grassy plains}}.
+
+==In the anime==
+[[File:Bellossom anime.png|thumb|250px|Bellossom in the {{pkmn|anime}}]]
+===Major appearances===
+Bellossom appeared in ''[[EP122|Flower Power]]'' in a major role. A girl named [[Bailey]] had a pair that she named Belle and Bella, and she wanted them to be able to do a dance, but one of them was having trouble with the somersault that this dance required.
+
+In ''[[EP239|Whichever Way the Wind Blows]]'', there was a meadow in which Gloom evolved by collecting sediments of either [[Leaf Stone]]s or [[Sun Stone]]s that blew in the wind. The {{p|Vileplume}} and Bellossom were feuding in that area.
+
+A Bellossom appeared in ''[[DP138|Strategy Begins at Home!]]'', under the ownership of [[Noelle]].
+
+A Bellossom appeared in ''[[XY057|Thawing an Icy Panic!]]'', under the ownership of a female {{pkmn|Trainer}}. {{TP|Clemont|Chespin}} wanted to give it a flower, but it refused its request.
+
+A Bellossom appeared in [[PK20]].
+
+A Bellossom appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''.
+
+===Minor appearances===
+Bellossom debuted in ''[[PK04|Pikachu's Rescue Adventure]]''.
+
+A Bellossom was one of the Pokémon seen at the Pokémon Swap Meet in ''[[EP146|Tricks of the Trade]]''.
+
+Two Bellossom appeared in ''[[EP178|The Grass Route]]''. One belonged to [[Ephraim's parents]], and another belonged to a {{pkmn|Trainer}} participating in the [[Grass Tournament]].
+
+Multiple Bellossom appeared in ''[[EP180|Houndoom's Special Delivery]]'', where they were seen dancing in a grassy field and Togepi joined in.
+
+Three Bellossom appeared in {{an|Brock}}'s dream in ''[[EP193|Sick Daze]]'', dancing and singing.
+
+A Bellossom appeared in ''[[EP200|Turning Over a New Bayleef]]'', under the ownership of [[Haruno]]. It was in a garden that [[Ash's Bayleef]] ran off to.
+
+Multiple Bellossom appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+Three Bellossom were seen in the wild in ''[[The Legend of Thunder!]]''.
+
+Three Bellossom were among the inhabitants of an oasis just for Pokémon in ''[[EP207|Got Miltank?]]''.
+
+Multiple Bellossom were among the feuding Pokémon at [[Professor Oak's Laboratory]] in ''[[EP225|Bulbasaur... the Ambassador!]]''.
+
+{{OBP|Tammy|EP249}} from ''[[EP249|I Politoed Ya So!]]'' had some Bellossom in her cheerleading squad.
+
+Several Bellossom were among the inhabitants of the [[Dragon Holy Land]] in ''[[EP252|Fangs for Nothin']]''.
+
+Three wild Bellossom appeared in ''[[EP258|Hatch Me If You Can]]''.
+
+Several Bellossom were among the Pokémon seen at [[Professor Oak's Laboratory]] in ''[[SS004|Showdown at the Oak Corral]]''.
+
+An injured Bellossom appeared under the care of {{OBP|Katrina|AG011}} in ''[[AG011|A Bite to Remember]]''.
+
+A group of Bellossom were found in a field by {{an|May}} in ''[[AG014|All in a Day's Wurmple]]''.
+
+A Bellossom was used by one of the students of the [[Pokémon Trainers' School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+A {{pkmn|Coordinator}}'s Bellossom appeared in ''[[AG035|Win, Lose or Drew!]]'', where it competed in the {{ci|Slateport}} {{pkmn|Contest}}.
+
+A Bellossom appeared in ''[[DP086|Arriving in Style!]]'', under the ownership of a [[Pokémon Stylist]] competing in the [[Hearthome Collection]].
+
+Two Bellossom made a cameo in ''[[M12|Arceus and the Jewel of Life]]''.
+
+A Bellossom appeared in ''[[DP171|Dawn of a Royal Day!]]'', under the ownership of a Coordinator competing in the {{to|Arrowroot}} Contest.
+
+A Bellossom appeared in ''[[M13|Zoroark: Master of Illusions]]'', as one of the many wild Pokémon who live in [[Crown City]].
+
+A Bellossom appeared in ''[[BW127|The Island of Illusions!]]'' as an image.
+
+A group of Bellossom appeared in ''[[M16|Genesect and the Legend Awakened]]'' at [[Pokémon Hills]].
+
+A Bellossom appeared in ''[[XY026|A Battle by Any Other Name!]]''.
+
+Two Bellossom appeared in ''[[XY047|Dreaming a Performer's Dream!]]''.
+
+Multiple Bellossom appeared in ''[[XY057|Thawing an Icy Panic!]]'' as residents of [[Ramos]]' ranch.
+
+A Trainer's Bellossom appeared in ''[[XY136|Forming a More Perfect Union!]]''.
+
+Multiple wild Bellossom appeared in ''[[SM042|Alola, Kanto!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP122|Bellossom|Ash's Pokédex|Bellossom, the Flower Pokémon. When these Pokémon move, their delicate petals rub together, creating a pleasant sound. They are also known for their unique acrobatic dancing abilities.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+
+==In the manga==
+[[File:Erika Bellossom Adventures.png|thumb|150px|Bellossom in [[Pokémon Adventures]]]]
+===In the Magical Pokémon Journey manga===
+In [[Magical Pokémon Journey]], {{MPJ|Pikachu}} and {{MPJ|Clefairy}} rescue Princess Bellossom of the Flower Kingdom from Prince Sudowoodo of the Stone Kingdom in ''[[PPP45|Pikachu and Clefairy's Heroic Tales]]''.
+
+===In the Pokémon Adventures manga===
+Bellossom debuted in ''[[PS091|Murkrow Row]]'' when {{adv|Gold}} helped [[Joey]] get his bag back; it was one of the Pokémon in the bag.
+
+In ''[[PS143|Irked Igglybuff and Curmudgeonly Cleffa]]'', a Bellossom ice sculpture was one of the many sculpture Pryce made in his gym.
+
+In ''[[PS163|Bringing up Bellossom]]'', [[Erika]] owns a group of Bellossom who presumably help her in flower arrangement. One of them battled [[Pryce]]'s {{p|Swinub}} during the Gym Leaders' exhibition matches at Indigo Plateau.
+
+In ''[[PS422|Interrupting Ivysaur]]'', a Bellossom under the ownership of a {{tc|Veteran}} named Beck appeared during {{adv|Platinum}}'s challenge at the Battle Arcade.
+{{-}}
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS163]]|They will sometimes gather and start dancing. It's also known as a ritual dance to worship the sun.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Bellossom (TCG)}}
+
+==Other appearances==
+[[File:Sleep Powder SSBB.png|220px|thumb|Bellossom in [[Super Smash Bros. Brawl]]]]
+===[[Super Smash Bros. Melee]]===
+When released from a [[Poké Ball]], Bellossom will use its {{m|Sweet Scent}} to put any nearby opponents into a deep sleep. As Bellossom stays on-screen for longer than most Pokémon, this gives the thrower time to power up a smash move. It is also available as a trophy.
+
+====Trophy information====
+"''From time to time, these beautiful flower Pokémon will gather in numbers and perform an odd sort of dance to call out the sun. While in the midst of this strange exhibition, their petals brush together to create a peaceful and soothing melody. A Gloom will only evolve into a Bellossom if it's exposed to a [[Sun Stone]].''"
+
+===[[Super Smash Bros. Brawl]]===
+Bellossom makes a return appearance in Brawl, once again using its {{m|Sweet Scent}} to put opponents to sleep and leave them vulnerable to attacks.
+
+====Trophy Information====
+''"A Flower Pokémon. After spells of cloudy weather, Bellossom will gather to call out the sun by performing a dance. When exposed long enough to the sun, the leaves on its body will spin around. {{a|Chlorophyll|A Bellossom's Speed is also known to increase with sun exposure}}. Its main specialty is poison attacks. Also, Bellossom will close its flowers when sleeping."''
+
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+Bellossom returns as a Poké Ball summon, once again using {{m|Sweet Scent}} to put opponents to sleep.
+
+====Trophy information====
+'''NA''': ''A Grass-type Pokémon, Bellossom evolves from Gloom, losing its secondary Poison type. It also gets smaller. It's most common to find Bellossom in tropical climates, grouped together and dancing. In Smash Bros., the Sweet Scent from Bellossom can put even the most hardened fighters to sleep.''
+
+'''PAL''': ''Two unusual things happen when Gloom evolves into Bellossom: it gets smaller, and it loses its secondary type, Poison, becoming a purely Grass-type Pokémon. These Pokémon are most commonly found in groups in the tropics. Here, the more damage fighters have taken, the longer Sweet Scent keeps them asleep!''
+
+==Game data==
+
+===NPC appearances===
+{{spoilers}}
+{{g|Mystery Dungeon: Explorers of Sky}}: In the Special Episode [[Here Comes Team Charm!]], a Bellossom appears before the [[Southern Jungle]], attempting to convince [[Team Charm]] that there is no treasure in the [[Boulder Quarry]] ahead, but Team Charm proceed with their exploration anyway. This Bellossom is later revealed to be a disguise of {{p|Ditto}}, the guardian of [[Limestone Cavern]].
+
+===Pokédex entries===
+{{Dex/Header|type=grass}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.}}
+{{Dex/Entry1|v=Silver|entry=Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.}}
+{{Dex/Entry1|v=Crystal|entry=When these dance together, their petals rub against each other, making pretty, relaxing sounds.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=When Bellossom get exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pokémon's dancing is renowned in southern lands.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=A Bellossom grows flowers more beautifully if it evolves from a smelly {{p|Gloom}} - the stinkier the better. At night, this Pokémon closes its petals and goes to sleep.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a ritual for summoning the sun.}}
+{{Dex/Entry1|v=FireRed|entry=Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.}}
+{{Dex/Entry1|v=LeafGreen|entry=Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.}}
+{{Dex/Entry1|v=HeartGold|entry=Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.}}
+{{Dex/Entry1|v=SoulSilver|entry=Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.}}
+{{Dex/Entry1|v=Y|entry=When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=When Bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pokémon's dancing is renowned in the southern lands.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=A Bellossom grows flowers more beautifully if it has evolved from a smelly Gloom—the more stinky the better. At night, this Pokémon closes its petals and goes to sleep.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=grass}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Gloom}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Gloom}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Gloom}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Gloom}}}}
+{{Availability/Entry1|v=FireRed|area=[[Evolution|Evolve]] {{p|Gloom}}}}
+{{Availability/Entry1/None|v=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Gloom}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Gloom}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Gloom}}}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Gloom}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Gloom}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Gloom}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Puzzle Challenge|color={{gold color}}|area=Defeat a {{tc|Lass}} after defeating any Trainer in under 25 seconds in Challenge Mode}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Springleaf Field]]}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Gloom}} ({{color2|{{sapphire color}}|Sapphire Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|1|Phobos Train}}, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Gloom}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Marine Resort]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Marine Resort]] (B1-B19)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Hippowdon Temple]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Flower Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Latolato Trail]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Everspring Valley]] (post-ending)}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#The Garden at the End of Time|Flower Garden: The Garden at the End of Time]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 2|Safari Jungle: Stage 2]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Great Challenge|Bellossom Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Royal Garden|Leafy Expanse: Royal Garden]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+=====Generation II-V=====
+{{BaseStats|
+type=grass|
+HP=75|
+Attack=80|
+Defense=85|
+SpAtk=90|
+SpDef=100|
+Speed=50}}
+
+=====Generation VI onward=====
+{{BaseStats|
+type=grass|
+HP=75|
+Attack=80|
+Defense=95|
+SpAtk=90|
+SpDef=100|
+Speed=50}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=grass
+|Speed=3
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=3
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness|
+type1=grass|
+Normal=  100 |
+Fighting=100 |
+Flying=  200 |
+Poison=  200 |
+Ground=   50 |
+Rock=    100 |
+Bug=     200 |
+Ghost=   100 |
+Steel=   100 |
+
+Fire=    200 |
+Water=    50 |
+Grass=    50 |
+Electric= 50 |
+Psychic= 100 |
+Ice=     200 |
+Dragon=  100 |
+Dark=    100 |
+Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Bellossom|Grass|Grass|2}}
+{{learnlist/level7|1|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/level7|1|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/level7|1|Leaf Blade|Grass|Physical|90|100|15||'''}}
+{{learnlist/level7|1|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level7|1|Sweet Scent|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|1|Stun Spore|Grass|Status|&mdash;|75|30}}
+{{learnlist/level7|1|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/level7|39|Quiver Dance|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|49|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/level7|59|Petal Dance|Grass|Special|120|100|10||'''}}
+{{learnlist/level7|69|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/7|Bellossom|Grass|Grass|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Bellossom|Grass|Grass|2}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Bellossom|Grass|Grass|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Bellossom|Grass|Grass|2}}
+{{learnlist/breed7|{{MSP|556|Maractus}}|After You|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|546|Cottonee}}|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|046|Paras}}{{MSP|152|Chikorita}}{{MSP|270|Lotad}}|Flail|Normal|Physical|&mdash;|100|15|*}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|455|Carnivine}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|753|Fomantis}}<br>{{MSP|754|Lurantis}}{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Ingrain|Grass|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|270|Lotad}}{{MSP|271|Lombre}}{{MSP|272|Ludicolo}}{{MSP|273|Seedot}}{{MSP|274|Nuzleaf}}|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}<br>{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|274|Nuzleaf}}<br>{{MSP|275|Shiftry}}{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|459|Snover}}<br>{{MSP|460|Abomasnow}}{{MSP|546|Cottonee}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|045|Vileplume}}<br>{{MSP|182|Bellossom}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}<br>{{MSP|102|Exeggcute}}{{MSP|103|Exeggutor}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}<br>{{MSP|154|Meganium}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}<br>{{MSP|270|Lotad}}{{MSP|271|Lombre}}{{MSP|272|Ludicolo}}{{MSP|273|Seedot}}{{MSP|274|Nuzleaf}}{{MSP|275|Shiftry}}<br>{{MSP|285|Shroomish}}{{MSP|286|Breloom}}{{MSP|315|Roselia}}{{MSP|407|Roserade}}{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}<br>{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}<br>{{MSP|455|Carnivine}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}<br>{{MSP|546|Cottonee}}{{MSP|547|Whimsicott}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}{{MSP|591|Amoonguss}}{{MSP|597|Ferroseed}}<br>{{MSP|598|Ferrothorn}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}|Secret Power|Normal|Physical|70|100|20|‡}}
+{{learnlist/breed7|{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Strength Sap|Grass|Status|—|100|10|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|273|Seedot}}{{MSP|315|Roselia}}<br>{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}{{MSP|764|Comfey}}|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|331|Cacnea}}|Teeter Dance|Normal|Status|&mdash;|100|20|*}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breedf/7|Bellossom|Grass|Grass|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Bellossom|Grass|Grass|2}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Bellossom|Grass|Grass|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Bellossom|Grass|Grass|2}}
+{{learnlist/prevo7|043|Oddish|||||Moonblast|Fairy|Special|95|100|15}}
+{{learnlist/prevo7|043|Oddish||044|Gloom||Absorb|Grass|Special|20|100|25|'''}}
+{{learnlist/prevo7|043|Oddish||044|Gloom||Growth|Normal|Status|—|—|20}}
+{{learnlist/prevo7|043|Oddish||044|Gloom||Acid|Poison|Special|40|100|30}}
+{{learnlist/prevo7|043|Oddish||044|Gloom||Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/prevo7|043|Oddish||044|Gloom||Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/prevo7|043|Oddish||044|Gloom||Lucky Chant|Normal|Status|—|—|30}}
+{{learnlist/prevo7|043|Oddish||044|Gloom||Moonlight|Fairy|Status|—|—|5}}
+{{learnlist/prevo7|043|Oddish||044|Gloom||Giga Drain|Grass|Special|75|100|10|'''|{{sup/7|SM}}}}
+{{learnlist/prevo7|043|Oddish||044|Gloom||Natural Gift|Normal|Physical|—|100|15}}
+{{learnlist/prevo7|043|Oddish||044|Gloom||Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/prevof/7|Bellossom|Grass|Grass|2}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/PinballRS|col=3|type=Grass|ndex=182|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Grass|ndex=182|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=182
+|body=1
+|rate=Evolve
+|area=Jungle
+|P1=My dancing soothes everyone!
+|P2=What shall I do? I've lost half my HP.
+|P3=I'm so sorry... I can't dance, I'm so beaten down...
+|PL=Oh, yes! Leveled up! I'll dance more and more!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=182
+|body=1
+|rate=-4.5
+|IQ=B
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=3
+|browser=While protecting itself with leaves, it also scatters them to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=3
+|browser=It creates vines around itself that make Pokémon Slowed.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Grass|ndex=182
+|Pad=Bellossom lives in the [[Flower Zone]]. She loves flowers! She gave you the Wonderful Watering Can that she found in the [[Beach Zone]]!
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=182
+|pad=Their dream is to fill the [[Crag Area]] with flowers. They collect various seeds and plant them, but some Pokémon eat them.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=182
+|power=3
+}}
+{{Spindata/Shuffle|col=6|type=Grass|ndex=182|num=482
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Mind Zap
+|skilldesc=Delays your opponent's disruptions.
+|swapper=Paralyze+
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=182
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=150
+|attack=169
+|defense=189
+|fast={{m|Razor Leaf}}, {{m|Acid}}
+|special={{m|Leaf Blade}}, {{m|Petal Blizzard}}, {{m|Dazzling Gleam}}
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Grass
+|no1=043
+|name1=Oddish
+|type1-1=Grass
+|type2-1=Poison
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 21}}
+|no2=044
+|name2=Gloom
+|type1-2=Grass
+|type2-2=Poison
+|evo2={{bag|Sun Stone}}<br>{{color2|000|Sun Stone}}
+|no3=182
+|name3=Bellossom
+|type1-3=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=grass}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=182}}
+{{Spritebox/3|ndex=182}}
+{{Spritebox/4|ndex=182}}
+{{Spritebox/5|ndex=182}}
+{{Spritebox/6|ndex=182}}
+{{Spritebox/7|ndex=182}}
+{{Spritebox/Footer|182|Bellossom}}
+
+====Other sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{grass color dark}}; background: #{{grass color}};"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{grass color dark}}; background: #{{grass color light}}"| [[File:Spr 2g Bellossom credits.png]]
+|-
+| Gold and Silver credits' sprite
+|}
+
+==Trivia==
+[[File:1999 Bellossom Artwork.png|thumb|right|Bellossom's early artwork]]
+* In its {{2v2|Gold|Silver}} artwork, and artwork made earlier, Bellossom's body is shown with a blue color instead of its usual green. This color is similar to that of its evolutionary relatives and its Shiny color in [[Generation II]].
+* Bellossom is the only single-type Pokémon that evolves from a dual-type Pokémon (thus the only Pokémon which loses its secondary type upon evolution).
+* Bellossom shares its {{pkmn|category}} with {{p|Vileplume}} and {{p|Bellsprout}}. They are all known as the Flower Pokémon.
+* In [[Generation II]], Bellossom could not learn {{m|Sludge Bomb}} from TM36, despite its pre-evolutions being able to do so. This was fixed starting in [[Generation III]].
+
+===Origin===
+Bellossom may be based on a ''{{wp|Rafflesia keithii}}'' and a {{wp|hula}} dancer. Judging from its body structure and [[Pokédex]] entries, it may also be based on a bell.
+
+====Name origin====
+Bellossom is a combination of ''bella'' or ''belle'' (Spanish and French for ''pretty'') and ''blossom''. It may also involve ''bell''.
+
+Kireihana is a combination of 綺麗 ''kirei'' (pretty) and 花 ''hana'' (flower). It may also involve 鈴 ''rei'' (bell).
+
+==In other languages==
+{{Other languages|type=grass|type2=grass
+|ja=キレイハナ ''Kireihana''|jameaning=From 綺麗 ''kirei'' (pretty) and 花 ''hana'' (flower)
+|fr=Joliflor|frmeaning=From ''{{tt|joli|pretty}}'' and ''{{tt|flore|flora}}''
+|es=Bellossom|esmeaning=Same as English name
+|de=Blubella|demeaning=From ''{{tt|Blume|flower}}'', ''{{tt|bella|Spanish for 'pretty'}}'', and possibly ''{{wp|bluebell}}''
+|it=Bellossom|itmeaning=Same as English name
+|ko=아르코 ''Areuko''|komeaning=From {{tt|아름다운 ''areumdaun''|beautiful}} and {{tt|꽃 ''kkoch''|flower}}
+|zh_cmn=美麗花 / 美丽花 ''Měilìhuā''|zh_cmnmeaning=Literally "Beautiful flower"
+|hi=बेल्लोसोम ''Bellossom''|himeaning=Transcription of English name
+|ru=Беллосом ''Bellosom''|rumeaning=Transcription of English name
+}}
+{{left clear}}
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+
+{{Smash Bros.}}
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=181|prev=Ampharos|nextnum=183|next=Marill}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Pokémon that appeared in the anime before their game debut]]
+[[Category:Pokémon whose base stats changed in Generation VI]]
+
+[[de:Blubella]]
+[[fr:Joliflor]]
+[[it:Bellossom]]
+[[ja:キレイハナ]]
+[[pl:Bellossom]]
+[[zh:美丽花]]

@@ -1,0 +1,322 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=779|prev=Bruxish|nextnum=781|next=Dhelmise}}
+|}
+{{Pokémon Infobox
+|name=Drampa
+|jname=ジジーロン
+|tmname=Jijilong
+|jtranslit=Jijīron
+|ndex=780
+|type1=Normal
+|type2=Dragon
+|category=Placid
+|height-ftin=9'10"
+|height-m=3.0
+|weight-lbs=407.9
+|weight-kg=185.0
+|adex=244
+|abilityn=d
+|ability1=Berserk
+|ability2=Sap Sipper
+|abilityd=Cloud Nine
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Dragon
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=170
+|lv100exp=1,000,000
+|gendercode=127
+|color=White
+|catchrate=70
+|body=02
+|pokefordex=drampa
+|generation=7
+|friendship=70
+}}
+'''Drampa''' ([[List of Japanese Pokémon names|Japanese]]: '''ジジーロン''' ''Jijilong'') is a dual-type {{2t|Normal|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+Drampa is a serpentine Pokémon similar to a {{wp|Chinese dragon}}. Most of its skin is blue-green, but the lower half of its face and underside of its neck are a pale green. There are three spots on each of its sides that are also light green. It has pink eyes with rounded, yellow eyebrows, a short mustache, and a small, white beard with a circular extension. On top of its head is a mop of white hair split into four rounded sections: two draped down either side of its head. Fluffy white fur drapes the lower half of its body and conceals its arms when they are tucked against its chest. When its arms are spread, two short claws are revealed on each hand. It has a bushy white tail and a small, curved spike on its back.
+
+This dragon Pokémon lives alone in the mountains 10,000 feet above sea level. The Berries it feeds on do not grow at this altitude, so it descends to the base of the mountains daily at dawn. It loves communicating with people and Pokémon, and is especially gentle with children. It will often appear in areas where children gather and plays with them. Despite its gentle nature, it becomes enraged if a child it cares for is hurt, and can go as far as to burn the bully's house down if able. It is capable of firing attacks powerful enough to knock down buildings.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/drampa/</ref> As seen in the [[SM059|anime]], Drampa is capable of flying.
+
+==In the anime==
+[[File:Drampa anime.png|thumb|250px|left|Drampa in the {{pkmn|anime}}]]
+===Major appearances===
+Drampa debuted in [[SM059]]. In the past, it saved {{an|Lana}} and {{an|Mallow}} when they fell off a cliff. It reunited with them in the present day when it also helped [[Harper and Sarah]].
+
+===Minor appearances===
+
+{{clear}}
+<!--==In the manga==
+
+-->==In the TCG==
+{{main|Drampa (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Dragon}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It has a compassionate personality, but if it is {{a|Berserk|angered}}, it completely destroys its surroundings with its {{m|Dragon Breath|intense breath}}.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon is friendly to people and loves children most of all. It comes from deep in the mountains to play with children it likes in town.}}
+{{Dex/Entry1|v=Ultra Sun|entry=If a child it has made friends with is bullied, Drampa will find the bully's house and burn it to the ground.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It appears in towns and plays with the children. Drampa will protect kids when they're in danger, so their moms don't have to worry.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Dragon}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1/None|1|v=Sun|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|1|v=Moon|area=[[Mount Lanakila]]}}
+{{Availability/Entry1/None|1|v=Ultra Sun}}
+{{Availability/Entry1|1|v=Ultra Moon|area=[[Mount Lanakila]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Dragon}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#22nd release|''Pokémon Safari'']] <small>(22nd release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Normal|type2=Dragon}}
+{{eventAvail|{{gameabbrev7|SM}}|Easter Drampa Egg|All|Japan|1|March 18 to April 9, 2017|link=List of local event Pokémon distributions in Generation VII#Drampa 2}}
+{{eventAvail|{{gameabbrev7|SM}}|Korean Drampa Egg|All|South Korea|1|April 29 to May 7, 2017|link=List of local event Pokémon distributions in Generation VII#Drampa}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Normal|type2=Dragon
+|m1=Persim Berry|m1type=Berry|m1rar=5
+|um1=Persim Berry|um1type=Berry|um1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|type2=Dragon
+|HP=78
+|Attack=60
+|Defense=85
+|SpAtk=135
+|SpDef=91
+|Speed=36}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Dragon
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=50
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=200
+|Dark=100
+|Fairy=200
+|notes=yes
+|normal=yes
+|sapsipper=maybe
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Drampa|Normal|Dragon|7}}
+{{learnlist/level7|1|Play Nice|Normal|Status|—|—|20}}
+{{learnlist/level7|1|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/level7|5|Twister|Dragon|Special|40|100|20||'''}}
+{{learnlist/level7|9|Protect|Normal|Status|—|—|10}}
+{{learnlist/level7|13|Glare|Normal|Status|—|100|30}}
+{{learnlist/level7|17|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level7|21|Dragon Rage|Dragon|Special|—|100|10}}
+{{learnlist/level7|25|Natural Gift|Normal|Physical|—|100|15}}
+{{learnlist/level7|29|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level7|33|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/level7|37|Extrasensory|Psychic|Special|80|100|20}}
+{{learnlist/level7|41|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level7|45|Fly|Flying|Physical|90|95|15}}
+{{learnlist/level7|49|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/level7|53|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/levelf/7|Drampa|Normal|Dragon|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Drampa|Normal|Dragon|7}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|—|—|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Drampa|Normal|Dragon|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Drampa|Normal|Dragon|7}}
+{{learnlist/breed7|{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}{{MSP|443|Gible}}{{MSP|444|Gabite}}{{MSP|445|Garchomp}}<br>{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}|Dragon Rush|Dragon|Physical|100|75|10||'''}}
+{{learnlist/breed7|{{MSP|130|Gyarados}}{{MSP|149|Dragonite}}<br>|Hurricane|Flying|Special|110|70|10}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|333|Swablu}}{{MSP|334|Altaria}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}{{MSP|698|Amaura}}<br>{{MSP|699|Aurorus}}|Mist|Ice|Status|—|—|30}}
+{{learnlist/breed7|{{MSP|690|Skrelp}}|Play Rough|Fairy|Physical|90|90|10|*}}
+{{learnlist/breed7|{{MSP|694|Helioptile}}{{MSP|695|Heliolisk}}|Razor Wind|Normal|Special|80|100|10||'''}}
+{{learnlist/breedf/7|Drampa|Normal|Dragon|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Drampa|Normal|Dragon|7}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Drampa|Normal|Dragon|7}}
+
+====By {{pkmn2|event}}s====
+{{learnlist/eventh/7|Drampa|Normal|Dragon|7}}
+{{learnlist/event7|[[List of local event Pokémon distributions in Generation VII#Easter Eggs|Easter Egg Drampa]]<br>[[List of local event Pokémon distributions in Generation VII#Korean Pokémon Eggs|Korean Egg Drampa]]|Hurricane|Flying|Special|110|70|10}}
+{{learnlist/eventf/7|Drampa|Normal|Dragon|7}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Dragon}}
+{{Spindata/Shuffle|col=6|type=Normal|ndex=780|stype=Dragon|num=767
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Block Smash+
+|skilldesc=Sometimes clears three unbreakable-block disruptions.
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Normal
+|type2=Dragon
+|pictype=art
+|no1=780
+|name1=Drampa
+|type1-1=Normal
+|type2-1=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Dragon}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=780}}
+{{Spritebox/Footer|780|Drampa}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Drampa.
+* Drampa can be seen as a counterpart to {{p|Turtonator}}. Both are Dragon-type Pokémon with the same base stat total. They also share the same stat values, but with different distributions aside from {{stat|Speed}}. While Drampa is exclusive to [[Pokémon Sun and Moon|Moon]] and [[Pokémon Ultra Sun and Ultra Moon|Ultra Moon]], Turtonator is exclusive to Pokémon Sun and Ultra Sun.
+* Drampa was designed by [[Hitoshi Ariga]].
+* Drampa is tied with {{p|Porygon-Z}} and {{me|Pidgeot}} for the highest base {{stat|Special Attack}} stat of all {{type|Normal}} Pokémon.
+
+===Origin===
+Drampa appears to be based on a {{wp|Chinese dragon}}, such as the {{wp|Zhulong (mythology)|Zhulong}} (torch dragon), a mythological creature with the face of an old man and the body of a dragon.
+
+====Name origin====
+Drampa may be a combination of ''dragon'' and ''grampa'' (a variation on ''grandpa'').
+
+Jijilong may be a combination of 爺 ''jijī'' (informal term for old man) and 龍 ''lóng'' (Chinese for dragon).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Dragon
+|ja=ジジーロン ''Jijilong''|jameaning=From {{tt|爺 ''jijī''|informal term for old man}} and {{tt|龍 ''lóng''|Chinese for dragon}}
+|fr=Draïeul|frmeaning=From ''dragon'' and {{tt|''aïeul''|elder, ancestor}}
+|es=Drampa|esmeaning=Same as English name
+|de=Sen-Long|demeaning=From ''Senior'' and {{tt|神龍 / 神龙 ''shénlóng''|dragon from Chinese mythology}}
+|it=Drampa|itmeaning=Same as English name
+|ko=할비롱 ''Halbirong''|komeaning=From {{tt|할아버지 ''harabeoji''|grandfather}} and {{tt|龍 ''lóng''|Chinese for dragon}}
+|zh_cmn=老翁龍 / 老翁龙 ''Lǎowēnglóng''|zh_cmnmeaning=From {{tt|老翁 ''lǎowēng''|old man}} and {{tt|龍 ''lóng''|dragon}}
+|zh_yue=老翁龍 ''Lóuhyūnglùhng''|zh_yuemeaning=From {{tt|老翁 ''lóuhyūng''|old man}} and {{tt|龍 ''lùhng''|dragon}}
+|ru=Дрампа ''Drampa''|rumeaning=Transcription of English name}}
+{{-}}
+
+==Related articles==
+==Notes==
+<references/>
+==External links==
+{{PokémonPrevNext/Head|type=Normal|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=779|prev=Bruxish|nextnum=781|next=Dhelmise}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Sen-Long]]
+[[fr:Draïeul]]
+[[it:Drampa]]
+[[ja:ジジーロン]]
+[[pl:Drampa]]
+[[zh:老翁龙]]

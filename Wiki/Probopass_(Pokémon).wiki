@@ -1,0 +1,457 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=475|prev=Gallade|nextnum=477|next=Dusknoir}}
+|}
+{{Pokémon Infobox
+|name=Probopass
+|jname=ダイノーズ
+|jtranslit=Dainōzu
+|tmname=Dainose
+|ndex=476
+|hdex6=062
+|sdex=156
+|u2dex=165
+|karea=Coastal
+|kdex=094
+|adex=199
+|abrow=045
+|obrow=290
+|opbrow=107
+|type1=Rock
+|type2=Steel
+|category=Compass
+|height-ftin=4'07"
+|height-m=1.4
+|weight-lbs=749.6
+|weight-kg=340.0
+|abilitylayout=2
+|ability1=Sturdy
+|ability2=Magnet Pull
+|abilityd=Sand Force
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evtotal=3
+|evde=1
+|evsd=2
+|expyield=184
+|oldexp=198
+|lv100exp=1,000,000
+|gendercode=127
+|color=Gray
+|catchrate=60
+|body=11
+|pokefordex=probopass
+|generation=4
+|friendship=70
+}}
+'''Probopass''' ([[List of Japanese Pokémon names|Japanese]]: '''ダイノーズ''' ''Dainose'') is a dual-type {{2t|Rock|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Nosepass}} when [[level]]ed up in a [[special magnetic field]].
+
+==Biology==
+[[File:Cyrus Probopass Mini Noses Adventures.png|thumb|left|200px|Probopass's Mini-Noses]]
+Probopass is a mostly blue, rock Pokémon. It has small round eyes, a red nose that is large in proportion to its body, and a bushy black mustache that appears to consist of iron filings. These iron filings appear to be attracted by its magnetic nose. It has three small objects on its sides and back, called Mini-Noses (Japanese: '''チビノーズ''' ''Mini-Nose''), which it is able to control. It has a big red hat-like magnet on top of its head, and has strong magnetism from all over its body.
+
+Being able to command these Mini-Noses, it is able to catch prey and attack opponents from all three directions. On occasion, its Mini-Noses can get lost and may never come back. It emits strong magnetic fields that can damage nearby appliances.
+
+==In the anime==
+===In the main series===
+[[File:Olivia Probopass.png|thumb|250px|left|Probopass in the {{pkmn|anime}}]]
+====Major appearances====
+Probopass appeared in ''[[DP058|Nosing 'Round The Mountain!]]'', under [[Alan]]'s ownership. It was first shown as a Nosepass, but it evolved while {{pkmn|training}} near [[Mt. Coronet]] due to the mountain's [[special magnetic field]]. Soon after evolving, {{TRT}} brought Probopass under their control, but it was eventually freed. It reappeared in a flashback in ''[[DP093|Playing The Leveling Field!]]'', where it was revealed to have defeated [[Fantina]]'s {{p|Gengar}}, earning Alan the {{Badge|Relic}}.
+
+Multiple Probopass appeared in ''[[DP112|Cheers on Castaways Isle!]]'', where they were living in an island located on [[Diablo's Ocean]] together with their pre-evolved form {{p|Nosepass}}.
+
+A Probopass appeared in ''[[SM036|Trials and Determinations!]]'', under the ownership of [[Olivia]]. It was used in the [[Island challenge|grand trial]] against Ash; it battled {{AP|Rockruff}} and {{AP|Rowlet}}, being defeated by the latter after it used {{m|Bloom Doom}}.
+
+====Minor appearances====
+Three Probopass appeared in ''[[M12|Arceus and the Jewel of Life]]'', under the ownership of [[Damos]].
+
+A {{pkmn|Coordinator}}'s Probopass appeared in ''[[DP171|Dawn of a Royal Day!]]'', where it was seen participating in the [[Contest Battle|Battle Stage]] of the [[Arrowroot Town]] [[Pokémon Contest]].
+
+A Probopass briefly appeared in ''[[DP182|An Old Family Blend!]]'', under the ownership of a [[Pokémon Trainer]] competing in the [[Lily of the Valley Conference]].
+
+====Pokédex entries====
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP058|Probopass|Dawn's Pokédex|Probopass, the Compass Pokémon, and the evolved form of {{p|Nosepass}}. Its body acts as a powerful magnet. It controls three smaller units called Mini-Noses.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+{{Animedexheader|Alola}}
+{{Animedexbody|SM036|Probopass|Rotom Pokédex|Probopass, the Compass Pokémon. A {{t|Rock}} and {{t|Steel}} type. Probopass uses magnetic force to control the three Mini-Noses at its sides.}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+
+===In Pokémon Generations===
+[[File:Probopass PG.png|thumb|180px|Probopass in [[Pokémon Generations]]]]
+A wild Probopass appeared near the [[Snowpoint Temple]] in ''[[PG01|The Adventure]]''.
+{{-}}
+
+==In the manga==
+[[File:Cyrus Probopass Adventures.png|thumb|130px|Probopass in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PS349|Passing by Probopass and Maneuvering around Magnezone]]'', {{adv|Diamond}} was separated from {{adv|Pearl}} and {{adv|Platinum}} in [[Mt. Coronet]] because [[Cyrus]] deemed their presence as a nuisance and attempted to bury them alive in a {{m|Rock Slide}} with his Probopass and {{p|Magnezone}}. Diamond and Pearl would later fight to keep the criminal mastermind from taking his camera back to his headquarters, during which Cyrus used his Probopass' {{m|Magnet Bomb}} to injure the former.
+
+[[Wikstrom]]'s Probopass first appeared in ''[[PAXY32|Malamar Traps]]''.
+
+==In the TCG==
+{{main|Probopass (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock|type2=Steel}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=It exudes strong magnetism from all over. It controls three small units called Mini-Noses.}}
+{{Dex/Entry1|v=Platinum|entry=It freely controls three small units called Mini-Noses using magnetic force.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It controls three units called Mini-Noses using magnetic force. With them, it can attack the foe from three directions.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It freely controls three small units called Mini-Noses using magnetic force.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It freely controls three units called Mini-Noses using magnetic force.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It exudes strong magnetism from all over. It controls three small units called Mini-Noses.}}
+{{Dex/Entry1|v=Y|entry=It freely controls three small units called Mini-Noses using magnetic force.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It exudes strong magnetism from all over. It controls three small units called Mini-Noses.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It freely controls three small units called Mini-Noses using magnetic force.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It radiates such a powerful magnetic field that nearby electrical appliances become unusable.}}
+{{Dex/Entry1|v=Moon|entry=The main body controls three mobile units called Mini-Noses, which it maneuvers to catch prey.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Although it can control its units known as Mini-Noses, they sometimes get lost and don't come back.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It uses three small units to catch prey and battle enemies. The main body mostly just gives orders.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Steel}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Nosepass}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Nosepass}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Nosepass}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Nosepass}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Nosepass}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Nosepass}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Nosepass}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Steel}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Chroma Ruins]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Rocky Cave]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Mitonga Road]], [[Fire Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#Working Gears|Model Train Room: Working Gears]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 2|Pitch-Black Cavern: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 284]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Murky Cavern|Dark Land: Murky Cavern]] <small>(Back Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|type2=Steel
+|HP=      60
+|Attack=  55
+|Defense=145
+|SpAtk=   75
+|SpDef=  150
+|Speed=   40}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Rock
+|type2=Steel
+|Speed=2
+|SpeedMax=2
+|Power=3
+|PowerMax=5
+|Technique=1
+|TechniqueMax=4
+|Stamina=4
+|StaminaMax=5
+|Jump=3
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Steel
+|Normal=   25
+|Fighting=400
+|Flying=   25
+|Poison=    0
+|Ground=  400
+|Rock=     50
+|Bug=      50
+|Ghost=   100
+|Steel=   100
+|Fire=    100
+|Water=   200
+|Grass=   100
+|Electric=100
+|Psychic=  50
+|Ice=      50
+|Dragon=   50
+|Dark=    100
+|Fairy=    50
+|notes=yes
+|steel=yes
+|newpoison=½
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Probopass|Rock|Steel|4}}
+{{learnlist/level7|1|Tri Attack|Normal|Special|80|100|10}}
+{{learnlist/level7|1|Magnetic Flux|Electric|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Magnet Rise|Electric|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Gravity|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|1|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|1|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|1|Magnet Bomb|Steel|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Tri Attack|Normal|Special|80|100|10}}
+{{learnlist/level7|4|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|7|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|10|Magnet Bomb|Steel|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|13|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/level7|16|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|19|Spark|Electric|Physical|65|100|20}}
+{{learnlist/level7|22|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level7|25|Power Gem|Rock|Special|80|100|20||'''}}
+{{learnlist/level7|28|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/level7|31|Discharge|Electric|Special|80|100|15}}
+{{learnlist/level7|34|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|37|Earth Power|Ground|Special|90|100|10}}
+{{learnlist/level7|40|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level7|43|Lock-On|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|43|Zap Cannon|Electric|Special|120|50|5}}
+{{learnlist/levelf/7|Probopass|Rock|Steel|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Probopass|Rock|Steel|4}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Probopass|Rock|Steel|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Probopass|Rock|Steel|4}}
+{{learnlist/breed7|{{MSP|185|Sudowoodo}}{{MSP|299|Nosepass}}{{MSP|476|Probopass}}|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|075|Graveler}}{{MSP|075A|Graveler}}{{MSP|076|Golem}}{{MSP|076A|Golem}}<br>{{MSP|095|Onix}}{{MSP|208|Steelix}}{{MSP|185|Sudowoodo}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|557|Dwebble}}{{MSP|562|Yamask}}|Endure|Normal|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|075|Graveler}}{{MSP|076|Golem}}|Magnitude|Ground|Physical|&mdash;|100|30}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|075|Graveler}}{{MSP|075A|Graveler}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Rollout|Rock|Physical|30|90|20||'''}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|075|Graveler}}{{MSP|075A|Graveler}}{{MSP|076|Golem}}{{MSP|076A|Golem}}<br>{{MSP|095|Onix}}{{MSP|208|Steelix}}{{MSP|524|Roggenrola}}{{MSP|525|Boldore}}{{MSP|526|Gigalith}}{{MSP|557|Dwebble}}<br>{{MSP|558|Crustle}}|Stealth Rock|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Probopass|Rock|Steel|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Probopass|Rock|Steel|4}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutorf/7|Probopass|Rock|Steel|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Probopass|Rock|Steel|4}}
+{{learnlist/prevo7|299|Nosepass|||||Harden|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/prevo7|299|Nosepass|||||Rock Throw|Rock|Physical|50|90|15|'''}}
+{{learnlist/prevof/7|Probopass|Rock|Steel|4}}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Steel}}
+{{Spindata/MDTDS|col=6|type=Rock|ndex=476
+|body=1
+|rate=8.2
+|IQ=E
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Rock
+|group=Rock
+|assist=Rock
+|field=Crush
+|fieldpower=4
+|browser=It hurls {{m|Magnet Bomb|magnetic hunks}}. It also triggers {{m|Rock Slide|rockfalls}} to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Rock
+|group=Rock
+|assist=Rock
+|field=Tackle
+|fieldpower=3
+|browser=It triggers rockfalls around itself that make Pokémon Tired.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Rock
+|att=2
+|def=5
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Rock
+|att=2
+|def=5
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Rock|ndex=476
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=476|num=407
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Stabilize+
+|skilldesc=Sometimes erases two of the foe's disruptions on the board.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Rock
+|type2=Steel
+|pictype=art
+|no1=299
+|name1=Nosepass
+|type1-1=Rock
+|evo1={{bag|Town Map}}<br>{{color2|000|Level|Level up}}<br>in areas with a<br>{{color2|000|special magnetic field}}
+|no2=476
+|name2=Probopass
+|type1-2=Rock
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock|type2=Steel}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=476}}
+{{Spritebox/5|ndex=476}}
+{{Spritebox/6|ndex=476}}
+{{Spritebox/7|ndex=476}}
+{{Spritebox/Footer|476|Probopass}}
+
+==Trivia==
+* Probopass is tied with {{p|Registeel}} and Shield Forme {{p|Aegislash}} for the highest base {{stat|Special Defense}} stat of all {{type|Steel}} Pokémon.
+* As there is no strongly electromagnetic location in {{game|HeartGold and SoulSilver|s}}, it is impossible to evolve Nosepass into a Probopass in these games. The same applies for {{p|Magnezone}}, {{p|Leafeon}}, and {{p|Glaceon}}. All have to be traded from {{game2|Diamond|Pearl|Platinum}} to be obtained.
+* Due to [[List of censored words in Pokémon Black and White Versions|the censor]] that prevents Pokémon with offensive [[nickname]]s being traded on the [[GTS]], an English language Probopass cannot be traded on the GTS without a nickname in {{game|Black and White|s}}.
+* In ''[[XY104|A Windswept Encounter!]]'' [[Clemont (anime)|Clemont]] uses [[List of Clemont's inventions|a machine]] that detects Pokémon flowers which resembles a Probopass but without the moustache nor the Mini-Noses.
+
+===Origin===
+{{bulbanews|On the Origin of Species: Nosepass and Probopass}}
+Probopass is based on the {{wp|pukau}}-wearing {{wp|moai}} statues of {{wp|Easter Island}} and a compass magnet with {{wp|iron filings}} attached to it. All of Probopass's noses are like the needles in a {{wp|compass rose}}, with the big nose pointing North (as in some compasses where the North needle is the biggest), and the Mini-Noses pointing to the East, South, and West, respectively.
+
+====Name origin====
+Probopass may be a combination of ''{{wp|proboscis}}'' and ''{{wp|compass}}''.
+
+Dainose may be a combination of 大 ''dai'' (big) and ''nose''.
+
+==In other languages==
+{{Other languages|type=Rock|type2=Steel
+|ja=ダイノーズ ''Dainose''|jameaning=From {{tt|大 ''dai''|big}}, ''nose'', ''north'' and ''compass''
+|fr=Tarinorme|frmeaning=From ''{{tt|tarin|slang for nose}}'' and ''{{tt|énorme|huge}}''
+|es=Probopass|esmeaning=Same as English name
+|de=Voluminas|demeaning=From ''{{tt|voluminös|voluminous}}'' and ''{{tt|Nase|nose}}''
+|it=Probopass|itmeaning=Same as English name
+|ko=대코파스 ''Daekopas''|komeaning=From {{tt|대 (大) ''dae''|big, large}} and {{tt|코코파스 ''Kokopass''|Korean name of Nosepass}}. 대코 can be translated as "big nose".
+|zh_cmn=大朝北鼻 ''Cháoběibí''|zh_cmnmeaning=From {{tt|大 ''dà''|big}} and {{tt|朝北鼻 ''Cháoběibí''|Nosepass}}. Literally "Big north-facing nose" or "Big Nosepass".
+|ru=Пробопасс ''Probopass''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==External links==
+* {{wp|Nosepass and Probopass|Article on Wikipedia}}
+
+{{-}}
+{{PokémonPrevNext/Head|type=Rock|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=475|prev=Gallade|nextnum=477|next=Dusknoir}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational evolutions]]
+
+[[de:Voluminas]]
+[[fr:Tarinorme]]
+[[it:Probopass]]
+[[ja:ダイノーズ]]
+[[pl:Probopass]]
+[[zh:大朝北鼻]]

@@ -1,0 +1,453 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=420|prev=Cherubi|nextnum=422|next=Shellos}}
+|}
+{{Pokémon Infobox
+|name=Cherrim
+|jname=チェリム
+|jtranslit=Cherimu
+|tmname=Cherrim
+|forme=2
+|form1=Overcast Form
+|form2=Sunshine Form
+|image=421Cherrim-Overcast.png
+|image2=421Cherrim-Sunny.png
+|ndex=421
+|sdex=059
+|abrow=048
+|obrow=132
+|type1=Grass
+|category=Blossom
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=20.5
+|weight-kg=9.3
+|abilitylayout=1
+|ability1=Flower Gift
+|egggroupn=2
+|egggroup1=Fairy
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=158
+|oldexp=133
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|formcolors=yes
+|catchrate=75
+|body=07
+|pokefordex=cherrim
+|generation=4
+|friendship=70
+}}
+'''Cherrim''' ([[List of Japanese Pokémon names|Japanese]]: '''チェリム''' ''Cherrim'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Cherubi}} starting at [[level]] 25.
+
+Cherrim [[List of Pokémon with form differences#Cherrim|changes appearance]] in [[Harsh sunlight|sunny weather]].
+
+==Biology==
+Cherrim is a small Pokémon with two different forms, both of which are dependent on the [[weather]]. During normal weather conditions, Cherrim is in its Overcast Form. Two purple petals enclose its deep pink body. A short purple stem and a green leafy sepal sprout from the top of the petals. Its eyes appear to be near its short legs in this form.
+
+When there is strong sunlight, Cherrim is in its Sunshine Form. Pink petals similar to cherry blossoms surround its head and cover its chest. Several of the petals radiate outward from a yellow sphere on the back of its head. There is a small, triangular patch of green on its neck. Additionally, two berry-like orbs, resembling cherry-shaped hair ornaments, adorn its head. It has stubby limbs, with the arms being pink and the legs being yellow.
+
+Cherrim waits quietly as a bud for a ray of sunlight. When it is hit with strong sunlight, it blooms and absorbs the rays with its entire body. It quickly changes from quiet to excitable and active. It will attempt to make up for everything it had to endure as a bud while the sunlight lasts. Once the light is gone, Cherrim folds back into a bud.
+
+==In the anime==
+[[File:Verona Cherrim.png|thumb|220px|left|Overcast Form Cherrim in the {{pkmn|anime}}]]
+[[File:Cherrim anime.png|thumb|220px|left|Sunshine Form Cherrim in the anime]]
+===Major appearances===
+Cherrim made its main series debut in ''[[DP095|Battling the Generation Gap!]]'', under the ownership of [[Lila]], a famous [[Pokémon Stylist]]. It was used in the [[Appeal|Performance Stage]] of the {{to|Celestic}} {{pkmn|Contest}}, after Lila decided to enter a Contest again upon remembering her days as a {{pkmn|Coordinator}}.
+
+A Cherrim was among the Grass-type Pokémon attempting to save an old tree in ''[[DP134|Promoting Healthy Tangrowth]]''.
+
+===Minor appearances===
+Multiple Cherrim debuted in ''[[M10|The Rise of Darkrai]]'', where they were seen residing in a garden in [[Alamos Town]].
+
+Three {{pkmn2|wild}} Cherrim appeared in ''[[DP121|The Lonely Snover!]]''.
+
+Multiple Cherrim briefly appeared in ''[[DP176|Coming Full-Festival Circle!]]''.
+{{-}}
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP095|Cherrim|Ash's Pokédex|Cherrim, the Blossom Pokémon. Cherrim stays quiet until its flowers bloom when it becomes quite excitable.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Platinum Cherrim Sunny Adventures.png|thumb|170px|left|Sunshine Form Cherrim in [[Pokémon Adventures]]]]
+[[File:Platinum Cherrim.png|thumb|130px|Overcast Form Cherrim in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Trainer's Cherrim appeared in ''[[PS361|Bombastic Bibarel & Heroic Hippopotas]]''.
+
+{{adv|Platinum}} received a Cherrim from [[Gardenia]] in ''[[PS413|Double Trouble with Dialga and Palkia III]]''. When escaping the [[Distortion World]] in the {{chap|Platinum}}, Platinum's Cherrim changed to her Sunshine Form.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+A Cherrim appeared in a fantasy in ''[[DPA03|The Mystery Boy, Jun!!]]''.
+
+Multiple Cherrim appeared in a flashback in ''[[DPAS1|Deoxys, The Phantom Pokémon! (Part 1)]]''.
+{{-}}
+
+==In the TCG==
+{{main|Cherrim (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It blooms during times of strong [[Harsh sunlight|sunlight]]. It tries to make up for everything it endured as a bud.}}
+{{Dex/Entry1|v=Pearl|entry=It is docile as a bud, but turns cheerful when it blooms. It folds back into a bud if sunlight wanes.}}
+{{Dex/Entry1|v=Platinum|entry=If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.}}
+{{Dex/Entry1|v=Y|entry=If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Cherubi}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Cherubi}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Cherubi}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|12|Unova}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Mirage Forests|Mirage Forest]] (north of [[Lilycove City]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Treeshroud Forest]] (1F-9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Treeshroud Forest]] (1F-9F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Peril Cliffs]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie‎]]}}
+{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=[[Evolution|Evolve]] {{p|Cherubi}}}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Latolato Trail]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Everspring Valley]] (Overcast), [[Shimmering Lake]] (Sunshine)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Grab and Go!|Adventure Area: Grab and Go!]], [[Flower Garden#The Garden at the End of Time|Flower Garden: The Garden at the End of Time]],<br>[[Verdant Plaza#Four Seasons in the Forest|Verdant Plaza: Four Seasons in the Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 3|Safari Jungle: Stage 3]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Zaffiro Coast|Zaffiro Coast: Stage 617]]<br>Event: [[Special Stages#First release|''Pokémon Safari'']] <small>(First release)</small><br>Event: [[Special Stages#25th release|''Pokémon Safari'']] <small>(25th release; Winking)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Flowery Wooded Dell|Fairy Land: Flowery Wooded Dell]] <small>(All Areas)</small>, [[Distortion Land#Breezy Grasslands|Distortion Land: Breezy Grasslands]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=Grass
+|bw1=Miracle Seed|bw1type=None|bw1rar=5
+|oras1=Miracle Seed|oras1type=None|oras1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=70
+|Attack=60
+|Defense=70
+|SpAtk=87
+|SpDef=78
+|Speed=85}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|Speed=3
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=4
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=  100
+|Fighting=100
+|Flying=  200
+|Poison=  200
+|Ground=   50
+|Rock=    100
+|Bug=     200
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Cherrim|Grass|Grass|4}}
+{{learnlist/level7|1|Petal Dance|Grass|Special|120|100|10||'''}}
+{{learnlist/level7|1|Morning Sun|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Petal Dance|Grass|Special|120|100|10||'''}}
+{{learnlist/level7|7|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|10|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|13|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|19|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/level7|22|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|30|Worry Seed|Grass|Status|&mdash;|100|10}}
+{{learnlist/level7|35|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|43|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/level7|48|Lucky Chant|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|50|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/levelf/7|Cherrim|Grass|Grass|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Cherrim|Grass|Grass|4}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Cherrim|Grass|Grass|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Cherrim|Grass|Grass|4}}
+{{learnlist/breed7|{{MSP|045|Vileplume}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|315|Roselia}}{{MSP|682|Spritzee}}{{MSP|683|Aromatisse}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}{{MSP|742|Cutiefly}}<br>{{MSP|743|Ribombee}}{{MSP|764|Comfey}}|Aromatherapy|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|039|Jigglypuff}}{{MSP|040|Wigglytuff}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|777|Togedemaru}}|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|192|Sunflora}}{{MSP|764|Comfey}}|Flower Shield|Fairy|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|303|Mawile}}{{MSP|312|Minun}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}|Grass Whistle|Grass|Status|&mdash;|55|15}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|407|Roserade}}{{MSP|764|Comfey}}|Grassy Terrain|Grass|Status|—|—|10|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|531|Audino}}{{MSP|683|Aromatisse}}|Heal Pulse|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}|Healing Wish|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}{{MSP|357|Tropius}}<br>{{MSP|764|Comfey}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|270|Lotad}}{{MSP|271|Lombre}}{{MSP|272|Ludicolo}}{{MSP|273|Seedot}}{{MSP|274|Nuzleaf}}|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}<br>{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|274|Nuzleaf}}<br>{{MSP|275|Shiftry}}{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|459|Snover}}<br>{{MSP|460|Abomasnow}}{{MSP|546|Cottonee}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/breed7|{{MSP|039|Jigglypuff}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|777|Togedemaru}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|103|Exeggutor}}{{MSP|103A|Exeggutor}}{{MSP|191|Sunkern}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|182|Bellossom}}<br>{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|303|Mawile}}{{MSP|315|Roselia}}{{MSP|407|Roserade}}{{MSP|357|Tropius}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|682|Spritzee}}{{MSP|683|Aromatisse}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}{{MSP|742|Cutiefly}}<br>{{MSP|743|Ribombee}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}|Sweet Scent|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|351|Castform}}{{MSP|407|Roserade}}|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/breedf/7|Cherrim|Grass|Grass|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Cherrim|Grass|Grass|4}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Cherrim|Grass|Grass|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Cherrim|Grass|Grass|4}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Cherrim|Grass|Grass|4}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/MDTDS|col=6|type=Grass|ndex=421
+|body=2
+|rate=1.5
+|IQ=B
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Tackle
+|fieldpower=2
+|browser=It scatters leaves and seeds to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=2
+|past=NA
+|browser=It launches leaf blades around itself.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Grass|ndex=421
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Grass|ndex=421S|num=231
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Quirky+
+|skilldesc=Sometimes erases two extra matching Pokémon elsewhere.
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=421Winking|num=231
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Three Force
+|skilldesc=Increases damage when you make a match of three.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Grass
+|pictype=art
+|no1=420
+|name1=Cherubi
+|type1-1=Grass
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 25}}
+|no2=421
+|name2=Cherrim
+|type1-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/2Forms|ndex=421|form1=S}}
+{{Spritebox/5/2Forms|ndex=421|form1=S}}
+{{Spritebox/6/2Forms|ndex=421|form1=S}}
+{{Spritebox/7/2Forms|ndex=421|form1=S}}
+{{Spritebox/Footer|421|Cherrim}}
+
+==Trivia==
+* While Cherrim's forms are called Overcast Form and Sunshine Form in English, the Japanese names of its forms use 「フォルム」 ''form'', which is otherwise only used in the names of forms which are localized as ''Forme''.
+* Cherrim and {{p|Castform}} are the only Pokémon whose alternate forms cannot be viewed in the [[Pokédex]] in {{3v2|Diamond|Pearl|Platinum}}. Only the Overcast Form and its {{DL|Gender|gender differences}} (though it has none) are available, but it is not labeled as such.
+
+===Origin===
+It appears that Cherrim's reaction to light is based on {{wp|Nastic movements|photonastic flowers}}. Cherrim Sunshine Form seems to be based on {{wp|cherry blossom}}s, flowers that are particularly {{wp|Prunus serrulata|symbolic of Japan}}.
+
+====Name origin====
+Cherrim is a combination of ''cherry'' and ''cherubim'' or ''blossom''. It may also involve ''{{wp|cherimoya}}'' (a fruit-bearing tree) or ''tirim'' (Irish for ''dry'', as in dry weather).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=チェリム ''Cherrim''|jameaning=From ''cherry'' and ''cherubim''
+|de=Kinoso|demeaning=From {{tt|''Kirsche''|cherry}}, {{tt|''Knospe''|bud}}, and {{tt|''Sonne''|sun}}
+|fr=Ceriflor|frmeaning=From {{tt|''cerise''|cherry}} and {{tt|''flore''|flora}}
+|es=Cherrim|esmeaning=Same as English name
+|it=Cherrim|itmeaning=Same as English name
+|ko=체리꼬 ''Cheriko''|komeaning=From {{tt|체리 ''cheri''|cherry}} and {{tt|꽃 ''kkot''|flower}}
+|zh_yue=櫻花兒 ''Yīngfāyìh''|zh_yuemeaning=From {{tt|櫻花 ''yīngfā''|cherry blossom}} and {{tt|兒 ''yìh''|child}}
+|zh_cmn=櫻花兒 / 樱花儿 ''Yīnghuā'ér''|zh_cmnmeaning=From {{tt|櫻花 / 樱花 ''yīnghuā''|cherry blossom}} and {{tt|兒 / 儿 ''ér''|child}}
+|ru=Черрим ''Cherrim''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+{| style="float:left"
+|- style="vertical-align:top"
+|
+''Overcast Form''
+{{langtable|color={{grass color}}|bordercolor={{poison color dark}}
+|ja=ネガフォルム ''Nega-Forme''
+|zh_yue=陰天形態 ''{{tt|Yāmtīn Yìhngtaai|Overcast Forme}}'' {{tt|*|Games}}<br>陰天型態 ''{{tt|Yāmtīn Yìhngtaai|Overcast Forme}}'' {{tt|*|Pre-Gen VII Media}}
+|zh_cmn=陰天形態 / 阴天形态 ''{{tt|Yīntiān Xíngtài|Overcast Forme}}'' {{tt|*|Games}}<br>陰天型態 ''{{tt|Yīntiān Xíngtài|Overcast Forme}}'' {{tt|*|Pre-Gen VII Media (Taiwan)}}
+|de=Wolkenform
+|fr=Temps Couvert
+|it=Forma Nuvola
+|ko=네거폼 ''Nega-Forme''
+|vi=Dạng âm u
+|es=Forma Encapotado}}
+|
+''Sunshine Form''
+{{langtable|color={{grass color}}|bordercolor={{fairy color dark}}
+|ja=ポジフォルム ''Posi-Forme''
+|zh_yue=晴天形態 ''{{tt|Chìhngtīn Yìhngtaai|Sunny Forme}}'' {{tt|*|Games}}<br>晴天型態 ''{{tt|Chìhngtīn Yìhngtaai|Sunny Forme}}'' {{tt|*|Pre-Gen VII Media}}
+|zh_cmn=晴天形態 / 阴天形态 ''{{tt|Qíngtiān Xíngtài|Sunny Forme}}'' {{tt|*|Games}}<br>晴天型態 ''{{tt|Qíngtiān Xíngtài|Sunny Forme}}'' {{tt|*|Pre-Gen VII Media (Taiwan)}}
+|de=Sonnenform
+|fr=Temps Ensoleillé
+|it=Forma Splendore
+|ko=포지폼 ''Posi-Forme''
+|vi=Dạng quang đãng
+|es=Forma Soleado}}
+|}{{-}}
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=420|prev=Cherubi|nextnum=422|next=Shellos}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pink-colored Pokémon]]<!--Sunshine Form-->
+
+[[de:Kinoso]]
+[[fr:Ceriflor]]
+[[it:Cherrim]]
+[[ja:チェリム]]
+[[pl:Cherrim]]
+[[zh:樱花儿]]

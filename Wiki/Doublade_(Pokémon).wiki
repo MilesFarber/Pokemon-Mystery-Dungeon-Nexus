@@ -1,0 +1,312 @@
+{{PokémonPrevNext/Head|type=Steel|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=679|prev=Honedge|nextnum=681|next=Aegislash}}
+|}
+{{Pokémon Infobox
+|name=Doublade
+|jname=ニダンギル
+|jtranslit=Nidangiru
+|tmname=Nidangill
+|category=Sword
+|typebox=1
+|type1=Steel
+|type2=Ghost
+|abilityn=1
+|abilitylayout=1
+|ability1=No Guard
+|ndex=680
+|karea=Central
+|kdex=118
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=9.9
+|weight-kg=4.5
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evtotal=2
+|evde=2
+|expyield=157
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=90
+|body=11
+|pokefordex=doublade
+|generation=6
+|friendship=70
+}}
+'''Doublade''' ([[List of Japanese Pokémon names|Japanese]]: '''ニダンギル''' ''Nidangill'') is a dual-type {{2t|Steel|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[evolution|evolves]] from {{p|Honedge}} starting at [[level]] 35 and evolves into {{p|Aegislash}} when exposed to a [[Dusk Stone]].
+
+==Biology==
+Doublade resembles two swords sheathed on a plaque. Each sword has a pink eye with a black, linear pupil on the hilt, as well as a pink, tassel-like arm emerging from the handle. The swords are able to communicate telepathically, and they use this ability to carry out complex attacks that are unstoppable even to those skilled at swordplay.
+
+==In the anime==
+[[File:Sawyer Doublade.png|thumb|left|250px|Doublade in the {{pkmn|anime}}]]
+===Major appearances===
+Doublade debuted in ''[[M17|Diancie and the Cocoon of Destruction]]'', under the ownership of [[Argus Steel]].
+
+A Doublade made its main series debut in ''[[XY119|A Full-Strength Battle Surprise!]]'', under the ownership of [[Sawyer]], where it is revealed to have [[Evolution|evolved]] from his {{p|Honedge}}. It evolved into {{p|Aegislash}} sometime before ''[[XY126|Valuable Experience for All!]]''.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY119|Doublade|Ash's Pokédex|Doublade, the Sword Pokémon and the evolved form of Honedge. Doublade's attacks are so rapid and intricate, it is said to be impossible for even a master swordsman to stop them.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Celosia Doublade Adventures.png|thumb|200px|Doublade in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PAXY34|Charizard Transforms]]'', [[Celosia]] used a Doublade in her battle against {{adv|Shauna}} on the route to [[Pokémon Village]]. It was later used against Shauna again in ''[[PAXY38|Xerneas Gives]]'', only to be defeated by Shauna's Kitty.
+
+==In the TCG==
+{{main|Doublade (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=steel|type2=ghost}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.}}
+{{Dex/Entry1|v=Y|entry=The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=When Honedge evolves, it divides into two swords, which cooperate via telepathy to coordinate attacks and slash their enemies to ribbons.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=steel|type2=ghost}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Honedge}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Honedge}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Honedge}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Steel|type2=Ghost}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 4|Blade-and-Shield Path: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Pedra Valley|Pedra Valley: Stage 195]]<br>[[Marron Trail|Marron Trail: Stage 675]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Royal Armory|Dark Land: Royal Armory]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Steel
+|type2=Ghost
+|HP=     59
+|Attack= 110
+|Defense=150
+|SpAtk=  45
+|SpDef=  49
+|Speed=  35}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Steel
+|type2=Ghost
+|Normal=    0
+|Flying=  50
+|Fighting=  0
+|Ground=  200
+|Rock=     50
+|Bug=      25
+|Poison=    0
+|Ghost=   200
+|Steel=    50
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic=  50
+|Ice=      50
+|Dragon=   50
+|Dark=    200
+|Fairy=50
+|notes=yes
+|ghost=yes
+|newfighting=2
+|newnormal=½
+|steel=yes
+|newpoison=½
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Doublade|Steel|Ghost|6}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/level7|5|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/level7|8|Metal Sound|Steel|Status|&mdash;|85|40}}
+{{learnlist/level7|13|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|18|Autotomize|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|20|Shadow Sneak|Ghost|Physical|40|100|30||'''}}
+{{learnlist/level7|22|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/level7|26|Retaliate|Normal|Physical|70|100|5}}
+{{learnlist/level7|29|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|32|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|36|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/level7|41|Power Trick|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|45|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level7|51|Sacred Sword|Fighting|Physical|90|100|15}}
+{{learnlist/levelf/7|Doublade|Steel|Ghost|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Doublade|Steel|Ghost|6}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Doublade|Steel|Ghost|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Doublade|Steel|Ghost|6}}
+{{learnlist/breed7|{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Destiny Bond|Ghost|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|679|Honedge}}{{MSP|680|Doublade}}{{MSP|707|Klefki}}|Metal Sound|Steel|Status|&mdash;|85|40}}
+{{learnlist/breed7|{{MSP|679|Honedge}}{{MSP|680|Doublade}}{{MSP|681|Aegislash}}|Shadow Sneak|Ghost|Physical|40|100|30||'''}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Doublade|Steel|Ghost|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Doublade|Steel|Ghost|6}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Doublade|Steel|Ghost|6}}
+
+====By a prior [[evolution]]====
+{{Learnlist/prevoh/7|Doublade|Steel|Ghost|6}}
+{{Learnlist/prevo7null}}
+{{Learnlist/prevof/7|Doublade|Steel|Ghost|6}}
+
+===Side game data===
+{{Spindata/Head|type=Steel|type2=Ghost}}
+{{Template:Spindata/Battle Trozei|col=6|type=Steel|ndex=680
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Steel|ndex=680|num=204
+|min=60
+|max=120
+|raisemaxlevel=10
+|skill=Hitting Streak
+|skilldesc=Increases damage when it is triggered in a row.
+|swapper=Power of 4+, Barrier Shot
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=steel
+|type2=ghost
+|pictype=art
+|no1=679
+|name1=Honedge
+|type1-1=Steel
+|type2-1=Ghost
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 35}}
+|no2=680
+|name2=Doublade
+|type1-2=Steel
+|type2-2=Ghost
+|evo2={{bag|Dusk Stone}}<br>{{color2|000|Dusk Stone}}
+|no3=681
+|name3=Aegislash
+|type1-3=Steel
+|type2-3=Ghost
+}}
+
+===Sprites===
+{{Spritebox/Header|type=steel|ghost}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=680}}
+{{Spritebox/7|ndex=680}}
+{{Spritebox/Footer|680|Doublade}}
+
+==Trivia==
+* Doublade is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 448.
+* No other Pokémon has the same [[List of Pokémon with unique type combinations|type combination]] as Doublade or its {{p|Honedge|evolutionary}} {{p|Aegislash|relatives}}.
+* Doublade, along with its {{p|Honedge|evolutionary}} {{p|Aegislash|relatives}}, were designed by [[Hitoshi Ariga]].<ref>[http://hitoshiariga.deviantart.com/art/Pocket-Monsters-XY-413536751 Pocket Monsters XY by HitoshiAriga on deviantART]</ref>
+
+===Origin===
+Doublade appears to be based conceptually on a pair of fully sentient, possessed {{wp|magic sword|magical sword}}s. Considering the crossed swords and {{wp|shield}} connecting the Pokémon together, it is probably based on a {{wp|coat of arms}}. The fact that it started off as an ordinary sword as a {{p|Honedge}} may mean it could be based on the {{wp|bushido}} mythos behind {{wp|katana}} use; katanas possessed the user {{wp|samurai}}'s soul and attacked of its own free will. Visually, considering its build and hilt, Doublade seems to be based on a pair of either {{wp|spatha}}, {{wp|claymore}}, or possibly {{wp|jian}} swords with their own {{wp|scabbard}}s, {{wp|Hilt#Sword knot|tassel}}-like prehensile limbs, and a shared shield connecting its scabbards together.
+
+====Name origin====
+Doublade is a combination of ''double'' and ''blade''.
+
+Nidangill may be a combination of 二 ''ni'' (two), 断 ''dan'' (to sever), and 斬る ''kiru'' (to slay with a blade) or ''kill''.
+
+==In other languages==
+{{Other languages|type=Steel|type2=Ghost
+|ja=ニダンギル ''Nidangill''|jameaning=Possibly {{tt|二 ''ni''|two}}, {{tt|断 ''dan'' |to sever}}, and {{tt|斬る ''kiru''|to slay with a blade}} or ''kill''
+|fr=Dimoclès|frmeaning=From ''{{tt|di-|Prefix for &quot;two&quot;}}'' and ''{{wp|Damocles}}''
+|es=Doublade|esmeaning=Same as English name
+|de=Duokles|demeaning=From ''duo'' and ''{{tt|Damokles|Damocles}}''
+|it=Doublade|itmeaning=Same as English name
+|ko=쌍검킬 ''Ssanggeomkil''|komeaning=From {{tt|쌍 (雙) ''ssang''|pair, twin}}, {{tt|검 (劍) ''geom''|sword}}, and ''kill''
+|zh_cmn=雙劍鞘 ''Shuāngjiànqiào''|zh_cmnmeaning=From {{tt|雙 ''shuāng''|double}}, {{tt|劍 ''jiàn''|sword}}, and {{tt|鞘 ''qiào''|sheath}}
+|zh_yue=雙劍鞘 ''Sēunggimchiu''|zh_yuemeaning=From {{tt|雙 ''sēung''|double}}, {{tt|劍 ''gim''|sword}}, and {{tt|鞘 ''chiu''|sheath}}
+|hi=डबलेड ''Doublade''|himeaning=Transcription of English name
+|ru=Дублейд ''Dubleyd''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Steel|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=679|prev=Honedge|nextnum=681|next=Aegislash}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve using Dusk Stone]]
+[[Category:Pokémon that evolve by evolutionary stone]]
+
+[[de:Duokles]]
+[[fr:Dimoclès]]
+[[it:Doublade]]
+[[ja:ニダンギル]]
+[[pl:Doublade]]
+[[zh:双剑鞘]]

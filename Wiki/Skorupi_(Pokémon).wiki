@@ -1,0 +1,430 @@
+{{PokémonPrevNext/Head|type=Poison|type2=Bug}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=450|prev=Hippowdon|nextnum=452|next=Drapion}}
+|}
+{{Pokémon Infobox
+|name=Skorupi
+|jname=スコルピ
+|jtranslit=Sukorupi
+|tmname=Scorpi
+|ndex=451
+|sdex=127
+|u2dex=201
+|karea=Mountain
+|kdex=015
+|abrow=173
+|obrow=262
+|opbrow=050
+|typebox=1
+|type1=Poison
+|type2=Bug
+|category=Scorpion
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=26.5
+|weight-kg=12.0
+|abilityn=d
+|ability1=Battle Armor
+|ability2=Sniper
+|abilityd=Keen Eye
+|egggroupn=2
+|egggroup1=Bug
+|egggroup2=Water 3
+|eggcycles=20
+|evtotal=1
+|evde=1
+|expyield=66
+|oldexp=114
+|lv100exp=1,250,000
+|gendercode=127
+|color=Purple
+|catchrate=120
+|body=14
+|pokefordex=skorupi
+|generation=4
+|friendship=70
+}}
+'''Skorupi''' ([[List of Japanese Pokémon names|Japanese]]: '''スコルピ''' ''Scorpi'') is a dual-type {{2t|Poison|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolve]]s into {{p|Drapion}} starting at [[level]] 40.
+
+==Biology==
+Skorupi resembles an over-sized, pale purple scorpion. Its claws and tail have been swapped, giving it two stingers and a claw tail. The miniature jaws, claws, and tail claws are white. Its arms are attached directly to its head, close to its teal eyes. A pointed marking joins its eyes. The head, arms, two tail segments, and all four legs are light blue, while the body, tail end, and other two tail segments are a darker shade of blue.
+
+It buries itself in sand and lies in wait for unsuspecting prey, gripping it with its tail claws and injecting poison; it will then hold on until the poison takes effect. Skorupi is found in deserts and dry areas like [[Reversal Mountain]], though it can be found in marshy areas such as the [[Great Marsh]].
+
+==In the anime==
+[[File:Team Flare Skorupi.png|thumb|left|250px|Skorupi in the {{pkmn|anime}}]]
+===Major appearances===
+Skorupi debuted in ''[[DP099|A Trainer and Child Reunion!]]'', under the ownership of {{EF|Aaron}}.
+
+Multiple Skorupi appeared in ''[[XY094|From A to Z!]]'', ''[[XY102|Meeting at Terminus Cave!]]'', ''[[XY107|An Explosive Operation!]]'', and ''[[XY132|A Towering Takeover!]]'', all under the ownership of {{tc|Team Flare Grunt}}s.
+
+===Minor appearances===
+A {{pkmn|Coordinator}}'s Skorupi appeared in ''[[DP114|Another One Gabites the Dust!]]'', where it was seen participating in the [[Appeal|Performance Stage]] of the {{to|Chocovine}} {{pkmn|Contest}}.
+
+A Skorupi was seen at the [[Shelter Town]]'s [[Pokémon Center]] in ''[[DP125|Battling a Cute Drama!]]''.
+
+A Skorupi appeared in ''[[DP140|Historical Mystery Tour!]]''.
+
+==In the manga==
+[[File:Skorupi Adventures.png|thumb|left|115px|Skorupi in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PS364|A Skuffle with Skorupi]]'', {{adv|Platinum}} tried to catch a Skorupi in the [[Great Marsh]], but she failed and it fled.
+
+[[Team Rocket Elite Trio|Ken]]'s Skorupi first appeared in ''[[PS457|All About Arceus VI]]''.
+
+==In the TCG==
+{{main|Skorupi (TCG)}}
+
+==Game data==
+===NPC appearances===
+{{g|Mystery Dungeon: Explorers of Sky}}: In the Special Episode [[Igglybuff the Prodigy]], Skorupi was a local bully that {{mdc|Wigglytuff|2}}, then an Igglybuff, befriended by giving him and his friend {{p|Banette}} the [[Gummi]]s they demanded, and also going with them to explore the [[Murky Forest]].
+
+===Pokédex entries===
+{{Dex/Header|type=Poison|type2=Bug}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.}}
+{{Dex/Entry1|v=Pearl|entry=It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey.}}
+{{Dex/Entry1|v=Platinum|entry=As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It lives in arid regions and can go without food for a year while waiting for prey.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.}}
+{{Dex/Entry1|v=Y|entry=It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Poison|type2=Bug}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Great Marsh]]}}
+{{Availability/Entry1|v=Platinum|area=[[Great Marsh]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Reversal Mountain]]<br>{{rt|13|Unova}} ([[Hidden Grotto]]){{tt|*|Hidden Grotto near the Giant Chasm}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Rugged Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Route]]s {{rtn|14|Kalos}}, {{rtn|15|Kalos}}, and {{rtn|16|Kalos}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{rt|114|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{pkmn|breeding|Breed}} {{p|Drapion}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Poison|type2=Bug}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Quicksand Cave]] (B1-B10, Quicksand Pit B1-B5)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Quicksand Cave]] (B1-B10, Quicksand Pit B1-B5)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Haruba Desert]], [[Hippowdon Temple]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Eternal Tower]]}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Granite Zone]], [[Meeting Place]]{{tt|*|Cannot be befriended here}}}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Oblivia Ruins]], [[Light Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble|color={{fire color}}|area=Desert: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Chrysalia]], [[Cragspur]], [[Viperia]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#All Aboard!|Model Train Room: All Aboard!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 1|Infinite Ruins: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 343]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Sky Crest Range|Legend Terrain: Sky Crest Range]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Poison|type2=Bug
+|dppt1=Poison Barb|dppt1type=None|dppt1rar=5
+|hgss1=Poison Barb|hgss1type=None|hgss1rar=5
+|b2w21=Poison Barb|b2w21type=None|b2w21rar=5
+|xy1=Poison Barb|xy1type=None|xy1rar=5
+|oras1=Poison Barb|oras1type=None|oras1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Poison
+|type2=Bug
+|HP=     40
+|Attack= 50
+|Defense=90
+|SpAtk=  30
+|SpDef=  55
+|Speed=  65}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Poison
+|type2=Bug
+|Speed=2
+|SpeedMax=2
+|Power=3
+|PowerMax=4
+|Technique=4
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Poison
+|type2=Bug
+|Normal=  100
+|Fighting= 25
+|Flying=  200
+|Poison=   50
+|Ground=  100
+|Rock=    200
+|Bug=      50
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    25
+|Electric=100
+|Psychic= 200
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy = 50}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Skorupi|Poison|Bug|4}}
+{{learnlist/level7|1|Bite|Dark|Physical|60|100|25||''}}
+{{learnlist/level7|1|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|5|Knock Off|Dark|Physical|65|100|20||''}}
+{{learnlist/level7|9|Pin Missile|Bug|Physical|25|95|20||'''}}
+{{learnlist/level7|13|Acupressure|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|16|Pursuit|Dark|Physical|40|100|20||''}}
+{{learnlist/level7|20|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|23|Poison Fang|Poison|Physical|50|100|15||'''}}
+{{learnlist/level7|27|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/level7|30|Hone Claws|Dark|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|34|Toxic Spikes|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|38|Night Slash|Dark|Physical|70|100|15||''}}
+{{learnlist/level7|41|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|45|Crunch|Dark|Physical|80|100|15||''}}
+{{learnlist/level7|47|Fell Stinger|Bug|Physical|50|100|25||'''}}
+{{learnlist/level7|49|Cross Poison|Poison|Physical|70|100|20||'''}}
+{{learnlist/levelf/7|Skorupi|Poison|Bug|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Skorupi|Poison|Bug|4}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10||''}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Skorupi|Poison|Bug|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Skorupi|Poison|Bug|4}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|167|Spinarak}}<br>{{MSP|168|Ariados}}{{MSP|283|Surskit}}{{MSP|284|Masquerain}}{{MSP|291|Ninjask}}{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}<br>{{MSP|545|Scolipede}}{{MSP|566|Archen}}{{MSP|567|Archeops}}{{MSP|595|Joltik}}{{MSP|596|Galvantula}}{{MSP|617|Accelgor}}<br>{{MSP|632|Durant}}{{MSP|738|Vikavolt}}|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|313|Volbeat}}{{MSP|345|Lileep}}{{MSP|346|Cradily}}|Confuse Ray|Ghost|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|328|Trapinch}}{{MSP|329|Vibrava}}{{MSP|330|Flygon}}{{MSP|557|Dwebble}}<br>{{MSP|558|Crustle}}|Feint Attack|Dark|Physical|60|&mdash;|20||''}}
+{{learnlist/breed7|{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|330|Flygon}}{{MSP|348|Armaldo}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}<br>{{MSP|545|Scolipede}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|566|Archen}}{{MSP|567|Archeops}}{{MSP|692|Clauncher}}<br>{{MSP|693|Clawitzer}}|Iron Tail|Steel|Physical|100|75|15|‡}}
+{{learnlist/breed7|{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|141|Kabutops}}{{MSP|214|Heracross}}{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}<br>{{MSP|402|Kricketune}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}{{MSP|469|Yanmega}}{{MSP|472|Gliscor}}{{MSP|688|Binacle}}<br>{{MSP|689|Barbaracle}}|Night Slash|Dark|Physical|70|100|15||''}}
+{{learnlist/breed7|{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}|Poison Tail|Poison|Physical|50|100|25||'''}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}{{MSP|451|Skorupi}}<br>{{MSP|452|Drapion}}{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}{{MSP|739|Crabrawler}}{{MSP|740|Crabominable}}|Pursuit|Dark|Physical|40|100|20||''}}
+{{learnlist/breed7|{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|290|Nincada}}{{MSP|291|Ninjask}}<br>{{MSP|328|Trapinch}}{{MSP|329|Vibrava}}{{MSP|330|Flygon}}{{MSP|557|Dwebble}}{{MSP|558|Crustle}}{{MSP|632|Durant}}<br>{{MSP|767|Wimpod}}{{MSP|768|Golisopod}}|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|072|Tentacool}}{{MSP|073|Tentacruel}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}<br>{{MSP|291|Ninjask}}{{MSP|329|Vibrava}}{{MSP|330|Flygon}}{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}<br>{{MSP|595|Joltik}}{{MSP|596|Galvantula}}|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/breed7|{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|141|Kabutops}}{{MSP|207|Gligar}}<br>{{MSP|472|Gliscor}}{{MSP|291|Ninjask}}{{MSP|347|Anorith}}{{MSP|348|Armaldo}}{{MSP|469|Yanmega}}{{MSP|542|Leavanny}}<br>{{MSP|557|Dwebble}}{{MSP|558|Crustle}}{{MSP|588|Karrablast}}{{MSP|589|Escavalier}}{{MSP|595|Joltik}}{{MSP|596|Galvantula}}<br>{{MSP|688|Binacle}}{{MSP|689|Barbaracle}}{{MSP|768|Golisopod}}|Slash|Normal|Physical|70|100|20}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|589|Escavalier}}|Twineedle|Bug|Physical|25|100|20||'''}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|267|Beautifly}}{{MSP|269|Dustox}}{{MSP|284|Masquerain}}{{MSP|637|Volcarona}}|Whirlwind|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breedf/7|Skorupi|Poison|Bug|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Skorupi|Poison|Bug|4}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutorf/7|Skorupi|Poison|Bug|4}}
+
+===Side game data===
+{{Spindata/Head|type=Poison|type2=Bug}}
+{{Spindata/MDTDS|col=6|type=Poison|ndex=451
+|body=1
+|rate=8.2
+|IQ=C
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Poison
+|group=Poison
+|assist=Poison
+|field=Crush
+|fieldpower=1
+|browser=It spits poison needles and a poisonous fluid to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Poison
+|group=Poison
+|assist=Poison
+|field=Crush
+|fieldpower=2
+|browser=It releases poison that makes Pokémon Tired.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Poison
+|att=1
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Poison
+|att=1
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Poison|ndex=451
+|Pad=Skorupi guards the ruins in the [[Granite Zone]]. He gave you a tip on how to open the Secret Door.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Poison|ndex=451
+|HP=1
+|atk=1
+|def=3
+|spd=3
+|range=3
+|move=Poison Jab
+|ability1=Battle Armor
+|ability2=Sniper
+|ability3=Shackle
+|evo=Evolves into {{p|Drapion}} when its Defense is 90 or higher
+|link={{DL|List of Pokémon Conquest characters|Kashinkoji}} and {{DL|List of Pokémon Conquest characters|Seikurō}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Poison|ndex=451
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Poison|ndex=451|num=448
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Counterattack
+|skilldesc=Deals even more damage the more disruptions there are.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Poison
+|type2=Bug
+|pictype=art
+|no1=451
+|name1=Skorupi
+|type1-1=Poison
+|type2-1=Bug
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 40}}
+|no2=452
+|name2=Drapion
+|type1-2=Poison
+|type2-2=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Poison|type2=Bug}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=451}}
+{{Spritebox/5|ndex=451}}
+{{Spritebox/6|ndex=451}}
+{{Spritebox/7|ndex=451}}
+{{Spritebox/Footer|451|Skorupi}}
+
+==Trivia==
+* Skorupi is the only Pokémon to have its {{t|Bug}} type changed upon evolution.
+* Skorupi is the only Pokémon with the {{2t|Bug|Poison}} combination to have Poison as its primary type.
+
+===Origin===
+Skorupi is based on a {{wp|scorpion}}. It has some characteristics that resemble a {{wp|Thelyphonida|vinegarroon}}, a similar arachnid. Its {{egg|Water 3}} Egg Group designation may be a reference to the ancient group of arthropods known as {{wp|Eurypterid|sea scorpions}} that used to inhabit the oceans and may have been the ancestors of modern scorpions.
+
+====Name origin====
+Skorupi and Scorpi are a shortening of ''{{wp|scorpion}}''.
+
+==In other languages==
+{{Other languages|type=Poison|type2=Bug
+|ja=スコルピ ''Scorpi''|jameaning=From a shortening of ''scorpion''.
+|de=Pionskora|demeaning=From ''{{tt|Skorpion|scorpion}}''.
+|fr=Rapion|frmeaning=From ''scorpion''.
+|es=Skorupi|esmeaning=Same as English name.
+|it=Skorupi|itmeaning=Same as English name.
+|ko=스콜피 ''Skorupi''|komeaning=Transliteration of Japanese name.
+|zh_cmn=紫天蠍 ''Zǐ Tiān Xiē''|zh_cmnmeaning=Literally "Purple sky scorpion". 天蠍 also refers to the constellation {{wp|Scorpius}}.
+|hi=स्करुपाइ ''Skorupi''|himeaning=Transliteration of English name}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Poison|type2=Bug}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=450|prev=Hippowdon|nextnum=452|next=Drapion}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Pionskora]]
+[[fr:Rapion]]
+[[it:Skorupi]]
+[[ja:スコルピ]]
+[[pl:Skorupi]]
+[[zh:钳尾蝎]]

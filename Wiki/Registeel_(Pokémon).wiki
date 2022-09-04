@@ -1,0 +1,510 @@
+{{PokémonPrevNext/Head|type=Steel}}
+{{PokémonPrevNext/GO|species=Registeel}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=378|prev=Regice|nextnum=380|next=Latias|round=none}}
+{{PokémonPrevNext/Disambig|species=Registeel}}
+|}
+{{Pokémon Infobox
+|name=Registeel
+|jname=レジスチル
+|jtranslit=Rejisuchiru
+|tmname=Registeel
+|ndex=379
+|hdex=195
+|hdex6=204
+|fbrow=207
+|abrow=266
+|typebox=1
+|type1=Steel
+|category=Iron
+|height-ftin=6'03"
+|height-m=1.9
+|weight-lbs=451.9
+|weight-kg=205.0
+|abilityn=d
+|ability1=Clear Body
+|abilityd=Light Metal
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=80
+|evtotal=3
+|evde=2
+|evsd=1
+|expyield=261
+|oldexp=215
+|lv100exp=1,250,000
+|gendercode=255
+|color=Gray
+|catchrate=3
+|body=12
+|pokefordex=registeel
+|generation=3
+|friendship=35
+}}
+'''Registeel''' ([[List of Japanese Pokémon names|Japanese]]: '''レジスチル''' ''Registeel'') is a {{type|Steel}} [[Legendary Pokémon]] introduced in [[Generation III]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+Along with {{p|Regirock}} and {{p|Regice}}, it is one of the three [[Legendary titans]] of [[Hoenn]].
+
+==Biology==
+The top-half of Registeel's body is spherical and gray with a black stripe running down its "face". Its face consists of seven red dots in a hexagonal formation. It has black arms with three fingers each and cylindrical legs. While Registeel has been classified as a {{type|Steel}} Pokémon, its body is actually made of a material that is harder than any known metal. However, this material stretches and shrinks despite its hardness. Its body was tempered by pressure {{DL|List of Pokémon by habitat|Cave Pokémon|underground}} over thousands of years.
+
+==In the anime==
+[[File:Brandon Registeel.png|thumb|250px|Registeel in the {{pkmn|anime}}]]
+===Major appearances===
+===={{DL|Legendary titans (M08)|Registeel|Registeel (M08)}}====
+Registeel appeared alongside {{p|Regirock}} and {{p|Regice}} in ''[[M08|Lucario and the Mystery of Mew]]''. The [[legendary titans]] were guardians of the [[Tree of Beginning]]. Registeel first attacked {{TRT}}, but when they tried to flee, it attacked {{Ash}} and {{ashfr}} too. After everyone was saved by {{OBP|Mew|M08}}, it, together with Regice and Regirock, realized they were not a danger and left.
+
+===={{DL|Brandon's legendary titans|Registeel|Brandon's Registeel}}====
+{{Ash}} battled against {{FB|Pyramid King|Brandon}}'s {{DL|Brandon's legendary titans|Registeel}} in ''[[AG186|Overjoyed!]]'' with his {{AP|Torkoal}}, but it was defeated. It reappeared in ''[[AG190|Pace - The Final Frontier!]]'' alongside {{DL|Brandon's legendary titans|Regirock}}, where they blasted off {{TRT}}. It appeared again in ''[[DP128|A Pyramiding Rage!]]'' and ''[[DP129|Pillars of Friendship!]]''.
+
+===Minor appearances===
+Registeel debuted in a brief cameo during the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+A Registeel made a cameo appearance alongside the other members of its [[Legendary titans|trio]] in the opening sequence of ''[[M10|The Rise of Darkrai]]'', where they all fired {{m|Hyper Beam}}s that combined into an extremely powerful one.
+
+===Pokédex entries===
+{{Animedexheader|Emerald}}
+{{Animedexbody|AG186|Registeel|May's Pokédex|Registeel, the Iron Pokémon. Its body is harder than any metal found upon this planet. Its body is also hollow, and its food source remains a mystery.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Emerald}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP128|Registeel|Dawn's Pokédex|Registeel, the Iron Pokémon. Because Registeel's body has been tempered by underground pressure for thousands of years, its body cannot be scratched.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Brandon Registeel Adventures.png|150px|thumb|Registeel in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Brandon's legendary titans|Brandon's Registeel}}
+Registeel debuted in ''[[PS252|The Beginning of the End with Kyogre & Groudon XIV]]'', when [[Drake]] attempted to open the [[Ancient Tomb]]. Together, {{Steven}} and {{Adv|Sapphire}} created a team of four {{p|Beldum}} and Sapphire's {{DL|Sapphire (Adventures)|Relly|Relicanth}} and {{DL|Sapphire (Adventures)|Lorry|Wailord}}, thus opening up the chamber containing Registeel, as well as the other two [[Legendary titans|titans]], {{p|Regirock}} and {{p|Regice}}. Registeel used {{m|Superpower}} to stop {{p|Groudon}} and {{p|Kyogre}} from spreading destruction. After the battle, it and the other two titans—left weak and powerless—traveled to the mountains, where they were later caught by {{FB|Pyramid King|Brandon}} shortly before the opening ceremony of the {{OBP|Battle Frontier|Generation III}}.
+
+Brandon used Registeel first in his battle with {{adv|Emerald}}, where it squared off against the {{DL|Crystal (Adventures)|Monlee|Hitmonchan}} the boy borrowed from {{adv|Crystal}}. Though Registeel took considerable damage from the accumulation of many {{m|Fire Punch}}es and was eventually beaten by a strong {{m|Sky Uppercut}} attack, it managed to cause its opponent to faint as well with a clever {{m|Toxic}} maneuver. It has not been seen since.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+Registeel, along with the other two [[Legendary titans]], are seen under the possession of [[Candice]]. She uses them against [[Hareta]] to test his worthiness to challenge {{p|Regigigas}} in ''[[DPA14|A Novel Test!!]]''.
+
+==In the TCG==
+{{main|Registeel (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Wii U]]===
+Registeel appears as an occasional stage hazard in the {{DL|Pokémon League (Kalos)|Ironworks Chamber}} of the {{st|Kalos Pokémon League}} stage. Appearing rarely, it will use {{m|Stomp}} to dislodge the swords embedded in the stage, causing them to fly upwards and damage fighters. Grounded characters will also take damage from Stomp.
+
+====Trophy information====
+''This Steel-type Pokémon's hollow body is made out of an ultrahard metal, forged under pressure over thousands of years underground. It can appear in the Kalos Pokémon League stage, in the Elite Four's Steel-type chamber. Its Stomp attack will launch fighters on the ground, and even the giant swords mounted on the stage!''
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}: Registeel is the boss of Steel Chamber in [[Aegis Cave]].
+
+===Pokédex entries===
+{{Dex/Header|type=Steel}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Registeel has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this Pokémon eats.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its body is harder than any other kind of metal. The body metal is composed of a mysterious substance. Not only is it hard, it shrinks and stretches flexibly.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It is sturdier than any kind of metal. It hardened due to pressure underground over tens of thousands of years.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.}}
+{{Dex/Entry1|v=Y|entry=Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Registeel has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this Pokémon eats.
+}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.
+}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Steel}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Ancient Tomb]] ([[List of in-game event Pokémon in Generation III#Registeel|only one]])}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Ancient Tomb]] ([[List of in-game event Pokémon in Generation III#Registeel|only one]])}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl}}
+{{Availability/Entry1|v=Platinum|area=[[Iron Ruins]] <small>(requires [[fateful encounter]] {{p|Regigigas}})</small> ([[List of in-game event Pokémon in Generation IV#Registeel|only one]])}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry1|v=Black 2|t=FFF|area=[[Underground Ruins]] <small>(Iron Chamber)</small> ([[List of in-game event Pokémon in Generation V#Registeel|only one]])}}
+{{Availability/Entry1/None|v=White 2|area=[[Key System|Unova Link]] to obtain the [[Iron Key]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Ancient Tomb]] ([[List of in-game event Pokémon in Generation VI#Registeel|only one]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Space Wilds]] ({{DL|Ultra Space Wilds|Cave World}}) ([[List of in-game event Pokémon in Generation VII#Registeel|Only one]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Steel}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Ruins ([[Ruby Field|Both]] [[Sapphire Field|Fields]])}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Random Agent Cards, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Buried Relic]] (35F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Krokka Tunnel]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Aegis Cave]] (Steel Chamber)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Aegis Cave]] (Steel Chamber)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Chroma Ruins]]}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[Sunny Seashore]] (post-ending)}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Valora]] (special)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#Working Gears|Model Train Room: Working Gears]] <small>(Reward)</small>, [[Melodious Woodland#A Colossal Throwdown|Melodious Woodland: A Colossal Throwdown]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 3|Colossal Forest: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Great Challenge|Registeel Steals the Show]]''<br>Event: ''[[Special Stages#Great Challenge|Registeel Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Fix-Up Factory|Diamond Crater: Fix-Up Factory]] <small>(Special Boss)</small>}}
+{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=[[Triangle Temple]]}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 15|Area 15: Stage 12]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Steel}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Hadō Registeel|Japanese|Japan|40|September 1 to 25, 2005|link=List of Japanese event Pokémon distributions in Generation III#Registeel}}
+|}
+
+=====In-game events=====
+{{eventAvail/h|Region|type=Steel|lochide=yes}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Bank Registeel|Japanese, American, PAL, and Korean|hide|50|March 4 to October 31, 2016|link=List of game-based Pokémon distributions in Generation VI#Registeel}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Steel
+|HP=      80
+|Attack=  75
+|Defense=150
+|SpAtk=   75
+|SpDef=  150
+|Speed=   50}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Steel
+|Speed=2
+|SpeedMax=2
+|Power=4
+|PowerMax=5
+|Technique=5
+|TechniqueMax=5
+|Stamina=5
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Steel
+|Normal=   50
+|Fighting=200
+|Flying=   50
+|Poison=    0
+|Ground=  200
+|Rock=     50
+|Bug=      50
+|Ghost=   100
+|Steel=    50
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic=  50
+|Ice=      50
+|Dragon=   50
+|Dark=    100
+|Fairy=    50
+|notes=yes
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Registeel|Steel|Steel|3}}
+{{learnlist/level7|1|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/level7|1|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level7|1|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level7|1|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/level7|1|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/level7|7|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level7|13|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/level7|19|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/level7|25|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|31|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level7|37|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|37|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|43|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level7|43|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/level7|49|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/level7|55|Lock-On|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|55|Zap Cannon|Electric|Special|120|50|5}}
+{{learnlist/level7|61|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/level7|67|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/levelf/7|Registeel|Steel|Steel|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Registeel|Steel|Steel|3}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Registeel|Steel|Steel|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Registeel|Steel|Steel|3}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Registeel|Steel|Steel|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Registeel|Steel|Steel|3}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutorf/7|Registeel|Steel|Steel|3}}
+
+===Side game data===
+{{Spindata/Head|type=Steel}}
+{{Spindata/PinballRS|col=3|type=Steel|ndex=379|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Steel|ndex=379|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Steel|ndex=379
+|body=1
+|rate=0.1
+|area=Ancient Relic
+|P1=<sc>i am a life-form born far under the ground.</sc>
+|P2=<sc>my health is down by half.</sc>
+|P3=<sc>i am on the brink. i will disintegrate from metal fatigue.</sc>
+|PL=<sc>leveled up! you can count on me!</sc>
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Steel|ndex=379
+|body=2
+|rate=-12
+|IQ=E
+}}
+|-
+{{Spindata/Ranger|col=6|type=Steel
+|group=Steel
+|assist=None
+|fieldpower=3
+|field=Crush
+|loop=20
+|MinEXP=420
+|MaxEXP=510
+|browser=Registeel brings down a steady shower of metal balls to impede capture.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Steel
+|group=Steel
+|assist=Steel
+|fieldpower=-
+|browser=It guards itself with an electric barrier. It hurls {{m|Magnet Bomb|hunks of magnetism}} and {{m|Zap Cannon|electricity}}.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Steel
+|att=2
+|def=5
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Steel|ndex=379
+|HP=3
+|atk=2
+|def=5
+|spd=2
+|range=2
+|move=Flash Cannon
+|ability1=Clear Body
+|evo=Does not evolve into or from anything
+|link='''[[Ieyasu]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Steel|ndex=379
+|power=4
+}}
+{{Spindata/Shuffle|col=3|type=Steel|ndex=379|num=238
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Paralyze
+|skilldesc=Leaves the foe paralyzed.
+|swapper=Block Smash++
+}}
+|-
+{{Spindata/GO|col=6|type=Steel|ndex=379
+|hatch=N/A
+|evolution=N/A
+|stamina=160
+|attack=143
+|defense=285
+|fast={{m|Metal Claw}}, {{m|Rock Smash}}
+|special={{m|Flash Cannon}}, {{m|Hyper Beam}}, {{m|Focus Blast}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Steel
+|pictype=art
+|no1=379
+|name1=Registeel
+|type1-1=Steel
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Steel}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=379}}
+{{Spritebox/4|ndex=379}}
+{{Spritebox/5|ndex=379}}
+{{Spritebox/6|ndex=379}}
+{{Spritebox/7|ndex=379}}
+{{Spritebox/Footer|379|Registeel}}
+
+====Non-English European sprites====
+{| style="margin:auto; text-align:center; {{roundy|20px}} border: 2px solid #{{steel color dark}}; background: #{{steel color}}; font-size:80%"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{steel color dark}}; background: #{{steel color light}}; width:160px"| [[File:Spr 4p 379.png]]<br>[[File:Spr 4p 379 s.png]]
+|-
+| Diamond and Pearl
+|}
+
+==Trivia==
+* In the non-English European versions of Pokémon Diamond and Pearl, Registeel's sprite was edited because of its arm. The arm's original position is reminiscent of the {{wp|Nazi}} {{wp|Nazi salute|salute}}. In {{game|Platinum}}, the sprite was changed for all regions to the continental European variation (this change was retained in {{2v2|HeartGold|SoulSilver}}).
+* In Pokémon Ranger, Registeel was the only one of the three Legendary titans that has a Field Move. The other two have a Poké Assist instead.
+* In {{3v2|Ruby|Sapphire|Emerald}}, there is an unobtainable Registeel Doll programmed into the game. It may have been intended to be obtained with the [[e-Reader]].
+* Registeel is tied with {{p|Probopass}} and Shield Forme {{p|Aegislash}} for the highest {{stat|Special Defense}} base stat of all {{type|Steel}} Pokémon.
+
+===Origin===
+Registeel may be based on the {{wp|golem}}s of Hebrew legend. The legends cast them as servants of higher powers and are said to have writing on their heads. When the writing is removed, the creature would be weakened.
+
+====Name origin====
+Registeel is the combination of the words ''regis'' (Latin for ''royal'') and ''steel''.
+
+==In other languages==
+{{Other languages|type=Steel|type2=Steel
+|ja=レジスチル ''Registeel''|jameaning=From ''regis'' (Latin for royal) and ''steel''.
+|de=Registeel|demeaning=Same as Japanese name
+|fr=Registeel|frmeaning=Same as Japanese name
+|es=Registeel|esmeaning=Same as Japanese name
+|it=Registeel|itmeaning=Same as Japanese name
+|ko=레지스틸 ''Registeel''|komeaning=Transliteration of its Japanese name.
+|zh_cmn=雷吉斯奇魯 ''Léi Jī Sī Qí Lù''|zh_cmnmeaning=Transliteration of its Japanese name.
+|hi=रेजीस्टील ''Registeel''|himeaning=Transliteration of its Japanese name
+|ru=Реджистил ''Redjistil''|rumeaning=Transcription of English/Japanese name
+}}
+<br clear="left">
+
+==Related articles==
+* {{DL|Legendary titans (M08)|Registeel|Registeel (M08)}}
+* {{DL|Brandon's legendary titans|Registeel|Brandon's Registeel}}
+* [[Legendary titans]]
+<!--
+==Notes==-->
+
+==External links==
+
+{{-}}
+{{Legendary Pokémon}}<br>
+{{PokémonPrevNext/Head|type=Steel}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=378|prev=Regice|nextnum=380|next=Latias}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Legendary Pokémon]]
+[[Category:Legendary trio Pokémon]]
+[[Category:Legendary Pokémon obtainable before the Elite Four]]
+[[Category:Hoenn Legendary Pokémon]]
+[[Category:Sinnoh Legendary Pokémon]]
+
+[[de:Registeel]]
+[[fr:Registeel]]
+[[it:Registeel]]
+[[ja:レジスチル]]
+[[pl:Registeel]]
+[[zh:雷吉斯奇鲁]]

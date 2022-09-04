@@ -1,0 +1,750 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Magikarp}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=128|prev=Tauros|nextnum=130|next=Gyarados|round=none}}
+{{PokémonPrevNext/Disambig|species=Magikarp}}
+|}
+{{Pokémon Infobox
+|name=Magikarp
+|jname=コイキング
+|jtranslit=Koikingu
+|tmname=Koiking
+|ndex=129
+|jdex=076
+|hdex=052
+|hdex6=053
+|fbrow=124
+|sdex=023
+|karea=Central
+|kdex=049
+|adex=091
+|type1=Water
+|category=Fish
+|height-ftin=2'11"
+|height-m=0.9
+|weight-lbs=22.0
+|weight-kg=10.0
+|ability1=Swift Swim
+|abilityd=Rattled
+|egggroupn=2
+|egggroup1=Water 2
+|egggroup2=Dragon
+|eggcycles=5
+|evtotal=1
+|evsp=1
+|expyield=40
+|oldexp=20
+|lv100exp=1,250,000
+|gendercode=127
+|color=Red
+|catchrate=255
+|body=03
+|pokefordex=magikarp
+|generation=1
+|friendship=70
+}}
+'''Magikarp''' ([[List of Japanese Pokémon names|Japanese]]: '''コイキング''' ''Koiking'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s into {{p|Gyarados}} starting at [[level]] 20.
+
+==Biology==
+Magikarp is a medium-sized fish Pokémon with large, heavy reddish-orange scales. It has large, vacant eyes and pink lips. Its pectoral and tail fins are white, but it has a stiff, three-peaked fin on its back and stomach that are both yellow. It also has long {{wp|barbel (anatomy)|barbels}}. The barbels are white on a female and tan on a male.
+
+A long-lived Magikarp is able to utilize its immense splashing power to leap high enough to scale mountains. It also has a strong enough immune system to survive in the most polluted of waters. However, it is usually overlooked by Trainers because of its perceived weakness: even in the heat of battle it will do nothing but flop around. It is not a strong swimmer, and currents in the water will sweep it downstream. It is normally seen using its former [[signature move]], {{m|Splash}}, to leap out of the water, which makes them easy targets to predators such as {{p|Pidgeotto}} and {{p|Pidgeot}}. It is believed that the ancestors of Magikarp were actually much stronger than modern Magikarp, and this led scientists to research this species. Magikarp is found in {{DL|List of Pokémon by habitat|Water's-edge Pokémon|many bodies of water}}, such as lakes, rivers, and ponds. However, due to its weak swimming ability it usually lives downstream of the water's flow.
+
+==In the anime==
+===In the main series===
+[[File:Magikarp anime.png|thumb|250px|Magikarp in the {{pkmn|anime}}]]
+[[File:Golden Magikarp.png|thumb|250px|Shiny Magikarp in the {{pkmn|anime}}]]
+====Major appearances====
+=====[[James's Magikarp]]=====
+James's Magikarp debuted in ''[[EP015|Battle Aboard the St. Anne!]]'', where James purchased it from the [[Magikarp salesman]]. It evolved into a {{TP|James|Gyarados}} in [[EP016|the next episode]], after James abandoned it.
+
+=====[[Magikarp salesman's Magikarp]]=====
+Several episodes, the first one being in ''[[EP015|Battle Aboard the St. Anne]]'', involved [[Magikarp salesman|a particular salesman]] trying to sell certain Pokémon to someone. The person he is usually trying to con is [[James]] and he usually sells {{TP|Magikarp salesman|Magikarp}}, claiming that they are very valuable.
+
+=====Other=====
+In ''[[EP092|The Joy of Pokémon]]'', a [[Nurse Joy]] from the Orange Islands befriended a {{pkmn2|giant}} Magikarp that saved her as a child. It evolved into an equally large Gyarados, but it remained friendly.
+
+In ''[[EP109|The Wacky Watcher!]]'', {{Ash}}, {{an|Misty}}, and {{Tracey}} help a Pokémon Watcher named [[Quincy T. Quackenpoker]] observe the migration and evolution of a school of Magikarp.
+
+Three Magikarp appeared in ''[[EP214|Mantine Overboard!]]'', under the ownership of [[Luka]]. They were used to aid her, {{Ash}}, and later {{an|Misty}} in their underwater exploration.
+
+In ''[[AG092|Judgment Day!]]'', a {{Shiny}} Magikarp appeared in a flashback under the ownership of {{OBP|Jimmy|AG092}} and was later [[trade]]d.
+
+[[Oralie]], a member of the [[B-Button League]], claims her Magikarp is the strongest. It appeared in ''[[DP021|Ya See We Want An Evolution!]]'' and was unique in that it was able to battle surprisingly well, even giving [[Ash's Pikachu]] a hard time.
+
+In ''[[DP091|One Team, Two Team, Red Team, Blue Team!]]'', [[Jessie]] used a Magikarp in the second leg of the [[Pokémon Triathlon]].
+
+Multiple Magikarp appeared in ''[[XY022|Going for the Gold!]]'', including one {{Shiny}} that appeared at the end of the episode.
+
+====Minor appearances====
+Magikarp debuted in ''[[EP001|Pokémon - I Choose You!]]'', where one was seen swimming in the river that {{Ash}} jumped into while attempting to escape a flock of {{p|Spearow}} that were chasing after him.
+
+A Magikarp appeared in ''[[EP010|Bulbasaur and the Hidden Village]]'', where it was one of the Pokémon under [[Melanie]]'s care. It reappeared in a flashback in ''[[EP225|Bulbasaur... the Ambassador!]]''.
+
+A Magikarp was seen in a [[Pokémon Center]] in ''[[EP027|Hypno's Naptime]]''.
+
+Multiple Magikarp appeared in the [[Banned episodes|banned episode]] [[EP035]].
+
+Magikarp appeared in ''[[EP048|Holy Matrimony!]]'', ''[[EP066|The Evolution Solution]]'', ''[[EP078|A Friend In Deed]]'', and ''[[EP079|Friend and Foe Alike]]''.
+
+Multiple Magikarp were among the Pokémon seen at [[Professor Oak's Laboratory]] in ''[[EP065|Showdown at the Po-ké Corral]]''.
+
+A Magikarp was being studied by {{an|Professor Oak}} in ''[[EP083|Poké Ball Peril]]''.
+
+A Magikarp was among the Pokémon controlled by [[Cassidy]] and [[Butch]] in ''[[EP086|Pikachu Re-Volts]]''.
+
+Schools of Magikarp appeared in ''[[M02|The Power of One]]''.
+
+{{AP|Totodile}} juggled three Magikarp with its {{m|Water Gun}} in ''[[EP153|Love, Totodile Style]]''.
+
+A Magikarp appeared in ''[[EP185|The Light Fantastic]]'', where it was seen swimming in a river.
+
+Several Magikarp appeared in {{an|Brock}}'s dream in ''[[EP193|Sick Daze]]''.
+
+A Magikarp appeared in ''[[EP206|The Joy of Water Pokémon]]'', where it was an inhabitant of [[Lake Lucid]].
+
+Multiple Magikarp appeared in ''[[M04|Celebi: The Voice of the Forest]]''. One briefly reappeared in a montage in ''[[M10|The Rise of Darkrai]]'', which chronicled the preceding nine movies.
+
+In ''[[EP215|Octillery The Outcast]]'', [[Misty's Poliwhirl]] went up against a Trainer's Magikarp in a qualifying match for the [[Whirl Cup]] and won.
+
+A Magikarp was among the Pokémon stolen from the Pokémon Center of [[Blue Point Isle]] in ''[[EP210|Around the Whirlpool]]''.
+
+A Magikarp appeared in ''[[EP216|Dueling Heroes]]''.
+
+A Magikarp was seen swimming in a lake in ''[[The Legend of Thunder!]]'' and ''[[SS014|Journey to the 1ing Line]]''.
+
+Multiple Magikarp were among the Pokémon living in [[Lake Slowpoke]] in ''[[EP244|Enlighten Up!]]''.
+
+A Magikarp appeared in {{Gary}}'s explanation in ''[[EP272|Johto Photo Finish]]''.
+
+A Magikarp was used by a competitor in the [[Tour de Alto Mare]], a water chariot race, in ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+A {{pkmn|Coordinator}}'s Magikarp appeared in ''[[AG191|Once More With Reeling!]]'', where it was seen participating in the {{to|Terracotta}} {{pkmn|Contest}}.
+
+A {{pkmn|Stylist}}'s Magikarp appeared in ''[[DP086|Arriving in Style!]]'', where it was seen participating in the [[Hearthome Collection]].
+
+A Magikarp was seen as part of [[Lila]]'s famous "Tiger Lily Smile" background in ''[[DP095|Battling the Generation Gap!]]''.
+
+A Magikarp appeared in ''[[DP140|Historical Mystery Tour!]]''.
+
+A school of Magikarp appeared in ''[[DP151|The Needs of the Three!]]''.
+
+Multiple Magikarp appeared in a flashback in ''[[DP181|Bucking the Treasure Trend!]]''.
+
+Multiple Magikarp appeared in ''[[M07|Destiny Deoxys]]'', ''[[M11|Giratina and the Sky Warrior]]'', and ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Magikarp appeared in ''[[BW141|Best Wishes Until We Meet Again!]]''.
+
+Multiple Magikarp appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+Two Magikarp appeared in ''[[XY024|An Undersea Place to Call Home!]]''.
+
+Multiple Magikarp appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Magikarp appeared in a flashback in ''[[XY040|Day Three Blockbusters!]]''.
+
+A Magikarp appeared as a painting in ''[[XY115|Battling at Full Volume!]]''.
+
+A Magikarp appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+A Magikarp appeared in [[SS037]].
+
+A Magikarp appeared in ''[[SM005|Yo, Ho, Ho! Go, Popplio!]]'', where {{AP|Pikachu}} caught it by [[fishing]] with its tail, only for it to attack {{Ash}} before swimming away.
+
+Three Magikarp appeared in ''[[SM015|Rocking Clawmark Hill!]]'', where they were flopping about on the beach near [[Professor Kukui]]'s house, having been washed ashore by the tide.
+
+A Magikarp appeared in ''[[SM022|A Shivering Shovel Search!]]''.
+
+Six Magikarp appeared in ''[[SM028|Pulling Out the Pokémon Base Pepper!]]''.
+
+A Magikarp appeared in ''[[SM033|Big Sky, Small Fry!]]''.
+
+Multiple Magikarp appeared in ''[[M20|I Choose You!]]''.
+
+Multiple wild Magikarp appeared in ''[[SM042|Alola, Kanto!]]'', with one appearing in a photo taken by {{Rotom}}.
+
+====Pokédex entries====
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP021|Magikarp|Ash's Pokédex|Magikarp, the Fish Pokémon. Magikarp can live in the dirtiest of water. It jumps very well and can evolve into {{p|Gyarados}}.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY022|Magikarp|Ash's Pokédex|Magikarp, the Fish Pokémon. Because all Magikarp seem to do is {{m|splash}} around, some consider them weak, but they're actually a hardy Pokémon that can survive in water no matter how dirty it is.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+[[File:Red Magikarp PO.png|thumb|220px|Magikarp in [[Pokémon Origins]]]]
+[[File:Gorebyss Magikarp Spheal Corsola PG.png|thumb|left|220px|Magikarp in [[Pokémon Generations]]]]
+
+===In Pokémon Origins===
+====[[Magikarp salesman's Magikarp|Red's Magikarp]]====
+The [[Magikarp salesman]] sold {{OBP|Red|Origins}} a {{TP|Magikarp salesman|Magikarp}} in ''[[PO02|File 2: Cubone]]''.
+
+===In Pokémon Generations===
+A wild Magikarp appeared in the waters that surrounded the [[Seafloor Cavern]] in ''[[PG08|The Cavern]]''.
+{{-}}
+
+==In the manga==
+[[File:Magikarp Dragon Rage GDZ.png|200px|thumb|Magikarp in [[Pokémon Gotta Catch 'Em All]]]]
+===In the How I Became a Pokémon Card manga===
+Magikarp appeared in [[PW32]].
+
+===In the Magical Pokémon Journey manga===
+Magikarp appeared in ''[[PPPB11|Magikarp Journey]]''.
+
+===In the Pokémon Adventures manga===
+[[File:Bill Magikarp Splash Adventures.png|200px|thumb|Magikarp in [[Pokémon Adventures]]]]
+Magikarp debuted in ''[[PS024|What a Dragonite]]'' where multiple wild ones were escaping from a Dragonite.
+
+Two Magikarp appeared in a river in [[Viridian Forest]] in ''[[PS043|Sea Sea Seadra]]'' where Yellow was fishing.
+
+In ''[[PS046|Whacked by Marowak!]]'', [[Erika]] is seen teaching a class about Magikarp that can learn {{m|Dragon Rage}}.
+
+Magikarp appeared in ''[[PS060|Breath of the Dragonair Part 1]]'' where it was used by a trainer in a surfing contest, before the it was interrupted by Lance controlling the winning prize, a Dragonair.
+
+{{adv|Bill}} has a Magikarp that appeared in ''[[PS074|Make Way for Magikarp]]''. Its resilient body saved Bill from acidic {{p|Victreebel}} saliva.
+
+Lance's Magikarp appeared in a flashback in ''[[PS090|The Legend]]'' as a Pokémon harmed by human industrialization. It evolved into Gyarados sometime before ''[[PS063|Extricated from Exeggutor]]'' and it was used to shield him from the lava on [[Mt. Cerise]].
+
+In ''[[PS101|Teddiursa's Picnic]]'', a Magikarp appeared in its Poké Ball after a wild {{p|Granbull}} had spit out all the Poké Balls it stole. It was returned to its owner by [[Wilton]] afterwards.
+
+Multiple Magikarp had evolved into Gyarados at the [[Lake of Rage]] from the Radio waves emitted by Team Rocket in ''[[PS112|Raise the Red Gyarados]]''.
+
+A Magikarp is seen as one of the Pokémon at Earl's Pokémon Academy in [[Violet City]] in ''[[PS117|Slugging It Out with Slugma]]''.
+
+Magikarp has appeared in aquariums belonging to [[Mr. Briney]] and [[Team Aqua]] in ''[[PS192|Stick This in Your Craw, Crawdaunt I]]''. 
+
+A blind boy owned a Magikarp nicknamed Karpy which debuted in ''[[PS238|The Beginning of the End with Kyogre & Groudon VI]]''.
+
+Diamond and Lax dress up as Magikarp in the Diamond and Pearl Chapter. They eat rice balls and Diamond calls himself a Munchikarp.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+A Magikarp appeared in ''[[DPA01|In Search of the Legendary Pokémon Dialga!!]]'' and ''[[DPA03|The Mystery Boy, Jun!!]]''.
+
+Multiple Magikarp appeared in ''[[DPA11|The Legendary Pokémon, Captured]]''.
+
+A Magikarp appeared in a fantasy in ''[[DPA28|Look for Giratina!]]''.
+
+===In the Pokémon Gotta Catch 'Em All manga===
+A Magikarp appeared in [[GDZ06|the sixth chapter]] of [[Pokémon Gotta Catch 'Em All]]. This Magikarp knew the event-exclusive move {{m|Dragon Rage}}.
+
+Shu caught a Magikarp in [[GDZ51]].
+
+===In the Pokémon Gold & Silver: The Golden Boys manga===
+{{GnB|Chris}} owns six Magikarp in [[Pokémon Gold & Silver: The Golden Boys|The Golden Boys]] manga.
+
+===In the Pokémon Try Adventure manga===
+[[Soro]] owns a Magikarp.
+
+===In the Pokémon Zensho manga===
+{{Zensho|Satoshi}} has multiple Magikarp in the [[Pokémon Zensho]] manga.
+
+==In the TCG==
+{{main|Magikarp (TCG)}}
+
+==Game data==
+===NPC appearances===
+* Magikarp is the focus of the mobile game [[Pokémon: Magikarp Jump]]. The player can fish for [[#Magikarp Jump patterns|many patterns of Magikarp]], then train their Magikarp and compete with others to see whose Magikarp can jump the highest.
+
+===Pokédex entries===
+{{Dex/Header|type=water}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.}}
+{{Dex/Entry1|v=Yellow|entry=Famous for being very unreliable. It can be found swimming in seas, lakes, rivers and shallow puddles.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Whoever its opponent, and however horrible the attack it receives, all it does is {{m|Splash}} around.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=An underpowered, pathetic Pokémon. It may jump high on rare occasions, but never more than {{tt|seven feet|two meters}}.}}
+{{Dex/Entry1|v=Silver|entry=For no reason, it jumps and splashes about, making it easy for predators like {{p|Pidgeotto}} to catch it mid-jump.}}
+{{Dex/Entry1|v=Crystal|entry=This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=An underpowered, pathetic Pokémon. It may jump high on rare occasions, but never more than {{tt|seven feet|two meters}}.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Magikarp is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy Pokémon that can survive in any body of water no matter how polluted it is.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.}}
+{{Dex/Entry1|v=FireRed|entry=It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.}}
+{{Dex/Entry1|v=LeafGreen|entry=In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It is said to be the world's weakest Pokémon. No one knows why it has managed to survive.}}
+{{Dex/Entry1|v=Pearl|entry=It is unable to swim against even slow-moving currents. It always splashes about for some reason.}}
+{{Dex/Entry1|v=Platinum|entry=A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.}}
+{{Dex/Entry1|v=HeartGold|entry=An underpowered, pathetic Pokémon. It may jump high on rare occasions, but never more than {{tt|seven feet|two meters}}.}}
+{{Dex/Entry1|v=SoulSilver|entry=For no reason, it jumps and splashes about, making it easy for predators like Pidgeotto to catch it mid-jump.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.}}
+{{Dex/Entry1|v=Y|entry=In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Magikarp is a pathetic excuse for a Pokémon that is only capable of flopping and splashing. This behavior prompted scientists to undertake research into it.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Magikarp is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy Pokémon that can survive in any body of water no matter how polluted it is.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Although weak and helpless, this Pokémon is incredibly fertile. They exist in such multitudes, you'll soon grow tired of seeing them.}}
+{{Dex/Entry1|v=Moon|entry=Its reckless leaps make it easy pickings for predators. On the bright side, many Pokémon enjoy longer life spans, thanks to Magikarp.}}
+{{Dex/Entry1|v=Ultra Sun|entry=In the distant past, they were fairly strong, but they have become gradually weaker over time.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Thanks to their strong hold on life, dirty water doesn't bother them at all. They live in waters all over the world!}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Route]]s {{rtn|4|Kanto}}{{tt|*|Water cannot be fished in (due to no adjacent walkable land tiles) without glitches}}, {{rtn|6|Kanto}}, {{rtn|10|Kanto}}, {{rtn|11|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}{{tt|*|Water not accessible without glitches}}, {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, {{rtn|22|Kanto}}, {{rtn|23|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Pallet Town]], [[Viridian City]], [[Cerulean City]], [[Vermilion City]], [[Vermilion Harbor]], [[Celadon City]], [[Fuchsia City]], {{safari|Kanto}}, [[Seafoam Islands]], [[Cinnabar Island]], [[Indigo Plateau]] ({{DL|Fishing|Old Rod}})<br>[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|17|Kanto}}, and {{rtn|18|Kanto}}, [[Fuchsia City]] ({{DL|Fishing|Super Rod}})<br>[[List of in-game event Pokémon in Generation I#Magikarp|Buy]] from [[Magikarp salesman]] for {{PDollar}}500 on {{rt|4|Kanto}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|4|Kanto}}{{tt|*|Water cannot be fished in (due to no adjacent walkable land tiles) without glitches}}, {{rtn|6|Kanto}}, {{rtn|10|Kanto}}, {{rtn|11|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}{{tt|*|Water not accessible without glitches}}, {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, {{rtn|22|Kanto}}, {{rtn|23|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Pallet Town]], [[Viridian City]], [[Cerulean City]], [[Vermilion City]], [[Vermilion Harbor]], [[Celadon City]], [[Fuchsia City]], {{safari|Kanto}}, [[Seafoam Islands]], [[Cinnabar Island]], [[Indigo Plateau]] ({{DL|Fishing|Old Rod}})<br>[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|17|Kanto}}, and {{rtn|18|Kanto}}, [[Fuchsia City]] ({{DL|Fishing|Super Rod}})<br>[[List of in-game event Pokémon in Generation I#Magikarp|Buy]] from [[Magikarp salesman]] for {{PDollar}}500 on {{rt|4|Kanto}}}}
+{{Availability/Entry1|v=Yellow|area=[[Route]]s {{rtn|4|Kanto}}{{tt|*|Water cannot be fished in (due to no adjacent walkable land tiles) without glitches}}, {{rtn|6|Kanto}}, {{rtn|10|Kanto}}, {{rtn|11|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}{{tt|*|Water not accessible without glitches}}, {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, {{rtn|22|Kanto}}, {{rtn|23|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Pallet Town]], [[Viridian City]], [[Cerulean City]], [[Vermilion City]], [[Vermilion Harbor]], [[Celadon City]], [[Fuchsia City]], {{safari|Kanto}}, [[Seafoam Islands]], [[Cinnabar Island]], [[Indigo Plateau]] ({{DL|Fishing|Old Rod}})<br>[[Fuchsia City]] and {{safari|Kanto}} ({{DL|Fishing|Super Rod}})<br>[[List of in-game event Pokémon in Generation I#Magikarp|Buy]] from [[Magikarp salesman]] for {{PDollar}}500 on {{rt|4|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|14|Kanto}}{{tt|*|Water not accessible legitimately}}, {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, {{rtn|26|Kanto}}, and {{rtn|27|Kanto}}, [[New Bark Town]], [[Pallet Town]], [[Cherrygrove City]], [[Cerulean City]]{{tt|*|including Gym}}, [[Cianwood City]], [[Vermilion City]], [[Cinnabar Island]], [[Whirl Islands]] ([[Old Rod]] or [[Good Rod]])<br/>[[Route]]s {{rtn|4|Kanto}}, {{rtn|6|Kanto}}, {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|22|Kanto}}, {{rtn|24|Kanto}}, {{rtn|25|Kanto}}, {{rtn|28|Kanto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|32|Johto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|40|Johto}}, {{rtn|41|Johto}}, and {{rtn|42|Johto}}, [[Violet City]], [[Ecruteak City]], [[Olivine City]], [[Cianwood City]], [[Viridian City]], [[Ruins of Alph]], [[Union Cave]], [[Ilex Forest]], [[Slowpoke Well]], [[Mt. Mortar]], [[Tohjo Falls]], [[Mt. Silver]] ([[Fishing]])<br/>[[Route]]s {{rtn|43|Johto}} and {{rtn|45|Johto}}, [[Dark Cave]], [[Lake of Rage]], [[Blackthorn City]], [[Dragon's Den]], [[Fuchsia City]] ({{m|Surf}}ing and [[Fishing]])}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|14|Kanto}}{{tt|*|Water not accessible legitimately}}, {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, {{rtn|26|Kanto}}, and {{rtn|27|Kanto}}, [[New Bark Town]], [[Pallet Town]], [[Cherrygrove City]], [[Cianwood City]], [[Vermilion City]], [[Cinnabar Island]], [[Whirl Islands]] ([[Old Rod]] or [[Good Rod]])<br/>[[Route]]s {{rtn|4|Kanto}}, {{rtn|6|Kanto}}, {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|22|Kanto}}, {{rtn|24|Kanto}}, {{rtn|25|Kanto}}, {{rtn|28|Kanto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|32|Johto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|40|Johto}}, {{rtn|41|Johto}}, and {{rtn|42|Johto}}, [[Violet City]], [[Ecruteak City]], [[Olivine City]], [[Cerulean City]], [[Viridian City]], [[Ruins of Alph]], [[Union Cave]], [[Ilex Forest]], [[Slowpoke Well]], [[Mt. Mortar]], [[Tohjo Falls]], [[Mt. Silver]] ([[Fishing]])<br/>[[Route]]s {{rtn|43|Johto}} and {{rtn|45|Johto}}, [[Dark Cave]], [[Lake of Rage]], [[Blackthorn City]], [[Dragon's Den]], [[Fuchsia City]] ({{m|Surf}}ing and [[Fishing]])}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Route]]s {{rtn|102|Hoenn}}, {{rtn|103|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|111|Hoenn}}, {{rtn|114|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|117|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|120|Hoenn}}, {{rtn|121|Hoenn}}, {{rtn|122|Hoenn}}, {{rtn|123|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|128|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}}, [[Petalburg City]], [[Dewford Town]], [[Slateport City]], [[Lilycove City]], [[Pacifidlog Town]], [[Ever Grande City]], [[Abandoned Ship]], {{Safari|Hoenn}}, [[Shoal Cave]], [[Meteor Falls]], [[Seafloor Cavern]], {{ho|Victory Road}} ({{DL|Fishing|Old Rod}} or {{DL|Fishing|Good Rod}})<br/>{{rt|104|Hoenn}} ([[Fishing]])<br/>[[Sootopolis City]] ({{m|Surf}}ing and [[Fishing]])}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[Route]]s {{rtn|102|Hoenn}}, {{rtn|103|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|111|Hoenn}}, {{rtn|114|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|117|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|120|Hoenn}}, {{rtn|121|Hoenn}}, {{rtn|122|Hoenn}}, {{rtn|123|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|128|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}}, [[Petalburg City]], [[Dewford Town]], [[Slateport City]], [[Lilycove City]], [[Pacifidlog Town]], [[Ever Grande City]], [[Abandoned Ship]], {{Safari|Hoenn}}, [[Shoal Cave]], [[Meteor Falls]], [[Seafloor Cavern]], {{ho|Victory Road}} ({{DL|Fishing|Old Rod}} or {{DL|Fishing|Good Rod}})<br/>{{rt|104|Hoenn}} ([[Fishing]])<br/>[[Sootopolis City]] ({{m|Surf}}ing and [[Fishing]])}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Route]]s {{rtn|4|Kanto}}, {{rtn|6|Kanto}}, {{rtn|10|Kanto}}, {{rtn|11|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, {{rtn|22|Kanto}}, {{rtn|23|Kanto}}, {{rtn|24|Kanto}}, and, {{rtn|25|Kanto}}, [[Treasure Beach]], [[Kindle Road]], [[Cape Brink]], [[Bond Bridge]], [[Five Isle Meadow]], [[Ruin Valley]], [[Water Path]], [[Water Labyrinth]], [[Resort Gorgeous]], [[Memorial Pillar]], [[Green Path]], [[Outcast Island]], [[Tanoby Ruins]], [[Pallet Town]], [[Cerulean City]], [[Viridian City]], [[Fuchsia City]], [[Vermilion City]], [[Celadon City]], [[Cinnabar Island]], [[One Island (town)|One Island]], [[Four Island (town)|Four Island]], [[Five Island (town)|Five Island]], [[Trainer Tower]], [[Cerulean Cave]], {{Safari|Kanto}}, [[Berry Forest]], [[Icefall Cave]] ({{DL|Fishing|Old Rod}})<br>[[List of in-game event Pokémon in Generation III#Magikarp|Buy]] from [[Magikarp salesman]] for {{PDollar}}500 on {{rt|4|Kanto}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|204|Sinnoh}}, {{rtn|205|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|212|Sinnoh}}, {{rtn|213|Sinnoh}}, {{rtn|214|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|219|Sinnoh}}, {{rtn|220|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|222|Sinnoh}}, {{rtn|223|Sinnoh}}, {{rtn|224|Sinnoh}}, {{rtn|225|Sinnoh}}, {{rtn|226|Sinnoh}}, {{rtn|227|Sinnoh}}, {{rtn|228|Sinnoh}}, {{rtn|229|Sinnoh}}, and {{rtn|230|Sinnoh}}, [[Twinleaf Town]], [[Eterna City]], [[Canalave City]], [[Celestic Town]], [[Pastoria City]], [[Sunyshore City]], [[Lake Verity]], [[Lake Acuity]], [[Lake Valor]], [[Ravaged Path]], [[Valley Windworks]], [[Mt. Coronet]], [[Iron Island]], [[Great Marsh]], [[Sendoff Spring]], {{si|Pokémon League}}, {{si|Victory Road}}, [[Fuego Ironworks]], [[Oreburgh Gate]], [[Resort Area]] ({{DL|Fishing|Old Rod}} or {{DL|Fishing|Good Rod}})<br>[[In-game trade#Diamond, Pearl, and Platinum|Trade]] {{p|Finneon}} on {{rt|226|Sinnoh}} ({{DL|foreign Pokédex entries|In Generation IV|German}})}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|204|Sinnoh}}, {{rtn|205|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|212|Sinnoh}}, {{rtn|213|Sinnoh}}, {{rtn|214|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|219|Sinnoh}}, {{rtn|220|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|222|Sinnoh}}, {{rtn|223|Sinnoh}}, {{rtn|224|Sinnoh}}, {{rtn|225|Sinnoh}}, {{rtn|226|Sinnoh}}, {{rtn|227|Sinnoh}}, {{rtn|228|Sinnoh}}, {{rtn|229|Sinnoh}}, and {{rtn|230|Sinnoh}}, [[Twinleaf Town]], [[Eterna City]], [[Canalave City]], [[Celestic Town]], [[Pastoria City]], [[Sunyshore City]], [[Lake Verity]], [[Lake Acuity]], [[Lake Valor]], [[Ravaged Path]], [[Valley Windworks]], [[Mt. Coronet]], [[Iron Island]], [[Great Marsh]], [[Sendoff Spring]], {{si|Pokémon League}}, {{si|Victory Road}}, [[Fuego Ironworks]], [[Oreburgh Gate]] ({{DL|Fishing|Old Rod}} or {{DL|Fishing|Good Rod}})<br>[[In-game trade#Diamond, Pearl, and Platinum|Trade]] {{p|Finneon}} on {{rt|226|Sinnoh}} ({{DL|foreign Pokédex entries|In Generation IV|German}})<br>[[Resort Area]] ([[Fishing]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|28|Kanto}}, {{rtn|34|Johto}}, {{rtn|40|Johto}}, {{rtn|41|Johto}}, and {{rtn|47|Johto}}, [[New Bark Town]], [[Cherrygrove City]], [[Olivine City]], [[Cianwood City]], [[Cinnabar Island]], [[Pallet Town]], [[Union Cave]]{{tt|*|3F}}, [[Whirl Islands]]{{tt|*|1F, B1F, B2F}}, [[Mt. Silver]]{{tt|*|1F}}, [[Cerulean Cave]], [[Seafoam Islands]]{{tt|*|B4F}} ({{DL|Fishing|Old Rod}} or {{DL|Fishing|Good Rod}})<br/>[[Route]]s {{rtn|4|Kanto}}, {{rtn|6|Kanto}}, {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|22|Kanto}}, {{rtn|24|Kanto}}, {{rtn|25|Kanto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|32|Johto}}, {{rtn|35|Johto}}, {{rtn|42|Johto}}, and {{rtn|44|Johto}}, [[Violet City]], [[Ecruteak City]], [[Viridian City]], [[Cerulean City]], [[Ruins of Alph]], [[Union Cave]]{{tt|*|1F, 2F}}, [[Slowpoke Well]], [[Cliff Edge Gate]], [[Mt. Mortar]], [[Tohjo Falls]], [[Mt. Silver]]{{tt|*|exterior}} ([[Fishing]])<br/>[[Route]]s {{rtn|43|Johto}} and {{rtn|45|Johto}}, [[Dark Cave]], [[Lake of Rage]], [[Blackthorn City]], [[Fuchsia City]], [[Dragon's Den]] ({{m|Surf}}ing and [[Fishing]])}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Warm Beach}}, {{pw|Stormy Beach}}, and {{pw|Winner's Path}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[List of in-game event Pokémon in Generation V#Magikarp|Buy]] from [[Magikarp salesman]] for {{PDollar}}500 on [[Marvelous Bridge]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Nature Preserve]] ([[Fishing]])<br/>[[List of in-game event Pokémon in Generation V#Magikarp 2|Buy]] from [[Magikarp salesman]] for {{PDollar}}500 on [[Marvelous Bridge]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Sparkling Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Route]]s {{rtn|3|Kalos}} and {{rtn|22|Kalos}}, [[Parfum Palace]] ([[Fishing]])<br>[[In-game trade#X and Y|Trade]] {{p|Gyarados}} in a [[Kalos hotels|hotel]]}}
+{{Availability/Entry1|v=Omega Ruby|t=fff|area=[[Route]]s {{rtn|102|Hoenn}}, {{rtn|103|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|111|Hoenn}}, {{rtn|114|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|117|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|120|Hoenn}}, {{rtn|122|Hoenn}}, {{rtn|123|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|128|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, {{rtn|134|Hoenn}}, [[Sea Mauville]], [[Petalburg City]], [[Meteor Falls]], [[Dewford Town]], [[Mossdeep City]], [[Lilycove City]], [[Slateport City]], [[Team Magma Hideout]], [[Sealed Chamber]], {{ho|Victory Road}}, [[Ever Grande City]], [[Pacifidlog Town]], [[Scorched Slab]], {{safari|Hoenn}}, [[Shoal Cave]], [[Seafloor Cavern]], [[Battle Resort]] ({{DL|Fishing|Old Rod}} or {{DL|Fishing|Good Rod}})<br/>{{rt|104|Hoenn}} ([[Fishing]])<br/>[[Sootopolis City]] ({{m|Surf}}ing and [[Fishing]])}}
+{{Availability/Entry1|v=Alpha Sapphire|t=fff|area=[[Route]]s {{rtn|102|Hoenn}}, {{rtn|103|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|111|Hoenn}}, {{rtn|114|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|117|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|120|Hoenn}}, {{rtn|122|Hoenn}}, {{rtn|123|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|128|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, {{rtn|134|Hoenn}}, [[Sea Mauville]], [[Petalburg City]], [[Meteor Falls]], [[Dewford Town]], [[Mossdeep City]], [[Lilycove City]], [[Slateport City]], [[Team Aqua Hideout]], [[Sealed Chamber]], {{ho|Victory Road}}, [[Ever Grande City]], [[Pacifidlog Town]], [[Scorched Slab]], {{safari|Hoenn}}, [[Shoal Cave]], [[Seafloor Cavern]], [[Battle Resort]] ({{DL|Fishing|Old Rod}} or {{DL|Fishing|Good Rod}})<br/>{{rt|104|Hoenn}} ([[Fishing]])<br/>[[Sootopolis City]] ({{m|Surf}}ing and [[Fishing]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|7|Alola}}, {{rtn|8|Alola}}, {{rtn|9|Alola}}, {{rtn|13|Alola}}, {{rtn|14|Alola}}, {{rtn|15|Alola}}, [[Melemele Sea]], [[Seaward Cave]], [[Kala'e Bay]], [[Paniola Town]], [[Akala Outskirts]], [[Brooklet Hill]], [[Malie Garden]], [[Seafolk Village]], [[Poni Wilds]], [[Poni Breaker Coast]], [[Poni Meadow]], [[Poni Gauntlet]], [[Vast Poni Canyon]], [[Secluded Shore]] ([[Fishing]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]]s {{rtn|7|Alola}}, {{rtn|8|Alola}}, {{rtn|9|Alola}}, {{rtn|13|Alola}}, {{rtn|14|Alola}}, {{rtn|15|Alola}}, [[Melemele Sea]], [[Seaward Cave]], [[Kala'e Bay]], [[Paniola Town]], [[Akala Outskirts]], [[Brooklet Hill]], [[Malie Garden]], [[Seafolk Village]], [[Poni Breaker Coast]], [[Poni Meadow]], [[Poni Gauntlet]], [[Vast Poni Canyon]] ([[Fishing]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Pokémon Island Beach|Beach]], [[Pokémon Island Tunnel|Tunnel]], [[Pokémon Island Volcano|Volcano]], [[Pokémon Island River|River]], [[Pokémon Island Cave|Cave]], [[Pokémon Island Valley|Valley]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Pewter City]], [[Kanto Route 17|Cycling Road]], [[Fuchsia City|Fuchia City]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|1|v=Channel|color={{water color}}|area=[[Cobalt Coast|Secret Cove]]}}
+{{Availability/Entry1|1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Ocean ({{color2|{{ruby color}}|Ruby Field}})}}
+{{Availability/Entry1|1|v=Trozei!|color={{yellow color}}|area=[[SOL Laboratory 3]], [[Secret Storage 5]], [[Secret Storage 19]], [[Mr. Who's Den]]}}
+{{Availability/Entry1/None|1|v=MD Red|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Wonder Mail]] code}}
+{{Availability/Entry1|1|v=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Waterfall Pond]] (7F-11F)}}
+{{Availability/Entry1|1|v=Ranger|link=Pokémon Ranger (game)|area=[[Safra Sea]], [[Sekra Range]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]] <small>(Both Modes C, Normal Mode S)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Meadow Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|color={{grass color}}|link=PokéPark 2: Wonders Beyond|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Fontaine]], [[Dragnor]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]], [[Aquatic Hill#Magikarp is All You Need|Aquatic Hill: Magikarp is All You Need]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 1|Island of Haste: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 321]]<br>Event: [[Special Stages#Tenth release|''Pokémon Safari'']] <small>(Tenth release; {{Shiny}})</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Castle Moat|Dewdrop Bay: Castle Moat]] <small>(All Areas)</small>, [[Origin Hideaway#Waterfall Basin|Origin Hideaway: Waterfall Basin]] <small>(All Areas)</small>}}
+<!--{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=}}-->
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 17|Area 17: Stage 03]]}}
+|}
+|}
+{{Availability/Footer}}
+
+Magikarp will not appear in Pokémon Mystery Dungeon: Red Rescue Team until a rescue mission involving it has been completed, using a Wonder Mail code such as the following:
+:X ? ? S ? ? X ? 4 6 8 ?
+:♀ + ? ? 9 7 5 6 S Y ? ?
+:Objective: Rescue Magikarp on floor 12 of [[Stormy Sea]].
+
+====In events====
+{{eventAvail/h|Language/Region|type=water}}
+{{eventAvail|{{gameabbrev1|RGB}}|University Magikarp|Japanese|Japan|?|July 1998|link=List of Japanese event Pokémon distributions in Generation I#University Magikarp}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Reversal Magikarp|English|United States|5|June 8 to 21, 2002|link=List of Gotta Catch 'Em All event Pokémon#Reversal Magikarp}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Bubble Magikarp|English|United States|5|January 24 to 30, 2003|link=List of Gotta Catch 'Em All event Pokémon#Bubble Magikarp}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Center Nagoya Magikarp|Japanese|Japan|99[[File:ShinyVStar.png|Shiny|link=Shiny Pokémon]]|March 20 to May 6, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Pokémon Center Nagoya Magikarp}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Center Hiroshima Magikarp|All|Japan|1|June 26 to August 31, 2015|link=List of local event Pokémon distributions in Generation VI#Magikarp}}
+{{eventAvail|{{gameabbrev7|SM}}|Lunar Magikarp|Japanese region|Online|19[[File:ShinyVIIStar.png|Shiny|link=Shiny Pokémon]]|January 26 to February 6, 2017|link=List of Japanese region serial code event Pokémon distributions in Generation VII#Lunar Magikarp}}
+{{eventAvail|{{gameabbrev7|SM}}|Lunar Magikarp|American region|Online|19[[File:ShinyVIIStar.png|Shiny|link=Shiny Pokémon]]|January 26 to February 6, 2017|link=List of American region serial code event Pokémon distributions in Generation VII#Lunar Magikarp}}
+{{eventAvail|{{gameabbrev7|SM}}|Lunar Magikarp|PAL region|Online|19[[File:ShinyVIIStar.png|Shiny|link=Shiny Pokémon]]|January 26 to February 6, 2017|link=List of PAL region serial code event Pokémon distributions in Generation VII#Lunar Magikarp}}
+{{eventAvail|{{gameabbrev7|SM}}|Lunar Magikarp|Taiwanese region|Online|19[[File:ShinyVIIStar.png|Shiny|link=Shiny Pokémon]]|January 26 to February 6, 2017|link=List of Taiwanese region serial code event Pokémon distributions in Generation VII#Lunar Magikarp}}
+|}
+
+====GTS events====
+{{eventAvail/h|type=water}}
+{{eventAvail|{{gameabbrev4|DP}}|Nana Magikarp|Japanese|GTS|5|February 14 to 15, 2007|link=List of GTS event Pokémon distributions#Nana}}
+{{eventAvail|{{gameabbrev4|DP}}|Nory Magikarp|Japanese|GTS|7|February 14 to 15, 2007|link=List of GTS event Pokémon distributions#Nory}}
+{{eventAvail|{{gameabbrev4|DP}}|Ruirui Magikarp|Japanese|GTS|6|February 14 to 15, 2007|link=List of GTS event Pokémon distributions#Ruirui}}
+{{eventAvail|{{gameabbrev4|DP}}|Ryuuta Magikarp|Japanese|GTS|4|February 14 to 15, 2007|link=List of GTS event Pokémon distributions#Ryuuta}}
+{{eventAvail|{{gameabbrev4|DP}}|Utz Magikarp|Japanese|GTS|5|February 14 to 15, 2007|link=List of GTS event Pokémon distributions#Utz}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Water
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1rar=100|rby1image=no
+|walk1=Wacan Berry|walk1type=Berry|walk1rar=100
+|event1=Heart Mail|event1type=Mail|event1rar=100
+|event2=Rare Candy|event2type=None|event2rar=100
+|event3=Stardust|event3type=None|event3rar=100}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY|
+HP=     20 |
+Attack= 10 |
+Defense=55 |
+SpAtk=  15 |
+SpDef=  20 |
+Special=20 |
+Speed=  80 |
+type=Water }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=water
+|Speed=1
+|SpeedMax=5
+|Power=1
+|PowerMax=4
+|Technique=1
+|TechniqueMax=3
+|Stamina=1
+|StaminaMax=5
+|Jump=2
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness|
+type1=Water|
+Normal=  100 |
+Flying=  100 |
+Fighting=100 |
+Ground=  100 |
+Rock=    100 |
+Bug=     100 |
+Poison=  100 |
+Ghost=   100 |
+Steel=    50 |
+Fire=     50 |
+Water=    50 |
+Grass=   200 |
+Electric=200 |
+Psychic= 100 |
+Ice=      50 |
+Dragon=  100 |
+Dark=    100 |
+Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Magikarp|Water|Water|1}}
+{{learnlist/level7|1|Splash|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|15|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|30|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/levelf/7|Magikarp|Water|Water|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Magikarp|Water|Water|1|xy=n}}
+{{learnlist/tm7null}}
+{{learnlist/tmf/7|Magikarp|Water|Water|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Magikarp|Water|Water|2|xy=n}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Magikarp|Water|Water|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Magikarp|Water|Water|2|xy=n}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5||''|no|yes}}
+{{learnlist/tutorf/7|Magikarp|Water|Water|2}}
+
+====By {{pkmn2|event}}s====
+{{learnlist/eventh/7|Magikarp|Water|Water|1}}
+{{learnlist/event7|{{DL|List of Taiwanese region serial code event Pokémon distributions in Generation VII|Lunar Magikarp}}|Bounce|Flying|Physical|85|85|5||''}}
+{{learnlist/eventf/7|Magikarp|Water|Water|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background:#{{tcg water color light}}; border:3px solid #{{tcg water color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Rage}}
+| [[Magikarp (EX Deoxys 64)]]
+|- style="background:#fff"
+| {{m|Dragon Rage}}
+| [[Magikarp (Mysterious Treasures 89)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/Pinball|col=2|type=Water|ndex=129|acquisition=Catch}}
+{{Spindata/PinballRS|col=2|type=Water|ndex=129|acquisition=Catch}}
+{{Spindata/Trozei|col=2|type=Water|ndex=129|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=129
+|body=1
+|rate=9.2
+|area=Waterfall Lake
+|P1=I'm the world's weakest Pokémon. You knew that, yes?
+|P2=Huh? Look, my health is down by half already.
+|P3=I'm not much good now. I have almost no HP left.
+|PL=Look, my level went up! But I'm probably still weak...
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=129
+|body=1
+|rate=8.2
+|IQ=C
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=0
+|field=None
+|loop=1
+|MinEXP=5
+|MaxEXP=5
+|browser=Magikarp appears to be only capable of flopping about helplessly.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=1
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Water|ndex=129
+|Pad=Magikarp came to the [[Meadow Zone]] to play. His favorite Attractions include {{DL|Attractions|Bulbasaur's Daring Dash}}, {{DL|Attractions|Venusaur's Vine Swing}}, and {{DL|Attractions|Empoleon's Snow Slide}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=129
+|pad=He thinks he is king of PokéPark, but all he does is Splash.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Water|ndex=129
+|HP=1
+|atk=1
+|def=1
+|spd=3
+|range=3
+|move=Splash
+|ability1=Gulp
+|ability2=Mood Maker
+|ability3=Decoy
+|evo=Evolves into {{p|Gyarados}} when its Attack is 16 or higher
+|link={{DL|List of Pokémon Conquest characters|Nobuchika}} and {{DL|List of Pokémon Conquest characters|Takeyoshi}}
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Water|ndex=129
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Water|ndex=129|num=477
+|min=30
+|max=100
+|raisemaxlevel=10
+|skill=Swap++
+|skilldesc=Sometimes replaces five disruptions with this Pokémon.
+|swapper=Risk-Taker, Dragon Sweep
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=129S|num=477
+|min=30
+|max=100
+|raisemaxlevel=10
+|skill=Cheer
+|skilldesc=Increases the chance that the next match's skill is triggered.
+|swapper=Dragon Shriek
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=129
+|hatch=2
+|buddy=1
+|evocandy=400
+|stamina=40
+|attack=29
+|defense=102
+|fast={{m|Splash}}
+|special={{m|Struggle}}
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Water
+|no1=129
+|name1=Magikarp
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 20}}
+|no2=130
+|name2=Gyarados
+|type1-2=Water
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/1|ndex=129}}
+{{Spritebox/2|ndex=129}}
+{{Spritebox/3|ndex=129}}
+{{Spritebox/4/Gender|ndex=129}}
+{{Spritebox/5/Gender|ndex=129}}
+{{Spritebox/6/Gender|ndex=129}}
+{{Spritebox/7/Gender|ndex=129}}
+{{Spritebox/Footer|129|Magikarp}}
+{{anchor|Magikarp Jump patterns}}
+{| style="margin:auto; text-align:center; {{roundy|20px}} border: 2px solid #{{water color dark}}; background: #{{water color}}; font-size:80%;"
+|- 
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 01.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 02.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 03.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 04.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 05.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 06.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 07.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 08.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 09.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 10.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 11.png|64px]]
+|-
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 12.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 13.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 14.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 15.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 16.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 17.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 18.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 19.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 20.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 21.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 22.png|64px]]
+|-
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 23.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 24.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 25.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 26.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 27.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 28.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 29.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 30.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 31.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 32.png|64px]]
+|style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:70px"| [[File:Magikarp Jump Pattern 99.png|64px]]
+|-
+| colspan="11" | Magikarp patterns in Pokémon: Magikarp Jump
+|}
+
+==Trivia==
+* Magikarp is tied with {{p|Gyarados}} and {{p|Regigigas}} for being the lowest level Pokémon encountered in the wild, as well as also tied with Gyarados for the highest level Pokémon encountered in the wild. In {{v2|Platinum}}, Magikarp can be found at levels ranging from level 1 to 100 in the [[Resort Area]], and in {{game|Black and White|s 2|Black 2 and White 2}}, it can be found at the same levels in the [[Nature Preserve]]; both require a {{DL|Fishing|Super Rod}}.
+* Magikarp and its evolution require the fewest [[Egg cycles]] to hatch, with five.
+** Magikarp and its evolution are the only Pokémon with a [[List of Pokémon by base Egg cycles|unique base Egg cycle]].
+* Magikarp was the first Pokémon featured in [[Professor Oak's Pokémon Lecture]] in [[EP061]].
+* Magikarp and {{p|Gyarados|its evolution}}'s [[Egg Group]] combination ({{egg|Water 2}} and {{egg|Dragon}}) is unique.
+* Magikarp is one of fourteen Pokémon that one could collect [[foreign Pokédex entries]] for in {{game|Diamond and Pearl|s}}.
+* Magikarp shares its {{pkmn|category}} name with {{p|Feebas}}. They are both known as the Fish Pokémon.
+* Magikarp is the only Pokémon which can be found in every course in the game [[Pokémon Snap]] except Rainbow Cloud (which features only {{p|Mew}}).
+* Together with {{p|Pichu}}, {{p|Rattata}}, and {{p|Seedot}}, Magikarp is the easiest Pokémon to catch in {{ga|Pokémon Ranger}}, with only one loop necessary.
+* Magikarp is tied with {{p|Feebas}} for having the largest increase in total base stat of 340 (from 200 to 540) when it evolves into {{p|Gyarados}}.
+* Magikarp is tied with {{p|Carvanha}} for having the lowest Special Defense stat of all {{type|Water}} Pokémon and is tied with five other Pokémon as having the lowest Special Defense stat of all Pokémon.
+* Magikarp is the only Pokémon in [[Pokémon Conquest]] that uses a move that would not give it [[same-type attack bonus]] in the main series games, as it uses {{m|Splash}}.
+* On July 28, 2016 and May 12, 2017, [[The Pokémon Company]] and [[The Pokémon Company International]] respectively posted a Magikarp-themed music video onto their YouTube channel titled [[the Magikarp Song]].
+* Magikarp has the most [[Variant Pokémon#Magikarp|variants]] of any species.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Magikarp}}
+Magikarp is based on the {{wp|Asian carp}}, which are easily frightened by disturbances in water and can jump 8–10 feet (2.5–3 m) in the air.
+
+Magikarp's evolution into Gyarados is based on a legend about how carp that leapt over the Dragon Gate would become dragons. Several waterfalls and cataracts in China are believed to be the location of the Dragon Gate. This legend is an allegory of the drive and efforts needed to overcome obstacles. This may have inspired an element in {{g|Snap}} where, after certain steps are taken, a Magikarp will splash its way into a waterfall where it evolves.
+
+====Name origin====
+Magikarp's name is a combination of ''magic'' and ''{{wp|carp}}'', possibly mocking the Magikarp as a species, as someone with 'magic' powers is generally thought to be quite powerful, which Magikarp is not (though carp are said to be able to transform into dragons, which is magical in its own way).
+
+Koiking is a combination of 鯉 ''{{wp|koi}}'' (carp) and ''king'', giving its name an ironic slant similar to its English name.
+
+==In other languages==
+{{Other languages|type=water|type2=water
+|ja=コイキング ''Koiking''|jameaning=From ''{{wp|koi}}'' and ''king''
+|fr=Magicarpe|frmeaning=From ''{{tt|magique|magic}}'' and ''{{tt|carpe|carp}}''
+|es=Magikarp|esmeaning=Same as English name
+|de=Karpador|demeaning=From ''{{tt|Karpfen|carp}}'' and ''{{tt|Dorsch|cod}}''
+|it=Magikarp|itmeaning=Same as English name
+|ko=잉어킹 ''Ingeoking''|komeaning=From {{tt|''ingeo''|koi}} and ''king''
+|zh_yue=鯉魚王 ''Léihyùhwohng''|zh_yuemeaning=Literally "Carp king"
+|zh_cmn=鯉魚王 / 鲤鱼王 ''Lǐyúwáng''|zh_cmnmeaning=Literally "Carp king"
+|hi=मेजाइकार्प ''Magikarp''|himeaning=Transcription of English name
+|pt_br=Magicarpa|pt_brmeaning=From ''{{tt|mágica|magic}}'' and ''{{tt|carpa|carp}}''
+|ru=Мэджикарп ''Medzhikarp''|rumeaning=Transcription of English name
+|th=คอยคิง ''Koiking''|thmeaning=Same as Japanese name
+}}
+
+
+<br clear="left">
+
+==Related articles==
+* [[Misty's Gyarados]]
+* [[James's Magikarp]]
+* [[Magikarp salesman]]
+* [[Magikarp salesman's Magikarp]]
+* [[Red Gyarados]]
+
+==Notes==
+<references />
+
+==External links==
+* {{wp|Magikarp|Article on Wikipedia}}
+
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=128|prev=Tauros|nextnum=130|next=Gyarados}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[de:Karpador]]
+[[fr:Magicarpe]]
+[[it:Magikarp]]
+[[ja:コイキング]]
+[[pl:Magikarp]]
+[[zh:鲤鱼王]]

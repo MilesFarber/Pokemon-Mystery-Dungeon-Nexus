@@ -1,0 +1,596 @@
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=744|prev=Rockruff|nextnum=746|next=Wishiwashi|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Lycanroc}}
+|}
+{{Pokémon Infobox
+|name=Lycanroc
+|jname=ルガルガン
+|jtranslit=Rugarugan
+|tmname=Lugarugan
+|forme=3
+|form1=Midday Form
+|form2=Midnight Form
+|form3=Dusk Form
+|image2=745Lycanroc-Midnight.png
+|image3=745Lycanroc-Dusk.png
+|ndex=745
+|type1=Rock
+|category=Wolf
+|height-ftin=2'07"
+|height-m=0.8
+|height-ftin2=3'07"
+|height-m2=1.1
+|height-ftin3=2'07"
+|height-m3=0.8
+|weight-lbs=55.1
+|weight-kg=25.0
+|weight-lbs2=55.1
+|weight-kg2=25.0
+|weight-lbs3=55.1
+|weight-kg3=25.0
+|adex=104
+|abilitylayout=2+2
+|ability1=Keen Eye
+|ability2=Sand Rush
+|abilityd=Steadfast
+|abilitydcaption=Midday Form
+|ability2-1=Keen Eye
+|ability2-2=Vital Spirit
+|abilityd2=No Guard
+|abilityd2caption=Midnight Form
+|abilityold=Tough Claws
+|abilityoldcaption=Dusk Form
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=2
+|evat=2
+|expyield=170
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|formcolors=yes
+|catchrate=90
+|body=08
+|body2=06
+|pokefordex=lycanroc
+|generation=7
+|friendship=70
+}}
+'''Lycanroc''' ([[List of Japanese Pokémon names|Japanese]]: '''ルガルガン''' ''Lugarugan'') is a {{type|Rock}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] from {{p|Rockruff}} starting at level 25. The [[List of Pokémon with form differences#Lycanroc|form]] it takes upon evolving depends on the game it was evolved in.
+* In {{pkmn|Sun and Moon|Pokémon Sun}} and {{pkmn|Ultra Sun and Ultra Moon|Ultra Sun}}, Rockruff evolves into Midday Form Lycanroc when [[level]]ed up in the [[Time|day]].
+* In {{pkmn|Sun and Moon|Pokémon Moon}} and {{pkmn|Ultra Sun and Ultra Moon|Ultra Moon}}, Rockruff evolves into Midnight Form Lycanroc when [[level]]ed up at [[Time|night]].
+* In {{g|Ultra Sun and Ultra Moon}}, special Rockruff with {{a|Own Tempo}} evolves into Dusk Form Lycanroc from 5 pm to 5:59 pm in in-game time (which is opposite the real time in Pokémon Ultra Moon).
+
+==Biology==
+Lycanroc is a canine Pokémon resembling a wolf. It has three possible forms: Midday Form, Midnight Form and Dusk Form.
+
+In its Midday form, Lycanroc resembles a quadruped, light brown wolf. It has a white underbelly that extends up around its muzzle and eyes in a mask-like marking. It has pointed ears with dark brown tips and pink insides, big blue eyes, and a triangular, dark brown nose. There are four sharp fangs in its mouth: two in the upper jaw and two in the lower. Large tufts of brown fur extend from the sides of its head; three tufts on each side. A bushy, white mane covers its neck. Four dark brown rocks poke out of its mane, creating a shape similar to a stylized sun. The lower portions of this form's legs are white, and each foot has three dark brown claws. It also has a long, fluffy white tail.
+
+In its Midnight Form, Lycanroc instead resembles a slouched, bipedal wolf or werewolf. It has short red fur with white on its lower legs, and a white streak that covers its face, underbelly, and tail. It has pointed, {{wp|Canine terminology#Ears|button ears}} with black tips, three large tufts of fur on each side of its face, a triangular black nose, and a mouth full of sharp teeth. While the sclerae, irises, and pupils of its eye are visible, they all glow a pinkish red and no distinctive colors are visible. A mane of fur covers its back and shoulders, sweeping forward over its head to form a crescent moon shape. On either side of its body, just below the shoulders, two small rocks resembling claws poke out of the mane. A single, bigger stone projects out of the front of the mane over its head. Each of this form's paws has three black claws, and it has a stubby tail covered in long fur.
+
+Dusk Form greatly resembles the Midday Form, albeit with orange-gold fur and green eyes, as well as a fluffy mane on its neck reminiscent of its Midnight Form. When attacking, its eyes sometimes glow red like those of the Midnight Form.
+
+In order to avoid needless fighting, the Midday Form prefers to live alone and does not form a pack with others of its kind. However, it is a fiercely loyal partner to Trainers that accept it during its unruly stage. In battle, it darts past opponents while attacking them with the rocks in its mane. These swift movements leave many foes bewildered.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/lycanroc-midday-form/</ref>
+
+In contrast, Lycanroc's Midnight Form is thrilled by battling, and becomes more excited the stronger its opponent. This excitement is what causes its eyes to glow. Its strategy consists of closing in on its opponent and encouraging attack, then countering with a powerful blow that knocks out its opponent. Trainers that can draw out its power earn its trust, but it despises those that it disagrees with or who try to force it to fight.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/lycanroc-midnight-form/</ref>
+
+The Dusk Form Lycanroc shares traits from the previous two forms. From the Midday Form, such as a four-legged stance and obedience toward its trusted Trainer, while from the Midnight Form, when it attacks its eyes turn red. Also, the four rocks like those of Midday Form, while the mane on its head matches that of Midnight Form. Little things don't shake the calm behavior of Dusk Form Lycanroc, but it carries an intense fighting spirit hidden within, which as a result, it relishes combat at close quarters. It  is known to use Counter when battles get intense.<ref>https://www.pokemon.com/us/pokemon-news/secrets-of-lycanroc-dusk-form-revealed/</ref>
+
+{{m|Accelerock}} is the signature move of Lycanroc's Midday and Dusk Forms. Lycanroc is the [[Signature move|only known Pokémon]] capable of using the [[Z-Move]] {{m|Splintered Stormshards}}.
+
+==In the anime==
+[[File:Lycanroc anime.png|thumb|250px|All forms of Lycanroc in the anime]]
+===Major appearances===
+====[[Ash's Lycanroc]]====
+{{Ash}} owns a {{DL|List of Pokémon with form differences|Lycanroc|Dusk Form}} {{AP|Lycanroc}}, which debuted in ''[[SM037|Rising from the Ruins!]]'' upon evolving from his {{p|Rockruff}}.
+
+====Other====
+A {{DL|List of Pokémon with form differences|Lycanroc|Midday and a Midnight Form}} Lycanroc debuted in ''[[SM015|Rocking Clawmark Hill!]]''. They were among the Pokémon training up on [[Clawmark Hill]].
+
+[[Gladion]]'s Midnight Form Lycanroc appeared in ''[[SM027|A Glaring Rivalry!]]''. It reappeared in ''Rising from the Ruins!'', where it and Olivia's Lycanroc helped Ash's Rockruff and got attacked by a wild {{DL|Recurring wild Pokémon in the anime|Tapu Lele}}. It reappeared in ''[[SM044|A Dream Encounter!]]'' and ''[[SM047|A Masked Warning!]]''.
+
+[[Olivia]] owns a Midday Form Lycanroc, which debuted in ''[[SM031|The Island Whisperer!]]''. It reappeared in ''[[SM036|Trials and Determinations!]]'', where it partook in Olivia's grand trial battle against Ash, and was eventually defeated by Ash's Rockruff. It reappeared in ''Rising from the Ruins!'', where it and Gladion's Lycanroc helped Ash's Rockruff and got attacked by a wild Tapu Lele.
+
+[[Cross]]'s Midnight Form Lycanroc appeared in ''[[M20|I Choose You!]]''.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM015|None|po={{p|Rockruff}} and {{p|Lycanroc}}|Rotom Pokédex|{{p|Rockruff}}, the Puppy Pokémon. A {{t|Rock}} type. Rockruff have lived with humans since ancient times. They train themselves by running around. Rockruff evolves into Lycanroc, which has two different forms based on when it evolves. It evolves into Midday Form Lycanroc during the day and Midnight Form Lycanroc during the night. Furthermore, when it gets close to evolving, Rockruff's temperament becomes more aggressive, and it tends to act more independent. It's common for it to disappear and then return after it has evolved.}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+
+==In the manga==
+[[File:Olivia Lycanroc Adventures.png|thumb|120px|Midnight Form Lycanroc in [[Pokémon Adventures]].]]
+===In the movie adaptations===
+[[Cross]]'s Midnight Form Lycanroc appeared in ''{{ma|Pocket Monsters the Movie: I Choose You!}}''.
+
+===In the Pokémon Adventures manga===
+Midnight Form Lycanroc first appeared under the ownership of [[Olivia]] in [[PASM03]]. It was first used to battle against [[Nanu]]'s Alolan Persian.
+{{-}}
+
+==In the TCG==
+{{main|Lycanroc (TCG)}}
+
+==Game data==
+===Pokédex entries===
+====Midday Form====
+{{Dex/Header|type=Rock}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Its quick movements confuse its enemies. Well equipped with claws and fangs, it also uses the sharp rocks in its mane as weapons.}}
+{{Dex/Entry1|v=Moon|entry=When properly raised from a young age, it will become a trustworthy partner that will absolutely never betray its Trainer.}}
+{{Dex/Entry1|v=Ultra Sun|entry=The sharp rocks in its mane can cut like knives. Lycanroc wears its prey down by degrees before finishing them off.}}
+{{Dex/Entry1|v=Ultra Moon|entry=The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Midnight Form====
+{{Dex/Header|type=Rock}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=The more intimidating the opponent it faces, the more this Pokémon's blood boils. It will attack with no regard for its own safety.}}
+{{Dex/Entry1|v=Moon|entry=It goads its enemies into attacking, withstands the hits, and in return, delivers a headbutt, crushing their bones with its rocky mane.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It has no problem ignoring orders it doesn't like. It doesn't seem to mind getting hurt at all—as long as it can finish off its opponent.}}
+{{Dex/Entry1|v=Ultra Moon|entry=They live alone without forming packs. They will only listen to orders from Trainers who can draw out their true power.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Dusk Form====
+{{Dex/Header|type=Rock}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=Bathed in the setting sun of evening, Lycanroc has undergone a special kind of evolution. An intense fighting spirit underlies its calmness.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This strange form is the result of its evolving at dusk. It's very rare in Alola.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Vast Poni Canyon]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Vast Poni Canyon]] <small>(Midday and Midnight Form)</small><br>[[Evolve]] {{a|Own Tempo}} {{p|Rockruff}} <small>(Dusk Form)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|Great Challenge|Lycanroc Appears}}'' <small>(Midday Form)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Rock}}
+{{eventAvail|{{gameabbrev7|SM}}|Rocky Lycanroc|PAL region|Online|50|May 5 to August 4, 2017|link=List of PAL region serial code event Pokémon distributions in Generation VII#Rocky Lycanroc}}
+{{eventAvail|{{gameabbrev7|SM}}|Rocky Lycanroc|American region|Online|50|May 15 to August 4, 2017|link=List of American region serial code event Pokémon distributions in Generation VII#Rocky Lycanroc}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Rock
+|event1=Life Orb|event1type=In-battle effect item|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+=====Midday Form=====
+{{Stats
+|type=Rock
+|HP=75
+|Attack=115
+|Defense=65
+|SpAtk=55
+|SpDef=65
+|Speed=112}}
+
+=====Midnight Form=====
+{{Stats
+|type=Rock
+|HP=85
+|Attack=115
+|Defense=75
+|SpAtk=55
+|SpDef=75
+|Speed=82}}
+
+=====Dusk Form=====
+{{Stats
+|type=Rock
+|HP=75
+|Attack=117
+|Defense=65
+|SpAtk=55
+|SpDef=65
+|Speed=110}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=200
+|Grass=200
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Midday Form=====
+{{learnlist/levelh/7|Lycanroc|Rock|Rock|7}}
+{{learnlist/level7|1|Accelerock|Rock|Physical|40|100|20||'''}}
+{{learnlist/level7|1|Quick Guard|Fighting|Status|—|—|15}}
+{{learnlist/level7|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level7|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level7|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Accelerock|Rock|Physical|40|100|20||'''}}
+{{learnlist/level7|4|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level7|7|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|12|Howl|Normal|Status|—|—|40}}
+{{learnlist/level7|15|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level7|18|Odor Sleuth|Normal|Status|—|—|40}}
+{{learnlist/level7|23|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/level7|26|Roar|Normal|Status|—|—|20}}
+{{learnlist/level7|29|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level7|34|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level7|37|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level7|40|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|45|Rock Climb|Normal|Physical|90|85|20}}
+{{learnlist/level7|48|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/levelf/7|Lycanroc|Rock|Rock|7}}
+
+=====Midnight Form=====
+{{learnlist/levelh/7|Lycanroc|Rock|Rock|7}}
+{{learnlist/level7|1|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/level7|1|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/level7|1|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level7|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level7|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/level7|4|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level7|7|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|12|Howl|Normal|Status|—|—|40}}
+{{learnlist/level7|15|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level7|18|Odor Sleuth|Normal|Status|—|—|40}}
+{{learnlist/level7|23|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/level7|26|Roar|Normal|Status|—|—|20}}
+{{learnlist/level7|29|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level7|34|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level7|37|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level7|40|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|45|Rock Climb|Normal|Physical|90|85|20}}
+{{learnlist/level7|48|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/levelf/7|Lycanroc|Rock|Rock|7}}
+
+=====Dusk Form=====
+{{learnlist/levelh/7|Lycanroc|Rock|Rock|7|SM|USUM}}
+{{learnlist/levelVII|N/A|1|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/levelVII|N/A|1|Accelerock|Rock|Physical|40|100|20||'''}}
+{{learnlist/levelVII|N/A|1|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/levelVII|N/A|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/levelVII|N/A|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/levelVII|N/A|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/levelVII|N/A|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/levelVII|N/A|{{tt|Evo.|Learned upon evolving}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/levelVII|N/A|4|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/levelVII|N/A|7|Bite|Dark|Physical|60|100|25}}
+{{learnlist/levelVII|N/A|12|Howl|Normal|Status|—|—|40}}
+{{learnlist/levelVII|N/A|15|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/levelVII|N/A|18|Odor Sleuth|Normal|Status|—|—|40}}
+{{learnlist/levelVII|N/A|23|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/levelVII|N/A|26|Roar|Normal|Status|—|—|20}}
+{{learnlist/levelVII|N/A|29|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/levelVII|N/A|34|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/levelVII|N/A|37|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/levelVII|N/A|40|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/levelVII|N/A|45|Rock Climb|Normal|Physical|90|85|20}}
+{{learnlist/levelVII|N/A|48|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/levelf/7|Lycanroc|Rock|Rock|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Lycanroc|Rock|Rock|7}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Lycanroc|Rock|Rock|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Lycanroc|Rock|Rock|7}}
+{{learnlist/breed7|{{MSP|028|Sandslash}}{{MSP|335|Zangoose}}|Crush Claw|Normal|Physical|75|95|10}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|058|Growlithe}}{{MSP|059|Arcanine}}{{MSP|136|Flareon}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}<br>{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|232|Donphan}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|310|Manectric}}<br>{{MSP|450|Hippowdon}}{{MSP|508|Stoutland}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}<br>{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}<br>{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}<br>{{MSP|303|Mawile}}{{MSP|327|Spinda}}{{MSP|352|Kecleon}}{{MSP|359|Absol}}{{MSP|431|Glameow}}{{MSP|434|Stunky}}<br>{{MSP|435|Skuntank}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|676|Furfrou}}{{MSP|678|Meowstic}}{{MSP|775|Komala}}|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/breed7|{{MSP|034|Nidoking}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|128|Tauros}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}<br>{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|327|Spinda}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|551|Sandile}}<br>{{MSP|552|Krokorok}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|626|Bouffalant}}<br>{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|759|Stufful}}<br>{{MSP|760|Bewear}}{{MSP|766|Passimian}}{{MSP|775|Komala}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|059|Arcanine}}{{MSP|135|Jolteon}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|229|Houndoom}}<br>{{MSP|232|Donphan}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|309|Electrike}}{{MSP|310|Manectric}}{{MSP|403|Shinx}}<br>{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|450|Hippowdon}}{{MSP|508|Stoutland}}|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/breedf/7|Lycanroc|Rock|Rock|7}}
+
+====By [[Move Tutor|tutoring]]====
+=====Midday Form=====
+{{learnlist/tutorh/7|Lycanroc|Rock|Rock|7}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Drill Run|Ground|Physical|80|95|10|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Lycanroc|Rock|Rock|7}}
+
+=====Midnight Form=====
+{{learnlist/tutorh/7|Lycanroc|Rock|Rock|7}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Lycanroc|Rock|Rock|7}}
+
+=====Dusk Form=====
+{{learnlist/tutorh/7|Lycanroc|Rock|Rock|7}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Drill Run|Ground|Physical|80|95|10|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Lycanroc|Rock|Rock|7}}
+
+====By a prior [[evolution]]====
+{{Learnlist/prevoh/7|Lycanroc|Rock|Rock|7}}
+{{learnlist/prevo7|744|Rockruff|e||||Happy Hour|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/prevo7|744|Rockruff|e||||Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/prevo7|744|Rockruff|e||||Thunder Fang|Electric|Physical|65|95|15}}
+{{Learnlist/prevof/7|Lycanroc|Rock|Rock|7}}
+
+====By {{pkmn2|event}}s====
+{{learnlist/eventh/7|Lycanroc|Rock|Rock|7}}
+{{learnlist/event7|[[Lycanroc (Pokémon)#In events|Rocky Lycanroc]]|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/event7|[[Lycanroc (Pokémon)#In events|Rocky Lycanroc]]|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/eventf/7|Lycanroc|Rock|Rock|7}}
+
+===Side game data===
+{{Spindata/Head|type=Rock}}
+{{Spindata/Shuffle|col=6|type=Rock|ndex=745|num=730
+|min=60
+|max=135
+|raisemaxlevel=20
+|skill=Rock Combo
+|skilldesc=Increases damage done by any Rock types in the combo.
+}}
+|}
+
+===Evolution===
+{{Evobox
+|family=Normal
+|sprite1=744Rockruff
+|name1=Rockruff
+|type1-1=Rock
+|evotype1=Version
+|evover1=Sun
+|time1=in the {{color2|000|Time|day}}<br>starting {{color2|000|Level|Level 25}}
+|sprite2=745Lycanroc
+|name2=Lycanroc
+|form2=Midday Form
+|type1-2=Rock
+|evotype1a=Version
+|evover1a=Moon
+|time1a=at {{color2|000|Time|night}} starting<br>{{color2|000|Level|Level 25}}
+|sprite2a=745Lycanroc-Midnight
+|name2a=Lycanroc
+|form2a=Midnight Form
+|type1-2a=Rock}}
+
+====Dusk Form====
+{{evobox
+|family=Normal
+|sprite1=744Rockruff
+|name1=Rockruff
+|form1={{acolor|Own Tempo|000}} Rockruff
+|type1-1=Rock
+|evotype1=Level
+|level1=25
+|time1=from 5 pm to 5:59 pm{{sup/7|USUM}}
+|sprite2=745Lycanroc-Dusk
+|name2=Lycanroc
+|form2=Dusk Form
+|type1-2=Rock}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7/3Forms/USUM|ndex=745|form1=Mn|form2=D}}
+{{Spritebox/Footer|745|Lycanroc}}
+
+==Trivia==
+* Lycanroc and its {{p|Rockruff|pre-evolution}} are the only {{type|Rock}} Pokémon that cannot learn {{m|Sandstorm}}.
+
+===Origin===
+Lycanroc may be based on the {{wp|Japanese wolf}} or the {{wp|Hokkaido wolf}}.
+
+Lycanroc's Midday and Dusk Forms appears to be based on a {{wp|wolf}}, while its Midnight Form appears to be based on a {{wp|werewolf}}.
+
+====Name origin====
+Lycanroc may be a combination of ''{{wp|werewolf|lycanthrope}}'' and ''rock''.
+
+Lugarugan may be a combination of ''{{wp|rougarou}}'', ''loup-garou'' (French for ''werewolf''), ガルル ''garuru'' (a dog's growling), and 岩 ''gan'' (rock).
+
+==In other languages==
+{{Other languages|type=Rock|type2=Rock
+|ja=ルガルガン ''Lugarugan''|jameaning=From {{tt|''loup-garou''|French for werewolf}}, {{tt|ガルル ''garuru''|a dog's growling}}, and {{tt|岩 ''gan''|rock}}
+|fr=Lougaroc|frmeaning=From {{tt|''loup-garou''|werewolf}} and {{tt|''roc''|rock}}
+|es=Lycanroc|esmeaning=Same as English name
+|de=Wolwerock|demeaning=From ''Wolf'', {{tt|''Werwolf''|werewolf}}, and ''rock''
+|it=Lycanroc|itmeaning=Same as English name
+|ko=루가루암 ''Rugaruam''|komeaning=From {{tt|''loup-garou''|French for werewolf}} and {{tt|암 (岩) ''am''|rock}}
+|zh_cmn=鬃岩狼人 ''Zōngyánlángrén''|zh_cmnmeaning=From {{tt|鬃狼 ''zōngláng''|maned wolf}}, {{tt|岩 ''yán''|rock}}, {{tt|狼人 ''lángrén''|werewolf}}
+|zh_yue=鬃岩狼人 ''Jūngngàahmlòhngyàhn''|zh_yuemeaning=From {{tt|鬃狼 ''jūnglòhng''|maned wolf}}, {{tt|岩 ''ngàahm''|rock}}, {{tt|狼人 ''lòhngyàhn''|werewolf}}
+|ru=Лайканрок ''Laykanrok''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+{|
+|- style="vertical-align:top"
+|
+''Midday Form''
+{{langtable|color={{day color}}|bordercolor={{day color dark}}
+|ja=まひるのすがた ''Midday Form''
+|zh_yue=白晝的樣子 ''{{tt|Baahkjau-dīk Yeuhngjí|Daytime Form}}''
+|zh_cmn=白晝的樣子 / 白昼的样子 ''{{tt|Báizhòu-de Yàngzi|Daytime Form}}''
+|da=Middagsform
+|nl=Dagvorm
+|fi=Keskipäivä-muoto
+|fr=Forme Diurne
+|de=Tagform
+|hu=Déli Forma
+|it=Forma Giorno
+|ko=한낮의모습 ''Hannaj-ui Moseup''
+|no=Dagform
+|pl=Forma Południowa
+|pt_br=Forma Diurna
+|ru=Форма «Полдень» ''Forma "Polden'"''
+|es_la=Forma Meridiana
+|es_eu=Forma Diurna
+|sv=Dagsform<br>Middagsform{{tt|*|SM036}}
+|vi=Hình thái giữa trưa
+}}
+|
+''Midnight Form''
+{{langtable|color={{night color}}|bordercolor={{night color dark}}|textcolor={{night textcolor}}
+|ja=まよなかのすがた ''Midnight Form''
+|zh_yue=黑夜的樣子 ''{{tt|Hāakyeh-dīk Yeuhngjí|Nighttime Form}}''
+|zh_cmn=黑夜的樣子 / 黑夜的样子 ''{{tt|Hēiyè-de Yàngzi|Nighttime Form}}''
+|da=Midnatsform
+|nl=Nachtvorm
+|fi=Keskiyö-muoto
+|fr=Forme Nocturne
+|de=Nachtform
+|hu=Éjféli Forma
+|it=Forma Notte
+|ko=한밤중의 모습 ''Hanbamjung-ui Moseup''
+|no=Nattform
+|pl=Forma Północna
+|pt_br=Forma Noturna
+|ru=Форма «Полночь» ''Forma "Polnoch'"''
+|es_la=Forma Medianoche
+|es_eu=Forma Nocturna
+|sv=Midnattsform
+|vi=Hình thái giữa đêm
+}}
+|}
+''Dusk Form''
+{{langtable|color={{orange color}}|bordercolor={{orange color dark}}
+|ja=たそがれのすがた ''Dusk Form''
+|zh_yue=黃昏的樣子 ''{{tt|Wòhngfān-dīk Yeuhngjí|Dusk Form}}''
+|zh_cmn=黃昏的樣子 / 黄昏的样子 ''{{tt|Huánghūn-de Yàngzi|Dusk Form}}''
+|cs=Soumračná forma
+|da=Skumringsform
+|nl=Schemervorm
+|fi=Iltahämärämuoto
+|fr=Forme Crépusculaire
+|de=Zwielichtform
+|it=Forma Crepuscolo
+|ko=황혼의 모습 ''Hwanghon-ui Moseup''
+|no=Skumringsform 
+|pl=Wieczorna forma
+|ru=Сумеречная форма ''Sumerechnaya forma''
+|es=Forma Crepuscular
+|sv=Skymningsform
+}}
+
+==Related articles==
+* [[Ash's Lycanroc]]
+
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=744|prev=Rockruff|nextnum=746|next=Wishiwashi}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Body style 06 Pokémon]]<!--Midnight Form-->
+[[Category:Red-colored Pokémon]]<!--Midnight Form-->
+[[Category:Pokémon that appeared in the anime before their game debut]]<!--Dusk Form-->
+
+[[de:Wolwerock]]
+[[fr:Lougaroc]]
+[[it:Lycanroc]]
+[[ja:ルガルガン]]
+[[zh:鬃岩狼人]]

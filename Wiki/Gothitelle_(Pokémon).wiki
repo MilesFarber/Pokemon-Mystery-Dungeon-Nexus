@@ -1,0 +1,406 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=575|prev=Gothorita|nextnum=577|next=Solosis}}
+|}
+{{Pokémon Infobox
+|name=Gothitelle
+|jname=ゴチルゼル
+|jtranslit=Gochiruzeru
+|tmname=Gothiruselle
+|category=Astral Body
+|typebox=1
+|type1=Psychic
+|abilityn=d
+|ability1=Frisk
+|ability2=Competitive
+|abilityd=Shadow Tag
+|ndex=576
+|udex=082
+|u2dex=138
+|karea=Mountain
+|kdex=128
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=97.0
+|weight-kg=44.0
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=20
+|expyield=221
+|lv100exp=1,059,860
+|gendercode=191
+|color=Purple
+|catchrate=50
+|evtotal=3
+|evsd=3
+|body=12
+|pokefordex=gothitelle
+|generation=5
+|friendship=70
+}}
+'''Gothitelle''' ([[List of Japanese Pokémon names|Japanese]]: '''ゴチルゼル''' ''Gothiruselle'') is a {{type|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Gothorita}} starting at [[level]] 41. It is the final form of {{p|Gothita}}.
+
+==Biology==
+Gothitelle is a humanoid Pokémon with a primarily black body. Its head is teardrop-shaped, with a white, bow-like fixture attached to the base of its tip. The black skin on Gothitelle's head opens onto its purple face with a zig-zag pattern resembling bangs. Gothitelle has large, heavy-lidded eyes with blue irises and white pupils, as well as a small mouth with red lips. Four flat, black disks flank each side of its head. Gothitelle's body is split into four progressively-larger tiers, with its head and arms being attached to the smallest, uppermost tier. Its arms are thin, ending in small, purple hands with white disks at the wrists. Each tier of Gothitelle's body has a white, bow-like fixture on its front.
+
+Gothitelle's immense psychic power can distort the space around it, showing visions of distant stars and [[BW021|past events]]. It can predict the future from the placement and movement of stars, and weeps when it discovers the lifespan of its Trainer.
+
+==In the anime==
+[[File:Gothitelle PK25.png|thumb|250px|left|Gothitelle in the {{pkmn|anime}}]]
+===Major appearances===
+Gothitelle debuted in ''[[BW021|The Lost World of Gothitelle!]]'', where it prevented {{Ash}} and {{ashfr}} from crossing the [[Skyarrow Bridge]]. It then created an illusion of how its life used to be before the bridge was built, which was serving those who rode the ferry that traveled to [[Castelia City]]. Gothitelle eventually let the group cross the bridge after being reunited with its friend [[Sally]].
+
+A Gothitelle appeared in ''[[M14|Black—Victini and Reshiram]]'', under the ownership of [[Damon]]. It was seen in the film as Damon's partner during his travels, and later battled against [[Ash's Pikachu]].
+
+A Gothitelle appeared in ''[[BW090|Jostling for the Junior Cup!]]'', under the ownership of [[Caitlin]]. It battled against [[Cynthia's Garchomp]], but the match ended with no victor.
+
+A Gothitelle appeared in ''[[BW117|Team Plasma's Pokémon Manipulation!]]'', under the ownership of [[Anthea and Concordia|Anthea]]. It reappeared in ''[[BW118|Secrets From Out of the Fog!]]'' and ''[[BW122|What Lies Beyond Truth and Ideals!]]''. During the latter episode, Anthea's Gothitelle temporarily came under the control of [[Team Plasma]].
+
+A Gothitelle appeared in ''[[PK25|Eevee & Friends]]'' alongside {{p|Gothita}} and {{p|Gothorita}}, where they were friends with an {{p|Umbreon}} living with an {{p|Eevee}} and the rest of the [[Eeveelution]]s.
+
+===Minor appearances===
+A Gothitelle appeared in ''[[BW051|Lost at the Stamp Rally!]]'', where it was seen performing in a [[Pokémon Musical]]. It used {{m|Telekinesis}} to pull {{Ash}}, {{AP|Pikachu}}, and {{AP|Oshawott}} onstage and helped dress them so they can perform as well. Afterwards, Gothitelle used Ash as a dance partner.
+
+Gothitelle made cameo appearances in ''[[BW067|Cilan Takes Flight!]]'' and ''[[BW069|Climbing the Tower of Success!]]''.
+
+A Gothitelle appeared in ''[[BW080|Clash of the Connoisseurs!]]'' in a fantasy.
+
+A Gothitelle appeared in ''[[BW083|Rocking the Virbank Gym! Part 1]]'' after losing in [[Roxie]]'s Gym.
+
+A Gothitelle appeared in ''[[BW104|Mission: Defeat Your Rival!]]''.
+
+A Gothitelle appeared briefly in ''[[BW106|Strong Strategy Steals the Show!]]'', under the ownership of [[Flora]]. It battled [[Virgil]]'s {{p|Umbreon}} and lost.
+
+A Trainer's Gothitelle appeared in ''[[M20|I Choose You!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW021|Gothitelle|Ash's Pokédex|Gothitelle, the Astral Body Pokémon. Gothitelle's {{t|Psychic}} power is so great that it is said to warp space around it, and distort reality in the process.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Caitlin Gothitelle Adventures.png|thumb|Gothitelle in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Gothitelle was used by a Team Plasma Grunt to capture {{p|Victini}} at [[Liberty Garden]] in ''[[PS480|At Liberty on Liberty Garden]]''. It also used {{m|Hypnosis}} to drive people away from the island. It later was defeated by {{adv|Black}}'s {{p|Braviary|Brav}}, which also undid the effects of the Hypnosis on the nearby people.
+
+Another Gothitelle is seen in the possession of [[Caitlin]] in ''[[PS511|Dream a Little Dream]]''. She uses its psychic abilities to discreetly communicate with the Unova [[Gym Leader]]s and {{adv|Black}}.
+
+===In the Pocket Monsters BW manga===
+A Gothitelle made an appearance in [[PMBW08|the eighth chapter of Pocket Monsters BW]].
+
+==In the TCG==
+{{main|Gothitelle (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Psychic}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.}}
+{{Dex/Entry1|v=White|entry=They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It can see the future from the movement of the stars. When it learns its Trainer's life span, it cries in sadness.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.}}
+{{Dex/Entry1|v=Y|entry=They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Black|t=fff|area={{rt|9|Unova}} ({{DL|Phenomenon|Rustling grass}})}}
+{{Availability/Entry1/None|1|v=White}}
+{{Availability/Entry1|1|v=Black 2|t=fff|area={{rt|9|Unova}} ({{DL|Phenomenon|Rustling grass}})}}
+{{Availability/Entry1/None|1|v=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Gothorita}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Gothorita}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Gothorita}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+[[File:PP2 Gothitelle.png|thumb|right|200px|Gothitelle in [[PokéPark 2: Wonders Beyond]]]]
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Frozen Tundra]], [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Wish Park]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Gothorita}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Glacier Palace - Eastern Spire]] (1F-12F), [[Glacier Palace - Western Spire]] (1F-12F), [[Rusty Mountain]] (Golden Chamber), [[Jaws of the Abyss]] (B1-B28), [[Smoking Mountain]] (1F-24F), [[Cape at the Edge]] (B1-B29), [[Axe Rock]] (10F-14F), [[Strongest Trail]] (B1-B59), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Aquatic Hill#The Floors Are Hot!|Aquatic Hill: The Floors Are Hot!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 3|Dragon Hill: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 228]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Ivory Pillar|White Ruins: Ivory Pillar]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Psychic
+|bl21=Persim Berry|bl21type=Berry|bl21rar=50
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Psychic
+|HP=70
+|Attack=55
+|Defense=95
+|SpAtk=95
+|SpDef=110
+|Speed=65}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=50
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Gothitelle|Psychic|Psychic|5}}
+{{learnlist/level7|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|1|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|1|Play Nice|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|3|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|7|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|10|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|14|Double Slap|Normal|Physical|15|85|10}}
+{{learnlist/level7|16|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level7|19|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|24|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/level7|25|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/level7|28|Flatter|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|31|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/level7|34|Heal Block|Psychic|Status|&mdash;|100|15}}
+{{learnlist/level7|39|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|45|Telekinesis|Psychic|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|54|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/level7|59|Magic Room|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/levelf/7|Gothitelle|Psychic|Psychic|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Gothitelle|Psychic|Psychic|5}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Gothitelle|Psychic|Psychic|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Gothitelle|Psychic|Psychic|5}}
+{{learnlist/breed7|{{MSP|063|Abra}}{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}<br>{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|106|Hitmonlee}}{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}<br>{{MSP|125|Electabuzz}}{{MSP|466|Electivire}}{{MSP|126|Magmar}}{{MSP|467|Magmortar}}{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}<br>{{MSP|302|Sableye}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|313|Volbeat}}{{MSP|327|Spinda}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}<br>{{MSP|448|Lucario}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Captivate|Normal|Status|&mdash;|100|20|‡}}
+{{learnlist/breed7|{{MSP|302|Sableye}}{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}{{MSP|448|Lucario}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}<br>{{MSP|605|Elgyem}}{{MSP|606|Beheeyem}}{{MSP|624|Pawniard}}{{MSP|625|Bisharp}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}<br>|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/breed7|{{MSP|448|Lucario}}|Heal Pulse|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|302|Sableye}}|Mean Look|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|605|Elgyem}}{{MSP|606|Beheeyem}}|Miracle Eye|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|428|Lopunny}}|Mirror Coat|Psychic|Special|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|327|Spinda}}|Uproar|Normal|Special|90|100|10}}
+{{learnlist/breedf/7|Gothitelle|Psychic|Psychic|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Gothitelle|Psychic|Psychic|5}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magic Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Gothitelle|Psychic|Psychic|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Gothitelle|Psychic|Psychic|5}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Gothitelle|Psychic|Psychic|5}}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/RumbleBlast|col=6|type=Psychic
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Psychic|ndex=576
+|pad=She came to [[Wish Park]] from a foreign land. There is something noble about her. She looks far away wistfully, but something good happened lately.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Psychic|ndex=576
+|HP=3
+|atk=3
+|def=4
+|spd=3
+|range=3
+|move=Future Sight
+|ability1=Instinct
+|ability2=Perception
+|ability3=Calming
+|evo=Evolves from {{p|Gothorita}} when its Defense is 106 or higher
+|link='''[[Gracia]]''', {{DL|List of Pokémon Conquest characters|Ise}}, and {{DL|List of Pokémon Conquest characters|Tadaoki}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=576
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=576|num=293
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Quirky+
+|skilldesc=Sometimes erases two extra matching Pokémon elsewhere.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Psychic
+|no1=574
+|name1=Gothita
+|type1-1=Psychic
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 32}}
+|no2=575
+|name2=Gothorita
+|type1-2=Psychic
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 41}}
+|no3=576
+|name3=Gothitelle
+|type1-3=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=576}}
+{{Spritebox/6|ndex=576}}
+{{Spritebox/7|ndex=576}}
+{{Spritebox/Footer|576|Gothitelle}}
+
+==Trivia==
+===Origin===
+Gothitelle appears to be based on a stylized depiction of a young woman wearing {{wp|Lolita fashion#Gothic Lolita|Gothic lolita}}-style clothing. It may also be based on the philosophical concept of the {{wp|astral body}}. Its ability to predict the future using stars may allude to {{wp|fortune-telling|fortune teller}}s or {{wp|Romani people}}.
+
+====Name origin====
+Gothitelle may be a combination of ''gothic'' and ''mademoiselle'' (French for the title of ''miss''), ''tell'', or ''stelle'' (Italian for ''stars'', both ''stelle'' and ''tell'' referring to its ability to foretell the future through the movement of the stars) and may be derived from ''göksel'' (Turkish for ''celestial'').
+
+Gothiruselle may be a combination of ''gothic'' and ''mademoiselle'' (French for the title of ''miss'').
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Psychic
+|ja=ゴチルゼル ''Gothiruselle''|jameaning=From ''gothic'' and ''mademoiselle''
+|fr=Sidérella|frmeaning=From {{wp|Sidereal|{{tt|''Sidéral''|Sidereal}}}} and ''Cinderella''
+|es=Gothitelle|esmeaning=Same as English name
+|de=Morbitesse|demeaning=From ''morbid'' and ''{{tt|-esse|French suffix for females}}''
+|it=Gothitelle|itmeaning=Same as English name
+|ko=고디모아젤 ''Godimoiselle''|komeaning=From ''gothic'' and ''mademoiselle''
+|zh_cmn=哥德小姐 ''Gēdéxiǎojiě''|zh_cmnmeaning=From {{tt|哥德 ''Gēdé''|gothic}} and {{tt|小姐 ''xiǎojiě''|mademoiselle}}
+|ru=Гофителль ''Gofitell'''|rumeaning=From English name
+|sr=Gotitel|srmeaning=From English name
+}}
+{{left clear}}
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=575|prev=Gothorita|nextnum=577|next=Solosis}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Morbitesse]]
+[[fr:Sidérella]]
+[[it:Gothitelle]]
+[[ja:ゴチルゼル]]
+[[pl:Gothitelle]]
+[[zh:哥德小姐]]

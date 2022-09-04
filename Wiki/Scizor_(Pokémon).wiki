@@ -1,0 +1,705 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Steel}}
+{{PokémonPrevNext/GO|species=Scizor}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=211|prev=Qwilfish|nextnum=213|next=Shuckle|round=none}}
+{{PokémonPrevNext/Disambig|species=Scizor}}
+|}
+{{Pokémon Infobox
+|name=Scizor
+|jname=ハッサム
+|jtranslit=Hassamu
+|tmname=Hassam
+|forme=2
+|form2=Mega Scizor
+|image2=212Scizor-Mega.png
+|mega=Scizorite
+|ndex=212
+|oldjdex=111
+|jdex=112
+|sdex=196
+|karea=Mountain
+|kdex=137
+|adex=276
+|fbrow=044
+|abrow=217
+|obrow=223
+|type1=Bug
+|type2=Steel
+|category={{tt|Pincer|SCISSORS in Generation II}}
+|height-ftin=5'11"
+|height-m=1.8
+|weight-lbs=260.1
+|weight-kg=118.0
+|height-ftin2=6'07"
+|height-m2=2.0
+|weight-lbs2=275.6
+|weight-kg2=125.0
+|abilitylayout=2+1
+|abilitycolm=2
+|ability1=Swarm
+|ability2=Technician
+|abilityd=Light Metal
+|abilitym=Technician
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=25
+|evtotal=2
+|evat=2
+|expyield=175
+|oldexp=200
+|lv100exp=1,000,000
+|gendercode=127
+|color=Red
+|catchrate=25
+|body=13
+|pokefordex=scizor
+|generation=2
+|friendship=70
+}}
+'''Scizor''' ([[List of Japanese Pokémon names|Japanese]]: '''ハッサム''' ''Hassam'') is a dual-type {{2t|Bug|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Scyther}} when [[trade]]d holding a [[Metal Coat]]. It can [[Mega Evolution|Mega Evolve]] into '''Mega Scizor''' using the [[Scizorite]].
+
+==Biology==
+[[File:Gary Scizor.png|thumb|200px|left|Scizor with its wings retracted]]
+Scizor is a bipedal, insectoid Pokémon with a red, metallic exoskeleton. It has gray, retractable forewings and hind wings with simple, curved venation. Its head is kite-shaped with three blunt horns extending above its forehead, and dark yellow eyes. Scizor's neck and part of its thorax give the appearance of being exposed: they show black skin, and are surrounded by its raised exoskeleton. Scizor has a large abdomen with three black, pointed stripes below the waist; the female has a larger abdomen than the male. Scizor has broad shoulders and thin, segmented arms ending in large, round pincers. Scizor's legs are defined by large hip joints, thin thighs, and wide calves, its feet ending in one clawed toe in front and another in the back.
+
+Mega Scizor's pincers lengthen and develop serrations. The lower half of the claws turns white and gain three pointed spikes on the underside. The barbs on Mega Scizor's claws can stab through concrete, and opponents caught in them are unable to escape.<ref>http://www.pokemonxy.com/en-us/pokemon/mega_pokemon/#Scizor</ref> Its eyespots are now blue with a thin black rim. Though they lack the black rim, its eyes are blue as well. Additional pieces of black armoring appear on various area of its body: a three-pointed crest on its forehead and striated coverings on its shoulders and thighs. Mega Scizor's legs are less detailed and resemble large, tapered spikes with white tips.
+
+Scizor's body is as hard as steel, with claws strong enough to crush any hard object. They can be opened and closed like jaws, and are patterned with black, eyespots with yellow "pupils." It will raise its claws and wave them around to scare off predators or foes, giving it the appearance of having three heads. Scizor is incapable of flight, instead quickly flapping its wings to regulate its body temperature. It lives in {{DL|List of Pokémon by habitat|Grassland Pokémon|grasslands}}.
+
+==In the anime==
+[[File:McCann Scizor.png|thumb|220px|left|Scizor in the {{pkmn|anime}}]]
+[[File:Wikstrom Mega Scizor.png|thumb|220px|left|Mega Scizor in the anime]]
+===Major appearances===
+Two Scizor appeared in ''[[EP140|Wired For Battle]]'', under the ownership of two different {{pkmn|Trainer}}s. The one belonging to [[Muramasa]] was [[nickname]]d '''Masamune''', while the {{DL|Shingo|Blade|Scizor}} owned by [[Shingo]] was called '''Blade'''.
+
+A Scizor appeared in ''[[M04|Celebi: The Voice of the Forest]]'', under the ownership of the [[Iron-Masked Marauder]]. It was used to retrieve {{OBP|Celebi|M04}}.
+
+A Scizor appeared in ''[[EP270|Can't Beat the Heat!]]'', under the ownership of {{Gary}}. He used it a during his battle against {{Ash}} in the [[Silver Conference]]. It defeated {{AP|Snorlax}} and {{AP|Muk}}, but lost to {{AP|Charizard}}.
+
+A Scizor appeared in ''[[AG129|A Judgment Brawl]]'', under the ownership of {{ho|Katie}}. She used it during her battle against Ash in the [[Ever Grande Conference]], where it battled {{AP|Swellow}} and lost.
+
+A Scizor owned by a girl named [[Luna]] appeared in ''[[AG166|Curbing the Crimson Tide]]''. It used to disguise itself as "Red Lightning" and battle other people's Pokémon, defeating then and scribbling on their faces. Its reign of terror ended when [[Ash's Pikachu]] blasted its costume off and [[Ash's Sceptile]] defeated it in battle.
+
+A Scizor appeared in ''[[DP008|Gymbaliar!]]'', under the ownership of a girl named [[Minnie]]. It was used in battle against [[Brock's Croagunk|Jessie's Croagunk]] and lost.
+
+A Scizor appeared in ''[[DP154|Mastering Current Events!]]'', under the ownership of [[McCann]]. It was used in a battle against Ash and {{AP|Gliscor}}, and it was able to beat Gliscor using the wind. It had a rematch against Gliscor and nearly lost, but it was again able to win the match.
+
+Two Scizor appeared in ''[[M13|Zoroark: Master of Illusions]]'', under the ownership of [[Goone]]. They were his main offensive Pokémon.
+
+A Scizor that can [[Mega Evolution|Mega Evolve]] appeared in ''[[M17|Diancie and the Cocoon of Destruction]]'', under the ownership of [[Wikstrom]].
+
+A Scizor appeared in ''[[XY119|A Full-Strength Battle Surprise!]]'', under ownership of an unnamed Trainer. It had a battle with against Ash and {{AP|Greninja}}, but was eventually defeated.
+
+===Minor appearances===
+[[File:Sugimori Scizor AG.jpg|thumb|220px|[[Ken Sugimori|Sugimori]] reference sheet for the anime]]
+A Scizor was one of the Pokémon seen at the [[Pokémon Swap Meet]] in ''[[EP146|Tricks of the Trade]]''.
+
+A Scizor appeared in {{TRT}}'s fantasy in ''[[EP174|Imitation Confrontation]]''.
+
+A Scizor appeared in ''[[EP210|Around the Whirlpool]]'' as part of {{an|Brock}}'s example.
+
+A Scizor was seen {{pkmn|training}} alongside its Trainer in ''[[EP262|You're a Star, Larvitar!]]''.
+
+A {{pkmn|Trainer}}'s Scizor appeared in ''[[AG101|Vanity Affair]]'', where it had a battle with [[Ash's Torkoal]].
+
+A Scizor appeared in ''[[AG143|The Saffron Con]]'', where it was used by [[Nurse Joy]] to cut [[Jessie]]'s hair as it was tangled with [[James's Cacnea]].
+
+A Trainer's Scizor appeared in '' [[DP035|An Elite Meet and Greet!]]'', where it battled [[Lucian]]'s {{p|Girafarig}}.
+
+A Scizor appeared in ''[[DP088|Camping It Up!]]''.
+
+A Scizor appeared in ''[[DP110|Steeling Peace of Mind!]]''.
+
+A Mega Scizor appeared in the ending credits of ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Scizor appeared in ''[[XY060|A Showcase Debut!]]'', under the ownership of a [[Pokémon Performer]] participating in the {{ci|Coumarine}} {{pkmn|Showcase}}. It reappeared in ''[[XY112|Master Class is in Session!]]'', where it was used in the {{ci|Gloire}} Showcase.
+
+A Mega Scizor briefly appeared in ''[[SS035|Mega Evolution Special IV]]'', where it battled and was quickly defeated by [[Alain's Charizard]].
+
+A Performer's Scizor appeared in ''[[XY109|Master Class Choices!]]'', where it was used in the {{ci|Fleurrh}} Showcase.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP140|Scizor|Ash's Pokédex|Scizor, the Scissor Pokémon. The [[Evolution|evolved]] form of {{p|Scyther}}. Its incredible attack speed and its large scissor-like claws make it a formidable opponent.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP008|Scizor|Dawn's Pokédex|Scizor, the Pincer Pokémon. It intimidates its foes with its claws imprinted with eye-like patterns.}}
+{{Animedexbody|DP154|Scizor|Dawn's Pokédex|Scizor, the Pincer Pokémon. It threatens enemies with its eye-patterned claws, which can swing with tremendous force when used in battle.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Blue Scizor.png|thumb|200px|Scizor in [[Pokémon Adventures]]]]
+[[File:Mega Scizor Adventures.png|thumb|left|150px|Mega Scizor in [[Pokémon Adventures]]]]
+===In the Ash & Pikachu manga===
+{{Gary}}'s Scizor appeared in ''[[SP16|One Half Of A Poké Ball]]'' on the scoreboard during {{Ash}}'s [[Silver Conference]] battle with him.
+
+Another Scizor appeared in ''[[SP29|Battle Till The End! Drake, One Of The Elite Four!]]'' under the ownership of an unknown Trainer.
+
+===In the movie adaptations===
+[[Goone]] owns a Scizor in ''{{ma|Zoroark: Master of Illusions}}''.
+
+===In the Pokémon Adventures manga===
+{{main|Blue's Scizor}}
+Scizor debuted in ''[[PS091|Murkrow Row]]'' where it was seen as one of the Pokémon in [[Joey]]'s bag after {{adv|Gold}} helped him get it back.
+
+Blue's Scizor appeared in ''[[PS115|Forretress of Solitude]]'', having evolved from his Scyther prior to the {{chap|Gold, Silver & Crystal}}. He brings him on his journey to the [[Sevii Islands]].
+
+In ''[[PS179|The Last Battle XIII]]'' a Scizor was one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+A Scizor appeared in a fantasy [[Mega Evolve]]d in ''[[PAXY07|Lucky Lucario Was Here]]''.
+
+A Scizor that can [[Mega Evolve]] appeared in a fantasy in the {{chap|X & Y}}.
+
+===In the Pokémon Gotta Catch 'Em All manga===
+[[Rin and Ran|Ran]] owns a Scizor.
+
+[[Hideki]] also owns a Scizor.
+
+===In the Pokémon Pocket Monsters manga===
+{{OBP|Giovanni|Pocket Monsters}} owned a Scizor in ''[[PM077|Pokémon Hair Salon Opens!!]]'' where it became his battling Pokémon after revealing himself from his disguise as Green.
+
+==In the TCG==
+{{main|Scizor (TCG)}}
+
+==Other appearances==
+[[File:Pokkén Scizor.png|200px|thumb|Scizor in Pokkén Tournament]]
+===[[Super Smash Bros. Melee]]===
+Scizor is a more dangerous version of [[Marill (Pokémon)#Super Smash Bros. Melee|Marill]]. Not only does it do more damage but it will also jump around the screen targeting an opponent.
+
+====Trophy information====
+''This evolved form of {{p|Scyther}} has arms ending in large pincers with distinctive eye-spot markings. It's unable to fly very far with its wings, but it can affect its body temperature by flapping them at high speeds. Its sleek look has made Scizor quite popular among collectors.''
+
+===[[Super Smash Bros. for Wii U]]===
+Scizor makes a cameo appearance in the {{st|Kalos Pokémon League}}. When the stage transitions to the {{DL|Pokémon League (Kalos)|Ironworks Chamber}}, it can be seen in the background along with {{p|Steelix}}, {{p|Klinklang}}, and {{p|Honedge}}.
+
+====Trophy information====
+'''NA:''' ''Is that a three-headed monster?! No, wait... the left and right heads are actually claws! Creepy. Most creatures that have face-like patterns use them defensively to give themselves a chance to flee. Scizor throws that idea away and uses them to scare foes while it attacks!''
+
+'''PAL:''' ''It may look like this Pokémon has three heads, but that's just what it wants you to think. Look closer and you'll see that two of them are actually claws. Most creatures with face-like markings use them to scare predators to give themselves a chance to run away, but Scizor seems more likely to attack while its foe is stunned!''
+
+===[[Pokkén Tournament|Pokkén Tournament DX]]===
+Scizor is a playable character in the arcade and Nintendo Switch versions of Pokkén Tournament.
+
+==Game data==
+===NPC appearances===
+* {{ga|Pokémon Ranger}}: [[Go-Rock Quads|Garret]] uses a Scizor in his attempts to stop the player.
+* {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}: Scizor is a famous explorer who is captured by {{p|Froslass}} in ice for several decades. The player defeats Froslass and frees Scizor, who bestows the Secret Rank upon the player's team in gratitude.
+
+===Pokédex entries===
+====Scizor====
+{{Dex/Header|type=Bug|type2=Steel}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.}}
+{{Dex/Entry1|v=Silver|entry=Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.}}
+{{Dex/Entry1|v=Crystal|entry=This Pokémon's pincers, which contain steel, can crush any hard object it gets a hold of into bits.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.}}
+{{Dex/Entry1|v=FireRed|entry=Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.}}
+{{Dex/Entry1|v=LeafGreen|entry=It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.}}
+{{Dex/Entry1|v=Platinum|entry=It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.}}
+{{Dex/Entry1|v=HeartGold|entry=It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=This Pokémon's pincers, which contain steel, can crush any hard object it gets a hold of into bits.}}
+{{Dex/Entry1|v=Y|entry=It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It uses its wings to adjust its body temperature. Otherwise, its metal body would become too hot and melt in the heat of battle.}}
+{{Dex/Entry1|v=Moon|entry=Once it has identified an enemy, this Pokémon smashes it mercilessly with pincers hard as steel.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Its body is like steel. Its tough, heavy pincers are more suited to smashing enemies than grabbing them.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Once it has identified something as an enemy, it will continue beating them with its steel-hard pincers until there's nothing left but scraps.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Mega Scizor====
+{{Dex/Header|type=Bug|type2=Steel}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=The excess energy that bathes this Pokémon keeps it in constant danger of overflow. It can't sustain a battle over long periods of time.}}
+{{Dex/Entry1|v=Moon|entry=Due to the effects of Mega Evolution, its pincers have taken on a more diabolical form, ripping anything they pinch to shreds.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It stores the excess energy from Mega Evolution, so after a long time passes, its body starts to melt.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It's better at beating things than grasping them. When it battles for a long time, the weight of its pincers becomes too much to bear.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Steel}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Scyther}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Scyther}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry1|v=FireRed|area=[[Evolution|Evolve]] {{p|Scyther}}}}
+{{Availability/Entry1/None|v=LeafGreen}}
+{{Availability/Entry1|v=Colosseum|area=[[Card e Room]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}{{tt|*|Japan only}}, [[Trade]]}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Scyther}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|v=Diamond|area=[[Evolution|Evolve]] {{p|Scyther}}}}
+{{Availability/Entry1/None|v=Pearl|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Scyther}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Scyther}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]], {{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Scyther}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Scyther}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Scyther}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Steel}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 6, Forever Level 55, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Scyther}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Lyra Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mt. Travail]] (1F-19F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mt. Travail]] (1F-19F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Altru Building]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Cavern Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Rand's House]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[World Axle - B1F]] (post ending)}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Chrysalia]], [[Valora]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Entranceway#Battle Royale - Cage Match|Entranceway: Battle Royale - Cage Match]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 1|Pitch-Black Cavern: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Jungle Verde|Jungle Verde: Stage 143]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ruby Volcano#Giant Redwood|Ruby Volcano: Giant Redwood]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 11|Area 11: Stage 03]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Bug|type2=Steel}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Goone's Scizor|Japanese|Japan<br>Wi-Fi|50|June 18 to July 14, 2010|link=List of Wi-Fi Japanese event Pokémon distributions in Generation IV#Goone's Scizor}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Goone's Scizor|Korean|South Korea<br>Wi-Fi|50|January 7 to 31, 2011|link=List of Wi-Fi Korean event Pokémon distributions in Generation IV#Goone's Scizor}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Strongest Class Single Battle Scizor|Japanese|Japan|100|September 15 to October 28, 2012|link=List of local Japanese event Pokémon distributions in Generation V#Scizor}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Strongest Class Pokémon Gift Scizor|Korean|South Korea|100|February 24 to May 5, 2013|link=List of local Korean event Pokémon distributions in Generation V#Scizor}}
+{{eventAvail|{{gameabbrev6|XY}}|Winter 2013 Scizor|American region|United States|50|November 27, 2013 to June 30, 2014|link=List of American region serial code event Pokémon distributions in Generation VI#Scizor}}
+{{eventAvail|{{gameabbrev6|XY}}|Pokémon Center Scizor|All|Japan|25|February 1 to 28, 2014|link=List of local event Pokémon distributions in Generation VI#Scizor_2}}
+{{eventAvail|{{gameabbrev6|XY}}|Pokémon Center Battle Championship Scizor|All|Japan|50|May 19 to 25, 2014;<br>June 23 to July 6, 2014|link=List of local event Pokémon distributions in Generation VI#Scizor}}
+|}
+
+====Pokémon Global Link promotions====
+{{eventAvail/h|type=Bug|type2=Steel}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Global Link Scizor|English|PGL|10|December 20, 2012 to February 21, 2013|link=List of Pokémon Global Link promotions/Pokémon#Scizor}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Global Link Scizor|French|PGL|10|December 20, 2012 to February 21, 2013|link=List of Pokémon Global Link promotions/Pokémon#Scizor}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Global Link Scizor|German|PGL|10|December 20, 2012 to February 21, 2013|link=List of Pokémon Global Link promotions/Pokémon#Scizor}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Global Link Scizor|Italian|PGL|10|December 20, 2012 to February 21, 2013|link=List of Pokémon Global Link promotions/Pokémon#Scizor}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Global Link Scizor|Spanish|PGL|10|December 20, 2012 to February 21, 2013|link=List of Pokémon Global Link promotions/Pokémon#Scizor}}
+|}
+
+===Held items===
+{{HeldItems|type=Bug|type2=Steel
+|event1=Starf Berry|event1type=Berry|event1rar=100
+|event2=Life Orb|event2type=None|event2rar=100
+|event3=Silver Powder|event3type=None|event3rar=100
+|event4=Scizorite|event4type=None|event4rar=100
+}}
+
+===Stats===
+====Base stats====
+=====Scizor=====
+{{BaseStats
+|type=Bug
+|type2=Steel
+|HP=      70
+|Attack= 130
+|Defense=100
+|SpAtk=   55
+|SpDef=   80
+|Speed=   65}}
+
+=====Mega Scizor=====
+{{Base Stats
+|type=Bug
+|type2=Steel
+|HP=70
+|Attack=150
+|Defense=140
+|SpAtk=65
+|SpDef=100
+|Speed=75}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Steel
+|Speed=2
+|SpeedMax=2
+|Power=4
+|PowerMax=5
+|Technique=2
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Steel
+|Normal=   50
+|Fighting=100
+|Flying=  100
+|Poison=    0
+|Ground=  100
+|Rock=    100
+|Bug=      50
+|Ghost=   100
+|Steel=    50
+|Fire=    400
+|Water=   100
+|Grass=    25
+|Electric=100
+|Psychic=  50
+|Ice=      50
+|Dragon=   50
+|Dark=    100
+|Fairy=    50
+|notes=yes
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|olddark=½
+|gen5ghost=yes
+|oldghost2=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Scizor|Bug|Steel|2}}
+{{learnlist/level7|1|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level7|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Bullet Punch|Steel|Physical|40|100|30||'''}}
+{{learnlist/level7|5|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|9|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|13|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/level7|17|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|21|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level7|25|Fury Cutter|Bug|Physical|40|95|20||'''}}
+{{learnlist/level7|29|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|33|Razor Wind|Normal|Special|80|100|10}}
+{{learnlist/level7|37|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|41|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/level7|45|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/level7|49|Double Hit|Normal|Physical|35|90|10}}
+{{learnlist/level7|50|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level7|57|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|61|Feint|Normal|Physical|30|100|10}}
+{{learnlist/levelf/7|Scizor|Bug|Steel|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Scizor|Bug|Steel|2}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25||'''}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Scizor|Bug|Steel|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Scizor|Bug|Steel|2}}
+{{learnlist/breed7|{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|283|Surskit}}{{MSP|291|Ninjask}}{{MSP|545|Scolipede}}|Baton Pass|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|049|Venomoth}}{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}<br>{{MSP|267|Beautifly}}{{MSP|269|Dustox}}{{MSP|284|Masquerain}}{{MSP|313|Volbeat}}{{MSP|329|Vibrava}}{{MSP|402|Kricketune}}<br>{{MSP|414|Mothim}}{{MSP|415|Combee}}{{MSP|540|Sewaddle}}{{MSP|588|Karrablast}}{{MSP|589|Escavalier}}{{MSP|595|Joltik}}<br>{{MSP|596|Galvantula}}{{MSP|616|Shelmet}}{{MSP|617|Accelgor}}{{MSP|636|Larvesta}}{{MSP|637|Volcarona}}{{MSP|666|Vivillon}}<br>{{MSP|738|Vikavolt}}{{MSP|742|Cutiefly}}{{MSP|743|Ribombee}}|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/breed7|{{MSP|214|Heracross}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|015|Beedrill}}{{MSP|049|Venomoth}}{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|193|Yanma}}<br>{{MSP|469|Yanmega}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|267|Beautifly}}{{MSP|269|Dustox}}{{MSP|284|Masquerain}}<br>{{MSP|291|Ninjask}}{{MSP|329|Vibrava}}{{MSP|330|Flygon}}{{MSP|414|Mothim}}|Defog|Flying|Status|&mdash;|&mdash;|15|‡}}
+{{learnlist/breed7|{{MSP|214|Heracross}}{{MSP|540|Sewaddle}}{{MSP|588|Karrablast}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|214|Heracross}}{{MSP|402|Kricketune}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}<br>{{MSP|469|Yanmega}}{{MSP|472|Gliscor}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|589|Escavalier}}|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|123|Scyther}}{{MSP|212|Scizor}}|Razor Wind|Normal|Special|80|100|10}}
+{{learnlist/breed7|{{MSP|214|Heracross}}{{MSP|589|Escavalier}}|Reversal|Fighting|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|049|Venomoth}}{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|267|Beautifly}}{{MSP|269|Dustox}}<br>{{MSP|284|Masquerain}}{{MSP|414|Mothim}}{{MSP|637|Volcarona}}{{MSP|742|Cutiefly}}{{MSP|743|Ribombee}}|Silver Wind|Bug|Special|60|100|5||'''}}
+{{learnlist/breed7|{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}<br>{{MSP|329|Vibrava}}{{MSP|330|Flygon}}{{MSP|542|Leavanny}}|Steel Wing|Steel|Physical|70|90|25|‡|'''}}
+{{learnlist/breedf/7|Scizor|Bug|Steel|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Scizor|Bug|Steel|2}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutorf/7|Scizor|Bug|Steel|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Scizor|Bug|Steel|2}}
+{{learnlist/prevo7|123|Scyther|||||Vacuum Wave|Fighting|Special|40|100|30}}
+{{learnlist/prevo7|123|Scyther|||||Wing Attack|Flying|Physical|60|100|35}}
+{{learnlist/prevo7|123|Scyther|||||Air Slash|Flying|Special|75|95|15}}
+{{learnlist/prevof/7|Scizor|Bug|Steel|2}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Steel}}
+{{Spindata/Trozei|col=6|type=Bug|ndex=212|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=212
+|body=1
+|rate=Evolve
+|area=Overgrown Forest
+|P1=I can't fly, but I have power to spare!
+|P2=We have a situation here. My health is down by half.
+|P3=I've had it... Even my pincers are enfeebled...
+|PL=Level-up achieved! My pincers tingle with power!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=212
+|body=1
+|rate=-12
+|IQ=D
+}}
+|-
+{{Spindata/Ranger|col=6|type=Bug
+|group=Steel
+|assist=Bug
+|fieldpower=3
+|field=Cut
+|loop=12
+|MinEXP=260
+|MaxEXP=340
+|browser=Scizor dashes around with intense speed. Its pincers cut through anything!
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Bug
+|group=Steel
+|assist=Steel
+|field=Cut
+|fieldpower=4
+|browser=It dashes around quickly while attacking with its steel pincers.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Bug
+|group=Steel
+|assist=Steel
+|field=Cut
+|fieldpower=4
+|past=NA
+|browser=It attacks with cutting slashes and sharp shock waves.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=4
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Bug|ndex=212
+|Pad=Scizor came to investigate the [[Cavern Zone]] and look for a tough Pokémon! His specialties are {{DL|Attractions|Blaziken's Boulder Bash}} and {{DL|Attractions|Dusknoir's Speed Slam}}!
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Bug|ndex=212
+|strong=
+|weak=
+|pad=He hit the wall in increasing his battle skill. He is working hard playing Chase, because he wants to go back to basics.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Bug|ndex=212
+|HP=3
+|atk=4
+|def=4
+|spd=3
+|range=3
+|move=X-Scissor
+|ability1=Swarm
+|ability2=Parry
+|ability3=Pride
+|evo=Evolves from {{p|Scyther}} after knocking out a [[Warrior]]'s Pokémon in a manner that allows recruitment, while its own Warrior is equipped with a [[Metal Coat]]
+|link={{DL|List of Pokémon Conquest characters|Kamanosuke}}, {{DL|List of Pokémon Conquest characters|Munenori}}, and {{DL|List of Pokémon Conquest characters|Shigezane}}
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Bug|ndex=212
+|power=3
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Bug|ndex=212|num=139
+|mega=1
+|stone=Scizorite
+|min=70
+|max=140
+|raisemaxlevel=20
+|skill=Swarm
+|skilldesc=Increases damage when things are looking desperate.
+|swapper=Swap++
+|megaspeedup=12
+|effectdesc=Erases a jagged line of Pokémon horizontally.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=212
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=140
+|attack=236
+|defense=191
+|fast={{m|Bullet Punch}}, {{m|Fury Cutter}}
+|special={{m|X-Scissor}}, {{m|Iron Head}}, {{m|Night Slash}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Bug
+|type2=Steel
+|pictype=art
+|no1=123
+|name1=Scyther
+|type1-1=Bug
+|type2-1=Flying
+|evo1={{bag|Metal Coat}}<br>{{color2|000|Trade}}<br>holding {{color2|000|Metal Coat}}
+|no2=212
+|name2=Scizor
+|type1-2=Bug
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Steel}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=212}}
+{{Spritebox/3|ndex=212}}
+{{Spritebox/4/Gender|ndex=212}}
+{{Spritebox/5/Gender|ndex=212}}
+{{Spritebox/6/2FormsGender|ndex=212|form1=M}}
+{{Spritebox/7/2FormsGender|ndex=212|form1=M}}
+{{Spritebox/Footer|212|Scizor}}
+
+==Trivia==
+* Scizor shares its {{pkmn|category}} with {{p|Kingler}}. They are both known as the Pincer Pokémon (though Scizor was known as the Scissors Pokémon in Generation II and has been called the Scissor Pokémon in the {{pkmn|anime}}).
+* Despite having different base stats, Scizor and {{p|Scyther|its pre-evolution}} both have a base stat total of 500. In turn, Scizor is the only Pokémon to not have its base stat total changed upon evolving.
+* Mega Scizor is tied with {{p|Pinsir|Mega Pinsir}}, {{p|Heracross|Mega Heracross}} and {{p|Genesect}} for the highest base stat total of all {{type|Bug}} Pokémon.
+* Scizor and {{p|Scyther}}, along with {{p|Pinsir}}, are the only Pokémon legitimately available in all 27 in-game [[Poké Ball]] variants.
+
+===Origin===
+Scizor shares characteristics with flying red {{wp|ant}}s and {{wp|mantis}}es. It also shares characteristics with wasp-mimicking {{wp|mantidflies}}.
+
+====Name origin====
+Scizor is a corruption of ''{{wp|scissors|scissor}}'' or a combination of ''scissors'' and ''{{wp|razor}}''.
+
+Hassam is a corruption of 剪む ''hasamu'' (to clip or snip).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Steel
+|ja=ハッサム ''Hassam''|jameaning=From {{tt|剪む ''hasamu''|clip, snip}}
+|fr=Cizayox|frmeaning=From a corruption of ''{{tt|ciseaux|scissors}}'', and possibly ''oxidation'', in reference to its rust-red color
+|es=Scizor|esmeaning=Same as English name
+|it=Scizor|itmeaning=Same as English name
+|de=Scherox|demeaning=From ''{{tt|Schere|scissors}}'' and possibly ''{{tt|ferox|Latin for ''wild''}}'' or ''{{wp|oxidation}}'', in reference to its rust-red color
+|ko=핫삼 ''Hatsam''|komeaning=Transliteration of its Japanese name
+|zh_cmn=巨鉗螳螂 / 巨钳螳螂 ''Jùqiántángláng''|zh_cmnmeaning=Means "Giant-pincered mantis"
+|hi=सिज़ोर ''Scizor''|himeaning=Transcription of English name
+|ru=Сизор ''Sizor''|rumeaning=Transcription of English name
+|tr=Makura|trmeaning=From ''{{tt|Makas|Scissor}}'' + ''{{tt|Ustura|Razor}}''
+}}
+<br clear="left">
+
+==Related articles==
+* [[Blue's Scizor]]
+
+==Notes==
+<references />
+
+==External links==
+
+{{-}}
+{{Smash Bros.}}
+{{PokémonPrevNext/Head|type=Bug|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=211|prev=Qwilfish|nextnum=213|next=Shuckle}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational evolutions]]
+
+[[de:Scherox]]
+[[fr:Cizayox]]
+[[it:Scizor]]
+[[ja:ハッサム]]
+[[pl:Scizor]]
+[[zh:巨钳螳螂]]

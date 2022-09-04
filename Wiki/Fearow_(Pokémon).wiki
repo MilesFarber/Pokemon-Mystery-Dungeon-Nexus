@@ -1,0 +1,628 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/GO|species=Fearow}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=021|prev=Spearow|nextnum=023|next=Ekans|round=none}}
+{{PokémonPrevNext/Disambig|species=Fearow}}
+|}
+{{Pokémon Infobox
+|name=Fearow
+|jname=オニドリル
+|jtranslit=Onidoriru
+|tmname=Onidrill
+|ndex=022
+|jdex=014
+|karea=Mountain
+|kdex=110
+|adex=074
+|fbrow=040
+|abrow=113
+|type1=Normal
+|type2=Flying
+|category=Beak
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=83.8
+|weight-kg=38.0
+|abilityn=d
+|ability1=Keen Eye
+|abilityd=Sniper
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=15
+|evtotal=2
+|evsp=2
+|expyield=155
+|oldexp=162
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=90
+|body=09
+|pokefordex=fearow
+|generation=1
+|friendship=70
+}}
+'''Fearow''' ([[List of Japanese Pokémon names|Japanese]]: '''オニドリル''' ''Onidrill'') is a dual-type {{2t|Normal|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Spearow}} starting at [[level]] 20.
+
+==Biology==
+Fearow is a large, mostly brown avian Pokémon with a vulturine neck and broad, powerful wings. It has a long, pointed, pink beak, and a decorative red coxcomb on top of its head. Its narrow eyes have very small pupils, and do not appear to have colored irises. It has shaggy, feathers on the base of its neck and covering the upper portion of its wings. These feathers are cream-colored, as are the tips of its flight feathers. Its sharp-clawed talons are pink, with three toes pointing forward and one pointing backward.
+
+Fearow's large wings and stamina allow it to fly for an entire day without landing. It will shoot upward, and then dive down to catch prey. Its long neck and beak allow it to pluck prey from both land and water, and it will even catch tiny insects that hide underground. Fearow is found in {{DL|List of Pokémon by habitat|Rough-terrain Pokémon|wastelands and desolate fields}}.
+
+==In the anime==
+===In the main series===
+[[File:Fearow anime.png|thumb|250px|Fearow in the {{pkmn| anime}}]]
+====Major appearances====
+=====[[Fearow (anime)]]=====
+The Spearow who attacked Ash in [[EP001|the first episode]] evolved before ''[[EP081|Pallet Party Panic]]''. {{p|Pidgeotto}} evolved into {{AP|Pidgeot}} to defeat it. It reappeared in a flashback in ''[[EP131|Fighting Flyer with Fire]]''.
+
+=====Other=====
+[[Skyler]] owns a Fearow which helped him pull his balloon in the balloon race and driving {{TRT}} away in ''[[EP202|The Big Balloon Blow-Up]]''.
+
+Two Fearow appeared in ''[[EP235|Talkin' 'Bout an Evolution]]'' and ''[[EP236|Rage Of Innocence]]'', under the ownership of {{TR|Tyson}}.
+
+A Fearow appeared in ''[[AG006|A Poached Ego!]]'', under the ownership of [[Rico]].
+
+In ''[[DP072|Pokémon Ranger and the Kidnapped Riolu! Part Two]]'', {{OBP|J's client|DP071}} used a Fearow to escape from [[Officer Jenny]], {{Ash}}, and {{ashfr}}.
+
+A Fearow appeared in ''[[XY084|Adventures in Running Errands!]]'', where it stole [[Clemont's Chespin]]'s purse. Later on, it was chasing Chespin and [[Clemont's Bunnelby]] to try steal the purse again, but they took care of it while digging up a hole to flee.
+
+A Fearow appeared in ''[[M20|I Choose You!]]''.
+
+====Minor appearances====
+Fearow debuted in ''[[EP030|Sparks Fly for Magnemite]]'', where it was seen in a [[Pokémon Center]].
+
+A Fearow appeared in ''[[EP052|Princess vs. Princess]]'', where it was seen competing in the {{DL|Princess Festival|Queen of the Princess Festival contest}}.
+
+In ''[[M01|Mewtwo Strikes Back]]'', a {{pkmn|Trainer}} tried to ride a Fearow to [[New Island]]. This Trainer never turned up on the island, unlike the others who set out. {{OBP|Mewtwo|original series}} also uses one to scout for powerful Trainers.
+
+A Fearow appeared in ''[[EP063|The Battle of the Badge]]'' and ''[[EP069|Lights, Camera, Quack-tion]]''.
+
+Multiple Fearow appeared in ''[[M02|The Power of One]]''.
+
+Multiple Fearow appeared in ''[[EP117|Don't Touch That 'dile]]''.
+
+Three Fearow briefly appeared in ''[[EP156|The Psychic Sidekicks!]]'', where they came out of the blue scaring the gang unintentionally.
+
+A Fearow attacked and injured a Pidgey named Ken in ''[[EP164|Carrying On!]]''. [[Ash's Noctowl]] drove it away after {{m|Hypnosis|hypnotizing it}}, making it believe that Noctowl was a {{p|Charizard}}.
+
+A Fearow was seen attacking several {{p|Pichu}} in ''[[EP179|The Apple Corp!]]'', but [[Ash's Pikachu]] drove it away after zapping it.
+
+A Fearow attacked {{TRT}} in ''[[EP189|Freeze Frame]]''.
+
+A Fearow alongside a flock of {{p|Spearow}} attacked a Pidgey named [[Orville]] in ''[[EP211|Fly Me to the Moon]]''
+
+{{Gary}} owns a Fearow, as seen in his profile in ''[[EP259|The Ties That Bind]]''.
+
+A Fearow was one of the Pokémon that fought in a battle as seen in a flashback in ''[[EP265|Pop Goes The Sneasel]]''.
+
+A Fearow appeared in ''[[AG188|Pinch Healing!]]''.
+
+{{OBP|Pokémon Ranger|Ranger series}} [[Jack Walker]] used his [[Capture Styler]] to [[Caught Pokémon#Captured Pokémon|capture]] a {{DL|Jack Walker|Fearow}} to help Pikachu recover the {{OBP|Manaphy|M09}} {{pkmn|Egg}} stolen by {{TRT}} in ''[[M09|Pokémon Ranger and the Temple of the Sea]]''.
+
+A colony of Fearow appeared in ''[[DP013|A Staravia is Born!]]''
+
+[[Paul]] attempted to {{pkmn2|caught|catch}} a Fearow in ''[[DP046|A Maze-ing Race!]]''. By the end of the episode, it was unclear whether or not he succeeded.
+
+Multiple Fearow made a brief cameo appearance in ''[[M11|Giratina and the Sky Warrior]]''.
+
+A Fearow appeared in ''[[DP118|Pursuing a Lofty Goal!]]'' as one of the participants of [[Squallville]]'s [[PokéRinger]] competition. It was used against a {{p|Noctowl}}.
+
+Several Fearow appeared in ''[[DP130|Frozen on Their Tracks!]]''.
+
+A Fearow appeared in ''[[DP140|Historical Mystery Tour!]]''.
+
+Two Fearow appeared in ''[[XY008|Grooming Furfrou!]]''.
+
+Four Fearow appeared in ''[[SM002|The Guardian's Challenge!]]''.
+
+A Fearow appeared in ''[[SM003|Loading the Dex!]]'' as a silhouette that [[Rotom Pokédex]] brought up.
+
+Two Fearow appeared in ''[[SM015|Rocking Clawmark Hill!]]'', as some of the Pokémon training up on [[Clawmark Hill]].
+
+A Fearow appeared in ''[[M20|I Choose You!]]''.
+
+A Fearow appeared in ''[[SM037|Rising from the Ruins!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Orange}}
+{{Animedexbody|EP081|Fearow|Ash's Pokédex|Fearow, the Beak Pokémon. The evolved form of {{p|Spearow}}. Its large, powerful wings allow it to fly for an entire day. The crushing power of its beak is tremendous.}}
+{{Animedexfooter/Pokémon|original|Orange}}
+
+===In Pokémon Origins===
+[[File:Red Fearow PO.png|thumb|250px|Fearow in [[Pokémon Origins]]]]
+{{OBP|Red|Origins}} caught a Fearow in ''[[PO04|File 4: Charizard]]''.
+
+===In Pokémon Generations===
+[[File:Fearow PG.png|thumb|left|250px|Fearow in [[Pokémon Generations]]]]
+A wild Fearow appeared near the [[Indigo Plateau]] in ''[[PG05|The Legacy]]''.
+{{-}}
+
+==In the manga==
+[[File:Ash Fearow EToP.png|thumb|200px|Fearow in [[The Electric Tale of Pikachu]]]]
+===In The Electric Tale of Pikachu manga===
+{{main|Ash's Fearow}}
+{{Ash}} owns a Fearow in the manga [[The Electric Tale of Pikachu]]. It is one of the few Pokémon that Ash owns in the manga but not in the {{pkmn|anime}}. It was given the nickname "Fearless" in ''[[ET02|Play Misty For Me]]''.
+
+Ash captured Fearow in the first chapter, ''[[ET01|Pikachu, I See You!]]''. It was his first capture (besides {{AP|Pikachu}}, who was not technically captured in a [[Poké Ball]] in the manga). Ash sometimes has trouble getting Fearow to obey him.
+
+===In the Pokémon Adventures manga===
+[[File:Red Fearow Adventures.png|thumb|200px|Fearow in [[Pokémon Adventures]]]]
+Fearow debuts in the {{chap|Red, Green & Blue}} in ''[[PS009|...But Fearow Itself!]]'' when a wild one kidnaps a mutated [[Bill]]. It was a tough old bird, able to swiftly dodge [[Pika]]'s {{m|Thunder Wave}} and [[Poli]]'s {{m|Ice Beam}} (humorously causing Bill to get hit with the attacks), and even survived a {{m|Thunder}} from the former, after which it uses {{m|Drill Peck}}. Poli, however, was narrowly able to counter the move by using {{m|Double Team}} and landed a powerful {{t|Ice}} attack to incapacitate it at last. Red catches it afterwards, much to the shock of Bill.
+
+In ''[[PS056|The Coming of Slowpoke (Eventually)]]'' the Pokémon Fan Club President owns a Fearow after watching the Ninth Triennial Indigo League two years {{chap|Red, Green & Blue|ago}}. It is notable that it has the move {{m|Pay Day}}.
+
+A wild Fearow appeared flying over [[New Bark Town]] in ''[[PS096|Number One Donphan]]''.
+
+Later {{adv|Crystal}} mentions that she captured a Fearow on her way to Professor Elm's Lab in ''[[PS118|Three Cheers for Chikorita]]''.
+
+{{adv|Professor Oak}} also owns a Fearow that evolved from his surprisingly formidable {{p|Spearow}} sometime prior to ''[[PS282|Going Green]]''.
+
+A Trainer's Fearow appeared in ''[[PS418|Deprogramming Porygon-Z]]''.
+
+===In the Pokémon Gotta Catch 'Em All manga===
+[[Rin and Ran|Ran]] has a pair of Fearow she used to attack [[Shu]] in [[Pokémon Gotta Catch 'Em All]]
+
+==In the TCG==
+{{main|Fearow (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{ga|Pokémon Ranger}}: Fearow is {{ra|Spenser}}'s partner Pokémon.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Flying}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=With its huge and magnificent wings, it can keep aloft without ever having to land for rest.}}
+{{Dex/Entry1|v=Yellow|entry=A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=A Pokémon that enjoys flying. It uses its broad wings to adroitly catch the wind to soar elegantly into the sky.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.}}
+{{Dex/Entry1|v=Silver|entry=It cleverly uses its thin, long beak to pluck and eat small insects that hide under the ground.}}
+{{Dex/Entry1|v=Crystal|entry=It uses its long beak to attack. It has a surprisingly long reach, so it must be treated with caution.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its long neck and elongated beak are ideal for catching prey in soil or water. It deftly moves this extended and skinny beak to pluck prey.}}
+{{Dex/Entry1|v=FireRed|entry=Its huge and magnificent wings can keep it aloft in the sky. It can remain flying a whole day without landing.}}
+{{Dex/Entry1|v=LeafGreen|entry=With its huge and magnificent wings, it can keep aloft without ever having to land for rest.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It has the stamina to fly all day on its broad wings. It fights using its sharp beak.}}
+{{Dex/Entry1|v=Pearl|entry=It has the stamina to keep flying all day on its broad wings. It fights by using its sharp beak.}}
+{{Dex/Entry1|v=Platinum|entry=It has the stamina to fly all day on its broad wings. It fights using its sharp beak.}}
+{{Dex/Entry1|v=HeartGold|entry=It shoots itself suddenly high into the sky, then plummets down in one fell swoop to strike its prey.}}
+{{Dex/Entry1|v=SoulSilver|entry=It cleverly uses its thin, long beak to pluck and eat small insects that hide under the ground.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=With its huge and magnificent wings, it can keep aloft without ever having to land for rest.}}
+{{Dex/Entry1|v=Y|entry=It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It's tough and has excellent stamina. It has no problem flying continuously for a whole day carrying a heavy load.}}
+{{Dex/Entry1|v=Moon|entry=Drawings of a Pokémon resembling Fearow can be seen in murals from deep in ancient history.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Carrying food through Fearow's territory is dangerous. It will snatch the food away from you in a flash!}}
+{{Dex/Entry1|v=Ultra Moon|entry=In Alola, fish Pokémon are its prey. It can be seen circling above the ocean searching for food.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Route]]s {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, and {{rtn|23|Kanto}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, and {{rtn|23|Kanto}}}}
+{{Availability/Entry1|v=Yellow|area=[[Route]]s {{rtn|9|Kanto}}, {{rtn|16|Kanto}}, {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, and {{rtn|23|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|16|Kanto}}, {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, and {{rtn|22|Kanto}}}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|16|Kanto}}, {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, {{rtn|22|Kanto}}, and {{rtn|42|Johto}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|2|area=[[Route]]s {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, and {{rtn|23|Kanto}}, [[Treasure Beach]], [[Kindle Road]], [[Mt. Ember]], [[Cape Brink]], [[Ruin Valley]], [[Water Path]], [[Canyon Entrance]], [[Sevault Canyon]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Spearow}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|225|Sinnoh}}, {{rtn|226|Sinnoh}}, and {{rtn|227|Sinnoh}}, [[Stark Mountain]]}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|225|Sinnoh}}, {{rtn|226|Sinnoh}}, and {{rtn|227|Sinnoh}}, [[Stark Mountain]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|16|Kanto}}, {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, {{rtn|22|Kanto}}, {{rtn|47|Johto}}, and {{rtn|48|Johto}}, [[Johto Safari Zone|Safari Zone]]}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|15|Unova}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{rt|15|Unova}} ([[Pokémon outbreak|Swarm]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{kal|Victory Road}} (flying shadow)}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|10|Alola}}, {{rtn|17|Alola}}, [[Mount Hokulani]], [[Poni Plains]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]]s {{rtn|10|Alola}}, {{rtn|17|Alola}}, [[Mount Hokulani]], [[Poni Plains]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Spearow}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|2|v=Trozei|color={{yellow color}}|area=[[Secret Storage 18]], Endless Level 23, Forever Level 23, [[Mr. Who's Den]]}}
+{{Availability/Entry2|1|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Spearow}}}}
+{{Availability/Entry1|2|v=Ranger|link=Pokémon Ranger (game)|area=[[Kisara Plains]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|1|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mt. Travail]] (1F-19F), [[Mt. Mistral]] (1F-19F)}}
+{{Availability/Entry1|2|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mt. Travail]] (1F-19F), [[Mt. Mistral]] (1F-19F)}}
+{{Availability/Entry1|2|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Haruba Desert]]}}
+{{Availability/Entry1|2|v=Rumble|color={{fire color}}|area=[[Windy Prairie‎]] Normal Mode C & S}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Conductor Room#King of the Sky|Conductor Room: King of the Sky]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 2|Safari Jungle: Stage 2]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 318]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ember Mountains#Fireweed Field|Ember Mountains: Fireweed Field]] <small>(Center Boss, Back)</small>, [[Black Realm#Blustery Grove|Black Realm: Blustery Grove]] <small>(Special)</small>}}
+<!--{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=}}-->
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Normal|type2=Flying}}
+{{eventAvail|{{gameabbrev1|RGB}}|Pokémon Stamp Fearow|Japanese|Japan|?|August 1998|link=List of Japanese event Pokémon distributions in Generation I#Fearow}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Normal|type2=Flying|Frontier=yes
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1rar=100|rby1image=no
+|gsc1=Sharp Beak|gsc1type=None|gsc1rar=8
+|e1=Sharp Beak|e1type=None|e1rar=5
+|frlg1=Sharp Beak|frlg1type=None|frlg1rar=5
+|dppt1=Sharp Beak|dppt1type=None|dppt1rar=5
+|hgss1=Sharp Beak|hgss1type=None|hgss1rar=5
+|bw1=Sharp Beak|bw1type=None|bw1rar=5
+|b2w21=Sharp Beak|b2w21type=None|b2w21rar=5
+|xy1=Sharp Beak|xy1type=None|xy1rar=5
+|sm1=Sharp Beak|sm1type=None|sm1rar=5
+|usum1=Sharp Beak|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|type2=Flying
+|HP=65
+|Attack=90
+|Defense=65
+|SpAtk=61
+|SpDef=61
+|Special=61
+|Speed=100}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|type2=Flying
+|Speed=4
+|SpeedMax=4
+|Power=4
+|PowerMax=5
+|Technique=1
+|TechniqueMax=3
+|Stamina=2
+|StaminaMax=3
+|Jump=5
+|JumpMax=5}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Flying
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Fearow|Normal|Flying|1}}
+{{learnlist/level7|1|Drill Run|Ground|Physical|80|95|10}}
+{{learnlist/level7|1|Pluck|Flying|Physical|60|100|20||'''}}
+{{learnlist/level7|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level7|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level7|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level7|1|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|4|Leer|Normal|Status|—|100|30}}
+{{learnlist/level7|8|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|11|Fury Attack|Normal|Physical|15|85|20||'''}}
+{{learnlist/level7|15|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/level7|18|Mirror Move|Flying|Status|—|—|20}}
+{{learnlist/level7|23|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/level7|27|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level7|32|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/level7|36|Roost|Flying|Status|—|—|10}}
+{{learnlist/level7|41|Drill Peck|Flying|Physical|80|100|20||'''}}
+{{learnlist/level7|45|Drill Run|Ground|Physical|80|95|10}}
+{{learnlist/levelf/7|Fearow|Normal|Flying|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Fearow|Normal|Flying|1}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Fearow|Normal|Flying|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Fearow|Normal|Flying|2}}
+{{learnlist/breed7|{{MSP|041|Zubat}}{{MSP|042|Golbat}}{{MSP|169|Crobat}}{{MSP|198|Murkrow}}{{MSP|430|Honchkrow}}{{MSP|333|Swablu}}<br>{{MSP|334|Altaria}}{{MSP|722|Rowlet}}{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|441|Chatot}}{{MSP|519|Pidove}}{{MSP|520|Tranquill}}<br>{{MSP|521|Unfezant}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|722|Rowlet}}{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}<br>{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}{{MSP|733|Toucannon}}{{MSP|741|Oricorio}}|Feather Dance|Flying|Status|—|100|15}}
+{{learnlist/breed7|{{MSP|198|Murkrow}}|Feint Attack|Dark|Physical|60|—|20}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|276|Taillow}}<br>{{MSP|277|Swellow}}{{MSP|278|Wingull}}{{MSP|396|Starly}}{{MSP|397|Staravia}}{{MSP|398|Staraptor}}{{MSP|519|Pidove}}<br>{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|566|Archen}}{{MSP|567|Archeops}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}<br>{{MSP|663|Talonflame}}|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/breed7|{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}<br>{{MSP|714|Noibat}}{{MSP|715|Noivern}}|Razor Wind|Normal|Special|80|100|10||'''}}
+{{learnlist/breed7|{{MSP|142|Aerodactyl}}{{MSP|566|Archen}}{{MSP|567|Archeops}}{{MSP|627|Rufflet}}{{MSP|628|Braviary}}|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/breed7|{{MSP|164|Noctowl}}{{MSP|334|Altaria}}{{MSP|468|Togekiss}}{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}<br>{{MSP|561|Sigilyph}}|Sky Attack|Flying|Physical|140|90|5||'''}}
+{{learnlist/breed7|{{MSP|227|Skarmory}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/breed7|{{MSP|085|Dodrio}}|Tri Attack|Normal|Special|80|100|10||'''}}
+{{learnlist/breed7|{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|441|Chatot}}|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|396|Starly}}{{MSP|397|Staravia}}{{MSP|398|Staraptor}}<br>{{MSP|561|Sigilyph}}{{MSP|627|Rufflet}}{{MSP|628|Braviary}}{{MSP|714|Noibat}}{{MSP|715|Noivern}}|Whirlwind|Normal|Status|—|—|20}}
+{{learnlist/breedf/7|Fearow|Normal|Flying|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Fearow|Normal|Flying|2}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Drill Run|Ground|Physical|80|95|10|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutorf/7|Fearow|Normal|Flying|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Fearow|Normal|Flying|1}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Fearow|Normal|Flying|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg colorless color light}}; border: 3px solid #{{tcg colorless color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Wing Attack}}
+| style="background:#fff; {{roundybr|5px}}" | [[Fearow (Unleashed 15)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Flying}}
+{{Spindata/Pinball|col=3|type=Normal|ndex=022|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=022|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=022
+|body=1
+|rate=Evolve
+|area=Ravaged Field
+|P1=I'm proud of these big wings.
+|P2=My HP's been reduced to half.
+|P3=No... These wings have taken too much damage.
+|PL=I leveled up! I feel newfound power in my wings!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=022
+|body=1
+|rate=-4.5
+|IQ=D
+}}
+|-
+{{Spindata/Ranger|col=6|type=Normal
+|group=Flying
+|assist=Flying
+|field=None
+|loop=6
+|MinEXP=N/A
+|MaxEXP=N/A
+|browser=Fearow flies about at high speed. It also whips up gusts to attack.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Normal
+|group=Flying
+|assist=Flying
+|field=Cut
+|fieldpower=3
+|browser=It flies around at high speed and charges to attack.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Normal
+|att=3
+|def=2
+|speed=4
+}}
+{{Spindata/RumbleBlast|col=3|type=Normal
+|att=3
+|def=2
+|speed=4
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=022|bttype=Flying
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=022|stype=Flying|num=470
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Rock Break+
+|skilldesc=Sometimes destroys three breakable-rock disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=022
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=130
+|attack=182
+|defense=135
+|fast={{m|Peck}}, {{m|Steel Wing}}
+|special={{m|Aerial Ace}}, {{m|Drill Run}}, {{m|Twister}}{{tt|*|Prior to February 16, 2017}}, {{m|Sky Attack}}{{tt|*|From February 16, 2017 onward}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Normal
+|type2=Flying
+|pictype=art
+|no1=021
+|name1=Spearow
+|type1-1=Normal
+|type2-1=Flying
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 20}}
+|no2=022
+|name2=Fearow
+|type1-2=Normal
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Flying}}
+{{Spritebox/1|ndex=022}}
+{{Spritebox/2|ndex=022}}
+{{Spritebox/3|ndex=022}}
+{{Spritebox/4|ndex=022}}
+{{Spritebox/5|ndex=022}}
+{{Spritebox/6|ndex=022}}
+{{Spritebox/7|ndex=022}}
+{{Spritebox/Footer|022|Fearow}}
+
+==Trivia==
+* In [[Generation IV]], Fearow weighs as much as {{ga|Lucas}}. It shares this characteristic with {{p|Skuntank}}, {{p|Togekiss}}, {{p|Sudowoodo}}, and {{p|Yanma}}.
+* The English names of the {{p|Spearow}} family and {{p|Beedrill}} are almost reversed from the Japanese in that Beedrill is named Spear and Fearow, Spearow's evolution, is called Onidrill.
+
+===Origin===
+Fearow takes inspiration from many soaring, predatory birds. It has traits similar to raptors such as {{wp|hawk}}s and {{wp|vulture}}s, as well as similarities with {{wp|stork}}s. Its physical appearance may be vaguely based on a {{wp|cormorant}} or an {{wp|anhinga}}, despite the fact that they are water birds. It also shares characteristics with {{wp|chicken}}s and {{wp|snipe}}, most notably its {{wp|Comb (anatomy)|comb}} and long beak, respectively. Its coloration and size also resembles the {{wp|Goliath Heron}}, whose feathers when ruffled look superficially like a comb.
+
+====Name origin====
+Fearow is a combination of ''fear'' and ''{{wp|sparrow}}''. It may also derive from ''feather'' or ''arrow''.
+
+Onidrill is a combination of 鬼 ''oni'' (demon) and ''drill''. The first four syllables can be taken to mean 鬼鳥 ''onidori'' (demon bird).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Flying
+|ja=オニドリル ''Onidrill''|jameaning=From {{tt|鬼 ''oni''|demon}} and ''drill''
+|fr=Rapasdepic|frmeaning=From ''{{tt|rapace|predatory}}'', ''{{tt|as de pique|Ace of spades}}'' and ''{{tt|piquer|to swoop}}''. Effectively translates as "Swooping predator"
+|es=Fearow|esmeaning=Same as English name
+|de=Ibitak|demeaning=From ''{{wp|Ibis}}'' and ''{{tt|Attacke|attack}}''
+|it=Fearow|itmeaning=Same as English name
+|ko=깨비드릴조 ''Kebidrillzo''|komeaning=From {{tt|도깨비 ''dokkaebi''|Korean goblin}}, ''drill'', and {{tt|조(鳥) ''jo''|bird}}
+|zh_yue=魔雀 ''Mōjeuk''|zh_yuemeaning=Literally "Devil sparrow"
+|zh_cmn=大嘴雀 ''Dàzuǐquè''|zh_cmnmeaning=Means "Big-mouthed sparrow"
+|hi=फ़िअरो ''Fearow''|himeaning=Transcription of English name
+|lt=Jiečius|ltmeaning=Translation of English name
+|ru=Фироу ''Firou''|rumeaning=Transcription of English name
+}}
+
+<br clear="left">
+
+==Related articles==
+* [[Ash's Fearow]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=021|prev=Spearow|nextnum=023|next=Ekans|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+
+[[de:Ibitak]]
+[[fr:Rapasdepic]]
+[[it:Fearow]]
+[[ja:オニドリル]]
+[[pl:Fearow]]
+[[zh:大嘴雀]]

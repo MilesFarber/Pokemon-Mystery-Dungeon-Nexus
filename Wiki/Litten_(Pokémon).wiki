@@ -1,0 +1,315 @@
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=724|prev=Decidueye|nextnum=726|next=Torracat|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Litten}}
+|}
+{{Pokémon Infobox
+|name=Litten
+|jname=ニャビー
+|jtranslit=Nyabī
+|tmname=Nyabby
+|ndex=725
+|type1=Fire
+|category=Fire Cat
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=9.5
+|weight-kg=4.3
+|adex=004
+|abilityn=d
+|ability1=Blaze
+|abilityd=Intimidate
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=1
+|evsp=1
+|expyield=64
+|lv100exp=1,059,860
+|gendercode=31
+|color=Red
+|catchrate=45
+|body=08
+|pokefordex=litten
+|generation=7
+|friendship=70
+}}
+'''Litten''' ([[List of Japanese Pokémon names|Japanese]]: '''ニャビー''' ''Nyabby'') is a {{type|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] into {{p|Torracat}} starting at [[level]] 17, which evolves into {{p|Incineroar}} starting at level 34.
+
+Along with {{p|Rowlet}} and {{p|Popplio}}, Litten is one of three [[starter Pokémon]] of [[Alola]] available at the beginning of [[Pokémon Sun and Moon|Pokémon Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]].
+
+Along with Rowlet and Popplio, it was the second [[Generation VII]] Pokémon to be revealed to the public on May 10, 2016.
+
+==Biology==
+Litten is a quadruped, feline Pokémon covered with primarily black fur. It has a short muzzle with a tiny, black nose, red eyes with yellow sclera, and short, pointed ears with pale gray insides. There are two red stripes around each of its legs and two horizontal stripes with a vertical stripe across them on its forehead. The lower part of Litten's face is also red, and there is a large tuft of fur on each cheek. A tuft of fur sits at the end of its long tail. When it arches its back, three pointed tufts of fur with red tips appear along its spine.
+
+Litten is a solitary Pokémon that does not typically display its emotions, and should not be given too much affection. While grooming, it collects fur inside its stomach. By setting the stored fur alight, it can spit fireballs that change based on how it coughs. Litten's fur produces flammable oils, and when it begins shedding, it burns all its fur in a blaze.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/litten/</ref> Its fur coat regrows twice a year.
+
+==In the anime==
+[[File:Ash Litten.png|thumb|left|250px|Litten in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Litten]]====
+A {{pkmn2|wild}} Litten living on [[Melemele Island]] first appeared in ''[[SM001|Alola to New Adventure!]]''. {{Ash}} would later {{pkmn2|caught|catch}} it in ''[[SM021|One Journey Ends, Another Begins...]]''. It later evolved into {{p|Torracat}} during [[SM063]].
+
+===Minor appearances===
+A Litten appeared alongside a {{p|Rowlet}} and {{p|Popplio}} in ''[[M20|I Choose You!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM007|Litten|Rotom Pokédex|Litten, the Fire Cat Pokémon. A {{t|Fire}} type. Litten show few emotions and prefer being alone. It takes time to build any level of trust.}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+
+==In the manga==
+[[File:Sun En Litten.png|thumb|right|170px|Litten in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|En}}
+{{adv|Sun}} owns a Litten named En that first appeared in [[PASM01]]. Sun received En from [[Professor Kukui]]. It later evolved into a {{p|Torracat}}.
+
+==In the TCG==
+{{main|Litten (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fire}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.}}
+{{Dex/Entry1|v=Moon|entry=It doesn't allow its emotions to be easily seen. Earning its trust takes time. It prefers solitude.}}
+{{Dex/Entry1|v=Ultra Sun|entry=If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its coat regrows twice a year. When the time comes, Litten sets its own body on fire and burns away the old fur.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fire}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Starter Pokémon]] from [[Hala]] in [[Iki Town]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Starter Pokémon]] from [[Professor Kukui]] in [[Alola Route 1|Route 1]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fire}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|Great Challenge|Litten Appears}}''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Fire
+|HP=45
+|Attack=65
+|Defense=40
+|SpAtk=60
+|SpDef=40
+|Speed=70}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fire
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=200
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=50}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Litten|Fire|Fire|7|SM|USUM}}
+{{learnlist/levelVII|1|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/levelVII|1|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/levelVII|4|4|Growl|Normal|Status|—|100|40}}
+{{learnlist/levelVII|8|8|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/levelVII|11|11|Leer|Normal|Status|—|100|30}}
+{{learnlist/levelVII|15|14|Fire Fang|Fire|Physical|65|95|15||'''}}
+{{learnlist/levelVII|N/A|16|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/levelVII|18|18|Roar|Normal|Status|—|—|20}}
+{{learnlist/levelVII|22|22|Bite|Dark|Physical|60|100|25||''}}
+{{learnlist/levelVII|25|25|Swagger|Normal|Status|—|85|15}}
+{{learnlist/levelVII|29|29|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/levelVII|32|32|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/levelVII|36|36|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/levelVII|39|39|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/levelVII|43|43|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/levelVII|46|46|Outrage|Dragon|Physical|120|100|10}}
+{{learnlist/levelf/7|Litten|Fire|Fire|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Litten|Fire|Fire|7}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM28|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Litten|Fire|Fire|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Litten|Fire|Fire|7}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|324|Torkoal}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|432|Purugly}}<br>{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|024|Arbok}}{{MSP|058|Growlithe}}<br>{{MSP|203|Girafarig}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|261|Poochyena}}<br>{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|303|Mawile}}{{MSP|336|Seviper}}{{MSP|365|Walrein}}{{MSP|399|Bidoof}}<br>{{MSP|400|Bibarel}}{{MSP|403|Shinx}}{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|419|Floatzel}}{{MSP|449|Hippopotas}}<br>{{MSP|450|Hippowdon}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}<br>{{MSP|511|Pansage}}{{MSP|513|Pansear}}{{MSP|515|Panpour}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}<br>{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}<br>{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|744|Rockruff}}{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Crunch|Dark|Physical|80|100|15||''}}
+{{learnlist/breed7|{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|274|Nuzleaf}}{{MSP|300|Skitty}}<br>{{MSP|301|Delcatty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|324|Torkoal}}|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/breed7|{{MSP|038|Ninetales}}{{MSP|038A|Ninetales}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|190|Aipom}}{{MSP|203|Girafarig}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|275|Shiftry}}{{MSP|390|Chimchar}}<br>{{MSP|424|Ambipom}}{{MSP|461|Weavile}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}<br>{{MSP|570|Zorua}}{{MSP|571|Zoroark}}{{MSP|765|Oranguru}}|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/breed7|{{MSP|553|Krookodile}}|Power Trip|Dark|Physical|20|100|10|{{sup/7|USUM}}|''}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|461|Weavile}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|626|Bouffalant}}|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/breedf/7|Litten|Fire|Fire|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Litten|Fire|Fire|7}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Fire Pledge|Fire|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutorf/7|Litten|Fire|Fire|7}}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{fire color light}}; border: 3px solid #{{fire color dark}}"
+|-
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Slash}}
+| style="background:#fff" | {{typecolor|Normal}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[SM016|They Might Not Be Giants!]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Fire}}
+{{Spindata/Shuffle|col=6|type=Fire|ndex=725|num=710
+|min=50
+|max=115
+|raisemaxlevel=10
+|skill=Barrier Shot
+|skilldesc=Removes two barrier-type disruptions and increases damage.
+}}
+|-
+{{Spindata/Magikarp Jump|col=6|type=Fire|ranks=5
+|item=Flame Plate
+|cost=250
+|skill=Awards some JP
+|recoverytime=3 hours 30 minutes
+|rank1desc=+0%
+|rank2desc=+60%|rank2cost=4
+|rank3desc=+210%|rank3cost=10
+|rank4desc=+370%|rank4cost=11
+|rank5desc=+560%|rank5cost=12
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Fire
+|pictype=art
+|no1=725
+|name1=Litten
+|type1-1=Fire
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 17}}
+|no2=726
+|name2=Torracat
+|type1-2=Fire
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 34}}
+|no3=727
+|name3=Incineroar
+|type1-3=Fire
+|type2-3=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Fire}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=725}}
+{{Spritebox/Footer|725|Litten}}
+
+==Trivia==
+===Origin===
+Litten is based on a {{wp|cat}}, specifically a {{wp|tabby cat}} due to the bands/stripes on its legs and the marking on its forehead.
+
+====Name origin====
+Litten may be a combination of ''lit'', ''little'', and ''kitten''.
+
+Nyabby may be a combination of ニャー ''nyā'' (meow), ''{{wp|Tabby cat|tabby}}'', and 火 ''hi'' (fire).
+
+==In other languages==
+{{Other languages|type=Fire|type2=Fire
+|ja=ニャビー ''Nyabby''|jameaning=From {{tt|ニャー ''nyā''|meow}}, {{tt|火 ''hi''|fire}}, and ''{{wp|Tabby cat|tabby}}''
+|fr=Flamiaou‎‎|frmeaning=From ''{{tt|flamme|flame}}'' and ''{{tt|miaou|meow}}''
+|es=Litten|esmeaning=Same as English name
+|de=Flamiau|demeaning=From ''{{tt|Flamme|flame}}'' and ''{{tt|Miau|meow}}''
+|it=Litten|itmeaning=Same as English name
+|ko=냐오불 ''Nyaobul''|komeaning=From {{tt|야옹 ''yaong''|meow}} and {{tt|불 ''bul''|fire}}
+|zh_cmn=火斑喵 ''Huǒbānmiāo''|zh_cmnmeaning=From {{tt|火 ''huǒ''|fire}}, {{tt|虎斑貓 / 虎斑猫 ''hǔbānmāo''|tabby cat}}, and {{tt|喵 ''miāo''|meow}}
+|zh_yue=火斑喵 ''Fóbāanmīu''|zh_yuemeaning=From {{tt|火 ''fó''|fire}}, {{tt|虎斑貓 ''fúbāanmāau''|tabby cat}}, and {{tt|喵 ''mīu''|meow}}
+|ru=Литтен ''Litten''|rumeaning=Transcription of English name}}
+{{-}}
+
+==Related articles==
+* [[Ash's Litten]]
+* [[En]]
+
+==Notes==
+<references/>
+
+==External links==
+{{Starter Pokémon|Fire}}
+{{-}}
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=724|prev=Decidueye|nextnum=726|next=Torracat}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Starter Pokémon|725]]
+
+[[de:Flamiau]]
+[[fr:Flamiaou‎‎]]
+[[it:Litten]]
+[[ja:ニャビー]]
+[[pl:Litten]]
+[[zh:火斑喵]]

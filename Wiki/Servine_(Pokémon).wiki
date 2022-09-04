@@ -1,0 +1,376 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=495|prev=Snivy|nextnum=497|next=Serperior|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Servine}}
+|}
+{{Pokémon Infobox
+|name=Servine
+|jname=ジャノビー
+|jtranslit=Janobī
+|tmname=Janovy
+|category=Grass Snake
+|typebox=1
+|type1=Grass
+|abilityn=d
+|ability1=Overgrow
+|abilityd=Contrary
+|ndex=496
+|udex=002
+|u2dex=002
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=35.3
+|weight-kg=16
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Grass
+|eggcycles=20
+|expyield=145
+|lv100exp=1,059,860
+|gendercode=31
+|evtotal=2
+|evsp=2
+|color=Green
+|catchrate=45
+|body=06
+|pokefordex=servine
+|generation=5
+|friendship=70
+}}
+'''Servine''' ([[List of Japanese Pokémon names|Japanese]]: '''ジャノビー''' ''Janovy'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolve]]s from {{p|Snivy}} starting at level 17 and evolves into {{p|Serperior}} starting at level 36.
+
+==Biology==
+Servine is a slim bipedal Pokémon that is primarily green with a cream underside, and narrow red eyes. It has a yellow V-shaped structure that starts at the chest and extends behind the shoulders. Servine has short limbs and a small crest protruding from the back of its head. Three palmate leaves grow along its back and tail. These leaves are capable of performing photosynthesis, but only while they are clean. Servine will go to great lengths to stay dirt-free for this reason. This swift Pokémon hides in thick foliage or shadows to avoid attacks before retaliating.
+
+==In the anime==
+[[File:Trip Servine.png|250px|thumb|left|Servine in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Trip's Servine]]====
+Trip's Snivy was revealed to have evolved into a Servine in ''[[BW010|A Rival Battle for Club Champ!]]'', where it was used in his battle against {{Ash}}. It reappeared in ''[[BW031|Ash and Trip's Third Battle!]]''. It evolved into a Serperior before ''[[BW090|Jostling for the Junior Cup!]]''.
+
+====Other====
+Servine, along with a {{p|Dewott}}, debuted in ''[[BW004|The Battle Club and Tepig's Choice!]]'', where it belonged to one of the {{pkmn|Trainer}}s at the [[Battle Club]]. It battled the powerful Dewott and lost easily.
+
+===Minor appearances===
+A Trainer's Servine briefly appeared in ''[[BW010|A Rival Battle for Club Champ!]]'' on a computer screen in the [[Luxuria Town]] [[Battle Club]].
+
+A Servine made a cameo appearance in ''[[BW069|Climbing the Tower of Success!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW004|Servine|Ash's Pokédex|Servine, the Grass Snake Pokémon, and the evolved form of {{p|Snivy}}. Servine {{m|Vine Whip|whips}} its opponents with vines, and dodges their attacks by hiding in the shadows of thick foliage.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:White Amanda Servine.png|thumb|200px|Servine in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Amanda (Adventures)}}
+Servine first appeared in ''[[PS483|Special Delivery]]''. This Servine, formerly belonging to {{adv|N}}, was sent over to {{adv|White}} after [[Gigi]] decides to leave White. She eventually evolves into a Serperior.
+
+===In the Be the Best! Pokémon B+W manga===
+{{main|Monta's Servine}}
+Servine is [[Monta]]'s [[starter Pokémon]] that he first obtained it as a Snivy in the [[Be the Best! Pokémon B+W]] manga, a "walkthrough comic" based on the Black and White games. It later evolved into a Serperior.
+
+==In the TCG==
+{{main|Servine (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.}}
+{{Dex/Entry1|v=White|entry=They avoid attacks by sinking into the shadows of thick foliage. They retaliate with masterful whipping techniques.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.}}
+{{Dex/Entry1|v=Y|entry=When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Evolution|Evolve]] {{p|Snivy}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Evolution|Evolve]] {{p|Snivy}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Snivy}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Snivy}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Autumnwood: [[Volcanic Slope]], Forest: [[World Axle - B1F]], [[Trailhead Field]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Greenleaf]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Moonlit Forest]] (1F-28F), [[Rusty Mountain]] (Mapless Street), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#Serperior Jungle|Jungle Area: Serperior Jungle]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 3|Colossal Forest: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Prasino Woods|Prasino Woods: Stage 597]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Sunlit Forest|Sapphire Sea: Sunlit Forest]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=60
+|Attack=60
+|Defense=75
+|SpAtk=60
+|SpDef=75
+|Speed=83}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Servine|Grass|Grass|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/level7|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level7|4|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|7|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/level7|10|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level7|13|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|16|Leaf Tornado|Grass|Special|65|90|10||'''}}
+{{learnlist/level7|20|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|24|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level7|28|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level7|32|Leaf Blade|Grass|Physical|90|100|15||'''}}
+{{learnlist/level7|36|Coil|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|40|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level7|44|Wring Out|Normal|Special|&mdash;|100|5}}
+{{learnlist/level7|48|Gastro Acid|Poison|Status|&mdash;|100|10}}
+{{learnlist/level7|52|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/7|Servine|Grass|Grass|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Servine|Grass|Grass|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Servine|Grass|Grass|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Servine|Grass|Grass|5}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}<br>{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|234|Stantler}}{{MSP|300|Skitty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}<br>{{MSP|509|Purrloin}}{{MSP|572|Minccino}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|206|Dunsparce}}{{MSP|336|Seviper}}|Glare|Normal|Status|&mdash;|100|30}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|114|Tangela}}{{MSP|407|Roserade}}{{MSP|465|Tangrowth}}{{MSP|764|Comfey}}|Grassy Terrain|Grass|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|111|Rhyhorn}}{{MSP|179|Mareep}}|Iron Tail|Steel|Physical|100|75|15|*}}
+{{learnlist/breed7|{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|182|Bellossom}}{{MSP|315|Roselia}}{{MSP|407|Roserade}}<br>{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}{{MSP|470|Leafeon}}{{MSP|764|Comfey}}|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/breed7|{{MSP|197|Umbreon}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|678|Meowstic}}|Mean Look|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|428|Lopunny}}{{MSP|471|Glaceon}}|Mirror Coat|Psychic|Special|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|231|Phanpy}}{{MSP|270|Lotad}}<br>{{MSP|357|Tropius}}{{MSP|511|Pansage}}{{MSP|513|Pansear}}{{MSP|515|Panpour}}{{MSP|764|Comfey}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}<br>{{MSP|128|Tauros}}{{MSP|197|Umbreon}}{{MSP|206|Dunsparce}}{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|418|Buizel}}<br>{{MSP|419|Floatzel}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|570|Zorua}}<br>{{MSP|571|Zoroark}}{{MSP|587|Emolga}}{{MSP|626|Bouffalant}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|182|Bellossom}}<br>{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|303|Mawile}}{{MSP|315|Roselia}}{{MSP|357|Tropius}}{{MSP|407|Roserade}}<br>{{MSP|455|Carnivine}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}{{MSP|591|Amoonguss}}{{MSP|764|Comfey}}|Sweet Scent|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}{{MSP|275|Shiftry}}{{MSP|357|Tropius}}|Twister|Dragon|Special|40|100|20|‡}}
+{{learnlist/breedf/7|Servine|Grass|Grass|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Servine|Grass|Grass|5}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Grass Pledge|Grass|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Servine|Grass|Grass|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Servine|Grass|Grass|5}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Servine|Grass|Grass|5}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=496
+|strong=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|weak=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]][[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|pad=She was looking for a Pokémon to teach the {{type|Grass}} moves that she has mastered. She made {{P|Snivy}} her apprentice.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Grass|ndex=496
+|HP=2
+|atk=2
+|def=3
+|spd=3
+|range=4
+|move=Leaf Blade
+|ability1=Overgrow
+|ability2=Grass Cloak
+|ability3=Instinct
+|evo=Evolves from {{p|Snivy}} when its Speed is 56 or higher<br>Evolves into {{p|Serperior}} when its Speed is 104 or higher |
+|link='''[[Motonari]]''', {{DL|List of Pokémon Conquest characters|Takamoto}}, and {{DL|List of Pokémon Conquest characters|Ujisato}}
+}}
+|-
+{{Spindata/Battle Trozei|col=6<!--3-->|type=Grass|ndex=496
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Grass|ndex=496|num=259
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Counterattack+
+|skilldesc=Deals even more damage the more disruptions there are.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Grass
+|pictype=art
+|no1=495
+|name1=Snivy
+|type1-1=Grass
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 17}}
+|no2=496
+|name2=Servine
+|type1-2=Grass
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no3=497
+|name3=Serperior
+|type1-3=Grass
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=496}}
+{{Spritebox/6|ndex=496}}
+{{Spritebox/7|ndex=496}}
+{{Spritebox/Footer|496|Servine}}
+
+==Trivia==
+* Servine was first seen on [[Media:BW anime.png|an animator's reference sheet]] for the {{series|Best Wishes}}, along with {{p|Dewott}}, {{p|Woobat}}, and {{p|Axew}}.
+** Servine's English name, as well as {{p|Dewott}}'s, was officially confirmed through the {{pkmn|anime}} in ''[[BW004|The Battle Club and Tepig's Choice!]]''.
+
+===Origin===
+Servine may be based on a variety of green {{wp|vine snake}} species with a pointed snout, including ''{{wp|Oxybelis fulgidus}}'', ''{{wp|Ahaetulla nasuta}}'', and ''{{wp|Ahaetulla prasina}}''. Servine's color scheme is similar to its species' possible namesake, the {{wp|smooth green snake|grass snake}}. The Pokémon's combination of snake- and lizard-like features is also similar to that of the {{wp|Florida sand skink}}, a serpentine lizard with small, stubby legs. The shape of its head, body, and crest may be based on the {{wp|Strelitzia|bird of paradise}} or {{wp|Heliconia|false bird of paradise}} flowers. [[Ken Sugimori]] has said that Snivy, Servine, and Serperior are based on French royalty, specifically mentioning the anime ''{{wp|The Rose of Versailles}}'' as inspiration.<ref>http://web.archive.org/web/20101228065540/http://www.nintendo.co.jp/ds/interview/irbj/sp/index5.html (archived link)</ref> Servine's physical features resemble the {{wp|acanthus (ornament)|acanthus leaf}} motifs popularized during the {{wp|Renaissance}}.
+
+====Name origin====
+Servine is a combination of ''serpent'' and ''vine''. ''Servant'' or a form of the word ''serve'' may also be involved.
+
+Janovy may be a combination of 蛇 ''ja'' ({{wp|snake}}) and ''{{wp|canopy}}'' or ''{{wp|ivy}}''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=ジャノビー ''Janovy''|jameaning=From {{tt|蛇 ''ja''|snake}} and ''canopy'' or ''ivy''
+|de=Efoserp|demeaning=From ''{{tt|Efeu|ivy}}'' and the suborder ''{{wp|Snake|Serpentes}}''
+|fr=Lianaja|frmeaning=From {{tt|''liane''|vine}} and {{tt|''naja''|a snake species}}
+|es=Servine|esmeaning=Same as English name
+|it=Servine|itmeaning=Same as English name
+|ko=샤비 ''Syabi''|komeaning=Possibly from the English word ''sharp'' (샤프), {{tt|''shah'' (샤)|'king' in Persian}}, or a corruption of {{tt|蛇/사 ''sa''|snake}}, and a corruption of the English word ''vine'' (바인).
+|zh_cmn=青藤蛇 ''Qīngténgshé''|zh_cmnmeaning=Literally "Green vine snake". May also be from {{tt|常青藤 ''chángqīngténg''|ivy}}.
+|ru=Сервайн ''Servayn''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+*[[Trip's Servine]]
+*[[Amanda (Adventures)|N/White's Servine]]
+*[[Monta's Servine]]
+*[[Cheren's Snivy|Cheren's Servine]]
+
+==Notes==
+<references />
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=495|prev=Snivy|nextnum=497|next=Serperior}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Efoserp]]
+[[fr:Lianaja]]
+[[it:Servine]]
+[[ja:ジャノビー]]
+[[pl:Servine]]
+[[zh:青藤蛇]]

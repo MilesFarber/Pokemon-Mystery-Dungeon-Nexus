@@ -1,0 +1,435 @@
+{{PokémonPrevNext/Head|type=Dark|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=559|prev=Scraggy|nextnum=561|next=Sigilyph}}
+|}
+{{Pokémon Infobox
+|name=Scrafty
+|jname=ズルズキン
+|tmname=Zuruzukin
+|category=Hoodlum
+|typebox=1
+|type1=Dark
+|type2=Fighting
+|abilityn=d
+|ability1=Shed Skin
+|ability2=Moxie
+|abilityd=Intimidate
+|ndex=560
+|udex=066
+|u2dex=118
+|karea=Central
+|kdex=101
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=66.1
+|weight-kg=30.0
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Dragon
+|eggcycles=15
+|expyield=171
+|lv100exp=1,000,000
+|gendercode=127
+|color=Red
+|catchrate=90
+|evtotal=2
+|evde=1
+|evsd=1
+|body=06
+|pokefordex=scrafty
+|generation=5
+|friendship=70
+}}
+'''Scrafty''' ([[List of Japanese Pokémon names|Japanese]]: '''ズルズキン''' ''Zuruzukin'') is a dual-type {{2t|Dark|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Scraggy}} starting at [[level]] 39.
+
+==Biology==
+Scrafty is a bipedal, lizard-like Pokémon. It has oval, wide-set eyes with small pupils and gray eyelids, as well as small nostrils and a wide mouth with bared teeth, giving it the appearance of a permanent sneer. It sports a red crest on its head, similar in appearance to a mohawk. Baggy yellow skin hangs off its shoulders, falling halfway down its back. Scrafty's body is orange, with thin arms and a gray, scaled belly. Its lower body and tail are covered by loose yellow skin resembling baggy trousers. On its tail is a single red scale.
+
+Scrafty is powerful enough to kick through concrete blocks, and can also spit acidic liquid from its mouth, which it does to taunt opponents. It can protect itself while attacking by pulling up or folding the loose skin around its waist. Scrafty lives in groups with other members of its species. Groups determine hierarchy by crest size, with the Scrafty having the largest crest becoming the leader. A group will attack anything that comes within its territory. Though often coming off as rude, it takes good care of its loved ones and its turf.
+
+==In the anime==
+===In the main series===
+[[File:Scrafty anime.png|thumb|250px|left|Scrafty in the {{pkmn|anime}}]]
+====Major appearances====
+Scrafty debuted in ''[[BW043|Meowth's Scrafty Tactics!]]''. It was kicked out of its den by a wild {{p|Mandibuzz}}, who herself had been forced to relocate. Scrafty begged a wild {{p|Beartic}}, {{p|Scolipede}}, and {{p|Darmanitan}} to help it win back its territory, but none of them helped it. As a result, it resorted to kidnapping [[Iris's Axew]] and holding {{an|Iris}} and her friends to ransom. {{MTR}} and [[Ash's Scraggy]] negotiated with and distracted Scrafty whilst Ash, {{AP|Pikachu}}, and {{AP|Snivy}} rescued Axew. Later, Scrafty confronted Mandibuzz, only to be defeated. However, Scraggy, using the {{m|Hi Jump Kick}} it had learned from Scrafty, defeated Mandibuzz and won Scrafty's den back.
+
+====Minor appearances====
+A Scrafty appeared in a fantasy in ''[[BW070|The Clubsplosion Begins!]]''.
+
+A Scrafty appeared in a fantasy in ''[[BW120|Ash and N: A Clash of Ideals!]]''.
+
+A Scrafty appeared in ''[[XY005|A Blustery Santalune Gym Battle!]]''.
+
+A Scrafty appeared in ''[[XY018|Awakening the Sleeping Giant!]]''.
+
+A Scrafty appeared in ''[[XY026|A Battle by Any Other Name!]]''.
+
+A Scrafty appeared in ''[[SS031|Mega Evolution Special II]]''.
+
+A {{pkmn|Trainer}}'s Scrafty appeared in ''[[XY080|Performing with Fiery Charm!]]''.
+
+A Scrafty appeared in ''[[M19|Volcanion and the Mechanical Marvel]]'' as one of the Pokémon residing at [[Nebel Plateau]].
+
+A Scrafty appeared in a video that [[Sawyer]] was watching in ''[[XY129|Kalos League Passion with a Certain Flare!]]'', during a fight with a {{p|Breloom}}.
+
+A Scrafty appeared in ''[[SM048|Night of a Thousand Poses!]]'', during a [[Baseball|Pokémon Base]] game on television.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW043|Scrafty|Ash's Pokédex|Scrafty, the Hoodlum Pokémon and the evolved form of Scraggy. Scrafty can use its powerful kicks to smash through concrete blocks. To protect itself, Scrafty can fold its loose skin around its waist.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+===In the Pokémon Black 2 and White 2 Animated Trailer===
+[[File:Team Plasma Scrafty B2W2 Trailer.png|thumb|250px|Scrafty in the animated trailer]]
+A Scrafty appeared in the [[Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer]], under the ownership of a {{tc|Team Plasma Grunt}}. It surrounded {{ga|Nate}}, [[Hugh]], and [[Cheren]] aboard the [[Plasma Frigate]].
+{{-}}
+
+==In the manga==
+[[File:Scrafty Adventures.png|thumb|150px|Scrafty in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Scrafty along with its pre-evolved form, {{p|Scraggy}}, were responsible for stealing an accordion that was going to be used in a [[BW Agency]] commercial in ''[[PS472|Wheeling and Dealing]]''. They were later found by {{adv|Black}} and defeated.
+
+A Trainer's Scrafty appeared in ''[[PS486|Unraveling Mysteries]]'' and ''[[PS512|Hallway Hijinks]]''.
+
+A {{tc|Team Plasma Grunt}} owns a Scrafty, seen in [[PS540]].
+
+[[Team Flare Grunt (Trainer class)|Team Flare]] owns multiple Scrafty, which first appeared in ''[[PAXY26|Rhyhorn Charges]]''.
+
+==In the TCG==
+{{main|Scrafty (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dark|type2=Fighting}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Groups of them beat up anything that enter their territory. Each can spit acidic liquid from its mouth.}}
+{{Dex/Entry1|v=White|entry=It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.}}
+{{Dex/Entry1|v=Y|entry=It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It taunts its opponents by spitting. It has a certain territory that it never leaves its whole life long.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dark|type2=Fighting}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Evolution|Evolve]] {{p|Scraggy}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|15|Unova}} and {{rtn|18|Unova}}, [[P2 Laboratory]]<br>{{rt|1|Unova}} ({{DL|Tall grass|dark grass}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Scraggy}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Scraggy}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Scraggy}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dark|type2=Fighting}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Soothing Shore]], [[Firebreathing Mountain]], [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arcane Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Pugilis]], [[Yaksha]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Tempting Path]] (Mapless Street), [[Redland Reaches]] (Mapless Street), [[Silent Tundra]] (Golden Chamber), [[Dreamy Island]] (Golden Chamber), [[Moonlit Forest]] (1F-28F), [[Rusty Mountain]] (Mapless Street), [[Cape at the Edge]] (B1-B29), high difficulty Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Wonder Area#Pokémon Outbreak!|Wonder Area: Pokémon Outbreak!]], [[Secret Warehouse#Walking a Thin Line|Secret Warehouse: Walking a Thin Line]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 4|Colossal Forest: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 382]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Abundant Orchard|Plasma Tundra: Abundant Orchard]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Dark|type2=Fighting}}
+{{eventAvail|{{gameabbrev5|BW}}|2011 World Championships Scrafty|English|United States|50|August 14, 2011|link=List of local English event Pokémon distributions in Generation V#2011 World Championships Scrafty}}
+{{eventAvail|{{gameabbrev5|BW}}|2011 World Championships Scrafty|French|United States|50|August 14, 2011|link=List of local French event Pokémon distributions in Generation V#2011 World Championships Scrafty}}
+{{eventAvail|{{gameabbrev5|BW}}|2011 World Championships Scrafty|German|United States|50|August 14, 2011|link=List of local German event Pokémon distributions in Generation V#2011 World Championships Scrafty}}
+{{eventAvail|{{gameabbrev5|BW}}|2011 World Championships Scrafty|Italian|United States|50|August 14, 2011|link=List of local Italian event Pokémon distributions in Generation V#2011 World Championships Scrafty}}
+{{eventAvail|{{gameabbrev5|BW}}|2011 World Championships Scrafty|Japanese|United States|50|August 14, 2011|link=List of local Japanese event Pokémon distributions in Generation V#2011 World Championships Scrafty}}
+{{eventAvail|{{gameabbrev5|BW}}|2011 World Championships Scrafty|Korean|United States|50|August 14, 2011|link=List of local Korean event Pokémon distributions in Generation V#2011 World Championships Scrafty}}
+{{eventAvail|{{gameabbrev5|BW}}|2011 World Championships Scrafty|Spanish|United States|50|August 14, 2011|link=List of local Spanish event Pokémon distributions in Generation V#2011 World Championships Scrafty}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Dark|type2=Fighting
+|b2w21=Shed Shell|b2w21type=None|b2w21rar=5
+|event1=Leftovers|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Dark
+|type2=Fighting
+|HP=65
+|Attack=90
+|Defense=115
+|SpAtk=45
+|SpDef=115
+|Speed=58}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|type2=Fighting
+|Normal=100
+|Fighting=200
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=50
+|Bug=100
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=25
+|Fairy=400
+|notes=yes
+|dark=yes
+|newpsychic=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Scrafty|Dark|Fighting|5}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|1|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|1|Feint Attack|Dark|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|5|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|9|Feint Attack|Dark|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|12|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|16|Low Kick|Fighting|Physical|&mdash;|100|20||'''}}
+{{learnlist/level7|20|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/level7|23|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/level7|27|Chip Away|Normal|Physical|70|100|20}}
+{{learnlist/level7|31|High Jump Kick|Fighting|Physical|130|90|10||'''}}
+{{learnlist/level7|34|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|38|Crunch|Dark|Physical|80|100|15||'''}}
+{{learnlist/level7|45|Facade|Normal|Physical|70|100|20}}
+{{learnlist/level7|51|Rock Climb|Normal|Physical|90|85|20}}
+{{learnlist/level7|58|Focus Punch|Fighting|Physical|150|100|20||'''}}
+{{learnlist/level7|65|Head Smash|Rock|Physical|150|80|5}}
+{{learnlist/levelf/7|Scrafty|Dark|Fighting|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Scrafty|Dark|Fighting|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10||'''}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Scrafty|Dark|Fighting|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Scrafty|Dark|Fighting|5}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}|Acid Spray|Poison|Special|40|100|20|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}<br>{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}<br>{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|513|Pansear}}<br>{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|631|Heatmor}}|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|252|Treecko}}{{MSP|253|Grovyle}}{{MSP|254|Sceptile}}{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|448|Lucario}}<br>{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|130|Gyarados}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}<br>{{MSP|149|Dragonite}}{{MSP|334|Altaria}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}{{MSP|782|Jangmo-o}}<br>{{MSP|783|Hakamo-o}}{{MSP|784|Kommo-o}}|Dragon Dance|Dragon|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Drain Punch|Fighting|Physical|75|100|10||'''}}
+{{learnlist/breed7|{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|274|Nuzleaf}}{{MSP|300|Skitty}}<br>{{MSP|301|Delcatty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed7|{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|197|Umbreon}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|228|Houndour}}<br>{{MSP|229|Houndoom}}{{MSP|274|Nuzleaf}}{{MSP|275|Shiftry}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|300|Skitty}}<br>{{MSP|303|Mawile}}{{MSP|327|Spinda}}{{MSP|352|Kecleon}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|559|Scraggy}}<br>{{MSP|560|Scrafty}}{{MSP|570|Zorua}}{{MSP|571|Zoroark}}{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|690|Skrelp}}<br>{{MSP|691|Dragalge}}{{MSP|765|Oranguru}}|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|149|Dragonite}}{{MSP|181|Ampharos}}{{MSP|257|Blaziken}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|427|Buneary}}|Ice Punch|Ice|Physical|75|100|15|*}}
+{{learnlist/breed7|{{MSP|448|Lucario}}|Power-Up Punch|Fighting|Physical|40|100|20|{{sup/7|USUM}}|'''}}
+{{learnlist/breed7|{{MSP|252|Treecko}}{{MSP|253|Grovyle}}{{MSP|254|Sceptile}}{{MSP|448|Lucario}}{{MSP|619|Mienfoo}}{{MSP|678|Meowstic}}<br>{{MSP|745|Lycanroc}}|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|149|Dragonite}}{{MSP|181|Ampharos}}|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|128|Tauros}}{{MSP|203|Girafarig}}{{MSP|234|Stantler}}{{MSP|325|Spoink}}<br>{{MSP|326|Grumpig}}{{MSP|371|Bagon}}{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|517|Munna}}{{MSP|765|Oranguru}}|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/breedf/7|Scrafty|Dark|Fighting|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Scrafty|Dark|Fighting|5}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||'''|no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15||'''|no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||'''|no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20||'''|no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Scrafty|Dark|Fighting|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Scrafty|Dark|Fighting|5}}
+{{Learnlist/prevo7null}}
+{{learnlist/prevof/7|Scrafty|Dark|Fighting|5}}
+
+===Side game data===
+{{Spindata/Head|type=Dark|type2=Fighting}}
+{{Spindata/RumbleBlast|col=6|type=Dark
+|att=3
+|def=5
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Dark|ndex=560
+|pad=She is competitive and impatient, but she cares about her friends. She is worried about {{p|Scraggy}}, who went to the [[Crag Area]] to become strong.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Dark|ndex=560
+|HP=3
+|atk=3
+|def=5
+|spd=2
+|range=3
+|move=Hi Jump Kick
+|ability1=Shed Skin
+|ability2=Moxie
+|ability3=Spirit
+|evo=Evolves from {{p|Scraggy}} when its Defense is 86 or higher
+|link={{DL|List of Pokémon Conquest characters|Genba}}, {{DL|List of Pokémon Conquest characters|Hisaaki}}, and {{DL|List of Pokémon Conquest characters|Shimoyama}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Dark|ndex=560
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Dark|ndex=560|num=514
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Last-Ditch Effort
+|skilldesc=Increases damage when things are looking desperate.
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|pictype=art
+|type1=Dark
+|type2=Fighting
+|no1=559
+|name1=Scraggy
+|type1-1=Dark
+|type2-1=Fighting
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 39}}
+|no2=560
+|name2=Scrafty
+|type1-2=Dark
+|type2-2=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=Dark|type2=Fighting}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=560}}
+{{Spritebox/6|ndex=560}}
+{{Spritebox/7|ndex=560}}
+{{Spritebox/Footer|560|Scrafty}}
+
+==Trivia==
+
+===Origin===
+Scrafty appears to be based on a lizard. With its red spike mohawk, {{wp|Moulting#Reptiles|molted skin}} "pants" and "hoodie", Scrafty also seem to encapsulate stereotypes of various urban {{wp|youth subculture}}s of the past several decades, namely {{wp|hip hop fashion|hip hop}} and {{wp|punk fashion|punk}}.
+
+====Name origin====
+Scrafty is a combination of ''scrappy'' (to be fond of fighting or competing) or ''scraggy'' (thin or scrawny) and ''crafty'' (being skilled at deceit to achieve one's goals).
+
+Zuruzukin is a combination of 狡 ''zuru'' (sneaky person) or 狡い ''zurui'' (crafty) and 頭巾 ''zukin'' (hood). It may also derive from ずるずる ''zuruzuru'' (''loose'' or ''the act or sound of dragging'').
+
+==In other languages==
+{{Other languages|type=Dark|type2=Fighting
+|ja=ズルズキン ''Zuruzukin''|jameaning=From {{tt|狡 ''zuru''|sneaky person}} and {{tt|頭巾 ''zukin''|hood}}
+|fr=Baggaïd|frmeaning=From ''baggy'' and ''{{tt|caïd|Crime boss}}''
+|es=Scrafty|esmeaning=Same as English name
+|de=Irokex|demeaning=From ''{{tt|Irokese|Mohawk}}'' and ''{{tt|Exuvie|molt}}''
+|it=Scrafty|itmeaning=Same as English name
+|ko=곤율거니 ''Gonyulgeoni''|komeaning=Possibly from ''dragon'', {{tt|율 (汩) ''yul''|to slip down}} and {{tt|건달 ''geondal''|hoodlum}}
+|zh_cmn=頭巾混混 / 头巾混混 ''Tóujīnhùnhun''|zh_cmnmeaning=From {{tt|頭巾 ''tóujīn''|hood, scarf}} and {{tt|混混 ''hùnhùn''|slang term for ''rascal''}}
+|ru=Скрафти ''Skrafti''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Dark|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=559|prev=Scraggy|nextnum=561|next=Sigilyph}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Irokex]]
+[[fr:Baggaïd]]
+[[it:Scrafty]]
+[[ja:ズルズキン]]
+[[pl:Scrafty]]
+[[zh:头巾混混]]

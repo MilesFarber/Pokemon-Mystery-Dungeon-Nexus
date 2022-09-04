@@ -1,0 +1,783 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Eevee}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=132|prev=Ditto|nextnum=134|next=Vaporeon|round=none}}
+{{PokémonPrevNext/Disambig|species=Eevee}}
+|}
+{{Pokémon Infobox
+|name=Eevee
+|jname=イーブイ
+|jtranslit=Ībui
+|tmname=Eievui
+|ndex=133
+|oldjdex=180
+|jdex=184
+|sdex=163
+|u2dex=091
+|karea=Coastal
+|kdex=077
+|adex=123
+|abrow=097
+|obrow=075
+|opbrow=054
+|typebox=1
+|type1=Normal
+|category=Evolution
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=14.3
+|weight-kg=6.5
+|abilityn=d
+|ability1=Run Away
+|ability2=Adaptability
+|abilityd=Anticipation
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=35
+|evtotal=1
+|evsd=1
+|expyield=65
+|oldexp=92
+|lv100exp=1,000,000
+|gendercode=31
+|color=Brown
+|catchrate=45
+|body=08
+|pokefordex=eevee
+|generation=1
+|friendship=70
+}}
+'''Eevee''' ([[List of Japanese Pokémon names|Japanese]]: '''イーブイ''' ''Eievui'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s into one of [[Eeveelution|eight different Pokémon]] through various methods:
+* {{p|Vaporeon}} when exposed to a [[Water Stone]].
+* {{p|Jolteon}} when exposed to a [[Thunder Stone]].
+* {{p|Flareon}} when exposed to a [[Fire Stone]].
+* {{p|Espeon}} when leveled up with high [[friendship]] during the [[time|daytime]], including [[time|morning]] ([[Generation II]] onward, excludes areas with a [[Moss Rock]] or [[Ice Rock]]), or when leveled up with high friendship with a [[Sun and Moon Shards|Sun Shard]] in the [[Bag]] ({{Pokémon XD}}).
+* {{p|Umbreon}} when leveled up with high [[friendship]] during the [[time|nighttime]] ([[Generation II]] onward, excludes areas with a [[Moss Rock]] or [[Ice Rock]]), or when leveled up with high friendship with a [[Sun and Moon Shards|Moon Shard]] in the [[Bag]] ({{Pokémon XD}}).
+* {{p|Leafeon}} when leveled up near a [[Moss Rock]] ([[Generation IV]] onward).
+* {{p|Glaceon}} when leveled up near an [[Ice Rock]] ([[Generation IV]] onward).
+* {{p|Sylveon}} when leveled up with a {{type|Fairy}} move and two levels of [[Affection]] ([[Generation VI]] onward, excludes areas with a [[Moss Rock]] or [[Ice Rock]]).
+
+Eevee is the [[starter Pokémon]] for the main characters of [[Pokémon XD: Gale of Darkness]] and [[Pokémon Conquest]]. It is also the [[rival]]'s starter Pokémon in {{game|Yellow}}, although [[Professor Oak]] originally intended to give it to the {{player}}.
+
+==Biology==
+Eevee is a mammalian, quadruped creature with primarily brown fur. The tip of its bushy tail and its large furry collar are cream-colored. It has short, slender legs with three small toes and a pink paw pad on each foot. Eevee has brown eyes, long pointed ears, and a small black nose. This Pokémon is rarely found in the wild, and is mostly only found in {{DL|List of Pokémon by habitat|Urban Pokémon|cities and towns}}. However, Eevee is said to have an irregularly shaped genetic structure that allows it to adapt to many different kinds of environments. Eventually, Eevee may evolve to better suit its surroundings. According to [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|Pokémon Mystery Dungeon]], Eevee has a naive personality.
+
+Eevee is the [[Signature move|only known Pokémon]] capable of using the exclusive [[Z-Move]] {{m|Extreme Evoboost}}.
+
+==In the anime==
+===In the main series===
+[[File:Serena Eevee.png|250px|thumb|left|Eevee in the {{pkmn|anime}}]]
+[[File:May Eevee Egg.png|thumb|220px|Eevee {{pkmn|Egg}} in the anime]]
+====Major appearances====
+=====[[May's Eevee]]=====
+{{an|May}} received an {{pkmn|Egg}} from a Daycare Worker in ''[[AG150|May's Egg-Cellent Adventure]]''. That Egg hatched into an Eevee in ''[[AG157|Time Warp Heals All Wounds]]'', who eventually evolved into {{p|Glaceon}} before May met back up with the group in ''[[DP076|A Full Course Tag Battle!]]''.
+
+=====[[Serena's Eevee]]=====
+Serena caught an Eevee in ''[[XY089|A Frolicking Find in the Flowers!]]''. It later evolved into a {{p|Sylveon}} in ''[[XY105|Party Dancecapades!]]''.
+
+=====[[Gary's Eevee]]=====
+{{Gary}}'s Eevee debuted in ''[[EP116|The Rivalry Revival]]'', defeating [[Ash's Pikachu]]. It evolved into an {{p|Umbreon}} sometime before ''[[EP171|Power Play!]]''.
+
+=====[[Sakura's Espeon|Sakura's Eevee]]=====
+[[Sakura]] owned an Eevee in ''[[EP183|Trouble's Brewing]]''. By the time {{Ash}} and {{ashfr}} met up with Sakura again in ''[[EP226|Espeon, Not Included]]'', her Eevee had evolved into an {{p|Espeon}}.
+
+=====Other=====
+Eevee debuted in ''[[EP040|The Battling Eevee Brothers]]''. A little boy named Mikey was hiding the Evolution Pokémon from [[Eevee brothers|his three older brothers]] because they wanted him to evolve it just like they did to their own Eevee. However, when Mikey's Eevee single-handedly defeated {{TRT}}, Sparky, Rainer, and Pyro accepted the fact that Mikey wanted to keep his Eevee just the way it is.
+
+Two Eevee appeared in ''[[DP174|Last Call — First Round!]]'', under the ownership of [[Ursula]]. Both of them evolved into a Vaporeon and a Flareon during her performance.
+
+A female Eevee, along with her [[Eeveelution|evolutions]], appeared in ''[[BW102|Team Eevee and the Pokémon Rescue Squad!]]'', under the ownership of [[Virgil]]. Another Eevee, also belonging to Virgil, was also briefly seen in a flashback, in which it evolved into his Umbreon.
+
+An Eevee appeared in ''[[PK25|Eevee & Friends]]'' alongside its [[Eeveelution|evolutions]], including the newly introduced {{p|Sylveon}}.
+
+Three Eevee appeared in ''[[BW135|Mystery on a Deserted Island!]]'', where they evolved into {{p|Vaporeon}}, {{p|Jolteon}}, and {{p|Flareon}}.
+
+An Eevee appeared in ''[[SM027|A Glaring Rivalry!]]'', during a flashback, under the ownership of Gladion. It is implied that this Eevee is the same one that evolved into his Umbreon.
+
+An Eevee will appear in [[SM065]], under the ownership of [[Ilima]].
+
+An Eevee will appear in [[M21]], under the ownership of Lisa.
+
+====Minor appearances====
+An Eevee briefly appeared in ''[[EP150|Hour of the Houndour]]''.
+
+An Eevee appeared in ''[[M02|The Power of One]]''.
+
+An Eevee appeared in ''[[EP245|Will the Real Oak Please Stand Up?]]'', under the ownership of a child.
+
+An Eevee was seen alongside its Trainer in a [[Pokémon Center]] in ''[[EP262|You're a Star, Larvitar!]]''.
+
+An Eevee appeared in {{Gary}}'s explanation in ''[[EP272|Johto Photo Finish]]''.
+
+An Eevee was used by one of the students of the [[Pokémon Trainers' School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+Multiple Eevee appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+Eevee made a small cameo appearance in the opening sequence of ''[[M11|Giratina and the Sky Warrior]]'' together with its seven [[Eeveelution]]s at the time.
+
+An Eevee appeared in ''[[DP145|A Rivalry to Gible On!]]''.
+
+An Eevee appeared in ''[[M16|Genesect and the Legend Awakened]]''.
+
+A {{pkmn|Trainer}}'s Eevee appeared in ''[[XY003|A Battle of Aerial Mobility!]]''.
+
+An Eevee appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+An Eevee appeared in a flashback in ''[[XY049|Bonnie for the Defense!]]'', where it was taken away from [[Heidi]], [[Kye]], and [[Jay]] by their teacher, who told them they were too young to have a Pokémon. This caused them to harbor a strong distrust of adults, but they later learned that it had been taken back to its true owner after being delivered to [[Nurse Joy]].
+
+An Eevee appeared during the Mega {{p|Audino}} journal in ''[[XY053|A Race for Home!]]''.
+
+An image of an Eevee appeared in ''[[XY091|A Performance Pop Quiz!]]''.
+
+Two Trainers' Eevee appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+A Trainer's Eevee appeared in ''[[SM002|The Guardian's Challenge!]]''. It appeared again in [[SM064]].
+
+Five Trainers' Eevee appeared in ''[[SM006|A Shocking Grocery Run!]]''.
+
+Three Trainers' Eevee appeared in ''[[SM017|Crystal-Clear Sleuthing!]]''.
+
+A Trainer's Eevee appeared in ''[[SM021|One Journey Ends, Another Begins...]]''.
+
+A Trainer's Eevee appeared in ''[[SM023|Getting the Band Back Together!]]''.
+
+A Trainer's Eevee appeared in ''[[SM027|A Glaring Rivalry!]]''. It reappeared in a flashback in ''[[SM047|A Masked Warning!]]''.
+
+A Trainer's Eevee appeared in ''[[M20|I Choose You!]]''.
+
+A Trainer's Eevee appeared in ''[[SM042|Alola, Kanto!]]''.
+
+A Trainer's Eevee appeared in ''[[SM050|Faba's Revenge!]]''.
+
+A Trainer's Eevee appeared in [[SM064]].
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP040|Eevee|Ash's Pokédex|Eevee, the Evolution Pokémon. It has the potential to evolve into any one of three different Pokémon.}}
+{{Animedexbody|EP040|Eevee's evolution|Ash's Pokédex|Eevee evolves into one of three Pokémon depending on what [[evolutionary stone|stone]] is used on it:<br>
+Using a Fire Stone will yield {{p|Flareon}}, the Flame Pokémon.<br>
+A Water Stone yields {{p|Vaporeon}}, the Bubble Jet Pokémon.<br>
+A Thunder Stone yields {{p|Jolteon}}, the Lightning Pokémon.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP174|Eevee|Dawn's Pokédex|Eevee, the Evolution Pokémon. Eevee is a unique Pokémon that can adapt to its environment by changing its form and abilities when evolving.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW102|Eevee|Ash's Pokédex|Eevee, the Evolution Pokémon. Depending on circumstances, Eevee can evolve into many forms.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY089|Eevee|Serena's Pokédex|Eevee, the Evolution Pokémon. Eevee is rarely seen, and can adapt to severe habitats by evolving, changing its capabilities and form.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+===In Pokémon Origins===
+[[File:Professor Oak Eevee PO.png|thumb|250px|Eevee in [[Pokémon Origins]]]]
+An Eevee appeared in ''[[PO01|File 1: Red]]'' with [[Professor Oak]].
+{{-}}
+
+==In the manga==
+[[File:Y Veevee Eevee.png|thumb|200px|Eevee in [[Pokémon Adventures]]]]
+===In the Electric Tale of Pikachu manga===
+Like in the {{pkmn|anime}}, [[Mikey]] owns an Eevee in the [[The Electric Tale of Pikachu]] manga. Mikey and his Eevee appear in the chapter ''[[ET06|To Evolve or Not to Evolve, That is the Question!]]''.
+
+===In the Magical Pokémon Journey manga===
+{{main|Coconut's Eevee}}
+{{main|Lu}}
+An Eevee is owned by [[Coconut]] in [[Magical Pokémon Journey]]. This Eevee is a smart Pokémon who is very loyal to Coconut.
+
+Later in the series, another Eevee named [[Lu]] appears. Coconut's Eevee falls in love with Lu, who confesses her own love to Eevee before moving away.
+
+===In the Pokémon Adventures manga===
+{{main|Vee}}
+In ''[[PS019|Blame it on Eevee]]'' an Eevee is seen as a Pokémon experimented on by [[Team Rocket]], in their tests to attempt merging {{p|Articuno}}, {{p|Zapdos}}, and {{p|Moltres}} into {{DL|Legendary birds (Adventures)|Thu-Fi-Zer|a single Pokémon}}. The experiments gave Eevee the characteristic of being able to mutate into three of his evolved forms, namely {{p|Vaporeon}}, {{p|Jolteon}}, and {{p|Flareon}} and revert, though he still requires the energies of an [[evolutionary stone]]. {{adv|Red}} eventually captures this Eevee as a prerequisite for challenging [[Erika]] and gave him the name Vee. When he evolved into Espeon, however, he lost his mutation ability and became unable to revert to his base form.
+
+Yellow fantasized about Pokémon that could evolve via [[Evolutionary stone|stone]] in ''[[PS058|The Kindest Tentacruel]]'' which an Eevee was one of them.
+
+Another Eevee was seen under the ownership of [[Karen]] in ''[[PS268|The Escape]]'', during her childhood as one of the children captured by the [[Masked Man]]. It is presumed that this Eevee eventually evolves into her {{p|Umbreon}}, which she used to fight {{adv|Green}}.
+
+{{adv|Y}} caught an Eevee, which she named Veevee. When she used her in a battle against [[Team Flare]], she evolved into a {{p|Sylveon}}.
+
+===In the Pokémon Pocket Monsters manga===
+An Eevee is seen with {{OBP|Red|Pocket Monsters}} during the curry cooking competition that went on in ''[[PM027|Curry Showdown! Which is the Most Delicious?]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+[[Mitsumi]] has an Eevee as seen in ''[[DPA17|Clash! Hareta vs. Mitsumi!!]]''.
+{{-}}
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS028]]<br>[[PS055]]<br>[[PS059]]|A rare Pokémon with an irregular genetic code. Able to evolve into any of three highly distinct, advanced forms.}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Eevee (TCG)}}
+
+As in the games and anime, Eevee is notable in the TCG for being able to evolve into the most differently-named Pokémon cards, with its eight normal evolutions, as well as {{TCG|Dark Pokémon|Dark forms}} of the Generation I evolutions and Espeon, and {{TCG|Light Pokémon|Light forms}} of the Generation I evolutions.
+
+==In the TFG==
+One Eevee figure has been released.
+
+*{{TFG|Next Quest}}: {{TFG ID|Next Quest|Eevee|10}}
+
+==Other appearances==
+[[File:Eevee SSB4.png|220px|thumb|Eevee in [[Super Smash Bros. for Nintendo 3DS/Wii U]]]]
+===[[Super Smash Bros. Melee]]===
+Eevee only appears as a random trophy.
+
+====Trophy information====
+''As adaptable a Pokémon as any yet discovered, Eevee's evolutionary progress changes to meet the conditions of its environment. So far, five evolutionary forms have been discovered and then catalogued for this unique Pokémon; Vaporeon, Jolteon, Flareon, Espeon, and Umbreon. All evolutions have special benefits.''
+
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+Eevee appears as a [[Poké Ball]] Pokémon. It uses {{m|Take Down}} to hit opponents.
+====Trophy information====
+'''NA''': ''This Normal-type Pokémon is as adaptable to evolution as they come, with eight evolutions discovered thus far. If you pair that potential with its adorable features, it's no wonder Eevee is so popular! In Smash Bros., Eevee will attack a nearby opponent with Take Down. Sadly, this attack isn't incredibly powerful. ''
+
+'''PAL''': ''This adorable Normal-type Pokémon's ability to evolve in so many different ways makes it a popular choice with trainers. When brought out in battle, Eevee uses Take Down on the first opponent it sees, but...it's not very effective. Never mind. Eevee may not be the toughest Pokémon, but it'll always be one of the cutest. ''
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Stadium 2]]: Eevee stars in the mini-game "Eager Eevee".
+
+===Pokédex entries===
+{{Dex/Header|type=normal}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Its genetic code is irregular. It may mutate if it is exposed to radiation from [[evolutionary stone|element Stones]].}}
+{{Dex/Entry1|v=Yellow|entry=Its genetic code is unstable, so it could evolve in a variety of ways. There are only a few alive.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Its genetic code is irregular. It evolves into three kinds of Pokémon when exposed to the radiation of elemental stones.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It has the ability to alter the composition of its body to suit its surrounding environment.}}
+{{Dex/Entry1|v=Silver|entry=Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.}}
+{{Dex/Entry1|v=Crystal|entry=Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It has the ability to alter the composition of its body to suit its surrounding environment.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.}}
+{{Dex/Entry1|v=FireRed|entry=An extremely rare Pokémon that may evolve in a number of different ways depending on stimuli.}}
+{{Dex/Entry1|v=LeafGreen|entry=Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.}}
+{{Dex/Entry1|v=Platinum|entry=Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.}}
+{{Dex/Entry1|v=HeartGold|entry=It has the ability to alter the composition of its body to suit its surrounding environment.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its irregularly configured DNA is affected by its surroundings. It evolves if its environment changes.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=A rare Pokémon that adapts to harsh environments by taking on different evolutionary forms.}}
+{{Dex/Entry1|v=Y|entry=Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|entry=Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various stones causes this Pokémon to evolve.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Possessing an unbalanced and unstable genetic makeup, it conceals many possible evolutions.}}
+{{Dex/Entry1|v=Moon|entry=Current studies show it can evolve into an incredible eight different species of Pokémon.}}
+{{Dex/Entry1|v=Ultra Sun|entry=The question of why only Eevee has such unstable genes has still not been solved.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its genes are easily influenced by its surroundings. Even its face starts to look like that of its Trainer.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=normal}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[List of in-game event Pokémon in Generation I#Eevee|Received]] from a person in the [[Celadon Condominiums]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[List of in-game event Pokémon in Generation I#Eevee|Received]] from a person in the [[Celadon Condominiums]]}}
+{{Availability/Entry1|v=Yellow|area=[[List of in-game event Pokémon in Generation I#Eevee 2|Received]] from a person in the [[Celadon Condominiums]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[List of in-game event Pokémon in Generation II#Eevee|Received]] from [[Bill]] in [[Goldenrod City]]<br/>[[Celadon Game Corner]]}}
+{{Availability/Entry1|v=Crystal|area=[[List of in-game event Pokémon in Generation II#Eevee|Received]] from [[Bill]] in [[Goldenrod City]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[List of in-game event Pokémon in Generation III#Eevee|Received]] from a person in the [[Celadon Condominiums]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Starter Pokémon]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[List of in-game event Pokémon in Generation IV#Eevee|Received]] from [[Bebe]] in [[Hearthome City]]{{tt|*|After obtaining the National Pokédex}}<br/>[[Trophy Garden]]{{tt|*|After obtaining the National Pokédex}}}}
+{{Availability/Entry1|v=Platinum|area=[[List of in-game event Pokémon in Generation IV#Eevee 2|Received]] from [[Bebe]] in [[Hearthome City]]<br/>[[Trophy Garden]]{{tt|*|After obtaining the National Pokédex}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[List of in-game event Pokémon in Generation IV#Eevee 3|Received]] from [[Bill]] in [[Goldenrod City]]<br/>[[Celadon Game Corner]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Sightseeing}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Castelia City]]<br/>[[List of in-game event Pokémon in Generation V#Eevee|Received]] from [[Amanita]] in [[Castelia City]]{{tt|*|After defeating Iris, has the Hidden Ability Anticipation}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pokémon Café Forest}}, {{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|10|Kalos}}, [[Friend Safari]] ([[Friend Safari#Normal-type Safari|Normal]])<br>[[In-game trade#X and Y|Trade]] any Pokémon in a [[Kalos hotels|hotel]]}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{rt|116|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=Hatch {{pkmn|Egg}} received at the [[Pokémon Nursery]] in [[Paniola Ranch]]<br>[[Route]]s {{rtn|4|Alola}} and {{rtn|6|Alola}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=Hatch {{pkmn|Egg}} received at the [[Pokémon Nursery]] in [[Paniola Ranch]]<br>[[Route]]s {{rtn|4|Alola}} and {{rtn|6|Alola}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=normal}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Pokémon Island Beach|Beach]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Celadon City]]}}
+{{Availability/Entry1|1|v=Stadium|link=Pokémon Stadium (English)|color=000|t=FFF|area=[[Gym Leader Castle]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Springleaf Field]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 13, Endless Level 31, Forever Level 13, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Starter Pokémon]], [[Joyous Tower]] (12F-17F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (1F-13F), [[Mystery Jungle]] (1F-29F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Starter Pokémon]], [[Partner Pokémon]], [[Mystifying Forest]] (1F-13F), [[Mystery Jungle]] (1F-29F)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Pueltown]]}}
+{{Availability/Entry1|v=Ranch|color={{diamond color}}|link=My Pokémon Ranch|area=[[Hayley's trades]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Advanced Mode S)</small>, [[Rocky Cave]] <small>(Advanced Mode C & S)</small>, [[Fiery Furnace]] <small>(Both Modes S, Normal Mode C)</small>, [[Bright Beach]] <small>(Both Modes C & S)</small>, [[Eternal Tower]] <small>(Both Modes C & S)</small>}}
+{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=[[Starter Pokémon]]}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Granite Zone]], [[Meeting Place]]{{tt|*|cannot be befriended in the Meeting Place}}}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Old Mansion]], [[Fire Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Starter Pokémon]], any kingdom with a {{DL|Kingdom location|Park}} (when the [[Hero]]/[[Heroine]] is in the army), {{DL|Pokémon Conquest|Passwords}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Moonlit Forest]] (Mapless Street), [[Rusty Mountain]] (1F-24F), [[Jaws of the Abyss]] (Golden Chamber), [[Smoking Mountain]] (Golden Chamber), [[Slumbering Cave]] (B1-B99), [[Path of No Return]] (B1-B99), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Aquatic Hill#The Colorful Park|Aquatic Hill: The Colorful Park]]<br>NFC Figurine}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 6|Colossal Forest: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Puerto Blanco|Puerto Blanco: Stage 5]]<br>[[Blau Salon|Blau Salon: Stage 416]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Old-Growth Woods|Origin Hideaway: Old-Growth Woods]] <small>(All Areas)</small>, [[Legend Terrain#Bastion of Beginnings|Legend Terrain: Bastion of Beginnings]] <small>(Special)</small>}}
+<!--{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=}}-->
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 14|Area 14: Stage 03]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=normal}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Growth Eevee|English|United States|5[[File:ShinyIIStars.png|Shiny|link=Shiny Pokémon]]|February 21 to 27, 2003|link=List of Gotta Catch 'Em All event Pokémon#Growth Eevee}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Pokémon Center Eevee|Japanese|Japan|10|December 6, 2008 to January 12, 2009;<br/>March 6 to 19, 2009|link=List of local Japanese event Pokémon distributions in Generation IV#Pokémon Center Eevee}}
+{{eventAvail|{{gameabbrev4|HGSS}}|2010 World Championships Eevee|Japanese|Japan|50[[File:ShinyIVStar.png|Shiny|link=Shiny Pokémon]]|January 11 to May 9, 2010|link=List of local Japanese event Pokémon distributions in Generation IV#2010 World Championships Eevee}}
+{{eventAvail|{{gameabbrev4|HGSS}}|Video Game Championships 2010 Eevee|English|United States|50[[File:ShinyIVStar.png|Shiny|link=Shiny Pokémon]]|May 8 to June 27, 2010|link=List of local English event Pokémon distributions in Generation IV#Video Game Championships 2010 Eevee}}
+{{eventAvail|{{gameabbrev4|HGSS}}|Video Game Championships 2010 Eevee|English|United Kingdom|50[[File:ShinyIVStar.png|Shiny|link=Shiny Pokémon]]|May 29, 2010|link=List of local English event Pokémon distributions in Generation IV#Video Game Championships 2010 Eevee}}
+{{eventAvail|{{gameabbrev4|HGSS}}|Video Game Championships 2010 Eevee|German|Germany|50[[File:ShinyIVStar.png|Shiny|link=Shiny Pokémon]]|June 5, 2010|link=List of local German event Pokémon distributions in Generation IV#Video Game Championships 2010 Eevee}}
+{{eventAvail|{{gameabbrev4|HGSS}}|Video Game Championships 2010 Eevee|French|France|50[[File:ShinyIVStar.png|Shiny|link=Shiny Pokémon]]|June 12, 2010|link=List of local French event Pokémon distributions in Generation IV#Video Game Championships 2010 Eevee}}
+{{eventAvail|{{gameabbrev4|HGSS}}|Video Game Championships 2010 Eevee|Spanish|Spain|50[[File:ShinyIVStar.png|Shiny|link=Shiny Pokémon]]|June 19, 2010|link=List of local Spanish event Pokémon distributions in Generation IV#Video Game Championships 2010 Eevee}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Kiyo Eevee|Japanese|Japan|50|July 13, 2013;<br/>July 14 to September 1, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Kiyo Eevee}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Center Birthday Eevee|All|Japan|10|October 12, 2013 to December 31, 2016|link=List of local event Pokémon distributions in Generation VI#Eevee}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Scrap Eevee|Japanese region|Online|15[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|March 1 to August 31, 2016|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Eevee}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Korean League Eevee|All|South Korea|15[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|October 22 to 23, 2016|link=List of local event Pokémon distributions in Generation VI#Korean League Eevee}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Center Birthday Eevee|All|Japan|10|November 18, 2016 to ???|link=List of local event Pokémon distributions in Generation VII#Eevee}}
+|}
+
+=====In-game events=====
+{{eventAvail/h|type=normal|lochide=yes}}
+{{eventAvail|{{gameabbrev1|RGBY}}|Gym Leader Castle Eevee|Japanese|hide|25|April 30, 1999 onwards|link=List of game-based Pokémon distributions in Generation I#Eevee_2}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Eevee|English|hide|25|February 29, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Eevee}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Eevee|French|hide|25|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Eevee}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Eevee|German|hide|25|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Eevee}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Eevee|Italian|hide|25|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Eevee}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Eevee|Spanish|hide|25|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Eevee}}
+|}
+
+===Held items===
+{{HeldItems
+|type=normal
+|rby1=Bitter Berry|rby1type=None|rby1rar=100|rby1image=no
+|stad1=Normal Box|stad1type=wood box|stad1image=no|stad1rar=100
+|stad2=Gorgeous Box|stad2type=wood box|stad2image=no|stad2rar=100
+|ranch1=Haban Berry|ranch1type=Berry|ranch1rar=100
+|event1=Focus Sash|event1type=In-battle effect item|event1rar=100
+|event2=Silk Scarf|event2type=Type-enhancing item|event2rar=100
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=normal
+|HP=55
+|Attack=55
+|Defense=50
+|SpAtk=45
+|SpDef=65
+|Special=65
+|Speed=55
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=2
+|SpeedMax=4
+|Power=2
+|PowerMax=4
+|Technique=2
+|TechniqueMax=4
+|Stamina=2
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Flying=100
+|Fighting=200
+|Ground=100
+|Rock=100
+|Bug=100
+|Poison=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Eevee|Normal|Normal|1}}
+{{learnlist/level7|1|Covet|Normal|Physical|60|100|25||'''}}
+{{learnlist/level7|1|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|5|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|9|Baby-Doll Eyes|Fairy|Status|&mdash;|100|30}}
+{{learnlist/level7|13|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level7|17|Bite|Dark|Physical|60|100|25||''}}
+{{learnlist/level7|17|Swift|Normal|Special|60|&mdash;|20||'''}}
+{{learnlist/level7|20|Refresh|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|25|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level7|29|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/level7|33|Baton Pass|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|37|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/level7|41|Last Resort|Normal|Physical|140|100|5||'''}}
+{{learnlist/level7|45|Trump Card|Normal|Special|&mdash;|&mdash;|5||'''}}
+{{learnlist/levelf/7|Eevee|Normal|Normal|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Eevee|Normal|Normal|1}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Eevee|Normal|Normal|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Eevee|Normal|Normal|2}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}<br>{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|234|Stantler}}{{MSP|300|Skitty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}<br>{{MSP|509|Purrloin}}{{MSP|572|Minccino}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|133|Eevee}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|216|Teddiursa}}{{MSP|231|Phanpy}}{{MSP|300|Skitty}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|572|Minccino}}<br>{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|613|Cubchoo}}{{MSP|676|Furfrou}}{{MSP|678|Meowstic}}{{MSP|702|Dedenne}}|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|133|Eevee}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}<br>{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|300|Skitty}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Covet|Normal|Physical|60|100|25||'''}}
+{{learnlist/breed7|{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|448|Lucario}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|231|Phanpy}}{{MSP|288|Vigoroth}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|303|Mawile}}{{MSP|570|Zorua}}|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|231|Phanpy}}{{MSP|263|Zigzagoon}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}<br>{{MSP|324|Torkoal}}{{MSP|327|Spinda}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}<br>{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|775|Komala}}|Flail|Normal|Physical|&mdash;|100|15||'''}}
+{{learnlist/breed7|{{MSP|231|Phanpy}}{{MSP|511|Pansage}}{{MSP|513|Pansear}}{{MSP|515|Panpour}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|517|Munna}}{{MSP|765|Oranguru}}|Stored Power|Psychic|Special|20|100|10||''}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|352|Kecleon}}{{MSP|517|Munna}}|Synchronoise|Psychic|Special|120|100|10||''}}
+{{learnlist/breed7|{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|572|Minccino}}{{MSP|573|Cinccino}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|025|Pikachu}}{{MSP|203|Girafarig}}{{MSP|300|Skitty}}{{MSP|327|Spinda}}{{MSP|653|Fennekin}}{{MSP|775|Komala}}<br>{{MSP|777|Togedemaru}}|Wish|Normal|Status|&mdash;|&mdash;|10|*|}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|206|Dunsparce}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|287|Slakoth}}<br>{{MSP|289|Slaking}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}<br>{{MSP|450|Hippowdon}}{{MSP|513|Pansear}}{{MSP|517|Munna}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|775|Komala}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Eevee|Normal|Normal|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Eevee|Normal|Normal|2}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25||'''|no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutorf/7|Eevee|Normal|Normal|2}}
+
+====By {{pkmn2|event}}s====
+{{learnlist/eventh/7|Eevee|Normal|Normal|1}}
+{{learnlist/event7|[[List of local event Pokémon distributions in Generation VII#Eevee|Pokémon Center Birthday Eevee]]|Celebrate|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/eventf/7|Eevee|Normal|Normal|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg colorless color light}}; border: 3px solid #{{tcg colorless color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Astonish}}
+| [[Lt. Surge's Eevee (Gym Challenge 51)]]
+|- style="background:#fff"
+| {{m|Bounce}}
+| [[Eevee (Rising Rivals 59)]]
+|- style="background:#fff"
+| {{m|Scratch}}
+| [[Lt. Surge's Eevee (Gym Challenge 51)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/Pinball|col=3|type=Normal|ndex=133|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=133|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=133
+|body=1
+|rate=10.2
+|area=Transform Forest
+|P1=Want to take a chance on my evolution?
+|P2=Oh? My health is down by half already.
+|P3=I can't... I'm out of power... Help...
+|PL=Yay! I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=133
+|body=1
+|rate=8.2
+|IQ=F
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Normal
+|group=Normal
+|assist=Normal
+|field=Tackle
+|fieldpower=1
+|browser=It quickly dashes about and charges to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Normal
+|group=Normal
+|assist=Normal
+|field=Tackle
+|fieldpower=2
+|browser=It shoots a series of hearts.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Normal
+|att=1
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Normal
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Normal|ndex=133
+|Pad=Eevee often plays in the [[Granite Zone]]. He enjoys the Attractions {{DL|Attractions|Bulbasaur's Daring Dash}} and {{DL|Attractions|Absol's Hurdle Bounce!}}
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Normal|ndex=133
+|pad=He is clumsy but very diligent. He is creating a racecourse, following {{p|Flareon}} and others.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Normal|ndex=133
+|HP=2
+|atk=1
+|def=2
+|spd=2
+|range=4
+|move=Quick Attack
+|ability1=Sprint
+|ability2=Perception
+|ability3=Celebrate
+|evo=Evolves into:
+* {{p|Vaporeon}} when its [[link]] is improved while its [[Warrior]] is equipped with a [[Water Stone]]
+* {{p|Jolteon}} when its [[link]] is improved while its [[Warrior]] is equipped with a [[Thunder Stone|Thunderstone]]
+* {{p|Flareon}} when its [[link]] is improved while its [[Warrior]] is equipped with a [[Fire Stone]]
+* {{p|Espeon}} when it has a link of 70% or higher and is deployed in [[Illusio]]
+* {{p|Umbreon}} when it has a link of 70% or higher and is deployed in [[Yaksha]]
+* {{p|Leafeon}} when it has a Defense stat of 94 or higher and is deployed in [[Greenleaf]]
+* {{p|Glaceon}} when it has an Attack stat of 91 or higher and is deployed in [[Nixtorm]]
+|link='''[[Hero]]'''/'''[[Heroine]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=133
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=133|num=023
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Eject+, Hammering Streak
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=133
+|hatch=5&nbsp;km{{tt|*|10&nbsp;km Eggs obtained prior to November 3, 2016 can hatch into Eevee}}
+|buddy=5
+|evocandy=25
+|stamina=110
+|attack=104
+|defense=121
+|fast={{m|Quick Attack}}, {{m|Tackle}}
+|special={{m|Dig}}, {{m|Swift}}, {{m|Body Slam}}{{tt|*|Prior to February 16, 2017}}
+}}
+|-
+{{Spindata/Magikarp Jump|col=6|type=Normal|ranks=1
+|item=Soothe Bell
+|cost=500
+|skill=Guarantees amazing results in the next training session
+|recoverytime=3 hours
+|rank1desc=Next training session
+}}
+|}
+In [[Pokémon GO]], Eevee normally evolves at random into one of {{p|Vaporeon}}, {{p|Jolteon}}, or {{p|Flareon}}. However, if it is the current [[Buddy Pokémon]] and has collected at least 2 [[Candy]], it will evolve into {{p|Espeon}} (during day mode) or {{p|Umbreon}} (during night mode). If Eevee has a particular [[nickname]], then once per nickname it is guaranteed to evolve into a particular Pokémon (regardless of other conditions).
+*Rainer: Vaporeon
+*Sparky: Jolteon
+*Pyro: Flareon
+*Sakura: Espeon
+*Tamao: Umbreon
+
+===Evolution===
+{{-}}
+{{evobox/1branch7}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/1|ndex=133}}
+{{Spritebox/2|ndex=133}}
+{{Spritebox/3|ndex=133}}
+{{Spritebox/4|ndex=133}}
+{{Spritebox/5|ndex=133}}
+{{Spritebox/6|ndex=133}}
+{{Spritebox/7|ndex=133}}
+{{Spritebox/Footer|133|Eevee}}
+
+==Trivia==
+* Eevee's name is a {{wp|palindrome}}.
+* Eevee was designed by [[Motofumi Fujiwara]].<ref>https://twitter.com/atsuko_nishida/status/783643367523557376</ref>
+* Eevee bears many distinguishing characteristics because of its [[Eeveelution|evolved forms]]:
+** Eevee is the only Pokémon to not share any types with any of its evolutions.
+** Eevee has the most evolutions of any Pokémon and is the only Pokémon which has more than three evolutions.
+** The fan-made term to describe the evolutions of Eevee, [[Eeveelution]]s, was made official after its use in the strategy guide for [[Pokémon Stadium 2]], followed by {{TCG|Eeveelution|a TCG Theme Deck}}.
+* In early English promotional material for [[Pokémon Red and Green beta|Pokémon Red and Blue]], Eevee was called "Eon", the suffix of all the evolutions of Eevee.
+* In [[Generation I]], Eevee is the only Pokémon to have a branched evolution.
+* It is impossible for Eevee to evolve into Espeon and Umbreon in {{game|FireRed and LeafGreen|s}} because the games lack a {{DL|Time|Generation III|time system}}. It is also impossible for it to evolve into Leafeon and Glaceon in {{game|HeartGold and SoulSilver|s}} since neither Johto nor Kanto has a [[Moss Rock]] or an [[Ice Rock]].
+* Despite Eevee being obtainable before the [[Pokémon League]] in [[Pokémon Black and White Versions 2]], it cannot evolve into Leafeon or Glaceon until after the Elite Four are defeated. This is because [[Twist Mountain]] and [[Pinwheel Forest]] are inaccessible before then.
+* Eevee is the only pre-existing Pokémon to [[List of Pokémon with cross-generational evolutions|receive an evolution]] in [[Generation VI]], though many received [[Mega Evolution]]s.
+* Four of Eevee's evolutions evolve through abnormal means in the [[Pokémon Mystery Dungeon series]] ({{p|Espeon}}, {{p|Umbreon}}, {{p|Leafeon}}, and {{p|Glaceon}}).
+** In the Pokémon Mystery Dungeon series, Eevee evolves using the {{DL|Mystery Dungeon evolutionary items|Sun Ribbon}}, or {{DL|Mystery Dungeon evolutionary items|Lunar Ribbon}} with at least 1 star of IQ, a {{DL|Mystery Dungeon evolutionary items|Mossy Rock}}, or a {{DL|Mystery Dungeon evolutionary items|Frozen Rock}} into its respective evolutions.
+* In {{ga|Pokémon Ranger}}, all of Eevee's evolutions up to the third generation can be captured; however, Eevee cannot even be found at all. This was changed in [[Pokémon Ranger: Shadows of Almia]].
+* Despite the fact that {{an|May}}, {{Gary}} and [[Sakura]] each owned an Eevee that went on to evolve, Eevee was never seen evolving on screen in the anime until ''[[DP174|Last Call — First Round!]]'' when [[Ursula]] evolved her two Eevee into {{p|Flareon}} and {{p|Vaporeon}} during a Contest appeal, over thirteen years into the series.
+
+===Origin===
+Eevee shares traits with {{wp|fox}}es, more specifically the {{wp|fennec fox}}, {{wp|dog}}s and {{wp|cat}}s.
+====Name origin====
+Eevee and Eievui are the pronunciations of ''E-V'', the first two letters in the word [[evolution]].
+
+==In other languages==
+{{Other languages|type=normal|type2=normal
+|ja=イーブイ ''Eievui''|jameaning=From the first two letters of ''evolution''
+|fr=Évoli|frmeaning=From ''{{tt|évolution|evolution}}'' and ''-li'', the suffix for all French [[Eeveelution]]s
+|es=Eevee|esmeaning=Same as English name
+|de=Evoli|demeaning=From ''Evolution''
+|it=Eevee|itmeaning=Same as English name
+|ko=이브이 ''Eevee''|komeaning=Transliteration of its Japanese name
+|zh_cmn=伊布 ''Yībù''|zh_cmnmeaning=Transliteration of its Japanese name
+|zh_yue=伊貝 ''Yībui''|zh_yuemeaning=Transliteration of its Japanese name
+|hi=ईवी ''Eevee''|himeaning=Transcription of English name
+|ru=Иви ''Ivi''|rumeaning=Transcription of English name
+|tr=Evri |trmeaning=From ''{{tt|evrim|evolution}}''
+}}
+<br clear="left">
+
+==Related articles==
+* [[Gary's Umbreon|Gary's Eevee]]
+* [[May's Glaceon|May's Eevee]]
+* [[Sakura's Espeon|Sakura's Eevee]]
+* [[Serena's Sylveon|Serena's Eevee]]
+* [[Vee]]
+* [[Coconut's Eevee]]
+* [[Lu]]
+
+==External links==
+* {{wp|Eevee|Article on Wikipedia}}
+
+==Notes==
+<references />
+
+{{Starter Pokémon|normal}}
+{{-}}
+{{Smash Bros.}}
+{{-}}
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=132|prev=Ditto|nextnum=134|next=Vaporeon}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Mystery Dungeon starters|133]]
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Pokémon that evolve by evolutionary stone]]
+[[Category:Pokémon that evolve using Fire Stone]]
+[[Category:Pokémon that evolve using Water Stone]]
+[[Category:Pokémon that evolve using Thunder Stone]]
+[[Category:Pokémon that evolve by friendship]]
+[[Category:Pokémon that evolve by friendship during the day]]
+[[Category:Pokémon that evolve by friendship during the night]]
+[[Category:Pokémon that evolve by training in a certain location]]
+[[Category:Pokémon that evolve based on time]]
+[[Category:Pokémon that evolve with certain moves]]
+[[Category:Pokémon that run from battle]]
+[[Category:Starter Pokémon|133]]
+[[Category:Pokémon that evolve through a unique method]]
+
+[[de:Evoli]]
+[[fr:Évoli]]
+[[it:Eevee]]
+[[ja:イーブイ]]
+[[pl:Eevee]]
+[[zh:伊布]]

@@ -1,0 +1,331 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Ice}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=697|prev=Tyrantrum|nextnum=699|next=Aurorus}}
+|}
+{{Pokémon Infobox
+|name=Amaura
+|jname=アマルス
+|jtranslit=Amarusu
+|tmname=Amarus
+|category=Tundra
+|typebox=1
+|type1=Rock
+|type2=Ice
+|ndex=698
+|karea=Coastal
+|kdex=066
+|height-ftin=4'03"
+|height-m=1.3
+|weight-lbs=55.6
+|weight-kg=25.2
+|abilityn=d
+|ability1=Refrigerate
+|abilityd=Snow Warning
+|egggroupn=1
+|egggroup1=Monster
+|gendercode=31
+|eggcycles=30
+|evtotal=1
+|evhp=1
+|lv100exp=1,000,000
+|color=Blue
+|catchrate=45
+|expyield=72
+|body=08
+|pokefordex=amaura
+|generation=6
+|friendship=70
+}}
+'''Amaura''' ([[List of Japanese Pokémon names|Japanese]]: '''アマルス''' ''Amarus'') is a dual-type {{2t|Rock|Ice}} [[Fossil]] {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It is resurrected from a [[Jaw and Sail Fossils|Sail Fossil]] and [[Evolution|evolves]] into {{p|Aurorus}} when [[level]]ed up at [[Time|night]] starting at level 39.
+
+==Biology==
+Amaura is a calm creature that lived long ago in a cold land without violent predators. It is a quadruped, dinosaurian Pokémon similar to {{wp|Sauropoda|sauropods}}. It has a long neck and a short, stubby tail. Above its large, deep blue eyes are two sail structures, which are yellow at the bottom fading into pink towards the tips. These sails have an iridescent appearance. Additionally, the sails change colors to reflect Amaura's mood (green when happy, blue when sad, and red when angry), as seen in [[Pokémon-Amie]]. It has a light blue body with a white belly. A single dark blue crystal adorns each side of its body; these crystals permanently remain at freezing cold temperatures, as demonstrated in Pokémon-Amie, where the crystal freezes the hand that touches it. While its forelegs lack claws or digits, the hind legs each have a single white nail. 
+
+As shown in the anime, Amaura have the ability to create auroras. Despite its restoration, it is not expected to live long in the heat of current climates.
+
+==In the anime==
+[[File:Amaura anime.png|thumb|250px|left|Amaura in the {{pkmn|anime}}]]
+===Major appearances===
+Amaura debuted in ''[[XY023|Coming Back into the Cold!]]'' alongside its evolution. Both Pokémon were brought back to life after being found frozen in ice. Amaura was captured by {{TRT}} and had to be brought back to the [[Ambrette Town]] Fossil Laboratory before it was too late. The same Amaura reappeared in a newspaper in ''[[XY027|To Find a Fairy Flower!]]''.
+
+An Amaura appeared in ''[[PK26|Pikachu, What's This Key?]]''.
+
+An Amaura appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''. This Amaura had been injured when a [[Pokémon Hunter]] had tried to capture it but was rescued and taken to [[Nebel Plateau]] and recovered.
+
+===Minor appearances===
+
+==In the manga==
+
+==In the TCG==
+{{main|Amaura (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=rock|type2=ice}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=This ancient Pokémon was restored from part of its body that had been frozen in ice for over 100 million years.}}
+{{Dex/Entry1|v=Y|entry=This calm Pokémon lived in a cold land where there were no violent predators like Tyrantrum.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=This ancient Pokémon was restored from part of its body that had been frozen in ice for over 100 million years.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=This calm Pokémon lived in a cold land where there were no violent predators like Tyrantrum.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=It lived in cold areas in ancient times. It's said that when Amaura whinnies, auroras appear in the night sky.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Amaura was restored successfully, but it's not expected to live long because of the heat of the current environment.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=rock|type2=ice}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=Revive from [[Jaw and Sail Fossils|Sail Fossil]] at the [[Ambrette Town]] {{DL|Ambrette Town|Fossil Lab}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]<br/>Receive [[Jaw and Sail Fossils|Sail Fossil]] [[held item|held]] by a [[trade]]d Pokémon and revive it<br/>{{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]<br/>Receive [[Jaw and Sail Fossils|Sail Fossil]] [[held item|held]] by a [[trade]]d Pokémon and revive it}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=Revive from [[Jaw and Sail Fossils|Sail Fossil]] at the [[Fossil Restoration Center]] on {{rt|8|Alola}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Ice}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 3|Mountain of Order: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Galerie Rouge|Galerie Rouge: Stage 65]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Ice Floe Island|Dark Land: Ice Floe Island]] <small>(All Areas)</small>, [[Plasma Tundra#Frosty Alps|Plasma Tundra: Frosty Alps]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=rock|type2=ice}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Amaura|Japanese region|Online|10|March 31 to May 31, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#PGL Amaura}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Amaura|American region|Online|10|March 31 to May 31, 2015|link=List of American region serial code event Pokémon distributions in Generation VI#PGL Amaura}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Amaura|PAL region|Online|10|March 31 to May 31, 2015|link=List of PAL region serial code event Pokémon distributions in Generation VI#PGL Amaura}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Amaura|Korean region|Online|10|March 31 to May 31, 2015|link=List of Korean region serial code event Pokémon distributions in Generation VI#PGL Amaura}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Amaura|Taiwanese region|Online|10|March 31 to May 31, 2015|link=List of Taiwanese region serial code event Pokémon distributions in Generation VI#PGL Amaura}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|type2=Ice
+|HP=     77
+|Attack= 59
+|Defense=50
+|SpAtk=  67
+|SpDef=  63
+|Speed=  46}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type2=Ice
+|type1=Rock
+|Normal=   50
+|Flying=   50
+|Fighting=400
+|Ground=  200
+|Rock=    200
+|Bug=      100
+|Poison=   50
+|Ghost=   100
+|Steel=   400
+|Fire=    100
+|Water=   200
+|Grass=   200
+|Electric=100
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=no
+}}
+
+===Learnset===
+All damage-dealing {{type|Normal}} moves will get STAB if Amaura has the Ability {{a|Refrigerate}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Amaura|Rock|Ice|6}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level7|5|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/level7|10|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level7|13|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level7|15|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|18|Mist|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|20|Aurora Beam|Ice|Special|65|100|20||'''}}
+{{learnlist/level7|26|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level7|30|Round|Normal|Special|60|100|15}}
+{{learnlist/level7|34|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/level7|38|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|41|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|44|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/level7|47|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|50|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/level7|57|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/level7|65|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/levelf/7|Amaura|Rock|Ice|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Amaura|Rock|Ice|6}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Amaura|Rock|Ice|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Amaura|Rock|Ice|6}}
+{{learnlist/breed7|{{MSP|258|Mudkip}}|Barrier|Psychic|Status|&mdash;|&mdash;|20|*}}
+{{learnlist/breed7|{{MSP|179|Mareep}}{{MSP|180|Flaaffy}}{{MSP|181|Ampharos}}|Discharge|Electric|Special|80|100|15}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}|Haze|Ice|Status|&mdash;|&mdash;|30|*}}
+{{learnlist/breed7|{{MSP|179|Mareep}}{{MSP|180|Flaaffy}}{{MSP|181|Ampharos}}{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}<br>{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}{{MSP|694|Helioptile}}{{MSP|695|Heliolisk}}{{MSP|698|Amaura}}{{MSP|699|Aurorus}}|Magnet Rise|Electric|Status|&mdash;|&mdash;|10|‡}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}|Mirror Coat|Psychic|Special|&mdash;|100|20|*}}
+{{learnlist/breedf/7|Amaura|Rock|Ice|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Amaura|Rock|Ice|6}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Amaura|Rock|Ice|6}}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Ice}}
+{{Template:Spindata/Battle Trozei|col=6|type=Rock|ndex=698
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Rock|ndex=698|num=120
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Risk-Taker
+|skilldesc=Increases damage randomly.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=rock
+|type2=ice
+|no1=698
+|name1=Amaura
+|type1-1=Rock
+|type2-1=Ice
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 39}}<br><small>at {{color2|000|Time|night}}</small>
+|no2=699
+|name2=Aurorus
+|type1-2=Rock
+|type2-2=Ice}}
+
+===Sprites===
+{{Spritebox/Header|type=rock|type2=ice}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=698}}
+{{Spritebox/7|ndex=698}}
+{{Spritebox/Footer|698|Amaura}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Amaura and {{p|Aurorus|its evolution}}.
+* Amaura and its {{p|Aurorus|evolution}} were designed by [[Hitoshi Ariga]].<ref>[http://hitoshiariga.deviantart.com/art/Pocket-Monsters-XY-413536751 Pocket Monsters XY by HitoshiAriga on deviantART]</ref>
+
+===Origin===
+Amaura is based on a young ''{{wp|Amargasaurus}}'', which were speculated to have skin sail extensions on their vertebral spines. It also shares traits with various species of {{wp|Diplodocoidea}}. The color-changing sails upon its head are also based on {{wp|Aurora (astronomy)|aurora}}s, most likely aurora borealis due to being Ice-type.
+
+====Name origin====
+Amaura may be a contraction of ''Amargasaurus'' combined with ''aurora''.
+
+Amarus may be a contraction of ''Amargasaurus''.
+
+==In other languages==
+{{Other languages|type=Rock|type2=Ice
+|ja=アマルス ''Amarus''|jameaning=Possibly a contraction of ''{{wp|Amargasaurus}}''
+|fr=Amagara|frmeaning=From ''Amargasaurus''
+|es=Amaura|esmeaning=Same as English name
+|de=Amarino|demeaning=From ''Amargasaurus'', ''{{tt|Aquamarin|aquamarine}}'', and ''{{tt|Dinosaurier|dinosaur}}''
+|it=Amaura|itmeaning=Same as English name
+|ko=아마루스 ''Amaruseu''|komeaning=Similar to Japanese name
+|zh_cmn=冰雪龍 ''Bīngxuělóng''|zh_cmnmeaning=From {{tt|冰雪 ''bīngxuě''|snow and ice}} and {{tt|恐龍 ''kǒnglóng''|dinosaur}}
+|zh_yue=冰雪龍 ''Bīngsyutlùhng''|zh_yuemeaning=From {{tt|冰雪 ''bīngsyut''|snow and ice}} and {{tt|恐龍 ''húnglùhng''|dinosaur}}
+|hi=अमौरा ''Amaura''|himeaning=Transcription of English name
+|ru=Амаура ''Amaura''|rumeaning=Transliteration of English name
+}}
+{{-}}
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Rock|type2=Ice}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=697|prev=Tyrantrum|nextnum=699|next=Aurorus}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Fossil Pokémon]]
+[[Category:Pokémon that evolve based on time]]
+[[Category:Pokémon that evolve only at night]]
+
+[[de:Amarino]]
+[[fr:Amagara]]
+[[it:Amaura]]
+[[ja:アマルス]]
+[[pl:Amaura]]
+[[zh:冰雪龙]]

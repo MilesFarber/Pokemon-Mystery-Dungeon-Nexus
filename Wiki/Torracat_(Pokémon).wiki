@@ -1,0 +1,286 @@
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=725|prev=Litten|nextnum=727|next=Incineroar|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Torracat}}
+|}
+{{Pokémon Infobox
+|name=Torracat
+|jname=ニャヒート
+|jtranslit=Nyahīto
+|tmname=Nyaheat
+|ndex=726
+|type1=Fire
+|category=Fire Cat
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=55.1
+|weight-kg=25.0
+|adex=005
+|abilityn=d
+|ability1=Blaze
+|abilityd=Intimidate
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=2
+|evsp=2
+|expyield=147
+|lv100exp=1,059,860
+|gendercode=31
+|color=Red
+|catchrate=45
+|body=08
+|pokefordex=torracat
+|generation=7
+|friendship=70
+}}
+'''Torracat''' ([[List of Japanese Pokémon names|Japanese]]: '''ニャヒート''' ''Nyaheat'') is a {{type|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] from {{p|Litten}} starting at [[level]] 17 and evolves into {{p|Incineroar}} starting at level 34.
+
+==Biology==
+Torracat is a quadruped, feline Pokémon with black and reddish-orange markings. Its upper half is mostly black, while its lower half is mostly red-orange. The black area has several red-orange stripes: one running up the center of its head forming a short {{wp|cowlick}} with one horizontal stripe through the center and a slightly V-shaped stripe at the bottom of its eyes, one running down its spine with two more stripes going across it, and two rings around its tail. The lower half of its body simply has two black rings around each leg. Its forelegs are more developed than its hind legs. Each paw has three toes, but the front ones are larger with short, black claws. Its tail has several tufts of fur on the tip.
+
+Torracat has large, yellow eyes with black sclerae and pupils that have a red tint along the bottom. There are two long tufts of fur on each of its cheeks with a shorter tuft just underneath on either side of its chin. Its mane stands on end when it is in a good mood, and lies flat when it is not feeling well. It has a tiny, triangular gray nose and long, pointed ears with gray insides. Hanging from its neck is a round, bell-like organ, which is yellow with an orange center. When Torracat attacks, this organ sometimes flares with wing-like projections to the sides.
+
+The bell-like organ is actually a flame sac. Based on this Pokémon’s emotions, the temperature of the bell will rise and eventually it will spit flames. The release of fire creates the sound of a bell. The mane around this Pokémon’s face acts as a sensory organ, allowing it to navigate in darkness and sense hidden foes. Despite sometimes acting spoiled with those that it trusts, Torracat has a fierce battle spirit. It loves to fight, and its relentless onslaught causes others to lose the will to fight. Its punches are capable of bending iron bars with a single strike.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/torracat/</ref>
+==In the anime==
+[[File:Ash Torracat.png|thumb|left|250px|Torracat in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Torracat]]====
+Torracat made its anime debut in [[SM063]], when {{Ash}}'s {{p|Litten}} evolved during a battle against the [[Professor Kukui|Masked Royal]]'s {{p|Incineroar}}.
+<!--===Minor appearances===-->
+
+{{clear}}
+==In the manga==
+[[File:Sun En Torracat.png|thumb|left|170px|Torracat in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|En}}
+{{adv|Sun}}'s {{p|Litten}}, En, evolved into a Torracat in [[PASM13]].
+{{-}}
+
+==In the TCG==
+{{main|Torracat (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fire}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=At its throat, it bears a bell of fire. The bell rings brightly whenever this Pokémon spits fire.}}
+{{Dex/Entry1|v=Moon|entry=It boasts powerful front legs. With a single punch, it can bend an iron bar right over.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It can act spoiled if it grows close to its Trainer. A powerful Pokémon, its sharp claws can leave its Trainer's whole body covered in scratches.}}
+{{Dex/Entry1|v=Ultra Moon|entry=When its mane is standing on end, you can tell it's feeling good. When it isn't feeling well, its fur will lie down flat.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fire}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Litten}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Litten}}}} 
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fire}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|The Daily Pokémon (#7)}}''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Fire
+|HP=65
+|Attack=85
+|Defense=50
+|SpAtk=80
+|SpDef=50
+|Speed=90}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fire
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=200
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=50}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Torracat|Fire|Fire|7|SM|USUM}}
+{{learnlist/levelVII|1|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/levelVII|1|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/levelVII|1|1|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/levelVII|1|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/levelVII|4|4|Growl|Normal|Status|—|100|40}}
+{{learnlist/levelVII|8|8|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/levelVII|11|11|Leer|Normal|Status|—|100|30}}
+{{learnlist/levelVII|15|14|Fire Fang|Fire|Physical|65|95|15||'''}}
+{{learnlist/levelVII|N/A|16|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/levelVII|19|19|Roar|Normal|Status|—|—|20}}
+{{learnlist/levelVII|24|24|Bite|Dark|Physical|60|100|25||''}}
+{{learnlist/levelVII|28|28|Swagger|Normal|Status|—|85|15}}
+{{learnlist/levelVII|33|33|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/levelVII|37|37|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/levelVII|42|42|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/levelVII|46|46|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/levelVII|51|51|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/levelVII|55|55|Outrage|Dragon|Physical|120|100|10}}
+{{learnlist/levelf/7|Torracat|Fire|Fire|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Torracat|Fire|Fire|7}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM28|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Torracat|Fire|Fire|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Torracat|Fire|Fire|7}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|324|Torkoal}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|432|Purugly}}<br>{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|024|Arbok}}{{MSP|058|Growlithe}}<br>{{MSP|203|Girafarig}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|261|Poochyena}}<br>{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|303|Mawile}}{{MSP|336|Seviper}}{{MSP|365|Walrein}}{{MSP|399|Bidoof}}<br>{{MSP|400|Bibarel}}{{MSP|403|Shinx}}{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|419|Floatzel}}{{MSP|449|Hippopotas}}<br>{{MSP|450|Hippowdon}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}<br>{{MSP|511|Pansage}}{{MSP|513|Pansear}}{{MSP|515|Panpour}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}<br>{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}<br>{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|744|Rockruff}}{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Crunch|Dark|Physical|80|100|15||''}}
+{{learnlist/breed7|{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|274|Nuzleaf}}{{MSP|300|Skitty}}<br>{{MSP|301|Delcatty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|324|Torkoal}}|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/breed7|{{MSP|038|Ninetales}}{{MSP|038A|Ninetales}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|190|Aipom}}{{MSP|203|Girafarig}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|275|Shiftry}}{{MSP|390|Chimchar}}<br>{{MSP|424|Ambipom}}{{MSP|461|Weavile}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}<br>{{MSP|570|Zorua}}{{MSP|571|Zoroark}}{{MSP|765|Oranguru}}|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/breed7|{{MSP|553|Krookodile}}|Power Trip|Dark|Physical|20|100|10|{{sup/7|USUM}}|''}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|461|Weavile}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|626|Bouffalant}}|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/breedf/7|Torracat|Fire|Fire|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Torracat|Fire|Fire|7}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Fire Pledge|Fire|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutorf/7|Torracat|Fire|Fire|7}}
+
+====By a prior [[evolution]]====
+{{Learnlist/prevoh/7|Torracat|Fire|Fire|7}}
+{{Learnlist/prevo7null}}
+{{Learnlist/prevof/7|Torracat|Fire|Fire|7}}
+
+===Side game data===
+{{Spindata/Head|type=Fire}}
+{{Spindata/Shuffle|col=6|type=Fire|ndex=726|num=711
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Last-Ditch Effort
+|skilldesc=Increases damage when things are looking desperate.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Fire
+|pictype=art
+|no1=725
+|name1=Litten
+|type1-1=Fire
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 17}}
+|no2=726
+|name2=Torracat
+|type1-2=Fire
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 34}}
+|no3=727
+|name3=Incineroar
+|type1-3=Fire
+|type2-3=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Fire}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=726}}
+{{Spritebox/Footer|726|Torracat}}
+
+==Trivia==
+===Origin===
+Torracat may be based on both a {{wp|tabby cat}} and a tiger cub.
+
+====Name origin====
+Torracat may be a combination of ''torrid'' (very hot and dry) and ''cat''. It may also involve 虎 ''tora'', Japanese for tiger.
+
+Nyaheat may be a combination of ニャー ''nyā'' (meow), 火 ''hi'' (fire), and ''heat''.
+
+==In other languages==
+{{Other languages|type=Fire|type2=Fire
+|ja=ニャヒート ''Nyaheat''|jameaning=From {{tt|ニャー ''nyā''|meow}}, {{tt|火 ''hi''|fire}}, and ''heat''
+|fr=Matoufeu|frmeaning=From {{tt|''m'as-tu-vu''|showoff}}, {{tt|''matou''|tomcat}}, and {{tt|''feu''|fire}}
+|es=Torracat|esmeaning=Same as English name
+|de=Miezunder|demeaning=From {{tt|''Mieze''|pussy-cat}} and {{tt|''Zunder''|tinder}}
+|it=Torracat|itmeaning=Same as English name
+|ko=냐오히트 ''Nyaohiteu''|komeaning=From {{tt|야옹 ''yaong''|meow}} and ''heat''
+|zh_cmn=炎熱喵 / 炎热喵 ''Yánrèmiāo''|zh_cmnmeaning=From {{tt|炎熱 / 炎热 ''yánrè''|blazing hot}} and {{tt|喵 ''miāo''|meow}}
+|zh_yue=炎熱喵 ''Yìhmyihtmēu''|zh_yuemeaning=From {{tt|炎熱 / 炎热 ''yìhmyiht''|blazing hot}} and {{tt|喵 ''mēu''|meow}}
+|ru=Торракат ''Torrakat''|rumeaning=Transcription of English name}}
+{{-}}
+
+==Related articles==
+* [[Ash's Torracat]]
+* [[En]]
+
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=725|prev=Litten|nextnum=727|next=Incineroar}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Miezunder]]
+[[fr:Matoufeu]]
+[[it:Torracat]]
+[[ja:ニャヒート]]
+[[zh:炎热喵]]

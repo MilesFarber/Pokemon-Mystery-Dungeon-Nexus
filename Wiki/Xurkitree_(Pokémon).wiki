@@ -1,0 +1,281 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=795|prev=Pheromosa|nextnum=797|next=Celesteela}}
+|}
+{{Pokémon Infobox
+|name=Xurkitree
+|jname=デンジュモク
+|tmname=Denjyumoku
+|jtranslit=Denjumoku
+|ndex=796
+|type1=Electric
+|category=Glowing
+|height-ftin=12'06"
+|height-m=3.8
+|weight-lbs=220.5
+|weight-kg=100.0
+|adex=296
+|abilityn=1
+|abilitylayout=1
+|ability1=Beast Boost
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=120
+|evtotal=3
+|evsa=3
+|expyield=114
+|lv100exp=1,250,000
+|gendercode=255
+|color=Black
+|catchrate=45
+|body=06
+|pokefordex=xurkitree
+|generation=7
+|friendship=0
+}}
+'''Xurkitree''' ([[List of Japanese Pokémon names|Japanese]]: '''デンジュモク''' ''Denjyumoku'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+It is one of the [[Ultra Beast]]s and is known by the code name '''UB-03 Lighting''' (Japanese: '''{{tt|ＵＢ０３　Ｌｉｇｈｔｎｉｎｇ|ユービーゼロサン　ライトニング}}''').
+
+==Biology==
+Xurkitree is a very tall Pokémon that resembles a vaguely humanoid mass of electrical wiring. Its head is a white, brightly glowing "star" with numerous points and no visible face. Below its head is a mass of black cables that separates into five limbs, each one a bundle of three cables bound together by three white leaves that resemble zip-ties or Christmas lights. Its two arms have their cables separated between the two outermost ties, and end in copper structures that resemble hands, each with six flat "fingers". Its two legs each have no loose cables and end in feet with three toes possessing "claws" of exposed copper; its feet has two toes fused together pointing forward while there are two toes pointing backward. Finally, its tail has one loose cable in two sections and ends in what resembles a three-pronged plug; with this, it "plugs" its tail into the ground when it uses electric attacks. The cables that make up its body have been noted as being made of the same material as electrical wiring, and as such are highly efficient conductors of electricity. Its body contains an organ that produces energy, and it can discharge up to 1,000,000 volts at once.
+
+Because this Ultra Beast reportedly raided a power plant, it is speculated to sustain itself with electricity. This is supported by observations that it will "plug" its limbs and tail into the ground when it is low on energy, entering a tree-like state to absorb electricity from the earth. Witnesses claim that its entire body crackles with astonishing electrical power. Xurkitree originates from the [[Ultra Plant]] dimension in [[Ultra Space]].
+<!--==In the anime==
+===Major appearances===
+===Minor appearances===-->
+
+==In the manga==
+[[File:Xurkitree Adventures.png|thumb|200px|Xurkitree in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Xurkitree first appeared in [[PASM09]]. One was seen emerging from an [[Ultra Wormhole]] above [[Lush Jungle]], where it battled against {{p|Tapu Lele}}.
+
+==In the TCG==
+{{main|Xurkitree (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=One of the mysterious life-forms known as Ultra Beasts. Astonishing electric shocks emanate from its entire body, according to witnesses.}}
+{{Dex/Entry1|v=Moon|entry=It appeared from the Ultra Wormhole. It raided a power plant, so people think it energizes itself with electricity.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.}}
+{{Dex/Entry1|v=Ultra Moon|entry=They've been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Lush Jungle]], [[Memorial Hill]] (only two for either location)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Plant]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|UB Challenge|Ultra Beasts appear}}''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Electric
+|HP=83
+|Attack=89
+|Defense=71
+|SpAtk=173
+|SpDef=71
+|Speed=83}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Xurkitree|Electric|Electric|7}}
+{{learnlist/level7|1|Tail Glow|Bug|Status|—|—|20}}
+{{learnlist/level7|1|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level7|1|Charge|Electric|Status|—|—|20}}
+{{learnlist/level7|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level7|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level7|7|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level7|13|Shock Wave|Electric|Special|60|—|20||'''}}
+{{learnlist/level7|19|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/level7|23|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/level7|29|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/level7|31|Signal Beam|Bug|Special|75|100|15}}
+{{learnlist/level7|37|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/level7|43|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/level7|47|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level7|53|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/level7|59|Power Whip|Grass|Physical|120|85|10}}
+{{learnlist/level7|67|Ion Deluge|Electric|Status|—|—|25}}
+{{learnlist/level7|73|Zap Cannon|Electric|Special|120|50|5||'''}}
+{{learnlist/levelf/7|Xurkitree|Electric|Electric|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Xurkitree|Electric|Electric|7}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Xurkitree|Electric|Electric|7}}
+
+====By {{pkmn|breeding}}====
+{{Learnlist/breedh/7|Xurkitree|Electric|Electric|7}}
+{{Learnlist/breed7null}}
+{{Learnlist/breedf/7|Xurkitree|Electric|Electric|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Xurkitree|Electric|Electric|7}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutorf/7|Xurkitree|Electric|Electric|7}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/Shuffle|col=6|type=Electric|ndex=796|num=771
+|min=70
+|max=116
+|raisemaxlevel=7
+|skill=Conduction
+|skilldesc=Increases damage done by any Electric types in the combo.
+|swapper=Beast Power
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Electric
+|pictype=art
+|no1=796
+|name1=Xurkitree
+|type1-1=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=796}}
+{{Spritebox/Footer|796|Xurkitree}}
+
+==Trivia==
+* Xurkitree has the highest base {{stat|Special Attack}} stat of all {{type|Electric}} Pokémon.
+* Xurkitree is the [[List of Pokémon by height|tallest]] {{type|Electric}} Pokémon.
+* In [[Pokémon Sun and Moon]], Xurkitree has a catch rate of 30.
+
+===Origin===
+Xurkitree appears to be based on sparking electrical wires and power lines. It also shares some small aspects of a tree. Its 'head' resembles a {{wp|Moravian star}}.
+====Name origin====
+Xurkitree may be a combination of a corruption of ''circuitry'' and ''tree''.
+
+Denjyumoku may be a combination of 電気 ''denki'' (electricity) or 電磁 ''denji'' (electromagnetism) and 樹木 ''jumoku'' (tree).
+
+==In other languages==
+{{Other languages|type=Electric|type2=Electric
+|ja=デンジュモク ''Denjyumoku''|jameaning=From {{tt|電気 ''denki''|electricity}} or {{tt|電磁 ''denji''|electromagnetism}} and {{tt|樹木 ''jumoku''|tree}}
+|fr=Câblifère|frmeaning=From {{tt|''câble''|cable}} and {{tt|''conifère''|conifer}}
+|es=Xurkitree|esmeaning=Same as English name
+|de=Voltriant|demeaning=From ''Volt'', ''tree'', and ''plant''
+|it=Xurkitree|itmeaning=Same as English name
+|ko=전수목 ''Jeonsumok''|komeaning=From {{tt|전 (電) ''jeon''|electricity}} and {{tt|수목 (樹木) ''sumok''|tree}}
+|zh_cmn=電束木 / 电束木 ''Diànshùmù''|zh_cmnmeaning=From {{tt|電 / 电 ''diàn''|electricity}}, {{tt|束 ''shù''|classifier for bundles or beams}} and {{tt|樹木 / 树木 ''shùmù''|tree}}
+|zh_yue=電束木 ''Dihnchūkmuhk''|zh_yuemeaning=From {{tt|電 ''dihn''|electricity}}, {{tt|束 ''chūk''|classifier for bundles or beams}} and {{tt|樹木 ''syuhmù''|tree}}
+}}
+{{-}}
+
+''UB-03 Lighting''
+{{Langtable|color={{electric color}}|bordercolor={{electric color dark}}
+|zh_yue=ＵＢ０３：雷電 ''{{tt|UB03: Lèuihdihn|UB03: Lightning}}''
+|zh_cmn=ＵＢ０３：雷電 / ＵＢ０３：雷电 ''{{tt|UB03: Léidiàn|UB03: Lightning}}''
+|fr=UC-03 Éclair
+|de=UB-03 Lichtblitz
+|hu=UB-03 Villámlás
+|it=UC 03 Lumen
+|ko=UB03 라이트닝 ''UB03 Lightning''
+|ru=УЧ-03 Освещение ''UCH-03 Osveshcheniye''{{tt|*|Official site}}<br>UB-03 Молния ''UB-03 Molniya''{{tt|*|Press release}}
+|es=UE-03 Resplandor
+}}
+{{-}}
+
+==Related articles==
+* [[Ultra Beast]]
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=795|prev=Pheromosa|nextnum=797|next=Celesteela}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Voltriant]]
+[[fr:Câblifère]]
+[[it:Xurkitree]]
+[[ja:デンジュモク]]
+[[zh:电束木]]

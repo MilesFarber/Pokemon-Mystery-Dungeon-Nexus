@@ -1,0 +1,302 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=732|prev=Trumbeak|nextnum=734|next=Yungoos}}
+{{PokémonPrevNext/Disambig|species=Toucannon}}
+|}
+{{Pokémon Infobox
+|name=Toucannon
+|jname=ドデカバシ
+|tmname=Dodekabashi
+|ndex=733
+|type1=Normal
+|type2=Flying
+|category=Cannon
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=57.3
+|weight-kg=26.0
+|adex=012
+|abilityn=1
+|abilitylayout=2
+|ability1=Keen Eye
+|ability2=Skill Link
+|abilityd=Sheer Force
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=15
+|evtotal=3
+|evat=3
+|expyield=218
+|lv100exp=1,000,000
+|gendercode=127
+|color=Black
+|catchrate=45
+|body=09
+|pokefordex=toucannon
+|generation=7
+|friendship=70
+}}
+'''Toucannon''' ([[List of Japanese Pokémon names|Japanese]]: '''ドデカバシ''' ''Dodekabashi'') is a dual-type {{2t|Normal|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] from {{p|Trumbeak}} starting at [[level]] 28. It is the final form of {{p|Pikipek}}.
+
+==Biology==
+Toucannon is an avian Pokémon with black feathers and a prominent beak similar to a {{wp|toucan}}'s. The upper part of the beak has a black tip with three red bands gradually lightening in color toward the yellow base. The mandible is smaller and solid red. Around the base of the beak is a thin black band with two extensions into the upper jaw similar to nostrils. The red bands on Toucannon's beak can change color and move from the tip to the base. There is a white marking covering its chin and chest, and a half-circle, yellow marking on each cheek.  Toucannon has dark blue eyes, light blue eyelids, and jagged, gray eyebrows. It has a long tail with a spiky ruff of red feathers around the base, and spindly blue legs. Each foot has two forward facing toes with black talons and two rear-facing toes with no visible claws. Its tail seems to be bent specifically for the purpose of holding it momentarily, as it can stand on it for short periods, possibly as a brace when firing seeds.
+
+It smacks beaks with other Toucannon to communicate with them. There are gases inside its beak, which can ignite and launch seeds with enough force to shatter boulders. Additionally, its temperature can exceed 212 degrees Fahrenheit and cause severe burns on contact. It can use this beak to warm up eggs, as shown in the anime. It is brought to wedding ceremonies as a good luck charm.
+
+==In the anime==
+[[File:Toucannon anime.png|thumb|left|250px|Toucannon in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Recurring wild Pokémon in the anime#Toucannon|Toucannon (anime)]]====
+A {{pkmn2|wild}} Toucannon debuted in ''[[SM004|First Catch in Alola, Ketchum-Style!]]''. It was shown to have heated {{AP|Rowlet}}'s Egg alongside a clutch of {{p|Pikipek}} Eggs. At the end of the episode, it gave {{p|Rowlet}} permission to join {{Ash}}'s team. It reappeared in ''[[SM018|A Seasoned Search!]]'', where it briefly reunited with Rowlet when Ash and {{an|Mallow}} visited its nest to see if its flock knew where to find {{DL|Nectar|Yellow Nectar}}.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM004|Toucannon|Rotom Pokédex|Toucannon, the Cannon Pokémon, and the evolved form of Trumbeak. Its beak heats up to over two hundred degrees, and its peck can inflict a serious {{status|burn}}.}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+
+==In the manga==
+===In the Pokémon Adventures manga===
+[[File:Kahili Toucannon Adventures.png|thumb|150px|right|Toucannon in [[Pokémon Adventures]]]]
+Toucannon debuted in the [[PASM12]] under the ownership of [[Kahili]].
+
+==In the TCG==
+{{main|Toucannon (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Flying}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=When it battles, its beak heats up. The temperature can easily exceed {{tt|212 degrees Fahrenheit|100 degrees Celsius}}, causing severe burns when it hits.}}
+{{Dex/Entry1|v=Moon|entry=Within its beak, its internal gas ignites, explosively launching seeds with enough power to pulverize boulders.}}
+{{Dex/Entry1|v=Ultra Sun|entry=They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Known for forming harmonious couples, this Pokémon is brought to wedding ceremonies as a good luck charm.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Trumbeak}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Poni Grove]], [[Poni Plains]] ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Great Challenge|Toucannon Appears]]''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=normal|type2=flying
+|usum1=Rawst Berry|usum1type=Berry|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|type2=Flying
+|HP=80
+|Attack=120
+|Defense=75
+|SpAtk=75
+|SpDef=75
+|Speed=60}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Flying
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Toucannon|Normal|Flying|7}}
+{{learnlist/level7|1|Beak Blast|Flying|Physical|100|100|15||'''}}
+{{learnlist/level7|1|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/level7|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level7|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level7|1|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/level7|1|Rock Smash|Fighting|Physical|40|100|15}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Beak Blast|Flying|Physical|100|100|15||'''}}
+{{learnlist/level7|3|Growl|Normal|Status|—|100|40}}
+{{learnlist/level7|7|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/level7|9|Rock Smash|Fighting|Physical|40|100|15}}
+{{learnlist/level7|13|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level7|16|Pluck|Flying|Physical|60|100|20||'''}}
+{{learnlist/level7|21|Roost|Flying|Status|—|—|10}}
+{{learnlist/level7|24|Fury Attack|Normal|Physical|15|85|20||'''}}
+{{learnlist/level7|28|Beak Blast|Flying|Physical|100|100|15||'''}}
+{{learnlist/level7|30|Screech|Normal|Status|—|85|40}}
+{{learnlist/level7|34|Drill Peck|Flying|Physical|80|100|20||'''}}
+{{learnlist/level7|40|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/level7|44|Feather Dance|Flying|Status|—|100|15}}
+{{learnlist/level7|50|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/levelf/7|Toucannon|Normal|Flying|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Toucannon|Normal|Flying|7}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Toucannon|Normal|Flying|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Toucannon|Normal|Flying|7}}
+{{learnlist/breed7|{{MSP|715|Noivern}}|Boomburst|Normal|Special|140|100|10||'''}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}{{MSP|276|Taillow}}{{MSP|277|Swellow}}{{MSP|396|Starly}}{{MSP|397|Staravia}}{{MSP|398|Staraptor}}<br>{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|627|Rufflet}}{{MSP|628|Braviary}}{{MSP|663|Talonflame}}{{MSP|722|Rowlet}}<br>{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|333|Swablu}}<br>{{MSP|441|Chatot}}{{MSP|561|Sigilyph}}{{MSP|741|Oricorio}}|Mirror Move|Flying|Status|—|—|20}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|178|Xatu}}{{MSP|198|Murkrow}}{{MSP|279|Pelipper}}<br>{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|561|Sigilyph}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}<br>{{MSP|627|Rufflet}}{{MSP|628|Braviary}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}{{MSP|714|Noibat}}<br>{{MSP|715|Noivern}}<br>|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/breed7|{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|441|Chatot}}|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/breedf/7|Toucannon|Normal|Flying|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Toucannon|Normal|Flying|7}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutorf/7|Toucannon|Normal|Flying|7}}
+
+====By a prior [[evolution]]====
+{{Learnlist/prevoh/7|Toucannon|Normal|Flying|7}}
+{{Learnlist/prevo7null}}
+{{Learnlist/prevof/7|Toucannon|Normal|Flying|7}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Flying}}
+{{Spindata/Shuffle|col=6|type=Normal|ndex=733|stype=Flying|num=766
+|min=60
+|max=80
+|raisemaxlevel=0
+|skill=Block Smash++
+|skilldesc=Sometimes clears five unbreakable-block disruptions.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Normal
+|type2=Flying
+|pictype=art
+|no1=731
+|name1=Pikipek
+|type1-1=Normal
+|type2-1=Flying
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 14}}
+|no2=732
+|name2=Trumbeak
+|type1-2=Normal
+|type2-2=Flying
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 28}}
+|no3=733
+|name3=Toucannon
+|type1-3=Normal
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Flying}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=733}}
+{{Spritebox/Footer|733|Toucannon}}
+
+==Trivia==
+===Origin===
+Toucannon appears to be based on a {{wp|toucan}}. In particular, it resembles the {{wp|toco toucan}}. Its ability to heat up its elongated bill and fire seeds is similar to the concept of a cannon and cannonballs, which require a tremendous amount of heat in order to launch projectiles at blazing speeds.
+
+====Name origin====
+Toucannon may be a combination of ''toucan'' and ''cannon''.
+
+Dodekabashi may be a combination of どでかい ''dodekai'' (huge) and 大嘴 ''ōhashi'' (toucan).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Flying
+|ja=ドデカバシ ''Dodekabashi''|jameaning=From {{tt|どでかい ''dodekai''|huge}} and {{tt|大嘴 ''ōhashi''|toucan}}
+|fr=Bazoucan|frmeaning=From ''bazooka'' and ''toucan''
+|es=Toucannon|esmeaning=Same as English name
+|de=Tukanon|demeaning=From ''{{tt|Tukan|toucan}}'' and ''{{tt|Kanone|cannon}}''
+|it=Toucannon|itmeaning=Same as English name
+|ko=왕큰부리 ''Wangkeunburi''|komeaning=From {{tt|왕 (王) ''wang''|king}} and {{tt|큰부리새 ''keunburisae''|toucan}}
+|zh_cmn=銃嘴大鳥 / 铳嘴大鸟 ''Chòngzuǐdàniǎo''|zh_cmnmeaning=From {{tt|銃 / 铳 ''chòng''|firearm}}, {{tt|大 ''dà''|big}}, and {{tt|巨嘴鳥 / 巨嘴鸟 ''jùzuǐniǎo''|toucan}}
+|zh_yue=銃嘴大鳥 ''Chungjéuidaaihníuh''|zh_yuemeaning=From {{tt|銃 ''chung''|firearm}}, {{tt|大 ''daai''|big}}, and {{tt|巨嘴鳥 ''geuihjéuiníuh''|toucan}}
+|ru=Туканнон ''Tukannon''|rumeaning=Transcript of the English name}}
+{{-}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=732|prev=Trumbeak|nextnum=734|next=Yungoos}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Tukanon]]
+[[fr:Bazoucan]]
+[[it:Toucannon]]
+[[ja:ドデカバシ]]
+[[zh:铳嘴大鸟]]

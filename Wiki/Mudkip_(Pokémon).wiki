@@ -1,0 +1,586 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Mudkip}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=257|prev=Blaziken|nextnum=259|next=Marshtomp|round=none}}
+{{PokémonPrevNext/Disambig|species=Mudkip}}
+|}
+{{Pokémon Infobox
+|name=Mudkip
+|jname=ミズゴロウ
+|tmname=Mizugorou
+|category=Mud Fish
+|ndex=258
+|hdex=007
+|fbrow=011
+|obrow=095
+|opbrow=135
+|typebox=1
+|type1=Water
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=16.8
+|weight-kg=7.6
+|abilityn=d
+|ability1=Torrent
+|abilityd=Damp
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Water 1
+|eggcycles=20
+|evtotal=1
+|evat=1
+|expyield=62
+|oldexp=65
+|lv100exp=1,059,860
+|gendercode=31
+|color=Blue
+|catchrate=45
+|body=08
+|pokefordex=mudkip
+|generation=3
+|friendship=70
+}}
+'''Mudkip''' ([[List of Japanese Pokémon names|Japanese]]: '''ミズゴロウ''' ''Mizugorou'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] into {{p|Marshtomp}} starting at [[level]] 16, which evolves into {{p|Swampert}} starting at [[level]] 36.
+
+Along with {{p|Treecko}} and {{p|Torchic}}, Mudkip is one of three [[starter Pokémon]] of [[Hoenn]] available at the beginning of [[Pokémon Ruby and Sapphire Versions|Pokémon Ruby, Sapphire]], {{v2|Emerald}}, [[Pokémon Omega Ruby and Alpha Sapphire|Omega Ruby, and Alpha Sapphire]].
+
+==Biology==
+Mudkip is a small, amphibious, quadruped Pokémon. It has a blue body with a light-blue underside. It has a large head with a blue fin on top and a light-blue tail fin. It has black, beady eyes and orange, star-shaped gills on its cheeks. By using the fin on its head, Mudkip is able to detect changes in air and water currents as well as bodies of water. Its fin can also point in a certain direction, as seen in [[AG114|the anime]]. Mudkip is capable of moving or crushing boulders larger than itself. Its large tail fin propels it through water with powerful acceleration.
+
+According to its Pokémon Ranger browser entry, Mudkip is a very docile Pokémon. Mudkip lives in {{DL|List of Pokémon by habitat|Water's-edge Pokémon|swamps and other wetlands}}, where it sleeps by burying itself in soil at the water’s edge.
+
+==In the anime==
+===In the main series===
+[[File:Brock Mudkip.png|thumb|200px|Mudkip in the {{pkmn|anime}}]]
+[[File:Mudkip hatching.png|thumb|250px|Mudkip {{pkmn|Egg}}s in the anime]]
+
+====Major appearances====
+=====[[Brock's Mudkip]]=====
+{{an|Brock}} has a {{TP|Brock|Marshtomp}} that he caught as a Mudkip in ''[[AG025|A Mudkip Mission]]''. Mudkip {{pkmn|Egg}}s were seen in the episode when [[Old Man Swamp]] offered to let Brock see one hatch, and Brock accepted his offer with enthusiasm. Brock's Mudkip later evolved into a Marshtomp during ''[[AG148|A Chip Off the Old Brock]]''.
+
+=====Other=====
+Mudkip debuted in ''[[AG001|Get the Show on the Road]]'', when {{an|May}} was asked to use a Pokémon to attack some {{p|Poochyena}}, only for Mudkip to use {{m|Water Gun}} on May. Later, when May was asked to pick her [[starter Pokémon]], she didn't pick Mudkip after it refused to do what May had asked.
+
+[[Nicholai]] has a Mudkip that appeared in ''[[AG005|In the Knicker of Time!]]''. In ''[[AG048|ZigZag Zangoose]]'', it was revealed to have evolved to a {{p|Marshtomp}}.
+
+During ''[[AG034|Having a Wailord of a Time]]'', [[Nurse Joy]] asks {{Ash}} and Max to look over a {{p|Treecko}}, {{p|Torchic}}, and Mudkip while she wasn't there. The Mudkip of this group was very young and cried easily. Mudkip was picked by {{OBP|Stephanie|AG034}} to be her starter Pokémon.
+
+A Mudkip belonging to [[Professor Birch]] appeared in ''[[AG071|A Six Pack Attack!]]'' along with the other starters. They were being admired by [[Max]] and May when {{TRT}} captured them along with the other [[Hoenn]] and [[Kanto]] starters. Max found them and told Mudkip and {{p|Squirtle}} to cool the bars with Water Gun, which eventually freed them. It then helped send Team Rocket blasting off.
+
+====Minor appearances====
+A Mudkip was used by one of the students of the [[Pokémon Trainers' School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+A {{pkmn|Coordinator}}'s Mudkip appeared in ''[[AG033|Now That's Flower Power!]]''.
+
+A {{pkmn|Trainer}}'s Mudkip appeared in ''[[AG159|Off the Unbeaten Path]]'', where it was seen participating in the [[Pokémon Orienteering]].
+
+A Mudkip appeared in ''[[PK24|Meloetta's Moonlight Serenade]]''.
+
+A Trainer's Mudkip appeared in ''[[SS032|Mega Evolution Special III]]''.
+
+A Mudkip appeared in [[Sawyer]]'s flashback in ''[[XY075|Rivals: Today and Tomorrow!]]'', when he was selecting his starter Pokémon from Professor Birch.
+
+A Mudkip appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''.
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG005|Mudkip|Ash's Pokédex|Mudkip, the Mud Fish Pokémon. Mudkip uses the sensitive fin on its head to take radar readings of its surroundings.}}
+{{Animedexbody|AG025|Mudkip|Ash's Pokédex|Mudkip, the Mud Fish Pokémon. Mudkip uses the sensitive radar receptors on its headfin to determine what's going on around it. In a pinch, it can brandish enough power to crush rocks.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+===In the Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+[[File:May Mudkip ORAS Trailer.png|thumb|250px|Mudkip in the animated trailer]]
+A Mudkip appeared in the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]], under the ownership of {{ga|May}}. It eventually evolved into {{p|Marshtomp}} while battling [[Roxanne's Nosepass]], and then evolved into {{p|Swampert}}, which was capable of [[Mega Evolution|Mega Evolving]].
+{{-}}
+
+==In the manga==
+[[File:Mudkip GRT.png|thumb|200px|Mudkip in [[Pokémon Mystery Dungeon: Ginji's Rescue Team]]]]
+[[File:Mumu Mudkip.png|thumb|200px|Mudkip in [[Pokémon Adventures]]]]
+===In the Ash & Pikachu manga===
+{{main|Brock's Mudkip}}
+Multiple Mudkip appeared in ''[[SP20|Brock, A Man Of Resolve!!]]''. Brock caught a Mudkip in the same chapter.
+
+===In the Pokémon Adventures manga===
+{{main|Mumu}}
+In ''[[PS183|Trying to Trounce Torchic]]'', when {{adv|Ruby}} was attacked by {{adv|Sapphire}}'s {{p|Torchic}}, [[Professor Birch]] told him to look in his briefcase, to pick up the Poké Ball with a blue Pokémon and to throw it. The Poké Ball released a Mudkip and he nicknamed him Mumu. At the beginning, Ruby was disappointed with him because he wasn't as attractive as his other Pokémon and he couldn't participate in any [[Pokémon Contest]]. He tried with different conditions and then decided that [[Tough (condition)|Tough]] Contests would be perfect for him. Mumu eventually evolved into a {{p|Marshtomp}} and then into a {{p|Swampert}}.
+
+===In the Pokémon Chamo-Chamo ☆ Pretty ♪ manga===
+Mudkip appeared in [[CCP02]].
+
+===In the Pokémon Mystery Dungeon: Ginji's Rescue Team manga===
+In the [[Pokémon Mystery Dungeon: Ginji's Rescue Team]] manga, [[Ginji]]'s partner and first friend is a cautious {{OBP|Mudkip|Ginji's Rescue Team}}. It is sometimes referred to by other teams as a "crybaby".
+
+===In the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga===
+{{OBP|Omega|CPIW}} started off with a Mudkip.
+
+===In the Pokémon Pocket Monsters manga===
+A Mudkip debuted in [[PM117]].
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS184]]|The fin on its head is like a sensitive radar. The fin is able to detect movements in the air and water. This Pokémon can determine the surroundings around it without using its eyes.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS184]]|The fin on Mudkip's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.{{tt|*|VIZ Media}}}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Mudkip (TCG)}}
+
+==In the TFG==
+One Mudkip figure has been released.
+
+* {{TFG|Next Quest}}: {{TFG ID|Next Quest|Mudkip|17}}
+
+==Other appearances==
+===[[Super Smash Bros. Brawl]]===
+Mudkip appears as a random trophy.
+
+''"A Mud Fish Pokémon. It has fins on its head and tail. The fin on its head acts like a radar dish to read its surroundings, and its tail fin increases its swimming speed. The gills on its cheeks allow it to move about in water. It's very strong for its size--it can even lift big boulders. It burrows into muddy watersides to sleep. Mudkip evolves into Marshtomp."''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=The fin on Mudkip's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power - it can crush rocks bigger than itself.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=On land, it can powerfully lift large boulders by planting its four feet and heaving. It sleeps by burying itself in soil at the water's edge.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Its power can crush boulders. It rests by covering itself with mud at the bottom of a river.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=To alert it, the fin on its head senses the flow of water. It has the strength to lift boulders.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.}}
+{{Dex/Entry1|v=Y|entry=To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=The fin on Mudkip’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power—it can crush rocks bigger than itself.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Starter Pokémon]] from [[Professor Birch]] on {{rt|101|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[Starter Pokémon]] from [[Professor Birch]] on {{rt|101|Hoenn}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=Gift from [[Steven Stone]] inside [[Silph Co.]] after defeating {{ga|Red}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]], {{pkmn|Global Link}} {{pkmn2|event}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Starter Pokémon]] from [[Professor Birch]] on {{rt|101|Hoenn}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon breeding|Breed]] {{p|Marshtomp}} or {{p|Swampert}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Springleaf Field]], [[Viridian Forest (Channel)|Camp Starlight]]}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Lake ({{color2|{{sapphire color}}|Sapphire Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 3]], Endless Level 17, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Starter Pokémon]], [[Partner Pokémon]], [[Waterfall Pond]] (1F-3F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Lyra Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Starter Pokémon]], [[Partner Pokémon]], [[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Starter Pokémon]], [[Partner Pokémon]], [[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=[[Starter Pokémon]]}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Beach Zone]], [[Iceberg Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Latolato Trail]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Soothing Shore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Dream Gate#Wet and Wild Battle|Dream Gate: Wet and Wild Battle]], [[Variety Battle#Get 1,000 Combos!|Variety Battle: Get 1,000 Combos!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 2|Sky-High Ruins: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Isla Asul|Isla Asul: Stage 41]]<br>[[Marron Trail|Marron Trail: Stage 692]]<br>Event: ''[[Special Stages#Special Daily Pokémon (Second release)|Special Daily Pokémon]]'' <small>(Second release; Winking)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Gracious Woodlands|Distortion Land: Gracious Woodlands]] <small>(All Areas)</small>, [[Plasma Tundra#Misty Moor|Plasma Tundra: Misty Moor]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 16|Area 16: Stage 06]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Water}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! First Campaign Mudkip|Japanese|Japan|10|November 26 to December 11, 2005|link=List of Gather More Pokémon! Campaign event Pokémon#Mudkip}}
+|}
+
+====Pokémon Global Link promotions====
+{{eventAvail/h|type=Water}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Mudkip|Japanese|PGL|10|November 24, 2010 to August 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Mudkip}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|HP=50
+|Attack=70
+|Defense=50
+|SpAtk=50
+|SpDef=50
+|Speed=40}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=2
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Mudkip|Water|Water|3}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|4|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|9|Mud-Slap|Ground|Special|20|100|10||''}}
+{{learnlist/level7|12|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|17|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|20|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|25|Rock Throw|Rock|Physical|50|90|15}}
+{{learnlist/level7|28|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|33|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/level7|36|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|41|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|44|Endeavor|Normal|Physical|&mdash;|100|5}}
+{{learnlist/levelf/7|Mudkip|Water|Water|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Mudkip|Water|Water|3}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Mudkip|Water|Water|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Mudkip|Water|Water|3}}
+{{learnlist/breed7|{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|222|Corsola}}{{MSP|369|Relicanth}}<br>{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}<br>{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}{{MSP|698|Amaura}}{{MSP|699|Aurorus}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed7|{{MSP|698|Amaura}}{{MSP|699|Aurorus}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Avalanche|Ice|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP|222|Corsola}}{{MSP|366|Clamperl}}{{MSP|698|Amaura}}{{MSP|712|Bergmite}}|Barrier|Psychic|Status|&mdash;|&mdash;|20|*}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|158|Totodile}}<br>{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}{{MSP|294|Loudred}}<br>{{MSP|295|Exploud}}{{MSP|367|Huntail}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|564|Tirtouga}}<br>{{MSP|565|Carracosta}}{{MSP|621|Druddigon}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}<br>{{MSP|747|Mareanie}}{{MSP|748|Toxapex}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Bite|Dark|Physical|60|100|25}}
+{{learnlist/breed7|{{MSP|771|Pyukumuku}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}<br>{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}<br>{{MSP|771|Pyukumuku}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|183|Marill}}<br>{{MSP|184|Azumarill}}{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|369|Relicanth}}{{MSP|712|Bergmite}}<br>{{MSP|713|Avalugg}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Ice Ball|Ice|Physical|30|90|20}}
+{{learnlist/breed7|{{MSP|222|Corsola}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Mirror Coat|Psychic|Special|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}<br>{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}{{MSP|618|Stunfisk}}|Mud Bomb|Ground|Special|65|85|10||''}}
+{{learnlist/breed7|{{MSP|108|Lickitung}}{{MSP|222|Corsola}}{{MSP|350|Milotic}}{{MSP|463|Lickilicky}}|Refresh|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}|Sludge|Poison|Special|65|100|20|*}}
+{{learnlist/breed7|{{MSP|108|Lickitung}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}<br>{{MSP|357|Tropius}}{{MSP|463|Lickilicky}}{{MSP|464|Rhyperior}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/breed7|{{MSP|271|Lombre}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}<br>{{MSP|537|Seismitoad}}|Uproar|Normal|Special|90|100|10}}
+{{learnlist/breed7|{{MSP|366|Clamperl}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}<br>{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|594|Alomomola}}|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/breed7|{{MSP|226|Mantine}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|594|Alomomola}}{{MSP|713|Avalugg}}{{MSP|747|Mareanie}}<br>{{MSP|748|Toxapex}}{{MSP|752|Araquanid}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|143|Snorlax}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|199|Slowking}}<br>{{MSP|230|Kingdra}}{{MSP|369|Relicanth}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Mudkip|Water|Water|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Mudkip|Water|Water|3}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pledge|Water|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Mudkip|Water|Water|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg water color light}}; border: 3px solid #{{tcg water color}}"
+|-
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Fury Swipes}}
+| [[Mudkip (EX Ruby & Sapphire 60)]]
+|- style="background:#fff"
+| {{m|Pound}}
+| [[Mudkip (EX Ruby & Sapphire 60)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/PinballRS|col=3|type=Water|ndex=258|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Water|ndex=258|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=258
+|body=1
+|rate=12.3
+|area=Peanut Swamp
+|P1=I might be little, but I'm proud of my strength!
+|P2=Wait a second... I've lost half my HP already?
+|P3=I'm teetering on the brink of collapse...
+|PL=Yay! Look, I leveled up!
+|Partner=yes
+|PP1=Let's keep at this, <name>!
+|PP2=This is getting rough...
+|PP3=Urf... I'm nearly done. <name>, help, please...
+|PPL=All right! Level-up time!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=258
+|body=1
+|rate=8.2
+|IQ=F
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=1
+|field=Soak
+|loop=4
+|MinEXP=12
+|MaxEXP=19
+|browser=Mudkip is a very docile Pokémon. It can douse a small fire by spitting water.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=1
+|browser=It attacks by spitting bubbles that make Pokémon Slowed.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Water|ndex=258
+|Pad=Mudkip often plays in the [[Beach Zone]]. He loves Hide-and-Seek!
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=258
+|pad=He is an energetic boy and always busy playing. But he can be very shrewd, too.
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Water|ndex=258
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Water|ndex=258|num=095
+|min=50
+|max=115
+|raisemaxlevel=10
+|skill=Stabilize
+|skilldesc=Sometimes erases one of the foe's disruptions on the board.
+|swapper=Big Wave
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=258Winking|num=095
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Power of 4+
+|skilldesc=Deals even more damage when you make a match of four.
+}}
+|-
+{{Spindata/Magikarp Jump|col=6|type=Water|ranks=1
+|item=Soft Sand
+|unlock=Beat the Ultra League
+|skill=Gives a good item
+|recoverytime=10 hours
+|rank1desc=One random {{tt|good item|Training Soda, LP Restore, Purse of Coins}}
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=258
+|hatch=5 km
+|buddy=3
+|evocandy=25
+|stamina=100
+|attack=126
+|defense=93
+|fast={{m|Tackle}}, {{m|Water Gun}}
+|special={{m|Dig}}, {{m|Sludge}}, {{m|Stomp}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Water
+|no1=258
+|name1=Mudkip
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 16}}
+|no2=259
+|name2=Marshtomp
+|type1-2=Water
+|type2-2=Ground
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no3=260
+|name3=Swampert
+|type1-3=Water
+|type2-3=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=258}}
+{{Spritebox/4|ndex=258}}
+{{Spritebox/5|ndex=258}}
+{{Spritebox/6|ndex=258}}
+{{Spritebox/7|ndex=258}}
+{{Spritebox/Footer|258|Mudkip}}
+
+====Other sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{water color dark}}; background: #{{water color}};"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:240px"| [[File:Spr b 4d 258b.png]][[File:Spr b 4d 258b s.png]][[File:Spr b 4d 258b2.png]]
+|-
+| Diamond/Pearl [[Pokémon Diamond and Pearl beta|unused]] back sprites
+|}
+
+==Trivia==
+{{bulbanews|Gotta Meme 'em All: Mudkip and Marshtomp, here in the track}}
+* In a poll conducted by Nintendo of Europe, Mudkip was voted as the fan favorite starter, with {{p|Typhlosion}} and {{p|Blastoise}} close behind.
+* Mudkip is the subject of a popular {{wp|Internet meme}} known as "So i herd u liek mudkipz?".
+
+===Origin===
+This Pokémon is based on the {{wp|mudpuppy}} or {{wp|mudskipper}}, or also possibly an {{wp|axolotl}}. Since Mudkip is the Mud Fish Pokémon it might also be based on the {{wp|gilled African lungfish}}.
+
+====Name origin====
+Mudkip is a combination of ''mud'' and ''skip'', or it may be a shortening of ''{{wp|mudskipper}}''.
+
+Mizugorou may be a combination of 水 ''mizu'' (water) and ムツゴロウ ''mutsugorō'' (mudskipper).
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=ミズゴロウ ''Mizugorou''|jameaning=From {{tt|水 ''mizu''|water}} and {{tt|ムツゴロウ ''mutsugorō''|mudskipper}}
+|fr=Gobou|frmeaning=From {{tt|''gober''|to swallow}} and {{tt|''boue''|mud}}
+|es=Mudkip|esmeaning=Same as English name
+|de=Hydropi|demeaning=From ''hydro'' and ''mudpuppy''
+|it=Mudkip|itmeaning=Same as English name
+|ko=물짱이 ''Muljjangi''|komeaning=A combination of {{tt|물|water}} and 장이, a word similar to a suffix referring to a 'specialist' or 'professional'
+|zh_yue=水躍魚 ''Séuiyeukyùh''|zh_yuemeaning=Literally "Water jumping fish"
+|zh_cmn=水躍魚 / 水跃鱼 ''Shuǐyuèyú''|zh_cmnmeaning=Literally "Water jumping fish"
+|th=มิสึโกโร่ ''Mizugorou''|thmeaning=Same as Japanese name
+|hi=मादकीप ''Mudkip''|himeaning=Transcription of English name
+|ru=Мадкип ''Madkip''|rumeaning=Transcription of English name
+}}
+
+<br clear="left">
+
+==Related articles==
+* [[Brock's Marshtomp|Brock's Mudkip]]
+* [[Mumu]]
+* [[Mudkip (Ginji's Rescue Team)]]
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+*{{wp|Mudkip|Article on Wikipedia}}
+
+{{-}}
+{{Starter Pokémon‎|water}}<br>
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=257|prev=Blaziken|nextnum=259|next=Marshtomp}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Anime starter Pokémon|Mudkip (default)]]
+[[Category:Starter Pokémon|258]]
+[[Category:Mystery Dungeon starters|258]]
+
+[[de:Hydropi]]
+[[fr:Gobou]]
+[[it:Mudkip]]
+[[ja:ミズゴロウ]]
+[[pl:Mudkip]]
+[[zh:水跃鱼]]

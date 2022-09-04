@@ -1,0 +1,341 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=587|prev=Emolga|nextnum=589|next=Escavalier}}
+|}
+{{Pokémon Infobox
+|name=Karrablast
+|jname=カブルモ
+|tmname=Kaburumo
+|category=Clamping
+|typebox=1
+|type1=Bug
+|abilityn=d
+|ability1=Swarm
+|ability2=Shed Skin
+|abilityd=No Guard
+|ndex=588
+|udex=094
+|u2dex=155
+|karea=Mountain
+|kdex=022
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=13.0
+|weight-kg=5.9
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|expyield=63
+|lv100exp=1,000,000
+|gendercode=127
+|color=Blue
+|catchrate=200
+|evtotal=1
+|evat=1
+|body=12
+|pokefordex=karrablast
+|generation=5
+|friendship=70
+}}
+'''Karrablast''' ([[List of Japanese Pokémon names|Japanese]]: '''カブルモ''' ''Kaburumo'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Escavalier}} when [[trade]]d for a {{p|Shelmet}}, which evolves into {{p|Accelgor}} simultaneously. Neither evolves if at least one holds an [[Everstone]] during the trade.
+
+==Biology==
+Karrablast is a round, bipedal Pokémon with a primarily blue carapace that comprises a horn at the tip. Its black face has a teal patch on its forehead, a fanged mouth, and eyes with orange pupils and yellow scleras. Its ridged underbelly, or plastron, is yellow, and its stubby arms and legs are black. When it senses danger, it spews an acidic liquid from its mouth. It targets {{p|Shelmet}}, so it can evolve. It resides in forests and fields, and it often hides in trees or grass if threatened.
+
+==In the anime==
+[[File:Juniper Karrablast.png|thumb|left|250px|Karrablast in the {{pkmn|anime}}]]
+===Major appearances===
+Karrablast debuted in ''[[BW062|Crisis at Chargestone Cave!]]'' as part of a fantasy. It then physically appeared in ''[[BW063|Evolution Exchange Excitement!]]'', where [[Professor Juniper]] [[trade]]d it to {{an|Bianca}} for her {{p|Shelmet}} so it could [[Evolution|evolve]]. The trade ended with Karrablast evolving into {{p|Escavalier}}.
+
+A Karrablast appeared in ''[[BW095|Unrest at the Nursery!]]''.
+
+===Minor appearances===
+A Karrablast appeared in ''[[BW090|Jostling for the Junior Cup!]]'', under the ownership of [[Marris]]. It battled {{Ash}} in the [[Pokémon World Tournament Junior Cup]] but lost against his {{AP|Leavanny}}.
+
+A {{pkmn|Trainer}}'s Karrablast appeared in ''[[BW112|Team Plasma's Pokémon Power Plot!]]''.
+
+A Karrablast appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW063|Karrablast|Ash's Pokédex|Karrablast, the Clamping Pokémon. Karrablast live in forests and fields, and often hide in trees or grass when threatened. They can also defend themselves by spitting acid.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+===In the Pokémon Adventures manga===
+In ''[[PS478|Big City Battles]]'', a Karrablast was briefly seen under the ownership of one of [[Castelia City]]'s residents.
+
+A Karrablast appeared in ''[[PS493|Underground Showdown]]'' and ''[[PAXY30|Pinsir Changes]]''.
+
+A Karrablast appeared in a fantasy in ''[[PS507|A Misunderstanding]]''.
+
+In [[PS536]], a Karrablast was stolen from an executive member of the Unova Choral Competition in Castelia City. The thieves were part of Team Plasma's new faction, who ran into the [[Castelia Sewers]]. Karrablast was later abandoned at the sewers, along with the rest of the Pokémon that were stolen.
+
+==In the TCG==
+{{main|Karrablast (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as {{p|Shelmet}}.}}
+{{Dex/Entry1|v=White|entry=When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets {{p|Shelmet}}.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=For some reason they evolve when they receive electrical energy while they are attacking {{p|Shelmet}}.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as {{p|Shelmet}}.}}
+{{Dex/Entry1|v=Y|entry=For some reason they evolve when they receive electrical energy while they are attacking {{p|Shelmet}}.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as {{p|Shelmet}}.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=For some reason they evolve when they receive electrical energy while they are attacking {{p|Shelmet}}.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Route]]s {{rtn|6|Unova}} and {{rtn|11|Unova}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Route]]s {{rtn|6|Unova}} and {{rtn|11|Unova}}<br>{{rt|8|Unova}}, [[Icirrus City]], [[Moor of Icirrus]]{{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Routes]] {{rtn|14|Kalos}} and {{rtn|19|Kalos}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Soothing Shore]], [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Challenge Battle#Lord of the Bugs|Challenge Battle: Lord of the Bugs]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 1|Safari Jungle: Stage 1]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 528]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Everspring Valley|White Ruins: Everspring Valley]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Bug}}
+{{eventAvail|{{gameabbrev5|BW}}|Trade for Evolution! Karrablast|Japanese|Japan|30|October 10 to November 28, 2010|link=List of local Japanese event Pokémon distributions in Generation V#Karrablast}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Karrablast|English|Europe|50|June 11 to August 27, 2011|link=List of local English event Pokémon distributions in Generation V#Summer 2011 Karrablast}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Karrablast|French|Europe|50|June 11 to August 27, 2011|link=List of local French event Pokémon distributions in Generation V#2011 Summer Karrablast}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Karrablast|German|Europe|50|June 11 to August 27, 2011|link=List of local German event Pokémon distributions in Generation V#2011 Summer Karrablast}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Karrablast|Italian|Europe|50|June 11 to August 27, 2011|link=List of local Italian event Pokémon distributions in Generation V#2011 Summer Karrablast}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Karrablast|Spanish|Europe|50|June 11 to August 27, 2011|link=List of local Spanish event Pokémon distributions in Generation V#Summer 2011 Karrablast}}
+|}
+
+===Held items===
+{{HeldItems|type=Bug
+|event1=Bug Gem|event1type=Gem}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|HP=50
+|Attack=75
+|Defense=45
+|SpAtk=40
+|SpDef=45
+|Speed=60}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Karrablast|Bug|Bug|5}}
+{{learnlist/level7|1|Peck|Flying|Physical|35|100|35}}
+{{learnlist/level7|4|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|8|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|13|Fury Cutter|Bug|Physical|40|95|20||'''}}
+{{learnlist/level7|16|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/level7|20|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|25|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/level7|28|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level7|32|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|37|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|40|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|44|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/level7|49|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|52|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|56|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/levelf/7|Karrablast|Bug|Bug|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Karrablast|Bug|Bug|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Karrablast|Bug|Bug|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Karrablast|Bug|Bug|5}}
+{{learnlist/breed7|{{MSP|010|Caterpie}}{{MSP|013|Weedle}}{{MSP|168|Ariados}}{{MSP|204|Pineco}}{{MSP|205|Forretress}}{{MSP|213|Shuckle}}<br>{{MSP|265|Wurmple}}{{MSP|291|Ninjask}}{{MSP|401|Kricketot}}{{MSP|412|Burmy}}{{MSP|414|Mothim}}{{MSP|415|Combee}}<br>{{MSP|451|Skorupi}}{{MSP|452|Drapion}}{{MSP|469|Yanmega}}{{MSP|540|Sewaddle}}{{MSP|541|Swadloon}}{{MSP|542|Leavanny}}<br>{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}{{MSP|557|Dwebble}}{{MSP|558|Crustle}}{{MSP|595|Joltik}}<br>{{MSP|596|Galvantula}}{{MSP|632|Durant}}{{MSP|636|Larvesta}}{{MSP|664|Scatterbug}}{{MSP|736|Grubbin}}{{MSP|737|Charjabug}}<br>{{MSP|738|Vikavolt}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}{{MSP|768|Golisopod}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed7|{{MSP|214|Heracross}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|204|Pineco}}{{MSP|205|Forretress}}{{MSP|588|Karrablast}}{{MSP|589|Escavalier}}|Drill Run|Ground|Physical|80|95|10|‡}}
+{{learnlist/breed7|{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|328|Trapinch}}{{MSP|329|Vibrava}}{{MSP|330|Flygon}}{{MSP|557|Dwebble}}<br>{{MSP|558|Crustle}}|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|214|Heracross}}|Horn Attack|Normal|Physical|65|100|25}}
+{{learnlist/breed7|{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed7|{{MSP|214|Heracross}}{{MSP|545|Scolipede}}|Megahorn|Bug|Physical|120|85|10||'''}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}{{MSP|543|Venipede}}<br>{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/breed7|{{MSP|193|Yanma}}{{MSP|469|Yanmega}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|291|Ninjask}}{{MSP|329|Vibrava}}<br>{{MSP|330|Flygon}}{{MSP|402|Kricketune}}{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}{{MSP|595|Joltik}}<br>{{MSP|596|Galvantula}}|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/breedf/7|Karrablast|Bug|Bug|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Karrablast|Bug|Bug|5}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Drill Run|Ground|Physical|80|95|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutorf/7|Karrablast|Bug|Bug|5}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Bug|ndex=588
+|pad=He is {{p|Pawniard}}'s friend. He is busy playing, but someday he wants to be a strong knight to protect the [[Arbor Area]].
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=588
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=588|num=666
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Final Effort
+|skilldesc=Deals a ton of damage when there are no more moves left.
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Bug
+|no1=588
+|name1=Karrablast
+|type1-1=Bug
+|evo1={{bag|Pal Pad}}{{MS|616}}<br>{{color2|000|Trade}}<br><small>for {{pcolor|Shelmet|000}}
+|no2=589
+|name2=Escavalier
+|type1-2=Bug
+|type2-2=Steel
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=588}}
+{{Spritebox/6|ndex=588}}
+{{Spritebox/7|ndex=588}}
+{{Spritebox/Footer|588|Karrablast}}
+
+==Trivia==
+*Karrablast and {{p|Shelmet}} are the only Pokémon that have to be [[trade]]d for a specific Pokémon to evolve, having to be traded for each other.
+
+===Origin===
+Karrablast may be based on the {{wp|Japanese rhinoceros beetle}}, as well as the {{wp|Carabus blaptoides blaptoides|Japanese snail-eating beetle}} due to its penchant for attacking {{p|Shelmet}}, a snail-like Pokémon.
+
+Karrablast and Shelmet may be a reference to {{wp|coevolution}}, where the evolution of one species is influenced by changes in another species. In this case, the relationship between predator and prey.
+
+====Name origin====
+Karrablast may be a combination of κέρατο ''kérato'' (Greek for ''horn'') and ''plastron'' (the underside of a shelled creature). It may also be a corruption of ''Carabidae'', the family of {{wp|ground beetle}}s.
+
+Kaburumo is derived from 噛りつく ''kaburitsuku'' (to bite into or stick to, referring its species name).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=カブルモ ''Kaburumo''|jameaning=From {{tt|齧る ''kaburu''|to bite}}
+|fr=Carabing|frmeaning=Possibly from ''{{tt|scarabée|scarab}}''
+|es=Karrablast|esmeaning=Same as English name
+|de=Laukaps|demeaning=From ''{{tt|lauern|to lurk}}'' and ''{{tt|Kapsel|capsule}}''
+|it=Karrablast|itmeaning=Same as English name
+|ko=딱정곤 ''Ttakjeonggon''|komeaning=From {{tt|딱정벌레 ''ttakjeongbeollae''|beetle}} and {{tt|곤충 ''gonchoong''|insect, bug}}
+|zh_cmn=蓋蓋蟲 / 盖盖虫 ''Gàigàichóng''|zh_cmnmeaning=From {{tt|蓋 ''gài''|to cover}} and {{tt|蟲 ''chóng''|bug, worm}}
+|ru=Каррабласт ''Karrablast''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=587|prev=Emolga|nextnum=589|next=Escavalier}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve through trading]]
+
+[[de:Laukaps]]
+[[fr:Carabing]]
+[[it:Karrablast]]
+[[ja:カブルモ]]
+[[pl:Karrablast]]
+[[zh:盖盖虫]]

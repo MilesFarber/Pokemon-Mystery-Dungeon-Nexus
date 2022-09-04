@@ -1,0 +1,479 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=396|prev=Starly|nextnum=398|next=Staraptor|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Staravia}}
+|}
+{{Pokémon Infobox
+|name=Staravia
+|jname=ムクバード
+|jtranslit=Mukubādo
+|tmname=Mukubird
+|ndex=397
+|sdex=011
+|karea=Coastal
+|kdex=100
+|abrow=024
+|obrow=229
+|opbrow=171
+|typebox=1
+|type1=Normal
+|type2=Flying
+|category=Starling
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=34.2
+|weight-kg=15.5
+|abilityn=d
+|ability1=Intimidate
+|abilityd=Reckless
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=15
+|evtotal=2
+|evsp=2
+|expyield=119
+|oldexp=113
+|lv100exp=1,059,860
+|gendercode=127
+|color=Brown
+|catchrate=120
+|body=09
+|pokefordex=staravia
+|generation=4
+|friendship=70
+}}
+'''Staravia''' ([[List of Japanese Pokémon names|Japanese]]: '''ムクバード''' ''Mukubird'') is a dual-type {{2t|Normal|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Starly}} starting at [[level]] 14 and evolves into {{p|Staraptor}} starting at level 34.
+
+==Biology==
+Staravia is a grayish-brown, avian Pokémon with black and white markings. Its head and upper body are primarily black with an "M"-shaped pattern over its white chest. On its forehead is a grayish-brown spot, which is smaller on the female. On its face is a white, mask-like marking with a pattern of spikes along the lower edge. It has small, black eyes with white pupils and a long, orange beak with a black tip. On the back of its head is a long tuft of feathers, which curves forward. The lower halves of its wings are black, and it has black tail feathers with a single white feather in the center. Its orange, {{wp|Bird_anatomy#Feet|anisodactyl}} feet have black talons.
+
+Staravia lives near forests and fields, where it hunts for bug Pokémon. Aware of its own weakness, it forms flocks of its own kind and cries noisily if left on its own. However, these flocks can be extremely territorial. When two different groups meet, they will fight fiercely.
+
+==In the anime==
+[[File:Orson Staravia.png|thumb|left|250px|Staravia in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Staravia]]====
+Ash's {{p|Starly}} [[Evolution|evolved]] into a {{AP|Staravia}} in ''[[DP013|A Staravia is Born!]]''. It then evolved into a Staraptor in ''[[DP118|Pursuing a Lofty Goal!]]''.
+
+====Other====
+A Staravia appeared in ''[[XY077|A Relay in the Sky!]]'', under the ownership of [[Orson]]. It was seen participating in the [[Pokémon Sky Relay]].
+
+===Minor appearances===
+Staravia debuted in ''[[DP001|Following A Maiden's Voyage!]]''.
+
+A Staravia appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Staravia appeared in a flashback or a fantasy in ''[[XY035|The Forest Champion!]]''.
+
+A Staravia appeared in ''[[XY036|Battles in the Sky!]]''.
+
+Multiple Staravia appeared in the Hoopa's Surprise Ring Adventures short ''{{DL|Hoopa's Surprise Ring Adventures|Flying in the Air}}''.
+
+Three Staravia appeared in ''[[XY119|A Full-Strength Battle Surprise!]]''. These Staravia were among a group of Pokémon escaping a forest where [[Team Flare]] were conducting an experiment.
+
+A {{pkmn|Trainer}}'s Staravia appeared in ''[[XY140|Till We Compete Again!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP013|Staravia|Dawn's Pokédex|Staravia, the Starling Pokémon. Staravia flies over forests and fields, and travels in large flocks.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Jun Staravia DPA.png|thumb|220px|Staravia in {{pkmn|Diamond and Pearl Adventure!}}]]
+===In the Pokémon Adventures manga===
+In ''[[PS358|Stunning Staravia & Stinky Skuntank I]]'', [[Team Galactic]]'s {{tc|Galactic Grunt|Grunts}} used several Staravia to battle [[Paka and Uji]] in [[Veilstone City]] so that they can find their client, {{adv|Platinum}}, and use her for a ransom. They were defeated by the combined efforts of Paka, Uji, {{adv|Diamond}}, and {{adv|Pearl}}. They were next seen being used to capture {{p|Mesprit}} at [[Lake Verity]].
+
+A Trainer's Staravia appeared in ''[[PS361|Bombastic Bibarel & Heroic Hippopotas]]''.
+
+A Staravia appeared in a flashback as a Pokémon trained by the [[International Police]] in ''[[PS528|Innocent Scientist]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+{{OBP|Jun|DPA}} owns a Staravia that first appeared in ''[[DPA03|The Mystery Boy, Jun!!]]''. It later evolved into a {{p|Staraptor}}.
+
+==In the TCG==
+{{main|Staravia (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Flying}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It flies around forests and fields in search of {{T|bug}} Pokémon. It stays within a huge flock.}}
+{{Dex/Entry1|v=Pearl|entry=It lives in forests and fields. Squabbles over territory occur when flocks collide.}}
+{{Dex/Entry1|v=Platinum|entry=Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=They maintain huge flocks, although fierce scuffles break out between various flocks.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=They maintain huge flocks, although fierce scuffles break out between various flocks.}}
+{{Dex/Entry1|v=Y|entry=It lives in forests and fields. Squabbles over territory occur when flocks collide.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=They maintain huge flocks, although fierce scuffles break out between various flocks.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It lives in forests and fields. Squabbles over territory occur when flocks collide.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|209|Sinnoh}} and {{rtn|212|Sinnoh}}, [[Lake Verity]], [[Lake Valor]], [[Trophy Garden]], [[Sendoff Spring]], [[Great Marsh]]}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|209|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|212|Sinnoh}}, and {{rtn|215|Sinnoh}}, [[Trophy Garden]], [[Lake Valor]], [[Sendoff Spring]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Starly}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Starly}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Windswept Sky}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|11|Kalos}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|10|Alola}} ({{DL|QR Scanner|Island Scan}}){{dotw|Th}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Final Maze]] (B1-B48)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Final Maze]] (B1-B48)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Peril Cliffs]]}}
+{{Availability/Entry1|v=Ranch|link=My Pokémon Ranch|color={{diamond color}}|area=[[Hayley's trades]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie‎]]}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Beach Zone]], [[Iceberg Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area={{ra|Sky}}, [[Thunder Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Aurora]], [[Avia]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#In Trouble? Tap Away!|Jungle Area: In Trouble? Tap Away!]], [[Conductor Room#King of the Sky|Conductor Room: King of the Sky]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 5|Mountain of Order: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 215]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Colossal Tree|Pearl Marsh: Colossal Tree]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Normal|type2=Flying
+|dppt1=Yache Berry|dppt1type=Berry|dppt1rar=5
+|ranch1=Yache Berry|ranch1type=Berry|ranch1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|type2=Flying
+|HP=     55
+|Attack= 75
+|Defense=50
+|SpAtk=  40
+|SpDef=  40
+|Speed=  80}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|type2=Flying
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=4
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Flying
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=    0
+|Rock=    200
+|Bug=      50
+|Ghost=     0
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=    50
+|Electric=200
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|flying=yes
+|newground=1
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Staravia|Normal|Flying|4}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level7|5|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level7|9|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/level7|13|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|18|Endeavor|Normal|Physical|&mdash;|100|5}}
+{{learnlist/level7|23|Whirlwind|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|28|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|33|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level7|38|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|43|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/level7|48|Final Gambit|Fighting|Special|&mdash;|100|5}}
+{{learnlist/levelf/7|Staravia|Normal|Flying|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Staravia|Normal|Flying|4}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Staravia|Normal|Flying|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Staravia|Normal|Flying|4}}
+{{learnlist/breed7|{{MSP|041|Zubat}}{{MSP|042|Golbat}}{{MSP|169|Crobat}}{{MSP|198|Murkrow}}{{MSP|430|Honchkrow}}{{MSP|333|Swablu}}<br>{{MSP|334|Altaria}}{{MSP|722|Rowlet}}{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/breed7|{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|176|Togetic}}|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|441|Chatot}}{{MSP|519|Pidove}}{{MSP|520|Tranquill}}<br>{{MSP|521|Unfezant}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|722|Rowlet}}{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}<br>{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}{{MSP|733|Toucannon}}{{MSP|741|Oricorio}}|Feather Dance|Flying|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|722|Rowlet}}{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|083|Farfetch'd}}{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|227|Skarmory}}<br>{{MSP|333|Swablu}}{{MSP|334|Altaria}}{{MSP|441|Chatot}}{{MSP|627|Rufflet}}{{MSP|628|Braviary}}{{MSP|722|Rowlet}}<br>{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}{{MSP|733|Toucannon}}|Fury Attack|Normal|Physical|15|85|20||'''}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|333|Swablu}}<br>{{MSP|441|Chatot}}{{MSP|561|Sigilyph}}{{MSP|741|Oricorio}}|Mirror Move|Flying|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|198|Murkrow}}{{MSP|430|Honchkrow}}<br>{{MSP|278|Wingull}}|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}|Revenge|Fighting|Physical|60|100|10|*}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|163|Hoothoot}}<br>{{MSP|164|Noctowl}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}{{MSP|441|Chatot}}{{MSP|519|Pidove}}{{MSP|520|Tranquill}}<br>{{MSP|521|Unfezant}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}<br>{{MSP|714|Noibat}}{{MSP|715|Noivern}}{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}{{MSP|733|Toucannon}}{{MSP|741|Oricorio}}|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|083|Farfetch'd}}{{MSP|227|Skarmory}}|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|227|Skarmory}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/breed7|{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|441|Chatot}}|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/breedf/7|Staravia|Normal|Flying|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Staravia|Normal|Flying|4}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutorf/7|Staravia|Normal|Flying|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Staravia|Normal|Flying|4}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Staravia|Normal|Flying|4}}
+
+====Special moves====
+{{learnlist/eventh/7|Staravia|Normal|Flying|4}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|SM}}|Roost|Flying|Status|—|—|10}}
+{{learnlist/eventf/7|Staravia|Normal|Flying|4}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg colorless color light}}; border: 3px solid #{{tcg colorless color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Drill Peck}}
+| style="background:#fff; {{roundybr|5px}}" | [[Staravia (Majestic Dawn 47)]]
+|}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{normal color light}}; border: 3px solid #{{flying color}}"
+|-
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Gust}}
+| style="background:#fff" | {{typecolor|Flying}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[DP026|Getting the Pre-Contest Titters!]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Flying}}
+{{Spindata/MDTDS|col=6|type=Normal|ndex=397
+|body=1
+|rate=8.2
+|IQ=D
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Normal
+|group=Flying
+|assist=Flying
+|field=Cut
+|fieldpower=2
+|browser=It sends out {{M|Whirlwind|twisters}}. It also rams to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Normal
+|group=Flying
+|assist=Flying
+|field=Cut
+|fieldpower=3
+|browser=It launches twisters.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Normal
+|att=2
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Normal
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Normal|ndex=397
+|Pad=Staravia came to the [[Beach Zone]] to play. His favorite Attraction is {{DL|Attractions|Pelipper's Circle Circuit}}.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Normal|ndex=397
+|HP=2
+|atk=2
+|def=1
+|spd=3
+|range=4
+|move=Wing Attack
+|ability1=Intimidate
+|ability2=Hero
+|ability3=Celebrate
+|evo=Evolves from {{p|Starly}} when its Speed is 48 or higher<br>Evolves into {{p|Staraptor}} when its Attack is 92 or higher |
+|link='''[[Muneshige]]''' and {{DL|List of Pokémon Conquest characters|Munezane}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=397|bttype=Flying
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=397|stype=Flying|num=286
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mind Zap
+|skilldesc=Delays your opponent's disruptions.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Normal
+|type2=Flying
+|pictype=art
+|no1=396
+|name1=Starly
+|type1-1=Normal
+|type2-1=Flying
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 14}}
+|no2=397
+|name2=Staravia
+|type1-2=Normal
+|type2-2=Flying
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 34}}
+|no3=398
+|name3=Staraptor
+|type1-3=Normal
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Flying}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/Gender|ndex=397}}
+{{Spritebox/5/Gender|ndex=397}}
+{{Spritebox/6/Gender|ndex=397}}
+{{Spritebox/7/Gender|ndex=397}}
+{{Spritebox/Footer|397|Staravia}}
+
+==Trivia==
+===Origin===
+Staravia is based on an adult {{wp|starling}}. However, its features seem to be based more on an adult {{wp|northern lapwing}}.
+
+====Name origin====
+Staravia is a combination of ''{{wp|starling}}'' and ''avian'' (pertaining to birds).
+
+Mukubird is a combination of 椋鳥 ''mukudori'' (gray starling) and ''bird''.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Flying
+|ja=ムクバード ''Mukubird''|jameaning=From {{tt|椋鳥 ''mukudori''|gray starling}} and ''bird''
+|de=Staravia|demeaning=Same as English name
+|fr=Étourvol|frmeaning=From ''{{tt|étourneau|starling}}'' and ''{{tt|vol|flight}}''
+|es=Staravia|esmeaning=Same as English name
+|it=Staravia|itmeaning=Same as English name
+|ko=찌르버드 '' Jjirubird ''|komeaning=From {{tt|찌르레기 ''Jjireuraeggi''|starling}} and ''bird''
+|zh_cmn=姆克鳥 ''Mǔ Kè Niǎo''|zh_cmnmeaning=Transliteration of its Japanese name. The last character means "bird".
+|hi=स्टाराभिया ''Staravia''|himeaning=Transliteration of English name
+|ru=Старевия ''Starevia''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* {{AP|Ash's Staravia|Staraptor}}
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=396|prev=Starly|nextnum=398|next=Staraptor}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Staravia]]
+[[fr:Étourvol]]
+[[it:Staravia]]
+[[ja:ムクバード]]
+[[pl:Staravia]]
+[[zh:姆克鸟]]

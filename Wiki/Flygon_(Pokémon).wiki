@@ -1,0 +1,532 @@
+{{PokémonPrevNext/Head|type=Ground|type2=Dragon}}
+{{PokémonPrevNext/GO|species=Flygon}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=329|prev=Vibrava|nextnum=331|next=Cacnea|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Flygon
+|jname=フライゴン
+|jtranslit=Furaigon
+|tmname=Flygon
+|ndex=330
+|hdex=118
+|hdex6=123
+|u2dex=123
+|karea=Mountain
+|kdex=005
+|adex=237
+|fbrow=159
+|abrow=259
+|typebox=1
+|type1=Ground
+|type2=Dragon
+|category=Mystic
+|height-ftin=6'07"
+|height-m=2.0
+|weight-lbs=180.8
+|weight-kg=82.0
+|abilityn=1
+|abilitylayout=1
+|ability1=Levitate
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=20
+|evtotal=3
+|evat=1
+|evsp=2
+|expyield=234
+|oldexp=197
+|lv100exp=1,059,860
+|gendercode=127
+|color=Green
+|catchrate=45
+|body=09
+|pokefordex=flygon
+|generation=3
+|friendship=70
+}}
+'''Flygon''' ([[List of Japanese Pokémon names|Japanese]]: '''フライゴン''' ''Flygon'') is a dual-type {{2t|Ground|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Vibrava}} starting at [[level]] 45. It is the final form of {{p|Trapinch}}.
+
+==Biology==
+Flygon resembles a slightly insectoid, bipedal dragon. It is primarily light green and has a pair of large rhombus-shaped wings with a red trim, toeless hind legs, and skinny arms with three-clawed hands. Its tail has several dark green stripes and three small green rhombus shapes with red trims at the end. It has large eyes, and a pair of green antennae that point back. The eyes have red covers that prevent sand from getting into its eyes. With its wings, it kicks up sandstorms to hide itself. Its wings make a "singing" sound when they are flapped, earning Flygon the name "The Desert Spirit". It lives in the {{DL|List of Pokémon by habitat|Rough-terrain Pokémon|desert}}. Flygon coexist well with {{p|Krookodile}} in searching for food.
+
+==In the anime==
+[[File:Mallow Flygon.png|250px|thumb|left|Flygon in the {{pkmn|anime}}]]
+===Major appearances===
+Flygon debuted in ''[[M06|Jirachi: Wish Maker]]''. It helped save {{OBP|Jirachi|M06}} from [[Butler]]. It briefly reappeared in a flashback in the opening sequence of ''[[M07|Destiny Deoxys]]'', and also in a montage in ''[[M10|The Rise of Darkrai]]'' that chronicled the preceding nine movies.
+
+[[Drew]] owns a Flygon, which debuted in ''[[AG123|Rhapsody in Drew]]''. It was first seen participating in the [[Contest Battle|Battle Stage]] of the [[Hoenn Grand Festival]].
+
+{{an|Mallow}} used a Flygon as a [[Poké Ride|Ride Pokémon]] in [[SM061]].
+
+===Minor appearances===
+Flygon made its main series debut in ''[[AG060|Delcatty Got Your Tongue]]'', where it was used by a {{pkmn|Trainer}} in a battle against [[Dr. Abby|Abby]]'s {{DL|Dr. Abby|Johnny|Skitty}}. However, it was presented as a black silhouette.
+
+A Flygon appeared in ''[[M11|Giratina and the Sky Warrior]]''.
+
+A Flygon appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG123|Flygon|Ash's Pokédex|Flygon, the Mystic Pokémon. Flygon is the evolved form of Vibrava. It's known as "The Desert Spirit" because of the song-like voice that emanates from the {{m|sandstorm}}s it kicks up.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+==In the manga==
+[[File:Wally Flygon.png|thumb|200px|Flygon in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Flygon was one of the Pokémon belonging to [[Norman]], who mostly used it for aerial transport. After taking {{adv|Wally}} under his wing for the sake of awaking {{p|Rayquaza}}, he gave it to the boy. It first appeared in ''[[PS240|Talk About Timing, Treecko]]''.
+
+[[Draconid]] [[Jinga]], [[Renza]], and [[Tomatoma]] all own a Flygon, appearing in ''[[PAORAS06|Omega Alpha Adventure 6]]''.
+
+[[Aarune]]'s Flygon appeared in a flashback in ''[[PAORAS16|Omega Alpha Adventure 16]]''.
+
+==In the TCG==
+{{main|Flygon (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ground|type2=Dragon}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Flygon is nicknamed "the elemental spirit of the desert." Because its flapping wings whip up a cloud of sand, this Pokémon is always enveloped in a {{m|sandstorm}} while flying.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Flygon whips up a sandstorm by flapping its wings. The wings create a series of notes that sound like singing. Because the "singing" is the only thing that can be heard in a sandstorm, this Pokémon is said to be the desert spirit.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=The flapping of its wings sounds like singing. To prevent detection by enemies, it hides itself by flapping up a cloud of desert sand.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It hides itself by kicking up desert sand with its wings. Red covers shield its eyes from sand.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It whips up sandstorms with powerful flaps of its wings. It is known as "The Desert Spirit."}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It is nicknamed "The Desert Spirit" because the flapping of its wings sounds like a woman singing.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It whips up sandstorms with powerful flaps of its wings. It is known as "The Desert Spirit."}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Known as "The Desert Spirit," this Pokémon hides in the sandstorms it causes by beating its wings.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It hides itself by kicking up desert sand with its wings. Red covers shield its eyes from sand.}}
+{{Dex/Entry1|v=Y|entry=Known as "The Desert Spirit," this Pokémon hides in the sandstorms it causes by beating its wings.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Flygon is nicknamed “the elemental spirit of the desert.” Because its flapping wings whip up a cloud of sand, this Pokémon is always enveloped in a sandstorm while flying.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Flygon whips up a sandstorm by flapping its wings. The wings create a series of notes that sound like singing. Because the “singing” is the only thing that can be heard in a sandstorm, this Pokémon is said to be the desert spirit.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=The flapping of its wings sounds something like singing. Those lured by the sound are enveloped in a sandstorm, becoming Flygon's prey.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon hides in the heart of sandstorms it creates and seldom appears where people can see it.}}
+{{Dex/Entry1|v=Ultra Sun|entry=By flapping their wings, Flygon cause sandstorms that conceal Krookodile. The team then splits the prey they catch.}}
+{{Dex/Entry1|v=Ultra Moon|entry=People continue to have their hearts stolen by its enchanting songs and find themselves stranded in the desert.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ground|type2=Dragon}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1|v=Colosseum|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground|type2=Dragon}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 5, Forever Level 54, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Vibrava}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Jungle Relic]] (during mission)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (B1-B13), [[Mystery Jungle]] (B1-B29), [[Mt. Mistral]] (1F-19F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] (B1-B13), [[Mystery Jungle]] (B1-B29), [[Mt. Mistral]] (1F-19F)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Haruba Desert]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Granite Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Rugged Flats]] (post-ending), Autumnwood: All{{tt|*|Landorus encounter}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Spike Ball Alert!|Vehicle Gallery: Spike Ball Alert!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 3|Distortion Island: Stage 3]], [[Variety Battle#I Dunno, Audino|Variety Battle: I Dunno, Audino]] <small>(Reward)</small>}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 390]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Trailhead Field|White Ruins: Trailhead Field]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 27|Area 27: Stage 06]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Ground|type2=Dragon}}
+{{eventAvail|{{gameabbrev3|RS}}|Dragon Week Flygon|English|United States|45|September 29 to October 3, 2003|link=List of PCNY event Pokémon distributions in Generation III#Flygon_2}}
+{{eventAvail|{{gameabbrev3|RS}}|Pokémon Box Ruby & Sapphire Promotion Flygon|English|United States|45|July 10, 2004|link=List of PCNY event Pokémon distributions in Generation III#Flygon}}
+|}
+
+===Held items===
+{{HeldItems|type=Ground|type2=Dragon
+|ranch1=Yache Berry|ranch1type=Berry|ranchlang=jap|ranch1rar=100
+|event1=Dragon Fang|event1type=None|event1rar=50
+|event2=Dragon Scale|event2type=None|event2rar=50
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ground
+|type2=Dragon
+|HP=     80
+|Attack=100
+|Defense=80
+|SpAtk=  80
+|SpDef=  80
+|Speed= 100}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ground
+|type2=Dragon
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=5
+|Technique=3
+|TechniqueMax=4
+|Stamina=2
+|StaminaMax=2
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ground
+|type2=Dragon
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=   50
+|Ground=    0
+|Rock=     50
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=     50
+|Water=   100
+|Grass=   100
+|Electric=  0
+|Psychic= 100
+|Ice=     400
+|Dragon=  200
+|Dark=    100
+|Fairy=   200
+|notes=yes
+|levitate=yes
+|newground=1
+|ground=yes
+|newelectric=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Flygon|Ground|Dragon|3}}
+{{learnlist/level7|1|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/level7|1|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level7|1|Dragon Dance|Dragon|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|1|Sonic Boom|Normal|Special|&mdash;|90|20}}
+{{learnlist/level7|1|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/level7|1|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/level7|5|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level7|8|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level7|12|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level7|15|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/level7|19|Supersonic|Normal|Status|&mdash;|55|20}}
+{{learnlist/level7|22|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|26|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level7|29|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/level7|33|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|36|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|40|Uproar|Normal|Special|90|100|10}}
+{{learnlist/level7|43|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/level7|47|Dragon Rush|Dragon|Physical|100|75|10||'''}}
+{{learnlist/levelf/7|Flygon|Ground|Dragon|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Flygon|Ground|Dragon|3}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Flygon|Ground|Dragon|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Flygon|Ground|Dragon|3}}
+{{learnlist/breed7|{{MSP|010|Caterpie}}{{MSP|013|Weedle}}{{MSP|168|Ariados}}{{MSP|204|Pineco}}{{MSP|205|Forretress}}{{MSP|213|Shuckle}}<br>{{MSP|265|Wurmple}}{{MSP|291|Ninjask}}{{MSP|401|Kricketot}}{{MSP|412|Burmy}}{{MSP|414|Mothim}}{{MSP|415|Combee}}<br>{{MSP|451|Skorupi}}{{MSP|452|Drapion}}{{MSP|469|Yanmega}}{{MSP|540|Sewaddle}}{{MSP|541|Swadloon}}{{MSP|542|Leavanny}}<br>{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}{{MSP|557|Dwebble}}{{MSP|558|Crustle}}{{MSP|595|Joltik}}<br>{{MSP|596|Galvantula}}{{MSP|632|Durant}}{{MSP|636|Larvesta}}{{MSP|664|Scatterbug}}{{MSP|736|Grubbin}}{{MSP|737|Charjabug}}<br>{{MSP|738|Vikavolt}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}{{MSP|768|Golisopod}}|Bug Bite|Bug|Physical|60|100|20}}
+{{learnlist/breed7|{{MSP|328|Trapinch}}{{MSP|329|Vibrava}}{{MSP|330|Flygon}}|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/breed7|{{MSP|214|Heracross}}{{MSP|540|Sewaddle}}{{MSP|588|Karrablast}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|540|Sewaddle}}{{MSP|557|Dwebble}}{{MSP|558|Crustle}}{{MSP|588|Karrablast}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|127|Pinsir}}{{MSP|168|Ariados}}{{MSP|402|Kricketune}}|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|291|Ninjask}}{{MSP|402|Kricketune}}<br>{{MSP|557|Dwebble}}{{MSP|588|Karrablast}}{{MSP|595|Joltik}}{{MSP|596|Galvantula}}{{MSP|632|Durant}}{{MSP|768|Golisopod}}|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|049|Venomoth}}{{MSP|267|Beautifly}}{{MSP|269|Dustox}}{{MSP|284|Masquerain}}{{MSP|414|Mothim}}<br>{{MSP|415|Combee}}{{MSP|666|Vivillon}}|Gust|Flying|Special|40|100|35}}
+{{learnlist/breed7|{{MSP|283|Surskit}}|Mud Shot|Ground|Special|55|95|15|*|'''}}
+{{learnlist/breed7|{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}<br>{{MSP|283|Surskit}}{{MSP|284|Masquerain}}{{MSP|313|Volbeat}}{{MSP|617|Accelgor}}|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/breed7|{{MSP|048|Venonat}}{{MSP|049|Venomoth}}{{MSP|313|Volbeat}}{{MSP|595|Joltik}}{{MSP|596|Galvantula}}|Signal Beam|Bug|Special|75|100|15}}
+{{learnlist/breedf/7|Flygon|Ground|Dragon|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Flygon|Ground|Dragon|3}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Flygon|Ground|Dragon|3}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Flygon|Ground|Dragon|3}}
+{{learnlist/prevo7|328|Trapinch|||||Bite|Dark|Physical|60|100|25}}
+{{learnlist/prevo7|328|Trapinch|||||Dig|Ground|Physical|80|100|10|'''}}
+{{learnlist/prevo7|328|Trapinch|||||Crunch|Dark|Physical|80|100|15}}
+{{learnlist/prevo7|328|Trapinch|||||Feint|Normal|Physical|30|100|10}}
+{{learnlist/prevo7|328|Trapinch|||||Superpower|Fighting|Physical|120|100|5||{{sup/7|SM}}}}
+{{learnlist/prevo7|328|Trapinch|||||Fissure|Ground|Physical|—|—|5}}
+{{learnlist/prevo7|329|Vibrava|||||Bug Buzz|Bug|Special|90|100|10}}
+{{learnlist/prevo7|329|Vibrava|||||Boomburst|Normal|Special|140|100|10}}
+{{learnlist/prevof/7|Flygon|Ground|Dragon|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fighting color light}}; border: 3px solid #{{tcg dragon color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Wing Attack}}
+| style="background:#fff; {{roundybr|5px}}" | [[Forina's Flygon (Movie VS Pack 6)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Ground|type2=Dragon}}
+{{Spindata/PinballRS|col=3|type=Ground|ndex=330|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Ground|ndex=330|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Ground|ndex=330
+|body=1
+|rate=Evolve
+|area=Furnace Desert
+|P1=If the going gets too rough, I duck and hide in a sandstorm!
+|P2=Oops, they've taken my HP down by half already...
+|P3=This won't do... I don't have the energy to flap my wings...
+|PL=Yes! Leveled up! Desert sandstorms will help me!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ground|ndex=330
+|body=1
+|rate=-12
+|IQ=D
+}}
+|-
+{{Spindata/Ranger|col=6|type=Ground
+|group=Dragon
+|assist=Ground
+|fieldpower=3
+|field=Gust
+|loop=6
+|browser=Flygon flies almost faster than the eye can follow. It whips up gust of wind.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ground
+|group=Dragon
+|assist=Dragon
+|field=Cut
+|fieldpower=4
+|browser=It flies around while letting loose {{m|supersonic}} waves and shock waves.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Ground
+|att=3
+|def=3
+|speed=4
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Ground|ndex=330
+|Pad=Flygon guards the Gate in the [[Granite Zone]]. Have you learned the Secret Words that open it? My, my, can that Flygon fly high in {{DL|Attractions|Salamence's Air Ace}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ground|ndex=330
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=330|num=527
+|min=70
+|max=116
+|raisemaxlevel=7
+|skill=Rock Break+
+|skilldesc=Sometimes destroys three breakable-rock disruptions.
+|swapper=Shot Out
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=330
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=160
+|attack=205
+|defense=168
+|fast={{m|Mud Shot}}, {{m|Dragon Tail}}
+|special={{m|Earthquake}}, {{m|Dragon Claw}}, {{m|Stone Edge}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Ground
+|type2=Dragon
+|pictype=art
+|no1=328
+|name1=Trapinch
+|type1-1=Ground
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 35}}
+|no2=329
+|name2=Vibrava
+|type1-2=Ground
+|type2-2=Dragon
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 45}}
+|no3=330
+|name3=Flygon
+|type1-3=Ground
+|type2-3=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground|type2=Dragon}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=330}}
+{{Spritebox/4|ndex=330}}
+{{Spritebox/5|ndex=330}}
+{{Spritebox/6|ndex=330}}
+{{Spritebox/7|ndex=330}}
+{{Spritebox/Footer|330|Flygon}}
+
+====Other sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{dragon color dark}}; background: #{{ground color}};"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{dragon color dark}}; background: #{{ground color light}}; width:160px"| [[File:Spr 3e Flygon intro.png]]
+|-
+| Emerald intro's sprite
+|}
+
+==Trivia==
+* Flygon shares its {{pkmn|category|categories}} with {{p|Xatu}}. They are both known as the Mystic Pokémon in English, and the Spirit Pokémon in Japanese.
+* Flygon has the same base {{stat|Attack}} stat as its base form, {{p|Trapinch}}.
+* All of Vibrava's [[base stats]] go up by exactly 30 points when it evolves into Flygon.
+* Flygon's [[Effort values|effort value]] [[List of Pokémon by effort value yield|yield]] of 1 Attack and 2 Speed is unique.
+* According to [[Ken Sugimori]] in his interview in the Nintendo Dream magazine, Flygon was intended to get a [[Mega Evolution]] in [[Pokémon X and Y]], but the idea was later dropped due to him experiencing an artist's block.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Trapinch, Vibrava and Flygon}}
+Flygon is based on the winged, adult stage of the {{wp|antlion}}, which highly resembles a dragonfly. Often the adult antlion and dragonfly are confused with one another, and Flygon could draw inspiration from both. In fact, some species of dragonflies are commonly called "sand dragons", which could account for Vibrava and Flygon's type combination. In keeping with its Dragon type, it also possesses a dragon-like build and reptilian features such as its arms and tail.
+
+====Name origin====
+Flygon is a combination of ''fly'' and ''dragon''. It may also be a partial anagram of ''{{wp|dragonfly}}''.
+
+==In other languages==
+{{Other languages|type=Ground|type2=Dragon
+|ja=フライゴン ''Flygon''|jameaning=From ''fly'', ''dragon'', and ''dragonfly''
+|fr=Libégon|frmeaning=From ''{{tt|libellule|dragonfly}}'' and ''dragon''
+|es=Flygon|esmeaning=Same as English name
+|de=Libelldra|demeaning=From ''{{tt|Libelle|dragonfly}}'' and ''{{tt|Drache|dragon}}''
+|it=Flygon|itmeaning=Same as English name
+|ko=플라이곤 ''Flygon''|komeaning=Transliteration of the Japanese name
+|zh_cmn=沙漠蜻蜓 ''Shāmòqīngtíng''|zh_cmnmeaning=Literally "Desert dragonfly"
+|hi=फ्लाईगॉन ''Flygon''|himeaning=Transliteration of English name
+}}
+{{left clear}}
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ground|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=329|prev=Vibrava|nextnum=331|next=Cacnea}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Libelldra]]
+[[fr:Libégon]]
+[[it:Flygon]]
+[[ja:フライゴン]]
+[[pl:Flygon]]
+[[zh:沙漠蜻蜓]]

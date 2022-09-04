@@ -1,0 +1,392 @@
+{{PokémonPrevNext/Head|type=Ghost|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=608|prev=Lampent|nextnum=610|next=Axew}}
+|}
+{{Pokémon Infobox
+|name=Chandelure
+|jname=シャンデラ
+|jtranslit=Shandera
+|tmname=Chandela
+|category=Luring
+|typebox=1
+|type1=Ghost
+|type2=Fire
+|abilityn=d
+|ability1=Flash Fire
+|ability2=Flame Body
+|abilityd=Infiltrator
+|abilityold=Shadow Tag
+|abilityoldcaption=Hidden Ability Gen. V{{tt|*|Chandelure with this Ability was never made available legitimately.}}
+|ndex=609
+|udex=115
+|u2dex=192
+|karea=Mountain
+|kdex=067
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=75.6
+|weight-kg=34.3
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=20
+|expyield=234
+|lv100exp=1,059,860
+|evtotal=3
+|evsa=3
+|gendercode=127
+|color=Black
+|catchrate=45
+|body=04
+|pokefordex=chandelure
+|generation=5
+|friendship=70
+}}
+'''Chandelure''' ([[List of Japanese Pokémon names|Japanese]]: '''シャンデラ''' ''Chandela'') is a dual-type {{2t|Ghost|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Lampent}} when exposed to a [[Dusk Stone]]. It is the final form of {{p|Litwick}}.
+
+==Biology==
+Chandelure is a Pokémon that resembles a sentient chandelier. It has a striped, round head, and round, pupil-less yellow eyes. There is a ring of small, black spikes on top of its head with a tall, purple flame in the middle. From a black spike below its head, black arms curl upward. These arms are tipped with purple fire. Chandelure's fires do not burn its victims physically, instead burning their spirit. After hypnotizing its opponent by waving these flames, it absorbs the victim's spirit.
+
+==In the anime==
+[[File:Ingo Chandelure.png|250px|thumb|left|Chandelure in the {{pkmn|anime}}]]
+===Major appearances===
+Chandelure debuted in ''[[BW048|Battle for the Underground!]]'' under {{FB|Subway Boss|Ingo}}'s ownership. It helped {{Ash}}, {{an|Iris}}, and {{an|Cilan}} rescue their Pokémon from {{TRT}}. The same Chandelure reappeared in ''[[BW051|Lost at the Stamp Rally!]]'' in a [[Multi Battle|Tag Battle]] with {{FB|Subway Boss|Emmet}}'s {{p|Eelektross}} against Ash and Cilan; they battled and defeated {{AP|Tepig}} and {{TP|Cilan|Pansage}}.
+
+A Chandelure appeared in ''[[BW069|Climbing the Tower of Success!]]'', where it attacked Iris during the [[Wishing Bell Festival]] contest and managed to confuse her with {{m|Confuse Ray}}, making her lose the contest.
+
+===Minor appearances===
+[[Ramone]] owns a Chandelure, which appeared in ''[[BW108|A Unova League Evolution!]]'' after he won his [[Full Battle]] against [[Antonio]].
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW048|Chandelure|Ash's Pokédex|Chandelure, the Luring Pokémon and the evolved form of Lampent. Chandelure uses its dancing flames to hypnotize opponents.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Shauntal Chandelure Adventures.png|thumb|Chandelure in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PS511|Homecoming]]'', [[Shauntal]] uses a Chandelure to face one of the [[Forces of Nature]] that were under [[Colress]]' command.
+
+==In the TCG==
+{{main|Chandelure (TCG)}}
+
+==Other appearances==
+[[File:Pokkén Chandelure.png|220px|thumb|Chandelure in [[Pokkén Tournament]]]]
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Nintendo 3DS]]===
+Chandelure appears in the 3DS version as an enemy in Smash Run mode. It will use {{m|Will-O-Wisp}} and {{m|Fire Spin}} to attack. It absorbs {{sbw|fire}}- and {{sbw|darkness}}-based attacks and items to power itself up.
+
+====Trophy information====
+'''NA''': ''A Ghost/Fire-type Pokémon that burns its opponents' spirits instead of their bodies. When it attacks, it does so in bursts of three, using moves like Will-O-Wisp and Fire Spin. Try not to use fire-based attacks or items on it, as it will {{a|Flash Fire|only absorb them and use them to strengthen itself}}. ''
+
+'''PAL''': ''A Ghost- and Fire-type Pokémon that doesn't burn its opponents' bodies, but their spirits. When it attacks, it does so in bursts of three, using moves like Will-O-Wisp and Fire Spin. Try not to use fire-based attacks or items on it, as it will only absorb them and use them to strengthen itself. ''
+
+===[[Pokkén Tournament]]===
+Chandelure is a Power-type playable character in Pokkén. Much like in the mainline games, it attacks with a variety of projectiles and long-ranged attacks, as well as a variety of debuffing effects. Moves it can use include {{m|Will-O-Wisp}}, {{m|Smog}}, {{m|Flame Burst}}, {{m|Incinerate}}, {{m|Minimize}}, {{m|Overheat}}, and {{m|Hex}}. Upon entering Burst form, it can use the Burst Attack Final Flicker.
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ghost|type2=Fire}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.}}
+{{Dex/Entry1|v=White|entry=Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The spirits burned up in its ominous flame lose their way and wander this world forever.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.}}
+{{Dex/Entry1|v=Y|entry=The spirits burned up in its ominous flame lose their way and wander this world forever.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The spirits burned up in its ominous flame lose their way and wander this world forever.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ghost|type2=Fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Lampent}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Lampent}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Lampent}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Lampent}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Lampent}}}}
+|}
+|}
+{{Availability/Footer}}
+
+[[File:PP2 Chandelure.png|thumb|right|200px|Chandelure in [[PokéPark 2: Wonders Beyond]]]]
+
+====In side games====
+{{Availability/Header|type=Ghost|type2=Fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Hauntyard: [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Wish Park]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Lampent}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Mountain Pass]] (5F), [[Inflora Forest]] (Mapless Street), [[Breezy Meadow]] (1F-8F), [[Great Glacier]] (1F-14F), [[Rusty Mountain]] (1F-24F), [[Jaws of the Abyss]] (B1-B28), [[Smoking Mountain]] (1F-24F), [[Cape at the Edge]] (B1-B29), [[Strongest Trail]] (B1-B59), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Wonder Area#Haunted Playland|Wonder Area: Haunted Playland]] <small>(Boss)</small>, [[Toy Collection#The Sword for Justice|Toy Collection: The Sword for Justice]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 3|Pitch-Black Cavern: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Castle Noapte|Castle Noapte: Stage 134]]<br>[[Nacht Carnival|Nacht Carnival: Stage 547]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Chilling Graveyard|Dark Land: Chilling Graveyard]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 29|Area 29: Stage 05]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Ghost|type2=Fire}}
+{{eventAvail|{{gameabbrev5|BW}}|Powerful Tag Chandelure|Japanese|Japan|50|May 7 to 31, 2012|link=List of local Japanese event Pokémon distributions in Generation V#Chandelure}}
+|}
+
+===Held items===
+{{HeldItems|type=Ghost|type2=Fire
+|event1=Pecha Berry|event1type=Berry|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{Base Stats
+|type=Ghost
+|type2=Fire
+|HP=60
+|Attack=55
+|Defense=90
+|SpAtk=145
+|SpDef=90
+|Speed=80}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|type2=Fire
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=50
+|Ground=200
+|Rock=200
+|Bug=25
+|Ghost=200
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=200
+|Fairy=50
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+|flashfire=maybe}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Chandelure|Ghost|Fire|5}}
+{{learnlist/level7|1|Pain Split|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Smog|Poison|Special|30|70|20}}
+{{learnlist/level7|1|Confuse Ray|Ghost|Status|&mdash;|100|10}}
+{{learnlist/level7|1|Flame Burst|Fire|Special|70|100|15||'''}}
+{{learnlist/level7|1|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/levelf/7|Chandelure|Ghost|Fire|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Chandelure|Ghost|Fire|5}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Chandelure|Ghost|Fire|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Chandelure|Ghost|Fire|5}}
+{{learnlist/breed7|{{MSP|603|Eelektrik}}{{MSP|604|Eelektross}}|Acid|Poison|Special|40|100|30}}
+{{learnlist/breed7|{{MSP|088|Grimer}}{{MSP|088A|Grimer}}{{MSP|089|Muk}}{{MSP|089A|Muk}}|Acid Armor|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|282|Gardevoir}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|109|Koffing}}{{MSP|110|Weezing}}{{MSP|218|Slugma}}{{MSP|219|Magcargo}}|Clear Smog|Poison|Special|50|&mdash;|15}}
+{{learnlist/breed7|{{MSP|618|Stunfisk}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|109|Koffing}}{{MSP|110|Weezing}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|218|Slugma}}{{MSP|219|Magcargo}}{{MSP|607|Litwick}}{{MSP|608|Lampent}}{{MSP|609|Chandelure}}|Heat Wave|Fire|Special|95|90|10|‡|'''}}
+{{learnlist/breed7|{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Power Split|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Chandelure|Ghost|Fire|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Chandelure|Ghost|Fire|5}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Chandelure|Ghost|Fire|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Chandelure|Ghost|Fire|5}}
+{{learnlist/prevo7|607|Litwick||608|Lampent||Ember|Fire|Special|40|100|25|'''}}
+{{learnlist/prevo7|607|Litwick||608|Lampent||Astonish|Ghost|Physical|30|100|15|'''}}
+{{learnlist/prevo7|607|Litwick||608|Lampent||Minimize|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/prevo7|607|Litwick||608|Lampent||Fire Spin|Fire|Special|35|85|15|'''}}
+{{learnlist/prevo7|607|Litwick||608|Lampent||Night Shade|Ghost|Special|&mdash;|100|15}}
+{{learnlist/prevo7|607|Litwick||608|Lampent||Imprison|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/prevo7|607|Litwick||608|Lampent||Memento|Dark|Status|&mdash;|100|10}}
+{{learnlist/prevo7|607|Litwick||608|Lampent||Inferno|Fire|Special|100|50|5|'''}}
+{{learnlist/prevo7|607|Litwick||608|Lampent||Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/prevof/7|Chandelure|Ghost|Fire|5}}
+
+===Side game data===
+{{Spindata/Head|type=Ghost|type2=Fire}}
+{{Spindata/RumbleBlast|col=6|type=Ghost
+|att=5
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Ghost|ndex=609
+|strong=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]]
+|weak=[[File:Snivy icon.png|link=Snivy (Pokémon)]][[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=Very sad about parting with a dear friend, he started to like glittering things to distract himself. He is quite single minded.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Ghost|ndex=609
+|HP=2
+|atk=5
+|def=4
+|spd=3
+|range=3
+|move=Fire Spin
+|ability1=Flame Body
+|ability2=Flash Fire
+|ability3=Warm Blanket
+|evo=Evolves from {{p|Lampent}} when its [[link]] is improved while its [[Warrior]] is equipped with a [[Dusk Stone]]
+|link='''[[Kanbei]]''', {{DL|List of Pokémon Conquest characters|Maa}}, {{DL|List of Pokémon Conquest characters|Masanobu}}, and {{DL|List of Pokémon Conquest characters|Takatora}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ghost|ndex=609
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Ghost|ndex=609|num=67
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Power of 4+
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Ghost
+|type2=Fire
+|no1=607
+|name1=Litwick
+|type1-1=Ghost
+|type2-1=Fire
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 41}}
+|no2=608
+|name2=Lampent
+|type1-2=Ghost
+|type2-2=Fire
+|evo2={{bag|Dusk Stone}}<br>{{color2|000|Dusk Stone}}
+|no3=609
+|name3=Chandelure
+|type1-3=Ghost
+|type2-3=Fire}}
+
+===Sprites===
+{{Spritebox/Header|type=Ghost|type2=Fire}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=609}}
+{{Spritebox/6|ndex=609}}
+{{Spritebox/7|ndex=609}}
+{{Spritebox/Footer|609|Chandelure}}
+
+==Trivia==
+===Origin===
+Chandelure is based on a {{wp|hitodama}} (a blue, black, or purple-fire associated with ghosts and {{wp|yōkai}}, equivalent to the western {{wp|will-o'-the-wisp}}) and a {{wp|chandelier}}.
+
+====Name origin====
+Chandelure may be a combination of ''chandelier'' and ''lure'' or ''allure''.
+
+Chandela is a corruption of ''chandelier'' and may be a combination of ''chandelier'' and ''candela'' (Latin for ''candle'').
+
+==In other languages==
+{{Other languages|type=Ghost|type2=Fire
+|ja=シャンデラ ''Chandela''|jameaning=From ''chandelier'' and possibly ''{{tt|candela|Latin for candle}}'' or ''{{wp|candelabra}}
+|fr=Lugulabre|frmeaning=From ''{{tt|lugubre|gloomy}}'' and ''{{tt|candélabre|candelabrum}}''
+|es=Chandelure|esmeaning=Same as English name
+|de=Skelabra|demeaning=From ''{{tt|Skelett|skeleton}}'' and ''candelabra''
+|it=Chandelure|itmeaning=Same as English name
+|ko=샹델라 ''Chandela''|komeaning=Transliteration of Japanese name
+|zh_cmn=水晶燈火靈 / 水晶灯火灵 ''Shuǐjīngdēnghuǒlíng''|zh_cmnmeaning=From {{tt|水晶燈 / 水晶灯 ''shuǐjīngdēng''|crystal chandelier}}, {{tt|燈火 / 灯火 ''dēnghuǒ''|lights}}, {{tt|火 ''huǒ''|fire}}, and {{tt|靈 / 灵 ''líng''|spirit}}
+|zh_yue=水晶燈火靈 ''Séuijīngdāngfólìhng''|zh_yuemeaning=From {{tt|水晶燈 ''séuijīngdāng''|crystal chandelier}}, {{tt|燈火 ''dāngfó''|lights}}, {{tt|火 ''fó''|fire}}, and {{tt|靈 ''lìhng''|spirit}}
+|ru=Шанделюр ''Shandelyur''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ghost|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=608|prev=Lampent|nextnum=610|next=Axew}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Skelabra]]
+[[fr:Lugulabre]]
+[[it:Chandelure]]
+[[ja:シャンデラ]]
+[[pl:Chandelure]]
+[[zh:水晶灯火灵]]

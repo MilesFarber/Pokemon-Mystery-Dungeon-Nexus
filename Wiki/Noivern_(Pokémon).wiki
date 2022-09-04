@@ -1,0 +1,365 @@
+{{PokémonPrevNext/Head|type=Flying|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Flying|prevnum=714|prev=Noibat|nextnum=716|next=Xerneas|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Noivern}}
+|}
+{{Pokémon Infobox
+|name=Noivern
+|jname=オンバーン
+|jtranslit=Onbān
+|tmname=Onvern
+|category=Sound Wave
+|typebox=1
+|type1=Flying
+|type2=Dragon
+|abilityn=d
+|ability1=Frisk
+|ability2=Infiltrator
+|abilityd=Telepathy
+|ndex=715
+|karea=Mountain
+|kdex=114
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=187.4	
+|weight-kg=85.0
+|egggroupn=1
+|egggroup1=Flying
+|gendercode=127
+|eggcycles=20
+|evtotal=2
+|evsp=2
+|expyield=187
+|lv100exp=1,000,000
+|color=Purple
+|catchrate=45
+|body=09
+|pokefordex=noivern
+|generation=6
+|friendship=70
+}}
+'''Noivern''' ([[List of Japanese Pokémon names|Japanese]]: '''オンバーン''' ''Onvern'') is a dual-type {{2t|Flying|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[evolution|evolves]] from {{p|Noibat}} starting at [[level]] 48.
+
+==Biology==
+Noivern is a large bat-like Pokémon with enormous ears suited for precise hearing. It has a mane of white fur sprouting around its neck and upper back. Noivern has two black wings lined with a dusky purple and has maroon grasping claws. A teal membrane fans between its ribcage and wings. When its mouth is open, two pointed teeth can be seen on its lower jaw.
+
+From its ears, Noivern releases ultrasonic waves, which can be strong enough to shatter a large boulder. It uses these waves to freely {{wp|animal echolocation|navigate}} through darkness, allowing it to easily ambush prey under cover of night. Noivern is known to be extremely combative toward anything that wanders too close to it. It loves eating fruit; thus, approaching it with fruit helps to keep it calm.<ref>http://www.pokemonxy.com/en-us/pokemon/other_pokemon/#Noivern</ref>
+
+==In the anime==
+===In the main series===
+[[File:Ash Noivern.png|left|thumb|250px|Noivern in the {{pkmn|anime}}]]
+====Major appearances====
+=====[[Ash's Noivern]]=====
+Ash's Noibat evolved into a Noivern while saving {{AP|Hawlucha}} and battling {{p|Zapdos}} in ''[[XY110|An Electrifying Rage!]]''.
+
+=====Other=====
+Noivern debuted in ''[[BW137|Celebrating the Hero's Comet!]]'', under the ownership of [[Alexa]]. Alexa's Noivern reappeared in ''[[BW142|The Dream Continues!]]'', where it gave {{an|Professor Oak}} a chance to examine Noivern; and in ''[[XY005|A Blustery Santalune Gym Battle!]]'' and ''[[XY006|Battling on Thin Ice!]]'', where it helped prepare [[Ash's Pikachu]] and {{AP|Fletchling}} prepare for their rematch against [[Viola]].
+
+====Minor appearances====
+A Noivern appeared in ''[[XY019|A Conspiracy to Conquer!]]'', in which it was being controlled by an evil, psychopathic {{DL|Recurring wild Pokémon in the anime|Malamar}}.
+
+A Noivern appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Noivern appeared in the Hoopa's Surprise Ring Adventures short ''{{DL|Hoopa's Surprise Ring Adventures|Wake Up}}'', and two others appeared in the short ''{{DL|Hoopa's Surprise Ring Adventures|In the Dark}}''.
+
+An image of a Noivern appeared on [[James]]'s computer in ''[[XY076|A Not-So-Flying Start!]]'', when they found out what Noibat would evolve into.
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY110|Noivern|Ash's Pokédex|Noivern, the Sound Wave Pokémon. The ultrasonic waves Noivern releases from its ears are powerful enough to crush a boulder.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+[[File:Noivern PG.png|thumb|250px|Noivern in [[Pokémon Generations]]]]
+
+===In Pokémon Generations===
+A wild Noivern appeared inside [[Terminus Cave]] in ''[[PG01|The Adventure]]'', attacking {{ga|Red}} and his {{ga|Red's Pikachu|Pikachu}}.
+
+A Noivern appeared during a flashback in ''[[PG18|The Redemption]]'' as one of the many Pokémon fighting in the great war of [[Kalos]], 3,000 years previously.
+{{-}}
+
+==In the manga==
+[[File:Aster Noivern Adventures.png|thumb|150px|Noivern in [[Pokémon Adventures]]]]
+===In the [[Pokémon Adventures]] manga===
+In a flashback shown in ''[[PAXY01|An X-cuse to Come Out and Play]]'', a young {{adv|X}} defeated his opponent's Noivern using his [[Kanga and Li'l Kanga]] in order to win the Kalos Junior Tournament.
+
+In ''[[PAORAS04|Omega Alpha Adventure 4]]'', a Noivern was silhouetted in {{Steven}}'s explanation about the [[Draconid people]].
+
+A Noivern appeared in [[PAORAS19]]. While it was used by [[Zinnia]], its true owner was the deceased Draconid Lorekeeper [[Aster]].
+{{-}}
+
+==In the TCG==
+{{main|Noivern (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=flying|type2=dragon}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.}}
+{{Dex/Entry1|v=Y|entry=The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=Although it has a violent disposition, if you give it a nice ripe fruit that it loves, Noivern will suddenly become tame.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This hot-blooded Pokémon attacks anything it sees with ultrasonic waves that can crush boulders.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=flying|type2=dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Noibat}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Resolution Cave]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Flying|type2=Dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 4|Mountain of Order: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#High-Speed Challenge|Noivern Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Surveillance Dunes|Starlight Islands: Surveillance Dunes]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 08|Area 08: Stage 04]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Base Stats
+|type=Flying
+|type2=Dragon
+|HP=85
+|Attack=70
+|Defense=80
+|SpAtk=97
+|SpDef=80
+|Speed=123}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Flying
+|type2=Dragon
+|Normal=  100
+|Flying=  100
+|Fighting= 50
+|Ground=    0
+|Rock=    200
+|Bug=      50
+|Poison=  100
+|Ghost=   100
+|Steel=   100
+|Fire=     50
+|Water=    50
+|Grass=    25
+|Electric=100
+|Psychic= 100
+|Ice=     400
+|Dragon=  200
+|Dark=    100
+|Fairy=   200
+|notes=yes
+|flying=yes
+|newground=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Noivern|Flying|Dragon|6}}
+{{learnlist/level7|1|Boomburst|Normal|Special|140|100|10}}
+{{learnlist/level7|1|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level7|1|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/level7|1|Moonlight|Fairy|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|1|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|1|Supersonic|Normal|Status|&mdash;|55|20}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level7|5|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level7|11|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level7|13|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|16|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/level7|18|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|23|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/level7|27|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|31|Razor Wind|Normal|Special|80|100|10}}
+{{learnlist/level7|35|Tailwind|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|40|Whirlwind|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|43|Super Fang|Normal|Physical|&mdash;|90|10}}
+{{learnlist/level7|53|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|62|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/level7|70|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level7|75|Boomburst|Normal|Special|140|100|10}}
+{{learnlist/levelf/7|Noivern|Flying|Dragon|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Noivern|Flying|Dragon|6}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM28|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Noivern|Flying|Dragon|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Noivern|Flying|Dragon|6}}
+{{learnlist/breed7|{{MSP|333|Swablu}}{{MSP|334|Altaria}}{{MSP|567|Archeops}}{{MSP|714|Noibat}}{{MSP|715|Noivern}}|Outrage|Dragon|Physical|120|100|10|‡|'''}}
+{{learnlist/breed7|{{MSP|041|Zubat}}{{MSP|042|Golbat}}{{MSP|169|Crobat}}{{MSP|198|Murkrow}}{{MSP|430|Honchkrow}}{{MSP|661|Fletchling}}<br>{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}{{MSP|714|Noibat}}{{MSP|715|Noivern}}|Snatch|Dark|Status|&mdash;|&mdash;|10|‡}}
+{{learnlist/breed7|{{MSP|566|Archen}}|Switcheroo|Dark|Status|&mdash;|100|10|*}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|178|Xatu}}{{MSP|198|Murkrow}}{{MSP|279|Pelipper}}<br>{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|561|Sigilyph}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}<br>{{MSP|627|Rufflet}}{{MSP|628|Braviary}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}{{MSP|714|Noibat}}<br>{{MSP|715|Noivern}}|Tailwind|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/breedf/7|Noivern|Flying|Dragon|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Noivern|Flying|Dragon|6}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Noivern|Flying|Dragon|6}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Noivern|Flying|Dragon|6}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Noivern|Flying|Dragon|6}}
+
+===Side game data===
+{{Spindata/Head|type=Flying|type2=Dragon}}
+{{Spindata/Battle Trozei|col=6|type=Flying|ndex=715
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Flying|ndex=715|num=488
+|min=70
+|max=125
+|raisemaxlevel=10
+|skill=Cloud Clear++
+|skilldesc=Sometimes clears away five black-cloud disruptions.
+|swapper=Shot Out
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|pictype=art
+|type1=Flying
+|type2=Dragon
+|no1=714
+|name1=Noibat
+|type1-1=Flying
+|type2-1=Dragon
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 48}}
+|no2=715
+|name2=Noivern
+|type1-2=Flying
+|type2-2=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=flying|type2=dragon}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=715}}
+{{Spritebox/7|ndex=715}}
+{{Spritebox/Footer|715|Noivern}}
+
+==Trivia==
+* Noivern and its pre-evolution, {{p|Noibat}}, are the only dual {{type|Flying}} Pokémon to have Flying as their primary type.
+* Noivern can be seen as a parallel to {{p|Crobat}}. Both are {{type|Flying}} Pokémon based on bats that have {{a|Infiltrator}} as a possible Ability. They have the same base stat total and the same base HP, Defense, and Special Defense.
+
+===Origin===
+Noivern seems to be based on a combination of {{wp|wyvern}}, a {{wp|Pteropus|fruit bat}} or a {{wp|Phyllostomidae|leaf-nosed bat}}, and {{wp|loudspeaker}} or {{wp|tweeter}}. Inspiration for its design may also have been drawn from gargoyles.
+
+====Name origin====
+Noivern may be a combination of ''noise'' and ''{{wp|wyvern}}''.
+
+Onvern may be a combination of 音 ''on'' (sound), 音波 ''onpa'' (sound wave), and ワイバーン ''wyvern''.
+
+==In other languages==
+{{Other languages|type=Flying|type2=Dragon
+|ja=オンバーン ''Onvern''|jameaning=From {{tt|音 ''on''|sound}}, {{tt|音波 ''onpa''|sound wave}}, and ''wyvern''
+|fr=Bruyverne |frmeaning=From ''{{tt|bruit|noise}}'' and ''{{tt|wyverne|wyvern}}
+|es=Noivern |esmeaning=Same as English name
+|de=UHaFnir |demeaning=From ''{{wp|UHF}}'' and ''{{wp|Fafnir}}
+|it=Noivern |itmeaning=Same as English name
+|ko=음번 ''Eumbeon''|komeaning=From {{tt|음 (音) ''eum''|sound}} and ''wyvern''
+|zh_yue=音波飛龍 ''Yāmbōfēilùhng''|zh_yuemeaning=From {{tt|音波 ''yāmbō''|sound wave}} and {{tt|飛龍 ''fēilùhng''|wyvern}}
+|zh_cmn=音波龍 ''Yīnbōlóng ''|zh_cmnmeaning=From {{tt|音波 ''yīnbō ''|sound wave}} and {{tt|龍 ''lóng ''|dragon}}
+|hi=नोईवेर्न ''Noivern''|himeaning=Transcription of English name
+|ru=Нойверн ''Noyvern''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Notes==
+<references />
+
+==Related articles==
+* [[Ash's Noivern]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Flying|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Flying|prevnum=714|prev=Noibat|nextnum=716|next=Xerneas}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appeared in the anime before their game debut]]
+
+[[de:UHaFnir]]
+[[fr:Bruyverne]]
+[[it:Noivern]]
+[[ja:オンバーン]]
+[[pl:Noivern]]
+[[zh:音波龙]]

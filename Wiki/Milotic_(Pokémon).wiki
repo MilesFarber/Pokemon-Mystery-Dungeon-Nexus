@@ -1,0 +1,496 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Milotic}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=349|prev=Feebas|nextnum=351|next=Castform|round=none}}
+{{PokémonPrevNext/Disambig|species=Milotic}}
+|}
+{{Pokémon Infobox
+|name=Milotic
+|jname=ミロカロス
+|jtranslit=Mirokarosu
+|tmname=Milokaross
+|ndex=350
+|hdex=141
+|hdex6=146
+|sdex=139
+|adex=156
+|type1=Water
+|category=Tender
+|height-ftin=20'04"
+|height-m=6.2
+|weight-lbs=357.1
+|weight-kg=162.0
+|ability1=Marvel Scale
+|ability2=Competitive
+|abilityd=Cute Charm
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Dragon
+|eggcycles=20
+|evtotal=2
+|evsd=2
+|expyield=189
+|oldexp=213
+|lv100exp=600,000
+|gendercode=127
+|color=Pink
+|catchrate=60
+|body=02
+|pokefordex=milotic
+|generation=3
+|friendship=70
+}}
+'''Milotic''' ([[List of Japanese Pokémon names|Japanese]]: '''ミロカロス''' ''Milokaross'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Feebas}} when [[level]]ed up with its {{OBP|Beauty|condition}} condition high enough or when [[trade]]d holding a [[Prism Scale]] ([[Generation V]] onwards).
+
+==Biology==
+[[File:Palmer Milotic floating.png|left|thumb|Milotic floating]]
+Milotic is an aquatic, serpentine Pokémon with a primarily cream-colored body. It has red eyes with long, pinkish antennae above them. Additionally, there are long, hair-like fins above its eyes, which begin thin and thicken towards the tips. These eyebrows extend to almost half of Milotic's body length, and will be longer on the female than the male. On top of its relatively small head is a straight spike. Running down either side of its neck are three black dots, similar to gills. Its lower body is a patterning of blue and pink, diamond-shaped scales outlined with black. The tail consists of four large, blue fins with pink ovals in their centers. Each of the tail fins overlaps the next slightly, causing it to resemble a fan. While it has not been depicted, Milotic's scales are said to change color depending on the viewing angle.
+
+Milotic is said to be the most beautiful of all Pokémon. When there are fights going on, it has the power to calm angry feelings and end arguments by releasing a wave of energy. In addition, it can move by floating in the air as shown [[M12|in the anime]]. It lives at the bottom of {{DL|List of Pokémon by habitat|Water's-edge Pokémon|large lakes.}}
+
+==In the anime==
+[[File:Milotic anime.png|thumb|left|250px|Milotic in the {{pkmn|anime}}]]
+===Major appearances===
+Milotic debuted in ''[[AG035|Win, Lose or Drew!]]'', under the ownership of {{ho|Robert}}. Robert used Milotic again for the [[Hoenn Grand Festival]].
+
+[[Juan]]'s Milotic debuted in ''[[AG110|The Great Eight Fate!]]''. Juan used it against {{Ash}} for the Gym battle in [[AG111|the following episode]], being his strongest and last Pokémon. Milotic was able to defeat {{AP|Swellow}} before losing to {{AP|Pikachu}}.
+
+[[Pike Queen Lucy]] used a Miloti} in her battle against Ash in ''[[AG158|Queen of the Serpentine]]''. It defeated {{AP|Donphan}} before losing to {{AP|Pikachu}}.
+
+[[File:Sugimori Milotic AG.png|thumb|250px|[[Ken Sugimori|Sugimori]] reference sheet for the anime]]
+In ''[[DP043|Malice in Wonderland!]]'', a Feebas owned by [[Johanna]] evolved into a Milotic, though it was only an illusion created by {{p|Mismagius}}.
+
+A Milotic appeared in ''[[DP075|Our Cup Runneth Over!]]'', under the ownership of [[Wallace]]. It was his main Contest Pokémon.
+
+===Minor appearances===
+A Milotic appeared in the [[boss fantasy]] of ''[[DP092|A Lean Mean Team Rocket Machine!]]''.
+
+A Milotic appeared in the opening sequence of ''[[M12|Arceus and the Jewel of Life]]'', under the ownership of [[Tower Tycoon Palmer]]. It was used during his battle against [[Cynthia]] and her {{TP|Cynthia|Garchomp}}.
+
+A Milotic appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+A {{pkmn2|wild}} Milotic appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+A Milotic appeared in ''[[SM005|Yo, Ho, Ho! Go, Popplio!]]''. {{an|Lillie}} hooked it whilst fishing and struggled to reel it in. Ash jumped across to help, only for Milotic to jump out of the sea and hit him, sending him flying into the ocean.
+
+A Milotic appeared on television in ''[[SM048|Night of a Thousand Poses!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG035|Milotic|Ash's Pokédex|Milotic, the Tender Pokémon. Milotic is able to soften human anger and hatred by emitting soothing frequencies from its body.}}
+{{Animedexbody|AG079|Milotic|Magikarp salesman's laptop|This Tender Pokémon, called a Milotic, is the evolved form of {{p|Feebas}}. It is said to be the most beautiful of all Pokémon and is quite skilled in {{pkmn|battle}}.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP075|Milotic|Dawn's Pokédex|Milotic, the Tender Pokémon and the evolved form of {{p|Feebas}}. At the first sign of fighting, Milotic will come up from the bottom of its lake habitat to calm any angry feelings.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Feefee.png|thumb|Milotic in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Feefee}}
+{{adv|Ruby}}'s Feebas evolved into Milotic in ''[[PS266|It All Ends Now VII]]'', after Ruby declared that it had inner beauty.
+
+In ''[[PS309|Moving Past Milotic]]'', {{adv|Emerald}} encountered a wild Milotic in the 21st room of the [[Battle Pike]] but he simply [[Escape|ran away from it]] due to the fact that it was a [[wild Pokémon]]. [[Pike Queen Lucy]] sends out her Milotic against Emerald's {{p|Starmie}} later in the chapter.
+
+[[Cynthia]] has a Milotic that was first used against [[Cyrus]] in the [[Team Galactic HQ]]. It first appeared in ''[[PS409|Shunning Spiritomb]]''.
+
+A Milotic appeared in a flashback as a Pokémon trained by the [[International Police]] in ''[[PS528|Innocent Scientist]]''.
+
+[[Lusamine]]'s Milotic first appeared in [[PASM13]].
+
+===In the Pokémon Battle Frontier manga===
+{{OBP|Enta|CBF}}'s Feebas evolved into Milotic after his battle with [[Dome Ace Tucker]].
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+[[Mitsumi]]'s Milotic was first seen in ''[[DPA13|The Battle Rages On]]'', battling [[Jupiter]] in [[Lake Acuity]].
+
+==In the TCG==
+{{main|Milotic (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Nintendo 3DS]]===
+A female Milotic can appear in the background of the {{st|Unova Pokémon League}} stage of the 3DS version. However, it does not interact with the stage like {{p|Reshiram}} or {{p|Zekrom}} would. {{p|Shaymin}} and {{p|Whimsicott}} might also appear.
+
+====Trophy information====
+'''NA:''' ''Have you ever noticed how anyone who's seen a Milotic just can't seem to describe how beautiful it is? Words just can't do it justice. Even that says a lot about its appearance, doesn't it? If you really wanted to compliment someone, you could say "You're looking Milotic this fine day!" ''
+
+'''PAL:''' ''Have you ever noticed how anyone who's seen a Milotic just can't seem to describe how beautiful it is? Maybe words can't do it justice. We'll have to add "Milotic" to the dictionary as a brand-new word. But then...how would you define it? Maybe you'd need an illustrated dictionary... ''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry= Milotic is said to be the most beautiful of all the Pokémon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry= Milotic live at the bottom of large lakes. When this Pokémon's body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to restless spirits.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry= It is said to live at the bottom of large lakes. Considered to be the most beautiful of all Pokémon, it has been depicted in paintings and statues.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=Milotic is breathtakingly beautiful. Those that see it are said to forget their combative spirits.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=When people bicker, it is said to arise from the depths of lakes to becalm violent hearts.}}
+{{Dex/Entry1|v=Pearl|entry=It is the world's most beautiful Pokémon. There are many works of art featuring Milotic.}}
+{{Dex/Entry1|v=Platinum|entry=Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It's said that a glimpse of a Milotic and its beauty will calm any hostile emotions you're feeling.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Milotic is breathtakingly beautiful. Those that see it are said to forget their combative spirits.}}
+{{Dex/Entry1|v=Y|entry=It is the world's most beautiful Pokémon. There are many works of art featuring Milotic.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Milotic is said to be the most beautiful of all the Pokémon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Milotic live at the bottom of large lakes. When this Pokémon’s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to troubled hearts.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=Sun|entry=Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.}}
+{{Dex/Entry1|v=Moon|entry=It lives at the bottom of clear lakes. In times of war, it shows itself, which soothes people's minds and hearts.}}
+{{Dex/Entry1|v=Ultra Sun|entry=While Milotic is said to be the most beautiful Pokémon, Trainers who like Feebas and have raised it are seemingly disappointed by Milotic.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its dwelling place is the bottom of big lakes. Those who behold its loveliness are said to have their hearts purified.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Feebas}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Feebas}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Feebas}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Feebas}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=Evolve [[Pokéwalker]] {{p|Feebas}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|1|Unova}} ([[fishing]] in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{rt|1|Unova}} ([[fishing]] in {{DL|Phenomenon|rippling water}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Feebas}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Feebas}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Feebas}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Feebas}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 71, Forever Level 21, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Feebas}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry2/None|v=MD Blazing|v2=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|t={{fire color dark}}|color2={{electric color}}|t2={{electric color dark}}|area={{DL|Pokémon Mystery Dungeon (WiiWare)|Wonder Mail codes}}}}
+<!--{{Availability/Entry1|v=MD Stormy|Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Slithering Trains|Vehicle Gallery: Slithering Trains]] <small>(Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Wednesday Stage 3|Safari Jungle: Stage 3]]{{dotw|We}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Wacky Workshop|Wacky Workshop: Stage 165]]<br>[[Zaffiro Coast|Zaffiro Coast: Stage 634]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ruby Volcano#Lake of Tranquility|Ruby Volcano: Lake of Tranquility]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 07|Area 07: Stage 03]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Water}}
+{{eventAvail|{{gameabbrev3|RS}}|Christmas Day Milotic|English|United States|35|December 25, 2003|link=List of PCNY event Pokémon distributions in Generation III#Milotic}}
+{{eventAvail|{{gameabbrev4|DP}}|Strongest Milotic|Japanese|Japan|50|December 15, 2007 to January 14, 2008|link=List of local Japanese event Pokémon distributions in Generation IV#Milotic}}
+{{eventAvail|{{gameabbrev4|Pt}}|2008 TCG World Championships Milotic|Japanese|Japan|50[[File:ShinyIVStar.png|Shiny|link=Shiny Pokémon]]|October 12, 2008 to January 25, 2009|link=List of local Japanese event Pokémon distributions in Generation IV#2008 TCG World Championships Milotic}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Video Game Championships 2009 Milotic|English|United States|50[[File:ShinyIVStar.png|Shiny|link=Shiny Pokémon]]|May 9 to June 13, 2009|link=List of local English event Pokémon distributions in Generation IV#US Video Game Championships 2009 Milotic}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Video Game Championships 2009 Milotic|English|United Kingdom|50[[File:ShinyIVStar.png|Shiny|link=Shiny Pokémon]]|May 30, 2009|link=List of local English event Pokémon distributions in Generation IV#UK Video Game Championships 2009 Milotic}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Video Game Championships 2009 Milotic|German|Germany|50[[File:ShinyIVStar.png|Shiny|link=Shiny Pokémon]]|June 13, 2009|link=List of local German event Pokémon distributions in Generation IV#Europe Video Game Championships 2009 Milotic}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Video Game Championships 2009 Milotic|French|France|50[[File:ShinyIVStar.png|Shiny|link=Shiny Pokémon]]|June 20, 2009|link=List of local French event Pokémon distributions in Generation IV#Europe Video Game Championships 2009 Milotic}}
+{{eventAvail|{{gameabbrev4|HGSS}}|Summer Festival Milotic|Korean|South Korea|50[[File:ShinyIVStar.png|Shiny|link=Shiny Pokémon]]|July 21 to 25, 2010|link=List of local Korean event Pokémon distributions in Generation IV#Summer Festival Milotic}}
+{{eventAvail|{{gameabbrev5|BW}}|JR Kyushu Train Station Milotic|Japanese|Japan|50|April 2 to 22, 2012|link=List of local Japanese event Pokémon distributions in Generation V#Milotic}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Game Show Wallace's Milotic|Japanese|Japan|58|August 17 to 18, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Wallace's Milotic}}
+|}
+
+===Held items===
+{{HeldItems|type=Water
+|event1=Flame Orb|event1type=None|event1rar=100
+|event2=Sitrus Berry|event2type=Berry|event2rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|HP=     95
+|Attack= 60
+|Defense=79
+|SpAtk= 100
+|SpDef= 125
+|Speed=  81}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=4
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=5
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   200
+|Electric=200
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Milotic|Water|Water|3}}
+{{learnlist/level7|1|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level7|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|1|Water Sport|Water|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|1|Refresh|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level7|4|Water Sport|Water|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|7|Refresh|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|11|Disarming Voice|Fairy|Special|40|&mdash;|15}}
+{{learnlist/level7|14|Twister|Dragon|Special|40|100|20}}
+{{learnlist/level7|17|Aqua Ring|Water|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|21|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|24|Dragon Tail|Dragon|Physical|60|90|10}}
+{{learnlist/level7|27|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|31|Aqua Tail|Water|Physical|90|90|10||'''}}
+{{learnlist/level7|34|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/level7|37|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/level7|41|Coil|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|44|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|47|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/levelf/7|Milotic|Water|Water|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Milotic|Water|Water|3}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Milotic|Water|Water|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Milotic|Water|Water|3}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|131|Lapras}}<br>{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|222|Corsola}}{{MSP|279|Pelipper}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|367|Huntail}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|564|Tirtouga}}<br>{{MSP|565|Carracosta}}{{MSP|594|Alomomola}}|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/breed7|{{MSP|350|Milotic}}{{MSP|368|Gorebyss}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|226|Mantine}}|Confuse Ray|Ghost|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|334|Altaria}}{{MSP|371|Bagon}}{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}<br>{{MSP|706|Goodra}}{{MSP|780|Drampa}}|Dragon Breath|Dragon|Special|60|100|20}}
+{{learnlist/breed7|{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|333|Swablu}}{{MSP|334|Altaria}}{{MSP|610|Axew}}<br>{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}{{MSP|690|Skrelp}}<br>{{MSP|691|Dragalge}}{{MSP|693|Clawitzer}}{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}{{MSP|757|Salandit}}<br>{{MSP|776|Turtonator}}{{MSP|780|Drampa}}|Dragon Pulse|Dragon|Special|85|100|10}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|283|Surskit}}{{MSP|336|Seviper}}|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|062|Poliwrath}}{{MSP|186|Politoed}}{{MSP|686|Inkay}}{{MSP|687|Malamar}}|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/breed7|{{MSP|443|Gible}}{{MSP|610|Axew}}{{MSP|621|Druddigon}}|Iron Tail|Steel|Physical|100|75|15|*}}
+{{learnlist/breed7|{{MSP|222|Corsola}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Mirror Coat|Psychic|Special|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|270|Lotad}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}<br>{{MSP|333|Swablu}}{{MSP|334|Altaria}}{{MSP|283|Surskit}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}|Mist|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|258|Mudkip}}{{MSP|369|Relicanth}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|618|Stunfisk}}{{MSP|771|Pyukumuku}}|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|138|Omanyte}}{{MSP|139|Omastar}}|Tickle|Normal|Status|&mdash;|100|20}}
+
+{{learnlist/breedf/7|Milotic|Water|Water|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Milotic|Water|Water|3}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||'''|no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Milotic|Water|Water|3}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Milotic|Water|Water|3}}
+{{learnlist/prevo7|349|Feebas|||||Splash|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/prevo7|349|Feebas|||||Tackle|Normal|Physical|40|100|35}}
+{{learnlist/prevo7|349|Feebas|||||Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/prevof/7|Milotic|Water|Water|3}}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/PinballRS|col=3|type=Water|ndex=350|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Water|ndex=350|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=350
+|body=4
+|rate=Evolve
+|area=Waterfall Lake
+|P1=Everyone seems to find my appearance captivating.
+|P2=Oh-oh... Only half my HP remains...
+|P3=I'm near fainting... I hope I faint while I still look good...
+|PL=I've leveled up. It seems to have enhanced my beauty!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=350
+|body=4
+|rate=-12
+|IQ=H
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=350
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=350|num=186
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Stabilize+
+|skilldesc=Sometimes erases two of the foe's disruptions on the board.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=350
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=190
+|attack=192
+|defense=242
+|fast={{m|Water Gun}}, {{m|Dragon Tail}}
+|special={{m|Surf}}, {{m|Blizzard}}, {{m|Hyper Beam}}
+}}
+|}
+
+===Evolution===
+{{Evobox/Feebas}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=350}}
+{{Spritebox/4/Gender|ndex=350}}
+{{Spritebox/5/Gender|ndex=350}}
+{{Spritebox/6/Gender|ndex=350}}
+{{Spritebox/7/Gender|ndex=350}}
+{{Spritebox/Footer|350|Milotic}}
+
+==Trivia==
+* In the official [[Pokémon Ruby and Sapphire: Prima's Official Strategy Guide|Prima Strategy Guide]] for {{game|Ruby and Sapphire|s}}, Milotic's [[Ability]] was mistakenly listed as {{a|Torrent}}.
+* Milotic seems to be a counterpart of {{p|Gyarados}}. Both are the serpentine evolved forms of weak fish Pokémon, and both appear in times of conflict, Milotic to calm, Gyarados to destroy. Both have base stat totals of 540, sharing the same {{stat|HP}}, {{stat|Defense}}, and {{stat|Speed}} stats with {{stat|Attack}}, {{stat|Special Attack}} and {{stat|Special Defense}} stats sharing the same values but in a different arrangement.
+** Milotic may also be a Contest version of Gyarados since it was introduced in the third generation with Pokémon Contests. This is fortified by Milotic's emphasis being on its beauty, while Gyarados' emphasis is on its power.
+* Milotic is tied with Gyarados for the greatest increase in base stat total after evolving, at 340 points.
+* In {{game|HeartGold and SoulSilver|s}}, it is possible to evolve {{p|Feebas}} into Milotic without trading, even though no [[Poffin]] can be obtained and used in the game. This is done by visiting the [[Haircut brothers]] in [[Goldenrod City]] or by talking to [[Daisy Oak|Daisy]] in order to groom Feebas, which not only helps to raise its [[friendship]], but also raises its {{OBP|Beauty|condition}}. This is subtly stated by the brothers and Daisy in the games, but cannot be checked unless the Feebas is traded to Diamond, Pearl, or Platinum. However, this cannot raise Feebas's Beauty if its [[Poffin#Smoothness and sheen|Sheen]] is too high.
+* Milotic is the only Pokémon with multiple ways of evolving from its pre-evolved form in the core series.
+
+===Origin===
+Milotic may be loosely based on {{wp|siren (mythology)|sirens}} or the {{wp|Loch Ness Monster}}, but mostly has characteristics of a {{wp|sea serpent}} or sea dragon. Its pale, elongated body and extended, red dorsal fins are reminiscent of an {{wp|oarfish}}.
+
+====Name origin====
+Milotic may be a combination of ''Milo'' (as in the sculpture ''{{wp|Venus de Milo}}'', which is known for being an example of beauty) and ''aquatic'', ''melodic'', ''exotic'', or ''{{wp|River ecosystem|lotic}}''.
+
+Milokaross may be a combination of ''Milo'' (Venus de Milos) and καλλονή ''kalloni'' ({{wp|Greek language|Greek}} for ''beauty''), χάρις ''charis'' (Greek for beauty, elegance, charm, or grace), or {{wp|Charites}}.
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=ミロカロス ''Milokaross''|jameaning=From ''{{tt|Milo|As in Venus de Milos}}'', {{tt|καλλονή ''kalloni''|Greek for beauty}}, or {{tt|Χάρις ''charis''|Greek for beauty, elegance, charm, or grace}}
+|fr=Milobellus|frmeaning=From ''Venus de Milo'' and ''{{tt|bella|Italian for &quot;pretty&quot;}}''
+|es=Milotic|esmeaning=Same as English name
+|de=Milotic|demeaning=Same as English name
+|it=Milotic|itmeaning=Same as English name
+|ko=밀로틱 ''Milotic''|komeaning=Transliteration of English name
+|zh_cmn=美納斯 / 美纳斯 ''Měinàsī'' |zh_cmnmeaning=From {{tt|美 ''měi''|beautiful}} and {{tt|維納斯 ''Wéi​nà​sī''|Venus}}
+|hi=माईलोटिक ''Milotic''|himeaning=Transliteration of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Feefee]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=349|prev=Feebas|nextnum=351|next=Castform}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Milotic]]
+[[fr:Milobellus]]
+[[it:Milotic]]
+[[ja:ミロカロス]]
+[[pl:Milotic]]
+[[zh:美纳斯]]

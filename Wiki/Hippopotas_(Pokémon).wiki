@@ -1,0 +1,407 @@
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=448|prev=Lucario|nextnum=450|next=Hippowdon|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Hippopotas}}
+|}
+{{Pokémon Infobox
+|name=Hippopotas
+|jname=ヒポポタス
+|jtranslit=Hipopotasu
+|tmname=Hippopotas
+|ndex=449
+|sdex=122
+|karea=Coastal
+|kdex=048
+|abrow=246
+|obrow=283
+|opbrow=103
+|typebox=1
+|type1=Ground
+|category=Hippo
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=109.1
+|weight-kg=49.5
+|abilityn=d
+|ability1=Sand Stream
+|abilityd=Sand Force
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=30
+|evtotal=1
+|evde=1
+|expyield=66
+|oldexp=95
+|lv100exp=1,250,000
+|gendercode=127
+|color=Brown
+|catchrate=140
+|body=08
+|pokefordex=hippopotas
+|generation=4
+|friendship=70
+}}
+'''Hippopotas''' ([[List of Japanese Pokémon names|Japanese:]] '''ヒポポタス''' ''Hippopotas'') is a {{type|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolve]]s into {{p|Hippowdon}} starting at [[level]] 34.
+
+==Biology==
+Hippopotas is a quadruped, hippo-like Pokémon that is most commonly found in deserts and other arid places. Its skin color depends on gender: if male, it is tan with dark brown patches, and if female, its coloring is reversed. It has a large snout with round nostrils and eyes that protrude from the top of its head. It torso has mottled coloring and a small hole on its back. Each of its feet has two blunt claws, and it has a small tail. Hippopotas spends its time bathing in sand and avoids water at all costs. It covers itself in sand as a protective measure against germs and expels sand instead of sweat. When it walks through the sand, it shuts its nostrils. It prefers to travel in groups of ten.
+
+==In the anime==
+[[File:Hoopa Bonnie Hippopotas.png|thumb|left|220px|Hippopotas in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Recurring wild Pokémon in the anime#Hippopotas|Hippopotas (anime)]]====
+Hippopotas appeared in ''[[DP044|Mass Hip-Po-Sis!]]''. The same Hippopotas Ash rescued appeared again in ''[[DP065|Sleight of Sand!]]''.
+
+====Other====
+A Hippopotas appeared in ''[[M18|Hoopa and the Clash of Ages]]'', where its {{type|Ground}} attacks played a crucial role in restoring the broken [[Prison Bottle]] during the climactic battle in [[Dahara City]]. It was later returned to its herd, and {{an|Bonnie}} bid it farewell.
+
+===Minor appearances===
+A Hippopotas made a brief cameo appearance in ''[[M11|Giratina and the Sky Warrior]]''.
+
+A {{pkmn|Coordinator}}'s Hippopotas appeared in ''[[DP114|Another One Gabites the Dust!]]'', where it was participating in the [[Contest Battle|Battle Stage]] of the {{to|Chocovine}} {{pkmn|Contest}}.
+
+A Hippopotas was seen at the [[Shelter Town]]'s [[Pokémon Center]] in ''[[DP125|Battling a Cute Drama!]]''.
+
+A Hippopotas appeared during a flashback in ''[[M19|Volcanion and the Mechanical Marvel]]'', where it was one of the Pokémon seen at [[Nebel Plateau]].
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP044|Hippopotas|Dawn's Pokédex|Hippopotas, the Hippo Pokémon. It lives in dry places and covers itself in sand to protect against germs. It does not enjoy getting wet.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Gentleman Hippopotas Adventures.png|thumb|130px|Hippopotas in [[Pokémon Adventures]]]]
+===In the movie adaptations===
+Hippopotas appeared in ''{{ma|Hoopa and the Clash of Ages}}''.
+
+===In the Darkrai Mission Story: Pokémon Ranger Vatonage - the Comic manga===
+Hippopotas appeared in [[PRV1]].
+
+===In the Pokémon Adventures manga===
+A male Hippopotas appeared in ''[[PS361|Bombastic Bibarel & Heroic Hippopotas]]'', alongside his Trainer a {{tc|Gentleman}} at the [[Seven Stars Restaurant]], along with a {{tc|Madame|Socialite}} and her {{p|Bibarel}}. The quartet battled {{adv|Diamond}}'s {{p|Torterra}}, [[Tru]], and {{adv|Pearl}}'s {{p|Infernape}}, [[Chimler]] in a [[Multi Battle|Tag Battle]].
+
+==In the TCG==
+{{main|Hippopotas (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ground}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It lives in arid places. Instead of perspiration, it expels grainy sand from its body.}}
+{{Dex/Entry1|v=Pearl|entry=It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.}}
+{{Dex/Entry1|v=Platinum|entry=It shuts its nostrils tight then travels through the sand as if walking. They form colonies of around ten.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It shuts its nostrils tight then travels through the sand as if walking. They form colonies of around ten.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It shuts its nostrils tight then travels through sand as if walking. They form colonies of around 10.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It lives in arid places. Instead of perspiration, it expels grainy sand from its body.}}
+{{Dex/Entry1|v=Y|entry=It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=It lives in arid places. Instead of perspiration, it expels grainy sand from its body.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ground}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Maniac Tunnel]]}}
+{{Availability/Entry1|v=Platinum|area=[[Maniac Tunnel]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|4|Unova}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{pkmn|breeding|Breed}} {{p|Hippowdon}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Rugged Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|9|Kalos}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{pkmn|breeding|Breed}} {{p|Hippowdon}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Quicksand Cave|Quicksand Pit]] (B3-B10)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Quicksand Cave|Quicksand Pit]] (B3-B10)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Hippowdon Temple]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Layuda Island]], [[Fire Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Magical Lake#In Need of Trees|Magical Lake: In Need of Trees]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 2|Safari Jungle: Stage 2]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Wacky Workshop|Wacky Workshop: Stage 161]] <small>(Male)</small><br>[[Zaffiro Coast|Zaffiro Coast: Stage 611]] <small>(Male)</small><br>Event: [[Special Stages#Fifth release|''Pokémon Safari'']] <small>(Fifth release; Female)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Smelting Forge|Diamond Crater: Smelting Forge]] <small>(All Areas)</small>, [[Fairy Land#Heat-Wave Desert|Fairy Land: Heat-Wave Desert]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ground
+|HP=68
+|Attack=72
+|Defense=78
+|SpAtk=38
+|SpDef=42
+|Speed=32}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ground
+|Speed=2
+|SpeedMax=3
+|Power=3
+|PowerMax=5
+|Technique=2
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ground
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=   50
+|Ground=  100
+|Rock=     50
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    100
+|Water=   200
+|Grass=   200
+|Electric=  0
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|ground=yes
+|newelectric=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Hippopotas|Ground|Ground|4}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|7|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|13|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|19|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|19|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level7|25|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level7|31|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|37|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|44|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|50|Fissure|Ground|Physical|&mdash;|30|5}}
+{{learnlist/levelf/7|Hippopotas|Ground|Ground|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Hippopotas|Ground|Ground|4}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Hippopotas|Ground|Ground|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Hippopotas|Ground|Ground|4}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|324|Torkoal}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|432|Purugly}}<br>{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|461|Weavile}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|626|Bouffalant}}|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}<br>{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}|Slack Off|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|303|Mawile}}{{MSP|631|Heatmor}}{{MSP|775|Komala}}|Spit Up|Normal|Special|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|303|Mawile}}{{MSP|631|Heatmor}}{{MSP|775|Komala}}|Stockpile|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|303|Mawile}}{{MSP|631|Heatmor}}{{MSP|775|Komala}}|Swallow|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|275|Shiftry}}|Whirlwind|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breedf/7|Hippopotas|Ground|Ground|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Hippopotas|Ground|Ground|4}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Hippopotas|Ground|Ground|4}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fighting color light}}; border: 3px solid #{{tcg fighting color}}"
+|-
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Endeavor}}
+| [[Hippopotas (Rising Rivals 64)]]
+|- style="background:#fff"
+| {{m|Mud Shot}}
+| [[Hippopotas (Supreme Victors 61)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Ground}}
+{{Spindata/MDTDS|col=6|type=Ground|ndex=449
+|body=1
+|rate=8.2
+|IQ=E
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ground
+|group=Ground
+|assist=Ground
+|fieldpower=-
+|browser=It {{m|Earthquake|causes tremors}} and spits hunks of sand to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Ground
+|group=Ground
+|assist=Ground
+|field=Tackle
+|fieldpower=3
+|browser=It triggers tremors to attack.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Ground
+|att=2
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Ground
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Ground|ndex=449
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Ground|ndex=449|num=191
+|min=50
+|max=115
+|raisemaxlevel=10
+|skill=Quake
+|skilldesc=Sometimes increases damage and leaves opponent paralyzed for a short period of time.
+|swapper=Flash Mob
+}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=449F|num=191
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=T-Boost
+|skilldesc=Increases damage when making a T-shaped match.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Ground
+|pictype=art
+|no1=449
+|name1=Hippopotas
+|type1-1=Ground
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 34}}
+|no2=450
+|name2=Hippowdon
+|type1-2=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/Gender|ndex=449}}
+{{Spritebox/5/Gender|ndex=449}}
+{{Spritebox/6/Gender|ndex=449}}
+{{Spritebox/7/Gender|ndex=449}}
+{{Spritebox/Footer|449|Hippopotas}}
+
+==Trivia==
+* Despite having obvious gender differences, both Hippopotas and its {{p|Hippowdon|evolution}} have only one menu sprite and one Dream World picture, both of which depict the male variation.
+
+===Origin===
+Hippopotas is based on a {{wp|hippopotamus}}, with army-like {{wp|camouflage}}. Because of the spout upon its back that spits sand, Hippopotas and its evolution may be based upon the legendary {{wp|Bahamut}} as, in some accounts of the myths behind it, it is said to support a bed of sand and have the head of a hippo.
+
+====Name origin====
+Hippopotas is derived from ''{{wp|hippopotamus}}''.
+
+==In other languages==
+{{Other languages|type=Ground|type2=Ground
+|ja=ヒポポタス ''Hippopotas''|jameaning=Derived from ''hippopotamus''.
+|de=Hippopotas|demeaning=Same as Japanese name
+|fr=Hippopotas|frmeaning=Same as Japanese name
+|es=Hippopotas|esmeaning=Same as Japanese name
+|it=Hippopotas|itmeaning=Same as Japanese name
+|ko=히포포타스 ''Hipopotaseu''|komeaning=Transliteration of Japanese name
+|zh_cmn=怪河馬 ''Guài Hé Mǎ''|zh_cmnmeaning=Literally "Strange hippopotamus".
+|ru=Гиппопотас ''Gippopotas''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=448|prev=Lucario|nextnum=450|next=Hippowdon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Ranger Partner Pokémon]]
+
+[[de:Hippopotas]]
+[[fr:Hippopotas]]
+[[it:Hippopotas]]
+[[ja:ヒポポタス]]
+[[pl:Hippopotas]]
+[[zh:沙河马]]

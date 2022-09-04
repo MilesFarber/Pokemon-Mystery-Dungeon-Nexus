@@ -1,0 +1,519 @@
+{{PokémonPrevNext/Head|type=Ground|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Claydol}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=343|prev=Baltoy|nextnum=345|next=Lileep|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Claydol
+|jname=ネンドール
+|jtranslit=Nendōru
+|tmname=Nendoll
+|ndex=344
+|hdex=132
+|hdex6=137
+|u2dex=170
+|abrow=250
+|obrow=174
+|opbrow=166
+|typebox=1
+|type1=Ground
+|type2=Psychic
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=238.0
+|weight-kg=107.9
+|category=Clay Doll
+|abilityn=1
+|abilitylayout=1
+|ability1=Levitate
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evtotal=2
+|evsd=2
+|expyield=175
+|oldexp=189
+|lv100exp=1,000,000
+|gendercode=255
+|color=Black
+|catchrate=90
+|body=04
+|pokefordex=claydol
+|generation=3
+|friendship=70
+}}
+'''Claydol''' ([[List of Japanese Pokémon names|Japanese]]: '''ネンドール''' ''Nendoll'') is a dual-type {{2t|Ground|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Baltoy}} starting at [[level]] 36.
+
+==Biology==
+Claydol is a large, black Pokémon that resembles a mud statue with two stubby legs. It has a wide, spherical head with a rounded protrusion on top. Around its head are many large, pink eyes with yellow, beak-like protrusions between each. A wavy, white rim runs along the upper edges of the eyes. Its torso has white ring markings, each with a downward extension and yellow dot in the middle. It has spherical arms with a rounded protrusion that are capable of firing beams. These arms are not attached to its body, but are usually kept floating close by Claydol's psychic powers. Claydol uses the same telekinetic abilities to move and float through the air. It lives in {{DL|List of Pokémon by habitat|Rough-terrain Pokémon|rough terrains}}.
+
+It has a body that is prone to melting when wet, and uses its psychic powers to protect itself from rain. Ancient people modeled Claydol after something that descended from the sky.
+
+==In the anime==
+[[File:Buck Claydol.png|thumb|left|250px|Claydol in the {{pkmn|anime}}]]
+===In the main series===
+====Major appearances====
+Claydol debuted in ''[[AG104|Claydol Big and Tall]]''. A giant one was released from a giant stone [[Poké Ball]] and had to be stopped from getting to a village.
+
+{{ho|Robert}} used a Claydol along with {{p|Milotic}} in a [[Double Battle|two-on-two]] [[Contest Battle]] against [[Drew]]'s {{DL|Drew|Flygon}} and {{DL|Drew|Masquerain}} in the finals of the [[Hoenn Grand Festival]] in ''[[AG123|Rhapsody in Drew]]''.
+
+In ''[[AG164|Ka Boom with a View!]]'', {{FB|Palace Maven|Spenser}} used a Claydol against {{Ash}} as his final Pokémon. With its {{m|Hyper Beam}}, {{m|Psybeam}}, {{m|Rapid Spin}}, and {{m|Teleport}}, it quickly defeated {{AP|Swellow}}, and it proved to be a challenge for {{AP|Sceptile}}. It was later defeated by Sceptile's newly learned {{m|Solar Beam}}.
+
+Three Claydol appeared in ''[[M12|Arceus and the Jewel of Life]]'', under the ownership of [[Damos]].
+
+A {{pkmn2|wild}} Claydol appeared in ''[[DP181|Bucking the Treasure Trend!]]'', where it was guarding the treasure in [[Dandelion Island]]. It proved to be a strong Pokémon, standing up to [[Dawn's Piplup]] and [[Ash's Torterra]]. It was eventually {{pkmn2|caught}} by [[Buck]].
+
+====Minor appearances====
+Ash battled a Claydol during the beginning sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Claydol appeared in the beginning sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Claydol appeared in ''[[M19|Volcanion and the Mechanical Marvel]]'' as one of the Pokémon residing at [[Nebel Plateau]].
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG104|Claydol|Ash's Pokédex|Claydol, the Clay Doll Pokémon. Claydol is the evolved form of Baltoy. These ancient Pokémon are said to come alive when a mysterious light instilled life into clay creatures created in ancient times. Claydol can fly and are able to fire {{m|Psybeam|beams}} from both arms.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP181|Claydol|Dawn's Pokédex|Claydol, the Clay Doll Pokémon, and the evolved form of Baltoy. Claydol is said to have come to life when an ancient doll made from clay was exposed to mysterious light.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+===In Pokémon Generations===
+[[File:Buck Claydol PG.png|thumb|250px|Claydol in [[Pokémon Generations]]]]
+A Claydol appeared in ''[[PG12|The Magma Stone]]'' under the ownership of [[Buck]].
+{{-}}
+
+==In the manga==
+[[File:Buck Claydol Adventures.png|thumb|Claydol in [[Pokémon Adventures]]]]
+===In the Arceus and the Jewel of Life manga===
+In the manga adaptation of {{ma|Arceus and the Jewel of Life}}, [[Marcus]] owned two Claydol. He used them to attack {{mov|Arceus|Arceus|12}}.
+
+===In the Pokémon Adventures manga===
+A Claydol appeared in ''[[PS241|Dreadful Dealing with Dusclops]]'', attacking {{adv|Wally}} inside the [[Sky Pillar]].
+
+The Battle Factory rented a Claydol which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''.
+
+Like in the games, Claydol is [[Buck]]'s main Pokémon. Buck uses it to fight off [[Team Galactic]] at [[Stark Mountain]] in an attempt to protect {{p|Heatran}} and the [[Magma Stone]]. It was first seen in ''[[PS417|Leaping Past Lopunny]]''.
+
+In ''[[PS422|Interrupting Ivysaur]]'', a Claydol under the ownership of a {{tc|Veteran}} named Beck appeared during {{adv|Platinum}}'s challenge at the Battle Arcade.
+
+A Claydol appeared inside the [[Sky Pillar]] in ''[[PAORAS02|Omega Alpha Adventure 2]]''.
+{{-}}
+
+==In the TCG==
+{{main|Claydol (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ground|type2=Psychic}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Claydol are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This Pokémon moves about while {{a|Levitate|levitating}}.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Claydol is an enigma that appeared from a clay statue made by an ancient civilization dating back 20,000 years. This Pokémon shoots {{m|Hyper Beam|beams}} from both its hands.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Claydol sleeps while hovering in midair. Its arms are separate from its body. They are kept floating by the Pokémon's manipulation of {{m|psychic}} power.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It is said that it originates from clay dolls made by an ancient civilization.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=This mysterious Pokémon started life as an ancient clay figurine made over 20,000 years ago.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.}}
+{{Dex/Entry1|v=Y|entry=It is said that it originates from clay dolls made by an ancient civilization.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Claydol are said to be dolls of mud made by primitive humans and brought to life by exposure to a mysterious ray. This Pokémon moves about while levitating.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Claydol is an enigma that appeared from a clay statue made by an ancient civilization dating back 20,000 years. This Pokémon shoots beams from both its hands.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=If it gets wet, its body melts. When rain starts to fall, it wraps its whole body up with its psychic powers to protect itself.}}
+{{Dex/Entry1|v=Ultra Moon|entry=The ancient people who made it apparently modeled it after something that descended from the sky. It fires beams from both arms.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ground|type2=Psychic}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Sky Pillar]]}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Sky Pillar]]}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Baltoy}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Baltoy}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Baltoy}}}}
+{{Availability/Entry1|v=HeartGold|area=[[Evolution|Evolve]] {{p|Baltoy}}}}
+{{Availability/Entry1/None|v=SoulSilver}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Relic Castle]] (Volcarona's room)}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Evolution|Evolve]] {{p|Baltoy}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Sky Pillar]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry1/None|v=Ultra Sun}}
+{{Availability/Entry1|v=Ultra Moon|area=[[Evolution|Evolve]] {{p|Baltoy}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground|type2=Psychic}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Baltoy}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 17, Forever Level 66, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Baltoy}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Hippowdon Temple]]}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Lava Zone]], [[Granite Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Oblivia Ruins]], [[Thunder Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Firebreathing Mountain]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#A Flowing Desert|Vehicle Gallery: A Flowing Desert]], [[Chill Battle#Unidentified Flying Objects|Chill Battle: Unidentified Flying Objects]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 3|Safari Jungle: Stage 3]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Graucus Hall|Graucus Hall: Stage 490]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Ancient Stronghold|Fairy Land: Ancient Stronghold]] <small>(All Areas)</small>, [[Legend Terrain#Tomb of Nightmares|Legend Terrain: Tomb of Nightmares]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Ground|type2=Psychic
+|oras1=Light Clay|oras1type=None|oras1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ground
+|type2=Psychic
+|HP=      60
+|Attack=  70
+|Defense=105
+|SpAtk=   70
+|SpDef=  120
+|Speed=   75}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ground
+|type2=Psychic
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=4
+|Jump=4
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ground
+|type2=Psychic
+|Normal= 100
+|Flying= 100
+|Fighting=50
+|Ground=   0
+|Rock=    50
+|Bug=    200
+|Poison=  50
+|Ghost=  200
+|Steel=  100
+|Fire=   100
+|Water=  200
+|Grass=  200
+|Electric= 0
+|Psychic= 50
+|Ice=    200
+|Dragon= 100
+|Dark=   200
+|Fairy=  100
+|notes=yes
+|levitate=yes
+|newground=1
+|ground=yes
+|newelectric=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Claydol|Ground|Psychic|3}}
+{{learnlist/level7|1|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/level7|1|Teleport|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Harden|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|1|Rapid Spin|Normal|Physical|20|100|40}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/level7|4|Rapid Spin|Normal|Physical|20|100|40}}
+{{learnlist/level7|7|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level7|10|Heal Block|Psychic|Status|&mdash;|100|15}}
+{{learnlist/level7|13|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/level7|16|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level7|19|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level7|22|Cosmic Power|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|25|Power Trick|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|28|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level7|31|Extrasensory|Psychic|Special|80|100|20||'''}}
+{{learnlist/level7|34|Guard Split|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|34|Power Split|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|40|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/level7|46|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|52|Imprison|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|58|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/levelf/7|Claydol|Ground|Psychic|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Claydol|Ground|Psychic|3}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Claydol|Ground|Psychic|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Claydol|Ground|Psychic|3}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Claydol|Ground|Psychic|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Claydol|Ground|Psychic|3}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Drill Run|Ground|Physical|80|95|10||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Claydol|Ground|Psychic|3}}
+
+====By a prior [[evolution]]====
+{{Learnlist/prevoh/7|Claydol|Ground|Psychic|3}}
+{{Learnlist/prevo7null}}
+{{Learnlist/prevof/7|Claydol|Ground|Psychic|3}}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{ground color light}}; border: 3px solid #{{psychic color}}"
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Shock Wave}}
+| style="background:#fff" | {{typecolor|Electric}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[M12|Arceus and the Jewel of Life]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Ground|type2=Psychic}}
+{{Spindata/PinballRS|col=3|type=Ground|ndex=344|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Ground|ndex=344|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Ground|ndex=344
+|body=1
+|rate=Evolve
+|area=Ancient Relic
+|P1=Hovering in the air is quite pleasant, actually.
+|P2=This is ominous. My HP is half depleted already.
+|P3=I've taken too much damage. It pains me to remain airborne...
+|PL=Level-up secured! My psychic power grows and grows!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ground|ndex=344
+|body=1
+|rate=0.5
+|IQ=F
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ground
+|group=Psychic
+|assist=Psychic
+|field=Crush
+|fieldpower=3
+|browser=It scatters mysterious energy orbs. It also lets loose psychic energy waves to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Ground
+|group=Psychic
+|assist=Psychic
+|field=Psy Power
+|fieldpower=2
+|browser=It attacks by launching strange rings that make Pokémon Stopped.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Ground
+|att=2
+|def=5
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Ground|ndex=344
+|Pad=This Pokémon lives in the [[Granite Zone]]. When it's time to play, you'll find him at either {{DL|Attractions|Rhyperior's Bumper Burn}} or {{DL|Attractions|Rotom's Spooky Shoot-'em-Up}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ground|ndex=344
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=344|num=630
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Power of 4+
+|skilldesc=Deals even more damage when you make a match of four.
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=344
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=120
+|attack=140
+|defense=236
+|fast={{m|Extrasensory}}, {{m|Confusion}}
+|special={{m|Gyro Ball}}, {{m|Psychic}}, {{m|Earthquake}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Ground
+|type2=Psychic
+|pictype=art
+|no1=343
+|name1=Baltoy
+|type1-1=Ground
+|type2-1=Psychic
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no2=344
+|name2=Claydol
+|type1-2=Ground
+|type2-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground|type2=Psychic}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=344}}
+{{Spritebox/4|ndex=344}}
+{{Spritebox/5|ndex=344}}
+{{Spritebox/6|ndex=344}}
+{{Spritebox/7|ndex=344}}
+{{Spritebox/Footer|344|Claydol}}
+
+==Trivia==
+* No other Pokémon has the same [[List of Pokémon with unique type combinations|type combination]] as Claydol and its {{p|Baltoy|pre-evolution}}.
+* The symbols on Claydol's chest and back resemble the Q form of {{p|Unown}}.
+* Claydol has the highest {{stat|Special Defense}} base stat of all {{type|Ground}} Pokémon.
+
+===Origin===
+Claydol's design is similar to the 遮光器土偶 ''{{wp|Dogū|Shakōki-dogū}}''—a "spaceman" clay figurine from the {{wp|Jōmon period}} of Japanese history.
+
+====Name origin====
+Claydol is a combination of ''clay'' and ''idol'' or ''doll''. It may also involve ''{{wp|dreidel}}'' due to Claydol's pronunciation and its pre-evolution {{p|Baltoy}}'s similarity to {{wp|top}}s.
+
+Nendoll may be a combination of 念 ''nen'' (thought), 粘土 ''nendo'' (clay), and ''doll''. ''Nen'' is found in various compounds having to do with {{wp|Extrasensory perception|ESP}}-related phenomena, such as 念写 ''nensha'' ({{wp|spirit photography}}) and 念動 ''nendō'' ({{wp|telekinesis}}).
+
+==In other languages==
+{{Other languages|type=Ground|type2=Psychic
+|ja=ネンドール ''Nendoll''|jameaning=From {{tt|念 ''nen''|(thought}}, {{tt|粘土 ''nendo''|clay}}, {{tt|念動 ''nendō''|telekinesis}}, and ''doll''
+|fr=Kaorine|frmeaning=From ''{{wp|kaolin}}'', a type of clay
+|es=Claydol|esmeaning=Same as English name
+|de=Lepumentas|demeaning=From ''{{tt|Lehm|clay}}'', ''{{tt|Puppe|doll}}'', and {{tt|''mentis''| Latin for ''mind''}}
+|it=Claydol|itmeaning=Same as English name
+|ko=점토도리 ''Zeumtodori''|komeaning=From {{tt|점토 ''jeomto''|clay}} and {{tt|돌이 ''dori''|male diminutive suffix}} or ''doll'' and {{tt|이 ''i''|diminutive suffix}}
+|zh_cmn=念力土偶 ''Niànlìtǔ'ǒu''|zh_cmnmeaning=From {{m|Confusion|{{tt|念力 ''niànlì''|psychokinesis}}}} and {{wp|Dogū|{{tt|土偶 ''tǔ'ǒu''|clay figurine}}}}
+|hi=क्लेडल ''Claydol''|himeaning=Transliteration of English name}}
+{{left clear}}
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ground|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=343|prev=Baltoy|nextnum=345|next=Lileep}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Artificial Pokémon]]
+
+[[it:Claydol]]
+[[de:Lepumentas]]
+[[fr:Kaorine]]
+[[ja:ネンドール]]
+[[pl:Claydol]]
+[[zh:念力土偶]]

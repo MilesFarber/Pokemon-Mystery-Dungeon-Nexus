@@ -1,0 +1,545 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Kyogre}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=381|prev=Latios|nextnum=383|next=Groudon|round=none}}
+{{PokémonPrevNext/Disambig|species=Kyogre}}
+|}
+{{Pokémon Infobox
+|name=Kyogre
+|jname=カイオーガ
+|jtranslit=Kaiōga
+|tmname=Kyogre
+|forme=2
+|forme1=
+|forme2=Primal
+|form2=Primal Kyogre
+|image2=382Kyogre-Primal.png
+|category=Sea Basin
+|ndex=382
+|hdex=198
+|hdex6=207
+|fbrow=208
+|typebox=1
+|type1=Water
+|height-ftin=14'09"
+|height-m=4.5
+|weight-lbs=776.0
+|weight-kg=352.0
+|height-ftin2=32'01"
+|height-m2=9.8
+|weight-lbs2=948.0
+|weight-kg2=430.0
+|abilityn=2
+|abilitylayout=2
+|ability1=Drizzle
+|ability2-1=Primordial Sea
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=120
+|evtotal=3
+|evsa=3
+|expyield=302
+|oldexp=218
+|lv100exp=1,250,000
+|gendercode=255
+|color=Blue
+|catchrate=3
+|body=03
+|pokefordex=kyogre
+|generation=3
+|friendship=0
+}}
+'''Kyogre''' ([[List of Japanese Pokémon names|Japanese]]: '''カイオーガ''' ''Kyogre'') is a {{type|Water}} [[Legendary Pokémon]] introduced in [[Generation III]].
+
+While it is not known to [[evolution|evolve]] into or from any other Pokémon, it can undergo [[Primal Reversion]] and become '''Primal Kyogre''' if it holds the [[Blue Orb]].
+
+Kyogre possesses the ability to expand the oceans. In ancient times, it came into conflict with {{p|Groudon}}, a Pokémon with the ability to expand continents. In {{game3|Ruby and Sapphire|Pokémon Sapphire|s}}, {{v2|Emerald}}, and [[Pokémon Omega Ruby and Alpha Sapphire|Alpha Sapphire]], Kyogre is sought after by [[Team Aqua]] as part of their plot to create more habitats for aquatic Pokémon by raising the sea level.
+
+Kyogre is the [[game mascot]] of Pokémon Sapphire and its remake, Pokémon Alpha Sapphire, with Kyogre appearing on the box art of Sapphire and Primal Kyogre appearing on the box art of Alpha Sapphire.
+
+Along with {{p|Groudon}} and {{p|Rayquaza}}, Kyogre is a part of the [[weather trio]].
+
+==Biology==
+Kyogre is a massive whale-like Pokémon with two big pectoral fins, each with four white square-shaped nails. It has a deep blue body and a white chin area with two small spikes protruding under it. Above each eye are two white, oval-shaped spots. It has red stripes around its chin, eyes, dorsal fins, and torso. These stripes glow when Kyogre is brimming with power. The tail is tattered with four trailing parts, the inner ones being smaller than the outer. Its eyes are small, yellow, and shadowed with black.
+
+Primal Kyogre is similar to Kyogre, but it grows to more than twice its usual size. Its skin color changes to a darker shade of blue. The four trailing parts of its tail are considerably longer and flat at the ends, and each have half-translucent webbing down the middle. Its forehead now has the {{tt|α|Alpha}} symbol, which is connected to the two large oval-shaped spots and tail, and light blue {{tt|α|Alpha}} symbols are seen on each pectoral fin, connecting to the outer nails with a red marking connecting to the inner nails. The red stripes adorning its body become light blue. There are two yellow shaped symbols inside the oval-shaped spots. The white parts of Kyogre's body, as well as the areas between the markings on the pectoral fins, become half-translucent. A mysterious golden light glows from within Primal Kyogre's body.<ref name="Primal">http://www.pokemonrubysapphire.com/en-us/pokemon/legendary-pokemon/primal-kyogre</ref> In the [[SS031|anime]], Primal Kyogre is said to have widened the seas by a large margin simply by taking a swim.
+
+Kyogre is said to be a powerful Pokémon, having control over the element of water and rain to have quenched areas of the world plagued with drought and to have expanded the seas. Kyogre is normally calm and peaceful, but if it meets its rival, {{p|Groudon}}, Kyogre will engage in a cataclysmic battle against it. In the {{DL|Spin-off Pokémon games|Pokémon Mystery Dungeon series|Mystery Dungeon series}} and [[core series]], Kyogre is able to fly. Kyogre generally lives deep in the {{DL|List of Pokémon by habitat|Sea Pokémon|ocean}}, and is said to rest in a deep trench. Kyogre is the [[signature move|only known Pokémon]] capable of learning the move {{m|Origin Pulse}}.
+
+==In the anime==
+===In the main series===
+[[File:Kyogre M09.png|thumb|left|250px|Kyogre in the {{pkmn|anime}}]]
+[[File:Primal Kyogre anime.png|thumb|left|250px|Primal Kyogre in the anime]]
+====Major appearances====
+=====[[Recurring wild Pokémon in the anime#Kyogre|Kyogre (anime)]]=====
+Kyogre appeared in ''[[AG097|Gaining Groudon]]''. [[Team Magma]] had captured Kyogre but didn't have the correct orb to control it. Team Magma planned to make a trade with [[Team Aqua]], who had captured Groudon. The trade was about to be made when [[Archie]] decided to use Kyogre to destroy everyone, including his fellow henchmen. The {{pkmn|battle}} between Kyogre and Groudon occurred during the following episode, ''[[AG098|The Scuffle of Legends]]''.
+
+=====Other=====
+A Kyogre appeared in ''[[M09|Pokémon Ranger and the Temple of the Sea]]''. It had appeared along with countless other Water Pokémon when {{Ash}} replaced all of the [[Sea Crown]]'s crystals. However, when [[The Phantom]] attempted to make all the Water types panic using supersonic waves from his ship, Kyogre too was part of the ensuing commotion. {{OBP|Manaphy|M09}} calmed them down using {{m|Heart Swap}} to rid the Pokémon of their confusion, and some {{p|Wailord}} broke open The Phantom's ship, followed by some {{p|Chinchou}} swimming into the opening and short-circuiting the ship. Kyogre then used {{m|Hyper Beam}} on the ship, destroying it.
+
+A Kyogre made a cameo appearance in ''[[SS031|Mega Evolution Special II]]'', where it was shown being awakened by the presence of the [[Giant Rock]]. It played a bigger role in ''[[SS032|Mega Evolution Special III]]'', where it was shown in its [[Primal Reversion|primal state]] fighting with Primal Groudon over the Giant Rock. It also fought [[Steven's Metagross|Steven's Mega Metagross]], and was almost defeated by it until Metagross was defeated by {{me|Rayquaza}}. The same Kyogre reappeared in flashbacks during ''[[XY092|Cloudy Fate, Bright Future!]]'' and ''[[XY138|The First Day of the Rest of Your Life!]]''.
+
+A Kyogre briefly appeared in the beginning of ''[[M18|Hoopa and the Clash of Ages]]'', being one of the many Pokémon summoned by {{an|Hoopa}} to defeat in the past. A Primal Kyogre later appeared as one of six [[Legendary Pokémon]] summoned and hypnotized by the shadow {{DL|List of Pokémon with form differences|Hoopa|Hoopa Unbound}} as its reinforcements. It and its teammates engaged in a battle against the {{p|Latios}}, {{p|Latias}}, and {{Shiny}} {{p|Rayquaza}} summoned to protect the real Hoopa in [[Dahara City]]. Eventually, after the shadow Hoopa was sealed in a [[Prison Bottle]], the hypnosis on Primal Kyogre and the other Legendary Pokémon was lifted, and Primal Kyogre departed for its home.
+
+====Minor appearances====
+Kyogre debuted in the opening sequence of ''[[M06|Jirachi: Wish Maker]]''.
+
+A Kyogre made a cameo appearance in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+A Kyogre made a cameo appearance in the opening sequence of ''[[M10|The Rise of Darkrai]]'', where it was shown jumping out of the ocean and diving back in.
+
+A Kyogre made cameo appearances in the opening sequences of ''[[M11|Giratina and the Sky Warrior]]'' and ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Kyogre appeared in ''[[SM005|Yo, Ho, Ho! Go, Popplio!]]'', in a fantasy where {{an|Lana}} imagined she might hook one whilst [[fishing]].
+
+===In the Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+A Primal Kyogre appeared in the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]].
+
+===In Pokémon Generations===
+[[File:Kyogre PG.png|thumb|220px|left|Kyogre in [[Pokémon Generations]]]]
+[[File:Primal Kyogre PG.png|thumb|220px|Primal Kyogre in [[Pokémon Generations]]]]
+A wild Kyogre appeared in ''[[PG08|The Cavern]]'', where it was awoken by [[Archie]] inside the [[Seafloor Cavern]], who used the [[Blue Orb]] to turn it into its [[Primal Reversion|Primal]] form. It escaped the Cavern and swam through its surrounding waters and surfaced above the ocean before creating a massive storm, threatening to destroy [[Hoenn]]. It was last seen attacking Archie and other members of [[Team Aqua]] when he tried to calm it down.
+{{-}}
+
+==In the manga==
+[[File:Archie Kyogre Adventures.png|thumb|125px|Kyogre in [[Pokémon Adventures]]]]
+[[File:Primal Kyogre Adventures.png|thumb|left|200px|Primal Kyogre in [[Pokémon Adventures]]]]
+===In the Ash & Pikachu manga===
+Kyogre appeared in ''[[SP28|Saving Kyogre, The Lord Of The Ocean Depths!]]''.
+
+===In the Pokémon Adventures manga===
+{{main|Super-ancient Pokémon (Adventures)#Kyogre|Kyogre (Adventures)}}
+Kyogre's first appearance was in ''[[PS233|The Beginning of the End with Kyogre & Groudon I]]''. It was awakened by Team Aqua in order to achieve their goal of expanding the sea. [[Wattson]], [[Flannery]], and [[Winona]] tried to stop it but failed due to Team Aqua's interference, and it ended up reaching [[Sootopolis City]], where it fought for days on end with {{p|Groudon}}. {{adv|Ruby}}, having trapped {{adv|Sapphire}} in [[Wallace]]'s air car for her safety, was joined by a reformed [[Magma Admin Courtney|Courtney]] and succeeded in quelling both the titans using the {{DL|Colored orbs|Red Orb|Red}} and {{DL|Colored orbs|Blue Orb}}s and [[Norman]]'s temporary control over {{p|Rayquaza}}. In the {{chap|Omega Ruby & Alpha Sapphire}}, [[Blaise]] and [[Aqua Admin Amber|Amber]] tricked {{p|Hoopa}} into summoning Kyogre and Groudon from their places of rest. This, in addition to the return of Archie and Maxie, was set up in order to prevent a meteoroid from destroying the world.
+
+In the {{chap|Emerald}}, [[Guile Hideout]] succeeded in having {{p|Jirachi}} create a Kyogre monster made of seawater that nearly sank the entire {{OBP|Battle Frontier|Generation III}}.
+
+===In the Pokémon Battrio: Aim to be Battrio Master! manga===
+[[Ryū Tendō]] owns a Kyogre which debuted in [[ABM14]].
+
+==In the TCG==
+{{main|Kyogre (TCG)}}
+
+==In the TFG==
+One Kyogre figure has been released.
+* {{TFG|Next Quest}}: {{TFG ID|Next Quest|Kyogre|5}}
+
+==Other appearances==
+[[File:Kyogre SSBB.png|thumb|200px|Kyogre in [[Super Smash Bros. Brawl]]]]
+===[[Super Smash Bros. Brawl]]===
+After being released from a [[Poké Ball]], Kyogre opens its mouth and squirts out {{m|Hydro Pump|a stream of water}}. The water is non-damaging, but causes characters to be knocked back with extreme force. Touching Kyogre's body will do damage. Kyogre also appears as a trophy.
+
+====Trophy information====
+''"A Sea Basin Pokémon. It brought down heavy rains, which formed seas and relieved droughts. It is usually found slumbering at the bottom of an ocean trench. Its attack {{m|Sheer Cold}} is a technique so powerful, it causes any opponent it strikes to [[one-hit knockout move|faint instantly]]. In battle, it causes clouds to form and drenches the area in rain. It once had a fierce battle with {{p|Groudon}}."''
+
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+Kyogre returns as a Poké Ball summon with faster movement as well as longer time and more KO ability. In these games, it can also appear from a [[Master Ball]]. It also appears as a trophy.
+
+====Trophy information====
+'''NA''': ''This Water-type Pokémon roughly resembles an orca whale, though its large fins also look a bit like hands. Be wary of its Hydro Pump attack, which is capable of sending you flying off the stage. Even worse, it will chase after you, making it even harder to recover from the attack.''
+
+'''PAL''': ''This orca-like Water-type Pokémon is known for the distinctive shape of its fins and the red markings along its body. It will use Hydro Pump to send fighters flying off the stage, and then proceed to chase after them to make recovering from the attack a nightmare. ''
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Pinball: Ruby & Sapphire]]: Kyogre is the focus of the second Bonus Field on the [[Sapphire Field]]. Kyogre will first use {{m|Sheer Cold}} to freeze the ball in place. It will then create {{m|whirlpool}}s to trap the ball further. Finally, it will {{m|dive}} into the water to evade being hit completely. However, air bubbles will appear where it is about to rise out of the water. Kyogre must be hit 15 times in three minutes to win. After beating the round twice, Kyogre will be captured.
+* [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]]: Kyogre is the guardian of the [[Seven Treasures|Aqua-Monica]].
+
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Kyogre has the power to create massive rain clouds that cover the entire sky and bring about torrential {{a|Drizzle|downpours}}. This Pokémon saved people who were suffering from droughts.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Kyogre is named in mythology as the Pokémon that expanded the sea by covering the land with torrential rains and towering tidal waves. It took to sleep after a cataclysmic battle with {{p|Groudon}}.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Kyogre has appeared in mythology as the creator of the sea. After long years of feuding with Groudon, it took to sleep at the bottom of the sea.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=This Pokémon is said to have expanded the sea by bringing heavy rains. It has the power to control water.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=A mythical Pokémon said to have swelled the seas with rain and tidal waves. It battled with Groudon.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=A mythical Pokémon said to have swelled the seas with rain and tidal waves. It battled with Groudon.}}
+{{Dex/Entry1|v=Y|entry=It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Through Primal Reversion and with nature’s full power, it will take back its true form. It can summon storms that cause the sea levels to rise.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1/None|v=Ruby}}
+{{Availability/Entry1|v=Sapphire|t=FFF|area=[[Cave of Origin]] ([[List of in-game event Pokémon in Generation III#Kyogre|only one]])}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Marine Cave]] ([[List of in-game event Pokémon in Generation III#Kyogre 2|only one]])}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry1|v=HeartGold|area=[[Embedded Tower]] <small>(requires [[Blue Orb]])</small> ([[List of in-game event Pokémon in Generation IV#Kyogre|only one]])}}
+{{Availability/Entry1/None|v=SoulSilver}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Omega Ruby|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=Alpha Sapphire|t=FFF|area=[[Cave of Origin]] ([[List of in-game event Pokémon in Generation VI#Kyogre|only one]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]}}
+{{Availability/Entry1/None|v=Ultra Sun|area=[[Trade]]}}
+{{Availability/Entry1|v=Ultra Moon|area=[[Ultra Space Wilds]] ({{DL|Ultra Space Wilds|Water World}}) ([[List of in-game event Pokémon in Generation VII#Kyogre|Only one]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Bonus Field ({{color2|{{sapphire color}}|Sapphire Field}}) (automatically captured after second victory)}}
+{{Availability/Entry1|v=Trozei|color={{yellow color}}|area=Random Agent Cards, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Stormy Sea]] (40F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Safra Sea]] (during mission)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Bottomless Sea]] (50F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Bottomless Sea]] (50F)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: All ([[Pokémon Rumble Blast#Legendary Boss Pokémon|Random Legendary Encounter]])}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#Empoleon the Great|Variety Battle: Empoleon the Great]] <small>(Reward)</small>, [[Challenge Battle#The Final Battle Royale|Challenge Battle: The Final Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 2|Sky-High Ruins: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 700]] <small>(Primal Kyogre)</small><br>Event: ''[[Special Stages#Great Challenge|Kyogre Makes a Splash]]''<br>Event: ''[[Special Stages#Great Challenge|Hoenn Legends Stage ①]]''<br>Event: ''[[Special Stages#Great Challenge|Kyogre Appears]]''<br>Event: ''[[Special Stages#Great Daily (Second release)|Great Daily Pokémon]]'' <small>(Second release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Sea of Origin|Sapphire Sea: Sea of Origin]] <small>(Special Boss)</small>}}
+{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=[[Ocean Tempest]]}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 10|Area 10: Stage 10]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Water}}
+{{eventAvail|{{gameabbrev5|BW}}|Pokémon Center Fukuoka Kyogre|Japanese|Japan|80|April 16 to May 6, 2012|link=List of local Japanese event Pokémon distributions in Generation V#Kyogre 2}}
+{{eventAvail|{{gameabbrev5|W2}}|Sapphire Anniversary Kyogre|Japanese|Japan|100|November 21, 2012 to January 10, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Kyogre}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Dahara City Kyogre|All|Japan|100|June 20 to August 31, 2015|link=List of local event Pokémon distributions in Generation VI#Kyogre 2}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Dahara City Kyogre|Korean region|Online|100|November 20, 2015 to January 31, 2016|link=List of Korean region serial code event Pokémon distributions in Generation VI#Kyogre}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Dahara City Kyogre|All|South Korea|100|December 23 to 27, 2015|link=List of local event Pokémon distributions in Generation VI#Kyogre}}
+{{eventAvail|{{gameabbrev7|US}}|Ultra Shiny Kyogre|Japanese region|Online|60[[File:ShinyVIIStar.png|Shiny|link=Shiny Pokémon]]|January 13 to March 19, 2018
+|link=List of Japanese region serial code event Pokémon distributions in Generation VII#Kyogre}}
+{{eventAvail|{{gameabbrev7|US}}|Winter Korean League Shiny Kyogre|All|South Korea|60[[File:ShinyVIIStar.png|Shiny|link=Shiny Pokémon]]|January 27 to 28, 2018
+|link=List of local event Pokémon distributions in Generation VII#Kyogre}}
+{{eventAvail|{{gameabbrev7|US}}|Ultra Shiny Kyogre|Korean region|Online|60[[File:ShinyVIIStar.png|Shiny|link=Shiny Pokémon]]|February 14 to March 14, 2018
+|link=List of Korean region serial code event Pokémon distributions in Generation VII#Kyogre}}
+|}
+
+===Held items===
+{{HeldItems|type=Water
+|event1=Water Gem|event1type=None|event1rar=100
+|event2=Choice Scarf|event2type=None|event2rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|HP=    100
+|Attack=100
+|Defense=90
+|SpAtk= 150
+|SpDef= 140
+|Speed=  90}}
+
+=====Primal Kyogre=====
+{{Base Stats
+|type=Water
+|HP=100
+|Attack=150
+|Defense=90
+|SpAtk=180
+|SpDef=160
+|Speed=90}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=3
+|SpeedMax=4
+|Power=4
+|PowerMax=4
+|Technique=4
+|TechniqueMax=5
+|Stamina=5
+|StaminaMax=5
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   200
+|Electric=200
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Kyogre|Water|Water|3}}
+{{learnlist/level7|1|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level7|1|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level7|5|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|15|Aqua Tail|Water|Physical|90|90|10||'''}}
+{{learnlist/level7|20|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level7|30|Aqua Ring|Water|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|35|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/level7|45|Origin Pulse|Water|Special|110|85|10||'''}}
+{{learnlist/level7|50|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|60|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/level7|65|Sheer Cold|Ice|Special|&mdash;|&mdash;|5}}
+{{learnlist/level7|75|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|80|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|90|Water Spout|Water|Special|150|100|5||'''}}
+{{learnlist/levelf/7|Kyogre|Water|Water|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Kyogre|Water|Water|3}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Kyogre|Water|Water|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Kyogre|Water|Water|3}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Kyogre|Water|Water|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Kyogre|Water|Water|3}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||'''|no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Liquidation|Water|Physical|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Kyogre|Water|Water|3}}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/PinballRS|col=3|type=Water|ndex=382|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Water|ndex=382|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=382
+|body=4
+|rate=50
+|area=Seafloor Cave
+|P1=I created the seas. What do you wish of me?
+|P2=This defies belief...My health should fall to half?
+|P3=I've had enough...I long for the seas...
+|PL=I've leveled up! The savage power of the seas fill me!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=382
+|body=4
+|rate=-10
+|IQ=E
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=0
+|loop=16
+|MinEXP=600
+|MaxEXP=995
+|browser=Kyogre is a legendary Pokémon that attacks with a succession of giant waves.
+}}
+|-
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=5
+|def=5
+|speed=3
+}}
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=382
+|power=5
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Water|ndex=382|num=160
+|min=70
+|max=140
+|raisemaxlevel=20
+|skill=Rock Break
+|skilldesc=Destroys one breakable-rock disruption without fail.
+|swapper=Rock Shot
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=382P|num=160
+|min=90
+|max=150
+|raisemaxlevel=20
+|skill=Rock Shot α
+|skilldesc=Erases seven breakable-rock disruptions and increases damage.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=382
+|hatch=N/A
+|evolution=N/A
+|stamina=200
+|attack=297
+|defense=276
+|fast={{m|Dragon Tail}}, {{m|Waterfall}}
+|special={{m|Hydro Pump}}, {{m|Blizzard}}, {{m|Thunder}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type=Water
+|pictype=art
+|no1=382
+|name1=Kyogre
+|type1-1=Water}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=382}}
+{{Spritebox/4|ndex=382}}
+{{Spritebox/5|ndex=382}}
+{{Spritebox/6/2FormsORAS‎|ndex=382|form1=P}}
+{{Spritebox/7/2Forms|ndex=382|form1=P}}
+{{Spritebox/Footer|382|Kyogre}}
+
+==Trivia==
+[[File:Marina.png|thumb|Marina's Kyogre Costume]]
+* In games prior to [[Pokémon Omega Ruby and Alpha Sapphire]], Kyogre has a catch rate of 5.
+* [[Palace Maven Spenser]] has a staff with Kyogre's markings on it.
+* Primal Kyogre has the highest {{stat|Special Attack}} base stat, {{stat|Special Defense}} base stat, and base stat total of all {{type|Water}} Pokémon.
+* In [[Pokémon Battle Revolution]], Marina has a [[Pokémon cosplay|costume]] based on Kyogre.
+* In {{g|Omega Ruby and Alpha Sapphire}}, a Kyogre that knows {{m|Surf}} will allow the player to travel more quickly on water than with other Pokémon. This action has its own animation and larger hitbox.
+** Additionally, a Kyogre that knows {{m|Dive}} will allow the player to avoid underwater trainer battles. This action also has its own animation and larger hitbox.
+* Primal Kyogre is the [[List of Pokémon by weight|heaviest]] {{type|Water}} Pokémon.
+
+===Origin===
+Kyogre may be modeled after the Earth's oceans and may be based on the Hebrew legends of {{wp|Leviathan}}, the unconquerable primal master of the sea. Its counterparts were {{wp|Behemoth}} and {{wp|Ziz}}. Just as Kyogre is in conflict with Groudon, it was said that at the end of time Leviathan and Behemoth would start a battle that would kill them both. The Hebrew word for Leviathan is now used for whales in modern Hebrew, which may be why Kyogre's appearance also draws inspiration from whales, especially the {{wp|orca}}.
+
+====Name origin====
+Kyogre may be a combination of 海 ''kai'' (ocean) and ''{{wp|killer whale|orca}}'' (a species described as a whale, but is more closely related to dolphins). Notably, it may also involve 海王 ''kaiō'' (king of the sea), which are the first two characters in 海王星 ''Kaiōsei'' ({{wp|Neptune}}).
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=カイオーガ ''Kyogre''|jameaning=From 海 ''kai'' (ocean) and ''orca''. It may also involve 海王 ''kaiō'' (king of the sea), which are the first two characters in 海王星 ''Kaiōsei'' (Neptune).
+|de=Kyogre|demeaning=Same as Japanese name
+|fr=Kyogre|frmeaning=Same as Japanese name
+|es=Kyogre|esmeaning=Same as Japanese name
+|it=Kyogre|itmeaning=Same as Japanese name
+|ko=가이오가 ''Kyogre''|komeaning=Transcription of its Japanese name.
+|zh_cmn=蓋歐卡 / 盖欧卡 ''Gàiōukǎ''|zh_cmnmeaning=Transcription of its Japanese name
+|zh_yue=蓋歐卡 ''Goiāukā''|zh_yuemeaning=Same as Mandarin name
+|ru=Кайогр ''Kaiogr''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Recurring wild Pokémon in the anime#Kyogre|Kyogre (anime)]]
+* [[Super-ancient Pokémon (Adventures)#Kyogre|Kyogre (Adventures)]]
+* [[Robo Kyogre]]
+* [[Weather trio]]
+
+==Notes==
+<references/>
+
+==External links==
+
+{{-}}
+{{Legendary Pokémon}}<br>
+{{Smash Bros.}}<br>
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=381|prev=Latios|nextnum=383|next=Groudon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Legendary Pokémon]]
+[[Category:Legendary Pokémon obtainable before the Elite Four]]
+[[Category:Hoenn Legendary Pokémon]]
+[[Category:Game mascots]]
+[[Category:Legendary trio Pokémon]]
+
+[[de:Kyogre]]
+[[fr:Kyogre]]
+[[it:Kyogre]]
+[[ja:カイオーガ]]
+[[pl:Kyogre]]
+[[zh:盖欧卡]]

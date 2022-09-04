@@ -1,0 +1,425 @@
+{{PokémonPrevNext/Head|type=Dark}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=570|prev=Zorua|nextnum=572|next=Minccino|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Zoroark}}
+|}
+{{Pokémon Infobox
+|name=Zoroark
+|jname=ゾロアーク
+|jtranslit=Zoroāku
+|tmname=Zoroark
+|category=Illusion Fox
+|typebox=1
+|type1=Dark
+|abilityn=1
+|abilitylayout=1
+|ability1=Illusion
+|ndex=571
+|udex=077
+|u2dex=152
+|karea=Mountain
+|kdex=125
+|height-ftin=5'03"
+|height-m=1.6
+|weight-lbs=178.8
+|weight-kg=81.1
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=179
+|lv100exp=1,059,860
+|gendercode=31
+|color=Gray
+|catchrate=45
+|evtotal=2
+|evsa=2
+|body=06
+|pokefordex=zoroark
+|generation=5
+|friendship=70
+}}
+'''Zoroark''' ([[List of Japanese Pokémon names|Japanese]]: '''ゾロアーク''' ''Zoroark'') is a {{type|Dark}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Zorua}} starting at [[level]] 30.
+
+Both it and Zorua were the first [[Generation V]] Pokémon to be revealed to the public on February 10, 2010. Zoroark initially debuted as a silhouette before being revealed in full.
+
+==Biology==
+Zoroark is a bipedal, gray-brown, fox-like Pokémon with crimson and black accents. It has a pointed snout and ears with red insides. It also has some red rimming its eyes and mouth. It has a large, red, voluminous mane with black tips, which somewhat resembles a ponytail, as a teal bangle down its length separates a mass of the mane from the lower portion. It has a black ruff on its upper body, pointed at the shoulders from which its arms extend. Its upper arms are thin, whereas its lower arms, while still slim, are bulkier. The arms have spiky extensions of fur at the elbows, and it has red claws on its hands and feet. Zoroark's eyes are red-rimmed with light blue irises.
+
+Zoroark can create illusions that are indistinguishable from reality, deluding many people simultaneously. It can even create illusory landscapes in the forests where it dwells, to hide its territory and protect its den. However, Zoroark is incapable of physically changing itself into another form; it is merely capable of casting illusions. When a Zoroark takes the form of a human, it is capable of human speech. It can make convincing illusions of attacks, and these illusions are extremely realistic, enough to fool even cameras and make one believe they're being physically affected, though the illusion does not have any direct physical effect.
+
+Zoroark lives in groups, where unity is strong. It is extremely protective of those it cares about and will go to any lengths to keep them safe, including risking its own life, and it can hold grudges on those who harm its loved ones. Zoroark will hide its Zorua young in its mane to protect them and carry them around. There are stories that say Zoroark punishes those who attempt to catch it by trapping them in an illusion.
+
+==In the anime==
+[[File:Nurse Joy Zoroark.png|thumb|left|250px|Zoroark in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Zoroark (M13)]]====
+{{mov|Zoroark|Zoroark|13}} has a central role in ''[[M13|Zoroark: Master of Illusions]]''. She was threatened by [[Grings Kodai]] into attacking [[Crown City]], under the guises of {{mov|Legendary beasts|Suicune, Entei, and Raikou|13}}, in exchange for {{mov|Zorua|Zorua|13}}'s safety. However, it was unaware of the fact that Zorua had managed to escape.
+
+====Other====
+Zoroark made its main series debut in ''[[BW127|The Island of Illusions!]]''. It inhabited [[Grand Spectrala Islet]] and used its illusion abilities to create [[Giant Pokémon]] in order to protect the other Pokémon on the island from poachers. Decades earlier, it was a Zorua that a [[Nurse Joy]] once cared for, later evolving once Nurse Joy left the island.
+
+===Minor appearances===
+
+==In the manga==
+===In the Pokémon Adventures manga===
+A Zoroark appeared in ''[[PAXY28|Scizor Defends]]'' as a Pokémon in the [[Pokémon Village]].
+
+===In the Pokémon RéBURST manga===
+[[File:Hariru Zoroark.png|thumb|200px|Zoroark in [[Pokémon RéBURST]].]]
+[[Hariru]] has a Zoroark, which was evolved from Zorua. He can use it as a [[Burst]] form.
+{{-}}
+
+==In the TCG==
+{{main|Zoroark (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+Zoroark appears as a Poké Ball summon. In the 3DS version of the game, it is unlocked after clearing 10-Man Smash. Upon release, it uses {{m|Fury Swipes}} to send fighters into the air, slash them repeatedly, and smash them back down.
+
+====Trophy information====
+[[File:Zoroark SSB4.png|thumb|240px|Zoroark in Super Smash Bros. for 3DS.]]
+'''NA''': ''This Dark-type Pokémon will protect its home and anyone it cherishes by creating illusions to fluster opponents. When it uses Fury Swipes, it will vanish from view and then suddenly appear next to its targets, launching them upward. It will then finish them off by sending them crashing back down. ''
+
+'''PAL''': ''This Dark-type Pokémon is a powerful illusionist, and uses its power to confuse any that would threaten its home and loved ones. When it uses its Fury Swipes attack, it vanishes, then reappears next to an opponent and sends them flying into the air. It then slashes at them furiously before slamming them into the ground. ''
+{{-}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dark}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.}}
+{{Dex/Entry1|v=White|entry=Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Stories say those who tried to catch Zoroark were trapped in an illusion and punished.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.}}
+{{Dex/Entry1|v=Y|entry=Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=It doesn't just transform itself—it also has the power to make hundreds of people see its illusions.}}
+{{Dex/Entry1|v=Ultra Moon|entry=If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dark}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Lostlorn Forest]] <small>(requires {{Shiny}} [[fateful encounter]] {{p|Entei}}, {{p|Raikou}}, or {{p|Suicune}})</small><br>[[Evolution|Evolve]] {{p|Zorua}} <small>(requires [[fateful encounter]] {{p|Celebi}})</small>}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{pkmn2|N's}} {{p|Zorua}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|20|Kalos}}, [[Pokémon Village]]}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Zorua}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Poni Grove]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dark}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Trailhead Field]] (post-ending)}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Zorua}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Glacier Palace - Western Spire]] (1F-12F), [[Silent Tundra]] (B1-B26), [[Dreamy Island]] (1F-25F), [[Moonlit Forest]] (Golden Chamber), [[Cape at the Edge]] (B1-B29), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Magical Lake#Protect Pichu in the Forest|Magical Lake: Protect Pichu in the Forest]] <small>(Boss)</small>, [[Toy Collection#The Sword for Justice|Toy Collection: The Sword for Justice]],<br>[[Chill Battle#The Three Little Tepig|Chill Battle: The Three Little Tepig]], NFC Figurine}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 4|Dragon Hill: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Castle Noapte|Castle Noapte: Stage 129]]<br>[[Graucus Hall|Graucus Hall: Stage 465]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Ivory Pillar|White Ruins: Ivory Pillar]] <small>(Center Boss, Back, Special)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 30|Area 30: Stage 12]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Dark}}
+{{eventAvail|{{gameabbrev5|BW}}|Pokémon Smash! Zoroark|Japanese|Japan|50|January 16 to February 6, 2011|link=List of local Japanese event Pokémon distributions in Generation V#Pokémon Smash! Zoroark}}
+{{eventAvail|{{gameabbrev5|BW}}|Pokémon Smash! Zoroark|Japanese|Japan<br>Wi-Fi|50|February 15 to March 14, 2011|link=List of Wi-Fi Japanese event Pokémon distributions in Generation V#Pokémon Smash! Zoroark}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Zoroark|English|Europe|50|June 11 to October 23, 2011|link=List of local English event Pokémon distributions in Generation V#Summer 2011 Zoroark}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Zoroark|French|Europe|50|June 11 to October 23, 2011|link=List of local French event Pokémon distributions in Generation V#2011 Summer Zoroark}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Zoroark|German|Europe|50|June 11 to October 23, 2011|link=List of local German event Pokémon distributions in Generation V#2011 Summer Zoroark}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Zoroark|Italian|Europe|50|June 11 to October 23, 2011|link=List of local Italian event Pokémon distributions in Generation V#2011 Summer Zoroark}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2011 Zoroark|Spanish|Europe|50|June 11 to October 23, 2011|link=List of local Spanish event Pokémon distributions in Generation V#2011 Summer Zoroark}}
+{{eventAvail|{{gameabbrev5|BW}}|Station Zoroark|Korean|South Korea|50|June 26 to August 28, 2011|link=List of local Korean event Pokémon distributions in Generation V#Station Zoroark}}
+{{eventAvail|{{gameabbrev5|BW}}|Zoroark Month Zoroark|English|Australia and North America|50|September 16 to October 16, 2011|link=List of local English event Pokémon distributions in Generation V#Zoroark Month Zoroark}}
+{{eventAvail|{{gameabbrev5|BW}}|Zoroark Month Zoroark|French|Australia and North America|50|September 16 to October 16, 2011|link=List of local French event Pokémon distributions in Generation V#Zoroark Month Zoroark}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Sly Zoroark|American region|Online|50|November 4 to 20, 2015|link=List of American region Nintendo Network event Pokémon distributions in Generation VI#Sly Zoroark}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Sly Zoroark|PAL region|Online|50|November 6, 2015 to January 7, 2016|link=List of PAL region serial code event Pokémon distributions in Generation VI#Sly Zoroark}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon EXPO Gym Zoroark|Japanese region|Online|45|November 19, 2015 to May 31, 2016|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Zoroark}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Dark
+|event1=Expert Belt|event1type=In-battle effect item|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Dark
+|HP=60
+|Attack=105
+|Defense=60
+|SpAtk=120
+|SpDef=60
+|Speed=105}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Zoroark|Dark|Dark|5}}
+{{learnlist/level7|1|Night Slash|Dark|Physical|70|100|15||'''}}
+{{learnlist/level7|1|Night Daze|Dark|Special|85|95|10||'''}}
+{{learnlist/level7|1|Imprison|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Pursuit|Dark|Physical|40|100|20||'''}}
+{{learnlist/level7|1|Hone Claws|Dark|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Night Slash|Dark|Physical|70|100|15||'''}}
+{{learnlist/level7|5|Pursuit|Dark|Physical|40|100|20||'''}}
+{{learnlist/level7|9|Hone Claws|Dark|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|13|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level7|17|Feint Attack|Dark|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|21|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|25|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|29|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/level7|34|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|39|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|44|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|49|Punishment|Dark|Physical|&mdash;|100|5||'''}}
+{{learnlist/level7|54|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|59|Imprison|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|64|Night Daze|Dark|Special|85|95|10||'''}}
+{{learnlist/levelf/7|Zoroark|Dark|Dark|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Zoroark|Dark|Dark|5}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10||'''}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Zoroark|Dark|Dark|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Zoroark|Dark|Dark|5}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}<br>{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|234|Stantler}}{{MSP|300|Skitty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}<br>{{MSP|509|Purrloin}}{{MSP|572|Minccino}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|300|Skitty}}{{MSP|327|Spinda}}|Copycat|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|052A|Meowth}}{{MSP|053A|Persian}}{{MSP|461|Weavile}}|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|448|Lucario}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|274|Nuzleaf}}|Extrasensory|Psychic|Special|80|100|20}}
+{{learnlist/breed7|{{MSP|434|Stunky}}{{MSP|435|Skuntank}}|Memento|Dark|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|631|Heatmor}}|Snatch|Dark|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}<br>{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}<br>{{MSP|303|Mawile}}{{MSP|327|Spinda}}{{MSP|352|Kecleon}}{{MSP|359|Absol}}{{MSP|431|Glameow}}{{MSP|434|Stunky}}<br>{{MSP|435|Skuntank}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|676|Furfrou}}{{MSP|678|Meowstic}}{{MSP|775|Komala}}|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/breedf/7|Zoroark|Dark|Dark|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Zoroark|Dark|Dark|5}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15||'''|no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||'''|no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Zoroark|Dark|Dark|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Zoroark|Dark|Dark|5}}
+{{learnlist/prevo7|570|Zorua|||||Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/prevof/7|Zoroark|Dark|Dark|5}}
+
+===Side game data===
+{{Spindata/Head|type=Dark}}
+{{Spindata/RumbleBlast|col=6|type=Dark
+|att=4
+|def=2
+|speed=4
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Dark|ndex=571
+|pad=She is originally from the [[Tech Area]]. She had something on her mind and was traveling in PokéPark to find a place to live.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Dark|ndex=571
+|HP=2
+|atk=4
+|def=2
+|spd=4
+|range=4
+|move=Night Daze
+|ability1=Illusion
+|ability2=Pride
+|ability3=Shadow Dash
+|evo=Evolves from {{p|Zorua}} when its Attack is 90 or higher
+|link='''[[Kotarō]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Dark|ndex=571
+|power=3
+|skill=Flinch Attack
+|skilldesc=Briefly stops wild Pokémon from taking action.
+}}
+{{Spindata/Shuffle|col=3|type=Dark|ndex=571|num=064
+|min=70
+|max=140
+|raisemaxlevel=20
+|skill=Sinister Power
+|skilldesc=Increases damage done by any Dark types in the combo.
+|swapper=Hitting Streak
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Dark
+|no1=570
+|name1=Zorua
+|type1-1=Dark
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no2=571
+|name2=Zoroark
+|type1-2=Dark
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Dark}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=571}}
+{{Spritebox/6|ndex=571}}
+{{Spritebox/7|ndex=571}}
+{{Spritebox/Footer|571|Zoroark}}
+
+==Trivia==
+[[File:PSGEN5.png|thumb|Zoroark's silhouette on [[Pokémon Sunday]]]]
+* Zoroark was first revealed by [[Junichi Masuda]] as a silhouette in the February 7, 2010 edition of [[Pokémon Sunday]]. Its full image was later revealed in the March 2010 issue of [[CoroCoro]], alongside its pre-evolution, {{p|Zorua}}.
+* Due to its debut before [[Generation V]] in ''[[M13|Zoroark: Master of Illusions]]'', it can be seen as a parallel to {{p|Lucario}}, which debuted in ''[[M08|Lucario and the Mystery of Mew]]'', prior to the release of [[Generation IV]]. Unlike Lucario, however, Zoroark was revealed at the same time as its pre-evolved form.
+** They both share the same names in Japanese and English versions of the game, have the same [[List of Pokémon by gender ratio|Gender ratio]], are in the {{egg3|Field}} and need [[:Category:Pokémon in the Medium Slow experience group|1,059,860 Exp.]] to reach level 100.
+* Though evolving from Zorua at level 30, pre-release information from CoroCoro suggested it would evolve from Zorua by a method different from known evolution methods. What this method might have been if it was true is unknown.
+* Zoroark and its pre-evolution Zorua are the only non-Mythical Pokémon to have been [[event]]-exclusive for a time (prior to the release of {{game|Black and White|s|Pokémon Black 2 and White 2|2}}).
+
+===Origin===
+Zoroark is likely based on {{wp|kitsune}} of Japanese folklore, a shape-shifting mythical {{wp|fox}} that would trick unsuspecting travelers for fun. This is similar to {{p|Ninetales}}, another Pokémon based on kitsune. Its facial markings draw from {{wp|Kabuki}} and {{wp|Noh}} theatre makeup. It also resembles a {{wp|werewolf}}, due to the fact that it is an anthropomorphic {{wp|Canidae|canid}}, like most werewolves. Its large claws are also werewolf-like.
+
+====Name origin====
+Zoroark may be a combination of ''zorro'' (Spanish for ''fox'') and ''dark'', 悪 ''aku'' (evil), or ''arch-'' (prefix for "top" or "chief").
+
+==In other languages==
+{{Other languages|type=Dark|type2=Dark
+|ja=ゾロアーク ''Zoroark''|jameaning=From ''{{tt|zorro|fox in Spanish}}'' and ''dark'' or {{tt|悪 ''aku''|evil}}
+|fr=Zoroark|frmeaning=Same as English/Japanese name
+|es=Zoroark|esmeaning=Same as English/Japanese name
+|de=Zoroark|demeaning=Same as English/Japanese name
+|it=Zoroark|itmeaning=Same as English/Japanese name
+|ko=조로아크 ''Zoroark''|komeaning=Transliteration of Japanese name
+|zh_cmn=索羅亞克 / 索罗亚克 ''Suǒluóyǎkè'' / ''Suǒluóyàkè''|zh_cmnmeaning=Transliteration of Japanese name
+|ru=Зороарк ''Zoroark''|rumeaning=Same as English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Zoroark (M13)]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+* [[wp:Zorua and Zoroark|Article on Wikipedia]]
+
+{{-}}
+{{Smash Bros.}}<br>
+{{PokémonPrevNext/Head|type=Dark}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=570|prev=Zorua|nextnum=572|next=Minccino}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appeared in the anime before their game debut]]
+
+[[de:Zoroark]]
+[[fr:Zoroark]]
+[[it:Zoroark]]
+[[ja:ゾロアーク]]
+[[pl:Zoroark]]
+[[zh:索罗亚克]]

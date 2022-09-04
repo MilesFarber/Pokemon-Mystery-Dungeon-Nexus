@@ -1,0 +1,322 @@
+{{PokémonPrevNext/Head|type=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=703|prev=Carbink|nextnum=705|next=Sliggoo|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Goomy}}
+|}
+{{Pokémon Infobox
+|name=Goomy
+|jname=ヌメラ
+|tmname=Numera
+|category=Soft Tissue
+|typebox=1
+|type1=Dragon
+|abilityn=d
+|ability1=Sap Sipper
+|ability2=Hydration
+|abilityd=Gooey
+|ndex=704
+|karea=Mountain
+|kdex=019
+|adex=178
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=6.2
+|weight-kg=2.8
+|egggroupn=1
+|egggroup1=Dragon
+|gendercode=127
+|eggcycles=40
+|evtotal=1
+|evsd=1
+|expyield=60
+|lv100exp=1,250,000
+|color=Purple
+|catchrate=45
+|body=02
+|pokefordex=goomy
+|generation=6
+|friendship=35
+}}
+'''Goomy''' ([[List of Japanese Pokémon names|Japanese]]: '''ヌメラ''' ''Numera'') is a {{type|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[evolution|evolves]] into {{p|Sliggoo}} starting at [[level]] 40, which evolves into {{p|Goodra}} starting at level 50 when leveled up during [[rain]] in the overworld.
+
+==Biology==
+[[File:Ash Goomy melted.png|thumb|250px|left|Goomy's dried out body]]
+Goomy looks like a light purple, vaguely slug-like pile of goo. The top half of its body is a lighter purple than its bottom half, and the two halves are separated by a squiggly, dark purple outline decorated with five green dots. It has beady eyes, and it has two rows of two horn-like structures on top of its head.
+
+Goomy is widely considered the weakest Dragon-type Pokémon. Its body is made mostly of water. Once it dries out, it is unable to breathe and dies. Because of this, it hides in damp and shady places, such as swamps, to keep its body slimy. This slime is germ-laden, and makes punches and kicks aimed at it slide off harmlessly. It uses its sensitive horns to check out its surroundings. As seen in the anime, its diet consists of leaves.
+
+==In the anime==
+[[File:Ash Goomy.png|left|thumb|250px|Goomy in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Goomy]]====
+Goomy debuted in ''[[XY055|A Slippery Encounter!]]''. It was later caught by {{Ash}}. In ''[[XY061|An Oasis of Hope!]]'', Goomy evolved into {{p|Sliggoo}}; and in ''[[XY065|Good Friends, Great Training!]]'', Sliggoo evolved again into {{p|Goodra}}.
+
+===Minor appearances===
+A Goomy appeared in ''[[XY073|A Fashionable Battle!]]''.
+
+Three Goomy appeared during a flashback in ''[[SS036|The Legend of X, Y, and Z!]]'', with one belonging to a {{pkmn|Trainer}} and the other two being wild.
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY055|Goomy|Ash's Pokédex|Goomy, the Soft Tissue Pokémon, and the weakest of all Dragon-types. In order to keep its body moist, Goomy lives in places where it's dark and damp.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Team Flare Goomy Adventures.png|thumb|150px|Goomy in [[Pokémon Adventures]]]]
+===In the [[Pokémon Adventures]] manga===
+A Goomy appeared with its Trainer in [[Santalune City]] in ''[[PAXY05|Kangaskhan...Kangascan't]]''.
+
+In ''[[PAXY23|Gyarados Changes]]'', two {{tc|Team Flare Grunt}}s used two Goomy to try and prevent {{adv|X}} and [[Emma]] from entering the [[Team Flare Secret HQ]]. They were easily sent flying with the psychic powers of Emma's {{p|Espurr|Mimi}}.
+
+==In the TCG==
+{{main|Goomy (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Super Mystery Dungeon}}: Goomy is one of the students at {{DL|Serene Village|School|Serene Village School}}. He is easily intimidated and scared but good friends with {{p|Deerling}}.
+
+===Pokédex entries===
+{{Dex/Header|type=dragon}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn't dry out.}}
+{{Dex/Entry1|v=Y|entry=It's covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn't dry out.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It's covered in a slimy membrane that makes any punches or kicks slide off it harmlessly.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=The weakest of all Dragon-type Pokémon, it's unable to breathe if its skin dries out, so it sticks to shady places.}}
+{{Dex/Entry1|v=Moon|entry=Its source of protection is its slimy, germ-laden mucous membrane. Anyone who touches it needs some thorough hand-washing.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It uses its horns to check out its surroundings. They're very sensitive, so if you grab them, it will feel a strong shock and be unable to move.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its body is mostly water. If it dries out, it will die, so it's always sitting with perfect stillness in the shade.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{rt|14|Kalos}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|17|Alola}}, [[Lush Jungle]] ([[SOS Battle]] in {{weather|rain}})}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|17|Alola}}, [[Lush Jungle]] ([[SOS Battle]] in {{weather|rain}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 4|Sky-High Ruins: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 213]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Forgotten Forest|Dark Land: Forgotten Forest]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 04|Area 04: Stage 03]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Dragon}}
+{{eventAvail|{{gameabbrev7|SM}}|Easter Goomy Egg|All|Japan|1|March 18 to April 9, 2017|link=List of local event Pokémon distributions in Generation VII#Goomy 2}}
+{{eventAvail|{{gameabbrev7|SM}}|Korean Goomy Egg|All|South Korea|1|April 29 to May 7, 2017|link=List of local event Pokémon distributions in Generation VII#Goomy}}
+|}
+
+===Held items===
+{{HeldItems|type=Dragon
+|sm1=Shed Shell|sm1type=None|sm1rar=5
+|usum1=Shed Shell|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{Base Stats
+|type=Dragon
+|HP=45
+|Attack=50
+|Defense=35
+|SpAtk=55
+|SpDef=75
+|Speed=40}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dragon
+|Normal=  100
+|Flying=  100
+|Fighting=100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Poison=  100
+|Ghost=   100
+|Steel=   100
+|Fire=     50
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic= 100
+|Ice=     200
+|Dragon=  200
+|Dark=    100
+|Fairy=   200
+|notes=yes
+|sapsipper=maybe}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Goomy|Dragon|Dragon|6}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Bubble|Water|Special|40|100|30}}
+{{learnlist/level7|5|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level7|9|Protect|Normal|Status|—|—|10}}
+{{learnlist/level7|13|Bide|Normal|Physical|—|—|10}}
+{{learnlist/level7|18|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level7|25|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/level7|28|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level7|32|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level7|38|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/level7|42|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/levelf/7|Goomy|Dragon|Dragon|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Goomy|Dragon|Dragon|6}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Goomy|Dragon|Dragon|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Goomy|Dragon|Dragon|6}}
+{{learnlist/breed7|{{MSP|690|Skrelp}}|Acid Armor|Poison|Status|—|—|20|*}}
+{{learnlist/breed7|{{MSP|559|Scraggy}}|Counter|Fighting|Physical|—|100|20|*}}
+{{learnlist/breed7|{{MSP|696|Tyrunt}}|Curse|Ghost|Status|—|—|10|*}}
+{{learnlist/breed7|{{MSP|776|Turtonator}}|Endure|Normal|Status|—|—|10}}
+{{learnlist/breed7|{{MSP|443|Gible}}{{MSP|610|Axew}}{{MSP|621|Druddigon}}|Iron Tail|Steel|Physical|100|75|15|*}}
+{{learnlist/breed7|{{MSP|336|Seviper}}{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}|Poison Tail|Poison|Physical|50|100|25}}
+{{learnlist/breedf/7|Goomy|Dragon|Dragon|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Goomy|Dragon|Dragon|6}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Goomy|Dragon|Dragon|6}}
+
+====By {{pkmn2|event}}s====
+{{learnlist/eventh/7|Goomy|Dragon|Dragon|6}}
+{{learnlist/event7|[[List of local event Pokémon distributions in Generation VII#Easter Eggs|Easter Egg Goomy]]<br>[[List of local event Pokémon distributions in Generation VII#Korean Pokémon Eggs|Korean Egg Goomy]]|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/eventf/7|Goomy|Dragon|Dragon|6}}
+
+===Side game data===
+{{Spindata/Head|type=Dragon}}
+{{Template:Spindata/Battle Trozei|col=6|type=Dragon|ndex=704
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Dragon|ndex=704|num=288
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Flash Mob
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=dragon
+|pictype=art
+|no1=704
+|name1=Goomy
+|type1-1=Dragon
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 40}}
+|no2=705
+|name2=Sliggoo
+|type1-2=Dragon
+|evo2={{bag|Rare Candy}} <br>{{color2|000|Level|Level 50}}<br> while {{color2|000|Rain|raining}}
+|no3=706
+|name3=Goodra
+|type1-3=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=dragon}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=704}}
+{{Spritebox/7|ndex=704}}
+{{Spritebox/Footer|704|Goomy}}
+
+==Trivia==
+* Goomy is both the [[List of Pokémon by weight|lightest]] and shortest {{type|Dragon}} Pokémon.
+* Goomy ties with {{p|Noibat}} for having the lowest base {{stat|Defense}} of any {{type|Dragon}} Pokémon.
+* Goomy was designed by [[Saya Tsuruta]].
+<!--Please do not put anything about Goomy or Noibat being the weakest Dragon-type.-->
+
+===Origin===
+Goomy greatly resembles the prehistoric ''{{wp|wiwaxia}}''. Goomy seems to be based on soft bodied gastropods, such as {{wp|slug}}s and {{wp|nudibranch}}; its typing and eventual dragon design in evolution may be a reference to the {{wp|Glaucus atlanticus|"blue dragon" sea slug}}. It may also be based upon the concept of living slime in popular culture.
+
+====Name origin====
+Goomy may be a combination of ''goo'' and either ''gummy'' or ''slimy''.
+
+Numera is derived from 滑る ''numeru'' (to be slippery) and ぬらぬら ''nuranura'' (onomatopoetic word for slimy).
+
+==In other languages==
+{{Other languages|type=Dragon|type2=Dragon
+|ja=ヌメラ ''Numera''|jameaning=From {{tt|滑る ''numeru''|to be slippery}} and {{tt|ぬらぬら ''nuranura''|onomatopoetic word for slimy}}
+|fr=Mucuscule|frmeaning=From ''{{wp|mucus}}'' and ''minuscule''
+|es=Goomy|esmeaning=Same as English name
+|de=Viscora|demeaning=From ''{{tt|viskos|viscous}}''
+|it=Goomy|itmeaning=Same as English name
+|ko=미끄메라 ''Mikkeumera''|komeaning=From {{tt|미끄럽다 ''mikkeureopda''|to be slippery}}''
+|zh_yue=黏黏寶 ''Nìhmnìhmbóu''|zh_yuemeaning=From {{tt|黏 ''nìhm''|sticky}} and {{tt|寶寶 ''bóubóu''|baby}}
+|zh_cmn=黏黏寶 / 黏黏宝 ''Niánniánbǎo''|zh_cmnmeaning=From {{tt|黏 ''nián''|sticky}} and {{tt|寶寶 / 宝宝 ''bǎobǎo''|baby}}
+|hi=गूमी ''Goomy''|himeaning=Transcription of English name
+|ru=Гуми ''Gumi''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+*[[Ash's Goomy]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=703|prev=Carbink|nextnum=705|next=Sliggoo}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Viscora]]
+[[fr:Mucuscule]]
+[[it:Goomy]]
+[[ja:ヌメラ]]
+[[pl:Goomy]]
+[[zh:黏黏宝]]

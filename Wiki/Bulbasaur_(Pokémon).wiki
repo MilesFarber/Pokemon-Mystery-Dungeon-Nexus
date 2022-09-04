@@ -1,0 +1,717 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/GO|species=Bulbasaur}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=807|prev=Zeraora|nextnum=002|next=Ivysaur|round=none}}
+{{PokémonPrevNext/Disambig|species=Bulbasaur}}
+|}
+{{Pokémon Infobox
+|name=Bulbasaur
+|jname=フシギダネ
+|tmname=Fushigidane
+|ndex=001
+|oldjdex=226
+|jdex=231
+|karea=Central
+|kdex=080
+|fbrow=001
+|obrow=014
+|opbrow=004
+|typebox=1
+|type1=Grass
+|type2=Poison
+|category=Seed
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=15.2
+|weight-kg=6.9
+|abilityn=d
+|ability1=Overgrow
+|abilityd=Chlorophyll
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=1
+|evsa=1
+|expyield=64
+|oldexp=64
+|lv100exp=1,059,860
+|gendercode=31
+|color=Green
+|catchrate=45
+|body=08
+|generation=1
+|pokefordex=bulbasaur
+|friendship=70
+}}
+'''Bulbasaur''' ([[List of Japanese Pokémon names|Japanese]]: '''フシギダネ''' ''Fushigidane'') is a dual-type {{2t|Grass|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] into {{p|Ivysaur}} starting at [[level]] 16, which evolves into {{p|Venusaur}} starting at level 32.
+
+Along with {{p|Charmander}} and {{p|Squirtle}}, Bulbasaur is one of three [[starter Pokémon]] of [[Kanto]] available at the beginning of [[Pokémon Red and Green Versions|Pokémon Red, Green]], [[Pokémon Red and Blue Versions|Blue]], [[Pokémon FireRed and LeafGreen Versions|FireRed, and LeafGreen]].
+
+==Biology==
+Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and scleras. It also has pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.
+
+As mentioned [[AG025|in the anime]], starter Pokémon are raised by {{tc|Pokémon Breeder|Breeder}}s to be distributed to new {{pkmn|Trainer}}s. Having been domesticated from birth, Bulbasaur is regarded as both a rare and well-behaved Pokémon. [[EP102|It is known]] to be extremely loyal, even after long-term abandonment. [[PK01|Bulbasaur has also shown]] itself to be an excellent caretaker, even having a special technique called the "Bulba-by." To perform this technique, Bulbasaur uses its vines to pick up a young Pokémon and soothingly rocks it in the air.
+It is found in {{DL|List of Pokémon by habitat|Grassland Pokémon|grasslands}} and forests throughout the Kanto region. However, due to Bulbasaur's status as starter Pokémon, it is hard to come by in the wild and generally found under the ownership of a Trainer. [[EP051|It has been observed]] that a Bulbasaur's bulb will flash blue when it is ready to evolve. If it does not want to evolve, it struggles to resist the transformation. Many Bulbasaur gather every year in a hidden garden in Kanto to evolve into Ivysaur in a ceremony led by a Venusaur.
+
+==In the anime==
+===In the main series===
+[[File:Shauna Bulbasaur.png|thumb|250px|Bulbasaur in the {{pkmn|anime}}]]
+====Major appearances====
+=====[[Ash's Bulbasaur]]=====
+Ash's Bulbasaur debuted in ''[[EP010|Bulbasaur and the Hidden Village]]'' as one of the Pokémon in the [[Hidden Village]]. Though initially wary of {{Ash}}, the two eventually warmed up to one another, and Bulbasaur challenged him to a battle. Using {{AP|Pikachu}}, Ash won the battle, and Bulbasaur was caught. Unlike {{AP|Charmander}} and {{AP|Squirtle}}, which were caught in the two episodes following that of Bulbasaur, Bulbasaur remained in Ash's party until ''[[EP225|Bulbasaur... the Ambassador!]]'', when Ash sent him to {{an|Professor Oak}}'s [[Professor Oak's Laboratory|lab]] to work as an ambassador between otherwise argumentative groups of Pokémon.
+
+=====[[May's Bulbasaur]]=====
+Much later on, when Ash was traveling in the [[Hoenn]] region, his companion {{an|May}} caught her own Bulbasaur after being separated from the group in ''[[AG073|Grass Hysteria!]]''. It remained with her throughout the rest of her journey in Hoenn, helping her to win the {{ci|Purika}} {{pkmn|Contest}} and place Top 8 in the [[Hoenn Grand Festival|regional]] [[Grand Festival]]. When she traveled to [[Kanto]] to continue her journey with Ash in ''[[AG133|The Right Place and the Right Mime]]'', May, too, left her Bulbasaur at [[Professor Oak's Laboratory]] to learn from Ash's while she and Ash's group traveled throughout the Kanto region. May retrieved it during her travels in [[Johto]], where it evolved all the way into a {{p|Venusaur}}.
+
+=====[[Shauna's Bulbasaur]]=====
+{{an|Shauna}}'s starter Pokémon is a Bulbasaur she received from [[Professor Sycamore]]. It first appeared in ''[[XY039|Summer of Discovery!]]''. Shauna's Bulbasaur was revealed to have evolved into Ivysaur by ''[[XY090|Tag Team Battle Inspiration!]]''
+
+=====Other=====
+A Bulbasaur that used to belong to the [[Mayor of Trovitopolis]] appeared in ''[[EP102|The Mystery Menace]]''. In his childhood, the mayor abandoned his Bulbasaur and sent it into the sewers when it wouldn't evolve into {{p|Ivysaur}}. Aided by [[Misty]] and {{Tracey}}, Ash found the abandoned Bulbasaur while searching for his own, which had gone missing. After defeating the arrogant mayor and his personal SWAT team, Ash and company left the Bulbasaur, which had grown rather large in its time in the sewers, with [[Nurse Joy]].
+
+In ''[[SS014|Journey to the Starting Line!]]'', {{OBP|Gilbert|SS014}}, the son of the mayor of [[Pallet Town]], was supposed to start his journey as a [[Pokémon Trainer]] with one of the three Kanto [[starter Pokémon]], but they were scared off by [[Ash's Tauros]]. {{an|Professor Oak}}, {{Tracey}}, {{Delia}}, and Gilbert set out to find them. The Bulbasaur was the last one to be found and it was stuck in a tree that was surrounded by a group of {{p|Primeape}}. In the end, Bulbasaur was the one that Gilbert decided to start with.
+
+A Bulbasaur appeared in ''[[PK24|Meloetta's Moonlight Serenade]]''.
+
+====Minor appearances====
+Bulbasaur was mentioned in the first episode of the anime, ''[[EP001|Pokémon - I Choose You!]]'', as one of the three [[starter Pokémon]] new Trainers in [[Pallet Town]] can choose from. Ash dreamed of owning one, and it was his second choice of a starter, after {{p|Squirtle}}. However, when he arrived at Oak's lab, it was too late, as an unnamed Trainer who started the same day had already taken it.
+
+Multiple Bulbasaur appeared in ''[[EP015|Battle Aboard the St. Anne]]''.
+
+A Bulbasaur appeared in ''[[EP028|Pokémon Fashion Flash]]'', ''[[EP057|The Breeding Center Secret]]'', ''[[M06|Jirachi: Wish Maker]]'' and ''[[BW116|The Fires of a Red-Hot Reunion!]]''.
+
+A {{pkmn|Trainer}}'s Bulbasaur appeared in ''[[EP080|Friends to the End]]'', during the closing ceremonies of the [[Indigo Plateau Conference]].
+
+A Bulbasaur was used by one of the students of the [[Pokémon Trainers' School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+A Bulbasaur was one of the [[starter Pokémon]] at [[Professor Oak's Laboratory]] in ''[[AG133|The Right Place and the Right Mime]]''.
+
+A Bulbasaur made a brief appearance in ''[[DP182|An Old Family Blend!]]'', under the ownership of a Trainer in the [[Lily of the Valley Conference]].
+
+A Bulbasaur appeared alongside Squirtle and Charmander when Professor Oak showed off the Kanto Starters during the [[Kanto Fair]].
+
+A Bulbasaur appeared in ''[[SM003|Loading the Dex!]]'' as a silhouette that [[Rotom Pokédex]] brought up.
+
+A Trainer's Bulbasaur appeared in ''[[SM017|Crystal-Clear Sleuthing!]]''.
+
+A Trainer's Bulbasaur appeared in ''[[M20|I Choose You!]]''. Another was revealed to have been chosen by {{OBP|Marina|EP091}} as her [[starter Pokémon]] in a flashback.
+
+A Trainer's Bulbasaur appeared in ''[[SM040|Balloons, Brionne, and Belligerence!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kanto|no}}
+{{Animedexbody|EP010|Bulbasaur|Ash's Pokédex|Bulbasaur. It bears the seed of a plant on its back from birth. The seed slowly develops. Researchers are unsure whether to classify Bulbasaur as a plant or animal. Bulbasaur are extremely calm and very difficult to capture in the {{pkmn2|wild}}.}}
+{{Animedexbody|EP051|Solar Beam|Ash's Pokédex|Solar Beam, Bulbasaur's strongest [[move|attack]]. Light is collected and formed into a powerful beam with intensive force.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY039|Bulbasaur|Serena's Pokédex|Bulbasaur, the Seed Pokémon. A young Bulbasaur uses the nutrients from its seed for the energy it needs to grow.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+[[File:Oak Bulbasaur PO.png|thumb|left|220px|Bulbasaur in [[Pokémon Origins]]]]
+[[File:Red Bulbasaur PG.png|thumb|220px|Bulbasaur in [[Pokémon Generations]]]]
+
+===In Pokémon Origins===
+Bulbasaur was one of the Pokémon that [[Professor Oak]] was giving away in ''[[PO01|File 1: Red]]''.
+
+===In Pokémon Generations===
+A Bulbasaur appeared in ''[[PG01|The Adventure]]'', under the ownership of {{ga|Red}}.
+{{-}}
+
+==In the manga==
+[[File:Saur Bulbasaur.png|thumb|200px|Bulbasaur in [[Pokémon Adventures]]]]
+===In the [[Ash & Pikachu]] manga===
+{{main|Ash's Bulbasaur}}
+Ash's Bulbasaur appeared in ''[[SP11|Do Your Best Bulbasaur!!]]''.
+
+===In [[The Electric Tale of Pikachu]] manga===
+{{main|Ash's Bulbasaur}}
+Ash's Bulbasaur appears in [[The Electric Tale of Pikachu]], first appearing in the eighth chapter, ''[[ET08|You Gotta Have Friends]]''. Bulbasaur's capture is not shown; it is simply stated when it first appears from its [[Poké Ball]] that "{{OBP|Ash Ketchum|EToP|Ash}} has been busy since the last comic".
+
+In ''[[ET09|I'm Your Venusaur]]'', Ash and Misty travel to a town inhabited by many Bulbasaur, {{p|Ivysaur}} and {{p|Venusaur}}. There is a local legend that a giant Venusaur saved the townsfolk in battle.
+
+===In the [[Magical Pokémon Journey]] manga===
+{{main|Bulbasaur (MPJ)}}
+In [[Magical Pokémon Journey]], [[Pistachio]]'s {{MPJ|Bulbasaur}} has a crush on him and is extremely jealous whenever she sees him talking to other females.
+
+[[File:Ash Bulbasaur EToP.png|thumb|left|200px|Bulbasaur in [[The Electric Tale of Pikachu]]]]
+===In the movie adaptations===
+{{main|Ash's Bulbasaur}}
+Ash's Bulbasaur appears in {{ma|Mewtwo Strikes Back!}}, {{ma|Mirage Pokémon Lugia's Explosive Birth}} and {{ma|Emperor of the Crystal Tower: Entei}}.
+
+===In the [[Pokémon Adventures]] manga===
+{{main|Saur}}
+In ''[[PS002|Bulbasaur, Come Home!]]'', {{adv|Red}} receives a [[Saur|Bulbasaur]] from {{adv|Professor Oak}} after helping capture all the Pokémon he accidentally set free. Bulbasaur, now named Saur, has since evolved into {{p|Ivysaur}}, and then to {{p|Venusaur}}. It has also been shown in the manga that Bulbasaur has the ability to suck in large amounts of air through his bulb, as seen in ''[[PS014|That Awful Arbok!]]'' where he sucked up the mist in [[Pokémon Tower]] as well as the {{p|Gastly}} that made it.
+
+Another Bulbasaur appeared as a silhouette when {{adv|Green}} explains about {{p|Mew}} in ''[[PS017|The Jynx Jinx]]''.
+
+[[Professor Sycamore]] owns a Bulbasaur in ''[[PAXY04|They Have a Flare for a Li'l Kanga-Napping]]''.
+
+===In the [[Pokémon Pocket Monsters]] manga===
+Bulbasaur appears in the [[PM001|very first chapter]] as one of the starter Pokémon {{OBP|Professor Oak|Pocket Monsters}} was giving away.
+
+===In the [[Pokémon Zensho]] manga===
+Bulbasaur appeared as one of the starter Pokémon Professor Oak was giving away in the [[PZ01|very first chapter]].
+
+==In the TCG==
+{{main|Bulbasaur (TCG)}}
+
+==In the TFG==
+One Bulbasaur figure has been released.
+* {{TFG|Groundbreakers}}: {{TFG ID|Groundbreakers|Bulbasaur|3}}
+
+==Other appearances==
+===[[Super Smash Bros. Melee]] and [[Super Smash Bros. Brawl|Brawl]]===
+[[File:Bulbasaur Brawl Trophy.png|thumb|140px|Bulbasaur trophy from [[Super Smash Bros. Brawl]]]]
+Bulbasaur appears as a random trophy.
+
+====Melee trophy information====
+''Bulbasaur is a cute Pokémon born with a large seed firmly affixed to its back; the seed grows in size as the Pokémon does. Along with Squirtle and Charmander, Bulbasaur is one of the three Pokémon available at the beginning of Pokémon Red and Blue. It evolves into Ivysaur.''
+
+====Brawl trophy information====
+''"A Seed Pokémon. From birth, Bulbasaur carries a large plant seed on its back. It uses the nutrients from the seed to grow bigger and bigger. Extended exposure to the sun will cause its body and seed to grow in size. Some say that once, when the seed was much lighter, Bulbasaur was able to get around on two legs. Bulbasaur evolves into Ivysaur."''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=grass|type2=poison}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.}}
+{{Dex/Entry1|v=Yellow|entry=It can go for days without eating a single morsel. In the bulb on its back, it stores energy.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=The bulb-like pouch on its back grows larger as it ages. The pouch is filled with numerous seeds.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.}}
+{{Dex/Entry1|v=Silver|entry=It carries a seed on its back right from birth. As it grows older, the seed also grows larger.}}
+{{Dex/Entry1|v=Crystal|entry=While it is young, it uses the nutrients that are stored in the seeds on its back in order to grow.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry3|v=Ruby|v2=Sapphire|v3=Emerald|t=FFF|t2=FFF|t3=FFF|entry=Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.}}
+{{Dex/Entry1|v=FireRed|entry=There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.}}
+{{Dex/Entry1|v=LeafGreen|entry=A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=For some time after its birth, it grows by gaining nourishment from the seed on its back.}}
+{{Dex/Entry1|v=HeartGold|entry=The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.}}
+{{Dex/Entry1|v=SoulSilver|entry=It carries a seed on its back right from birth. As it grows older, the seed also grows larger.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=For some time after its birth, it grows by gaining nourishment from the seed on its back.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=For some time after its birth, it grows by gaining nourishment from the seed on its back.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.}}
+{{Dex/Entry1|v=Y|entry=For some time after its birth, it grows by gaining nourishment from the seed on its back.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=FFF|area=[[Starter Pokémon]] from [[Professor Oak]] in [[Pallet Town]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=FFF|link=Pokémon Blue Version (Japanese)|area=[[Starter Pokémon]] from [[Professor Oak]] in [[Pallet Town]]}}
+{{Availability/Entry1|v=Yellow|area=Received from [[Melanie|a girl]] in [[Cerulean City]] if {{p|Pikachu}}'s [[friendship]] is high enough}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2/None|v=Gold|v2=Silver|area=[[Time Capsule]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Crystal|area=[[Time Capsule]], {{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Emerald|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Starter Pokémon]] from [[Professor Oak]] in [[Pallet Town]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{pkmn2|gift|Reward}} from [[Professor Oak]] after defeating {{ga|Red}}}}
+{{Availability/Entry1|v=Pal Park|color=A2E0A3|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area={{pkmn|Global Link}} {{pkmn2|event}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]], {{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=Received from [[Professor Sycamore]] in [[Lumiose City]] after battling him}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]], {{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|2|Alola}} ({{DL|QR Scanner|Island Scan}}){{dotw|Fr}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Pokémon Island River|River]], [[Pokémon Island Cave|Cave]] <small>({{p|Ditto}} in {{m|Transform|disguise}})</small>}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Pallet Town]], [[Viridian City]]}}
+{{Availability/Entry1|1|v=Stadium|link=Pokémon Stadium (English)|color=000|t=FFF|area=[[Gym Leader Castle]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Springleaf Field|Bus Stop]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|1|Phobos Train}}, Endless level 16, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Starter Pokémon]], [[Partner Pokémon]], [[Joyous Tower]] (1F-5F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Lyra Forest]], [[Kisara Plains]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Starter Pokémon]], [[Partner Pokémon]], [[Mystifying Forest]] (B1-B13), [[Mystery Jungle]] (B1-B29)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Starter Pokémon]], [[Partner Pokémon]], [[Mystifying Forest]] (B1-B13), [[Mystery Jungle]] (B1-B29)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode C & A)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Meadow Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Dolce Island]], [[Hinder Cape]], [[Forest Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#All Aboard!|Model Train Room: All Aboard!]], [[Locomotive Café#Dash Race!|Locomotive Café: Dash Race!]],<br>[[Variety Battle#Get 1,000 Combos!|Variety Battle: Get 1,000 Combos!]], NFC Figurine}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 1|Blade-and-Shield Path: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Puerto Blanco|Puerto Blanco: Stage 2]]<br>[[Blau Salon|Blau Salon: Stage 424]]<br>Event: ''{{DL|Special Stages|Special Daily Pokémon (First release)|Special Daily Pokémon}}'' <small>(First release; Winking)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Old-Growth Woods|Origin Hideaway: Old-Growth Woods]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=[[Starter Pokémon]], [[Partner Pokémon]]}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 14|Area 14: Stage 8]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=grass|type2=poison}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! AncientPower Bulbasaur|English|United States|5|December 28, 2001 to January 31, 2002;<br/>January 17 to 23, 2003|link=List of Gotta Catch 'Em All event Pokémon#AncientPower Bulbasaur}}
+{{eventAvail|{{gameabbrev2|GSC}}|Pokémon Center Mystery Egg #3 AncientPower Bulbasaur|Japanese|Japan|5|April 27 to May 12, 2002|link=List of Japanese event Pokémon distributions in Generation II#Bulbasaur}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Fourth Campaign Bulbasaur|Japanese|Japan|10|February 11 to 28, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Bulbasaur}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Journey Across America Bulbasaur|English|United States|70|February 25 to July 23, 2006|link=List of Journey Across America event Pokémon distributions#Bulbasaur}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Party of the Decade Bulbasaur|English|United States|70|August 8, 2006|link=List of Party of the Decade event Pokémon distributions#Bulbasaur}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Sticker Promotional Kanto Starter Egg Bulbasaur|Japanese|Japan|1|September 1 to 30, 2012|link=List of local Japanese event Pokémon distributions in Generation V#Bulbasaur}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Kanto Starter Egg Bulbasaur|Korean|South Korea|1|November 8 to 11, 2012|link=List of local Korean event Pokémon distributions in Generation V#Bulbasaur}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Kanto Starter Egg Bulbasaur|Korean|Wi-Fi|1|February 14 to March 31, 2013|link=List of Wi-Fi Korean event Pokémon distributions in Generation V#Bulbasaur}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Lab Bulbasaur|Japanese region|Online|5|July 8 to November 30, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Bulbasaur}}
+{{eventAvail|{{gameabbrev6|ORAS}}|2016 World Championships Bulbasaur|All|United States|5|August 19 to 21, 2016|link=List of local event Pokémon distributions in Generation VI#Bulbasaur}}
+|}
+
+=====In-game events=====
+{{eventAvail/h|type=grass|type2=poison|lochide=yes}}
+{{eventAvail|{{gameabbrev1|RGBY}}|Gym Leader Castle Bulbasaur|Japanese|hide|5|April 30, 1999 onwards|link=List of game-based Pokémon distributions in Generation I#Bulbasaur_2}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Bulbasaur|English|hide|5|February 29, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Bulbasaur}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Bulbasaur|French|hide|5|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Bulbasaur}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Bulbasaur|German|hide|5|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Bulbasaur}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Bulbasaur|Italian|hide|5|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Bulbasaur}}
+{{eventAvail|{{gameabbrev1|RBY}}|Gym Leader Castle Bulbasaur|Spanish|hide|5|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Bulbasaur}}
+|}
+
+====Pokémon Global Link promotions====
+{{eventAvail/h|type=grass|type2=poison}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Bulbasaur|Japanese|PGL|10|October 14, 2010 to May 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Bulbasaur}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Bulbasaur|Korean|PGL|10|May 11, 2011 to May 11, 2013|link=List of Pokémon Global Link promotions/Pokémon#Bulbasaur}}
+|}
+
+===Held items===
+{{HeldItems
+|type=grass|type2=poison
+|rby1=Bitter Berry|rby1type=None|rby1image=no|rby1rar=100
+|stad1=Normal Box|stad1type=Wood box|stad1image=no|stad1rar=100
+|stad2=Gorgeous Box|stad2type=Wood box|stad2image=no|stad2rar=100
+|event1=Venusaurite|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|HP=45
+|Attack=49
+|Defense=49
+|SpAtk=65
+|SpDef=65
+|Speed=45
+|Special=65
+|type=Grass
+|type2=Poison
+}}
+
+====Pokéathlon stats====
+{{Performance
+|type=grass
+|type2=poison
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Poison
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=200
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|gen1poison=yes
+|oldbug=4}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Bulbasaur|Grass|Poison|1|SM|USUM}}
+{{learnlist/levelVII|1|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/levelVII|3|3|Growl|Normal|Status|—|100|40}}
+{{learnlist/levelVII|N/A|7|Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/levelVII|7|N/A|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/levelVII|9|9|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/levelVII|13|13|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/levelVII|13|13|Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/levelVII|15|15|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/levelVII|19|19|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/levelVII|21|21|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/levelVII|25|25|Growth|Normal|Status|—|—|20}}
+{{learnlist/levelVII|27|27|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/levelVII|31|31|Worry Seed|Grass|Status|—|100|10}}
+{{learnlist/levelVII|33|33|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/levelVII|37|37|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/levelf/7|Bulbasaur|Grass|Poison|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Bulbasaur|Grass|Poison|1}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Bulbasaur|Grass|Poison|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Bulbasaur|Grass|Poison|2}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|143|Snorlax}}|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|546|Cottonee}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}<br>{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}{{MSP|776|Turtonator}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|252|Treecko}}<br>{{MSP|270|Lotad}}{{MSP|285|Shroomish}}{{MSP|315|Roselia}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}<br>{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|546|Cottonee}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Giga Drain|Grass|Special|75|100|10||'''|}}
+{{learnlist/breed7|{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}|Grass Whistle|Grass|Status|&mdash;|55|15}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|407|Roserade}}{{MSP|764|Comfey}}|Grassy Terrain|Grass|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|455|Carnivine}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|753|Fomantis}}<br>{{MSP|754|Lurantis}}{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Ingrain|Grass|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|071|Victreebel}}{{MSP|103|Exeggutor}}{{MSP|103A|Exeggutor}}{{MSP|182|Bellossom}}{{MSP|192|Sunflora}}{{MSP|253|Grovyle}}<br>{{MSP|254|Sceptile}}{{MSP|275|Shiftry}}{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}<br>{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}|Leaf Storm|Grass|Special|130|90|5||'''|}}
+{{learnlist/breed7|{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|182|Bellossom}}{{MSP|315|Roselia}}{{MSP|407|Roserade}}<br>{{MSP|357|Tropius}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}{{MSP|764|Comfey}}|Magical Leaf|Grass|Special|60|&mdash;|20||'''|}}
+{{learnlist/breed7|{{MSP|270|Lotad}}{{MSP|271|Lombre}}{{MSP|272|Ludicolo}}{{MSP|273|Seedot}}{{MSP|274|Nuzleaf}}{{MSP|698|Amaura}}<br>{{MSP|699|Aurorus}}|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|003|Venusaur}}{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|045|Vileplume}}{{MSP|182|Bellossom}}{{MSP|154|Meganium}}<br>{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|421|Cherrim}}{{MSP|556|Maractus}}{{MSP|764|Comfey}}|Petal Dance|Grass|Special|120|100|10||'''|}}
+{{learnlist/breed7|{{MSP|108|Lickitung}}{{MSP|463|Lickilicky}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|455|Carnivine}}{{MSP|598|Ferrothorn}}|Power Whip|Grass|Physical|120|85|10||'''|}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|713|Avalugg}}|Skull Bash|Normal|Physical|130|100|10}}
+{{learnlist/breed7|{{MSP|258|Mudkip}}|Sludge|Poison|Special|65|100|20|*|'''|}}
+{{learnlist/breedf/7|Bulbasaur|Grass|Poison|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Bulbasaur|Grass|Poison|2}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Grass Pledge|Grass|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Bulbasaur|Grass|Poison|2}}
+
+====Special moves====
+{{learnlist/eventh/7|Bulbasaur|Grass|Poison|2}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|USUM}}|Grassy Terrain|Grass|Status|—|—|10}}
+{{learnlist/eventf/7|Bulbasaur|Grass|Poison|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+! Move
+! Card
+|-
+| style="background:#fff" | {{m|Scratch}}
+| style="background:#fff" | [[Bulbasaur (McDonald Pack 1)]]
+|-
+| style="background:#fff" | {{m|Bite}}
+| style="background:#fff" | [[Bulbasaur (POP Series 2 12)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Present}}
+| style="background:#fff; {{roundybr|5px}}" | [[Bulbasaur (DPt-P Promo 30)]]
+|}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{grass color light}}; border: 3px solid #{{poison color}}"
+|-
+! style="{{roundytl|5px}}" | Move
+! Type
+! style="{{roundytr|5px}}" | Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Dig}}
+| style="background:#fff" | {{typecolor|Ground}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[EP225|Bulbasaur... the Ambassador!]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Poison}}
+{{Spindata/Pinball|col=3|type=Grass|ndex=001|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Grass|ndex=001|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=001
+|body=1
+|rate=12.5
+|area=Beau Plains
+|P1=I'm going to make a big flower bloom!
+|P2=I'm down to about half my HP now.
+|P3=I'm about to keel over...
+|PL=I did it! My level went up!
+|Partner=yes
+|PP1=Let's try to do our best, <name>!
+|PP2=This is getting a bit hard...
+|PP3=Urgh... Can't keep this up... <name>, help...
+|PPL=Yes! I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=001
+|body=1
+|rate=8.2
+|IQ=F
+}}
+|-
+{{Spindata/Ranger|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|fieldpower=1
+|field=Cross
+|loop=3
+|MinEXP=12
+|MaxEXP=22
+|browser=Bulbasaur extends its vines to attack and prevent capture.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=1
+|browser=It attacks by shooting seeds.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=2
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Grass|ndex=001
+|Pad=Bulbasaur is the Attraction Chief of {{DL|Attractions|Bulbasaur's Daring Dash}} in the [[Meadow Zone]]. So, even though it is forbidden, he may allow you to play on it.
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Grass|ndex=001
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Grass|ndex=001
+|min=40
+|max=125
+|raisemaxlevel=20
+|skill=Power of 4
+|skilldesc=Increases damage when you make a match of four.
+|swapper=Mega Boost+
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=001Winking|num=001
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Block Smash+
+|skilldesc=Sometimes clears three unbreakable-block disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=001
+|egg=2
+|buddy=3
+|evocandy=25
+|stamina=90
+|attack=118
+|defense=118
+|fast={{m|Vine Whip}}, {{m|Tackle}}
+|special={{m|Sludge Bomb}}, {{m|Seed Bomb}}, {{m|Power Whip}}
+}}
+|-
+{{Spindata/Magikarp Jump|col=6|type=Grass|ranks=1
+|item=Miracle Seed
+|unlock=Beat the Luxary League
+|skill=Recovers a League Play
+|recoverytime=4 hours
+|rank1desc=Recovers a League Play
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=grass
+|type2=poison
+|pictype=art
+|no1=001
+|name1=Bulbasaur
+|type1-1=Grass
+|type2-1=Poison
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 16}}
+|no2=002
+|name2=Ivysaur
+|type1-2=Grass
+|type2-2=Poison
+|evo2={{bag|Rare Candy}} <br>{{color2|000|Level|Level 32}}
+|no3=003
+|name3=Venusaur
+|type1-3=Grass
+|type2-3=Poison}}
+
+===Sprites===
+{{Spritebox/Header|type=grass|type2=poison}}
+{{Spritebox/1|ndex=001}}
+{{Spritebox/2|ndex=001}}
+{{Spritebox/3|ndex=001}}
+{{Spritebox/4|ndex=001}}
+{{Spritebox/5|ndex=001}}
+{{Spritebox/6|ndex=001}}
+{{Spritebox/7|ndex=001}}
+{{Spritebox/Footer|001|Bulbasaur}}
+
+==Trivia==
+* In the Japanese {{game2|Red|Green|Blue}}, international {{game|Red and Blue|s}}, and Japanese {{game|FireRed and LeafGreen|s}}, [[Professor Oak]] classifies Bulbasaur as the "plant Pokémon" (Japanese: しょくぶつポケモン) when the player is about to choose it as their {{pkmn2|starter}}, using the term while referring to its {{t|Grass|type}}. In the English versions of {{game|FireRed and LeafGreen|s}}, he calls it the "grass Pokémon".
+** This also occurs in the [[PO01|first episode]] of [[Pokémon Origins]].
+[[File:Niue Dollar Pokemon.png|thumb|250px|right|$1 coins from {{wp|Niue}}]]
+* {{wp|Niue}} released a one-dollar coin featuring Bulbasaur as part of a commemorative promotion for the Pokémon franchise, with Bulbasaur on one side and the nation's coat of arms on the other.
+* Bulbasaur's evolution family is the only starter Pokémon evolution family to have each member appear at least once in the Super Smash Bros. series.
+* Bulbasaur and its evolutions share their {{pkmn|category}} with {{p|Sunkern}}. They are all known as the Seed Pokémon.
+* Bulbasaur's number in the [[National Pokédex]] and the [[List of Pokémon by Fiore Browser number|Fiore Browser]] are the same: 001.
+* Due to [[List of censored words in Pokémon Black and White Versions|the censor]] that prevents Pokémon with offensive [[nickname]]s being traded on the [[Global Trade System|GTS]], a Bulbasaur with an English name couldn't be traded on the GTS without a nickname in {{game|Black and White|s}}.
+* In {{game|Gold and Silver|s}}, Bulbasaur is programmed to be able to learn {{m|Charm}} through {{pkmn|breeding}}, but no other Pokémon in the {{egg|Grass}} or {{egg2|Monster}}s can legitimately learn it to pass down as an [[Egg Move]] in those games. In [[Generation III]] and {{gen|IV}}, Bulbasaur can inherit the move from {{p|Shroomish}} by chain breeding; in Generation V on, Bulbasaur can inherit the move directly from {{p|Cottonee}}.
+* Bulbasaur may be part of the [[List_of_references_to_Pokémon_in_popular_culture|inspiration for the naming]] of ''{{wp|Bulbasaurus}}'', a genus of dicynodonts.<ref>https://www.inverse.com/article/27179-bulbasaurus-dicynodont-pokemon-dinosaur</ref>
+
+===Origin===
+Bulbasaur appears to be based primarily on some form of {{wp|reptile}} or {{wp|synapsid}}, specifically mammal-like synapsids known as ''{{wp|Dicynodont}}s'' from the {{wp|Permian}} period. Along with visible ears and no genuine metamorphosis stage (evolution aside), Bulbasaur appears to have more in common with {{wp|mammals}} than {{wp|amphibians}} such as {{wp|frogs}} and {{wp|toads}}, which metamorphose from one definite creature into another as they mature as opposed to just growing into a larger adult version of itself the way that Bulbasaur does. Alternatively, Bulbasaur's large rounded snout, wide mouth, wide-set eyes, blotch-patterned skin, and quadruped-like movements are vaguely similar to those of certain amphibians, such as the {{wp|common toad}}. Since Bulbasaur's "ears" do not in fact have hollows, they may actually be similar to the glands present behind the eyes of many species of frogs and toads.
+
+The bulb on its back may resemble that of a {{wp|lily}} or {{wp|onion}}.
+
+====Name origin====
+Bulbasaur is a combination of ''{{wp|bulb}}'' (a rounded underground storage organ present in some plants, notably those of the lily family) and ''saur'' (Ancient Greek for ''{{wp|lizard}}'').
+
+Fushigidane literally means "''isn't it strange?''" and is also a pun on<!-- the non-dictionary compound word --> 不思議種 ''fushigidane'' (mysterious bulb).
+
+==In other languages==
+{{Other languages|type=grass|type2=poison
+|ja=フシギダネ ''Fushigidane''|jameaning=From {{tt|不思議 ''fushigi''|to be strange or mysterious}} and {{tt|種 ''tane''|seed}} or {{tt|だね ''dane''|Isn't it?}}
+|fr=Bulbizarre|frmeaning=From ''{{tt|bulbe|bulb}}'' and ''bizarre''
+|es=Bulbasaur|esmeaning=Same as English name
+|de=Bisasam|demeaning=From ''{{tt|Bi|two; as in plant and animal}}'', ''{{tt|Saurier|from dinosaur}}'' and ''{{tt|Samen|seed}}''
+|it=Bulbasaur|itmeaning=Same as English name
+|ko=이상해씨 ''Isanghessi''|komeaning=From {{tt|이상하다 ''isanghada''|to be strange or abnormal}} and {{tt|씨 ''ssi''|seed}}
+|bg=Бълбазор ''Bŭlbazor''|bgmeaning=Transcription of English name
+|zh_yue=奇異種子 ''Keiyizhungjí''|zh_yuemeaning=Literally "Bizarre seed". May also be from {{wp|Kiwifruit|{{tt|奇異果 ''keiyigwo''|kiwifruit}}}}
+|zh_cmn=妙蛙種子 / 妙蛙种子 ''Miàowāzhǒngzǐ''|zh_cmnmeaning=Literally "Wonderful frog seed"
+|he=בולבוזאור ''Bulbosaur''|hemeaning=Transliteration of English name
+|hi=बल्बसौर ''Bulbasaur''|himeaning=Transliteration of English name
+|lt=Balbazauras|ltmeaning=From English name
+|pt_br=Bulbassauro|pt_brmeaning=From ''{{tt|bulbo|bulb}}'' and ''{{tt|dinossauro|dinosaur}}''
+|ru=Бульбазавр ''Bul'bazavr''|rumeaning=Transcription of English name
+|ar=بلباسور ''Bulbasaur''|armeaning=Transcription of English name
+|th=ฟุชิกิดาเนะ ''Fushigidane''|thmeaning=Same as Japanese name
+}}
+<br clear="left"/>
+
+==Related articles==
+* [[Ash's Bulbasaur]]
+* [[May's Bulbasaur]]
+* [[Shauna's Bulbasaur]]
+* [[Saur]]
+* [[Bulbasaur (MPJ)]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+* {{wp|Bulbasaur|Article on Wikipedia}}
+
+{{Starter Pokémon|grass|poison}}
+{{-}}
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=807|prev=Zeraora|nextnum=002|next=Ivysaur|round=yes}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Starter Pokémon|001]]
+[[Category:Mystery Dungeon starters|001]]
+[[Category:Anime starter Pokémon|Bulbasaur (default)]]
+[[Category:Pokémon that are part of a three-stage evolutionary line]]
+
+[[de:Bisasam]]
+[[fr:Bulbizarre]]
+[[it:Bulbasaur]]
+[[ja:フシギダネ]]
+[[pl:Bulbasaur]]
+[[zh:妙蛙种子]]

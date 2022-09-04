@@ -1,0 +1,352 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=588|prev=Karrablast|nextnum=590|next=Foongus}}
+|}
+{{Pokémon Infobox
+|name=Escavalier
+|jname=シュバルゴ
+|jtranslit=Shubarugo
+|tmname=Chevargo
+|category=Cavalry
+|typebox=1
+|type1=Bug
+|type2=Steel
+|abilityn=d
+|ability1=Swarm
+|ability2=Shell Armor
+|abilityd=Overcoat
+|ndex=589
+|udex=095
+|u2dex=156
+|karea=Mountain
+|kdex=023
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=72.8
+|weight-kg=33.0
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|expyield=173
+|lv100exp=1,000,000
+|gendercode=127
+|color=Gray
+|catchrate=75
+|evtotal=2
+|evat=2
+|body=04
+|pokefordex=escavalier
+|generation=5
+|friendship=70
+}}
+'''Escavalier''' ([[List of Japanese Pokémon names|Japanese]]: '''シュバルゴ''' ''Chevargo'') is a dual-type {{2t|Bug|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Karrablast}} when [[trade]]d for a {{p|Shelmet}}, which evolves into {{p|Accelgor}} simultaneously. Neither evolves if at least one holds an [[Everstone]] during the trade.
+
+==Biology==
+Escavalier is an insectoid Pokémon with a head sporting the red horsehair crest of a knight’s helmet, with a visor underneath it. Its shoulders have large, round metal ridges, from which its thin black arms extend. The arms are tipped with red-striped protrusions resembling jousting lances. Its face and torso are bare of armor, but its lower body is concealed within a swirled gray shell with a red spike on the underside, which was presumably the shell of a {{p|Shelmet}}. Its tough armor protects its entire body. It flies around at high speed, jabbing foes with its lances. It is brave and will face any challenge even if in trouble.
+
+==In the anime==
+[[File:Bianca Escavalier.png|250px|thumb|left|Escavalier in the {{pkmn|anime}}]]
+
+===Major appearances===
+{{an|Bianca}} owns an Escavalier, having traded her {{p|Shelmet}} for [[Professor Juniper]]'s {{p|Karrablast}} in ''[[BW063|Evolution Exchange Excitement!]]''. After the [[evolution]], Escavalier refused to obey Bianca, so Bianca and her Escavalier, and Professor Juniper and her {{p|Accelgor}}, had a [[Multi Battle|Tag Battle]] against {{Ash}} and his {{AP|Boldore}}, and {{an|Cilan}} and his {{TP|Cilan|Crustle}}, so Escavalier would gain Bianca's trust. Bianca later used Escavalier in ''[[BW104|Mission: Defeat Your Rival!]]'', where it battled against {{un|Cameron}}, but was defeated by {{p|Samurott}}.
+
+Two Escavalier appeared in ''[[SS026|Mewtwo — Prologue to Awakening]]'', under the ownership of [[Dirk]].
+
+===Minor appearances===
+Escavalier debuted in ''[[BW038|Movie Time! Zorua in "The Legend of the Pokémon Knight"!]]''. It starred in ''Wonder Fighters'', a movie based on the [[Wonder Launcher]], where it battled a {{p|Golurk}}.
+
+An Escavalier appeared in ''[[XY109|Master Class Choices!]]'', under the ownership of [[Shulin]]. It was used in the [[Fleurrh City]] [[Pokémon Showcase]]. Shulin used her Escavalier along with {{p|Accelgor}} to round up a group of {{p|Rhyhorn}}, and made it to the Freestyle Performance.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW063|Escavalier|Ash's Pokédex|Escavalier, the Cavalry Pokémon and the evolved form of Karrablast. Escavalier's body is protected by steel armor.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Alder Escavalier Adventures.png|thumb|170px|Escavalier in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PS508|The Lesson Ends Here]]'', [[Alder]] used Escavalier against [[N]], but was quickly defeated.
+
+==In the TCG==
+{{main|Escavalier (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Steel}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.}}
+{{Dex/Entry1|v=White|entry=These Pokémon evolve by wearing the shell covering of a {{p|Shelmet}}. The steel armor protects their whole body.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.}}
+{{Dex/Entry1|v=Y|entry=These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Karrablast}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Karrablast}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Karrablast}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[World Axle - B2F]], Cave: All{{tt|*|Cobalion encounter}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#A Very Chaotic Battle!|Toy Collection: A Very Chaotic Battle!]], [[Challenge Battle#Lord of the Bugs|Challenge Battle: Lord of the Bugs]] <small>(Possible Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 2|Safari Jungle: Stage 2]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|Great Challenge|Escavalier Appears}}''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Everspring Valley|White Ruins: Everspring Valley]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|type2=Steel
+|HP=70
+|Attack=135
+|Defense=105
+|SpAtk=60
+|SpDef=105
+|Speed=20}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Steel
+|Normal=50
+|Fighting=100
+|Flying=100
+|Poison=0
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=400
+|Water=100
+|Grass=25
+|Electric=100
+|Psychic=50
+|Ice=50
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Escavalier|Bug|Steel|5}}
+{{learnlist/level7|1|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|1|Fell Stinger|Bug|Physical|50|100|25||'''}}
+{{learnlist/level7|1|Peck|Flying|Physical|35|100|35}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|1|Twineedle|Bug|Physical|25|100|20||'''}}
+{{learnlist/level7|4|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|8|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|13|Twineedle|Bug|Physical|25|100|20||'''}}
+{{learnlist/level7|16|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/level7|20|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|25|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/level7|28|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level7|32|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|37|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level7|40|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|44|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/level7|49|Reversal|Fighting|Physical|&mdash;|100|15}}
+{{learnlist/level7|52|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|56|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/level7|60|Fell Stinger|Bug|Physical|50|100|25||'''}}
+{{learnlist/levelf/7|Escavalier|Bug|Steel|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Escavalier|Bug|Steel|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM67|Smart Strike|Steel|Physical|70|&mdash;|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Escavalier|Bug|Steel|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Escavalier|Bug|Steel|5}}
+{{learnlist/breed7|{{MSP|010|Caterpie}}{{MSP|013|Weedle}}{{MSP|168|Ariados}}{{MSP|204|Pineco}}{{MSP|205|Forretress}}{{MSP|213|Shuckle}}<br>{{MSP|265|Wurmple}}{{MSP|291|Ninjask}}{{MSP|401|Kricketot}}{{MSP|412|Burmy}}{{MSP|414|Mothim}}{{MSP|415|Combee}}<br>{{MSP|451|Skorupi}}{{MSP|452|Drapion}}{{MSP|469|Yanmega}}{{MSP|540|Sewaddle}}{{MSP|541|Swadloon}}{{MSP|542|Leavanny}}<br>{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}{{MSP|557|Dwebble}}{{MSP|558|Crustle}}{{MSP|595|Joltik}}<br>{{MSP|596|Galvantula}}{{MSP|632|Durant}}{{MSP|636|Larvesta}}{{MSP|664|Scatterbug}}{{MSP|736|Grubbin}}{{MSP|737|Charjabug}}<br>{{MSP|738|Vikavolt}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}{{MSP|768|Golisopod}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed7|{{MSP|214|Heracross}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|204|Pineco}}{{MSP|205|Forretress}}{{MSP|588|Karrablast}}{{MSP|589|Escavalier}}|Drill Run|Ground|Physical|80|95|10|‡}}
+{{learnlist/breed7|{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|328|Trapinch}}{{MSP|329|Vibrava}}{{MSP|330|Flygon}}{{MSP|557|Dwebble}}<br>{{MSP|558|Crustle}}|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|214|Heracross}}|Horn Attack|Normal|Physical|65|100|25}}
+{{learnlist/breed7|{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed7|{{MSP|214|Heracross}}{{MSP|545|Scolipede}}|Megahorn|Bug|Physical|120|85|10||'''}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}{{MSP|543|Venipede}}<br>{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/breed7|{{MSP|193|Yanma}}{{MSP|469|Yanmega}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|291|Ninjask}}{{MSP|329|Vibrava}}<br>{{MSP|330|Flygon}}{{MSP|402|Kricketune}}{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}{{MSP|595|Joltik}}<br>{{MSP|596|Galvantula}}|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/breedf/7|Escavalier|Bug|Steel|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Escavalier|Bug|Steel|5}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Drill Run|Ground|Physical|80|95|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutorf/7|Escavalier|Bug|Steel|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Escavalier|Bug|Steel|5}}
+{{learnlist/prevo7|588|Karrablast|||||Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/prevo7|588|Karrablast|||||Fury Cutter|Bug|Physical|40|95|20|'''}}
+{{learnlist/prevo7|588|Karrablast|||||Take Down|Normal|Physical|90|85|20}}
+{{learnlist/prevo7|588|Karrablast|||||Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/prevo7|588|Karrablast|||||Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/prevof/7|Escavalier|Bug|Steel|5}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Steel}}
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=4
+|def=5
+|speed=2
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Bug|ndex=589
+|strong=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|weak=[[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|pad=He used to be {{p|Scizor}}'s battle friend. He has mixed feelings about Scizor now, because Scizor got totally absorbed in Chase.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=589
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=589|num=667
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Barrier Bash++
+|skilldesc=Sometimes removes five barrier-type disruptions.
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Bug
+|no1=588
+|name1=Karrablast
+|type1-1=Bug
+|evo1={{bag|Pal Pad}}{{MS|616}}<br>{{color2|000|Trade}}<br><small>for {{pcolor|Shelmet|000}}
+|no2=589
+|name2=Escavalier
+|type1-2=Bug
+|type2-2=Steel
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Steel}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=589}}
+{{Spritebox/6|ndex=589}}
+{{Spritebox/7|ndex=589}}
+{{Spritebox/Footer|589|Escavalier}}
+
+==Trivia==
+
+===Origin===
+Escavalier is probably based on the {{wp|Drilus flavescens|Drilus}} genus of beetle. Drilus larvae are known for eating snails and stealing their shells, explaining why it attacks {{p|Shelmet}} and takes the shell as a {{p|Karrablast}}. Its design is based on a jousting knight. It is also slightly based on a {{wp|cuirass}}.
+
+====Name origin====
+Escavalier may be a combination of ''escargot'' (French for ''snail'') and ''cavalier'' (French for ''mounted soldier'') or ''chevalier'' (French for ''knight'') . It may also refer to ''{{wp|Excalibur}}''.
+
+Chevargo is a combination of ''chevalier'' and ''escargot''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Steel
+|ja=シュバルゴ ''Chevargo''|jameaning=From {{tt|シュバリエ ''chevalier''|French for knight}} and {{tt|エスカルゴ ''escargot''|French for snail}}
+|fr=Lançargot|frmeaning=From ''{{wp|lance}}'' and ''{{tt|escargot|snail}}''
+|es=Escavalier|esmeaning=Same as English name
+|de=Cavalanzas|demeaning=From ''{{tt|cavaliere|Italian for 'knight'}}'' and ''{{tt|Lanze|lance}}''
+|it=Escavalier|itmeaning=Same as English name
+|ko=슈바르고 ''Chevargo''|komeaning=Transliteration of Japanese name
+|zh_cmn= 騎士蝸牛 / 骑士蜗牛 ''Qíshìguāniú'' / ''Qíshìwōniú''|zh_cmnmeaning=From {{tt|騎士 ''qíshì''|knight}} and {{tt|蝸牛 / 蜗牛 ''guāniú'' / ''wōniú''|snail}}
+|zh_yue= 騎士蝸牛 '' Kèihsihwō'ngàuh''|zh_yuemeaning=From {{tt|騎士 ''kèihsih''|knight}} and {{tt|蝸牛 ''wō'ngàuh''|snail}}
+|ru=Эскавальер ''Eskaval'yer''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Bug|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=588|prev=Karrablast|nextnum=590|next=Foongus}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Cavalanzas]]
+[[fr:Lançargot]]
+[[it:Escavalier]]
+[[ja:シュバルゴ]]
+[[pl:Escavalier]]
+[[zh:骑士蜗牛]]

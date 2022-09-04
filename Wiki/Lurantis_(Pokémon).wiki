@@ -1,0 +1,288 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=753|prev=Fomantis|nextnum=755|next=Morelull}}
+|}
+{{Pokémon Infobox
+|name=Lurantis
+|jname=ラランテス
+|tmname=Lalantes
+|jtranslit=Rarantesu
+|ndex=754
+|type1=Grass
+|category=Bloom Sickle
+|height-ftin=2'11"
+|height-m=0.9
+|weight-lbs=40.8
+|weight-kg=18.5
+|adex=144
+|ability1=Leaf Guard
+|abilityd=Contrary
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|evtotal=2
+|evat=2
+|expyield=168
+|lv100exp=1,000,000
+|gendercode=127
+|color=Pink
+|catchrate=75
+|body=12
+|pokefordex=lurantis
+|generation=7
+|friendship=70
+}}
+'''Lurantis''' ([[List of Japanese Pokémon names|Japanese]]: '''ラランテス''' ''Lalantes'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] from {{p|Fomantis}} when [[level]]ed up in the [[Time|day]] starting at level 34.
+
+==Biology==
+Lurantis is a plant-like Pokémon that appears to resemble an insect. The top half of its head is light pink, while the bottom half is white. It has light red eyes and two green antennae with a small green lump between them. There are four extensions to the top half of its head: two on the top with red tips that resemble ears, and one on each side with white tips that are similar to stylized hair. It has a light pink body with short extensions around the waist and a green abdomen and neck. Its thin, white arms end in large, red scythes with white along the bottom rim and a single green claw on the tip. There are vertical, pink-and-red stripes down its legs, which have small, pointed green feet. The coloring and shape of Lurantis's body and arms give it the appearance of wearing a long-sleeved dress, while its legs are similar to pants. Four red, wing-like appendages sprout from its back, each tipped with white.
+
+Lurantis both looks and smells like a flower, a trait that it exploits to lure in foes so it can spring a surprise attack. It also disguises itself as a Bug Pokémon for self-defense. Its brilliant coloration and elegant moves earn it acclaim as the most glamorous {{type|Grass}} Pokémon. Maintaining its appearance requires detailed grooming. If a Trainer does a good job caring for it, Lurantis will have an easier time trusting them than a lazy Trainer.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/lurantis/</ref>
+
+==In the anime==
+[[File:Totem Lurantis.png|thumb|left|250px|Totem Lurantis in the anime]]
+===Major appearances===
+A {{DL|Totem Pokémon|Totem Lurantis}} debuted in ''[[SM035|Currying Favor and Flavor!]]'', where it challenged {{Ash}} in the [[Lush Jungle]] trial. It was eventually defeated by {{AP|Litten}}. Afterwards, it awarded Ash with a [[Grassium Z]].
+
+===Minor appearances===
+{{left clear}}
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM035|Lurantis|Rotom Pokédex|Lurantis, the Bloom Sickle Pokémon. A {{t|Grass}} type, and the evolved form of {{p|Fomantis}}. Lurantis use their flower-like appearance and aroma to lure in opponents and defeat them.}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+<!--
+==In the manga==-->
+
+==In the manga==
+===In the Pokémon Adventures manga===
+[[File:Totem Lurantis Adventures.png|thumb|right|200px|Lurantis in [[Pokémon Adventures]]]]
+A [[Totem Pokémon|Totem]] Lurantis appeared in {{chap|Sun & Moon}}.In order to get strong enough to face the [[Ultra Beast]]s threatening to invade Alola, {{adv|Moon}} summoned Lurantis to [[Konikoni City]] with a soup made by [[Mallow]] and battled it as a form of training. Despite the assistance of many ally Pokémon, Lurantis was eventually defeated by Moon's {{p|Mareanie}}.
+
+==In the TCG==
+{{main|Lurantis (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It requires a lot of effort to maintain Lurantis's vivid coloring, but some collectors enjoy this work and treat it as their hobby.}}
+{{Dex/Entry1|v=Moon|entry=It fires beams from its sickle-shaped petals. These beams are powerful enough to cleave through thick metal plates.}}
+{{Dex/Entry1|v=Ultra Sun|entry=For self-protection, it pretends to be a bug Pokémon. Both of its arms bear keen-edged petals.}}
+{{Dex/Entry1|v=Ultra Moon|entry=As it slashes into its enemies, it looks like it's dancing. Its elegant appearance has led some to call it the most glamorous Grass Pokémon.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Fomantis}}}}
+{{Availability/Entry1|v=Ultra Sun|area=[[Evolution|Evolve]] {{p|Fomantis}}<br/>[[List of in-game event Pokémon in Generation VII|Received]] from [[Samson Oak]] at [[Heahea Beach]]{{tt|*|Requires 50 Totem Stickers}} ([[Totem Pokémon|Totem]]-sized)}}
+{{Availability/Entry1|v=Ultra Moon|area=[[Evolution|Evolve]] {{p|Fomantis}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|Great Challenge|Lurantis Appears}}''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|HP=70
+|Attack=105
+|Defense=90
+|SpAtk=80
+|SpDef=90
+|Speed=45}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Lurantis|Grass|Grass|7|SM|USUM}}
+{{learnlist/levelVII|1|1|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/levelVII|1|1|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/levelVII|N/A|1|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/levelVII|1|1|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/levelVII|1|1|Leafage|Grass|Physical|40|100|40||'''}}
+{{learnlist/levelVII|1|1|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/levelVII|1|1|Growth|Normal|Status|—|—|20}}
+{{learnlist/levelVII|{{tt|Evo.|Learned upon evolving}}|{{tt|Evo.|Learned upon evolving}}|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/levelVII|5|5|Leafage|Grass|Physical|40|100|40||'''}}
+{{learnlist/levelVII|10|10|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/levelVII|14|14|Growth|Normal|Status|—|—|20}}
+{{learnlist/levelVII|19|19|Ingrain|Grass|Status|—|—|20}}
+{{learnlist/levelVII|23|23|Leaf Blade|Grass|Physical|90|100|15||'''}}
+{{learnlist/levelVII|28|28|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/levelVII|32|32|Slash|Normal|Physical|70|100|20}}
+{{learnlist/levelVII|40|40|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/levelVII|47|47|Solar Blade|Grass|Physical|125|100|10||'''}}
+{{learnlist/levelVII|55|55|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/levelf/7|Lurantis|Grass|Grass|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Lurantis|Grass|Grass|7}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM28|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Lurantis|Grass|Grass|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Lurantis|Grass|Grass|7}}
+{{learnlist/breed7|{{MSP|045|Vileplume}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|315|Roselia}}{{MSP|764|Comfey}}<br>|Aromatherapy|Grass|Status|—|—|5}}
+{{learnlist/breed7|{{MSP|273|Seedot}}|Defog|Flying|Status|—|—|15|*}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}<br>{{MSP|285|Shroomish}}{{MSP|315|Roselia}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|495|Snivy}}<br>{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|546|Cottonee}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}{{MSP|591|Amoonguss}}<br>{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/breed7|{{MSP|071|Victreebel}}{{MSP|103|Exeggutor}}{{MSP|103A|Exeggutor}}{{MSP|182|Bellossom}}{{MSP|192|Sunflora}}{{MSP|275|Shiftry}}<br>{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|495|Snivy}}{{MSP|496|Servine}}<br>{{MSP|497|Serperior}}|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/breed7|{{MSP|407|Roserade}}|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/breedf/7|Lurantis|Grass|Grass|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Lurantis|Grass|Grass|7}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Lurantis|Grass|Grass|7}}
+
+====By a prior [[evolution]]====
+{{Learnlist/prevoh/7|Lurantis|Grass|Grass|7}}
+{{Learnlist/prevo7null}}
+{{Learnlist/prevof/7|Lurantis|Grass|Grass|7}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/Shuffle|col=6|type=Grass|ndex=754|num=718
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Leaf Combo
+|skilldesc=Increases damage done by any Grass types in the combo.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Grass
+|pictype=art
+|no1=753
+|name1=Fomantis
+|type1-1=Grass
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 34}}<br><small>in the {{color2|000|Time|day}}</small>
+|no2=754
+|name2=Lurantis
+|type1-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=754}}
+{{Spritebox/Footer|754|Lurantis}}
+
+==Trivia==
+
+===Origin===
+Lurantis is likely based on the {{wp|Hymenopus coronatus|orchid mantis}} along with the {{wp|orchid}} flower itself.
+
+====Name origin====
+Lurantis may be a combination of ''lure'', ''allure'', ''fleur'' (French for ''flower''), and ''mantis''.
+
+Lalantes may be a combination of 蘭 ''ran'' (orchid) and a corruption of ''mantis''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=ラランテス ''Lalantes''|jameaning=From {{tt|蘭 ''ran''|orchid}} and a corruption of ''mantis''
+|fr=Floramantis|frmeaning=From ''flora'' and ''mantis''
+|es=Lurantis|esmeaning=Same as English name
+|de=Mantidea|demeaning=From ''Mantis'' and ''{{tt|dea|Latin for goddess}}''
+|it=Lurantis|itmeaning=Same as English name
+|ko=라란티스 ''Rarantiseu''|komeaning=Transliteration of Japanese name
+|zh_cmn=蘭螳花 / 兰螳花 ''Lántánghuā''|zh_cmnmeaning=From {{tt|蘭花 / 兰花 ''lánhuā''|orchid}} and {{tt|螳螂 ''tángláng''|praying mantis}} or {{tt|蘭花螳螂 / 兰花螳螂 ''lánhuā tángláng''|orchid mantis}}
+|zh_yue=蘭螳花 ''Làahntòhngfā''|zh_yuemeaning=From {{tt|蘭花 ''làahnfā''|orchid}} and {{tt|螳螂 ''tòhnglòhng''|praying mantis}} or {{tt|蘭花螳螂 ''làahnfā tòhnglòhng''|orchid mantis}}
+|ru=Лурантис ''Lurantis''|rumeaning=Transcription of English name}}
+{{-}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=753|prev=Fomantis|nextnum=755|next=Morelull}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Mantidea]]
+[[fr:Floramantis]]
+[[it:Lurantis]]
+[[ja:ラランテス]]
+[[zh:兰螳花]]

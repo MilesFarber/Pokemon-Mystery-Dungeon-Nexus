@@ -1,0 +1,383 @@
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=553|prev=Krookodile|nextnum=555|next=Darmanitan}}
+|}
+{{Pokémon Infobox
+|name=Darumaka
+|jname=ダルマッカ
+|tmname=Darumakka
+|category=Zen Charm
+|typebox=1
+|type1=Fire
+|abilityn=d
+|ability1=Hustle
+|abilityd=Inner Focus
+|ndex=554
+|udex=060
+|u2dex=102
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=82.7
+|weight-kg=37.5
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=63
+|lv100exp=1,059,860
+|gendercode=127
+|color=Red
+|catchrate=120
+|evtotal=1
+|evat=1
+|body=12
+|pokefordex=darumaka
+|generation=5
+|friendship=70
+}}
+'''Darumaka''' ([[List of Japanese Pokémon names|Japanese]]: '''ダルマッカ''' ''Darumakka'') is a {{type|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Darmanitan}} starting at [[level]] 35.
+
+==Biology==
+[[File:Darumaka sleeping.png|thumb|left|240px|Darumaka asleep]]
+Darumaka is a round, red Pokémon with an orange face and yellow curly eyebrows. It has three yellow ovals on its abdomen and a curvy yellow line on its back. Its paws are orange and have three digits each. It has very warm droppings, which ancient people put in their clothes to keep themselves warm.
+
+When the flame inside its body burns, Darumaka is very active. It cannot calm down in this state, and thus becomes uncontrollable. As the flame shrinks, it falls asleep. It can tuck in its arms and legs when it rests; during that time, it slightly sways. While it is sleeping, it cannot be tipped over no matter how much it is pushed or pulled, like a {{wp|Tumbler toy|tumbler doll}}, which it resembles in this state. It prefers to live in a desert environment.
+
+==In the anime==
+[[File:Darumaka anime.png|thumb|left|250px|Darumaka in the {{pkmn|anime}}]]
+===Major appearances===
+Two Darumaka debuted in ''[[BW008|Saving Darmanitan From the Bell!]]'', where they were stealing food for a {{p|Darmanitan}} who couldn't move because it was in {{a|Zen Mode}}, trying to keep a clock tower from collapsing with its {{m|Psychic}}.
+
+A Darumaka appeared in [[PK22]] alongside {{p|Drilbur}} and {{p|Gothita}}, in which it was angry at {{AP|Oshawott}} and {{AP|Tepig}}, who had eaten the apples that the three had collected.
+
+A Darumaka appeared in ''[[BW105|Lost at the League!]]'', where it battled [[Ash's Scraggy]] and was defeated.
+
+Three Darumaka appeared in ''[[BW129|The Pirates of Decolore!]].''
+
+===Minor appearances===
+Darumaka made cameo appearances in ''[[BW033|Iris and Excadrill Against the Dragon Buster!]]'' and ''[[BW034|Gotta Catch A Roggenrola!]]''.
+
+[[Dino]] used a Darumaka against {{Ash}} and his {{AP|Palpitoad}} in the semifinals of the [[Club Battle]] Tournament, but it was defeated by one {{m|Hydro Pump}}. It was revealed to have evolved into Darmanitan during ''[[BW108|A Unova League Evolution!]]''
+
+A Darumaka appeared in ''[[BW055|Scraggy and the Demanding Gothita!]]'', under the ownership of [[Katharine]]. It was offered to Ash for a trade for his {{AP|Scraggy}}.
+
+Multiple Darumaka appeared in ''[[BW056|The Lonely Deino!]]'', under the care of a {{pkmn|Day Care}} owner named [[Bobby]].
+
+A Darumaka appeared in ''[[BW059|Stopping the Rage of Legends! (Part 1)]]''.
+
+Multiple Darumaka appeared in ''[[BW057|The Mighty Accelguard to the Rescue!]]'' and ''[[BW060|Stopping the Rage of Legends! (Part 2)]]''.
+
+A Darumaka made a cameo appearance in ''[[BW067|Cilan Takes Flight!]]'', during a flashback.
+
+A Darumaka made a cameo appearance in ''[[BW069|Climbing the Tower of Success!]]''.
+
+A Darumaka appeared in ''[[M15|Kyurem VS. The Sword of Justice]]'' in the {{OBP|Swords of Justice|M15}} legend. Lunchboxes based on Darumaka also appeared; they were sold at the [[Windy Station]] by [[Malin]].
+
+A Darumaka appeared in a flashback in ''[[BW118|Secrets From Out of the Fog!]]''.
+
+A Darumaka appeared in a fantasy in ''[[BW120|Ash and N: A Clash of Ideals!]]''.
+
+Multiple Darumaka appeared in ''[[BW127|The Island of Illusions!]]''.
+
+A Darumaka appeared in ''[[BW134|The Journalist from Another Region!]]''.
+
+Three Trainers' Darumaka appeared in ''[[SM034|A Crowning Moment of Truth!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW008|Darumaka|Ash's Pokédex|Darumaka, the Zen Charm Pokémon. When asleep, even when pushed or pulled, it cannot be knocked over.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Socialite Blitzle Clerk Darumaka.png|thumb|150px|Darumaka in [[Pokémon Adventures]]]]
+===In the [[Pokémon Adventures]] manga===
+Darumaka debuted in ''[[PS466|An Odd Speech]]'', appearing with a female {{tc|Clerk}} listening to [[Team Plasma]]'s speech.
+
+A Darumaka appeared in ''[[PS479|The Case of the Missing Pokémon]]'', where it was one of the Pokémon kidnapped by Team Plasma. It was later returned to its Trainer after being found in a stronghold.
+
+A Darumaka was among several Pokémon attracted to [[Alder]]'s wrestling match with his {{p|Bouffalant}} in [[Nimbasa City]] in ''[[PS487|A New Perspective]]''.
+
+A Trainer's Darumaka appeared in [[PS535]]. Another one appeared in [[PS536]].
+
+==In the TCG==
+{{main|Darumaka (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fire}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.}}
+{{Dex/Entry1|v=White|entry=Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When it sleeps, it pulls its limbs into its body and its internal fire goes down to {{tt|1,100°F|600°C}}.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.}}
+{{Dex/Entry1|v=Y|entry=When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|4|Unova}}, [[Desert Resort]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{rt|4|Unova}}, [[Desert Resort]]<br>[[Desert Resort]] ([[N's Pokémon]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Pokémon breeding|Breed]] {{p|Darmanitan}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lava: [[Volcanic Slope]], [[Firebreathing Mountain]], [[World Axle - B1F]]; <br>Field: [[Firebreathing Mountain]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Ignis]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#Launch to Victory!|Toy Collection: Launch to Victory!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 2|Colossal Forest: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#Second release|''Pokémon Safari'']] <small>(Second release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ruby Volcano#Smoldering Caldera|Ruby Volcano: Smoldering Caldera]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Fire
+|bw1=Rawst Berry|bw1type=Berry|bw1rar=50
+|b2w21=Rawst Berry|b2w21type=Berry|b2w21rar=50
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Fire
+|HP=70
+|Attack=90
+|Defense=45
+|SpAtk=15
+|SpDef=45
+|Speed=50}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fire
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=200
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=50}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Darumaka|Fire|Fire|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|3|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level7|6|Incinerate|Fire|Special|60|100|15||'''}}
+{{learnlist/level7|9|Rage|Normal|Physical|20|100|20}}
+{{learnlist/level7|11|Fire Fang|Fire|Physical|65|95|15||'''}}
+{{learnlist/level7|14|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|17|Uproar|Normal|Special|90|100|10}}
+{{learnlist/level7|19|Facade|Normal|Physical|70|100|20}}
+{{learnlist/level7|22|Fire Punch|Fire|Physical|75|100|15||'''}}
+{{learnlist/level7|25|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|27|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|30|Belly Drum|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|33|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/level7|35|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|39|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/level7|42|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/levelf/7|Darumaka|Fire|Fire|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Darumaka|Fire|Fire|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Darumaka|Fire|Fire|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Darumaka|Fire|Fire|5}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|363|Spheal}}<br>{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|572|Minccino}}<br>{{MSP|587|Emolga}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|231|Phanpy}}{{MSP|288|Vigoroth}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|274|Nuzleaf}}|Extrasensory|Psychic|Special|80|100|20|{{sup/7|USUM}}|''}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|077|Ponyta}}{{MSP|078|Rapidash}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}<br>{{MSP|324|Torkoal}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}|Flame Wheel|Fire|Physical|60|100|25||'''}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}<br>{{MSP|034|Nidoking}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|255|Torchic}}{{MSP|256|Combusken}}{{MSP|257|Blaziken}}<br>{{MSP|288|Vigoroth}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|501|Oshawott}}<br>{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|626|Bouffalant}}{{MSP|766|Passimian}}|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|288|Vigoroth}}{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}|Focus Punch|Fighting|Physical|150|100|20}}
+{{learnlist/breed7|{{MSP|112|Rhydon}}{{MSP|217|Ursaring}}{{MSP|289|Slaking}}{{MSP|464|Rhyperior}}{{MSP|500|Emboar}}{{MSP|555|Darmanitan}}<br>{{MSP|652|Chesnaught}}{{MSP|660|Diggersby}}{{MSP|675|Pangoro}}{{MSP|759|Stufful}}{{MSP|760|Bewear}}|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|631|Heatmor}}|Snatch|Dark|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|077|Ponyta}}{{MSP|078|Rapidash}}{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|111|Rhyhorn}}<br>{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}{{MSP|128|Tauros}}{{MSP|133|Eevee}}{{MSP|179|Mareep}}{{MSP|180|Flaaffy}}<br>{{MSP|181|Ampharos}}{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|231|Phanpy}}<br>{{MSP|234|Stantler}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|263|Zigzagoon}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}<br>{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}{{MSP|498|Tepig}}{{MSP|499|Pignite}}<br>{{MSP|500|Emboar}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}<br>{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|667|Litleo}}<br>{{MSP|668|Pyroar}}{{MSP|672|Skiddo}}{{MSP|673|Gogoat}}{{MSP|676|Furfrou}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}<br>{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|766|Passimian}}|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|206|Dunsparce}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|287|Slakoth}}<br>{{MSP|289|Slaking}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}<br>{{MSP|450|Hippowdon}}{{MSP|513|Pansear}}{{MSP|517|Munna}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|775|Komala}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Darumaka|Fire|Fire|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Darumaka|Fire|Fire|5}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||''|no|yes}}
+{{learnlist/tutorf/7|Darumaka|Fire|Fire|5}}
+
+===Side game data===
+{{Spindata/Head|type=Fire}}
+{{Spindata/RumbleBlast|col=6|type=Fire
+|att=3
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Fire|ndex=554
+|pad=Three of them live cheerfully. Each of them makes efforts for their own goals.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Fire|ndex=554
+|HP=3
+|atk=3
+|def=1
+|spd=2
+|range=3
+|move=Flame Wheel
+|ability1=Run Up
+|ability2=Spirit
+|ability3=Celebrate
+|evo=Evolves into {{p|Darmanitan}} when its Attack is 110 or higher
+|link={{DL|List of Pokémon Conquest characters|Harunaga}}, '''{{OBP|Kai|Conquest}}''', and {{DL|List of Pokémon Conquest characters|Nagayasu}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Fire|ndex=554
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Fire|ndex=554|num=254
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Stabilize
+|skilldesc=Sometimes erases one of the foe's disruptions on the board.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Fire
+|pictype=art
+|no1=554
+|name1=Darumaka
+|type1-1=Fire
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 35}}
+|no2=555
+|name2=Darmanitan
+|type1-2=Fire}}
+
+===Sprites===
+{{Spritebox/Header|type=Fire}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=554}}
+{{Spritebox/6|ndex=554}}
+{{Spritebox/7|ndex=554}}
+{{Spritebox/Footer|554|Darumaka}}
+
+==Trivia==
+* Darumaka has the lowest {{stat|Special Attack}} base stat of all {{type|Fire}} Pokémon.
+
+===Origin===
+It seems to be based on a {{wp|Daruma doll}}. When it is resting it resembles the {{wp|Roly-poly toy|type of Daruma doll that does not tip over.}} Its {{t|Fire}} type may be based upon the traditional {{wp|Daruma doll#Daruma burning|Daruma burning ceremony}}.
+
+====Name origin====
+Darumaka and Darumakka seem to be a combination of ''{{wp|Daruma doll|Daruma}}'' and 真赤 ''makka'' (crimson) or a corruption of ''{{wp|macaque}}''.
+
+==In other languages==
+{{Other languages|type=Fire|type2=Fire
+|ja=ダルマッカ ''Darumakka''|jameaning=From ''{{wp|Daruma doll|Daruma}}'' and {{tt|真赤 ''makka''|crimson}} or a corruption of ''{{wp|macaque}}''
+|de=Flampion|demeaning=From ''{{tt|Flamme|flame}}'' and ''{{wp|Paper lantern|{{tt|Lampion|paper lantern}}}}''
+|fr=Darumarond|frmeaning=From ''Daruma'' and ''{{tt|rond|round}}''
+|es=Darumaka|esmeaning=Same as English name
+|it=Darumaka|itmeaning=Same as English name
+|ko=달막화 ''Dalmakhwa''|komeaning=From ''Daruma'' and {{tt|화 (火) ''hwa''|fire}}
+|zh_cmn=火紅不倒翁 / 火红不倒翁 ''Huǒhóngbùdǎowēng''|zh_cmnmeaning=From {{tt|火 ''huǒ''|fire}}, {{tt|紅 ''hóng''|red}}, {{tt|火紅 ''huǒhóng''|blazing}}, and {{wp|roly-poly toy|{{tt|不倒翁 ''bùdǎowēng''|tumbler}}}}
+|ru=Дарумака ''Darumaka''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Fire}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=553|prev=Krookodile|nextnum=555|next=Darmanitan}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Flampion]]
+[[fr:Darumarond]]
+[[it:Darumaka]]
+[[ja:ダルマッカ]]
+[[pl:Darumaka]]
+[[zh:火红不倒翁]]

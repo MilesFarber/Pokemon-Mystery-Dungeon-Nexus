@@ -1,0 +1,537 @@
+{{PokémonPrevNext/Head|type=Ice|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Smoochum}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=237|prev=Hitmontop|nextnum=239|next=Elekid|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Smoochum
+|jname=ムチュール
+|jtranslit=Muchūru
+|tmname=Muchul
+|ndex=238
+|oldjdex=152
+|jdex=154
+|karea=Mountain
+|kdex=083
+|obrow=259
+|opbrow=134
+|typebox=1
+|type1=Ice
+|type2=Psychic
+|category=Kiss
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=13.2
+|weight-kg=6.0
+|abilityn=d
+|ability1=Oblivious
+|ability2=Forewarn
+|abilityd=Hydration
+|egggroupn=1
+|egggroup1=Undiscovered
+|eggcycles=25
+|evtotal=1
+|evsa=1
+|expyield=61
+|oldexp=87
+|lv100exp=1,000,000
+|gendercode=254
+|color=Pink
+|catchrate=45
+|body=12
+|pokefordex=smoochum
+|generation=2
+|friendship=70
+}}
+'''Smoochum''' ([[List of Japanese Pokémon names|Japanese]]: '''ムチュール''' ''Muchul'') is a dual-type {{2t|Ice|Psychic}} [[baby Pokémon]] introduced in [[Generation II]].
+
+It [[Evolution|evolve]]s into {{p|Jynx}} starting at [[level]] 30.
+
+==Biology==
+Smoochum is a small, humanoid Pokémon that resembles a baby. It has a large head with blonde hair that reaches its shoulders and has large bangs. There are several tufts of hair sticking up on top of its head. Its skin is light purple with a cream-colored chest, arms and feet. It has large, blue-green eyes and a pair of large, pink lips. These lips are sensitive enough that Smoochum uses them to identify and examine objects that it sees for the first time, and are kept moist by its daily application of tree sap.
+
+When walking, Smoochum rocks its head back and forth. This Pokémon is very active and runs about, although it often falls. Being very conscious of its appearance, it will check is reflection when given the chance to make sure it is not dirty. Smoochum is found living in {{DL|List of Pokémon by habitat|Urban Pokémon|cities}}. Smoochum is a female only species, with no male counterpart.
+
+==In the anime==
+===Major appearances===
+[[File:Smoochum anime.png|left|thumb|250px|Smoochum in the {{pkmn|anime}}]]
+[[File:Smoochum Egg.png|thumb|100px|A Smoochum {{pkmn|Egg}} in the anime]]
+In ''[[EP203|The Screen Actor's Guilt]]'', [[Brad Van Darn]] owned a Smoochum. Brad's agent was afraid that Brad would have his image as an action star ruined if they found out that he owned a Smoochum.
+
+A Smoochum nicknamed Josephine was used by an unnamed female Trainer in ''[[EP248|One Trick Phony!]]''. She battled {{AP|Pikachu}}.
+
+A Smoochum is one of the best friends of the [[Pichu Brothers]]. Smoochum first appeared in ''[[PK07|Pikachu and Pichu]]'', and made further appearances in ''[[Trouble in Big Town]]'', ''[[SS006|Of Meowth]] [[SS007|and Pokémon]]'', ''[[SS009|Big Meowth,]] [[SS010|Little Dreams]]'', and ''[[Pichu Bros. in Party Panic]]''. She also made a brief cameo appearance in ''[[M11|Giratina and the Sky Warrior]]''.
+
+A Smoochum was in ''[[AG168|Three Jynx and a Baby]]''. She got herself separated from a trio of Jynx sisters and stumbled upon {{TRT}}. [[Jessie]] had plans on using Smoochum's cuteness for profit, but her plans were foiled by the three Jynx Sisters and {{Ash}} and {{ashfr}}.
+
+Jessie temporarily trained a {{DL|List of Pokémon temporarily owned by the Team Rocket trio|Smoochum}} in ''[[DP088|Camping It Up!]]''.
+
+A Smoochum appeared in ''[[DP190|The Brockster Is In!]]'', under the ownership of [[Normajean]]. She was among the Pokémon poisoned by a group of wild {{p|Tentacruel}} but were saved thanks to [[Brock's Chansey]] and {{m|Softboiled}}.
+
+A Smoochum appeared in ''[[XY050|Pathways to Performance Partnering!]]'', under the ownership of a [[Pokémon Performer]] named [[Nini]]. She reappeared in ''[[XY091|A Performance Pop Quiz!]]'', ''[[XY101|A Dancing Debut!]]'', and ''[[XY112|Master Class Is in Session!]]''. Nini's Smoochum was shown to have a crush on [[Serena's Pancham]].
+
+A Smoochum appeared in [[PK20]].
+
+A Smoochum appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''.
+
+A Smoochum will appear in [[M21]], under the ownership of Hisui.
+
+===Minor appearances===
+A Smoochum was used by one of the students of the [[Pokémon Trainers' School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+A Smoochum appeared in ''[[DP049|Dawn's Early Night!]]'', under the ownership of a {{pkmn|Coordinator}}. She was used along with a {{p|Steelix}} for the [[Double Performance]] required during the {{ci|Hearthome}} {{pkmn|Contest}}.
+
+A Smoochum appeared in the {{to|Sandalstraw}} Contest in ''[[DP123|Old Rivals, New Tricks!]]''.
+
+A Smoochum appeared in ''[[DP127|Sliding Into Seventh!]]''.
+
+A Smoochum appeared in ''[[M20|I Choose You!]]'', where she was playfully chasing a {{p|Chikorita}}.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP203|Smoochum|Ash's Pokédex|Smoochum, the Kiss Pokémon. The [[Baby Pokémon|pre-evolved form]] of {{p|Jynx}}. This sweet-natured Pokémon has sensitive lips, which it uses to explore and examine with.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY050|Smoochum|Serena's Pokédex|Smoochum, the Kiss Pokémon. Smoochum's lips are quite sensitive, so it uses them first to investigate objects.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Crystal Chumee.png|thumb|180px|Smoochum in [[Pokémon Adventures]]]]
+===In the Magical Pokémon Journey manga===
+{{MPJ|Jynx}}, the fortune-teller, has a younger sister, a Smoochum. Smoochum has not learned to tell fortunes yet, but she pretends to anyways, fooling [[Hazel]], [[Coconut]] and [[Apricot]] by telling them bad fortunes in ''[[PPP57|What Makes A Girl?]]''.
+
+===In the Pokémon Adventures manga===
+A Smoochum is one of the baby Pokémon that escape the Daycare Center near [[Goldenrod City]] in ''[[PS107|Gligar Glide]]''.
+
+{{adv|Crystal}} has a Smoochum, named Chumee which it first appeared in ''[[PS117|Slugging It Out With Slugma]]'', as part of her capture team, using {{m|Mean Look}} to trap targets for capture. She took a break when Crystal let {{p|Chikorita}} join the team.
+
+In ''[[PS179|The Last Battle XIII]]'' a Smoochum was one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+==In the TCG==
+{{main|Smoochum (TCG)}}
+
+==In the TFG==
+One Smoochum figure has been released.
+* {{TFG|Groundbreakers}}: {{TFG ID|Groundbreakers|Smoochum|29}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ice|type2=Psychic}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.}}
+{{Dex/Entry1|v=Silver|entry=It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.}}
+{{Dex/Entry1|v=Crystal|entry=The sensitivity of its lips develops most quickly. It uses them to try to identify unknown objects.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It actively runs about, but also falls often. Whenever it falls, it will check its reflection on a lake's surface to make sure its face hasn't become dirty.}}
+{{Dex/Entry1|v=FireRed|entry=It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.}}
+{{Dex/Entry1|v=LeafGreen|entry=Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It tests everything by touching with its lips, which remember what it likes and dislikes.}}
+{{Dex/Entry1|v=HeartGold|entry=Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.}}
+{{Dex/Entry1|v=SoulSilver|entry=It always rocks its head slowly backwards and forwards as if it is trying to kiss someone.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It tests everything by touching with its lips, which remember what it likes and dislikes.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It tests everything by touching with its lips, which remember what it likes and dislikes.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.}}
+{{Dex/Entry1|v=Y|entry=It tests everything by touching with its lips, which remember what it likes and dislikes.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|entry=Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=When it examines things, before touching them with its hands, it makes lip contact and then diligently licks all the dirt off its lips.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Highly perceptive sensors, Smoochum's lips are kept moist by its daily application of tree sap.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ice|type2=Psychic}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{pkmn|breeding|Breed}} {{p|Jynx}}}}
+{{Availability/Entry1|v=Crystal|area={{pkmn|breeding|Breed}} {{p|Jynx}}<br>Hatch the [[Odd Egg]]{{tt|*|The Pokémon in the Egg is random}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{pkmn|breeding|Breed}} {{p|Jynx}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Lake Acuity]] ({{pkmn|outbreak|Swarm}})}}
+{{Availability/Entry1|v=Platinum|area=[[Snowpoint Temple]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{pkmn|breeding|Breed}} {{p|Jynx}}, transfer from [[Pokéwalker]]}}
+{{Availability/Entry1|v=Pal Park|color=A2E0A3|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Dim Cave}} and {{pw|Amity Meadow}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{pkmn|breeding|Breed}} {{p|Jynx}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Unova Link|Transfer]] from {{pkmn|Dream Radar}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Spooky Manor}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Frost Cavern]] ([[Horde Encounter]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Seaward Cave]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ice|type2=Psychic}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=Upgrade binder}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 9]], [[Secret Storage 20]], Endless Level 6, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Joyous Tower]] (21F-25F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Blizzard Island]] (1F-20F), [[Crevice Cave]] (B1-B10, Lower Crevice Cave B1-B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Blizzard Island]] (1F-20F), [[Crevice Cave]] (B1-B10, Lower Crevice Cave B1-B4), [[Mt. Avalanche]] (B1-B19)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Iceberg Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Mt. Sorbet]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Frozen Tundra]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Race against the Clock|Frenzy Square: Race against the Clock]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 4|Pitch-Black Cavern: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 333]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Outermost Snowfield|Distortion Land: Outermost Snowfield]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Ice|type2=Psychic}}
+{{eventAvail|{{gameabbrev2|GSC}}|Pokémon Center Mystery Egg #1 Metronome Smoochum|Japanese|Japan|5|December 15, 2001 to January 14, 2002|link=List of Japanese event Pokémon distributions in Generation II#Smoochum_2}}
+{{eventAvail|{{gameabbrev2|GSC}}|Pokémon Center Mystery Egg #2 Petal Dance Smoochum|Japanese|Japan|5|March 16 to April 7, 2002|link=List of Japanese event Pokémon distributions in Generation II#Smoochum}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Metronome Smoochum|English|United States|5|March 22 to April 11, 2002;<br>May 5 to June 7, 2002|link=List of Gotta Catch 'Em All event Pokémon#Metronome Smoochum}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Petal Dance Smoochum|English|United States|5|April 12 to May 4, 2002|link=List of Gotta Catch 'Em All event Pokémon#Petal Dance Smoochum}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Ice|type2=Psychic
+|dppt1=Aspear Berry|dppt1type=Berry|dppt1rar=100
+|walk1=Hondew Berry|walk1type=Berry|walk1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ice
+|type2=Psychic
+|HP=45
+|Attack=30
+|Defense=15
+|SpAtk=85
+|SpDef=65
+|Speed=65}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ice
+|type2=Psychic
+|Speed=4
+|SpeedMax=4
+|Power=1
+|PowerMax=2
+|Technique=3
+|TechniqueMax=4
+|Stamina=1
+|StaminaMax=3
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ice
+|type2=Psychic
+|Normal=  100
+|Flying=  100
+|Fighting=100
+|Ground=  100
+|Rock=    200
+|Bug=     200
+|Poison=  100
+|Ghost=   200
+|Steel=   200
+|Fire=    200
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic=  50
+|Ice=      50
+|Dragon=  100
+|Dark=    200
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Smoochum|Ice|Psychic|2}}
+{{learnlist/level7|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level7|5|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/level7|8|Sweet Kiss|Fairy|Status|&mdash;|75|10}}
+{{learnlist/level7|11|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level7|15|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|18|Sing|Normal|Status|&mdash;|55|15}}
+{{learnlist/level7|21|Heart Stamp|Psychic|Physical|60|100|25||'''}}
+{{learnlist/level7|25|Mean Look|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|28|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|31|Lucky Chant|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|35|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/level7|38|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|41|Copycat|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|45|Perish Song|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|48|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/levelf/7|Smoochum|Ice|Psychic|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Smoochum|Ice|Psychic|2}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM70|Aurora Veil|Ice|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Smoochum|Ice|Psychic|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Smoochum|Ice|Psychic|2}}
+{{learnlist/breed7|{{MSP|063|Abra}}{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}<br>{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|106|Hitmonlee}}{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}<br>{{MSP|125|Electabuzz}}{{MSP|466|Electivire}}{{MSP|126|Magmar}}{{MSP|467|Magmortar}}{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}<br>{{MSP|302|Sableye}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|313|Volbeat}}{{MSP|327|Spinda}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}<br>{{MSP|448|Lucario}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Captivate|Normal|Status|&mdash;|100|20|‡}}
+{{learnlist/breed7|{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}{{MSP|302|Sableye}}{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|308|Medicham}}|Ice Punch|Ice|Physical|75|100|15||'''}}
+{{learnlist/breed7|{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|106|Hitmonlee}}{{MSP|122|Mr. Mime}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}<br>{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Meditate|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|605|Elgyem}}{{MSP|606|Beheeyem}}|Miracle Eye|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|390|Chimchar}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|124|Jynx}}<br>{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}{{MSP|532|Timburr}}{{MSP|533|Gurdurr}}{{MSP|534|Conkeldurr}}|Wake-Up Slap|Fighting|Physical|70|100|10}}
+{{learnlist/breed7|{{MSP|327|Spinda}}|Wish|Normal|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breedf/7|Smoochum|Ice|Psychic|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Smoochum|Ice|Psychic|2}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magic Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Smoochum|Ice|Psychic|2}}
+
+===Side game data===
+{{Spindata/Head|type=Ice|type2=Psychic}}
+{{Spindata/Trozei|col=6|type=Ice|ndex=238|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Ice|ndex=238
+|body=1
+|rate=8
+|area=Frigid Cavern
+|P1=I can tell if you're weak or strong--all it takes is just a little kiss!
+|P2=Uh-oh? I think I lost about half my HP so far.
+|P3=I'm teetering on my feet... I'm going to fall over...
+|PL=Yay! I leveled up! Kiss me to see how strong I am?
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ice|ndex=238
+|body=1
+|rate=6.4
+|IQ=G
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Ice
+|group=Ice
+|assist=Normal
+|field=Teleport
+|fieldpower=-
+|assistp=Psychic
+|fieldp=Psy Power
+|browser=It creates hearts around itself that make Pokémon Tired.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Ice
+|att=3
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Ice|ndex=238
+|Pad=Smoochum have traveled to the [[Iceberg Zone]] to see the Ice Tree! They enjoy taking Photos and playing Skill Games.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ice|ndex=238
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Ice|ndex=238|num=471
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Quirky
+|skilldesc=Sometimes erases one extra matching Pokémon elsewhere.
+}}
+|-
+{{Spindata/GO|col=6|type=Ice|ndex=238
+|egg=5
+|buddy=5
+|evocandy=25
+|stamina=90
+|attack=153
+|defense=116
+|fast={{m|Frost Breath}}{{tt|*|Prior to February 16, 2017}}, {{m|Powder Snow}}{{tt|*|From February 16, 2017 onward}}, {{m|Pound}}
+|special={{m|Ice Beam}}, {{m|Ice Punch}}, {{m|Psyshock}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Ice
+|type2=Psychic
+|pictype=art
+|no1=238
+|name1=Smoochum
+|type1-1=Ice
+|type2-1=Psychic
+|breed={{MS|Egg}}<br>{{color2|000|Pokémon Breeding|Breed}}
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no2=124
+|name2=Jynx
+|type1-2=Ice
+|type2-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Ice|type2=Psychic}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=238}}
+{{Spritebox/3|ndex=238}}
+{{Spritebox/4|ndex=238}}
+{{Spritebox/5|ndex=238}}
+{{Spritebox/6|ndex=238}}
+{{Spritebox/7|ndex=238}}
+{{Spritebox/Footer|238|Smoochum}}
+
+====Other sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{psychic color dark}}; background: #{{ice color}}"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{psychic color dark}}; background: #{{ice color light}}"| [[File:Spr 2c Smoochum credits.png]]
+|-
+| Crystal credits' sprite
+|}
+
+==Trivia==
+* No Pokémon have the same [[List of Pokémon with unique type combinations|type combination]] as Smoochum and its evolution, {{p|Jynx}}.
+* In {{game|Gold and Silver|s}}, Smoochum is programmed to be able to learn {{m|Lovely Kiss}} through {{pkmn|breeding}}, but no male Pokémon in the {{egg2|Human-Like}} can legitimately learn it to pass down as an [[Egg Move]] in those games. In [[Generation VI]], {{p|Jynx}} would have been able to pass down the move due to changes in breeding mechanics allowing mothers to pass down Egg Moves.
+* Smoochum has the lowest base {{stat|Attack}} and {{stat|Defense}} of all {{type|Ice}} Pokémon.
+** Smoochum is tied with {{p|Abra}} for having the lowest base Defense of all {{type|Psychic}} Pokémon.
+
+===Origin===
+Smoochum may be based on ガン黒 ''{{wp|ganguro}}'', blonde-haired, tanned Japanese girls, but is meant to resemble an otherwise normal human child. {{wp|Yuki Onna}}, a possible origin for Jynx, is sometimes shown as holding a seemingly human child. Smoochum could also be based on the legend of ''{{wp|Kintarō}}'', a human child raised by the {{wp|Yama Uba}}, another possible origin of Jynx.
+
+====Name origin====
+Smoochum is derived from ''smooch'' (a {{wp|kiss}}). It also may be a combination of ''smooch'' and ''chum'' (friend). It may also be a pun on "smooch 'em."
+
+Muchul is a combination of 夢中 ''muchū'' (daze or trance) and ちゅう ''chu'' (the sound of a kiss).
+
+==In other languages==
+{{Other languages|type=Ice|type2=Psychic
+|ja=ムチュール ''Muchul''|jameaning=From {{tt|夢中 ''muchū''|daze or trance}} and {{tt|ちゅう ''chu''|the sound of a kiss}}
+|fr=Lippouti|frmeaning=From the English word ''lip'', ''{{tt|poutou|kiss}}'', and ''{{tt|petit|small}}''
+|es=Smoochum|esmeaning=Same as English name
+|de=Kussilla|demeaning=From ''{{tt|Kuss|kiss}}'' and ''{{tt|lila|purple}}''
+|it=Smoochum|itmeaning=Same as English name
+|ko=뽀뽀라 ''Ppoppora''|komeaning=Contains {{tt|뽀뽀 ''Ppoppo''|a small peck or kiss}}
+|zh_cmn=迷唇娃 ''Míchúnwá''|zh_cmnmeaning=Literally "Bewildering lip doll"
+|hi=स्मूचाम ''Smoochum''|himeaning=Transcription of English name
+|ru=Смучум ''Smuchum''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+* {{wp|Smoochum|Article on Wikipedia}}
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ice|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=237|prev=Hitmontop|nextnum=239|next=Elekid}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Baby Pokémon]]
+
+[[de:Kussilla]]
+[[fr:Lippouti]]
+[[it:Smoochum]]
+[[ja:ムチュール]]
+[[pl:Smoochum]]
+[[zh:迷唇娃]]

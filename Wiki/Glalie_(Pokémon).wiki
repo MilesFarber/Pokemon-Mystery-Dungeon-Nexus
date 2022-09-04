@@ -1,0 +1,567 @@
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/GO|species=Glalie}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=361|prev=Snorunt|nextnum=363|next=Spheal|round=none}}
+{{PokémonPrevNext/Disambig|species=Glalie}}
+|}
+{{Pokémon Infobox
+|name=Glalie
+|jname=オニゴーリ
+|jtranslit=Onigōri
+|tmname=Onigohri
+|forme=2
+|form2=Mega Glalie
+|image2=362Glalie-Mega.png
+|mega=Glalitite
+|ndex=362
+|hdex=172
+|hdex6=180
+|sdex=207
+|adex=247
+|fbrow=175
+|abrow=214
+|type1=Ice
+|category=Face
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=565.5
+|weight-kg=256.5
+|height-ftin2=6'11"
+|height-m2=2.1
+|weight-lbs2=772.1
+|weight-kg2=350.2
+|color=Gray
+|abilityn=dm
+|abilitylayout=2+1
+|abilitycolm=2
+|ability1=Inner Focus
+|ability2=Ice Body
+|abilityd=Moody
+|abilitym=Refrigerate
+|egggroupn=2
+|egggroup1=Fairy
+|egggroup2=Mineral
+|eggcycles=20
+|evtotal=2
+|evhp=2
+|expyield=168
+|oldexp=187
+|lv100exp=1,000,000
+|gendercode=127
+|catchrate=75
+|body=01
+|pokefordex=glalie
+|generation=3
+|friendship=70
+}}
+'''Glalie''' ([[List of Japanese Pokémon names|Japanese]]: '''オニゴーリ''' ''Onigohri'') is an {{type|Ice}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Snorunt}} starting at [[level]] 42. It is one of Snorunt's final forms, the other being {{p|Froslass}}. It can [[Mega Evolution|Mega Evolve]] into '''Mega Glalie''' using the [[Glalitite]].
+
+==Biology==
+Glalie is a spherical Pokémon that consists of a black rock core covered by ice. The icy covering has several holes and spaces across this Pokémon’s body. Blue eyes and a mouth with flat teeth are visible through three of these holes. There are two large, black, conical horns on either side of Glalie's head. 
+
+Mega Glalie's jaw is dislocated because of the overwhelming energy, causing its mouth to extend to the length of its face. The lower jaw is all black except for two light-blue, conical, icy spikes. The pupils in Mega Glalie's eyes are now red instead of black. The horns on top Mega Glalie's head have been partially turned into ice, with the addition of a third horn on its forehead.
+
+Glalie's icy body is actually rock that is not particularly hard. It does not melt, and it can control ice by instantly freezing moisture in the air into any desirable shape. This ability is used to drape itself in ice armor and freeze its prey, which it then consumes whole. It prefers consuming Pokémon like {{p|Vanillite}} that are already frozen though. It can be found in {{DL|List of Pokémon by habitat|Cave Pokémon|caves}}. Mega Glalie can spill endless blizzards from its broken mouth, though it gets irritated by the fact that it can no longer consume its prey.
+
+==In the anime==
+===In the main series===
+[[File:PokéSled Glalie.png|thumb|220px|left|Glalie in the {{pkmn|anime}}]]
+[[File:M19 Mega Glalie.png|thumb|220px|left|Mega Glalie in the anime]]
+====Major appearances====
+=====[[Ash's Glalie]]=====
+{{Ash}}'s {{p|Snorunt}} evolved into {{AP|Glalie}} in ''[[AG123|Rhapsody in Drew]]''. It only stayed during the [[Hoenn League]]. It is now at {{an|Professor Oak}}'s [[Professor Oak's Laboratory|lab]].
+
+=====Other=====
+A Glalie appeared in ''[[DP116|The Drifting Snorunt!]]'', under the ownership of a {{OBP|Poacher|DP116}}. The poacher used Glalie to assist in capturing a Snorunt, which it did by frightening it into submission. However, it was defeated by [[Ash's Chimchar]] and a wild {{p|Froslass}}.
+
+A Glalie appeared in ''[[BW140|Survival of the Striaton Gym!]]'', under the ownership of [[Morana]]. Its appearance was during a flashback to when it was able to defeat [[Cress's Panpour]].
+
+A Glalie that can Mega Evolve appeared in ''[[M19|Volcanion and the Mechanical Marvel]]'', under the control of [[Levi]]'s Mega Wave. Glalie was used to battle against {{OBP|Volcanion|M19}}. It was later freed from Levi's control when [[Alva]]'s Mega Wave Crystal was destroyed, and it escaped.
+
+====Minor appearances====
+A Glalie appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Glalie made a brief cameo in ''[[SS021|Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness]]''.
+
+A Glalie that can [[Mega Evolution|Mega Evolve]] into Mega Glalie appeared in ''[[SS031|Mega Evolution Special II]]''.
+
+A Trainer's Glalie appeared in [[SM060]], where it was seen participating in the [[PokéSled Jump Tournament]].
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG123|Glalie|Ash's Pokédex|Glalie, the Face Pokémon. Glalie has a tempered ice body that doesn't melt even under a direct flame. It can freeze vapors in the air instantly.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP116|Glalie|Dawn's Pokédex|Glalie, the Face Pokémon and an evolved form of {{p|Snorunt}}. Glalie {{m|protect}}s itself by creating ice armor from airborne moisture.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+===In the Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+[[File:Mega Glalie ORAS Trailer.png|thumb|250px|Mega Glalie in the animated trailer]]
+A [[Mega Evolution|Mega]] Glalie made a cameo appearance in the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]].
+{{-}}
+
+==In the manga==
+[[File:Noland Glalie Adventures.png|thumb|150px|Glalie in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PS251|The Beginning of the End with Kyogre & Groudon XIII]]'', [[Glacia]] of the [[Hoenn]] [[Elite Four]] was seen in possession of a Glalie.
+
+{{FB|Factory Head|Noland}} is seen picking a Glalie as one of his [[rental Pokémon]] in his battle against {{adv|Emerald}} in ''[[PS307|Gotcha Where I Wantcha, Glalie]]''. Although he came close to winning by delivering a would-be-fatal {{m|Sheer Cold}} that succeeded in hitting his target, [[Emerald's Sceptile]] was in fact, unbeknownst to both Noland and Emerald, not meant to be a rental Pokémon and survived due to his higher level. He eventually lost to Sceptile's {{m|Iron Tail}}, allowing Emerald to win the [[Symbol|Knowledge Symbol]].
+
+A Glalie appeared in ''[[PS315|Skirting Around Surskit I]]'' as a rental Pokémon that [[Guile Hideout]] stole.
+
+==In the TCG==
+{{main|Glalie (TCG)}}
+
+==Game data==
+===Pokédex entries===
+====Glalie====
+{{Dex/Header|type=Ice}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Glalie has a body made of rock, which it hardens with an armor of ice. This Pokémon has the ability to freeze moisture in the atmosphere into any shape it desires.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Glalie has the ability to freely control ice. For example, it can instantly freeze its foe solid. After immobilizing its foe in ice, this Pokémon enjoys eating it in leisurely fashion.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Glalie has the power to instantaneously freeze moisture in the atmosphere. A dazzling cloud of diamondlike ice crystals forms around its body.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=To protect itself, it clads its body in an armor of ice, made by freezing moisture in the air.}}
+{{Dex/Entry1|v=Platinum|entry=It prevents prey from escaping by instantaneously freezing moisture in the air.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It prevents prey from escaping by instantaneously freezing moisture in the air.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It prevents prey from escaping by instantaneously freezing moisture in the air.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=To protect itself, it clad its body in an armor of ice, made by freezing moisture in the air.}}
+{{Dex/Entry1|v=Y|entry=It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Glalie has a body made of rock, which it hardens with an armor of ice. This Pokémon has the ability to freeze moisture in the atmosphere into any shape it desires.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Glalie has the ability to freely control ice. For example, it can instantly freeze its prey solid. After immobilizing its prey in ice, this Pokémon enjoys eating it in leisurely fashion.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Legend says a boulder on an icy mountain absorbed the distress and regrets of a stranded mountaineer, giving rise to Glalie.}}
+{{Dex/Entry1|v=Moon|entry=Its prey is instantaneously frozen stiff by the cold air it exhales from its huge mouth. While they're in that frozen state, it gobbles them up.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It freezes its prey and chews them whole. However, it prefers to eat Pokémon like Vanillite that are already frozen.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its actual body is a rock that isn't particularly hard. Glalie absorbs moisture from the air and drapes itself in an armor of ice.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Mega Glalie====
+{{Dex/Header|type=Ice}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=The excess energy from Mega Evolution spilled over from its mouth, breaking its jaw. It spews endless blizzards.}}
+{{Dex/Entry1|v=Moon|entry=It envelops prey in its mouth, freezing them instantly. But its jaw is dislocated, so it's unable to eat them.}}
+{{Dex/Entry1|v=Ultra Sun|entry=When it spews stupendously cold air from its broken mouth, the entire area around it gets whited out.}}
+{{Dex/Entry1|v=Ultra Moon|entry=The power of Mega Evolution was so strong that it smashed Glalie's jaw. Its inability to eat very well leaves Glalie irritated.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Snorunt}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Snorunt}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Snorunt}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Snorunt}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Snorunt}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] [[Pokéwalker]] {{p|Snorunt}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Snorunt}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Snorunt}}<br>[[Event]]: transfer from [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Special Demo Version]] (international)}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Mount Lanakila]] ([[SOS Battle]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Mount Lanakila]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Snorunt}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 19]], Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Snorunt}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Panula Cave]], [[Fiore Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Crystal Crossing]] (B8-B13)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Crystal Crossing]] (B8-B13)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Almia Castle]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Iceberg Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Glacier: [[Frozen Tundra]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Nixtorm]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Race against the Clock|Frenzy Square: Race against the Clock]], [[Conductor Room#Frozen Runway|Conductor Room: Frozen Runway]],<br>[[Sealed Door#The Place to Return To|Sealed Door: The Place to Return To]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 3|Safari Jungle: Stage 3]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Mt. Vinter|Mt. Vinter: Stage 108]]<br>[[Blau Salon|Blau Salon: Stage 427]]<br>Event: [[Special Stages#Tenth release|''Pokémon Safari'']] <small>(Tenth release; Winking)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Frosty Alps|Plasma Tundra: Frosty Alps]] <small>(All Areas, Entrance Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 06|Area 06: Stage 03]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====In-game events=====
+{{eventAvail/h|Region|type=Ice|lochide=yes}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Special Demo Version Glalie|American region|hide|40|October 15, 2014 onwards|link=List of game-based Pokémon distributions in Generation VI#Glalie}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Special Demo Version Glalie|PAL region|hide|40|October 15, 2014 onwards|link=List of game-based Pokémon distributions in Generation VI#Glalie}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Special Demo Version Glalie|Korean region|hide|40|October 15, 2014 onwards|link=List of game-based Pokémon distributions in Generation VI#Glalie}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Special Demo Version Glalie|Taiwanese region|hide|40|October 15, 2014 onwards|link=List of game-based Pokémon distributions in Generation VI#Glalie}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Ice|Frontier=yes
+|e1=NeverMeltIce|e1type=None|e1rar=5
+|event1=Glalitite|event1type=None
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ice
+|HP=     80
+|Attack= 80
+|Defense=80
+|SpAtk=  80
+|SpDef=  80
+|Speed=  80}}
+
+=====Mega Glalie=====
+{{Base Stats
+|type=Ice
+|HP=80
+|Attack=120
+|Defense=80
+|SpAtk=120
+|SpDef=80
+|Speed=100}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ice
+|Speed=2
+|SpeedMax=3
+|Power=4
+|PowerMax=5
+|Technique=2
+|TechniqueMax=2
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ice
+|Normal=  100
+|Fighting=200
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    200
+|Bug=     100
+|Ghost=   100
+|Steel=   200
+|Fire=    200
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+All damage-dealing {{type|Normal}} moves will get [[Same-type attack bonus|STAB]] if used by Mega Glalie because of its Ability, {{a|Refrigerate}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Glalie|Ice|Ice|3}}
+{{learnlist/level7|1|Freeze-Dry|Ice|Special|70|100|20||'''}}
+{{learnlist/level7|1|Sheer Cold|Ice|Special|&mdash;|&mdash;|5}}
+{{learnlist/level7|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|1|Ice Shard|Ice|Physical|40|100|30||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Freeze-Dry|Ice|Special|70|100|20||'''}}
+{{learnlist/level7|5|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|10|Ice Shard|Ice|Physical|40|100|30||'''}}
+{{learnlist/level7|14|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level7|19|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|23|Ice Fang|Ice|Physical|65|95|15||'''}}
+{{learnlist/level7|28|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|32|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|37|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/level7|41|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|48|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/level7|54|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|61|Sheer Cold|Ice|Special|&mdash;|&mdash;|5}}
+{{learnlist/levelf/7|Glalie|Ice|Ice|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Glalie|Ice|Ice|3}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Glalie|Ice|Ice|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Glalie|Ice|Ice|3}}
+{{learnlist/breed7|{{MSP|582|Vanillite}}{{MSP|583|Vanillish}}{{MSP|584|Vanilluxe}}|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/breed7|{{MSP|417|Pachirisu}}|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|185|Sudowoodo}}{{MSP|299|Nosepass}}{{MSP|476|Probopass}}|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|039|Jigglypuff}}{{MSP|040|Wigglytuff}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|303|Mawile}}{{MSP|312|Minun}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Hex|Ghost|Special|65|100|10}}
+{{learnlist/breed7|{{MSP|039|Jigglypuff}}{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|075|Graveler}}{{MSP|075A|Graveler}}{{MSP|183|Marill}}<br>{{MSP|184|Azumarill}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|777|Togedemaru}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/breed7|{{MSP|707|Klefki}}|Spikes|Ground|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|312|Minun}}|Switcheroo|Dark|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|351|Castform}}{{MSP|407|Roserade}}{{MSP|584|Vanilluxe}}|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/breedf/7|Glalie|Ice|Ice|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Glalie|Ice|Ice|3}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Glalie|Ice|Ice|3}}
+
+====By a prior [[evolution]]====
+{{Learnlist/prevoh/7|Glalie|Ice|Ice|3}}
+{{learnlist/prevo7null}}
+{{Learnlist/prevof/7|Glalie|Ice|Ice|3}}
+
+===Side game data===
+{{Spindata/Head|type=Ice}}
+{{Spindata/PinballRS|col=3|type=Ice|ndex=362|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Ice|ndex=362|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Ice|ndex=362
+|body=1
+|rate=Evolve
+|area=Frigid Cavern
+|P1=The ice forming my body can't be melted, even by fire!
+|P2=Hmm... It appears as if I've already frittered away half my HP.
+|P3=This is my final act... My ice body has begun to melt...
+|PL=Leveled up! Let me freeze them all!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ice|ndex=362
+|body=1
+|rate=0.5
+|IQ=A
+}}
+|-
+{{Spindata/Ranger|col=6|type=Ice
+|group=Ice
+|assist=Ice
+|fieldpower=0
+|loop=9
+|MinEXP=65
+|MaxEXP=85
+|browser=If it spots a Ranger, Glalie gives chase. Its {{m|Ice Beam|icy beam}} is terribly powerful.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ice
+|group=Ice
+|assist=Ice
+|field=Crush
+|fieldpower=3
+|browser=It flies around at incredible speed while making blocks of ice fall.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Ice
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Ice|ndex=362
+|Pad=Glalie lives in the [[Iceberg Zone]]. You helped him build his Igloos. He performs best on one particular Attraction, {{DL|Attractions|Empoleon's Snow Slide}}.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Ice|ndex=362
+|HP=3
+|atk=2
+|def=3
+|spd=3
+|range=3
+|move=Ice Beam
+|ability1=Inner Focus
+|ability2=Frighten
+|ability3=Frostbite
+|evo=Evolves from {{p|Snorunt}} when its HP is 128 or higher
+|link={{DL|List of Pokémon Conquest characters|Tsunamoto}}
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Ice|ndex=362
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Ice|ndex=362|num=125
+|mega=1
+|stone=Glalitite
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Chill
+|skilldesc=Delays your opponent's disruptions.
+|megaspeedup=6
+|effectdesc=Erases all Pokémon in a V-shaped pattern.
+}}
+{{Spindata/Shuffle|col=3|type=Ice|ndex=362Winking|num=125
+|mega=1
+|stone=Glalitite
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Cross Attack
+|skilldesc=Increases damage when making a + shaped match.
+|megaspeedup=20
+|effectdesc=Erases unbreakable-block disruptions (max 10) and damages the foe.
+}}
+|-
+{{Spindata/GO|col=6|type=Ice|ndex=362
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=160
+|attack=162
+|defense=162
+|fast={{m|Ice Shard}}, {{m|Frost Breath}}
+|special={{m|Avalanche}}, {{m|Gyro Ball}}, {{m|Shadow Ball}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Ice
+|pictype=art
+|no1=361
+|name1=Snorunt
+|type1-1=Ice
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 42}}
+|no2=362
+|name2=Glalie
+|type1-2=Ice}}
+
+===Sprites===
+{{Spritebox/Header|type=Ice}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=362}}
+{{Spritebox/4|ndex=362}}
+{{Spritebox/5|ndex=362}}
+{{Spritebox/6/2FormsORAS|ndex=362|form1=M}}
+{{Spritebox/7/2Forms|ndex=362|form1=M}}
+{{Spritebox/Footer|362|Glalie}}
+
+==Trivia==
+* Glalie shares all of its base stats with {{p|Phione}}.
+
+===Origin===
+Similar to Jynx, Glalie is based on human features, most likely on a cold, distant person or facial expression. It also looks somewhat similar to an ice hockey mask. Due to its horns and teeth, it may be based on a standard {{wp|Oni (folklore)|oni}} or possibly even {{wp|onigiri}} ([[rice ball]]), as its Japanese name suggests. It also resembles a {{wp|hail}}stone.
+
+====Name origin====
+Glalie may be a combination of ''{{wp|glacier}}'' and ''{{wp|Goaltender|goalie}}''.
+
+Onigohri is a combination of 鬼 ''{{wp|Oni (folklore)|oni}}'' (demon) and 氷 ''kōri'' (ice). It may also be a pun on ''{{wp|onigiri}}'', which it slightly resembles. ''Gohri'' also bears phonetic similarity to ''goalie''.
+
+==In other languages==
+{{Other languages|type=Ice|type2=Ice
+|ja=オニゴーリ ''Onigohri''|jameaning=From 鬼 ''oni'' (demon) and 氷 ''kōri'' (ice). It may also be a pun on ''onigiri'', which it slightly resembles. Gohri also bears phonetic similarity to goalie.
+|de=Firnontor|demeaning=From ''{{wp|Firn}}'', ''{{tt|Dämon|demon}}'', and ''{{tt|Torwart|goalkeeper}}''
+|fr=Oniglali|frmeaning=From ''onigiri'' or ''oni'' and ''{{tt|glace|ice}}''
+|es=Glalie|esmeaning=Same as English name
+|it=Glalie|itmeaning=Same as English name
+|ko=얼음귀신 ''Urumkisin''|komeaning=From {{tt|얼음 ''eol'eum''|ice}} and {{tt|귀신 ''gwishin''|ghost}}; literally ''"ice ghost"''
+|zh_cmn=冰鬼護 ''Bīng Guǐ Hù''|zh_cmnmeaning=The characters {{tt|冰|ice}} and {{tt|鬼|ghost}} comes from its Japanese name. {{tt|護|to protect}} may refer to its shape as an ice hockey mask.
+|hi=ग्लेली ''Glalie''|himeaning=Transliteration of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Glalie]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=361|prev=Snorunt|nextnum=363|next=Spheal}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Firnontor]]
+[[fr:Oniglali]]
+[[it:Glalie]]
+[[ja:オニゴーリ]]
+[[pl:Glalie]]
+[[zh:冰鬼护]]

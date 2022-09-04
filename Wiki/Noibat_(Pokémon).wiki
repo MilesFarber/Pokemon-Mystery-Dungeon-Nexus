@@ -1,0 +1,335 @@
+{{PokémonPrevNext/Head|type=Flying|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Flying|prevnum=713|prev=Avalugg|nextnum=715|next=Noivern|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Noibat}}
+|}
+{{Pokémon Infobox
+|name=Noibat
+|jname=オンバット
+|tmname=Onbat
+|jtranslit=Onbatto
+|category=Sound Wave
+|typebox=1
+|type1=Flying
+|type2=Dragon
+|abilityn=d
+|ability1=Frisk
+|ability2=Infiltrator
+|abilityd=Telepathy
+|ndex=714
+|karea=Mountain
+|kdex=113
+|height-ftin= 1'08"
+|height-m=0.5
+|weight-lbs= 17.6
+|weight-kg=8.0
+|egggroupn=1
+|egggroup1=Flying
+|gendercode=127
+|eggcycles=20
+|expyield=49
+|lv100exp=1,000,000
+|color=Purple
+|catchrate=190
+|evtotal=1
+|evsp=1
+|body=09
+|pokefordex=noibat
+|generation=6
+|friendship=70
+}}
+'''Noibat''' ([[List of Japanese Pokémon names|Japanese]]: '''オンバット''' ''Onbat'') is a dual-type {{2t|Flying|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] into {{p|Noivern}} starting at [[level]] 48.
+
+==Biology==
+Noibat is a lavender bat-like Pokémon. It has two clawed fingers on each wing and two long toes on each foot. Noibat's hips and chest are covered in black fur. It has large yellow eyes, two purple teardrop-shaped spots on the front of its face, and large teardrop-shaped ears that resemble loudspeakers. When its mouth is open, two pointed teeth can be seen on its lower jaw.
+
+Noibat is capable of emitting ultrasonic waves of 200,000 Hertz from its ears, which it can use to stun large creatures, immobilize prey, and determine the ripeness of fruit it enjoys eating. It also uses ultrasonic waves as a means to communicate with other Noibat<ref>http://www.pokemonxy.com/en-us/pokemon/other_pokemon/#Noibat</ref>.
+
+==In the anime==
+[[File:Ash Noibat.png|thumb|left|250px|Noibat in the {{pkmn|anime}}]]
+[[File:Ash Noibat Egg.png|thumb|left|150px|A Noibat {{pkmn|Egg}} in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Noibat]]====
+Ash's Noibat hatched from an {{pkmn|Egg}} in ''[[XY076|A Not-So-Flying Start!]]''. He evolved into a Noivern in ''[[XY110|An Electrifying Rage!]]''.
+
+====Other====
+Multiple Noibat debuted in ''[[XY033|Calling from Beyond the Aura!]]'', where they encountered {{Ash}} and {{ashfr}} after they were agitated by {{TRT}}.
+
+A Noibat appeared in ''[[PK26|Pikachu, What's This Key?]]''.
+
+===Minor appearances===
+A Noibat appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+Multiple Noibat appeared in the Hoopa's Surprise Ring Adventures short ''{{DL|Hoopa's Surprise Ring Adventures|In the Dark}}''.
+{{-}}
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY033|Noibat|Ash's Pokédex|Noibat, the Sound Wave Pokémon. Noibat's ears emit ultrasonic waves that can disturb its prey's sense of hearing and damage opponents.}}
+{{Animedexbody|XY076|Noibat|Ash's Pokédex|Noibat, the Sound Wave Pokémon. Noibat can cause damage as well as create hearing problems for its opponents by emitting different sound wave frequencies.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Team Flare Noibat Adventures.png|thumb|150px|Noibat in [[Pokémon Adventures]]]]
+===In the [[Pokémon Adventures]] manga===
+
+In the {{chap|X & Y}}, two {{tc|Team Flare Grunt}}s who were after {{adv|X}}'s Mega Ring used a swarm of Noibat to attack X and his friends near the Super Training Dome.
+
+==In the TCG==
+{{main|Noibat (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=flying|type2=dragon}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=They live in pitch black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.}}
+{{Dex/Entry1|v=Y|entry=Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=They live in pitch black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Even a robust wrestler will become dizzy and unable to stand when exposed to its 200,000-hertz ultrasonic waves.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=Fruits are its favorite foods. This gourmet carefully picks out just the ripe ones using its sonar.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It flies around in search of fruit to eat. It uses ultrasonic waves to detect which fruits are ripe.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=flying|type2=dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Terminus Cave]], {{kal|Victory Road}}, [[Friend Safari]] ([[Friend Safari#Dragon-type Safari|Dragon]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Verdant Cavern]]<br/>[[In-game trade#Ultra Sun and Ultra Moon|Trade]] {{p|Lillipup}} on {{rt|5|Alola}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Flying|type2=Dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 2|Sky-High Ruins: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#Seventh release|''Pokémon Safari'']] <small>(Seventh release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Surveillance Dunes|Starlight Islands: Surveillance Dunes]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Base Stats
+|type=Flying
+|type2=Dragon
+|HP=40
+|Attack=30
+|Defense=35
+|SpAtk=45
+|SpDef=40
+|Speed=55}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Flying
+|type2=Dragon
+|Normal=  100
+|Flying=  100
+|Fighting= 50
+|Ground=    0
+|Rock=    200
+|Bug=      50
+|Poison=  100
+|Ghost=   100
+|Steel=   100
+|Fire=     50
+|Water=    50
+|Grass=    25
+|Electric=100
+|Psychic= 100
+|Ice=     400
+|Dragon=  200
+|Dark=    100
+|Fairy=   200
+|notes=yes
+|flying=yes
+|newground=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Noibat|Flying|Dragon|6}}
+{{learnlist/level7|1|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|1|Supersonic|Normal|Status|&mdash;|55|20}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|5|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level7|11|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level7|13|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|16|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/level7|18|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|23|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/level7|27|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|31|Razor Wind|Normal|Special|80|100|10}}
+{{learnlist/level7|35|Tailwind|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|40|Whirlwind|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|43|Super Fang|Normal|Physical|&mdash;|90|10}}
+{{learnlist/level7|48|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|58|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/levelf/7|Noibat|Flying|Dragon|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Noibat|Flying|Dragon|6}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM28|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Noibat|Flying|Dragon|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Noibat|Flying|Dragon|6}}
+{{learnlist/breed7|{{MSP|333|Swablu}}{{MSP|334|Altaria}}{{MSP|567|Archeops}}{{MSP|714|Noibat}}{{MSP|715|Noivern}}|Outrage|Dragon|Physical|120|100|10|‡|'''}}
+{{learnlist/breed7|{{MSP|041|Zubat}}{{MSP|042|Golbat}}{{MSP|169|Crobat}}{{MSP|198|Murkrow}}{{MSP|430|Honchkrow}}{{MSP|661|Fletchling}}<br>{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}{{MSP|714|Noibat}}{{MSP|715|Noivern}}|Snatch|Dark|Status|&mdash;|&mdash;|10|‡}}
+{{learnlist/breed7|{{MSP|566|Archen}}|Switcheroo|Dark|Status|&mdash;|100|10|*}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|178|Xatu}}{{MSP|198|Murkrow}}{{MSP|279|Pelipper}}<br>{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|561|Sigilyph}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}<br>{{MSP|627|Rufflet}}{{MSP|628|Braviary}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}{{MSP|714|Noibat}}<br>{{MSP|715|Noivern}}|Tailwind|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/breedf/7|Noibat|Flying|Dragon|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Noibat|Flying|Dragon|6}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Noibat|Flying|Dragon|6}}
+
+===Side game data===
+{{Spindata/Head|type=Flying|type2=Dragon}}
+{{Template:Spindata/Battle Trozei|col=6|type=Flying|ndex=714
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Flying|ndex=714|num=487
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|pictype=art
+|type1=Flying
+|type2=Dragon
+|no1=714
+|name1=Noibat
+|type1-1=Flying
+|type2-1=Dragon
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 48}}
+|no2=715
+|name2=Noivern
+|type1-2=Flying
+|type2-2=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=flying|type2=dragon}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=714}}
+{{Spritebox/7|ndex=714}}
+{{Spritebox/Footer|714|Noibat}}
+
+==Trivia==
+* Noibat has the lowest base stat total of all {{type|Dragon}} Pokémon. 
+** In addition, Noibat has the lowest base {{stat|HP}} and {{stat|Attack}} stats of any Dragon-type Pokémon, and ties with {{p|Goomy}} for having the lowest base {{stat|Defense}} among all Dragon-type Pokémon.
+* Noibat's German name, eF-eM, is the only Pokémon name that uses the Latin alphabet and does not start with a capital letter.
+* Noibat and its evolution, {{p|Noivern}}, are the only dual {{type|Flying}} Pokémon to have Flying as their primary type.
+* Originally, Noibat's Pokédex entry on the official Pokémon website was incorrect, showing it as a pure {{type|Flying}} Pokémon. It has been since rectified.
+* Noibat can be seen as a parallel to {{p|Zubat}}, as they are both {{type|Flying}} Pokémon based on bats and can have {{a|Infiltrator}} as a possible Ability.
+
+===Origin===
+Noibat may be based on a bat, and the design of its ears may be based on speakers.
+
+====Name origin====
+Noibat is a combination of ''noise'' and ''{{wp|bat}}''.
+
+Onbat may be a combination of 音 ''on'' (sound), 音波 ''onpa'' (sound wave), and バット ''bat''.
+
+==In other languages==
+{{Other languages|type=Flying|type2=Dragon
+|ja=オンバット ''Onbat''|jameaning=From {{tt|音 ''on''|sound}}, {{tt|音波 ''onpa''|sound wave}}, and ''bat''
+|fr=Sonistrelle|frmeaning=From ''{{tt|sonique|sonic}}'' and ''{{wp|Pipistrellus|pipistrelles}}''
+|es=Noibat|esmeaning=Same as English name
+|de=eF-eM|demeaning=From ''{{wp|Frequency modulation|FM}}''
+|it=Noibat|itmeaning=Same as English name
+|ko=음뱃 ''Eumbaet''|komeaning=From {{tt|음 (音) ''eum''|sound}} and ''bat''
+|zh_cmn=嗡蝠 ''Wēngfú''|zh_cmnmeaning=From {{tt|嗡 ''wēng''|onomatopoeia for buzzing or humming sound}} and {{tt|蝠 ''fú''|bat}}
+|zh_yue=嗡蝠 ''Yūngfūk''|zh_yuemeaning=From {{tt|嗡 ''yūng''|onomatopoeia for buzzing or humming sound}} and {{tt|蝠 ''fūk''|bat}}
+|hi=नोईबॅट ''Noibat''|himeaning=Transcription of English name
+|ru=Нойбат ''Noybat''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Notes==
+<references />
+
+==Related articles==
+* [[Ash's Noibat]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Flying|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Flying|prevnum=713|prev=Avalugg|nextnum=715|next=Noivern}}
+|}
+{{Project Pokédex notice}}
+
+[[de:EF-eM]]
+[[fr:Sonistrelle]]
+[[it:Noibat]]
+[[ja:オンバット]]
+[[pl:Noibat]]
+[[zh:嗡蝠]]

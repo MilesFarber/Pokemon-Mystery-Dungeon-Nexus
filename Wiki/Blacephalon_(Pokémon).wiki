@@ -1,0 +1,261 @@
+{{PokémonPrevNext/Head|type=Fire|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=805|prev=Stakataka|nextnum=807|next=Zeraora}}
+|}
+{{Pokémon Infobox
+|name=Blacephalon
+|jname=ズガドーン
+|tmname=Zugadōn
+|image=806Blacephalon.png
+|ndex=806
+|type1=Fire
+|type2=Ghost
+|category=Fireworks
+|height-ftin=5'11"
+|height-m=1.8
+|weight-lbs=28.7
+|weight-kg=13.0
+|abilityn=1
+|ability1=Beast Boost
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=120
+|evtotal=3
+|evsa=3
+|expyield=257
+|lv100exp=1,250,000
+|gendercode=255
+|color=White
+|catchrate=30
+|body=12
+|pokefordex=blacephalon
+|generation=7
+|friendship=0
+}}
+'''Blacephalon''' ([[List of Japanese Pokémon names|Japanese]]: '''ズガドーン''' ''Zugadōn'') is a dual-type {{2t|Fire|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation VII]] in [[Pokémon Ultra Sun and Ultra Moon]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+It is one of the [[Ultra Beast]]s and is known by the code name '''UB Burst''' (Japanese: '''{{tt|ＵＢ：ＢＵＲＳＴ|ユービー：バースト}}''' ''UB: Burst'').
+
+==Biology==
+Blacephalon has a humanoid figure with a slender torso and wide hips. Its legs are white with balls on the front, a pink one on the left leg and a blue one on the right leg. Its feet are shaped as if it is wearing high-heeled boots with pointed tips. The main body is yellow with alternating pink and blue stripes. It has a white ball on its chest and one as a tail. Its right arm is pink and its left arm is blue. Its hands are white and have frills on the wrists. A larger frill is around its neck and in the middle is a hole — the shape of the ripples change slightly depending on Blacephalon's mood.
+
+For a head, Blacephalon has a white ball with a multitude of pink and blue dots that can change color to reflect its emotions and are supposedly made of tiny sparks. On both sides of the ball are stars with an alternating pink and blue color pattern — the tapering on the ends of these also changes depending on Blacephalon's mood. In the middle of these stars are yellow spots which may be Blacephalon's eyes. Blacephalon's head is not attached to the body, and can grow or shrink in size when it attacks.
+
+Blacephalon is known to to trick its targets through the foppish way it walks before blowing its head up without warning in order to steal their vitality.<ref>https://www.pokemon-sunmoon.com/ultra/en-us/gallery-detail-7.html</ref>. This Ultra Beast can freely move its head around easily and regenerate after blowing it up.
+
+Blacephalon is the [[Signature move|only known Pokémon]] capable of learning the move {{m|Mind Blown}}.
+<!--
+==In the anime==
+===Major appearances===
+===Minor appearances===
+
+==In the manga==
+==In the TCG==
+{{main|Blacephalon (TCG)}}
+-->
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fire|type2=Ghost}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=It slithers toward people. Then, without warning, it triggers the explosion of its own head. It's apparently one kind of Ultra Beast.}}
+{{Dex/Entry1|v=Ultra Moon|entry=A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents' surprise to rob them of their vitality.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fire|type2=Ghost}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=Unavailable}}
+{{Availability/Entry1|2|v=Ultra Sun|area=[[Poni Grove]] (only two)}}
+{{Availability/Entry1/None|2|v=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+====In side games====
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Fire
+|type2=Ghost
+|HP=53
+|Attack=127
+|Defense=53
+|SpAtk=151
+|SpDef=79
+|Speed=107
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fire|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=50
+|Ground=200
+|Rock=200
+|Bug=25
+|Ghost=200
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=200
+|Fairy=50
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Blacephalon|Fire|Ghost|7|SM|USUM}}
+{{learnlist/levelVII|N/A|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/levelVII|N/A|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/levelVII|N/A|7|Magic Coat|Psychic|Status|—|—|15}}
+{{learnlist/levelVII|N/A|13|Stored Power|Psychic|Special|20|100|10}}
+{{learnlist/levelVII|N/A|17|Flame Burst|Fire|Special|70|100|15||'''}}
+{{learnlist/levelVII|N/A|23|Night Shade|Ghost|Special|—|100|15}}
+{{learnlist/levelVII|N/A|29|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/levelVII|N/A|31|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/levelVII|N/A|37|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/levelVII|N/A|41|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/levelVII|N/A|47|Trick|Psychic|Status|—|100|10}}
+{{learnlist/levelVII|N/A|59|Mind Blown|Fire|Special|150|100|5||'''}}
+{{learnlist/levelf/7|Blacephalon|Fire|Ghost|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Blacephalon|Fire|Ghost|7}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Blacephalon|Fire|Ghost|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Blacephalon|Fire|Ghost|7}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Blacephalon|Fire|Ghost|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Blacephalon|Fire|Ghost|7}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Blacephalon|Fire|Ghost|7}}
+
+===Side game data===
+===Evolution===
+{{Evobox-1
+|type1=Fire
+|type2=Ghost
+|pictype=art
+|no1=806
+|name1=Blacephalon
+|type1-1=Fire
+|type2-1=Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=Fire|type2=Ghost}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7/USUM|ndex=806}}
+{{Spritebox/Footer|806|Blacephalon}}
+
+==Trivia==
+* Blacephalon can learn {{m|Magic Coat}} through level-up but cannot learn it via [[Move Tutor]].
+
+===Origin===
+Blacephalon may be based on clowns. It also shares similarities with fireworks and dandelions.
+
+====Name origin====
+Blacephalon may be a combination of ''blast'' and ''cephalo-'' (prefix relating to the head).
+
+Zugadōn literally means "head goes boom" (頭がドーン ''zu ga dōn'').
+
+==In other languages==
+{{Other languages|type=Fire|type2=Ghost
+|ja=ズガドーン ''Zugadōn''|jameaning=From {{tt|頭 ''zu''|head}} and {{tt|ドーン ''dōn''|boom}} or a pun of {{tt|頭がドーン ''zu ga dōn''|head goes boom}}
+|fr=Pierroteknik|frmeaning=From ''{{wp|Pierrot}}'' (stock pantomime character) and ''{{tt|pyrotechnique|pyrotechnic}}''
+|es=Blacephalon|esmeaning=Same as English name
+|de=Kopplosio|demeaning=From {{tt|''Kopf''|head}} and ''Explosion''
+|it=Blacephalon|itmeaning=Same as English name
+|ko=두파팡 ''Dupapang''|komeaning=From {{tt|두 (頭) ''du''|head}} and {{tt|파팡 ''papang''|onomatopoetic word for explosion}}
+|zh_cmn=砰頭小丑 / 砰头小丑 ''Pēngtóuxiǎochǒu''|zh_cmnmeaning=From {{tt|砰 ''pēng''|bang}}, {{tt|頭 / 头 ''tóu''|head}}, and {{tt|小丑 ''xiǎochǒu''|clown}}
+|zh_yue=砰頭小丑 ''Pīngtàuhsíucháu''|zh_yuemeaning=From {{tt|砰 ''pīng''|bang}}, {{tt|頭 ''tàuh''|head}}, and {{tt|小丑 ''síucháu''|clown}} }}
+{{-}}
+
+''UB Burst''
+{{Langtable|color={{fire color}}|bordercolor={{ghost color dark}}
+|zh_yue=ＵＢ：爆炸 ''{{tt|UB: Baauja|UB: Burst}}''
+|zh_cmn=ＵＢ：爆炸 ''{{tt|UB: Bàozhà|UB: Burst}}''
+|fr=UC-Détonation
+|de=UB Detonation
+|it=UC Fragor
+|ko=UB버스트 ''UB Burst''
+|ru=УЧ Детонация ''UCH Detonatsiya''
+|es=UE Explosivo
+}}
+{{-}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Fire|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=805|prev=Stakataka|nextnum=807|next=Zeraora}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Kopplosio]]
+[[fr:Pierroteknik]]
+[[it:Blacephalon]]
+[[ja:ズガドーン]]
+[[zh:砰头小丑]]

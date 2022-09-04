@@ -1,0 +1,411 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=419|prev=Floatzel|nextnum=421|next=Cherrim}}
+|}
+{{Pokémon Infobox
+|name=Cherubi
+|jname=チェリンボ
+|tmname=Cherinbo
+|ndex=420
+|sdex=058
+|abrow=047
+|obrow=131
+|typebox=1
+|type1=Grass
+|category=Cherry
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=7.3
+|weight-kg=3.3
+|abilityn=1
+|abilitylayout=1
+|ability1=Chlorophyll
+|egggroupn=2
+|egggroup1=Fairy
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=1
+|evsa=1
+|expyield=55
+|oldexp=68
+|lv100exp=1,000,000
+|gendercode=127
+|color=Pink
+|catchrate=190
+|body=11
+|pokefordex=cherubi
+|generation=4
+|friendship=70
+}}
+'''Cherubi''' ([[List of Japanese Pokémon names|Japanese]]: '''チェリンボ''' ''Cherinbo'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolve]]s into {{p|Cherrim}} starting at [[level]] 25.
+
+==Biology==
+Cherubi is a small cherry-like Pokémon with a round, deep-pink body with two stubby feet. It has beady eyes and a purple-red stripe running down part of its face. Cherubi has a short stem with two big, green leaves and a second, much smaller head growing out of it. This second head is vestigial in terms of function, but it contains nutrients that contribute to Cherubi's growth as its initial source of food. As the second head is apparently edible, several Pokémon have been seen trying to pluck it off. When the second head begins to bloom it means Cherubi is close to evolving. It has been known to sun bathe on warm days. When it is about to evolve, the second head starts to wilt. Cherubi mainly photosynthesizes, and it is attracted to [[honey]]. {{p|Starly}} is a natural predator of Cherubi.
+
+==In the anime==
+[[File:Marilyn Cherubi.png|thumb|left|220px|Cherubi in the {{pkmn|anime}}]]
+===Major appearances===
+[[Gardenia]] used a Cherubi in a battle against {{Ash}} in ''[[DP031|The Grass-type Is Always Greener!]]''. It battled against {{AP|Turtwig}}, during which Gardenia was able to learn quite a bit about Turtwig. Cherubi was used again in ''[[DP037|The Grass Menagerie!]]'', where it once again battled Turtwig, but its speed forced Ash to recall Turtwig for {{AP|Staravia}}, after which Cherubi was defeated.
+
+A Cherubi appeared in ''[[DP125|Battling a Cute Drama!]]'', under the ownership of [[Marilyn]].
+
+===Minor appearances===
+Multiple Cherubi appeared in ''[[M10|The Rise of Darkrai]]''.
+
+A Cherubi was seen under [[Reggie]]'s care in ''[[DP066|Lost Leader Strategy!]]''.
+
+A Cherubi had a minor appearance in ''[[DP088|Camping It Up!]]''.
+
+A Cherubi appeared in ''[[DP166|The Fleeing Tower of Sunyshore!]]''.
+
+Multiple Cherubi made a brief appearance in ''[[DP176|Coming Full-Festival Circle!]]''.
+
+A Cherubi made a very brief appearance in ''[[DP183|League Unleashed!]]''.
+
+A Cherubi made a brief cameo in [[SS024]], where it was seen outside of [[Professor Rowan]]'s lab.
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP031|Cherubi|Dawn's Pokédex|Cherubi, the Cherry Pokémon. All of the nutrients needed for [[evolution]] are contained in its small ball. Cherubi becomes redder as it is exposed to sunlight, and is almost ready to evolve once the smaller ball buds.}}
+{{Animedexbody|DP125|Cherubi|Ash's Pokédex|Cherubi, the Cherry Pokémon. Cherubi's attached small ball holds the nutrients needed for its evolution.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Gardenia Cherubi Adventures.png|thumb|150px|Cherubi in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Cherubi first appeared in ''[[PS346|Ring Around the Roserade I]]''. [[Gardenia]] used a Cherubi alongside her {{p|Roserade}} in a [[Double Battle]] against {{adv|Platinum}}'s [[Platinum's Empoleon|Prinplup]] and [[Platinum's Rapidash|Ponyta]]. After Piplup evolved into {{p|Prinplup}}, Cherubi's {{m|Grass Knot}} became more effective against the heavier Pokémon, leaving the Penguin Pokémon in a difficult situation. However, Platinum took advantage of the cover that the knots gave and the holes that Roserade's poison whips created to deliver a finishing {{m|Blizzard}} that defeated both her Pokémon.
+
+A Trainer's Cherubi appeared in ''[[PS423|Tackling Togekiss]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+[[Gardenia]]'s Cherubi also appears in [[Pokémon Diamond and Pearl Adventure!]], as [[Hareta]]'s first opponent in ''[[DPA04|Win with Teamwork!!]]''. It attempted to use {{m|Leech Seed}} on Hareta's Shinx, but was quickly felled by the cub's {{m|Bite}}.
+
+==In the TCG==
+{{main|Cherubi (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=The small ball holds the nutrients needed for [[evolution]]. Apparently, it is very sweet and tasty.}}
+{{Dex/Entry1|v=Pearl|entry=Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald [[evolution]].}}
+{{Dex/Entry1|v=Platinum|entry=The small ball is not only full of nutrients, it is also tasty. {{p|Starly}} try to peck it off.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It evolves by sucking the energy out of the small ball where it had been storing nutrients.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=The small ball is not only full of nutrients, it is also tasty. Starly try to peck it off.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.}}
+{{Dex/Entry1|v=Y|entry=It evolves by sucking the energy out of the small ball where it had been storing nutrients.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It evolves by sucking the energy out of the small ball where it had been storing nutrients.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Honey]] trees}}
+{{Availability/Entry1|v=Platinum|area=[[Honey]] trees}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[National Park]] ([[Headbutt tree]]s{{tt|*|Trees at the top of a hill, at the north-east section behind the fenced up area of the National Park. They're accessible through Rock Climb.}}; post-National)}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{pkmn|breeding|Breed}} {{p|Cherrim}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{pkmn|breeding|Breed}} {{p|Cherrim}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Foggy Forest]] (1F-5F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Foggy Forest]] (1F-5F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Vien Forest]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie‎]]}}
+{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=[[Dubious Forest]] (1F-6F)}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Hinder Cape]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Shimmering Lake]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Grab and Go!|Adventure Area: Grab and Go!]], [[Verdant Plaza#Four Seasons in the Forest|Verdant Plaza: Four Seasons in the Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 2|Safari Jungle: Stage 2]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Zaffiro Coast|Zaffiro Coast: Stage 614]]<br>Event: [[Special Stages#First release|''Pokémon Safari'']] <small>(First release)</small><br>Event: [[Special Stages#25th release|''Pokémon Safari'']] <small>(25th release; Winking)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Flowery Wooded Dell|Fairy Land: Flowery Wooded Dell]] <small>(All Areas)</small>, [[Distortion Land#Breezy Grasslands|Distortion Land: Breezy Grasslands]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=Grass
+|dppt1=Miracle Seed|dppt1type=None|dppt1rar=5
+|hgss1=Miracle Seed|hgss1type=None|hgss1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=     45
+|Attack= 35
+|Defense=45
+|SpAtk=  62
+|SpDef=  53
+|Speed=  35}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|Speed=3
+|SpeedMax=4
+|Power=1
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=2
+|StaminaMax=3
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=  100
+|Fighting=100
+|Flying=  200
+|Poison=  200
+|Ground=   50
+|Rock=    100
+|Bug=     200
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Cherubi|Grass|Grass|4}}
+{{learnlist/level7|1|Morning Sun|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|7|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|10|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|13|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|19|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/level7|22|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|28|Worry Seed|Grass|Status|&mdash;|100|10}}
+{{learnlist/level7|31|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|37|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/level7|40|Lucky Chant|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|47|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/levelf/7|Cherubi|Grass|Grass|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Cherubi|Grass|Grass|4}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Cherubi|Grass|Grass|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Cherubi|Grass|Grass|4}}
+{{learnlist/breed7|{{MSP|045|Vileplume}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|315|Roselia}}{{MSP|682|Spritzee}}{{MSP|683|Aromatisse}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}{{MSP|742|Cutiefly}}<br>{{MSP|743|Ribombee}}{{MSP|764|Comfey}}|Aromatherapy|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|039|Jigglypuff}}{{MSP|040|Wigglytuff}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|777|Togedemaru}}|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|192|Sunflora}}{{MSP|764|Comfey}}|Flower Shield|Fairy|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|303|Mawile}}{{MSP|312|Minun}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}|Grass Whistle|Grass|Status|&mdash;|55|15}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|407|Roserade}}{{MSP|764|Comfey}}|Grassy Terrain|Grass|Status|—|—|10|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|531|Audino}}{{MSP|683|Aromatisse}}|Heal Pulse|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}|Healing Wish|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}{{MSP|357|Tropius}}<br>{{MSP|764|Comfey}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|270|Lotad}}{{MSP|271|Lombre}}{{MSP|272|Ludicolo}}{{MSP|273|Seedot}}{{MSP|274|Nuzleaf}}|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}<br>{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|274|Nuzleaf}}<br>{{MSP|275|Shiftry}}{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|459|Snover}}<br>{{MSP|460|Abomasnow}}{{MSP|546|Cottonee}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/breed7|{{MSP|039|Jigglypuff}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|777|Togedemaru}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|103|Exeggutor}}{{MSP|103A|Exeggutor}}{{MSP|191|Sunkern}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|182|Bellossom}}<br>{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|303|Mawile}}{{MSP|315|Roselia}}{{MSP|407|Roserade}}{{MSP|357|Tropius}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|682|Spritzee}}{{MSP|683|Aromatisse}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}{{MSP|742|Cutiefly}}<br>{{MSP|743|Ribombee}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}|Sweet Scent|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|351|Castform}}{{MSP|407|Roserade}}|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/breedf/7|Cherubi|Grass|Grass|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Cherubi|Grass|Grass|4}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Cherubi|Grass|Grass|4}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Sleep Powder}}
+| [[Cherubi (Diamond & Pearl 75)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/MDTDS|col=6|type=Grass|ndex=420
+|body=1
+|rate=8.2
+|IQ=B
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Tackle
+|fieldpower=1
+|browser=It {{m|Bullet Seed|shoots seeds}} to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=1
+|past=NA
+|browser=It launches leaf blades around itself.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=2
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Grass|ndex=420
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Grass|ndex=420|num=230
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Quirky
+|skilldesc=Sometimes erases one extra matching Pokémon elsewhere.
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=420Winking|num=230
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Crowd Control+
+|skilldesc=Deals even more damage when there are more Cherubi in the puzzle area.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Grass
+|pictype=art
+|no1=420
+|name1=Cherubi
+|type1-1=Grass
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 25}}
+|no2=421
+|name2=Cherrim
+|type1-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=420}}
+{{Spritebox/5|ndex=420}}
+{{Spritebox/6|ndex=420}}
+{{Spritebox/7|ndex=420}}
+{{Spritebox/Footer|420|Cherubi}}
+
+==Trivia==
+===Origin===
+Cherubi appears to be based on a {{wp|cherry}}.
+
+===Name origin===
+Cherubi may be a combination of ''cherry'', ''{{wp|cherub}}ic'' (innocent or childlike), and ''ruby'' (a shade of red).
+
+Cherinbo is a combination of ''cherry'' and 桜桃 ''sakuranbo'' (cherry).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=チェリンボ ''Cherinbo''|jameaning=From ''cherry'' and 桜桃 ''sakuranbo'' (cherry)
+|de=Kikugi|demeaning=From {{tt|''Kirsche''|cherry}} and {{tt|''Kugel''|sphere}}
+|fr=Ceribou|frmeaning=From {{tt|''cerise''|cherry}} and ''{{tt|petit bout|an affectionate nickname for someone tiny}}''
+|es=Cherubi|esmeaning=Same as English name
+|it=Cherubi|itmeaning=Same as English name
+|ko=체리버 ''Cheriber''|komeaning=Transliteration of Japanese name
+|zh_cmn=櫻花寶 ''Yīng Huā Bǎo''|zh_cmnmeaning=Literally "Cherry blossom treasure". {{tt|寶|treasure/gem}} can also be derived from {{tt|寶貝 ''Bǎo​bèi''|baby/darling}}.
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=419|prev=Floatzel|nextnum=421|next=Cherrim}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Kikugi]]
+[[fr:Ceribou]]
+[[it:Cherubi]]
+[[ja:チェリンボ]]
+[[pl:Cherubi]]
+[[zh:樱花宝]]

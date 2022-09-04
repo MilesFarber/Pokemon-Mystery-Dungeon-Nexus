@@ -1,0 +1,341 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=635|prev=Hydreigon|nextnum=637|next=Volcarona}}
+|}
+{{Pokémon Infobox
+|name=Larvesta
+|jname=メラルバ
+|jtranslit=Meraruba
+|tmname=Merlarva
+|category=Torch
+|typebox=1
+|type1=Bug
+|type2=Fire
+|abilityn=d
+|ability1=Flame Body
+|abilityd=Swarm
+|ndex=636
+|udex=142
+|u2dex=171
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=63.5
+|weight-kg=28.8
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=40
+|expyield=72
+|lv100exp=1,250,000
+|gendercode=127
+|color=White
+|evtotal=1
+|evat=1
+|catchrate=45
+|body=14
+|pokefordex=larvesta
+|generation=5
+|friendship=70
+}}
+'''Larvesta''' ([[List of Japanese Pokémon names|Japanese]]: '''メラルバ''' ''Merlarva'') is a dual-type {{2t|Bug|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Volcarona}} starting at [[level]] 59.
+
+==Biology==
+[[File:Larvesta flying.png|thumb|left|200px|Larvesta "flying" using the fire that spits out from its horns]]
+Larvesta is a fuzzy, moth larva-like Pokémon. It has blue eyes in a shadowed face. Its white mane of fuzz encompasses its head and the upper half of its body, while its lower half is brown. It has three pairs of small black legs. There are five red, slightly whorled horns on the sides of its head, which it can use to spit fire as a defensive tactic to deter predators. It has been seen using fire it spits from these horns to fly. Larvesta's flames can reach up to 5,500 degrees Fahrenheit in temperature. It lives at the feet of volcanoes, though it was once believed that Larvesta nested on the sun.
+
+==In the anime==
+===Major appearances===
+[[File:Luke Larvesta.png|220px|thumb|left|Larvesta in the {{pkmn|anime}}]]
+Larvesta debuted in ''[[BW041|The Club Battle Hearts of Fury: Emolga Versus Sawk!]]'', under the ownership of [[Luke]]. It battled against Cilan and his {{TP|Cilan|Stunfisk}} and won. Luke revealed that his Larvesta is in charge of special effects when making movies.
+
+===Minor appearances===
+{{-}}
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW041|Larvesta|Ash's Pokédex|Larvesta, the Torch Pokémon. A Larvesta shoots fire from its five horns to repel its enemies. They live at the base of volcanoes.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Shadow Triad Larvesta Adventures.png|thumb|140px|Larvesta in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A member of the [[Shadow Triad]] used a Larvesta to attack [[Lenora]] at [[Nacrene City]]. It was later revealed that Larvesta hatched from an Egg that [[Ryoku]] of the [[Seven Sages]] found in [[Unova Route 4|Route 4]]. It first appeared in ''[[PS495|The Battle Within]]''.
+
+[[Benga]]'s Larvesta appeared in a flashback in [[PS541]].
+
+==In the TCG==
+{{main|Larvesta (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=bug|type2=fire}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=This Pokémon was believed to have been born from the sun. When it evolves, its entire body is engulfed in flames.}}
+{{Dex/Entry1|v=White|entry=The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.}}
+{{Dex/Entry1|v=Y|entry=The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=When battling opponents, it sprays fire from its five horns. The max temperature of the flames can reach nearly 5,500 degrees Fahrenheit.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It protects itself with flame. Long years ago, people believed Larvesta had a nest on the sun.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=bug|type2=fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=Hatch the {{pkmn|Egg}} received from a {{tc|Pokémon Ranger}} inside a building on {{rt|18|Unova}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Pokémon breeding|Breed]] {{p|Volcarona}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Fire-type Safari|Fire]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Mirage Forests|Mirage Forest]] (north of {{rt|111|Hoenn}}), [[Mirage Islands|Mirage Island]] (north of {{rt|113|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Lush Jungle]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Ignis]], [[Chrysalia]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Holehills]] (1F-12F), [[Scorching Desert]] (1F-10F), [[Windy Shoreline]] (1F-11F), [[Canyon Foot]] (1F-9F)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#Walking a Thin Line|Secret Warehouse: Walking a Thin Line]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 6|Dragon Hill: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Wacky Workshop|Wacky Workshop: Stage 157]]<br>[[Prasino Woods|Prasino Woods: Stage 595]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Everspring Valley|White Ruins: Everspring Valley]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|type2=Fire
+|HP=55
+|Attack=85
+|Defense=55
+|SpAtk=50
+|SpDef=55
+|Speed=60}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Fire
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=400
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=200
+|Grass=25
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=50
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Larvesta|Bug|Fire|5}}
+{{learnlist/level7|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level7|1|String Shot|Bug|Status|&mdash;|95|40}}
+{{learnlist/level7|10|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level7|20|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|30|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/level7|40|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|50|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|60|Flame Wheel|Fire|Physical|60|100|25||'''}}
+{{learnlist/level7|70|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level7|80|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|90|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|100|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/levelf/7|Larvesta|Bug|Fire|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Larvesta|Bug|Fire|5}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM28|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Larvesta|Bug|Fire|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Larvesta|Bug|Fire|5}}
+{{learnlist/breed7|{{MSP|214|Heracross}}{{MSP|540|Sewaddle}}{{MSP|588|Karrablast}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|048|Venonat}}{{MSP|049|Venomoth}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|011|Metapod}}{{MSP|014|Kakuna}}{{MSP|127|Pinsir}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|266|Silcoon}}<br>{{MSP|268|Cascoon}}{{MSP|290|Nincada}}{{MSP|291|Ninjask}}{{MSP|665|Spewpa}}|Harden|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|205|Forretress}}|Magnet Rise|Electric|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|267|Beautifly}}|Morning Sun|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|010|Caterpie}}{{MSP|013|Weedle}}{{MSP|167|Spinarak}}{{MSP|168|Ariados}}{{MSP|265|Wurmple}}{{MSP|540|Sewaddle}}<br>
+{{MSP|541|Swadloon}}{{MSP|542|Leavanny}}{{MSP|595|Joltik}}{{MSP|596|Galvantula}}{{MSP|636|Larvesta}}{{MSP|637|Volcarona}}<br>{{MSP|664|Scatterbug}}{{MSP|736|Grubbin}}{{MSP|737|Charjabug}}{{MSP|738|Vikavolt}}|String Shot|Bug|Status|&mdash;|95|40}}
+{{learnlist/breed7|{{MSP|048|Venonat}}{{MSP|049|Venomoth}}{{MSP|313|Volbeat}}|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/breedf/7|Larvesta|Bug|Fire|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Larvesta|Bug|Fire|5}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Larvesta|Bug|Fire|5}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Fire}}
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Bug|ndex=636
+|HP=2
+|atk=3
+|spd=2
+|def=2
+|range=3
+|move=Flame Wheel
+|ability1=Flame Body
+|ability2=Run Up
+|ability3=Sponge
+|evo=Evolves into {{p|Volcarona}} when its Attack is 131 or higher
+|link={{DL|List of Pokémon Conquest characters|Hidenaga}}, {{DL|List of Pokémon Conquest characters|Masayuki}}, '''[[Okuni]]''', and {{DL|List of Pokémon Conquest characters|Sessai}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=636
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=636|num=183
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Cloud Clear
+|skilldesc=Clears away one black-cloud disruption without fail.
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Bug
+|type2=Fire
+|no1=636
+|name1=Larvesta
+|type1-1=Bug
+|type2-1=Fire
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 59}}
+|no2=637
+|name2=Volcarona
+|type1-2=Bug
+|type2-2=Fire
+}}
+
+===Sprites===
+{{Spritebox/Header|type=bug|type2=fire}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=636}}
+{{Spritebox/6|ndex=636}}
+{{Spritebox/7|ndex=636}}
+{{Spritebox/Footer|636|Larvesta}}
+
+==Trivia==
+* Out of all Pokémon that evolve by a set level, Larvesta evolves later than any other unevolved Pokémon, at level 59.
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Larvesta and its {{p|Volcarona|evolution}}.
+** Larvesta and its evolution are also the only Pokémon with a double weakness to the {{t|Rock}} type that are not {{t|Flying}} types.
+*** This makes them the Pokémon vulnerable to the most damage from [[List of moves that cause entry hazards|entry hazard]]s, able to be affected by both {{m|Stealth Rock}} (from which they take maximum damage) and {{m|Spikes}}.
+* Larvesta and its evolution are the only Pokémon that are neither {{pkmn2|Legendary}} nor {{pkmn2|Mythical}} that learn a move upon reaching level 100.
+
+===Origin===
+Larvesta may be based on a {{wp|moth}} — likely an {{wp|Attacus atlas|Atlas moth}} larva — and the {{wp|Tower of the Sun}}, a famed Japanese monument. The way its red growths are shaped and positioned on its circular body may be a reference to the sun or to the ''{{wp|Gozan no Okuribi|Daimonji}}''. It may also be based on a {{wp|torch}} or cigarette.
+
+====Name origin====
+Larvesta may be a combination of ''{{wp|larva}}'' and ''{{wp|Vesta (mythology)|Vesta}}'' (Roman goddess of the hearth and home, symbolised and represented by an eternally-burning fire located in her {{wp|Temple of Vesta|temple}}). It may also involve ''{{wp|lava}}''.
+
+Merlarva may be a combination of めらめら ''meramera'' (onomatopoeia for flaring) and ''larva''.
+
+==In other languages==
+{{Other languages|type=bug|type2=fire
+|ja=メラルバ ''Merlarva''|jameaning=From {{tt|めらめら ''meramera''|onomatopoeia for flaring}}, and ''larva''
+|fr=Pyronille|frmeaning=From the prefix ''pyro'' and ''{{tt|chenille|caterpillar}}''
+|es=Larvesta|esmeaning=Same as English name
+|de=Ignivor|demeaning=From ''{{tt|ignis|Latin for 'fire'}}'' and ''{{tt|vor|before, pre-}}''
+|it=Larvesta|itmeaning=Same as English name
+|ko=활화르바 ''Hwalhwaruba''|komeaning=From {{tt|활활 ''hwalhwal''|blazing}} and ''larva''
+|zh_cmn=燃燒蟲 / 燃烧虫 ''Rán​shāo​chóng​''|zh_cmnmeaning=From {{tt|燃燒 ''rán​shāo''|to burn, combustion, or flaming}} and {{tt|蟲 ''​chóng​''|insect, worm}}
+|ru=Ларвеста ''Larvesta''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Notes==
+<references />
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=635|prev=Hydreigon|nextnum=637|next=Volcarona}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[de:Ignivor]]
+[[fr:Pyronille]]
+[[it:Larvesta]]
+[[ja:メラルバ]]
+[[pl:Larvesta]]
+[[zh:燃烧虫]]

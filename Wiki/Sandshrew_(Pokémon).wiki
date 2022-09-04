@@ -1,0 +1,837 @@
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/GO|species=Sandshrew}}
+{{PokémonPrevNext/Pokémon|type=Ground|species=Sandshrew|prevnum=026|prev=Raichu|nextnum=028|next=Sandslash|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Sandshrew
+|jname=サンド
+|jtranslit=Sando
+|tmname=Sand
+|forme=2
+|form1=Sandshrew
+|form2=Alolan Sandshrew
+|image2=027Sandshrew-Alola.png
+|ndex=027
+|jdex=048
+|hdex=112
+|hdex6=117
+|u2dex=113
+|karea=Mountain
+|kdex=097
+|adex=251
+|abrow=194
+|obrow=180
+|opbrow=010
+|type1=Ground
+|form2type1=Ice
+|form2type2=Steel
+|category=Mouse
+|height-ftin=2'00"
+|height-m=0.6
+|height-ftin2=2'04"
+|height-m2=0.7
+|weight-lbs=26.5
+|weight-kg=12.0
+|weight-lbs2=88.2
+|weight-kg2=40.0
+|abilitylayout=2+2
+|ability1=Sand Veil
+|abilityd=Sand Rush
+|abilitydcaption=Sandshrew
+|ability2-1=Snow Cloak
+|abilityd2=Slush Rush
+|abilityd2caption=Alolan Sandshrew
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=1
+|evde=1
+|expyield=60
+|oldexp=93
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|formcolors=yes
+|catchrate=255
+|body=06
+|pokefordex=sandshrew
+|generation=1
+|friendship=70
+}}
+'''Sandshrew''' ([[List of Japanese Pokémon names|Japanese]]: '''サンド''' ''Sand'') is a {{type|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s into {{p|Sandslash}} starting at [[level]] 22.
+
+In [[Alola]], Sandshrew has a [[regional variant]] that is {{2t|Ice|Steel}}. It evolves into Alolan Sandslash when exposed to an [[Ice Stone]].
+
+==Biology==
+[[File:Sandshrew Camouflage.png|thumb|200px|left|Sandshrew blending in with its surroundings]]
+Sandshrew is a bipedal mammalian Pokémon, but runs on all fours [[EP008|in the anime]]. Its yellow hide is dry, tough, blends in with desert sand, and has a brick pattern, but its underbelly and muzzle are white. Sandshrew has blue, almond-shaped eyes, a pointed snout, and triangular ears with white insides. Its tail is thick and conical. It has two long claws on each foot and three sharp claws on its forepaws, which are used to burrow.
+
+Sandshrew spends much of its time hidden underground in deep burrows. It only emerges to hunt, which it does by waiting within its burrow to instantly lunge out and drag in passing prey. Sandshrew can quickly curl into a tight ball to protect itself from great falls and opponents, but may also throw sand at attackers. While its body can efficiently absorb water to facilitate life in the {{DL|List of Pokémon by habitat|Rough-terrain Pokémon|desert}}, Sandshrew [[EP006|has been found]] in caves as well.
+
+In the Alola region, Sandshrew migrated to snowy mountains due to the volcanic activity near the desert areas. Its body is a light, icy blue and with a cream-colored belly and muzzle. Its head now resembles an {{wp|igloo}}. Thicker plates form a dome around its head and its ears resemble an igloo's entrances. In adapting to this cold climate, its body became larger and heavier with a shell of ice covering its hide. The steel-like covering grants it extra defense, but it is unable to curl into a ball like its desert counterpart. Alolan Sandshrew's claws allow it to move without slipping on icy surfaces, but it slides on its stomach when it needs to move quickly.<ref>[http://www.pokemon-sunmoon.com/en-us/pokemon/alolan-sandshrew/ Pokémon Sun and Moon]</ref>
+
+==In the anime==
+[[File:Mira Sandshrew.png|250px|thumb|left|Sandshrew in the {{pkmn|anime}}]]
+[[File:Alolan Sandshrew anime.png|250px|thumb|[[Regional variant|Alolan]] Sandshrew in the anime]]
+[[File:Sandshrew Egg.png|thumb|left|A Sandshrew {{pkmn|Egg}} in the anime]]
+===In the main series===
+====Major appearances====
+Sandshrew debuted in ''[[EP008|The Path to the Pokémon League]]'', under the ownership of [[A.J.]]. Despite A.J.'s seemingly barbaric training methods (e.g. using a whip, training in a pool), it was very loyal to him.
+
+A Sandshrew was one of the Pokémon that played Hide-n-Seek in ''[[PK10|Pikachu's PikaBoo]]''. Sandshrew hid by camouflaging itself in front of a brick wall.
+
+[[Mira]] enlisted {{Ash}} and {{ashfr}} to help her retrieve her Sandshrew that was lost at the bottom of an artificial lake created by a dammed river in ''[[DP047|Sandshrew's Locker!]]''.
+
+====Minor appearances====
+Ash and {{AP|Pikachu}} passed three Sandshrew in ''[[EP001|Pokémon - I Choose You!]]'' while being chased by a flock of wild {{p|Spearow}}.
+
+An ailing Sandshrew briefly appeared near the beginning of ''[[EP006|Clefairy and the Moon Stone]]''. It was seen lying down, which [[Seymour]] described as it "drying out" because of the significant increase of light sources inside Mt. Moon.
+
+A {{pkmn|Trainer}}'s Sandshrew appeared in ''[[EP014|Electric Shock Showdown]]''.
+
+A Sandshrew appeared in ''[[EP028|Pokémon Fashion Flash]]''.
+
+A Sandshrew was seen in a [[Pokémon Center]] in ''[[EP030|Sparks Fly for Magnemite]]''.
+
+A Sandshrew appeared in ''[[EP057|The Breeding Center Secret]]''.
+
+A Sandshrew appeared in ''[[M01|Mewtwo Strikes Back]]''.
+
+A Sandshrew was among the Pokémon seen at [[Professor Oak's Laboratory]] in ''[[EP065|Showdown at the Po-ké Corral]]''.
+
+A Trainer's Sandshrew was brought to the [[Pokémon Center]] in ''[[EP085|The Lost Lapras]]''.
+
+A Trainer's Sandshrew was treated by [[Nurse Joy]] in ''[[EP092|The Joy of Pokémon]]''.
+
+A Sandshrew appeared in ''[[M02|The Power of One]]''.
+
+A Sandshrew appeared in ''[[EP133|Tanks a Lot!]]''.
+
+A Sandshrew was one of the Pokémon stolen by [[Butch]] and [[Cassidy]] in ''[[EP157|The Fortune Hunters]]''.
+
+A Sandshrew appeared in ''[[EP169|Beauty and the Breeder]]'' where it participated in a [[Pokémon Beauty Contest]].
+
+Multiple Sandshrew appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+A Sandshrew was one of the inhabitants of a Pokémon oasis in ''[[EP207|Got Miltank?]]''.
+
+Two Sandshrew were among the Pokémon seen at [[Wings Alexander]]'s barn in ''[[EP223|Throwing in the Noctowl]]''.
+
+A Sandshrew was seen in the wild in ''[[The Legend of Thunder!]]''.
+
+A Sandshrew appeared in ''[[EP233|A Tyrogue Full of Trouble]]'', where it was seen receiving an apple from a {{p|Tyrogue}}.
+
+Two Sandshrew were among the Pokémon seen at [[Professor Oak's Laboratory]] in ''[[SS004|Showdown at the Oak Corral]]''.
+
+A Sandshrew was used by one of the students of the [[Pokémon Trainers' School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+A Sandshrew appeared in ''[[AG121|Hi Ho Silver Wind!]]'', under the ownership of a {{pkmn|Coordinator}}.
+
+Two Sandshrew appeared in ''[[M08|Lucario and the Mystery of Mew]]''. One appeared during the opening sequence, while another was one of the Pokémon living in the [[Tree of Beginning]].
+
+A Sandshrew appeared in ''[[DP071|Pokémon Ranger and the Kidnapped Riolu! Part One]]''.
+
+A Sandshrew made a brief cameo along with a {{p|Sandslash}} in ''[[M07|Destiny Deoxys]]'' and ''[[M11|Giratina and the Sky Warrior]]''.
+
+A Sandshrew appeared in ''[[DP088|Camping It Up!]]''.
+
+A Sandshrew was seen at the [[Shelter Town]]'s [[Pokémon Center]] in ''[[DP125|Battling a Cute Drama!]]''.
+
+Multiple Sandshrew made a cameo in ''[[M12|Arceus and the Jewel of Life]]''.
+
+A Trainer's Sandshrew appeared in ''[[BW105|Lost at the League!]]''.
+
+A Sandshrew appeared in ''[[XY002|Lumiose City Pursuit!]]''.
+
+A Sandshrew appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Sandshrew appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''.
+
+A Sandshrew appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+A Trainer's Sandshrew appeared in ''[[XY129|Kalos League Passion with a Certain Flare!]]''.
+
+A Trainer's Sandshrew appeared in ''[[XY138|The First Day of the Rest of Your Life!]]''.
+
+A Sandshrew appeared in ''[[SM003|Loading the Dex!]]'' as a silhouette that [[Rotom Pokédex]] brought up.
+
+Two Sandshrew appeared in ''[[M20|I Choose You!]]''.
+
+Two Alolan Sandshrew debuted in [[SM060]].
+
+====Pokédex entries====
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP047|Sandshrew|Dawn's Pokédex|Sandshrew, the Mouse Pokémon. Sandshrew hates moisture and lives in holes it digs in dry places. It protects itself by curling into a ball.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+[[File:Sandshrew Sandslash PO.png|thumb|220px|Sandshrew in [[Pokémon Origins]]]]
+===In Pokémon Origins===
+A Sandshrew appeared in a flashback in ''[[PO02|File 2: Cubone]]''.
+
+Another Sandshrew appeared in ''[[PO03|File 3: Giovanni]]'' at [[Silph Co.]]
+{{-}}
+
+==In the manga==
+[[File:Professor Oak Sandshrew EToP.png|thumb|200px|Sandshrew in [[The Electric Tale of Pikachu]]]]
+===In The Electric Tale of Pikachu manga===
+{{an|Professor Oak}} owns a Sandshrew in the [[The Electric Tale of Pikachu]] manga. He uses it in ''[[ET10|Clefairy in Space]]'' to stop a wild Clefairy from causing mischief.
+
+===In the Pokémon Adventures manga===
+Sandshrew makes a cameo in ''[[PS005|Onix is On!]]'', battling against {{adv|Red}}'s [[Saur|Bulbasaur]] as a [[Pewter Gym]] Trainer's Pokémon.
+
+Red caught a Sandshrew prior to ''[[PS023|Make Way for Magmar!]]'', which he uses to fight {{type|Fire}}s such as {{p|Magmar}}.
+
+In ''[[PS091|Murkrow Row]]'', {{adv|Gold}} has a Sandshrew residing in his house, but has never used it in battle.
+
+A Sandshrew was one of the Pokémon sent to help the fight in [[Ilex Forest]] in ''[[PS179|The Last Battle XIII]]''.
+
+A Trainer's Sandshrew appeared in ''[[PS418|Deprogramming Porygon-Z]]''.
+
+==In the TCG==
+{{main|Sandshrew (TCG)}}
+
+==Game data==
+===Pokédex entries===
+====Sandshrew====
+{{Dex/Header|type=Ground}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Burrows deep underground in arid locations far from water. It only emerges to hunt for food.}}
+{{Dex/Entry1|v=Yellow|entry=Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=When hunting, it hides at the lip of its burrow. If prey comes close, it lunges out and drags in the prey instantly.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=If it fell from a great height, this Pokémon could save itself by rolling into a ball and bouncing.}}
+{{Dex/Entry1|v=Silver|entry=Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.}}
+{{Dex/Entry1|v=Crystal|entry=It prefers dry, sandy places because it uses the sand to protect itself when threatened.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=If it fell from a great height, this Pokémon could save itself by rolling into a ball and bouncing.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Sandshrew has a very dry hide that is extremely tough. The Pokémon can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.}}
+{{Dex/Entry1|v=FireRed|entry=It burrows and lives underground. If threatened, it curls itself up into a ball for protection.}}
+{{Dex/Entry1|v=LeafGreen|entry=Burrows deep underground in arid locations far from water. It only emerges to hunt for food.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.}}
+{{Dex/Entry1|v=HeartGold|entry=If it fell from a great height, this Pokémon could save itself by rolling into a ball and bouncing.}}
+{{Dex/Entry1|v=SoulSilver|entry=Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry= It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It burrows and lives underground. If threatened, it curls itself up into a ball for protection.}}
+{{Dex/Entry1|v=Y|entry=Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=Sandshrew has a very dry hide that is extremely tough. The Pokémon can roll into a ball that repels any attack. At night, it burrows into the desert to sleep.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It can roll its body into a ball. It moves through the desert by rolling at high speeds.}}
+{{Dex/Entry1|v=Moon|entry=It usually makes its home in deserts and arid zones, where rain does not fall. It digs holes to catch Bug-type Pokémon.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It lives in areas of limited rainfall. When danger approaches, it curls up into a ball to protect its soft stomach.}}
+{{Dex/Entry1|v=Ultra Moon|entry=When its skin gets wrinkled from moisture, it heads for a volcano. It lies flat on a spot with a lot of geothermal heat and dries itself out.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Alolan Sandshrew====
+{{Dex/Header|type=Ice|type2=Steel}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It lives on snowy mountains. Its steel shell is very hard—so much so, it can't roll its body up into a ball.}}
+{{Dex/Entry1|v=Moon|entry=An ancient tradition of Alolan festivals, still carried on to this day, is a competition to slide Sandshrew across ice as far as one can.}}
+{{Dex/Entry1|v=Ultra Sun|entry=After fleeing a volcanic eruption, it ended up moving to an area of snowy mountains. Its ice shell is as hard as steel.}}
+{{Dex/Entry1|v=Ultra Moon|entry=The skin on its back is as hard as steel. Predators go after its soft belly, so it clings to the ground desperately.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1/None|1|v=Red}}
+{{Availability/Entry1|1|v=Blue|t=FFF|area=[[Route]]s {{rtn|4|Kanto}}, {{rtn|8|Kanto}}, {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|11|Kanto}}, and {{rtn|23|Kanto}}}}
+{{Availability/Entry1|1|v=Blue|ex=(Japan)|t=FFF|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|4|Kanto}}, {{rtn|8|Kanto}}, {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|11|Kanto}}, and {{rtn|23|Kanto}}}}
+{{Availability/Entry1|1|v=Yellow|area=[[Route]]s {{rtn|3|Kanto}} and {{rtn|4|Kanto}}, [[Mt. Moon]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Gold|area=[[Union Cave]], [[Mt. Moon]]}}
+{{Availability/Entry1|1|v=Silver|area=[[Goldenrod Game Corner]]}}
+{{Availability/Entry1|1|v=Crystal|area=[[Route]]s {{rtn|3|Kanto}} and {{rtn|4|Kanto}}, [[Union Cave]], [[Mt. Moon]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|111|Hoenn}} and {{rtn|113|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{rt|111|Hoenn}}, [[Mirage Tower]]}}
+{{Availability/Entry1/None|v=FireRed|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=LeafGreen|area=[[Route]]s {{rtn|4|Kanto}}, {{rtn|8|Kanto}}, {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|11|Kanto}}, and {{rtn|23|Kanto}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area={{DL|Poké Spot|Rock Poké Spot}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Wayward Cave]] {{color2|{{leafgreen color dark}}|Dual-slot mode|(LeafGreen)}}}}
+{{Availability/Entry1|v=Platinum|area=[[Wayward Cave]] {{color2|{{leafgreen color dark}}|Dual-slot mode|(LeafGreen)}}}}
+{{Availability/Entry1|v=HeartGold|area=[[Union Cave]], [[Mt. Moon]], {{safari|Johto}}}}
+{{Availability/Entry1|v=SoulSilver|area={{safari|Johto}}, [[Goldenrod Game Corner]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{pkmn|breeding|Breed}} {{p|Sandslash}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Desert Resort]], [[Relic Castle]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Icy Cave}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Ground-type Safari|Ground]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|111|Hoenn}} and {{rtn|113|Hoenn}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1/None|1|v=Sun}}
+{{Availability/Entry1|1|v=Moon|area=[[Mount Lanakila]], [[Tapu Village]]}}
+{{Availability/Entry1/None|1|v=Ultra Sun}}
+{{Availability/Entry1|1|v=Ultra Moon|area=[[Mount Lanakila]], [[Tapu Village]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Pokémon Island Valley|Valley]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Mt. Moon]], [[Vermilion City|Vermilion City Streets]], [[Rock Tunnel|Rock Mountain]], [[Saffron City]], [[Indigo Plateau]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Hatch from {{pkmn|Egg}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 2]], [[Huge Storage 3]], Endless Level 9, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Magma Cavern]] (1F-6F), [[Buried Relic]] (36F-59F), [[Desert Region]] (1F-6F), [[Joyous Tower]] (68F-73F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Northern Desert]] (1F-15F), [[Shimmer Desert]] (1F-9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Northern Desert]] (1F-15F), [[Shimmer Desert]] (1F-9F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Chroma Ruins]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Rocky Cave]] <small>(Normal Mode B(</small>}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Daybreak Ruins]], [[Mitonga Road]], [[Forest Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#It's Drill Time!|Variety Battle: It's Drill Time!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 1|Safari Jungle: Stage 1]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 661]]<br>Event: [[Special Stages#14th release|''Pokémon Safari'']] <small>(14th release)</small><br>Event: ''{{DL|Special Stages|The Daily Pokémon (#8)}}'' <small>(Alola Form)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ruby Volcano#Dusty Desert|Ruby Volcano: Dusty Desert]] <small>(All Areas)</small>, [[Fairy Land#Heat-Wave Desert|Fairy Land: Heat-Wave Desert]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====Sandshrew=====
+{{eventAvail/h|Language/Region|type=Ground}}
+{{eventAvail|{{gameabbrev3|FRLG}}|Pokémon Trade and Battle Day Sandshrew|English|United States|12|September 25, 2004|link=List of Trade and Battle Day event Pokémon distributions#Sandshrew}}
+|}
+
+=====Alolan Sandshrew=====
+{{eventAvail/h|Language/Region|type=Ice|type2=Steel}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Sun & Moon Alolan Sandshrew|Korean region|Online|10|May 9 to June 30, 2017|link=List of Korean region serial code event Pokémon distributions in Generation VII#Alolan Sandshrew}}
+|}
+
+===Held items===
+====Sandshrew====
+{{HeldItems|type=Ground
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1image=no
+|rse1=Quick Claw|rse1type=None|rse1rar=5
+|xd1=Quick Claw|xd1type=None|xd1rar=100
+|dppt1=Quick Claw|dppt1type=None|dppt1rar=5
+|hgss1=Quick Claw|hgss1type=None|hgss1rar=5
+|b2w21=Quick Claw|b2w21type=None|b2w21rar=5
+|xy1=Quick Claw|xy1type=None|xy1rar=5
+|oras1=Grip Claw|oras1type=None|oras1rar=5
+}}
+
+====Alolan Sandshrew====
+{{HeldItems|type=Ice|type2=Steel
+|m1=Grip Claw|m1type=None|m1rar=5
+|um1=Grip Claw|um1type=None|um1rar=5
+}}
+
+===Stats===
+====Base stats====
+=====Sandshrew=====
+{{Stats
+|type=Ground
+|HP=50
+|Attack=75
+|Defense=85
+|SpAtk=20
+|SpDef=30
+|Special=30
+|Speed=40}}
+
+=====Alolan Sandshrew=====
+{{Stats
+|type=Ice
+|type2=Steel
+|HP=50
+|Attack=75
+|Defense=90
+|SpAtk=10
+|SpDef=35
+|Speed=40}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ground
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=3
+|Technique=3
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+====Sandshrew====
+{{TypeEffectiveness
+|type1=Ground
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=yes
+|newelectric=1}}
+
+====Alolan Sandshrew====
+{{TypeEffectiveness
+|type1=Ice
+|type2=Steel
+|Normal=50
+|Fighting=400
+|Flying=50
+|Poison=0
+|Ground=200
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=400
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=50
+|Ice=25
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|steel=yes
+|newpoison=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Sandshrew=====
+{{learnlist/levelh/7|Sandshrew|Ground|Ground|1}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level7|3|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level7|5|Poison Sting|Poison|Physical|15|100|35}}
+{{learnlist/level7|7|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level7|9|Rapid Spin|Normal|Physical|20|100|40}}
+{{learnlist/level7|11|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/level7|14|Magnitude|Ground|Physical|—|100|30||'''}}
+{{learnlist/level7|17|Swift|Normal|Special|60|—|20}}
+{{learnlist/level7|20|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level7|23|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level7|26|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|30|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level7|34|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/level7|38|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/level7|42|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level7|46|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/levelf/7|Sandshrew|Ground|Ground|1}}
+
+=====Alolan Sandshrew=====
+{{learnlist/levelh/7|Sandshrew|Ice|Steel|7}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level7|3|Bide|Normal|Physical|—|—|10}}
+{{learnlist/level7|5|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level7|7|Ice Ball|Ice|Physical|30|90|20||'''}}
+{{learnlist/level7|9|Rapid Spin|Normal|Physical|20|100|40}}
+{{learnlist/level7|11|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/level7|14|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level7|17|Swift|Normal|Special|60|—|20}}
+{{learnlist/level7|20|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level7|23|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level7|26|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|30|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level7|34|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/level7|38|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/level7|42|Hail|Ice|Status|—|—|10}}
+{{learnlist/level7|46|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/levelf/7|Sandshrew|Ice|Steel|7}}
+
+====By [[TM]]/[[HM]]====
+=====Sandshrew=====
+{{learnlist/tmh/7|Sandshrew|Ground|Ground|1}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Sandshrew|Ground|Ground|1}}
+
+=====Alolan Sandshrew=====
+{{learnlist/tmh/7|Sandshrew|Ice|Steel|7}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM28|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM70|Aurora Veil|Ice|Status|—|—|20}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|—|100|5||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Sandshrew|Ice|Steel|7}}
+
+====By {{pkmn|breeding}}====
+=====Sandshrew=====
+{{learnlist/breedh/7|Sandshrew|Ground|Ground|2}}
+{{learnlist/breed7|{{MSP|034|Nidoking}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}<br>{{MSP|289|Slaking}}{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}|Chip Away|Normal|Physical|70|100|20}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|028|Sandslash}}{{MSP|335|Zangoose}}|Crush Claw|Normal|Physical|75|95|10}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|231|Phanpy}}{{MSP|288|Vigoroth}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|231|Phanpy}}{{MSP|263|Zigzagoon}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}<br>{{MSP|324|Torkoal}}{{MSP|327|Spinda}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}<br>{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|775|Komala}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|215|Sneasel}}{{MSP|335|Zangoose}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|461|Weavile}}{{MSP|509|Purrloin}}<br>{{MSP|510|Liepard}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}{{MSP|571|Zoroark}}{{MSP|631|Heatmor}}|Hone Claws|Dark|Status|—|—|15|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|659|Bunnelby}}<br>{{MSP|660|Diggersby}}|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/breed7|{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|083|Farfetch'd}}{{MSP|336|Seviper}}{{MSP|359|Absol}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|461|Weavile}}<br>{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|571|Zoroark}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|232|Donphan}}{{MSP|324|Torkoal}}{{MSP|529|Drilbur}}<br>{{MSP|530|Excadrill}}{{MSP|775|Komala}}|Rapid Spin|Normal|Physical|20|100|40}}
+{{learnlist/breed7|{{MSP|027A|Sandshrew}}{{MSP|028A|Sandslash}}{{MSP|050A|Diglett}}{{MSP|051A|Dugtrio}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}<br>{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|448|Lucario}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/breed7|{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|744|Rockruff}}{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Rock Climb|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|264|Linoone}}{{MSP|400|Bibarel}}{{MSP|428|Lopunny}}{{MSP|505|Watchog}}<br>{{MSP|530|Excadrill}}{{MSP|660|Diggersby}}{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}|Rototiller|Ground|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Sandshrew|Ground|Ground|2}}
+
+=====Alolan Sandshrew=====
+{{learnlist/breedh/7|Sandshrew|Ice|Steel|7}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}<br>{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}<br>{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|513|Pansear}}<br>{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|631|Heatmor}}|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|034|Nidoking}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}<br>{{MSP|289|Slaking}}{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}|Chip Away|Normal|Physical|70|100|20}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|028|Sandslash}}{{MSP|335|Zangoose}}|Crush Claw|Normal|Physical|75|95|10}}
+{{learnlist/breed7|{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|231|Phanpy}}{{MSP|288|Vigoroth}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|231|Phanpy}}{{MSP|263|Zigzagoon}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}<br>{{MSP|324|Torkoal}}{{MSP|327|Spinda}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}<br>{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|775|Komala}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|215|Sneasel}}{{MSP|335|Zangoose}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|461|Weavile}}{{MSP|509|Purrloin}}<br>{{MSP|510|Liepard}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}{{MSP|571|Zoroark}}{{MSP|631|Heatmor}}|Hone Claws|Dark|Status|—|—|15|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|028A|Sandslash}}{{MSP|614|Beartic}}|Icicle Crash|Ice|Physical|85|90|10||'''}}
+{{learnlist/breed7|{{MSP|028A|Sandslash}}|Icicle Spear|Ice|Physical|25|100|30||'''}}
+{{learnlist/breed7|{{MSP|027A|Sandshrew}}{{MSP|028A|Sandslash}}{{MSP|050A|Diglett}}{{MSP|051A|Dugtrio}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}<br>{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|448|Lucario}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/breed7|{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|083|Farfetch'd}}{{MSP|336|Seviper}}{{MSP|359|Absol}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|461|Weavile}}<br>{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|571|Zoroark}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breedf/7|Sandshrew|Ice|Steel|7}}
+
+====By [[Move Tutor|tutoring]]====
+=====Sandshrew=====
+{{learnlist/tutorh/7|Sandshrew|Ground|Ground|2}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutorf/7|Sandshrew|Ground|Ground|2}}
+
+=====Alolan Sandshrew=====
+{{learnlist/tutorh/7|Sandshrew|Ice|Steel|7}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15||'''|no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutorf/7|Sandshrew|Ice|Steel|7}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fighting color light}}; border: 3px solid #{{tcg fighting color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Slam}}
+| [[Sandshrew (McDonald Pack 16)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Ground}}
+{{Spindata/Pinball|col=2|type=Ground|ndex=027|acquisition=Catch}}
+{{Spindata/PinballRS|col=2|type=Ground|ndex=027|acquisition=Hatch}}
+{{Spindata/Trozei|col=2|type=Ground|ndex=027|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Ground|ndex=027
+|body=1
+|rate=10.4
+|area=Furnace Desert
+|P1={{m|Defense Curl}} makes me better protected!
+|P2=I have only half my HP left...
+|P3=I'm close to fainting... Can I just curl up somewhere?
+|PL=Yeah! I leveled!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ground|ndex=027
+|body=1
+|rate=8.2
+|IQ=D
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ground
+|group=Ground
+|assist=Ground
+|field=Tunnel
+|fieldpower=1
+|browser=It hurls lumps of sand to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Ground
+|group=Ground
+|assist=Ground
+|field=Crush
+|fieldpower=1
+|browser=It triggers tremors and opens fissures that make Pokémon Paused.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Ground
+|att=2
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Ground
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Ground|ndex=027
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Ground|ndex=027|num=680
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Damage Streak
+|skilldesc=Increases damage when it is triggered in a row.
+|swapper=Three Force
+}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=027A||stype=Ice|num=680
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Rock Break+
+|skilldesc=Sometimes destroys three breakable-rock disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=027
+|egg=5
+|buddy=3
+|evocandy=50
+|stamina=100
+|attack=126
+|defense=145
+|fast={{m|Scratch}}, {{m|Mud Shot}}
+|special={{m|Dig}}, {{m|Rock Slide}}, {{m|Rock Tomb}}{{tt|*|Prior to February 16, 2017}}, {{m|Sand Tomb}}{{tt|*|From February 16, 2017 onward}}
+}}
+|}
+
+===Evolution===
+====Sandshrew====
+{{Evobox-2
+|type1=Ground
+|pictype=art
+|no1=027
+|name1=Sandshrew
+|type1-1=Ground
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 22}}
+|no2=028
+|name2=Sandslash
+|type1-2=Ground}}
+
+====Alolan Sandshrew====
+{{Evobox-2
+|type1=Ice
+|type2=Steel
+|pictype=sprite
+|no1=027Sandshrew-Alola
+|name1=Sandshrew
+|type1-1=Ice
+|type2-1=Steel
+|evo1={{bag|Ice Stone}}<br>{{color2|000|Ice Stone}}
+|no2=028Sandslash-Alola
+|name2=Sandslash
+|type1-2=Ice
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground}}
+{{Spritebox/1|ndex=027}}
+{{Spritebox/2|ndex=027}}
+{{Spritebox/3|ndex=027}}
+{{Spritebox/4|ndex=027}}
+{{Spritebox/5|ndex=027}}
+{{Spritebox/6|ndex=027}}
+{{Spritebox/7/2Forms|ndex=027|form1=A}}
+{{Spritebox/Footer|027|Sandshrew}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Alolan Sandshrew and its Alolan {{p|Sandslash|evolution}}.
+* Sandshrew and its {{p|Sandslash|evolution}} share their {{pkmn|category}} name with {{p|Rattata}}, {{p|Raticate}}, {{p|Pikachu}}, and {{p|Raichu}}. They are all known as the Mouse Pokémon, though Rattata and Raticate have also been called the Rat Pokémon.
+** They all have at least one family member with a [[regional variant]] in Alola.
+* Alolan Sandshrew has the lowest base {{stat|Special Attack}} stat of any Pokémon, tied with {{p|Shuckle}}, {{p|Feebas}} and {{p|Bonsly}}.
+** Sandshrew has the lowest base Special Attack of all {{type|Ground}} Pokémon.
+* Both Sandshrew and Alolan Sandshrew have Abilities that boost evasion in certain weather ({{weather|Sandstorm}} for Sandshrew and {{weather|Hail}} for Alolan Sandshrew) and Hidden Abilities that boost Speed in those same weather conditions.
+* Alolan Sandshrew can be seen as a parallel to {{p|Vulpix|Alolan Vulpix}}. Both were initially introduced in [[Generation I]] and got [[Alola Form]]s in {{g|Sun and Moon}}. Both Pokémon are {{type|Ice}} with Vulpix being exclusive to Sun and Sandshrew being exclusive to Moon. Furthermore, both Pokémon evolve when exposed to an [[Ice Stone]].
+* Alolan Sandshrew, {{p|Clefable}}, {{p|Latias}}, {{p|Gurdurr}}, {{p|Greninja}}, Ash-Greninja, and {{p|Minior|Minior (Meteor Form)}} are all the same weight as {{ga|Ethan}}.
+
+===Origin===
+{{bulbanews|On the Origin of Species: Sandshrew and Sandslash}}
+Sandshrew may be based on the {{wp|armadillo}}, a mammal that curls up into a ball, has sharp claws, and lives in desert regions. Both Sandshrew and {{p|Sandslash}} are mentioned to have poisonous claws, similar to how some species of the {{wp|shrew}} are poisonous. Sandshrew also closely resembles an {{wp|pangolin}}.
+
+Alolan Sandshrew seems to also be based on an {{wp|igloo}}.
+
+====Name origin====
+Sandshrew is a combination of ''sand'' and ''{{wp|shrew}}''.
+
+Sand is simply ''sand''.
+
+==In other languages==
+{{Other languages|type=Ground|type2=Ground
+|ja=サンド ''Sand''|jameaning=From ''sand''
+|fr=Sabelette|frmeaning=From ''{{tt|sable|sand}}'' and ''{{tt|belette|weasel}}''
+|es=Sandshrew|esmeaning=Same as English name
+|de=Sandan|demeaning=From ''Sand''
+|it=Sandshrew|itmeaning=Same as English name
+|ko=모래두지 ''Moreduji''|komeaning=From {{tt|모래 ''morae''|sand}} and {{tt|두더지 ''dudeoji''|mole}}
+|zh_yue=穿山鼠 ''Chyūnsāansyú''|zh_yuemeaning=A portmanteau of {{wp|Pangolin|{{tt|穿山甲|pangolin}}}} and {{tt|鼠|mouse}}. Literally "Mouse that passes through mountains"
+|zh_cmn=穿山鼠 ''Chuānshānshǔ''|zh_cmnmeaning=A portmanteau of {{wp|Pangolin|{{tt|穿山甲|pangolin}}}} and {{tt|鼠|mouse}}. Literally "Mouse that passes through mountains"
+|hi=सांडश्रु ''Sandshrew''|himeaning=Transcription of English name
+|lt=Smėlius|ltmeaning=Translation of English name
+|ru=Сэндшрю ''Sendshryu''|rumeaning=Transcription of English name
+}}
+
+<br clear="left">
+
+==Notes==
+<references />
+
+==External links==
+{{-}}
+{{PokémonPrevNext/Head|type=Ground}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=026|prev=Raichu|nextnum=028|next=Sandslash}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve by evolutionary stone]]<!--Alolan Sandshrew-->
+[[Category:Pokémon that evolve using Ice Stone]]<!--Alolan Sandshrew-->
+[[Category:White-colored Pokémon]]<!--Alolan Sandshrew-->
+
+[[de:Sandan]]
+[[fr:Sabelette]]
+[[it:Sandshrew]]
+[[ja:サンド]]
+[[pl:Sandshrew]]
+[[zh:穿山鼠]]

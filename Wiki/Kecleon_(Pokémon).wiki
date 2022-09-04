@@ -1,0 +1,550 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Kecleon}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=351|prev=Castform|nextnum=353|next=Shuppet|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Kecleon
+|jname=カクレオン
+|tmname=Kakureon
+|ndex=352
+|hdex=145
+|hdex6=150
+|karea=Central
+|kdex=116
+|fbrow=104
+|typebox=1
+|type1=Normal
+|category=Color Swap
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=48.5
+|weight-kg=22.0
+|abilityn=d
+|ability1=Color Change
+|abilityd=Protean
+|color=Green
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=1
+|evsd=1
+|expyield=154
+|oldexp=132
+|lv100exp=1,059,860
+|gendercode=127
+|catchrate=200
+|body=06
+|pokefordex=kecleon
+|generation=3
+|friendship=70
+}}
+'''Kecleon''' ([[List of Japanese Pokémon names|Japanese]]: '''カクレオン''' ''Kakureon'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+Kecleon, along with {{p|Wailmer}} and {{p|Azurill}}, were the first {{cat|Generation III Pokémon}} revealed, in early March 2001.
+
+==Biology==
+[[File:Invisible Kecleon.png|200px|left|thumb|An invisible Kecleon]]
+Kecleon is a bipedal, reptilian Pokémon that is usually green. On either sides of its head are yellow frills, which are connected by lines to its yellow lips and rings around its eyes. There are small ridges on its shoulders and a red zigzag stripe around its midsection. The hands and feet have three short digits each, and it has yellow soles. It also has a long skinny tail that is usually curled tightly in a spiral.
+
+Kecleon is able to change the colors of its body at will, and is known for frequently using this ability to camouflage itself. However, it is unable to change the color of its red stripe. Its color also changes based on its mood and health, darkening in color with better health. By using camouflage to appear almost invisible, it can sneak up on prey and ensnare it with its long pink tongue. If unnoticed for too long though, it pouts and may never reveal itself. A purplish variant has been seen in [[EP205|the anime]] and the [[Pokémon Mystery Dungeon series]]; whether this is an example of it changing color or simply a different kind of Kecleon is unknown. This Pokémon lives in {{DL|List of Pokémon by habitat|Forest Pokémon|forests}}.
+{{left clear}}
+
+==In the anime==
+[[File:Angela Kecleon.png|thumb|left|250px|Kecleon in the {{pkmn|anime}}]]
+[[File:Madison Reddy.png|250px|left|thumb|Purple Kecleon in the anime]]
+===Major appearances===
+Two Kecleon debuted in ''[[EP205|The Kecleon Caper]]'', making Kecleon the first [[Generation III]] Pokémon to appear in the anime. These Kecleon were owned by [[Madison and Alexa]], who nicknamed them Reddy and Greeny. They tried to foil {{TRT}}'s attempt to steal their owners' stuff.
+
+A Kecleon was one of the Pokémon that played hide-and-seek with {{AP|Pikachu}} and the others in ''[[PK10|Pikachu's PikaBoo]]''. However, said Kecleon missed out on the excitement when a lawnmower was on the loose. The end of the short finds Kecleon standing in the same spot, wondering where everyone is; it was not found because it was invisible. Due to nobody ever finding Kecleon, it was declared the winner.
+
+A Kecleon appeared in ''[[SS009|Big Meowth, Little Dreams]]''. It was stealing food to take to {{DL|Pichu Bros|Azumarill}}'s sick niece.
+
+{{jo|Harrison}} used a Kecleon against {{Ash}}'s Pikachu in the [[Silver Conference]] in ''[[EP271|Playing with Fire]]'' and ''[[EP272|Johto Photo Finish]]''. It finally lost to Pikachu after an intense battle.
+
+Two Kecleon—one green, one purple—known as the Kecleon Brothers, appeared in ''[[SS019|Pokémon Mystery Dungeon: Team Go-Getters out of the Gate!]]''. Unfortunately, [[Team Meanies]] bought out everything they had. They made another appearance in ''[[SS020|Pokémon Mystery Dungeon: Explorers of Time & Darkness]]''.
+
+[[Angela]] used a Kecleon to train her team of ninjas in ''[[AG156|From Cradle to Save]]''.
+
+===Minor appearances===
+A Kecleon appeared in ''[[AG033|Now That's Flower Power!]]'', under the ownership of a [[Pokémon Coordinator]].
+
+Kecleon had minor background appearances in ''[[AG050|Pros and Con Artists]]'' and ''[[AG068|A Double Dilemma]]''.
+
+A Kecleon was among the Pokémon seeing during the [[Ever Grande Conference]] in ''[[AG126|Saved by the Beldum]]''.
+
+A Kecleon appeared in ''[[DP038|One Big Happiny Family!]]'' in [[Jessie]]'s fantasy.
+
+A Coordinator's Kecleon appeared in ''[[DP078|Pruning a Passel of Pals!]]'', where it was seen participating in the [[Contest Battle|Battle Stage]] of the [[Wallace Cup]].
+
+A Kecleon appeared in ''[[PK24|Meloetta's Moonlight Serenade]]''.
+
+A Kecleon appeared in ''[[XY016|A Jolting Switcheroo!]]''.
+
+A Kecleon appeared in ''[[XY021|A PokéVision of Things to Come!]]''.
+
+A Kecleon appeared in ''[[XY023|Coming Back into the Cold!]]''.
+
+A Kecleon appeared in ''[[XY047|Dreaming a Performer's Dream!]]''.
+
+A {{pkmn|Trainer}}'s Kecleon appeared in ''[[XY091|A Performance Pop Quiz!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP271|Kecleon|Ash's Pokédex|Kecleon, the Color Swap Pokémon. Kecleon is able to blend into its surroundings by {{a|Color Change|changing the color}} of its body.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+
+==In the manga==
+[[File:Wally Kecleon.png|thumb|Kecleon in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Kecleon debuted in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+{{adv|Wally}} captured a Kecleon in the [[Petalburg Woods]] with {{adv|Ruby}}'s assistance in ''[[PS187|Tongue-Tied Kecleon]]''. He cherishes him as his first Pokémon, like his game version's {{p|Ralts}}. He is often used for maneuvers involving his long tongue, and is the first of the mainly-green wardrobe of Wally's team, joined by a {{p|Roselia}}, {{p|Cacturne}}, and the {{p|Flygon}} given by [[Norman]].
+
+A Ally Kecleon appeared to help a [[Totem Pokémon|Totem]] {{p|Lurantis}} fight against {{adv|Moon}} in the {{chap|Sun & Moon}}.
+
+===In the Pokémon Mystery Dungeon: Ginji's Rescue Team manga===
+Two Kecleon appear in ''[[GRT3|Goodbye to a Peaceful Village!]]''.
+
+===In the Pokémon Pocket Monsters manga===
+A Kecleon appeared in ''[[PMRS20|Clefairy Becomes A Billionaire?!]]'' of the Pokémon Ruby-Sapphire manga.
+
+Another one appeared in ''[[PMRS39|Pokémon New Year]]''.
+
+===In the Pokémon Try Adventure manga===
+[[Haidoru]] has a Kecleon which served as his partner Pokémon.
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS187]]|This Pokémon can change the colors of its body and blend into the surroundings. But it cannot change the zigzag pattern on its stomach.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS187]]|Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception...this Pokémon can't change the zigzag pattern on its belly.{{tt|*|VIZ Media}}}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Kecleon (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Pinball: Ruby & Sapphire}}: Kecleon has the first Bonus Field on the [[Ruby Field]]. It will turn invisible, though a {{key|III|Devon Scope}} can be knocked out of the tree to make it visible for a short time. Kecleon must be knocked over and then hit with the ball ten times in two minutes to win the round.
+* [[Pokémon Mystery Dungeon series]]: Two Kecleon; an older purple Kecleon and a younger green Kecleon, run [[Kecleon Shop]], a shop in the game's town settlement. Kecleon may also run shops in [[dungeon]]s. They are normally courteous, but shoplifting will result in multiple high level wild Kecleon appearing to attack the player. From [[Pokémon Mystery Dungeon (WiiWare)|the WiiWare games]] and on, only the younger Kecleon is running the shop.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Kecleon is capable of {{a|Color Change|changing its body colors}} at will to blend in with its surroundings. There is one exception - this Pokémon can't change the zigzag pattern on its belly.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Pokémon that has the ability to alter its body colors to match its surroundings. A Kecleon reverts to its original colors if it is startled.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It changes body color to blend in with its surroundings. It also changes color if it is happy or sad.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|t=FFF|v2=White|entry=It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.}}
+{{Dex/Entry2|v=Black 2|t=FFF|v2=White 2|entry=It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It can freely change its body's color. The zigzag pattern on its belly doesn't change, however.}}
+{{Dex/Entry1|v=Y|entry=It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception—this Pokémon can’t change the zigzag pattern on its belly.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=It changes its hue to blend into its surroundings. If no one takes notice of it for too long, it will pout and never reveal itself.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|120|Hoenn}}, {{rtn|121|Hoenn}}, and {{rtn|123|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Route]]s {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|120|Hoenn}}, {{rtn|121|Hoenn}}, and {{rtn|123|Hoenn}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|v=Diamond|area={{rt|210|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry1/None|v=Pearl}}
+{{Availability/Entry1|v=Platinum|area=[[Great Marsh]] (after obtaining the [[National Pokédex]])}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=Transfer from [[Pokéwalker]]}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Treehouse}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Nature Preserve]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{rt|6|Kalos}}, [[Friend Safari]] ([[Friend Safari#Normal-type Safari|Normal]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|120|Hoenn}}, {{rtn|121|Hoenn}}, {{rtn|123|Hoenn}}, [[Lavaridge Town]]{{tt|*|Invisible obstacle, in the left hot spring, must have Devon Scope to reveal and battle}}, [[Mossdeep Space Center]]{{tt|*|Invisible obstacle, behind astronaut figure in space center, must have Devon Scope to reveal and battle, always has hidden Ability}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Dividing Peak Tunnel]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Mt. Snowfall]]}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Forest ([[Ruby Field|Both]] [[Sapphire Field|Fields]])}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 3]], Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Kecleon Shop#In dungeons|Kecleon Shops]] in [[Mt. Blaze]] onwards}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Kisara Plains]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Kecleon Shop#In dungeons|Kecleon Shops]] in [[Waterfall Cave]] onwards}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Kecleon Shop#In dungeons|Kecleon Shops]] in [[Waterfall Cave]] onwards}}
+{{Availability/Entry1|v=MD WiiWare|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=[[Kecleon Shop#In dungeons|Kecleon Shops]] in dungeons}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Shimmering Lake]]}}
+{{Availability/Entry1|1|v=PokéPark 2|color={{grass color}}|link=PokéPark 2: Wonders Beyond|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Verdant Plaza#Green Hide-and-Seek|Verdant Plaza: Green Hide-and-Seek]]}}
+{{Availability/Entry1|1|v=MD GtI|color={{silver color}}|link=Pokémon Mystery Dungeon: Gates to Infinity|area=[[Kecleon Shop#In dungeons|Kecleon Shops]] in dungeons}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Monday Stage 3|Safari Jungle: Stage 3]]{{dotw|Mo}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#The Daily Pokémon (#3)|The Daily Pokémon (#3)]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ruby Volcano#Giant Redwood|Ruby Volcano: Giant Redwood]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=PSMD|color={{gold color}}|link=Pokémon Super Mystery Dungeon|area=[[Kecleon Shop#In dungeons|Kecleon Shops]] in dungeons}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=Normal
+|rse1=Persim Berry|rse1type=Berry|rse1rar=5
+|d1=Persim Berry|d1type=Berry|d1rar=5
+|pt1=Persim Berry|pt1type=Berry|pt1rar=5
+|b2w21=Persim Berry|b2w21type=Berry|b2w21rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|HP=60
+|Attack=90
+|Defense=70
+|SpAtk=60
+|SpDef=120
+|Speed=40}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=3
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+Due to its Abilities, this Pokémon will change its type throughout the battle, thus changing its weaknesses. For instance, if hit by{{tt|*|with Color Change}} or when using{{tt|*|with Protean}} a Fighting-type move, it will become more vulnerable to a Psychic-type attack and more resistant to a Dark-type attack if either is used next.
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Kecleon|Normal|Normal|3}}
+{{learnlist/level7|1|Thief|Dark|Physical|60|100|25}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level7|1|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|4|Bind|Normal|Physical|15|85|20||'''}}
+{{learnlist/level7|7|Shadow Sneak|Ghost|Physical|40|100|30}}
+{{learnlist/level7|10|Feint|Normal|Physical|30|100|10||'''}}
+{{learnlist/level7|13|Fury Swipes|Normal|Physical|18|80|15||'''}}
+{{learnlist/level7|16|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/level7|18|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level7|21|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level7|25|Slash|Normal|Physical|70|100|20||'''}}
+{{learnlist/level7|30|Camouflage|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|33|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/level7|38|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|42|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|46|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level7|50|Synchronoise|Psychic|Special|120|100|10}}
+{{learnlist/levelf/7|Kecleon|Normal|Normal|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Kecleon|Normal|Normal|3}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Kecleon|Normal|Normal|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Kecleon|Normal|Normal|3}}
+{{learnlist/breed7|{{MSP|352|Kecleon}}{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}|Camouflage|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|327|Spinda}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}|Dizzy Punch|Normal|Physical|70|100|10||'''}}
+{{learnlist/breed7|{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|274|Nuzleaf}}{{MSP|300|Skitty}}<br>{{MSP|301|Delcatty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Fake Out|Normal|Physical|40|100|10||'''}}
+{{learnlist/breed7|{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}{{MSP|570|Zorua}}<br>{{MSP|571|Zoroark}}{{MSP|765|Oranguru}}|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/breed7|{{MSP|448|Lucario}}|Power-Up Punch|Fighting|Physical|40|100|20|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|325|Spoink}}{{MSP|326|Grumpig}}{{MSP|428|Lopunny}}|Magic Coat|Psychic|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|038|Ninetales}}{{MSP|038A|Ninetales}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|203|Girafarig}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|275|Shiftry}}<br>{{MSP|390|Chimchar}}{{MSP|461|Weavile}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}<br>{{MSP|570|Zorua}}{{MSP|571|Zoroark}}{{MSP|765|Oranguru}}|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|194|Wooper}}|Recover|Normal|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|700|Sylveon}}|Skill Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|631|Heatmor}}|Snatch|Dark|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|327|Spinda}}|Trick|Psychic|Status|&mdash;|100|10|*}}
+{{learnlist/breedf/7|Kecleon|Normal|Normal|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Kecleon|Normal|Normal|3}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20||'''|no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutorf/7|Kecleon|Normal|Normal|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg colorless color light}}; border: 3px solid #{{tcg colorless color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Quick Attack}}
+| style="background:#fff; {{roundybr|5px}}" | [[Kecleon (EX Legend Maker 37)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/PinballRS|col=3|type=Normal|ndex=352|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=352|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=352
+|body=1
+|rate=-33.9
+|area=Overgrown Forest
+|P1=What color do you like? I can change into it!
+|P2=Huh? Well, now, my HP's half gone!
+|P3=Sorry, I'm about done. I can't begin to change color anymore...
+|PL=Leveled up! We're in business now!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=352
+|body=1
+|rate=-49.5
+|IQ=G
+}}
+|-
+{{Spindata/Ranger|col=6|type=Normal
+|group=Normal
+|fieldpower=0
+|loop=4
+|MinEXP=40
+|MaxEXP=100
+|browser=Kecleon keeps an eye on things while hiding by blending in with the surroundings.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Normal|ndex=352
+|pad=He hides and watches over all Pokémon. He surprisingly knows details about everything.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=352
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=352|num=240
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Mind Zap
+|skilldesc=Delays your opponent's disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=352
+|buddy=5
+|evolution=N/A
+|stamina=120
+|attack=161
+|defense=212
+|fast={{m|Lick}}, {{m|Sucker Punch}}
+|special={{m|Foul Play}}, {{m|Flamethrower}}, {{m|Thunder}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Normal
+|pictype=art
+|no1=352
+|name1=Kecleon
+|type1-1=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=352}}
+{{Spritebox/4|ndex=352}}
+{{Spritebox/5|ndex=352}}
+{{Spritebox/6|ndex=352}}
+{{Spritebox/7|ndex=352}}
+{{Spritebox/Footer|352|Kecleon}}
+
+====Colosseum and XD sprites====
+{| style="margin:auto; {{roundy|20px}} border: 2px solid #{{normal color dark}}; background: #{{normal color}}"
+|- style="text-align:center"
+| style="{{roundy|80px}} border: 2px solid #{{normal color dark}}; background: #{{normal color light}}; width:160px"| [[File:Box Colo 352.png]]<br>[[File:Box Colo 352 s.png]]
+| style="{{roundy|80px}} border: 2px solid #{{normal color dark}}; background: #{{normal color light}}; width:160px"| [[File:Box XD 352.png]]<br>[[File:Box XD 352 s.png]]
+| style="{{roundy|80px}} border: 2px solid #{{normal color dark}}; background: #{{normal color light}}; width:160px"| [[File:Menu Colo 352.png]]<br>[[File:Menu Colo 352 s.png]]
+| style="{{roundy|80px}} border: 2px solid #{{normal color dark}}; background: #{{normal color light}}; width:160px"| [[File:Menu XD 352.png]]<br>[[File:Menu XD 352 s.png]]
+|- style="text-align:center; font-size: 80%"
+| Colosseum
+| XD
+| Colosseum menu
+| XD menu
+|}
+
+==Trivia==
+* Kecleon is the hardest Pokémon to recruit in [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]], with a base recruit rate of -33.9%. It can only be recruited if the player is level 90 or higher, and if they are holding a [[Recruitment items|Friend Bow]]. Even after all this, Kecleon's recruit rate is only 0.1%. It is considered slightly easier to recruit in the [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|Explorers of Time, Explorers of Darkness]], and [[Pokémon Mystery Dungeon: Explorers of Sky|Explorers of Sky]] since the player now has a 0.5% chance of recruiting it at level 90, while holding an [[Amber Tear]]/[[Golden Mask]] with the "Fast Friend" [[IQ]] skill, despite its base recruit rate decreasing to -49.5%.
+
+===Origin===
+Kecleon is based on a {{wp|chameleon}}, most likely the {{wp|veiled chameleon}}.
+
+====Name origin====
+Kecleon and Kakureon may be a combination of 隠れる ''kakureru'' (to hide) and ''{{wp|chameleon}}''.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=カクレオン ''Kakureon''|jameaning=From {{tt|隠れる ''kakureru|to hide}} and ''chameleon''
+|fr=Kecleon|frmeaning=Same as English name
+|es=Kecleon|esmeaning=Same as English name
+|de=Kecleon|demeaning=Same as English name
+|it=Kecleon|itmeaning=Same as English name
+|ko=켈리몬 ''Kelimon''{{tt|*|Used in present airings and Korean games}}<br>(숨을래몬 ''Sum'eullaemon''{{tt|*|Used in SBS's 2002 airing of Pokémon (Johto Series) Korean dub}})|komeaning=Possibly from ''color'' and ''chameleon''<br>(A play on {{tt|숨을래 ''sum'ellae''|to want to hide}} and ''chameleon'')
+|zh_cmn=變隱龍 / 变隐龙 ''Biānyǐnlóng''|zh_cmnmeaning=From {{tt|變色龍 ''biàn​sè​lóng''|chameleon}} and {{tt|隱 ''yǐn''|to ''conceal'' or ''hidden''}}
+|hi=केकलियन ''Kecleon''|himeaning=Transliteration of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=351|prev=Castform|nextnum=353|next=Shuppet}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appeared in the anime before their game debut]]
+
+[[de:Kecleon]]
+[[fr:Kecleon]]
+[[it:Kecleon]]
+[[ja:カクレオン]]
+[[pl:Kecleon]]
+[[zh:变隐龙]]

@@ -1,0 +1,294 @@
+{{PokémonPrevNext/Head|type=Poison|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=756|prev=Shiinotic|nextnum=758|next=Salazzle}}
+|}
+{{Pokémon Infobox
+|name=Salandit
+|jname=ヤトウモリ
+|jtranslit=Yatōmori
+|tmname=Yatoumori
+|ndex=757
+|type1=Poison
+|type2=Fire
+|category=Toxic Lizard
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=10.6
+|weight-kg=4.8
+|adex=161
+|abilitylayout=2
+|ability1=Corrosion
+|abilityd=Oblivious
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Dragon
+|eggcycles=20
+|evtotal=1
+|evsp=1
+|expyield=64
+|lv100exp=1,000,000
+|gendercode=31
+|color=Black
+|catchrate=120
+|body=08
+|pokefordex=salandit
+|generation=7
+|friendship=70
+}}
+'''Salandit''' ([[List of Japanese Pokémon names|Japanese]]: '''ヤトウモリ''' ''Yatoumori'') is a dual-type {{2t|Poison|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+[[Gender|Female]] Salandit [[Evolution|evolve]] into {{p|Salazzle}} starting at [[level]] 33. Male Salandit are not known to evolve into or from any other Pokémon.
+
+==Biology==
+Salandit is a small, black Pokémon resembling a {{wp|salamander}} or lizard. Its body is dark gray with a black head and feet. Along its back and down its tail is an orange-red line. This marking splits into short lines with round tips on its back. This line sometimes flares up when it attacks. At the base of its neck are two short, flat spines. Its eyes are light purple with slit pupils and there are several tooth-like protrusions along its upper jaw. Each foot has four pointed toes.
+
+From the base of its tail, Salandit can emit both a toxic gas and flames. The gas has a sweet odor that causes dizziness. The female can also release pheromones that attract males of all species, including [[human]]s. Additionally, these pheromones may cause opponents to be controlled by this Pokémon's will. Because of this, male Salandit offers its food to females, leaving it malnourished and unable to evolve. While it is not a powerful Pokémon, it is able to unbalance opponents with its cunning techniques.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/salandit/</ref> It has difficulty reeling {{p|Spinda}} though, since Spinda are always reeling.
+
+==In the anime==
+[[File:Tupp Salandit.png|thumb|250px|left|Salandit in the {{pkmn|anime}}]]
+===Major appearances===
+Three Salandit appeared in ''[[SM001|Alola to New Adventure!]]'' under the ownership of [[Tupp]]. In that episode, they battled [[Kiawe's Turtonator]] and [[Ash's Pikachu]] but were swiftly defeated. One of them reappeared in ''[[SM011|Young Kiawe Had a Farm!]]'', ''[[SM024|Alolan Open House!]]'', ''[[SM025|A Team-on-Team Tussle!]]'', and ''[[SM027|A Glaring Rivalry!]]''.
+
+A Salandit appeared in ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', where it tried to take the Pokémon {{pkmn|Egg}} that {{an|Lillie}} was looking after. However, it failed and was sent off.
+
+===Minor appearances===
+An image of a Salandit appeared in ''[[SM003|Loading the Dex!]]'' when {{an|Giovanni}} was telling {{TRT}} about the rare Pokémon that appear in the [[Alola]] region.
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM008|Salandit|Rotom Pokédex|Salandit, the Toxic Lizard Pokémon. A {{t|Poison}} and {{t|Fire}} type. Salandit lives in volcanoes and dry rocky places. They're very dangerous Pokémon that attack after releasing a sweet-smelling poisonous gas!}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+
+==In the manga==
+[[File:Team Skull Salandit Adventures.png|thumb|250px|Salandit in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Two Salandit are owned by a pair of {{tc|Team Skull Grunt}}s. They were first used in [[PASM01]] to scout out the [[Hau'oli City]] Beachfront to see if {{adv|Sun}} had cleared the area of wild {{p|Pyukumuku}}. When {{adv|Moon}} sees the female Grunt placing a Pyukumuku on the beach in order to make it seem that Sun didn't do the job properly, Grunt A commands his Salandit to smack Moon with its tail. Eventually, both were defeated by Sun's {{p|Meowth|Dollar}}.
+
+==In the TCG==
+{{main|Salandit (TCG)}}
+{{left clear}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Poison|type2=Fire}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It burns its bodily fluids to create a poisonous gas. When its enemies become disoriented from inhaling the gas, it attacks them.}}
+{{Dex/Entry1|v=Moon|entry=Volcanoes or dry, craggy places are its home. It emanates a sweet-smelling poisonous gas that attracts bug Pokémon, then attacks them.}}
+{{Dex/Entry1|v=Ultra Sun|entry=The males will do whatever the females tell them. They give the females most of their food. Due to malnutrition, the males can't evolve.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It weakens opponents and sends them reeling with its poisonous gas. Salandit doesn't deal well with Spinda, since it's always reeling.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Poison|type2=Fire}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|8|Alola}}, [[Wela Volcano Park]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|8|Alola}}, [[Wela Volcano Park]], [[Lush Jungle]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Poison|type2=Fire}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#16th release|''Pokémon Safari'']] <small>(16th release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Poison|type2=Fire
+|sm1=Smoke Ball|sm1type=None|sm1rar=5
+|usum1=Smoke Ball|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Poison
+|type2=Fire
+|HP=48
+|Attack=44
+|Defense=40
+|SpAtk=71
+|SpDef=40
+|Speed=77}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Poison
+|type2=Fire
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=50
+|Ground=400
+|Rock=200
+|Bug=25
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=25
+|Electric=100
+|Psychic=200
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=25}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Salandit|Poison|Fire|7}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Poison Gas|Poison|Status|—|90|40}}
+{{learnlist/level7|5|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level7|8|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level7|13|Dragon Rage|Dragon|Special|—|100|10}}
+{{learnlist/level7|16|Smog|Poison|Special|30|70|20||'''}}
+{{learnlist/level7|21|Double Slap|Normal|Physical|15|85|10}}
+{{learnlist/level7|24|Flame Burst|Fire|Special|70|100|15||'''}}
+{{learnlist/level7|29|Toxic|Poison|Status|—|90|10}}
+{{learnlist/level7|32|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level7|37|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/level7|40|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/level7|45|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/level7|48|Dragon Pulse|Dragon|Special|85|100|10}}
+{{learnlist/levelf/7|Salandit|Poison|Fire|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Salandit|Poison|Fire|7}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM28|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|—|85|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Salandit|Poison|Fire|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Salandit|Poison|Fire|7}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|336|Seviper}}|Belch|Poison|Special|120|90|10||'''}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|559|Scraggy}}|Fake Out|Normal|Physical|40|100|10|*|}}
+{{learnlist/breed7|{{MSP|108|Lickitung}}{{MSP|463|Lickilicky}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed7|{{MSP|443|Gible}}{{MSP|444|Gabite}}{{MSP|445|Garchomp}}{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|621|Druddigon}}|Snatch|Dark|Status|—|—|10|*|}}
+{{learnlist/breedf/7|Salandit|Poison|Fire|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Salandit|Poison|Fire|7}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5||'''|no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutorf/7|Salandit|Poison|Fire|7}}
+
+===Side game data===
+{{Spindata/Head|type=Poison|type2=Fire}}
+{{Spindata/Shuffle|col=6|type=Poison|ndex=757|num=723
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Three Force
+|skilldesc=Increases damage when you make a match of three.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Poison
+|type2=Fire
+|pictype=art
+|no1=757
+|name1=Salandit
+|type1-1=Poison
+|type2-1=Fire
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 33}}<br>(female)
+|no2=758
+|name2=Salazzle
+|type1-2=Poison
+|type2-2=Fire}}
+
+===Sprites===
+{{Spritebox/Header|type=Poison|type2=Fire}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=757}}
+{{Spritebox/Footer|757|Salandit}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Salandit and its {{p|Salazzle|evolution}}.
+** Salandit and its evolution are also the only {{type|Poison}} Pokémon with a double resistance to {{type|Fairy}} moves.
+
+===Origin===
+Salandit appears to be based on a {{wp|salamander}}, some species of which are toxic. It may draw specific inspiration from the {{wp|Japanese fire belly newt}}, which has similar coloration to Salandit. {{wp|Salamanders in folklore and legend|In legends}}, salamanders are also commonly associated with fire and in some cases poisons. It also shares some similarities to {{wp|lizards}}, as well as with {{wp|bandit}}s.
+
+====Name origin====
+Salandit may be a combination of ''salamander'' and ''bandit''.
+
+Yatoumori may be a combination of 夜盗 ''yatō'' (burglar) and 井守 ''imori'' (newt).
+
+==In other languages==
+{{Other languages|type=Poison|type2=Fire
+|ja=ヤトウモリ ''Yatoumori''|jameaning=From {{tt|夜盗 ''yatō''|burglar}} and {{tt|井守 ''imori''|newt}}
+|fr=Tritox|frmeaning=From ''{{tt|triton|newt}}'' and ''{{tt|toxique|toxic}}''
+|es=Salandit|esmeaning=Same as English name
+|de=Molunk|demeaning=From ''{{tt|Molch|newt}}'' and ''{{tt|Halunke|scoundrel}}''
+|it=Salandit|itmeaning=Same as English name
+|ko=야도뇽 ''Yadonyong''|komeaning=From {{tt|夜盜 (야도) ''yado''|burglar}} and {{tt|도롱뇽 ''dorongnyong''|salamander}}
+|zh_cmn=夜盜火蜥 / 夜盗火蜥 ''Yèdàohuǒxī''|zh_cmnmeaning=From {{tt|夜盜 / 夜盗 ''yèdào''|burglar}}, {{tt|火 ''huǒ''|fire}}, and {{tt|火蜥蜴 ''huǒxīyì''|salamander}}
+|zh_yue=夜盜火蜥 ''Yehdouhfósīk'' |zh_yuemeaning=From {{tt|夜盜 ''yehdouh''|burglar}}, {{tt|火 ''fó''|fire}}, and {{tt|火蜥蜴 ''fósīkyihk''|salamander}}
+|ru=Саландит ''Salandit''|rumeaning=Transcription of English name}}
+{{-}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Poison|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=756|prev=Shiinotic|nextnum=758|next=Salazzle}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve based on gender]]
+
+[[de:Molunk]]
+[[fr:Tritox]]
+[[it:Salandit]]
+[[ja:ヤトウモリ]]
+[[zh:夜盗火蜥]]

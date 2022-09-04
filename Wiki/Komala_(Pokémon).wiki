@@ -1,0 +1,267 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=774|prev=Minior|nextnum=776|next=Turtonator|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Komala}}
+|}
+{{Pokémon Infobox
+|name=Komala
+|jname=ネッコアラ
+|tmname=Nekkoara
+|ndex=775
+|type1=Normal
+|category=Drowsing
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=43.9
+|weight-kg=19.9
+|adex=222
+|abilitylayout=1
+|ability1=Comatose
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=2
+|evat=2
+|expyield=168
+|lv100exp=1,250,000
+|gendercode=127
+|color=Blue
+|catchrate=45
+|body=12
+|pokefordex=komala
+|generation=7
+|friendship=70
+}}
+'''Komala''' ([[List of Japanese Pokémon names|Japanese]]: '''ネッコアラ''' ''Nekkoara'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+Komala is a gray Pokémon similar to a {{wp|koala}}. It has large, rounded ears with light orange fur on the inside. Its large, ovoid black nose extends up between its fluffy white eyebrows, and there are additional white puffs of fur on each cheek. There is a small ruff of longer, gray fur around its neck. Each hand is black with five short fingers, and it has three black claws and a black paw pad on each foot. Its underbelly is white, as is its short fluffy tail. It is usually seen holding a short wooden log.
+
+This Pokémon stays asleep from birth to death, staying this way because of its diet containing leaves with sedative properties. While its expression sometimes changes as if it is aware of its surroundings, this appears to be a result of its dreams instead. It is able to eat, travel, and even battle without waking. If the log pillow it clings to is removed, it will be unable to sleep well and thrash wildly. However, it will sometimes cling to the arm of a Trainer it trusts. During a deep sleep, it stops moving altogether. According to ancient people, if a small amount of the saliva created when it eats leaves is watered down and ingested, one will be able to sleep well.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/komala/</ref>
+
+==In the anime==
+[[File:Samson Komala.png|thumb|left|250px|Komala in the {{pkmn|anime}}]]
+===Major appearances===
+[[Samson Oak]] owns a Komala, which debuted in ''[[SM002|The Guardian's Challenge!]]''. Most of the time, it is seen sleeping and ringing the school bell. However, it also participated in the [[Pokémon Pancake Race]], where it won.
+
+===Minor appearances===
+{{-}}
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM013|Komala|Rotom Pokédex|Komala, the Drowsing Pokémon. A {{t|Normal}} type. Since its [[Ability]] is {{a|Comatose}}, Komala is always asleep. The log it clings to is a gift from its earliest days. It is said that Komala's behavior comes from a dream that it's having.}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+
+==In the manga==
+[[File:Hau Komala Adventures.png|thumb|170px|Komala in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Komala debuted in [[PASM05]] under the ownership of [[Hau]].
+{{-}}
+
+==In the TCG==
+{{main|Komala (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It is born asleep, and it dies asleep. All its movements are apparently no more than the results of it tossing and turning in its dreams.}}
+{{Dex/Entry1|v=Moon|entry=The log it holds was given to it by its parents at birth. It has also been known to cling to the arm of a friendly Trainer.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It stays asleep from the moment it's born. When it falls into a deep sleep, it stops moving altogether.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|11|Alola}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|11|Alola}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|The Daily Pokémon (#7)}}''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|HP=65
+|Attack=115
+|Defense=65
+|SpAtk=75
+|SpDef=95
+|Speed=65}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Komala|Normal|Normal|7}}
+{{learnlist/level7|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level7|1|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level7|6|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/level7|6|Spit Up|Normal|Special|—|100|10||'''}}
+{{learnlist/level7|6|Swallow|Normal|Status|—|—|10}}
+{{learnlist/level7|11|Rapid Spin|Normal|Physical|20|100|40||'''}}
+{{learnlist/level7|16|Yawn|Normal|Status|—|100|10}}
+{{learnlist/level7|21|Slam|Normal|Physical|80|75|20||'''}}
+{{learnlist/level7|26|Flail|Normal|Physical|—|100|15||'''}}
+{{learnlist/level7|31|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level7|36|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/level7|41|Wood Hammer|Grass|Physical|120|100|15}}
+{{learnlist/level7|46|Thrash|Normal|Physical|120|100|10||'''}}
+{{learnlist/levelf/7|Komala|Normal|Normal|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Komala|Normal|Normal|7}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Komala|Normal|Normal|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Komala|Normal|Normal|7}}
+{{learnlist/breed7|{{MSP|133|Eevee}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|216|Teddiursa}}{{MSP|231|Phanpy}}{{MSP|300|Skitty}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|572|Minccino}}<br>{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|613|Cubchoo}}{{MSP|676|Furfrou}}{{MSP|678|Meowstic}}{{MSP|702|Dedenne}}<br>|Charm|Fairy|Status|—|100|20}}
+{{learnlist/breed7|{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}<br>{{MSP|264|Linoone}}{{MSP|287|Slakoth}}{{MSP|300|Skitty}}{{MSP|303|Mawile}}{{MSP|431|Glameow}}{{MSP|506|Lillipup}}<br>{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|702|Dedenne}}|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/breed7|{{MSP|300|Skitty}}{{MSP|301|Delcatty}}{{MSP|572|Minccino}}{{MSP|573|Cinccino}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}<br>{{MSP|730|Primarina}}|Sing|Normal|Status|—|55|15}}
+{{learnlist/breed7|{{MSP|025|Pikachu}}{{MSP|133|Eevee}}{{MSP|203|Girafarig}}{{MSP|300|Skitty}}{{MSP|327|Spinda}}{{MSP|653|Fennekin}}<br>{{MSP|777|Togedemaru}}|Wish|Normal|Status|—|—|10|*}}
+{{learnlist/breedf/7|Komala|Normal|Normal|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Komala|Normal|Normal|7}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Komala|Normal|Normal|7}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/Shuffle|col=6|type=Normal|ndex=775|num=720
+|min=60
+|max=120
+|raisemaxlevel=10
+|skill=Nap Time
+|skilldesc=Leaves the foe asleep.
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Normal
+|pictype=art
+|no1=775
+|name1=Komala
+|type1-1=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=775}}
+{{Spritebox/Footer|775|Komala}}
+
+==Trivia==
+* Komala shares its {{pkmn|category}} name with {{p|Musharna}}. They are both known as the Drowsing Pokémon.
+
+===Origin===
+Komala appears to be based on a {{wp|koala}}.
+
+====Name origin====
+Komala may be a combination of ''coma'' and ''koala''.
+
+Nekkoara may be a combination of 根っ子 ''nekko'' (root), 寝 ''ne'' (sleep), 子 ''ko'' (young animal), and ''koala''.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ネッコアラ ''Nekkoara''|jameaning=From {{tt|根っ子 ''nekko''|root}}, {{tt|寝 ''ne''|sleep}}, {{tt|子 ''ko''|young animal}}, and ''koala''
+|fr=Dodoala|frmeaning=From {{tt|''dodo''|childish way of saying sleep}} and ''koala''
+|es=Komala|esmeaning=Same as English name
+|de=Koalelu|demeaning=From ''koala'' and ''{{tt|La-Le-Lu|a German lullaby}}''
+|it=Komala|itmeaning=Same as English name
+|ko=자말라 ''Jamalla''|komeaning=From {{tt|잠 ''jam''|sleep}} and ''koala''
+|zh_cmn=樹枕尾熊 / 树枕尾熊 ''Shùzhěnwěixióng''|zh_cmnmeaning=From {{tt|樹 ''shù''|tree}}, {{tt|無尾熊 ''wúwěixióng'' and 树袋熊 ''shùdàixióng''|koala}}, and {{tt|枕頭 / 枕头 ''zhěntou''|pillow}}
+|zh_yue=樹枕尾熊 ''Syuhjámméihhùhng''|zh_yuemeaning=From {{tt|樹 ''syuh''|tree}}, {{tt|樹熊 ''syuhhùhng''|koala}}, and {{tt|枕頭 ''jámtàuh''|pillow}}
+|ru=Комала ''Komala''|rumeaning=Transcription of English name}}
+{{-}}
+
+==Related articles==
+==Notes==
+<references/>
+==External links==
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=774|prev=Minior|nextnum=776|next=Turtonator}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Koalelu]]
+[[fr:Dodoala]]
+[[it:Komala]]
+[[ja:ネッコアラ]]
+[[pl:Komala]]
+[[zh:树枕尾熊]]

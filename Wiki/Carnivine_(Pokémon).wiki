@@ -1,0 +1,423 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=454|prev=Toxicroak|nextnum=456|next=Finneon|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Carnivine}}
+|}
+{{Pokémon Infobox
+|name=Carnivine
+|jname=マスキッパ
+|jtranslit=Masukippa
+|tmname=Muskippa
+|ndex=455
+|sdex=131
+|u2dex=289
+|karea=Mountain
+|kdex=029
+|abrow=136
+|obrow=238
+|opbrow=052
+|typebox=1
+|type1=Grass
+|category=Bug Catcher
+|height-ftin=4'07"
+|height-m=1.4
+|weight-lbs=59.5
+|weight-kg=27.0
+|abilityn=1
+|abilitylayout=1
+|ability1=Levitate
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=25
+|evtotal=2
+|evat=2
+|expyield=159
+|oldexp=164
+|lv100exp=1,250,000
+|gendercode=127
+|color=Green
+|catchrate=200
+|body=10
+|pokefordex=carnivine
+|generation=4
+|friendship=70
+}}
+'''Carnivine''' ([[List of Japanese Pokémon names|Japanese]]: '''マスキッパ''' ''Muskippa'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+[[File:Carnivine mouth.png|thumb|left|250px|Carnivine with its mouth opened wide]]
+Carnivine is a green Pokémon resembling a {{wp|Venus flytrap}}. Its circular eyes have small pupils, and it has spiky teeth. Its stem is yellow with green spots, with red and green vines beneath with the appearance of tentacles. It can hang from tree branches using these vines, and it is said to look like a plant. It has two arms resembling leaves with three leafy 'fingers' each. Its mouth can open to about 180 degrees wide. With its mouth wide open, it attracts the prey it waits for with a sweet-smelling saliva, then chomps down. It takes a whole day to eat prey. It lives in forests and marshes. Its diet consists mostly of insects and small bugs.
+{{left clear}}
+
+==In the anime==
+[[File:James Carnivine.png|220px|left|thumb|Carnivine in the {{pkmn|anime}}]]
+===Major appearances===
+====[[James's Carnivine]]====
+[[James]] has a {{TP|James|Carnivine}} that debuted in ''[[DP002|Two Degrees of Separation!]]'', where he retrieved it from one of his old mansions in [[Sinnoh]]. James was forced to leave it at the {{an|Team Rocket HQ}} when he headed to [[Unova]] so that it wouldn't attract attention as a Pokémon not native to the region.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP004|Carnivine|Ash's Pokédex|Carnivine, the Bug Catcher Pokémon. It uses its sweet-smelling saliva to catch its prey.}}
+{{Animedexbody|DP143|Carnivine|Khoury's Pokédex|Carnivine, the Bug Catcher Pokémon. Carnivine latches onto trees in marshes and lures its prey with its sweet-smelling saliva.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Carnivine Adventures.png|thumb|200px|Carnivine in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PS365|Crafty Carnivine]]'', while the main protagonists were in the [[Great Marsh]] catching Pokémon, a Carnivine began chasing {{adv|Lax}} and [[Chatler]].
+
+A Trainer's Carnivine appeared in ''[[PS418|Deprogramming Porygon-Z]]''.
+
+A Carnivine appeared in ''[[PAXY30|Pinsir Changes]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+Carnivine made a cameo appearance as one of [[Team Galactic]]'s Pokémon in ''[[DPAS1|Deoxys, The Phantom Pokémon! (Part 1)]]''.
+
+===In the Pocket Monsters DP manga===
+A Carnivine appeared as one of the contestants in a {{pkmn|Super Contest}}.
+
+==In the TCG==
+{{main|Carnivine (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It attracts prey with its {{m|Sweet Scent|sweet-smelling}} saliva, then chomps down. It takes a whole day to eat prey.}}
+{{Dex/Entry1|v=Pearl|entry=Hanging from branches using its tentacles, it looks like a {{egg|Grass|plant}}. It awaits prey, mouth wide open.}}
+{{Dex/Entry1|v=Platinum|entry=It {{m|bind}}s itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It walks around on its tentacles in search of a tree branch where it can dangle down and ambush prey.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Using its tentacles to lash itself to trees, it lies in wait for prey, luring it close with sweet-smelling drool.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.}}
+{{Dex/Entry1|v=Y|entry=It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Great Marsh]]}}
+{{Availability/Entry1|v=Platinum|area=[[Great Marsh]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}}<br>[[Ilex Forest]], [[Viridian Forest]] {{color2|{{sinnoh color dark}}|Sinnoh Sound|(Sinnoh Sound)}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|18|Unova}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Route]]s {{rtn|14|Kalos}} and {{rtn|19|Kalos}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Northern Desert]] (7F-15F), [[Final Maze]] (B1-B48), Spinda's cafe after many drinks}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Northern Desert]] (7F-15F), [[Final Maze]] (B1-B48), Spinda's cafe after many drinks}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Chroma Highlands]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Sophian Road]], [[Forest Temple]], [[Odd Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Shimmering Lake]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Greenleaf]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#A Flowing Desert|Vehicle Gallery: A Flowing Desert]], [[Chill Battle#Garden Keepers|Chill Battle: Garden Keepers]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 2|Mysterious Fountain: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Try 'em Items Stage|Carnivine Crops Up!]]''<br>Event: ''[[Special Stages#Try 'em Items Stage|Carnivine Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Trailhead Field|White Ruins: Trailhead Field]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=     74
+|Attack=100
+|Defense=72
+|SpAtk=  90
+|SpDef=  72
+|Speed=  46}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|Speed=2
+|SpeedMax=3
+|Power=3
+|PowerMax=5
+|Technique=2
+|TechniqueMax=3
+|Stamina=2
+|StaminaMax=3
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=  100
+|Fighting=100
+|Flying=  200
+|Poison=  200
+|Ground=    0
+|Rock=    100
+|Bug=     200
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|levitate=yes
+|newground=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Carnivine|Grass|Grass|4}}
+{{learnlist/level7|1|Bind|Normal|Physical|15|85|20}}
+{{learnlist/level7|1|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|7|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|11|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/level7|17|Sweet Scent|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|21|Ingrain|Grass|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|27|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/level7|31|Leaf Tornado|Grass|Special|65|90|10||'''}}
+{{learnlist/level7|37|Stockpile|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|37|Spit Up|Normal|Special|&mdash;|100|10}}
+{{learnlist/level7|37|Swallow|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|41|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|47|Wring Out|Normal|Special|&mdash;|100|5}}
+{{learnlist/level7|50|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/levelf/7|Carnivine|Grass|Grass|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Carnivine|Grass|Grass|4}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Carnivine|Grass|Grass|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Carnivine|Grass|Grass|4}}
+{{learnlist/breed7|{{MSP|597|Ferroseed}}|Acid Spray|Poison|Special|40|100|20|*{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}<br>{{MSP|285|Shroomish}}{{MSP|315|Roselia}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|495|Snivy}}<br>{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|546|Cottonee}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}{{MSP|591|Amoonguss}}<br>{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/breed7|{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}|Grass Whistle|Grass|Status|&mdash;|55|15}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}<br>{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}{{MSP|315|Roselia}}<br>{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|420|Cherubi}}<br>{{MSP|421|Cherrim}}{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|546|Cottonee}}{{MSP|547|Whimsicott}}<br>{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|764|Comfey}}|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/breed7|{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|182|Bellossom}}{{MSP|315|Roselia}}{{MSP|407|Roserade}}<br>{{MSP|357|Tropius}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}{{MSP|764|Comfey}}|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/breed7|{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}|Rage Powder|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}<br>{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|274|Nuzleaf}}<br>{{MSP|275|Shiftry}}{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|459|Snover}}<br>{{MSP|460|Abomasnow}}{{MSP|546|Cottonee}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/breed7|{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|495|Snivy}}{{MSP|496|Servine}}<br>{{MSP|497|Serperior}}|Slam|Normal|Physical|80|75|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|069|Bellsprout}}<br>{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|187|Hoppip}}<br>{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Sleep Powder|Grass|Status|&mdash;|75|15}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|045|Vileplume}}{{MSP|182|Bellossom}}{{MSP|046|Paras}}{{MSP|047|Parasect}}<br>{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|187|Hoppip}}<br>{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}{{MSP|315|Roselia}}{{MSP|546|Cottonee}}|Stun Spore|Grass|Status|&mdash;|75|30}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|273|Seedot}}{{MSP|315|Roselia}}<br>{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}{{MSP|764|Comfey}}|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}<br>{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|285|Shroomish}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}|Worry Seed|Grass|Status|&mdash;|100|10}}
+{{learnlist/breedf/7|Carnivine|Grass|Grass|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Carnivine|Grass|Grass|4}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Carnivine|Grass|Grass|4}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Absorb}}
+| style="background:#fff; {{roundybr|5px}}" | [[Carnivine (Platinum 43)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/MDTDS|col=6|type=Grass|ndex=455
+|body=1
+|rate=8.2
+|IQ=A
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=2
+|browser=It {{m|Bullet Seed|shoots seeds}} to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=2
+|browser=It launches {{m|Razor Leaf|leaf blades}} around itself.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Grass|ndex=455
+|HP=3
+|atk=3
+|def=3
+|spd=2
+|range=3
+|move=Vine Whip
+|ability1=Levitate
+|evo=Does not evolve into or from anything
+|link={{DL|List of Pokémon Conquest characters|Ekei}} and {{DL|List of Pokémon Conquest characters|Yoshiaki}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=455
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=455|num=304
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Risk-Taker
+|skilldesc=Increases damage randomly.
+|swapper=Flash Mob
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Grass
+|pictype=art
+|no1=455
+|name1=Carnivine
+|type1-1=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=455}}
+{{Spritebox/5|ndex=455}}
+{{Spritebox/6|ndex=455}}
+{{Spritebox/7|ndex=455}}
+{{Spritebox/Footer|455|Carnivine}}
+
+==Trivia==
+* In [[Pokémon Battle Revolution]], {{m|Toxic}} is depicted as two purple orbs spinning around each other towards the target. However, when Carnivine uses Toxic, the orbs travel erratically. The same animation is used for {{p|Spinda}}.
+* James's Carnivine is the only one of this species to have appeared in the {{pkmn|anime}}.
+
+===Origin===
+Carnivine is based on a {{wp|venus flytrap}}.
+
+====Name origin====
+Carnivine is a combination of the words ''carnivore'' and ''vine''.
+
+Muskippa is a combination of ''Dionaea muscipula'' (the scientific name for the {{wp|Venus Flytrap}}) and 空きっ腹 ''sukippara'' (hunger) or 喫飯 ''kippan'' (eating).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=マスキッパ ''Muskippa''|jameaning=From ''{{wp|Venus flytrap|Dionaea muscipula}}'' and {{tt|空きっ腹 ''sukippara''|hunger}} or {{tt|喫飯 ''kippan''|eating}}
+|de=Venuflibis|demeaning=From {{tt|''Venusfliegenfalle''|Venus flytrap}} and {{tt|''Biss''|bite}}
+|fr=Vortente|frmeaning=From ''carnivore'' and possibly {{tt|''tente''|tent}}
+|es=Carnivine|esmeaning=Same as English name
+|it=Carnivine|itmeaning=Same as English name
+|ko=무스틈니 ''Museuteumni''|komeaning=From ''Dionaea muscipula'', {{tt|틈새 ''teumsae''|gap}}, and {{tt|어금니 ''eogeumni''|molar}}
+|zh_yue=尖牙籠 ''Jīmngàhlúhng''|zh_yuemeaning=Same as Mandarin name
+|zh_cmn=尖牙籠 / 尖牙笼 ''Jiānyálóng''|zh_cmnmeaning=Literally "Sharp-teethed cage"
+}}
+<br clear="left">
+
+==Related articles==
+*[[James's Carnivine]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=454|prev=Toxicroak|nextnum=456|next=Finneon}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Venuflibis]]
+[[fr:Vortente]]
+[[it:Carnivine]]
+[[ja:マスキッパ]]
+[[pl:Carnivine]]
+[[zh:尖牙笼]]

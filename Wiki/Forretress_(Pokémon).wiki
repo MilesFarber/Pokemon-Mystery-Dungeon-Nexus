@@ -1,0 +1,517 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Steel}}
+{{PokémonPrevNext/GO|species=Forretress}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=204|prev=Pineco|nextnum=206|next=Dunsparce|round=none}}
+{{PokémonPrevNext/Disambig|species=Forretress}}
+|}
+{{Pokémon Infobox
+|name=Forretress
+|jname=フォレトス
+|jtranslit=Foretosu
+|tmname=Foretos
+|ndex=205
+|jdex=094
+|abrow=111
+|obrow=191
+|opbrow=031
+|typebox=1
+|type1=Bug
+|type2=Steel
+|category=Bagworm
+|height-ftin=3'11″
+|height-m=1.2
+|weight-lbs=277.3
+|weight-kg=125.8
+|abilityn=d
+|ability1=Sturdy
+|abilityd=Overcoat
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=20
+|evtotal=2
+|evde=2
+|expyield=163
+|oldexp=118
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|catchrate=75
+|body=01
+|pokefordex=forretress
+|generation=2
+|friendship=70
+}}
+'''Forretress''' ([[List of Japanese Pokémon names|Japanese]]: '''フォレトス''' ''Foretos'') is a dual-type {{2t|Bug|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolve]]s from {{p|Pineco}} starting at [[level]] 31.
+
+==Biology==
+Forretress is a large, spherical Pokémon with no visible limbs. The upper and lower halves of its body are capped by bumpy steel plates. The outer plates have zigzagging ridges that open along its back and front, revealing its smooth, red inner shell. The inner shell is punctuated by four cylindrical spikes, each tapering to an open point. Between the spikes, the inner shell opens along a straight line to reveal Forretress's eyes, which are round with large pupils. Whatever else lies inside its shell is unknown.
+
+Forretress can defend itself from enemies by shooting out pieces of its outer shell, as a conditioned reflex rather than a conscious effort. It opens its shell to capture prey, but does so quickly that its interior body cannot be seen. It lives in {{DL|List of Pokémon by habitat|Forest Pokémon|forests}}, attaching itself immovably to tree trunks.
+
+==In the anime==
+[[File:Brock Forretress.png|thumb|left|210px|Forretress in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Brock's Forretress]]====
+{{an|Brock}}'s Pineco evolved into Forretress in ''[[EP259|Entei at Your Own Risk]]'' in order to save a bunch of Pokémon at a hot spring from [[Team Rocket]]. When Brock went to [[Hoenn]], the only Pokémon he brought with him was his Forretress. Brock later left Forretress at home when he headed to [[Sinnoh]].
+
+===Minor appearances===
+A Forretress appeared in ''[[AG035|Win, Lose or Drew!]]'' as a Pokémon in the {{ci|Slateport}} {{pkmn|Contest}}.
+
+A Forretress appeared in ''[[DP110|Steeling Peace of Mind!]]''. It was one of the many {{type|Steel}} Pokémon seen going crazy on [[Iron Island]].
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP259|Forretress|Ash's Pokédex|Forretress, the Bagworm Pokémon. Forretress is the evolved form of {{p|Pineco}}. Its entire body is covered in a steel-hard shell.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+
+==In the manga==
+[[File:Janine Forretress Adventures.png|thumb|150px|Forretress in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Forretress first appeared in ''[[PS115|Forretress of Solitude]]'', where {{adv|Red}} had to fight two to pass his aptitude test to be [[Viridian City]]'s [[Gym Leader]].
+
+Another Forretress was seen in ''[[PS136|Crossing Crobat]]'', under the ownership of [[Janine]]. She used it to escape from the security guards with its {{m|Spikes}} after she tried to steal a Big Pearl from the Goldenrod Museum as a security test.
+
+In ''[[PS179|The Last Battle XIII]]'' a Forretress was one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+[[Carr]] has many Forretress which first appeared in ''[[PS277|A Beastly Cold Reception]]''. He often orders an {{m|Explosion}} attack to destroy the surroundings. Near the end of the {{chap|FireRed & LeafGreen}}, he has 10 of them nearly detonate the Team Rocket airship after realizing that {{adv|Giovanni}} had planned to use the [[Three Beasts]] as pawns to reunite with his {{adv|Silver|son}}.
+
+In ''[[PS426|Softening Up Kakuna]]'', a Forretress was used by a Trainer that was challenging the [[Battle Factory (Sinnoh)|Battle Factory]].
+
+Multiple Forretress appeared in a picture in ''[[PAORAS04|Omega Alpha Adventure 4]]''.
+
+==In the TCG==
+{{main|Forretress (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon: Magikarp Jump]]: Forretress may appear during {{DL|Pokémon: Magikarp Jump|training}}. As part of the "Forretress Push" training session, the player's Magikarp pushes it to earn JP.
+
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Steel}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery.}}
+{{Dex/Entry1|v=Silver|entry=It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.}}
+{{Dex/Entry1|v=Crystal|entry=Usually found hanging on to a fat tree trunk. It shoots out bits of its shell when it sees action.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It keeps itself inside its steel shell. The shell is opened when it is catching prey, but it is so quick that the shell's inside cannot be seen.}}
+{{Dex/Entry1|v=FireRed|entry=It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.}}
+{{Dex/Entry1|v=LeafGreen|entry=Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.}}
+{{Dex/Entry1|v=HeartGold|entry=Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery.}}
+{{Dex/Entry1|v=SoulSilver|entry=It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.}}
+{{Dex/Entry1|v=Y|entry=It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=When something approaches it, it fires off fragments of its steel shell in attack. This is not a conscious action but a conditioned reflex.}}
+{{Dex/Entry1|v=Ultra Moon|entry=In the moment that it gulps down its prey, the inside of its shell is exposed, but to this day, no one has ever seen that sight.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Steel}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Pineco}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Pineco}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Pineco}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1|v=Colosseum|area=[[Shadow PKMN Lab]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Pineco}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Pineco}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Pineco}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Pineco}}}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Pineco}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Pineco}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Steel-type Safari|Steel]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Mirage Forests|Mirage Forest]] (West of {{rt|105|Hoenn}}) and [[Mirage Mountains]] (West of {{rt|104|Hoenn}}, north of [[Lilycove City]], northeast of {{rt|125|Hoenn}}, and south of {{rt|131|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Pineco}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Steel}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 59, Endless Level 69, Forever Level 9, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Pineco}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Vien Forest]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Sophian Road]], [[Canal Ruins]], [[Forest Temple]], [[Light Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[World Axle - B1F]], Cave: All{{tt|*|Dialga encounter}}}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Pineco}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#Launch to Victory!|Toy Collection: Launch to Victory!]], [[Variety Battle#Pokémon on a Roll|Variety Battle: Pokémon on a Roll]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 1|Infinite Ruins: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#Seventh release|''Pokémon Safari'']] <small>(Seventh release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Verdant Grove|Gold Plateau: Verdant Grove]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|type2=Steel
+|HP=75
+|Attack=90
+|Defense=140
+|SpAtk=60
+|SpDef=60
+|Speed=40}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Steel
+|Speed=1
+|SpeedMax=2
+|Power=4
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Steel
+|Normal=50
+|Fighting=100
+|Flying=100
+|Poison=0
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=400
+|Water=100
+|Grass=25
+|Electric=100
+|Psychic=50
+|Ice=50
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|olddark=½
+|gen5ghost=yes
+|oldghost2=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Forretress|Bug|Steel|2}}
+{{learnlist/level7|1|Mirror Shot|Steel|Special|65|85|10||'''}}
+{{learnlist/level7|1|Autotomize|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|1|Heavy Slam|Steel|Physical|&mdash;|100|10||'''}}
+{{learnlist/level7|1|Zap Cannon|Electric|Special|120|50|5}}
+{{learnlist/level7|1|Magnet Rise|Electric|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Toxic Spikes|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level7|1|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Mirror Shot|Steel|Special|65|85|10||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Autotomize|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|6|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level7|9|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|12|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|17|Rapid Spin|Normal|Physical|20|100|40}}
+{{learnlist/level7|20|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|23|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|28|Spikes|Ground|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|32|Payback|Dark|Physical|50|100|10}}
+{{learnlist/level7|36|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/level7|42|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|46|Gyro Ball|Steel|Physical|&mdash;|100|5||'''}}
+{{learnlist/level7|50|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|56|Magnet Rise|Electric|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|60|Zap Cannon|Electric|Special|120|50|5}}
+{{learnlist/level7|64|Heavy Slam|Steel|Physical|&mdash;|100|10||'''}}
+{{learnlist/levelf/7|Forretress|Bug|Steel|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Forretress|Bug|Steel|2}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5||'''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Forretress|Bug|Steel|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Forretress|Bug|Steel|2}}
+{{learnlist/breed7|{{MSP|214|Heracross}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|204|Pineco}}{{MSP|205|Forretress}}{{MSP|313|Volbeat}}{{MSP|543|Venipede}}<br>{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}{{MSP|588|Karrablast}}{{MSP|589|Escavalier}}{{MSP|636|Larvesta}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|214|Heracross}}{{MSP|540|Sewaddle}}{{MSP|588|Karrablast}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|540|Sewaddle}}{{MSP|557|Dwebble}}{{MSP|558|Crustle}}{{MSP|588|Karrablast}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|167|Spinarak}}{{MSP|168|Ariados}}{{MSP|214|Heracross}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}<br>{{MSP|768|Golisopod}}|Pin Missile|Bug|Physical|25|95|20||'''}}
+{{learnlist/breed7|{{MSP|213|Shuckle}}|Power Trick|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|127|Pinsir}}|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP|328|Trapinch}}{{MSP|329|Vibrava}}{{MSP|330|Flygon}}|Sand Tomb|Ground|Physical|35|85|15}}
+{{learnlist/breed7|{{MSP|557|Dwebble}}{{MSP|558|Crustle}}|Stealth Rock|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|617|Accelgor}}|Swift|Normal|Special|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|205|Forretress}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}|Toxic Spikes|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/breedf/7|Forretress|Bug|Steel|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Forretress|Bug|Steel|2}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Drill Run|Ground|Physical|80|95|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutorf/7|Forretress|Bug|Steel|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Forretress|Bug|Steel|2}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Forretress|Bug|Steel|2}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Steel}}
+{{Spindata/Trozei|col=6|type=Bug|ndex=205|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=205
+|body=1
+|rate=Evolve
+|area=Secretive Forest
+|P1=What goes on inside my shell is a secret!
+|P2=Now, this isn't pretty. I'm seeing my health down halfway.
+|P3=I'm about done... Haven't got any power left to give...
+|PL=Say, now, I leveled up! My shell's grown thicker, too!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=205
+|body=1
+|rate=0.5
+|IQ=E
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Bug
+|group=Steel
+|assist=Steel
+|field=Crush
+|fieldpower=2
+|browser=It flings gooey blobs. Beware: it may explode.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Bug
+|group=Steel
+|assist=Normal
+|field=Tackle
+|fieldpower=3
+|browser=It causes explosions around itself.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Bug|ndex=205
+|HP=3
+|atk=3
+|def=4
+|spd=2
+|range=3
+|move=Gyro Ball
+|ability1=Sturdy
+|ability2=Jagged Edge
+|ability3=Explode
+|evo=Evolves from {{p|Pineco}} when its Defense is 73 or higher
+|link={{DL|List of Pokémon Conquest characters|Kame}}, {{DL|List of Pokémon Conquest characters|Ujizane}}, and '''[[Yoshimoto]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=205
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=205|num=492
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Rock Break+
+|skilldesc=Sometimes destroys three breakable-rock disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=205
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=150
+|attack=161
+|defense=242
+|fast={{m|Bug Bite}}, {{m|Struggle Bug}}
+|special={{m|Heavy Slam}}, {{m|Earthquake}}, {{m|Rock Tomb}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Bug
+|type2=Steel
+|pictype=art
+|no1=204
+|name1=Pineco
+|type1-1=Bug
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 31}}
+|no2=205
+|name2=Forretress
+|type1-2=Bug
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Steel}}
+{{Spritebox/NA|II}}
+{{Spritebox/2|ndex=205}}
+{{Spritebox/3|ndex=205}}
+{{Spritebox/4|ndex=205}}
+{{Spritebox/5|ndex=205}}
+{{Spritebox/6|ndex=205}}
+{{Spritebox/7|ndex=205}}
+{{Spritebox/Footer|205|Forretress}}
+
+==Trivia==
+* Forretress and its {{p|Pineco|pre-evolution}} share their {{pkmn|category}} with {{p|Burmy}} and {{p|Wormadam}}. They are all known as the Bagworm Pokémon.
+* Forretress is the first original {{t|Steel}} Pokémon in the [[National Pokédex]], as {{p|Magnemite}} and {{p|Magneton|its evolution}} were not Steel types in [[Generation I]].
+* Forretress's {{v2|Crystal}} still sprite is different from that of {{2v2|Gold|Silver}}, making it one of few Pokémon to have three distinctly different sprites in [[Generation II]].
+* In {{g|Ranger: Guardian Signs}}, its Poké Assist is shown to be Steel in the capture screen, but turns out to be Normal after the capture.
+
+===Origin===
+Forretress is based on a {{wp|bagworm}}, possibly one inhabiting a discarded shell of a {{wp|horse chestnut}} or a {{wp|walnut}}. Because of its "shell", and the fact its spikes resemble {{wp|cannon}}s, it may have been based on a {{wp|giant clam}} or other {{wp|mussel}}s and {{wp|shellfish}} with functioning nozzles.
+
+====Name origin====
+Forretress and Foretos are a combination of ''forest'' and ''fortress''. It may also contain ''turret'', referring to the nozzles on its body that it uses to launch {{m|Spikes}}, and/or ''ferrous'', from the Latin for iron/steel, referring to the steel quality of the shell.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Steel
+|ja=フォレトス ''Foretos''|jameaning=From ''forest'', ''turret'', and ''fortress''
+|fr=Foretress|frmeaning=Similar to English name
+|es=Forretress|esmeaning=Same as English name
+|de=Forstellka|demeaning=From ''{{tt|Forst|forest}}'' and ''{{tt|Kastell|castle}}''
+|it=Forretress|itmeaning=Same as English name
+|ko=쏘콘 ''Ssokon''|komeaning=From {{tt|쏘다 ''ssoda''|to shoot}} and ''pine cone''. May involve {{tt|소나무 ''sonamoo''|pine tree}}.
+|zh_cmn=佛烈托斯 ''Fúliètuōsī''{{tt|*|Later anime}}<br>佛烈託斯 ''Fúliètuōsī''{{tt|*|Early anime (Taiwan only)}}|zh_cmnmeaning=Transliteration of its Japanese name
+|hi=फोरेट्रेस ''Forretress''|himeaning=Transcription of English name
+|ru=Форретресс ''Forretress''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Brock's Forretress]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Bug|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=204|prev=Pineco|nextnum=206|next=Dunsparce}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+
+[[de:Forstellka]]
+[[fr:Foretress]]
+[[it:Forretress]]
+[[ja:フォレトス]]
+[[pl:Forretress]]
+[[zh:佛烈托斯]]

@@ -1,0 +1,587 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Ditto}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=131|prev=Lapras|nextnum=133|next=Eevee|round=none}}
+{{PokémonPrevNext/Disambig|species=Ditto}}
+|}
+{{Pokémon Infobox
+|name=Ditto
+|jname=メタモン
+|tmname=Metamon
+|ndex=132
+|jdex=092
+|u2dex=261
+|karea=Mountain
+|kdex=138
+|adex=209
+|obrow=291
+|typebox=1
+|type1=Normal
+|category=Transform
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=8.8
+|weight-kg=4.0
+|abilityn=d
+|ability1=Limber
+|abilityd=Imposter
+|egggroupn=1
+|egggroup1=Ditto
+|eggcycles=20
+|evtotal=1
+|evhp=1
+|expyield=101
+|oldexp=61
+|lv100exp=1,000,000
+|gendercode=255
+|color=Purple
+|catchrate=35
+|body=01
+|pokefordex=ditto
+|generation=1
+|friendship=70
+}}
+'''Ditto''' ([[List of Japanese Pokémon names|Japanese]]: '''メタモン''' ''Metamon'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+It can [[Pokémon breeding|breed]] with any Pokémon other than the Pokémon in the {{egg|Undiscovered}} group and itself, including {{egg|Gender unknown|some genderless Pokémon}}, to produce Eggs of the other's species.
+
+==Biology==
+[[File:Duplica Ditto Pikachu.png|200px|thumb|left|[[Duplica]]'s Ditto {{m|transform}}ed as a {{p|Pikachu}}]]
+In its natural state, Ditto is a light purple or magenta free-form blob with vestigial facial features. It also appears to have two vestigial, handless 'arms' protruding from its body. 
+
+It is capable of transforming into an exact replica of any physical object, including its form and abilities. However, if Ditto tries to transform into something based on memory, it may get some of the details wrong. Each Ditto has its own strengths and weaknesses when it comes to transforming. [[EP037|The anime]] and [[Ditto (TCG)|the TCG]] have shown that occasionally a Ditto cannot change its face. Ditto will also be unable to remain in a transformed state if it starts laughing. When two Ditto meet in the wild, they will attempt to transform into each other. Ditto will also transform into a rock when sleeping to avoid attack. Ditto is never far from {{DL|List of Pokémon by habitat|Urban Pokémon|civilization or people}}.
+{{left clear}}
+
+==In the anime==
+[[File:Aether Paradise Ditto.png|right|250px|thumb|Ditto in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Duplica's Ditto]]====
+Ditto debuted in ''[[EP037|Ditto's Mysterious Mansion]]''. [[Duplica]] and her {{TP|Duplica|Ditto}} used to perform for people, but the two had not had an audience since people saw that Ditto could not change its face. Ditto fixed that problem near the end of the episode, when it was captured by {{TRT}}.
+
+====Other====
+[[File:Ditto Number 2.png|thumb|250px|{{Shiny}} Ditto in the anime]]
+In ''[[EP111|Hello Pummelo]]'', {{OBP|Drake|Orange League}} of the [[Orange Archipelago|Orange Islands]] owns a Ditto, which he used in a battle against [[Ash's Pikachu]]. Pikachu ultimately came out victorious. It reappeared in a flashback in [[EP112|the following episode]].
+
+Duplica found another Ditto sometime before ''[[EP174|Imitation Confrontation]]'', which she nicknamed Mini-Dit. This second Ditto could transform into an exact mirror image of anything, but it could not change its size.
+
+A Ditto was owned by a member of [[Team Magma]] named [[Brodie]], who debuted in ''[[AG083|Unfair Weather Friends]]''.
+
+A Ditto appeared in [[PK15]].
+
+Two Ditto appeared in ''[[DP173|Dealing With A Fierce Double Ditto Drama!]]'', under the ownership of [[Narissa]]. One of them is normal and the other is {{DL|List of alternately colored Pokémon in the anime|Ditto 2|Shiny}}.
+
+Five Ditto appeared in ''[[SM046|Deceiving Appearances!]]''. One of them reappeared in a flashback in ''[[SM047|A Masked Warning!]]''.
+
+===Minor appearances===
+A Ditto was part of an exhibition in ''[[EP122|Flower Power]]''.
+
+A Ditto belonging to the Nursing School, appeared in a flashback in ''[[EP129|Ignorance is Blissey]]''.
+
+A Ditto was used by one of the students of the [[Pokémon Trainers' School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+A Ditto appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Ditto appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Trainer's Ditto appeared in ''[[XY138|The First Day of the Rest of Your Life!]]''.
+
+A Trainer's Ditto appeared in ''[[M20|I Choose You!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP037|Ditto|Ash's Pokédex|Ditto, a Transform Pokémon. It is able to rearrange the cells of its body and assume any form. Its only [[Move|attack]] is {{m|Transform}}.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP173|Ditto|Dawn's Pokédex|Ditto, the Transform Pokémon. Ditto has the ability to reconstruct its entire cellular structure into whatever it sees.}}
+{{Animedexfooter/Pokémon|Sinnoh|Diamond & Pearl}}
+
+==In the manga==
+[[File:Duplica Ditto EToP.png|thumb|Ditto in the [[The Electric Tale of Pikachu]]]]
+===In The Electric Tale of Pikachu manga===
+[[Duplica]] and her Ditto are seen in [[The Electric Tale of Pikachu]]. Finding Ditto appealing, [[Misty]] decides to capture one of her own, but the plan is called off when {{AP|Pikachu}} goes missing. Ditto also featured in a minicomic in which it transforms into [[Ash Ketchum (EToP)|Ash]], harasses Misty and thereby getting Ash into a lot of pain.
+
+Ditto was the first Pokémon {{OBP|Drake|Orange League}} used against Ash in ''[[ET17|The Orange Crew Supreme Gym Leader]]''.
+
+===In the Magical Pokémon Journey manga===
+{{main|Master Ditto}}
+In [[Magical Pokémon Journey]], there is a ninja master named Master Ditto who appears several times in the manga. His first appearance is in ''[[PPP13|The Wal Comes Tumbling Down]]''.
+
+Additionally, a group of Ditto appear in the [[PPPB04|fourth bonus chapter]] of the manga. The Ditto use {{m|Transform}} to mimic {{MPJ|Pikachu}} and cause mischief.
+
+===In the Pokémon Adventures manga===
+[[File:Ditty.png|thumb|left|150px|Ditto in [[Pokémon Adventures]]]]
+{{main|Ditty}}
+In ''[[PS016|Tauros the Tyrant]]'', Ditto is one of the members on {{adv|Green}}'s team. As a master of transformation, Green uses Ditto extensively in her schemes, such as morphing over her face to disguise her appearance (like when she infiltrated the [[Silph Co.]] building disguised as [[Sabrina]]), camouflaging into its background for subterfuge, as well as forming a protective shield with Green's umbrella.
+
+A Trainer in the [[Goldenrod Game Corner]] is seen with a Ditto in ''[[PS107|Gligar Glide]]''.
+
+Ditto is seen later used by [[Team Rocket]] in ''[[PS127|Miltank Melee]]'', to lure {{adv|Crystal}} and [[Eusine]] away from {{p|Suicune}} and smother them when discovered. It was, however, defeated by Crystal's {{p|Hitmonchan}}, [[Monlee]].
+
+In ''[[PS442|Out-Odding Oddish]]'', a Ditto appeared in the [[Pokéathlon]].
+
+A Ditto appeared in ''[[PAXY33|Chesnaught Protects]]'' as a Pokémon in the [[Pokémon Village]].
+
+===In the Pokémon Zensho manga===
+Ditto is also featured in [[Pokémon Zensho]] under the ownership of {{Zensho|Satoshi}}.
+
+===In the Pokémon Pocket Monsters manga===
+{{PPM|Green}}'s Ditto debuted in ''[[PM002|The Big Battle In The Viridian Forest!!]]''.
+
+{{PPM|Giovanni}} was revealed to have a Ditto in ''[[PM018|Which One is the Real Clefairy!?]]''. It {{m|transform}}ed into a Clefairy in order for Giovanni to get revenge on Red.
+
+{{PPM|Professor Oak}} owns a Ditto in ''[[PMRS38|Annual Big Cleaning Operation]]''.
+
+{{PPM|Red}} accidentally catches a Ditto with a Heavy Ball that was originally for the legendary beasts in [[PMHGSS04]].
+
+===In the Pokémon Gotta Catch 'Em All manga===
+Shū has a Ditto in the [[Pokémon Gotta Catch 'Em All]] manga.
+
+===In the Pokémon Gold & Silver: The Golden Boys manga===
+In [[Pokémon Gold & Silver: The Golden Boys|The Golden Boys]], [[Whitney]] owns a Ditto.
+
+==In the TCG==
+{{main|Ditto (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Melee]]===
+[[File:Ditto Melee.png|right|thumb|A screenshot of Ditto in Melee]]
+Ditto was originally intended to be one of the Pokémon randomly released from a [[Poké Ball]]. It would have transformed into a copy of the user's character and aided them in battle. However, processing problems forced its removal before the game's release. Ditto can be still be unlocked through the debug menu (which is only accessible through the use of Action Replay), though it does not do anything other than give 7-8% damage to those who touch it.
+
+As for its official status, Ditto only appears as a random trophy and as a cameo in the Tournament Mode menu. In Winner Out or Loser Out tournaments, holding down L and R and pressing A will give the player a random character and color. The usual character image will instead be taken by a picture of Ditto.
+
+====Trophy information====
+''Every Ditto has the ability to copy a Pokémon's entire cell structure in an instant and become its exact replica. They're terrible at remembering techniques, but when they use {{m|Transform}}, they temporarily learn all of their foe's moves. If a Ditto starts to laugh, it weakens and can't hold its transformation.''
+
+==Game data==
+===NPC appearances===
+[[File:132Ditto Ranger3.png|thumb|200px|Ditto in Pokémon Ranger: Guardian Signs]]
+* {{g|Pinball}}: Ditto appears on the Red Table blocking the [[evolution]] cave, once the evolution arrows are lit, it moves out of the way, allowing the player to evolve one of the Pokémon they have captured.
+* {{g|Trozei!}}: Ditto serves as a "wild card", meaning it can Trozei with any Pokémon and must be used to get rid of Jammer Balls. One will appear when a Trozei is made with more Pokémon than necessary and multiple appear at the beginning of a new round in Endless and Forever mode to clear out the remaining Pokémon.
+* {{g|Mystery Dungeon: Explorers of Sky}}: Ditto is the guardian of [[Limestone Cavern]] and its [[Time Gear]]. It plays a major role in the Special Episode [[Here Comes Team Charm!]].
+* {{g|Ranger: Guardian Signs}}: A Ditto under the ownership of [[Kasa]] appears as a boss at the [[Sky Fortress]]. It will {{m|transform}} into {{p|Entei}}, {{p|Raikou}} and {{p|Suicune}} to attack.
+
+===Pokédex entries===
+{{Dex/Header|type=normal}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.}}
+{{Dex/Entry1|v=Yellow|entry=When it spots an enemy, its body transforms into an almost perfect copy of its opponent.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Capable of reorganizing its cells to transform into an exact duplicate of its enemy. It is usually a shapeless blob.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.}}
+{{Dex/Entry1|v=Silver|entry=Its transformation ability is perfect. However, if it is made to laugh, it can't maintain its disguise.}}
+{{Dex/Entry1|v=Crystal|entry=When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Ditto rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.}}
+{{Dex/Entry1|v=FireRed|entry=It can freely recombine its own cellular structure to transform into other life-forms.}}
+{{Dex/Entry1|v=LeafGreen|entry=Capable of copying an opponent's genetic code to instantly transform itself into a duplicate of the enemy.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.}}
+{{Dex/Entry1|v=HeartGold|entry=It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its transformation ability is perfect. However, if made to laugh, it can't maintain its disguise.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.}}
+{{Dex/Entry1|v=Y|entry=It can freely recombine its own cellular structure to transform into other life-forms.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|entry=Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It can reorganize its cells to make itself into a duplicate of anything it sees. The quality of the duplicate depends on the individual.}}
+{{Dex/Entry1|v=Moon|entry=With its astonishing capacity for metamorphosis, it can get along with anything. It does not get along well with its fellow Ditto.}}
+{{Dex/Entry1|v=Ultra Sun|entry=While it can transform into anything, each Ditto apparently has its own strengths and weaknesses when it comes to transformations.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It transforms into whatever it sees. If the thing it's transforming into isn't right in front of it, Ditto relies on its memory—so sometimes it fails.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=normal}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Route]]s {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, and {{rtn|23|Kanto}}, [[Cerulean Cave]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, and {{rtn|23|Kanto}}, [[Rock Tunnel]], [[Cerulean Cave]]}}
+{{Availability/Entry1|v=Yellow|area={{ka|Pokémon Mansion}} and [[Cerulean Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|34|Johto}} and {{rtn|35|Johto}}}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|34|Johto}} and {{rtn|35|Johto}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Desert Underpass]]}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Route]]s {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, and {{rtn|15|Kanto}}, {{ka|Pokémon Mansion}}, [[Cerulean Cave]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|218|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry1|v=Platinum|area=[[Trophy Garden]]{{tt|*|After obtaining the National Pokédex}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|34|Johto}}, {{rtn|35|Johto}}, and {{rtn|47|Johto}}, [[Cerulean Cave]], {{safari|Johto}}<br/>{{rt|47|Johto}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Giant Chasm]] (Crater Forest)}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Giant Chasm]] (Crater Forest, [[Hidden Grotto]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Pokémon Village]], [[Friend Safari]] ([[Friend Safari#Normal-type Safari|Normal]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Mirage Caves|Mirage Cave]] (north of Route 132), [[Mirage Islands|Mirage Island]] (south of Route 132)}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Mount Hokulani]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Mount Hokulani]]<br/>{{rt|9|Alola}} (One)<br/>[[Konikoni City]] (Four)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=normal}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area={{FB|Pokémon Island|Cave}}}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Indigo Plateau]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Springleaf Field|Bus Stop]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Everywhere}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Frosty Forest]] (4F-9F), [[Fiery Field]] (10F, 20F), [[Buried Relic]] (16F-34F), [[Wish Cave]] (53F-64F), [[Joyous Tower]] (53F-64F), [[Oddity Cave]] (B1-B15)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]], [[Windy Prairie‎]], [[Rocky Cave]], [[Fiery Furnace]], [[Bright Beach]], [[Eternal Tower]] <small>(All Normal Mode S)</small>}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Sky Fortress]], [[Rand's House]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#I Dunno, Audino|Variety Battle: I Dunno, Audino]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 6|Sky-High Ruins: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Prasino Woods|Prasino Woods: Stage 574]]<br>Event: ''[[Special Stages#Special Challenge|Ditto Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Meteorite Parkland|Legend Terrain: Meteorite Parkland]] <small>(All Areas)</small>}}
+<!--{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=}}-->
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 08|Area 08: Stage 01]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Normal}}
+{{eventAvail|{{gameabbrev7|SM}}|Carnival Ditto|All|Japanese|10|August 14, 2017|link=List of local event Pokémon distributions in Generation VII#Ditto}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Normal
+|rby1=Metal Powder|rby1type=None|rby1rar=100
+|frlg1=Metal Powder|frlg1type=None|frlg1rar=5
+|e1=Metal Powder|e1type=None|e1rar=5
+|dppt1=Quick Powder|dppt1type=None|dppt1rar=50
+|dppt2=Metal Powder|dppt2type=None|dppt2rar=5
+|hgss1=Quick Powder|hgss1type=None|hgss1rar=50
+|hgss2=Metal Powder|hgss2type=None|hgss2rar=5
+|bw1=Quick Powder|bw1type=None|bw1rar=50
+|bw2=Metal Powder|bw2type=None|bw2rar=5
+|b2w21=Quick Powder|b2w21type=None|b2w21rar=50
+|b2w22=Metal Powder|b2w22type=None|b2w22rar=5
+|xy1=Quick Powder|xy1type=None|xy1rar=50
+|xy2=Metal Powder|xy2type=None|xy2rar=5
+|oras1=Quick Powder|oras1type=None|oras1rar=50
+|oras2=Metal Powder|oras2type=None|oras2rar=5
+|sm1=Quick Powder|sm1type=None|sm1rar=50
+|sm2=Metal Powder|sm2type=None|sm2rar=5
+|usum1=Quick Powder|usum1type=None|usum1rar=50
+|usum2=Metal Powder|usum2type=None|usum2rar=5
+|event1=Light Ball|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=     48
+|Attack= 48
+|Defense=48
+|SpAtk=  48
+|SpDef=  48
+|Special=48
+|Speed=  48
+|type=Normal }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=2
+|SpeedMax=5
+|Power=2
+|PowerMax=5
+|Technique=2
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=5
+|Jump=2
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=normal
+|Normal=  100
+|Flying=  100
+|Fighting=200
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Poison=  100
+|Ghost=     0
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+While Ditto is {{m|Transform|Transformed}} into other Pokémon, type effectiveness depends on the type(s) of the Pokémon transformed into.
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Ditto|Normal|Normal|1}}
+{{learnlist/level7|1|Transform|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/levelf/7|Ditto|Normal|Normal|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Ditto|Normal|Normal|1}}
+{{learnlist/tm7null}}
+{{learnlist/tmf/7|Ditto|Normal|Normal|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Ditto|Normal|Normal|2}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Ditto|Normal|Normal|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Ditto|Normal|Normal|2}}
+{{learnlist/tutor7null}}
+{{learnlist/tutorf/7|Ditto|Normal|Normal|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg colorless color light}}; border: 3px solid #{{tcg colorless color}}"
+! Move
+! Card
+|- style="background:#FFF"
+| {{m|Energy Ball}}
+| [[Ditto (EX FireRed & LeafGreen 4)]]
+|-
+| style="background:#FFF; {{roundybl|5px}}" | {{m|Pound}}
+| style="background:#FFF; {{roundybr|5px}}" | [[Koga's Ditto (Gym Challenge 10)]]<br>[[Ditto (GB 1)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/Pinball|col=3|type=Normal|ndex=132|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=132|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=132
+|body=1
+|rate=6.8
+|area=Decrepit Lab
+|P1=Who should I copy next?
+|P2=I have only half my HP left...
+|P3=I'm out of it... I don't have the power to {{m|transform}}...
+|PL=Yes! My level's up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=132
+|body=1
+|rate=8.2
+|IQ=A
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Normal
+|group=Normal
+|assist=Normal
+|field=None
+|past=NA
+|browser=It transforms into {{p|Raikou}}, {{p|Entei}}, and {{p|Suicune}} to attack.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Normal
+|att=1
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Normal
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=132
+|power=1
+|skill=Transform
+|skilldesc=Can be substituted for any other Pokémon in a match.
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=132|num=706
+|min=40
+|max=125
+|raisemaxlevel=20
+|skill=Transform
+|skilldesc=Changes up to three Ditto into other Support Pokémon.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=132
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=96
+|attack=91
+|defense=91
+|fast={{m|Transform}}
+|special={{m|Struggle}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Normal
+|pictype=art
+|no1=132
+|name1=Ditto
+|type1-1=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/1|ndex=132}}
+{{Spritebox/2|ndex=132}}
+{{Spritebox/3|ndex=132}}
+{{Spritebox/4|ndex=132}}
+{{Spritebox/5|ndex=132}}
+{{Spritebox/6|ndex=132}}
+{{Spritebox/7|ndex=132}}
+{{Spritebox/Footer|132|Ditto}}
+
+====Other sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{normal color dark}}; background: #{{normal color}}"
+| style="{{roundy|80px}} border: 2px solid #{{normal color dark}}; background: #{{normal color light}}" | [[File:Spr 2c Ditto credits.png]]
+|-
+| Crystal credits' sprite
+|}
+
+==Trivia==
+* Ditto is the only Pokémon to date with a [[catch rate]] of 35. However, in generations [[Generation III|III]] and [[Generation IV|IV]], if Ditto transforms into another Pokémon, its catch rate will become that of the new Pokémon.
+* Ditto and {{p|Manaphy}} are the only Pokémon that are both able to breed yet unobtainable through breeding. Ditto, however, is the only one of the two that is not available at level 1 legally (legitimately the lowest level it is able to be is 10, in [[Generation II]] and its Generation IV [[Pokémon HeartGold and SoulSilver Versions|remakes]]).
+* In [[Pokémon Snap]], Ditto takes the form of {{p|Bulbasaur}} in the [[Pokémon Island Cave|Cave stage]]. The player can cause them to return to their Ditto form by hitting them with an object. When the player takes their picture, Ditto has the same eyes when it is transformed as when it is not. This trait is shared by [[Duplica]]'s Ditto in the [[EP037|anime]], although it was understood that this was not natural. {{TCG|Ditto|Ditto cards}} from the {{TCG|EX Delta Species}} {{Trading Card Game}} expansion and the Clefairy Ditto that may appear in the [[Veilstone Game Corner]]'s slot machines also have this trait.
+* Ditto is one of two Pokémon to have two different species-specific [[Stat-enhancing item]]s associated with it, the other being {{p|Clamperl}}. Ditto's two associated items, the Metal Powder and Quick Powder, seem to be the same colors as Ditto's normal and {{Shiny}} forms, respectively.
+* In [[Pokémon Rumble]], since {{m|Transform}} was not programmed into the game, Ditto can only know {{m|Struggle}}. Since PP does not exist in Rumble, this makes Ditto the only Pokémon in Rumble that can use Struggle. However, Transform does exist in [[Pokémon Rumble Blast]], so Ditto has a move.
+* Ditto is the most common Pokémon in [[Pokémon Trozei!]], appearing in every area. This is due to its ability to transform, enabling the player a way to advance further if no links are available before Ditto appear.
+* Ditto shares several aspects with {{p|Mew}}: the move {{m|Transform}}, the same {{Shiny}} blue and normal pink color, perfectly balanced base stats, and its weight of 8.8&nbsp;lbs. (4.0&nbsp;kg).
+* Prior to [[Generation VI]], Ditto and {{p|Poliwag}} had the same [[cry]].
+* Since Transform copies its target's stats (except HP), Ditto cannot utilize its Special Attack stat before Transforming, though it can use its Attack stat for {{m|Struggle}} and {{status|confusion}} damage.
+* In [[Generation II]], a transformed Ditto keeps its original purple color palette (blue if Shiny).
+* Since Ditto's only move, Transform, cannot copy moves in the Pokémon Mystery Dungeon series and has only one PP, its only move after transforming is Struggle.
+* In Generation VI, Ditto is only given one move animation (despite the two animations minimum most Pokémon have for contact and non-contact moves).
+* On October 4, 2017, [[The Pokémon Company]] posted a Ditto-themed music video onto their YouTube channel titled [[Dit-to Ditto]].
+* In [[Pokémon GO]], Ditto appears in the wild disguised as other Pokémon. After being caught, it will reveal its true form.
+
+===Glitches===
+====Index 000 post-capture====
+In [[Generation I]], if the player manages to capture an [['M (00)]], it will still be in battle with the player, and the battle will not end. Catching 'M (00) again results in the second one becoming a Ditto of the same level.
+
+====Ditto glitch====
+{{main|Mew glitch#Ditto glitch|Mew glitch}}
+The primary method of the Mew glitch involves having a wild Ditto transform into the player's Pokémon, as this copies the {{stat|Special}} stat, which is used to modify the species of Pokémon encountered.
+
+====Transform assumption glitch====
+In Generations {{gen|I}} and {{gen|II}}, any Pokémon that uses {{m|Transform}} is regarded as a Ditto in its new form; this means that if the player catches a {{p|Mew}} or a [[glitch Pokémon]] which has used the move Transform, or a Pokémon which has used Transform via {{m|Mirror Move}}, instead they will obtain a Ditto. Mew turning into Ditto was not an issue, because wild Mew could not have been legitimately encountered. This system was later changed in Generation III, where wild Mew could be legitimately encountered.
+
+====Shiny Ditto glitch====
+{{main|List of glitches in Generation II#Shiny Ditto DV manipulation}}
+By trading any [[Shiny Pokémon]] to a Generation I game, having a wild Ditto transform into that Pokémon, then catching and trading the Ditto into a Generation II game, the Ditto will be Shiny.
+
+====Transform-specific glitches====
+{{main|Transform (move)#Glitches|Transform (move)}}
+
+===Origin===
+{{Bulbanews|Unused Pokémon design revealed in magazine interview}}
+In the sixth issue of {{wp|Best Buy}}'s @Gamer magazine, Game Freak developers Junichi Masuda and Ken Sugimori revealed that Ditto was originally based on the iconic {{wp|smiley}} face. Its eyes and mouth are exactly like ":)", which is an emoticon representing the smiley.
+
+Additionally, Ditto strongly resembles an ''{{wp|amoeba}}'', a single-celled organism with no definite shape. This may emphasize its ability to alter its cellular composition. This could also explain why Ditto is unavailable through breeding, since single-celled organisms reproduce differently from multi-cellular plants and animals. It also could partially be based on an {{wp|undifferentiated cell}}, a cell in the body that can change into any other cell by sampling it. It could also have been based on a {{wp|blob}}.
+
+====Name origin====
+Ditto's name is the English word ''ditto'', meaning "that which has been said before" (itself from Italian, where it means "having been said"). It was also a brand name for spirit duplicators, and came to mean copies of master documents created by those duplicators.
+
+Metamon is a combination of ''{{wp|metamorph}}'' and ''monster''. Alternatively, ''Meta'' as a prefix can mean "all-encompassing," which Ditto's {{m|Transform}} move does do to Pokémon.
+
+==In other languages==
+{{Other languages|type=normal|type2=normal
+|ja=メタモン ''Metamon''|jameaning=From ''{{wp|metamorph}}'' and ''monster''
+|fr=Métamorph|frmeaning=From ''metamorph''
+|es=Ditto|esmeaning=Same as English name
+|de=Ditto|demeaning=Same as English name
+|it=Ditto|itmeaning=Same as English name
+|ko=메타몽 ''Metamong''|komeaning=Transliteration of Japanese name
+|zh_yue=百變怪 ''Baakbingwaai''|zh_yuemeaning=Literally "Hundred transformation creature"
+|zh_cmn=百變怪 / 百变怪 ''Bǎibiànguài''|zh_cmnmeaning=Literally "Hundred transformation creature"
+|hi=दित्तो ''Ditto''|himeaning=Transcription of English name
+|ru=Дитто ''Ditto''|rumeaning=Transcription of English name
+}}
+{{left clear}}
+
+==Related articles==
+* [[Duplica's Ditto]]
+* [[Ditty]]
+* [[Master Ditto]]
+
+==External links==
+* {{wp|Ditto (Pokémon)|Article on Wikipedia}}
+
+==Notes==
+<references />
+
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=131|prev=Lapras|nextnum=133|next=Eevee}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+
+[[de:Ditto]]
+[[fr:Métamorph]]
+[[it:Ditto]]
+[[ja:メタモン]]
+[[pl:Ditto]]
+[[zh:百变怪]]

@@ -1,0 +1,442 @@
+{{PokémonPrevNext/Head|type=Fire|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=499|prev=Pignite|nextnum=501|next=Oshawott|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Emboar}}
+|}
+{{Pokémon Infobox
+|jname=エンブオー
+|jtranslit=Enbuō
+|tmname=Enbuoh
+|name=Emboar
+|category=Mega Fire Pig
+|typebox=1
+|type1=Fire
+|type2=Fighting
+|abilityn=d
+|ability1=Blaze
+|abilityd=Reckless
+|ndex=500
+|udex=006
+|u2dex=006
+|height-ftin=5'03"
+|height-m=1.6
+|weight-lbs=330.7
+|weight-kg=150.0
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=238
+|lv100exp=1,059,860
+|gendercode=31
+|evtotal=3
+|evat=3
+|color=Red
+|catchrate=45
+|body=06
+|pokefordex=emboar
+|generation=5
+|friendship=70
+}}
+'''Emboar''' ([[List of Japanese Pokémon names|Japanese]]: '''エンブオー''' ''Enbuoh'') is a dual-type {{t|Fire}}/{{t|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Pignite}} starting at [[level]] 36. It is the final form of {{p|Tepig}}.
+
+==Biology==
+Emboar are bulky, bipedal Pokémon with pig-like features. It has a red nose, large bushy black eyebrows, and two tusks protruding from its lower jaw. Constantly burning flames cover the front of its neck and shoulders. It has short legs and thick arms. Its arms have orange upper portions while the legs have red upper portions. The all limbs have black lower portions with thin yellow lines where the upper and lower colors meet. These lines are straight on the arms and spiked on the legs. The arms have red lines around the wrists and tufts of fur on the elbows. The hands are tipped with three claws, while the feet have two claws. A large, dark horizontal stripe on the chest of Emboar has swirled yellow markings. Its small tail ends in a tuft of hair.
+
+Using the wreath of flames on its neck and shoulders, Emboar will set its hands on fire. It uses its power and speed to master fighting moves. Though very tough and relentless when fighting, it shows deep affection for those it considers friends. It can also unleash powerful blasts of fire using only its nose and cloak its body in fire to use its [[signature move]], {{m|Heat Crash}}.
+
+==In the anime==
+===In the main series===
+[[File:Bianca Emboar.png|250px|thumb|left|Emboar in the {{pkmn|anime}}]]
+====Major appearances====
+=====[[Bianca's Emboar]]=====
+Emboar made its main series debut in ''[[BW071|Search for the Clubultimate!]]'', under the ownership of {{an|Bianca}}.
+
+=====Other=====
+Emboar debuted in ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]'', under the ownership of [[Tatsuki]]. It fought [[Ash's Oshawott]], which it lost to, in a tournament held in [[Eindoak Town]]. [[Iris's Emolga]] also battled the Mega Fire Pig Pokémon, but Emolga used {{m|Volt Switch}} and sent out {{TP|Iris|Excadrill}} instead, causing {{an|Iris}}'s loss since substitutions were not allowed during the tournament battles.
+
+An Emboar appeared in ''[[BW077|Evolution by Fire!]]'', under the ownership of [[Shamus]].
+
+====Minor appearances====
+
+===In the Pokémon Black 2 and White 2 Animated Trailer===
+[[File:Nate Emboar Animated Trailer.png|250px|thumb|Emboar in the animated trailer]]
+An Emboar appeared in the [[Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer]], under the ownership of {{ga|Nate}}. Nate first obtained it as his starter Pokémon from Bianca. It was first shown as Nate was about to battle [[Elesa]].
+{{-}}
+
+==In the manga==
+[[File:Bo.png|thumb|200px|Emboar in [[Pokémon Adventures]]]]
+[[File:Carola Emboar.png|thumb|150px|Emboar in [[Pokémon RéBURST]]]]
+===In the Be the Best! Pokémon B+W manga===
+[[Cheren]] was seen with an Emboar.
+
+===In the movie adaptations===
+[[Tatsuki]] owns an Emboar in ''{{ma|White—Victini and Zekrom}}''.
+
+===In the Pokémon Adventures manga===
+{{main|Bo}}
+{{adv|Black}} owns an Emboar, nicknamed [[Bo]]. He evolved in ''[[PS496|Museum Showdown]]''.
+
+===In the Pocket Monsters B2 W2 ~ A New Legend ~ manga===
+[[Hiro]] owns an Emboar in which he sent it out to prevent Team Plasma from getting away with {{p|Keldeo}}.
+
+===In the Pocket Monsters BW: The Heroes of Fire and Thunder manga===
+{{main|Shin's Emboar}}
+{{OBP|Shin|FAT}} owns an Emboar.
+
+===In the Pokémon RéBURST manga===
+[[Carola]] has an Emboar which she can use as a [[Burst]] form.
+
+==In the TCG==
+{{main|Emboar (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fire|type2=Fighting}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It can throw a {{m|Fire Punch|fire punch}} by setting its fists on fire with its fiery chin. It cares deeply about its friends.}}
+{{Dex/Entry1|v=White|entry=It has mastered fast and powerful fighting moves. It grows a beard of fire.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=A flaring beard of fire is proof that it is fired up. It is adept at using many different moves.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.}}
+{{Dex/Entry1|v=Y|entry=It has mastered fast and powerful fighting moves. It grows a beard of fire.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It has mastered fast and powerful fighting moves. It grows a beard of fire.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fire|type2=Fighting}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Evolution|Evolve]] {{p|Pignite}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Evolution|Evolve]] {{p|Pignite}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Pignite}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ancient Poni Path]] ({{DL|QR Scanner|Island Scan}}){{dotw|Sa}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fire|type2=Fighting}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lava: [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Pignite}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Smoking Mountain]] (1F-24F), [[Cape at the Edge]] (B1-B29), high difficulty Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#Walking a Thin Line|Secret Warehouse: Walking a Thin Line]] <small>(Boss)</small>, [[Variety Battle#A Battle in the Tower|Variety Battle: A Battle in the Tower]] <small>(Co-Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 5|Colossal Forest: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#An Evolving Challenge|Emboar Roars onto Stage!]]''<br>Event: ''[[Special Stages#Great Challenge|Emboar Appears]]''<br>Event: ''[[Special Stages#Great Daily (Fourth release)|Great Daily Pokémon]]'' <small>(Fourth release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Blustery Grove|Black Realm: Blustery Grove]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 28|Area 28: Stage 04]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Fire|type2=Fighting}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Center 15th Anniversary Emboar|Japanese|Japan|100|June 19 to 25, 2013;<br>July 3 to 7, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Emboar}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Hidden Ability Present Emboar|Japanese region|Online|50|January 16 to November 30, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Emboar}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Hidden Ability Present Emboar|American region|Online|50|January 29 to November 30, 2015|link=List of American region serial code event Pokémon distributions in Generation VI#Emboar}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Hidden Ability Present Emboar|PAL region|Online|50|January 29 to November 30, 2015|link=List of PAL region serial code event Pokémon distributions in Generation VI#Emboar}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Fire
+|type2=Fighting
+|event1=Choice Scarf|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Fire
+|type2=Fighting
+|HP=110
+|Attack=123
+|Defense=65
+|SpAtk=100
+|SpDef=65
+|Speed=65}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fire
+|type2=Fighting
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=25
+|Ghost=100
+|Steel=50
+|Fairy=100
+|Fire=50
+|Water=200
+|Grass=50
+|Electric=100
+|Psychic=200
+|Ice=50
+|Dragon=100
+|Dark=50
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Emboar|Fire|Fighting|5}}
+{{learnlist/level7|1|Arm Thrust|Fighting|Physical|15|100|20||'''}}
+{{learnlist/level7|1|Hammer Arm|Fighting|Physical|100|90|10||'''}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level7|1|Odor Sleuth|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|3|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|7|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level7|9|Odor Sleuth|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|13|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|15|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/level7|20|Smog|Poison|Special|30|70|20}}
+{{learnlist/level7|23|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level7|28|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|31|Heat Crash|Fire|Physical|&mdash;|100|10||'''}}
+{{learnlist/level7|38|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/level7|43|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/level7|50|Head Smash|Rock|Physical|150|80|5}}
+{{learnlist/level7|55|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|62|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/levelf/7|Emboar|Fire|Fighting|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Emboar|Fire|Fighting|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Emboar|Fire|Fighting|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Emboar|Fire|Fighting|5}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|324|Torkoal}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|432|Purugly}}<br>{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}|Burn Up|Fire|Special|130|100|5|{{sup/7|USUM}}|'''}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|133|Eevee}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}<br>{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|300|Skitty}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Covet|Normal|Physical|60|100|25}}
+{{learnlist/breed7|{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|206|Dunsparce}}{{MSP|527|Woobat}}<br>{{MSP|528|Swoobat}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}|Endeavor|Normal|Physical|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}|Heavy Slam|Steel|Physical|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}<br>{{MSP|232|Donphan}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}|Magnitude|Ground|Physical|&mdash;|100|30}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}<br>{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}<br>{{MSP|303|Mawile}}{{MSP|327|Spinda}}{{MSP|352|Kecleon}}{{MSP|359|Absol}}{{MSP|431|Glameow}}{{MSP|434|Stunky}}<br>{{MSP|435|Skuntank}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|676|Furfrou}}{{MSP|678|Meowstic}}{{MSP|775|Komala}}|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/breed7|{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|614|Beartic}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}{{MSP|759|Stufful}}{{MSP|760|Bewear}}|Superpower|Fighting|Physical|120|100|5||'''}}
+{{learnlist/breed7|{{MSP|034|Nidoking}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|128|Tauros}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}<br>{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|327|Spinda}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|551|Sandile}}<br>{{MSP|552|Krokorok}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|626|Bouffalant}}<br>{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|759|Stufful}}<br>{{MSP|760|Bewear}}{{MSP|766|Passimian}}{{MSP|775|Komala}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|206|Dunsparce}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|287|Slakoth}}<br>{{MSP|289|Slaking}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}<br>{{MSP|450|Hippowdon}}{{MSP|513|Pansear}}{{MSP|517|Munna}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|775|Komala}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Emboar|Fire|Fighting|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Emboar|Fire|Fighting|5}}
+{{learnlist/tutor7|Blast Burn|Fire|Special|150|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Fire Pledge|Fire|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||'''|no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5||'''|no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Emboar|Fire|Fighting|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Emboar|Fire|Fighting|5}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Emboar|Fire|Fighting|5}}
+
+====Special moves====
+{{learnlist/eventh/7|Emboar|Fire|Fighting|5}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|SM}}|Superpower|Fighting|Physical|120|100|5||'''}}
+{{learnlist/eventf/7|Emboar|Fire|Fighting|5}}
+
+===Side game data===
+{{Spindata/Head|type=Fire|type2=Fighting}}
+{{Spindata/RumbleBlast|col=6|type=Fire
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Fire|ndex=500
+|strong=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]]
+|weak=[[File:Snivy icon.png|link=Snivy (Pokémon)]][[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=He is the Area Keeper of the [[Crag Area]]. He is powerful yet gentle. Everybody in the Area likes him.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Fire|ndex=500
+|HP=5
+|atk=3
+|def=2
+|spd=3
+|range=2
+|move=Fire Blast
+|ability1=Blaze
+|ability2=Spirit
+|ability3=Flame Boost
+|evo=Evolves from {{p|Pignite}} when its Attack is 115 or higher
+|link={{DL|List of Pokémon Conquest characters|Kazutoyo}}, {{DL|List of Pokémon Conquest characters|Tatsuko}}, and {{DL|List of Pokémon Conquest characters|Naomasa}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Fire|ndex=500
+|power=3
+|skill=True Strength
+|skilldesc=Increases damage dealt when energy levels are half or less.
+}}
+{{Spindata/Shuffle|col=3|type=Fire|ndex=500|num=263
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Barrier Bash
+|skilldesc=Removes one barrier-type disruption without fail.
+|swapper=Risk-Taker
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Fire
+|type2=Fighting
+|pictype=art
+|no1=498
+|name1=Tepig
+|type1-1=Fire
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 17}}
+|no2=499
+|name2=Pignite
+|type1-2=Fire
+|type2-2=Fighting
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no3=500
+|name3=Emboar
+|type1-3=Fire
+|type2-3=Fighting
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Fire|type2=Fighting}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=500}}
+{{Spritebox/6|ndex=500}}
+{{Spritebox/7|ndex=500}}
+{{Spritebox/Footer|500|Emboar}}
+
+==Trivia==
+* Emboar is the only starter Pokémon that has a different Hidden Ability than its {{p|Tepig|evolutionary}} {{p|Pignite|relatives}}.
+* Emboar has the lowest base {{stat|Special Defense}} stat of all fully evolved starter Pokémon.
+* Emboar has the highest base {{stat|HP}} and {{stat|Attack}} stats of all fully evolved starter Pokémon.
+* Emboar, {{p|Samurott}}, and {{p|Serperior}} all share the same base stat total of 528.
+* Emboar and its evolutionary relatives were created by [[Lee HyunJung]].
+
+===Origin===
+Emboar is based on the soldier of ''{{wp|Romance of the Three Kingdoms}}''.<ref>http://web.archive.org/web/20101228065540/http://www.nintendo.co.jp/ds/interview/irbj/sp/index5.html (archived link)</ref> [[Ken Sugimori]] has said that {{p|Tepig}}, {{p|Pignite}}, and Emboar were designed in a Chinese style. Because of this, Emboar may be based on {{wp|Zhu Bajie}}, a pig demon from the Chinese tale ''{{wp|Journey to the West}}''. {{p|Infernape}} is also based on a character from the novel, {{wp|Sun Wukong}}, and has a similar design. Emboar looks much like a {{wp|British Saddleback}} or {{wp|wild boar}} in a {{wp|wrestling singlet}}. The swirl pattern around its abdomen resembles the patterns on a {{wp|Ding (vessel)|ding}} or {{wp|Pottery of ancient Greece|ancient Greek pottery}}. The fire in its Shiny coloration refers to blue fire, which generally indicates a higher temperature than orange fire but may also be caused by certain chemicals burning at a normal temperature.
+
+====Name origin====
+Emboar is a combination of ''ember'' and ''boar''. It may also derive from the terms ''emperor'', ''caesar'', or ''tsar'', all of which are used as imperial titles.
+
+Enbuoh may be a combination of 炎 ''en'' (flame), 豚 ''buta'' (pig), 武 ''bu'' (martial arts), ブー ''bū'' (oink), and 王 ''ō'' (king). It may also be a combination of ''ember'' and ''boar''.
+
+==In other languages==
+{{Other languages|type=Fire|type2=Fighting
+|ja=エンブオー ''Enbuoh''|jameaning=From {{tt|炎 ''en''|flame}}, {{tt|豚 ''buta''|pig}} or {{tt|武 ''bu''|martial arts}}, and {{tt|王 ''ō''|king}}. May also be a combination of ''ember'' and ''boar''.
+|de=Flambirex|demeaning=From {{tt|''flambieren''|to flambé}} and ''Rex''
+|fr=Roitiflam|frmeaning=From ''{{tt|roi|king}}'', ''{{tt|rôti|roasted}}'', and ''{{tt|flamme|flame}}''
+|es=Emboar|esmeaning=Same as English name
+|it=Emboar|itmeaning=Same as English name
+|ko=염무왕 ''Yeommuwang''|komeaning=From its Japanese name {{tt|炎 ''yeom''|flame}}, {{tt|武 ''mu''|martial arts}}, and {{tt|王 ''wang''|king}}.
+|zh_cmn=炎武王 ''Yánwǔwáng''|zh_cmnmeaning=From its Japanese name. May be taken as a reference to 周武王 ({{wp|King Wu of Zhou}}).
+|ru=Эмбор ''Embor''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Bianca's Emboar]]
+* [[Bo]]
+* [[Shin's Emboar]]
+
+==Notes==
+<references />
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Fire|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=499|prev=Pignite|nextnum=501|next=Oshawott}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Flambirex]]
+[[fr:Roitiflam]]
+[[it:Emboar]]
+[[ja:エンブオー]]
+[[pl:Emboar]]
+[[zh:炎武王]]

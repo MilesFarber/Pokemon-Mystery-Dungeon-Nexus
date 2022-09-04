@@ -1,0 +1,433 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=773|prev=Silvally|nextnum=775|next=Komala}}
+|}
+{{Pokémon Infobox
+|name=Minior
+|jname=メテノ
+|tmname=Meteno
+|forme=2
+|form1=Meteor Form
+|form2=Core
+|image2=774Minior-Core.png
+|ndex=774
+|type1=Rock
+|type2=Flying
+|category=Meteor
+|height-ftin=1'00"
+|height-m=0.3
+|height-ftin2=1'00"
+|height-m2=0.3
+|weight-lbs=88.2
+|weight-kg=40.0
+|weight-lbs2=0.7
+|weight-kg2=0.3
+|adex=213
+|abilitylayout=1
+|ability1=Shields Down
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=25
+|evforms=2
+|evtotal=2
+|evde=1
+|evsd=1
+|evat2=1
+|evsa2=1
+|expyield=154
+|lv100exp=1,059,860
+|gendercode=255
+|color=Brown
+|formcolors=yes
+|catchrate=30
+|body=01
+|pokefordex=minior
+|generation=7
+|friendship=70
+}}
+'''Minior''' ([[List of Japanese Pokémon names|Japanese]]: '''メテノ''' ''Meteno'') is a dual-type {{2t|Rock|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+While it is not known to [[Evolution|evolve]] into or from any other Pokémon, Minior can change {{DL|List of Pokémon with form differences|Minior|forms}} during battle, depending on its [[Ability]] and current {{stat|Hit Points|HP}}.
+
+==Biology==
+Minior is a spherical Pokémon with two forms: one form with a rocky outer coating, and the other with its core exposed.
+
+In its shielded form, Minior resembles a modestly sized rock. Its rocky exterior is formed by four large plates separated by two large cracks. The cracks encircle its body both horizontally and vertically. Five white spikes extend just above the rocky surface, giving it a star-shape. Two large, black spots on its front resemble eyes, and there is a third spot in the center of its back. Rings of dark brown triangles surround the holes its spikes protrude from and the spot on its back, pointing outward. One of the triangles surround the spot on its back is replaced with a small, brown dot. The eyespots have a half-ring of triangles resembling eyelashes. One eye has a small, brown dot in the corner. Even while apparently at rest, Minior tends to spin slowly in place.
+
+In its core form, Minior loses its rocky shell and its body is exposed. The core is a bright, pastel color. Depending on the color of debris and food it absorbed and ate while in the stratosphere, Minior's core can be Red, Orange, Yellow, Green, Blue, Indigo, or Violet. A handful of darker triangles are also visible on its body in random places. Minior's eyes and mouth are formed from energy that floats in front of its body like a two-dimensional mask. The eyes are two large swirls and the mouth a smaller line. Its face tends to stay level regardless of how Minior spins the rest of its body.
+
+Minior forms in the {{wp|stratosphere}} from an aggregation of mutated nanoparticles, where it absorbs particulate matter from which it builds its core and shell. Eventually, this process makes it too heavy and it falls towards the surface of the planet. When its shell breaks from landing, Minior becomes lighter and capable of attacking quickly, but it cannot survive for long with its core exposed. The cute, pastel coloring of Minior's core form often inspires designers to use it as a motif for clothing and accessories.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/minior/</ref> While in the ozone layer, it serves as food to stronger Pokémon. Places where Minior fall are few, [[Alola]] being one of them.
+<!--
+==In the anime==
+===Major appearances===
+===Minor appearances===
+
+==In the manga==
+==In the TCG==
+{{main|Minior (TCG)}}-->
+
+==Game data==
+===Pokédex entries===
+====Meteor Form====
+{{Dex/Header|type=Rock|type2=Flying}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Originally making its home in the ozone layer, it hurtles to the ground when the shell enclosing its body grows too heavy.}}
+{{Dex/Entry1|v=Moon|entry=Strong impacts can knock it out of its shell. This Pokémon was born from mutated nanoparticles.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It lives in the ozone layer, where it becomes food for stronger Pokémon. When it tries to run away, it falls to the ground.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Core====
+{{Dex/Header|type=Rock|type2=Flying}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It eats dust in the atmosphere. The composition of the dust determines the color of its core.}}
+{{Dex/Entry1|v=Moon|entry=If its core stays exposed, it will soon die off. It's possible that it may survive if it's put into a Poké Ball quickly enough.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Places where Minior fall from the night sky are few and far between, with Alola being one of the precious few.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This is its form when its shell has fallen off. The color of its core depends on the materials that made up the food it ate.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Flying}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Mount Hokulani]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Mount Hokulani]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Flying}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Great Challenge|Minior Appears]]''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Rock|type2=Flying
+|sm1=Star Piece|sm1type=None|sm1rar=5
+|usum1=Star Piece|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+=====Meteor Form=====
+{{Stats
+|type=Rock
+|type2=Flying
+|HP=60
+|Attack=60
+|Defense=100
+|SpAtk=60
+|SpDef=100
+|Speed=60}}
+
+=====Core=====
+{{Stats
+|type=Rock
+|type2=Flying
+|HP=60
+|Attack=100
+|Defense=60
+|SpAtk=100
+|SpDef=60
+|Speed=120}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Flying
+|Normal=50
+|Fighting=100
+|Flying=50
+|Poison=50
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=200
+|Grass=100
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Minior|Rock|Flying|7}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|3|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level7|8|Rollout|Rock|Physical|30|90|20||'''}}
+{{learnlist/level7|10|Confuse Ray|Ghost|Status|—|100|10}}
+{{learnlist/level7|15|Swift|Normal|Special|60|—|20}}
+{{learnlist/level7|17|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level7|22|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level7|24|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level7|29|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|31|Autotomize|Steel|Status|—|—|15}}
+{{learnlist/level7|36|Cosmic Power|Psychic|Status|—|—|20}}
+{{learnlist/level7|38|Power Gem|Rock|Special|80|100|20||'''}}
+{{learnlist/level7|43|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|45|Shell Smash|Normal|Status|—|—|15}}
+{{learnlist/level7|50|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/levelf/7|Minior|Rock|Flying|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Minior|Rock|Flying|7}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Minior|Rock|Flying|7}}
+
+====By {{pkmn|breeding}}====
+{{Learnlist/breedh/7|Minior|Rock|Flying|7}}
+{{Learnlist/breed7null}}
+{{Learnlist/breedf/7|Minior|Rock|Flying|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Minior|Rock|Flying|7}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Minior|Rock|Flying|7}}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Flying}}
+{{Spindata/Shuffle|col=6|type=Rock|ndex=774|num=792
+|min=60
+|max=120
+|raisemaxlevel=10
+|skill=Nosedive
+|skilldesc=Sometimes deals a lot more damage.
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Rock
+|type2=Flying
+|pictype=art
+|no1=774
+|name1=Minior
+|type1-1=Rock
+|type2-1=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock|type2=Flying}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7/2Forms|ndex=774|form1=R}}
+{{Spritebox/Footer|774|Minior}}
+
+==Trivia==
+* Core Form Minior is the [[List of Pokémon by weight|lightest]] {{type|Rock}} Pokémon.
+* Minior was designed by [[Hitoshi Ariga]].
+* Meteor Form Minior, {{p|Sandshrew|Alolan Sandshrew}}, {{p|Clefable}}, {{p|Latias}}, {{p|Gurdurr}}, {{p|Greninja}}, and Ash-Greninja are all the same weight as {{ga|Ethan}}.
+* Minior is the only Pokémon whose forms all share the exact same Shiny appearance. 
+* The Pokédex groups Minior under more [[List of Pokémon by color|colors]] than any other Pokémon, with a total of 6.
+
+===Origin===
+Minior is likely based on a {{wp|meteor}}, which are colloquially known as "falling stars" or "{{wp|shooting stars}}". The colors of its Core Form roughly correspond with those of a classic {{wp|rainbow}}, or {{wp|Roy G. Biv}}. Additionally, Minior's design may take inspiration from the Japanese star-shaped candy {{wp|konpeitō}}. 
+
+====Name origin====
+Minior is likely derived from ''meteor'', and may involve any mixture of the words ''mini'', ''minor'', ''junior'', ''armor'', and ''core''.
+
+Meteno may be a combination of ''meteor'' and ''nano''.
+
+==In other languages==
+{{Other languages|type=Rock|type2=Flying
+|ja=メテノ ''Meteno''|jameaning=From ''meteor''
+|fr=Météno|frmeaning=Same as Japanese name
+|es=Minior|esmeaning=Same as English name
+|de=Meteno|demeaning=Same as Japanese name
+|it=Minior|itmeaning=Same as English name
+|ko=메테노 ''Meteno''|komeaning=Transliteration of its Japanese name
+|zh_cmn=小隕星 / 小陨星 ''Xiǎoyǔnxīng''|zh_cmnmeaning=From {{tt|小 ''xiǎo''|small}} and {{tt|隕星 ''yǔnxīng''|meteorite}}
+|zh_yue=小隕星 ''Síuwáhnsīng''|zh_yuemeaning=From {{tt|小 ''síu''|small}} and {{tt|隕星 ''wáhnsīng''|meteorite}}
+|ru=Миниор ''Minior''|rumeaning=Transcription of English name}}
+{{-}}
+
+{|
+|- style="vertical-align:top"
+|
+''Meteor Form''
+{{langtable|color={{Rock color}}|bordercolor={{Flying color dark}}
+|ja=りゅうせいのすがた ''Meteor Form''
+|zh_yue=流星的样子 ''{{tt|Làuhsīng-dīk Yeuhngjí|Meteor Form}}''
+|zh_cmn=流星的样子 / 流星的樣子 ''{{tt|Liúxīng-de Yàngzi|Meteor Form}}''
+|fr=Forme Météore
+|de=Meteorform
+|it=Forma Meteora
+|ko=유성의 모습 ''Yuseongui Moseup''
+|es=Forma Meteorito
+}}
+|
+''Red Core''
+{{langtable|color={{psychic color}}|bordercolor={{rock color dark}}
+|ja=あかいろのコア ''Red Core''
+|zh_yue=紅色核心 ''{{tt|Hùhngsīk Hahtsām|Red Core}}''
+|zh_cmn=紅色核心 / 红色核心 ''{{tt|Hóngsè Héxīn|Red Core}}''
+|fr=Noyau Rouge
+|de=Roter Kern
+|it=Nucleo Rosso
+|ko=빨간색 코어 ''Ppalgansaek Core''
+|es=Núcleo Rojo
+}}
+|
+''Orange Core''
+{{langtable|color={{sun color}}|bordercolor={{rock color dark}}
+|ja=だいだいいろのコア ''Orange Core''
+|zh_yue=橙色核心 ''{{tt|Cháangsīk Hahtsām|Orange Core}}''
+|zh_cmn=橙色核心 ''{{tt|Chéngsè Héxīn|Orange Core}}''
+|fr=Noyau Orange
+|de=Oranger Kern
+|it=Nucleo Arancione
+|ko=주황색 코어 ''Juhwangsaek Core''
+|es=Núcleo Naranja
+}}
+|}
+
+{|
+|- style="vertical-align:top"
+|
+''Yellow Core''
+{{langtable|color={{yellow color}}|bordercolor={{rock color dark}}
+|ja=きいろのコア ''Yellow Core''
+|zh_yue=黃色核心 ''{{tt|Wòhngsīk Hahtsām|Yellow Core}}''
+|zh_cmn=黃色核心 / 黄色核心 ''{{tt|Huángsè Héxīn|Yellow Core}}''
+|fr=Noyau Jaune
+|de=Gelber Kern
+|it=Nucleo Giallo
+|ko=노란색 코어 ''Noransaek Core''
+|es=Núcleo Amarillo
+}}
+|
+''Green Core''
+{{langtable|color={{Kanto color}}|bordercolor={{rock color dark}}
+|ja=みどりいろのコア ''Green Core''
+|zh_yue=綠色核心 ''{{tt|Luhksīk Hahtsām|Green Core}}''
+|zh_cmn=綠色核心 / 绿色核心 ''{{tt|Lǜsè Héxīn|Green Core}}''
+|fr=Noyau Vert
+|de=Grüner Kern
+|it=Nucleo Verde
+|ko=초록색 코어 ''Choroksaek Core''
+|es=Núcleo Verde
+}}
+|
+''Blue Core''
+{{langtable|color={{ice color}}|bordercolor={{rock color dark}}
+|ja=みずいろのコア ''Blue Core''
+|zh_yue=淺藍色核心 ''{{tt|Chínlàahmsīk Hahtsām|Blue Core}}''
+|zh_cmn=淺藍色核心 / 浅蓝色核心 ''{{tt|Qiánlánsè Héxīn|Blue Core}}''
+|fr=Noyau Bleu
+|de=Hellblauer Kern
+|it=Nucleo Azzurro
+|ko=옥색 코어 ''Oksaek Core''
+|es=Núcleo Azul
+}}
+|}
+
+{|
+|- style="vertical-align:top"
+|
+''Indigo Core''
+{{langtable|color={{water color}}|bordercolor={{rock color dark}}
+|ja=あおいろのコア ''Indigo Core''
+|zh_yue=藍色核心 ''{{tt|Làahmsīk Hahtsām|Indigo Core}}''
+|zh_cmn=藍色核心 / 蓝色核心 ''{{tt|Lánsè Héxīn|Indigo Core}}''
+|fr=Noyau Indigo
+|de=Blauer Kern
+|it=Nucleo Indaco
+|ko=파란색 코어 ''Paransaek Core''
+|es=Núcleo Añil
+}}
+|
+''Violet Core''
+{{langtable|color={{Sinnoh color}}|bordercolor={{rock color dark}}
+|ja=むらさきいろのコア ''Violet Core''
+|zh_yue=紫色核心 ''{{tt|Jísīk Hahtsām|Violet Core}}''
+|zh_cmn=紫色核心 ''{{tt|Zǐsè Héxīn|Violet Core}}''
+|fr=Noyau Violet
+|de=Violetter Kern
+|it=Nucleo Violetto
+|ko=보라색 코어 ''Borasaek Core''
+|es=Núcleo Violeta
+}}
+|}
+{{-}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Rock|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=773|prev=Silvally|nextnum=775|next=Komala}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Red-colored Pokémon]]<!--Red, Orange Core-->
+[[Category:Yellow-colored Pokémon]]<!--Yellow Core-->
+[[Category:Green-colored Pokémon]]<!--Green Core-->
+[[Category:Blue-colored Pokémon]]<!--Blue, Indigo Core-->
+[[Category:Purple-colored Pokémon]]<!--Violet Core-->
+
+[[de:Meteno]]
+[[fr:Météno]]
+[[it:Minior]]
+[[ja:メテノ]]
+[[zh:小陨星]]

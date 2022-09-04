@@ -1,0 +1,620 @@
+{{PokémonPrevNext/Head|type=Fighting}}
+{{PokémonPrevNext/GO|species=Primeape}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=056|prev=Mankey|nextnum=058|next=Growlithe|round=none}}
+{{PokémonPrevNext/Disambig|species=Primeape}}
+|}
+{{Pokémon Infobox
+|name=Primeape
+|jname=オコリザル
+|tmname=Okorizaru
+|ndex=057
+|oldjdex=135
+|jdex=137
+|adex=080
+|fbrow=150
+|abrow=127
+|obrow=183
+|opbrow=111
+|type1=Fighting
+|category=Pig Monkey
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=70.5
+|weight-kg=32.0
+|abilitylayout=2
+|ability1=Vital Spirit
+|ability2=Anger Point
+|abilityd=Defiant
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=2
+|evat=2
+|expyield=159
+|oldexp=149
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=75
+|body=06
+|pokefordex=primeape
+|generation=1
+|friendship=70
+}}
+'''Primeape''' ([[List of Japanese Pokémon names|Japanese]]: '''オコリザル''' ''Okorizaru'') is a {{type|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Mankey}} starting at [[level]] 28.
+
+==Biology==
+[[File:Mankey Primeape banana.png|thumb|left|200px|Primeape eating bananas]]
+Primeape is a bipedal Pokémon with a round body covered in whitish, shaggy fur. It usually has a throbbing vein on the left side of its forehead, and it has triangular ears with pink insides and a pink, snout-like nose. Its arms and legs are brown and have metal shackles on the wrists and ankles. This is probably indicative of a method of training with weights. The hands have no visible fingers, instead resembling mittens or boxing gloves, and the feet have two toes.
+
+Primeape is easily angered; even the slightest glance of eye contact will make it furious. When Primeape is furious, its blood circulation is boosted. This makes its muscles stronger, but at the cost of some of its intelligence. It will chase anyone who upsets it and will not stop until it has caught its quarry. Even if it is awoken from sleep, it will groggily chase whatever woke it. Primeape can be found in vibrant forests or {{DL|List of Pokémon by habitat|Mountain Pokémon|on mountains.}} It [[EP065|has shown]] some fondness for bananas.
+
+==In the anime==
+[[File:Primeape anime.png|right|thumb|210px|Primeape in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Primeape]]====
+In ''[[EP025|Primeape Goes Bananas]]'', a Mankey stole [[Ash's hat]], and later evolved into a Primeape. [[Ash's Charmander]] battled the Primeape and Ash caught it. It is currently in training with {{OBP|Anthony|EP029}} to become a P1 fighting champion.
+
+====Other====
+A Primeape led a group of wild gang of {{type|Fighting}} Pokémon in ''[[EP136|Chikorita's Big Upset]]''. It was defeated in battle by {{AP|Chikorita}} and immediately surrendered its gang leadership to Chikorita. It then helped fight Team Rocket.
+
+[[Butch]] of [[Team Rocket]] has a Primeape, which appeared in ''[[EP157|The Fortune Hunters]]''.
+
+In ''[[EP233|A Tyrogue Full of Trouble]]'', a Primeape was causing problems for a small town along with a {{p|Mankey}} and a {{p|Tyrogue}}. A {{pkmn|Trainer}} named [[Kiyo]] was able to capture the Tyrogue, and the Mankey and Primeape joined up with him.
+
+Several Primeape appeared in ''[[SS014|Journey to the Starting Line!]]'', where they attacked {{an|Professor Oak}}, {{Delia}}, {{Tracey}}, and {{OBP|Gilbert|SS014}} who tried to retrieve a {{pkmn2|starter}} {{p|Bulbasaur}} after it got stuck in a tree.
+
+Multiple Primeape appeared in ''[[M20|I Choose You!]]''. They battled {{DL|Ash Ketchum (M20)|Butterfree|Ash's Metapod}}, causing it to evolve into {{p|Butterfree}}. They were then put to sleep with {{m|Sleep Powder}}, eventually waking up as {{TRT}} tried to sneak past them.
+
+===Minor appearances===
+A Primeape appeared in ''[[EP052|Princess vs. Princess]]'' competing in the [[Princess Festival|Queen of the Princess Festival contest]].
+
+A Primeape was seen in a Pokémon Lab in ''[[EP058|Riddle Me This]]''.
+
+Multiple Primeape were among the Pokémon seen at [[Professor Oak's Laboratory]] in ''[[EP065|Showdown at the Po-ké Corral]]''.
+
+A Primeape was among the Pokémon controlled by [[Cassidy]] and [[Butch]] in ''[[EP086|Pikachu Re-Volts]]''.
+
+Multiple [[List of alternately colored Pokémon in the anime#Pink Pokémon|pink]] Primeape resided on the [[Pinkan Island]] in ''[[EP088|In the Pink]]''.
+
+A Primeape appeared in ''[[M02|The Power of One]]''.
+
+A Primeape was seen in a dojo in ''[[EP140|Wired for Battle!]]''.
+
+A Primeape was one of the Pokémon seen at the [[Pokémon Swap Meet]] in ''[[EP146|Tricks of the Trade]]''.
+
+A Primeape appeared in ''[[EP166|Two Hits and a Miss]]'' as one of the many Pokémon in a Fighting-type dojo.
+
+''[[EP173|Wobbu-palooza]]'' featured a Primeape belonging to a [[Wobbuffet Festival crashers|Festival Crasher]].
+
+A Primeape appeared in ''[[EP169|Beauty and the Breeder]]'', where it participated in [[Bonitaville]]'s [[Pokémon Beauty Contest]].
+
+A Primeape was one of the Pokémon seen in a forest outside the [[Ice Path]] in [[EP250]].
+
+A Primeape was seen {{pkmn|training}} alongside its {{pkmn|Trainer}} in ''[[EP262|You're a Star, Larvitar!]]''.
+
+A Primeape appeared in the opening sequences of both ''[[M07|Destiny Deoxys]]'' and ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Trainer's Primeape appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+A Primeape appeared in ''[[SM012|The Sun, the Scare, the Secret Lair!]]'', where {{an|Lillie}} observed a Mankey attacking it.
+
+Two Primeape appeared in ''[[SM015|Rocking Clawmark Hill!]]'', as some of the Pokémon training up on [[Clawmark Hill]].
+
+A Trainer's Primeape appeared in ''[[SM017|Crystal-Clear Sleuthing!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kanto|no}}
+{{Animedexbody|EP025|Primeape|Ash's Pokédex|Primeape. If you make eye contact with this evolved form of {{p|Mankey}}, it will chase you forever.}}
+{{Animedexbody|EP025|Thrash|Ash's Pokédex|Once Primeape begins its strongest [[Move|attack]], {{m|Thrash}}, it goes completely out of control.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+
+==In the manga==
+[[File:Primeape Adventures.png|thumb|200px|Primeape in [[Pokémon Adventures]]]]
+===In the movie adaptations===
+Primeape appeared in ''{{ma|Celebi: a Timeless Encounter}}''.
+
+===In the Pokémon Adventures manga===
+In ''[[PS016|Wartortle Wars]]'' A Primeape is first seen as a wild Pokémon that [[Saur]] defeated, becoming an {{p|Ivysaur}} afterwards. This catches the attention of the looming con artist, {{adv|Green}}, starting a long-winded chain of events that led to Red first losing his money to her charm, and then his Badges.
+
+In ''[[PS055|The Primeape Directive]]'', a herd of Mankey, led by a frustrated Primeape, attacked {{adv|Yellow}} and her temporary master, {{adv|Blue}}, whose {{TP|Blue|Porygon}} defeated it. Yellow then empathies the poor Pokémon and has it leave peacefully to the wild. It later appeared along with its herd of Mankey in ''[[PS090|The Legend]]'' after the industrial ruins in the Kanto mainland had been restored by the healing light.
+
+In ''[[PS108|Quilava Quandary]]'', a Primeape was used by the [[Day-Care Couple]] to help train {{adv|Gold}}.
+
+Much later, [[Chuck]], Blue's own master, owns a Primeape, seen in ''[[PS124|Scrappy Skarmory]]'' working out with him and his {{p|Poliwrath}}. Together with Poliwrath, it used {{m|DynamicPunch}} to reveal {{p|Suicune}}'s presence in the ocean off the {{ci|Cianwood}} coast, but the Gym Leader was defeated in the end, even after being joined by a [[Walker|friend]].
+
+Another Primeape was one of the Pokémon sent to help the fight in [[Ilex Forest]] in ''[[PS179|The Last Battle XIII]]''.
+
+A Trainer's Primeape appeared in ''[[PS418|Deprogramming Porygon-Z]]''.
+
+===In the Pokémon Gotta Catch 'Em All manga===
+In [[Pokémon Gotta Catch 'Em All]], {{GDZ|Shinji}}'s signature Pokémon is a Primeape.
+
+===In the Pokémon Pocket Monsters manga===
+[[Blaine]] sent out Primeape during the battle portion of the Pokémon Quiz Battle in ''[[PM024|Fierce Competition at the Pokémon Quiz Battle!!]]''.
+
+{{OBP|Red|Pocket Monsters}} caught a Primeape prior to ''[[PM042|Red VS Green?!]]'' and another one off-screen in ''[[PM054|The Pokémon Banana League (Part 1)]]''.
+
+[[Chuck]]'s only known Pokémon is a Primeape. It battles with all three of Red's Pokémon in ''[[PM096|Defeat Chuck Style Martial Arts!!]]''.
+
+===In the Pokémon Ruby-Sapphire manga===
+{{OBP|Ruby|Ruby-Sapphire}} has a Primeape at his house as seen in ''[[PMRS03|Something Happened!! Let's Go After Pikachu!!]]''.
+
+==In the TCG==
+{{main|Primeape (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=fighting}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.}}
+{{Dex/Entry1|v=Yellow|entry=It stops being angry only when nobody else is around. To view this moment is very difficult.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=When enraged, it gives chase endlessly. Because it is impossible to tell what made it angry, there is no soothing it.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.}}
+{{Dex/Entry1|v=Silver|entry=It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.}}
+{{Dex/Entry1|v=Crystal|entry=It will beat up anyone who makes it mad, even if it has to chase them until the end of the world.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.}}
+{{Dex/Entry1|v=FireRed|entry=It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.}}
+{{Dex/Entry1|v=LeafGreen|entry=Always furious and tenacious to boot. It will not abandon chasing its quarry until it catches up.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.}}
+{{Dex/Entry1|v=HeartGold|entry=If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.}}
+{{Dex/Entry1|v=SoulSilver|entry=It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It stops being angry only when nobody else is around. To view this moment is very difficult.}}
+{{Dex/Entry1|v=Y|entry=It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It has been known to become so angry that it dies as a result. Its face looks peaceful in death, however.}}
+{{Dex/Entry1|v=Moon|entry=Some researchers theorize that Primeape remains angry even when inside a Poké Ball.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It will never forgive opponents who have angered it. Even after it has beaten them down until they can't move, it never ever forgives.}}
+{{Dex/Entry1|v=Ultra Moon|entry=The blood vessels in its brain are sturdier than those of other Pokémon, so it can stay healthy despite its constant raging.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=fighting}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Red|area=[[Evolution|Evolve]] {{p|Mankey}}}}
+{{Availability/Entry1/None|1|v=Blue}}
+{{Availability/Entry1/None|1|v=Blue|ex=(Japan)|link=Pokémon Blue Version (Japanese)}}
+{{Availability/Entry1|1|v=Yellow|area={{rt|23|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Gold|area={{rt|9|Kanto}}}}
+{{Availability/Entry1/None|1|v=Silver}}
+{{Availability/Entry1/None|1|v=Crystal}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{rt|23|Kanto}}, [[Cerulean Cave]], and {{ka|Victory Road}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cipher Key Lair]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|225|Sinnoh}} and {{rtn|226|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|225|Sinnoh}} and {{rtn|226|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry1|v=HeartGold|area={{rt|9|Kanto}}, [[Cerulean Cave]]}}
+{{Availability/Entry1/None|v=SoulSilver}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Mankey}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Mankey}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Mankey}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Mankey}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Poni Plains]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Poni Plains]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fighting}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Mankey}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 13, Forever Level 62, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Mankey}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Olive Jungle]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mt. Travail]] (1F-19F), [[Shimmer Hill]] (1F-17F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mt. Travail]] (1F-19F), [[Shimmer Hill]] (1F-17F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Altru Building]], [[Altru Tower]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Fiery Furnace]] <small>(Normal Mode C & A)</small>}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Iceberg Zone]], [[Meeting Place]]{{tt|*|Cannot be befriended here}}}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Rasp Cavern]], [[Faldera Island]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Magical Lake#Dual Launchers|Magical Lake: Dual Launchers]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 3|Infinite Ruins: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 344]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Secluded Volcanic Chasm|Origin Hideaway: Secluded Volcanic Chasm]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=fighting|type2=fighting
+|rby1=Gold Leaf|rby1type=None|rby1rar=100|rby1image=no
+|dppt1=Payapa Berry|dppt1type=Berry|dppt1rar=5
+|hg1=Payapa Berry|hg1type=Berry|hg1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=     65
+|Attack=105
+|Defense=60
+|SpAtk=  60
+|SpDef=  70
+|Special=60
+|Speed=  95
+|type=Fighting }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Fighting
+|Speed=3
+|SpeedMax=3
+|Power=4
+|PowerMax=5
+|Technique=1
+|TechniqueMax=1
+|Stamina=2
+|StaminaMax=3
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=fighting
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Primeape|Fighting|Fighting|1}}
+{{learnlist/level7|1|Rage|Normal|Physical|20|100|20}}
+{{learnlist/level7|1|Final Gambit|Fighting|Special|&mdash;|100|5}}
+{{learnlist/level7|1|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Low Kick|Fighting|Physical|&mdash;|100|20||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Rage|Normal|Physical|20|100|20}}
+{{learnlist/level7|5|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level7|8|Karate Chop|Fighting|Physical|50|100|25||'''}}
+{{learnlist/level7|12|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|15|Seismic Toss|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/level7|19|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|22|Cross Chop|Fighting|Physical|100|80|5||'''}}
+{{learnlist/level7|26|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/level7|30|Punishment|Dark|Physical|&mdash;|100|5}}
+{{learnlist/level7|35|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|39|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/level7|44|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|48|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/level7|53|Outrage|Dragon|Physical|120|100|10}}
+{{learnlist/level7|57|Final Gambit|Fighting|Special|&mdash;|100|5}}
+{{learnlist/levelf/7|Primeape|Fighting|Fighting|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Primeape|Fighting|Fighting|1}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Primeape|Fighting|Fighting|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Primeape|Fighting|Fighting|2}}
+{{learnlist/breed7|{{MSP|215|Sneasel}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|766|Passimian}}|Beat Up|Dark|Physical|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|335|Zangoose}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}{{MSP|448|Lucario}}<br>{{MSP|766|Passimian}}|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|363|Spheal}}<br>{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|572|Minccino}}<br>{{MSP|587|Emolga}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|288|Vigoroth}}{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}|Focus Punch|Fighting|Physical|150|100|20||'''}}
+{{learnlist/breed7|{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|300|Skitty}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|448|Lucario}}<br>|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Meditate|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|083|Farfetch'd}}{{MSP|336|Seviper}}{{MSP|359|Absol}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|461|Weavile}}<br>{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|571|Zoroark}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|553|Krookodile}}|Power Trip|Dark|Physical|20|100|10}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|461|Weavile}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|626|Bouffalant}}<br>|Revenge|Fighting|Physical|60|100|10||'''}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|288|Vigoroth}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|626|Bouffalant}}{{MSP|745Mn|Lycanroc}}{{MSP|766|Passimian}}|Reversal|Fighting|Physical|&mdash;|100|15||'''}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|209|Snubbull}}{{MSP|255|Torchic}}{{MSP|293|Whismur}}{{MSP|327|Spinda}}{{MSP|619|Mienfoo}}|Smelling Salts|Normal|Physical|70|100|10|*}}
+{{learnlist/breedf/7|Primeape|Fighting|Fighting|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Primeape|Fighting|Fighting|2}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||'''|no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20||'''|no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Primeape|Fighting|Fighting|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Primeape|Fighting|Fighting|1}}
+{{learnlist/prevo7|056|Mankey|||||Covet|Normal|Physical|60|100|25||{{sup/7|SM}}}}
+{{learnlist/prevof/7|Primeape|Fighting|Fighting|1}}
+
+===Side game data===
+{{Spindata/Head|type=Fighting}}
+{{Spindata/Pinball|col=3|type=Fighting|ndex=057|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Fighting|ndex=057|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Fighting|ndex=057
+|body=1
+|rate=Evolve
+|area=Energetic Forest
+|P1=I'll chase you to the ends of the world!
+|P2=Darn it... My health is already down to half...
+|P3=I'm done... I don't have the energy to give chase...
+|PL=OK! Leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Fighting|ndex=057
+|body=1
+|rate=-4.5
+|IQ=C
+}}
+|-
+{{Spindata/Ranger|col=6|type=Fighting
+|group=Fighting
+|assist=Fighting
+|fieldpower=2
+|field=Crush
+|loop=10
+|MinEXP=40
+|MaxEXP=60
+|browser=Primeape is always furious and savage. It has the power to shatter big Boulders.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Fighting
+|group=Fighting
+|assist=Fighting
+|field=Crush
+|fieldpower=3
+|browser=It thrashes about extremely wildly. It is easier to capture when it stops.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Fighting
+|group=Fighting
+|assist=Fighting
+|field=Crush
+|fieldpower=3
+|browser=It attacks with punches.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Fighting
+|att=4
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Fighting
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Fighting|ndex=057
+|Pad=Primeape came to the [[Iceberg Zone]] to battle! The Attraction he's best at is {{DL|Attractions|Venusaur's Vine Swing}}. He also likes {{DL|Attractions|Tangrowth's Swing-Along}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Fighting|ndex=057
+|pad=They get angry easily, but Pokémon in the [[Crag Area]] accept it as their personality. They are pleasant after they finish being angry.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Fighting|ndex=057
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Fighting|ndex=057|num=468
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Power of 5+
+|skilldesc=Deals even more damage when you make a match of five.
+}}
+|-
+{{Spindata/GO|col=6|type=Fighting|ndex=057
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=130
+|attack=207
+|defense=144
+|fast={{m|Low Kick}}, {{m|Karate Chop}}{{tt|*|Prior to February 16, 2017}}, {{m|Counter}}{{tt|*|From February 16, 2017 onward}}
+|special={{m|Cross Chop}}{{tt|*|Prior to February 16, 2017}}, {{m|Close Combat}}{{tt|*|From February 16, 2017 onward}}, {{m|Low Sweep}}, {{m|Night Slash}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Fighting
+|pictype=art
+|no1=056
+|name1=Mankey
+|type1-1=Fighting
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 28}}
+|no2=057
+|name2=Primeape
+|type1-2=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=Fighting}}
+{{Spritebox/1|ndex=057}}
+{{Spritebox/2|ndex=057}}
+{{Spritebox/3|ndex=057}}
+{{Spritebox/4|ndex=057}}
+{{Spritebox/5|ndex=057}}
+{{Spritebox/6|ndex=057}}
+{{Spritebox/7|ndex=057}}
+{{Spritebox/Footer|057|Primeape}}
+
+==Trivia==
+*According to ''[[Pocket Monsters: The Animation]]'', Primeape is the reason why [[Poké Ball]]s were developed.
+
+===Origin===
+Considering its pig-like nose, coloration, and tendency to fly into a rage if eye contact is made, Primeape has much in common with {{wp|baboon}}s.
+
+====Name origin====
+Primeape may be a combination of ''prime'' and ''{{wp|ape}}'', as well as being a pun on ''{{wp|primate}}''.
+
+Okorizaru can be taken to be 怒り猿 (angry monkey).
+
+==In other languages==
+{{Other languages|type=fighting|type2=fighting
+|ja=オコリザル ''Okorizaru''|jameaning=From {{tt|怒り猿|angry monkey}}
+|fr=Colossinge|frmeaning=From {{wp|Colossus of Rhodes|{{tt|''colosse''|colossus}}}} and ''{{tt|singe|monkey}}''
+|es=Primeape|esmeaning=Same as English name
+|de=Rasaff|demeaning=From ''{{tt|rasend|raging}}'' and ''{{tt|Affe|monkey}}''
+|it=Primeape|itmeaning=Same as English name
+|ko=성원숭 ''Seongwonsung''|komeaning=From {{tt|성나다 ''seongnada''|rage}} and {{tt|원숭이 ''wonsung'i''|monkey}}
+|zh_yue=火爆猴 ''Fóbaauhàuh''|zh_yuemeaning=Literally "Fire bursting monkey"
+|zh_cmn=火爆猴 ''Huǒbàohóu''|zh_cmnmeaning=Literally "Fire bursting monkey"
+|hi=प्राइमएप ''Primeape''|himeaning=Transcription of English name
+|lt=Puikioji Beždžionė|ltmeaning=Literally "Great Monkey"
+|ru=Праймейп ''Praymeyp''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Primeape]]
+
+==External links==
+
+==Notes==
+<references />
+
+{{PokémonPrevNext/Head|type=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=056|prev=Mankey|nextnum=058|next=Growlithe}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+
+[[de:Rasaff]]
+[[fr:Colossinge]]
+[[it:Primeape]]
+[[ja:オコリザル]]
+[[pl:Primeape]]
+[[zh:火暴猴]]

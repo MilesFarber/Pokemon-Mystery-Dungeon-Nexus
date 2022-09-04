@@ -1,0 +1,357 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=605|prev=Elgyem|nextnum=607|next=Litwick}}
+|}
+{{Pokémon Infobox
+|name=Beheeyem
+|jname=オーベム
+|jtranslit=Ōbemu
+|tmname=Ohbem
+|category=Cerebral
+|typebox=1
+|type1=Psychic
+|abilityn=d
+|ability1=Telepathy
+|ability2=Synchronize
+|abilityd=Analytic
+|ndex=606
+|udex=112
+|u2dex=189
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=76.1
+|weight-kg=34.5
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=20
+|expyield=170
+|lv100exp=1,000,000
+|evtotal=2
+|evsa=2
+|gendercode=127
+|color=Brown
+|catchrate=90
+|body=12
+|pokefordex=beheeyem
+|generation=5
+|friendship=70
+}}
+'''Beheeyem''' ([[List of Japanese Pokémon names|Japanese]]: '''オーベム''' ''Ohbem'') is a {{type|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Elgyem}} starting at [[level]] 42.
+
+==Biology==
+Beheeyem is a brown [[extraterrestrial Pokémon]] with an oblong head that features depressions on both sides. It has black, symmetrical lines going down the front of its head. Under the rim of its head, there lay two green eyes with small black pupils. It has a lighter brown "collar" and 4 dots on its chest of the same color. Beheeyem's arms have three finger-like digits: one red, one green, and one yellow. It has a rim underneath its main body, under which are two small legs. It communicates by flashing its multi-colored fingers. Beheeyem can manipulate the memories of its opponents, being able to erase or even rewrite them.
+
+==In the anime==
+[[File:Capacia Island Beheeyem.png|thumb|left|220px|Beheeyem in the {{pkmn|anime}}]]
+===Major appearances===
+Beheeyem debuted in ''[[BW045|Beheeyem, Duosion, and the Dream Thief!]]'', under the ownership of [[Leon]], a.k.a. the "Dream Thief". Leon's Beheeyem had befriended {{MTR}} so that Leon could lure {{Ash}} and {{ashfr}} into a trap. It later kidnapped {{AP|Pikachu}}, {{TP|Iris|Axew}}, and Meowth while they were sleeping, replacing them with dolls. It also stole Ash, {{an|Iris}}, and {{an|Cilan}}'s on hand Pokémon while they slept.
+
+Multiple Beheeyem appeared in ''[[BW133|Capacia Island UFO!]],'' searching for a {{wp|Koban (coin)|koban}} that fell in [[Capacia Island]] when their flying saucer crashed there. They had hypnotized the town's population to help them in their search.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW045|Beheeyem|Ash's Pokédex|Beheeyem, the Cerebral Pokémon and the evolved form of Elgyem. Beheeyem uses its three colored fingers to communicate.}}
+{{Animedexbody|BW045|Beheeyem|Ash's Pokédex|Beheeyem, the Cerebral Pokémon. Beheeyem can control its opponents minds and confuse their memories with its Psychic power.}}
+{{Animedexbody|BW133|Beheeyem|Ash's Pokédex|Beheeyem, the Cerebral Pokémon. Beheeyem can use its psychic power to control its opponents minds and memories.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Colress Beheeyem Adventures.png|thumb|150px|Beheeyem in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+[[Colress]] owns a Beheeyem, which he first used in ''[[PS514|The Tournament Continues]]'' while participating in the Unova {{un|Pokémon League}}.
+
+===In the Pokémon RéBURST manga===
+A Beheeyem appears as the [[Burst]] form of Rabine.
+
+==In the TCG==
+{{main|Beheeyem (TCG)}}
+
+==Game data==
+===NPC Appearances===
+* {{g|Super Mystery Dungeon}}: Three Beheeyem first appeared when they attacked the {{player}} when they first appeared in the world. One of them was responsible for the memory loss the player suffered and were under the control of [[Dark Matter]].
+
+===Pokédex entries===
+{{Dex/Header|type=Psychic}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It can manipulate an opponent's memory. Apparently, it communicates by flashing its three different-colored fingers.}}
+{{Dex/Entry1|v=White|entry=It uses psychic power to control an opponent's brain and tamper with its memories.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.}}
+{{Dex/Entry1|v=Y|entry=It uses psychic power to control an opponent's brain and tamper with its memories.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It uses psychic power to control an opponent's brain and tamper with its memories.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=With its psychic powers, it rewrites its opponents' memories. You, too, may have already had your memories rewritten.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It has strong psychic powers. Using its fingers that flash three different colors, it controls its opponents and rewrites their memories.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|14|Unova}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Elgyem}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Elgyem}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Elgyem}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Frozen Tundra]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Melodious Woodland#A Lively Concert|Melodious Woodland: A Lively Concert]], [[Chill Battle#Unidentified Flying Objects|Chill Battle: Unidentified Flying Objects]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 3|Safari Jungle: Stage 3]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 681]]<br>Event: [[Special Stages#Ninth release|''Pokémon Safari'']] <small>(Ninth release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Super Gene Laboratorium|Origin Hideaway: Super Gene Laboratorium]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Psychic
+|HP=75
+|Attack=75
+|Defense=75
+|SpAtk=125
+|SpDef=95
+|Speed=40}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|Normal=100
+|Flying=100
+|Fighting=50
+|Ground=100
+|Rock=100
+|Bug=200
+|Poison=100
+|Ghost=200
+|Steel=100
+|Fire=100
+|Grass=100
+|Electric=100
+|Psychic=50
+|Water=100
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Beheeyem|Psychic|Psychic|5}}
+{{learnlist/level7|1|Psychic Terrain|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Wonder Room|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Synchronoise|Psychic|Special|120|100|10||'''}}
+{{learnlist/level7|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Heal Block|Psychic|Status|&mdash;|100|15}}
+{{learnlist/level7|1|Miracle Eye|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|4|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|8|Heal Block|Psychic|Status|&mdash;|100|15}}
+{{learnlist/level7|11|Miracle Eye|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|15|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level7|18|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|22|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/level7|25|Imprison|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|29|Simple Beam|Normal|Status|&mdash;|100|15}}
+{{learnlist/level7|32|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/level7|36|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|39|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|45|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|50|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|56|Guard Split|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|58|Power Split|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|63|Synchronoise|Psychic|Special|120|100|10||'''}}
+{{learnlist/level7|68|Wonder Room|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/levelf/7|Beheeyem|Psychic|Psychic|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Beheeyem|Psychic|Psychic|5}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Beheeyem|Psychic|Psychic|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Beheeyem|Psychic|Psychic|5}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}|Ally Switch|Psychic|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|302|Sableye}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}|Barrier|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|427|Buneary}}|Cosmic Power|Psychic|Status|&mdash;|&mdash;|20|*}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|096|Drowzee}}{{MSP|097|Hypno}}|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}|Guard Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|390|Chimchar}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}|Power Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|063|Abra}}{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|122|Mr. Mime}}<br>{{MSP|327|Spinda}}{{MSP|574|Gothita}}{{MSP|575|Gothorita}}{{MSP|576|Gothitelle}}{{MSP|605|Elgyem}}{{MSP|606|Beheeyem}}|Skill Swap|Psychic|Status|&mdash;|&mdash;|10|‡}}
+{{learnlist/breed7|{{MSP|063|Abra}}{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}|Teleport|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breedf/7|Beheeyem|Psychic|Psychic|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Beheeyem|Psychic|Psychic|5}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Beheeyem|Psychic|Psychic|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Beheeyem|Psychic|Psychic|5}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Beheeyem|Psychic|Psychic|5}}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/RumbleBlast|col=6|type=Psychic
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=606
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=606|num=573
+|min=60
+|max=120
+|raisemaxlevel=10
+|skill=Rock Break
+|skilldesc=Destroys one breakable-rock disruption without fail.
+|swapper=Rock Shot
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Psychic
+|no1=605
+|name1=Elgyem
+|type1-1=Psychic
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 42}}
+|no2=606
+|name2=Beheeyem
+|type1-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=606}}
+{{Spritebox/6|ndex=606}}
+{{Spritebox/7|ndex=606}}
+{{Spritebox/Footer|606|Beheeyem}}
+
+==Trivia==
+
+===Origin===
+Beheeyem is based on {{wp|grey alien|greys}}, one of the more popular kinds of {{wp|extraterrestrial life|alien}}. Judging from {{p|Elgyem}}'s Pokédex entry, it and its evolution may also be based on the {{wp|Area 51}} {{wp|Area 51#UFO and other conspiracy theories concerning Area 51|alien conspiracies}} or the {{wp|Roswell UFO incident|Roswell incident}}. Additionally, Beheeyem's design resembles a person wearing a hat and trenchcoat and is likely based on stereotypical spies, shady figures, {{wp|Men in Black |"Men in Black"}}, or government agents in connection with alien sightings. The colored dots on its hands resemble the colorful faces of the invaders in the {{wp|The War of the Worlds (1953 film)|1953 ''War of the Worlds'' film}}; the aliens in the film had green, blue and red dots just like Beheeyem's {{Shiny}} coloration. Considering its species names, physical appearance, and powers, it may also be based on a brain.
+
+====Name origin====
+Beheeyem is a corruption of the abbreviation ''{{wp|Bug-eyed monster|BEM}}'', an old-fashioned term used to refer to extraterrestrials.
+
+Ohbem may be a combination of ''orb'' and ''{{wp|Bug-eyed monster|BEM}}'' (pronounced as a single word in Japanese). ''Oh'' may also refer to 大 ''ō'' (large) and ''bem'' may also refer to ''beam'' (referencing {{wp|tractor beam}}s from {{wp|UFOs}}).
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Psychic
+|ja=オーベム ''Ohbem''|jameaning=From {{tt|大 ''oo''|large}}, ''orb'' and ''{{wp|Bug-eyed monster|BEM}}''
+|fr=Neitram|frmeaning=From ''{{tt|Martien|Martian}}'' reversed
+|es=Beheeyem|esmeaning=Same as English name
+|de=Megalon|demeaning=From ''mega'' and ''encephalon''
+|it=Beheeyem|itmeaning=Same as English name
+|ko=벰크 ''Bemk''|komeaning=From ''BEM'' and {{tt|크다 ''keuda''|big, large}}
+|zh_cmn=大宇怪 ''Dà​yǔ​guài​''|zh_cmnmeaning=From {{tt|大 ''dà''|big, great}}, {{tt|大宇 ''dà​yǔ''|universe}}, and ​{{tt|怪 ''guài​''|freak}}
+|ru=Бехийем ''Bekhiyem''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=605|prev=Elgyem|nextnum=607|next=Litwick}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Megalon]]
+[[fr:Neitram]]
+[[it:Beheeyem]]
+[[ja:オーベム]]
+[[pl:Beheeyem]]
+[[zh:大宇怪]]

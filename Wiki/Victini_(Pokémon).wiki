@@ -1,0 +1,423 @@
+{{PokémonPrevNext/Head|type=Psychic|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=493|prev=Arceus|nextnum=495|next=Snivy|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Victini}}
+|}
+{{Pokémon Infobox
+|name=Victini
+|jname=ビクティニ
+|jtranslit=Bikutini
+|tmname=Victini
+|category=Victory
+|typebox=1
+|type1=Psychic
+|type2=Fire
+|abilityn=1
+|abilitylayout=1
+|ability1=Victory Star
+|ndex=494
+|udex=000
+|u2dex=000
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=8.8
+|weight-kg=4.0
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=120
+|expyield=270
+|gendercode=255
+|lv100exp=1,250,000
+|color=Yellow
+|catchrate=3
+|evtotal=3
+|evhp=3
+|body=12
+|pokefordex=victini
+|generation=5
+|friendship=100
+}}
+'''Victini''' ([[List of Japanese Pokémon names|Japanese]]: '''ビクティニ''' ''Victini'') is a dual-type {{2t|Psychic|Fire}} [[Mythical Pokémon]] introduced in [[Generation V]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+[[File:DW Victini Macaron.png|thumb|left|250px|Victini and the macarons]]
+Victini is a small, rabbit-like Pokémon with large, pointed ears which form the letter V. It has large, blue eyes and a round, cream head, which is comparatively large compared to its small, cream body, while the tops of its ears, crest, and extremities are all orange. Its bulbous arms and legs are rounded to make a sort of "cuff" before ending with small, three-fingered hands and two-toed feet. It has two pointed teeth that can be seen on its upper jaw. It also has two cream winglike tails, which allows it to fly. Though timid, it is a caring Pokémon; it will fight if its friends are in danger.
+
+Victini is said to bring victory to the {{pkmn|Trainer}} that befriends it. It produces an infinite amount of energy within itself and can share it with others by touch. It can also become invisible. As shown in ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]'', it can send visions to people. It has been shown to enjoy eating {{wp|macaron}}s, although it sometimes chokes on them. In the same movie, it has also been seen near an [[Oran Berry]] bush. Victini is the [[Signature move|only known Pokémon]] that can learn {{m|Searing Shot}}.
+
+==In the anime==
+[[File:Victini M14.png|250px|thumb|Victini in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Victini (M14)]]====
+{{mov|Victini|Victini|14}} appeared in ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]''. It lived in [[Eindoak Town]], where it was a friend of the [[King of the People of the Vale]] one thousand years prior to the films. In the present it was targeted by [[Damon]] in his plan to fly the [[Sword of the Vale]] back to the [[Kingdom of the Vale]] and resurrect his peoples' glory.
+
+====Other====
+A Victini appeared in ''[[PK26|Pikachu, What's This Key?]]''.
+
+===Minor appearances===
+
+==In the manga==
+[[File:Monta Victini.png|120px|thumb|Victini in [[Be the Best! Pokémon B+W]]]]
+===In the manga adaptations===
+{{main|Victini (M14)}}
+Victini is a major character in ''[[M14|White—Victini and Zekrom]]''. Likewise, it appears in the {{ma|White—Victini and Zekrom|manga adaptation}} of the film by [[Momota Inoue]] that was serialized in [[CoroCoro]].
+
+===In the Pokémon Adventures manga===
+In ''[[PS480|At Liberty on Liberty Garden]]'', Victini was seen on [[Liberty Garden]] where a woman from [[Team Plasma]] attempted to catch it, but this was thwarted by {{adv|Black}}.
+
+===In the Be the Best! Pokémon B+W manga===
+[[Monta]] owns a Victini.
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+Victini appears as a [[Poké Ball]] Pokémon, after playing 100-Man Smash at least once. It uses {{a|Victory Star}}, which causes fighters (and teammates, if any) who send it out to gain immunity to knockback and have their attack power boosted.
+
+====Trophy information====
+'''NA''': ''This Psychic/Fire-type Pokémon shares the limitless energy it creates with others. In Smash Bros., Victini uses Victory Star to power up the fighter that brought it into battle. The fighter won't flinch from damage and will launch foes easier, as well as glow with power. They aren't invincible, though...''
+
+'''PAL''': ''Victini can create an endless supply of energy and share it with others. Its Victory Star move makes the other fighter who summoned it glow with power from head to toe. As long as they're glowing, their launch ability will shoot up and they'll never flinch. That said, they're not invincible - Victini isn't a miracle-worker.''
+
+==In the TCG==
+{{main|Victini (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Gates to Infinity}}: {{mdc|Victini|gti}} is a lively and ecstatic Pokémon who runs the V-Wheel and shows the V-Wavecast in Pokémon Paradise and is shown to get overly excited, especially about his wheel.
+
+===Pokédex entries===
+{{Dex/Header|type=Psychic|type2=Fire}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.}}
+{{Dex/Entry1|v=White|entry=It creates an unlimited supply of energy inside its body, which it shares with those who touch it.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When it shares the infinite energy it creates, that being's entire body will be overflowing with power.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.}}
+{{Dex/Entry1|v=Y|entry=When it shares the infinite energy it creates, that being's entire body will be overflowing with power.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=When it shares the infinite energy it creates, that being's entire body will be overflowing with power.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic|type2=Fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Liberty Garden]] <small>(requires [[Liberty Pass]])</small> ([[List of in-game event Pokémon in Generation V#Victini|only one]])}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Trade]], {{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y|area={{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area={{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area={{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Trade]]<br/>[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic|type2=Fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=[[Beginner's Park]], Tower: [[World Axle - B2F]]{{tt|*|Get 150 customers}}, Field: [[Sun-Dappled Bank]]{{tt|*|Password only}}}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=Victini's V-Wheel in Paradise Center}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Wonder Area#Go Big or Go Home!|Wonder Area: Go Big or Go Home!]] <small>(Boss)</small>, [[Secret Warehouse#Fighters on Ice|Secret Warehouse: Fighters on Ice]] <small>(Reward)</small><br>NFC Figurine}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 6|Dragon Hill: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Tons of Exp. Points|Exp. Points from Victini!]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Volcanic Ravine|Starlight Islands: Volcanic Ravine]] <small>(Special Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 24|Area 24: Stage 13]] (As a {{DL|Pokémon Picross|Mythical Pokémon}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Psychic|type2=Fire}}
+{{eventAvail|{{gameabbrev5|BW}}|Eind Victini|Japanese|Japan|50|April 16 to August 31, 2011|link=List of local Japanese event Pokémon distributions in Generation V#Eind Victini}}
+{{eventAvail|{{gameabbrev5|BW}}|Movie 14 Victini|English|Wi-Fi|50|December 3, 2011 to January 14, 2012;<br>June 12 to 26, 2012|link=List of Wi-Fi English event Pokémon distributions in Generation V#Movie 14 Victini}}
+{{eventAvail|{{gameabbrev5|BW}}|Eind Victini|Korean|South Korea|50|December 22, 2011 to January 8, 2012|link=List of local Korean event Pokémon distributions in Generation V#Eind Victini}}
+{{eventAvail|{{gameabbrev5|BW}}|Movie 14 Victini|German|Wi-Fi|50|April 10 to 30, 2012|link=List of Wi-Fi German event Pokémon distributions in Generation V#Movie 14 Victini}}
+{{eventAvail|{{gameabbrev5|BW}}|Movie 14 Victini|Italian|Wi-Fi|50|April 10 to 30, 2012|link=List of Wi-Fi Italian event Pokémon distributions in Generation V#Movie 14 Victini}}
+{{eventAvail|{{gameabbrev5|BW}}|Movie 14 Victini|Spanish|Wi-Fi|50|April 10 to 30, 2012|link=List of Wi-Fi Spanish event Pokémon distributions in Generation V#Movie 14 Victini}}
+{{eventAvail|{{gameabbrev5|BW}}|Movie 14 Victini|French|Wi-Fi|50|June 1 to 30, 2012|link=List of Wi-Fi French event Pokémon distributions in Generation V#Movie 14 Victini}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Center Tohoku Victini|Japanese|Japan|100|November 25, 2012 to January 6, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Pokémon Center Tohoku Victini}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Scrap Victini|Japanese region|Online|15|December 1, 2014 to May 15, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Victini}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon 20th Anniversary Victini|American region|Online|100|September 1 to 24, 2016|link=List of American region Nintendo Network event Pokémon distributions in Generation VI#Victini}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon 20th Anniversary Victini|PAL region|Online|100|September 1 to 24, 2016|link=List of PAL region Nintendo Network event Pokémon distributions in Generation VI#Victini}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|New Adventure Victini|Korean region|Online|15|October 1 to November 30, 2016|link=List of Korean region serial code event Pokémon distributions in Generation VI#New Adventure Victini}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Center Tohoku Victini|All|Japan|15|June 30 to September 3, 2017|link=List of local event Pokémon distributions in Generation VII#Pokémon Center Tohoku Victini}}
+|}
+
+===Held items===
+{{HeldItems|type=Psychic|type2=Fire
+|event1=Fire Gem|event1type=Gem|event1rar=100
+|event2=Soothe Bell|event2type=None|event2rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Psychic
+|type2=Fire
+|HP=100
+|Attack=100
+|Defense=100
+|SpAtk=100
+|SpDef=100
+|Speed=100}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|type2=Fire
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=200
+|Rock=200
+|Bug=100
+|Ghost=200
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=50
+|Electric=100
+|Psychic=50
+|Ice=50
+|Dragon=100
+|Dark=200
+|Fairy=50
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Victini|Psychic|Fire|5}}
+{{learnlist/level7|1|Searing Shot|Fire|Special|100|100|5||'''}}
+{{learnlist/level7|1|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|1|Incinerate|Fire|Special|60|100|15||'''}}
+{{learnlist/level7|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|9|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|17|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|25|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/level7|33|Reversal|Fighting|Physical|&mdash;|100|15}}
+{{learnlist/level7|41|Flame Burst|Fire|Special|70|100|15||'''}}
+{{learnlist/level7|49|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/level7|57|Inferno|Fire|Special|100|50|5||'''}}
+{{learnlist/level7|65|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|73|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/level7|81|Final Gambit|Fighting|Special|&mdash;|100|5}}
+{{learnlist/level7|89|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/level7|97|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/levelf/7|Victini|Psychic|Fire|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Victini|Psychic|Fire|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Victini|Psychic|Fire|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Victini|Psychic|Fire|5}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Victini|Psychic|Fire|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Victini|Psychic|Fire|5}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Victini|Psychic|Fire|5}}
+
+====By {{pkmn2|event}}s====
+{{learnlist/eventh/7|Victini|Psychic|Fire|5}}
+{{learnlist/event7|{{DL|List of local event Pokémon distributions in Generation VII|Pokémon Center Tohoku Victini}}|V-create|Fire|Physical|180|95|5||'''}}
+{{learnlist/event7|{{DL|List of local event Pokémon distributions in Generation VII|Pokémon Center Tohoku Victini}}|Celebrate|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/eventf/7|Victini|Psychic|Fire|5}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fire color light}}; border: 3px solid #{{tcg fire color}}"
+|-
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Me First}}
+| [[Victini (Roaring Skies 13)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Psychic|type2=Fire}}
+{{Spindata/RumbleBlast|col=6|type=Psychic
+|att=3
+|def=4
+|speed=4
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Psychic|ndex=494
+|strong=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]]
+|weak=[[File:Snivy icon.png|link=Snivy (Pokémon)]][[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad={{p|Tepig}}'s childhood friend. While he is worried about the cowardly Tepig, he's on Tepig's side and always cheers him on.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=494
+|power=3
+|skill=Power of Six
+|skilldesc=Increases the damage dealt by matching six Pokémon.
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=494|num=245
+|min=80
+|max=145
+|raisemaxlevel=20
+|skill=Hitting Streak
+|skilldesc=Increases damage when it is triggered in a row.
+|swapper=Last-Ditch Effort
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Psychic
+|type2=Fire
+|pictype=art
+|no1=494
+|name1=Victini
+|type1-1=Psychic
+|type2-1=Fire
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic|type2=Fire}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=494}}
+{{Spritebox/6|ndex=494}}
+{{Spritebox/7|ndex=494}}
+{{Spritebox/Footer|494|Victini}}
+
+==Trivia==
+* Victini was first shown in a preview for the [[M14|14th Pokémon movie]] at the end of ''[[M13|Zoroark: Master of Illusions]]''.
+* Victini's [[List of Pokémon by Unova Pokédex number|Unova Pokédex]] number is 000, making it the only Pokémon to legitimately have the number 000 in any Pokédex listing.
+** Victini is the only Pokémon to be listed before the [[starter Pokémon]] of its native region.
+** Consequently, Victini is the only Mythical Pokémon of a later generation to appear next to Mythical Pokémon of an earlier generation in the National Pokédex.
+* According to an {{wp|IGN}} interview, Victini is [[Junichi Masuda]]'s favorite Generation V Pokémon.<ref>http://ds.ign.com/articles/115/1150433p1.html</ref>
+* Victini was designed by [[Mana Ibe]] and it was meant to appeal more to girls than to boys.<ref>http://www.eurogamer.net/articles/2011-02-22-the-brains-behind-pokemon-black-and-white-interview?page=2</ref>
+* In {{2v2|Black|White|2}}, if Victini is taken to [[Liberty Garden]], it will come out of its Poké Ball and dance around happily.
+
+===Origin===
+Victini's appearance seems to be based on うさぎリンゴ ''usagi-ringo'', a method of cutting apple slices to make them look similar to rabbits. Conceptually, it might draw inspiration from {{wp|Nike (mythology)|Nike}}, the Greek, winged goddess of victory, or {{wp|Victoria (mythology)|Victoria}}, the Roman equivalent of Nike. Its tail wings may be a reference to Nike's wings.
+
+Its theme of "V" could be linked to it being somewhat of the fifth Generation's mascot, "V" being the Roman numeral for 5. "V" could also derive from {{wp|V sign#The V for Victory campaign and the victory-freedom sign|the initial for victory}}.
+
+====Name origin====
+Victini may be a combination of ''victory'' and ''destiny'', ''teeny'', or ''tiny''.
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Fire
+|ja=ビクティニ ''Victini''|jameaning=From a combination of ''victory'' and ''destiny'', ''teeny'', or ''tiny''.
+|de=Victini|demeaning=Same as English/Japanese name
+|fr=Victini|frmeaning=Same as English/Japanese name
+|es=Victini|esmeaning=Same as English/Japanese name
+|it=Victini|itmeaning=Same as English/Japanese name
+|ko=비크티니 ''Victini''|komeaning=Transliteration of Japanese name
+|zh_cmn=比克提尼 ''Bǐkètíní''|zh_cmnmeaning=Transliteration of Japanese name
+|el=Βικτίνη ''Viktíni''|elmeaning=Same as English name
+|hi=भीक्टीनि ''Victini''|himeaning=Transliteration of English name
+|ru=Виктини ''Viktini''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Victini (M14)]]
+* [[Victini (Gates to Infinity)]]
+
+==Notes==
+<references/>
+
+==External links==
+* {{wp|Victini|Article on Wikipedia}}
+
+{{-}}
+{{EventExclusive}}<br>
+{{Legendary Pokémon}}<br>
+{{Smash Bros.}}<br>
+{{PokémonPrevNext/Head|type=Psychic|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=493|prev=Arceus|nextnum=495|next=Snivy}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Mythical Pokémon]]
+[[Category:Promotion-only Pokémon]]
+
+[[de:Victini]]
+[[fr:Victini]]
+[[it:Victini]]
+[[ja:ビクティニ]]
+[[pl:Victini]]
+[[zh:比克提尼]]

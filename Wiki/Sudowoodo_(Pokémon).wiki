@@ -1,0 +1,595 @@
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/GO|species=Sudowoodo}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=184|prev=Azumarill|nextnum=186|next=Politoed|round=none}}
+{{PokémonPrevNext/Disambig|species=Sudowoodo}}
+|}
+{{Pokémon Infobox
+|name=Sudowoodo
+|jname=ウソッキー
+|jtranslit=Usokkī
+|tmname=Usokkie
+|ndex=185
+|oldjdex=106
+|jdex=107
+|sdex=093
+|kdex=130
+|karea=Mountain
+|adex=031
+|abrow=031
+|obrow=099
+|opbrow=025
+|typebox=1
+|type1=Rock
+|category=Imitation
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=83.8
+|weight-kg=38.0
+|abilityn=d
+|ability1=Sturdy
+|ability2=Rock Head
+|abilityd=Rattled
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evtotal=2
+|evde=2
+|expyield=144
+|oldexp=135
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=65
+|body=12
+|pokefordex=sudowoodo
+|generation=2
+|friendship=70
+}}
+'''Sudowoodo''' ([[List of Japanese Pokémon names|Japanese]]: '''ウソッキー''' ''Usokkie'') is a {{type|Rock}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolve]]s from {{p|Bonsly}} when [[level]]ed up while knowing {{m|Mimic}}.
+
+In [[Generation II]], its [[Pokémon HeartGold and SoulSilver Versions|remakes]] and {{game|Emerald}}, wild Sudowoodo can be found blocking the road in inconvenient locations in [[Johto]] and [[Hoenn]]. In order to catch one, a Trainer must first alert it by squirting it with water from either a {{DL|Watering can|SquirtBottle}} or {{DL|Watering can|Wailmer Pail}}.
+
+==Biology==
+Sudowoodo has a brown, log-shaped body with yellow spots. It has short legs with toeless feet and thin forelegs with three green spheres at the ends. It has a forked "branch" on top of its head, which is shorter on the female than on the male. Despite its appearance, Sudowoodo's composition is closer to a rock than a plant.
+
+Sudowoodo disguises itself as a tree and stands along paths to avoid being attacked. Its camouflage fails in the winter, as its forelegs remain green unlike real trees. Sudowoodo is very weak to water and hates it, so it flees when it starts to rain. Because it holds its position for so long, its arms have become supple yet strong. It is popular with the elderly, with available magazines and fans devoted to its arm angle and length. Sudowoodo can be found living {{DL|List of Pokémon by habitat|in forests}}.
+
+==In the anime==
+[[File:Brock Sudowoodo.png|thumb|left|250px|Sudowoodo in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Brock's Sudowoodo]]====
+{{an|Brock}}'s Bonsly evolved into Sudowoodo in ''[[DP014|Leave It To Brocko!]]''. Although needy and easily distressed as a Bonsly, as a Sudowoodo it proved a strong and reliable partner.
+
+====Other====
+Sudowoodo debuted in ''[[EP162|Type Casting]]''. Two Pokémon researchers argued over the issue of whether Sudowoodo is a {{t|Grass}}- or {{type|Rock}}.
+
+A Sudowoodo was pretending to be part of a tree in ''[[PK11|Camp Pikachu]]''.
+
+A [[List of alternately colored Pokémon in the anime#Sudowoodo|golden Sudowoodo]] appeared in ''[[AG173|All That Glitters is Not Golden]]''. A boy named [[Keenan]] experimented on his Sudowoodo to give it a resistance against the {{t|Water}} type making it turn golden in color. The Sudowoodo, however, was unhappy with the change, and was reverted to its previous type and coloration.
+
+A Sudowoodo appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''.
+
+A Sudowoodo will appear in [[M21]], under the ownership of Kagachi.
+
+===Minor appearances===
+A Sudowoodo appeared in ''[[AG011|A Bite to Remember]]''.
+
+A Sudowoodo appeared in ''[[XY038|Forging Forest Friendships!]]'', where {{TRT}} had captured it and a [[Bonsly]] in a net, but they were freed by Ash when a [[Trevenant]] asked for his help.
+
+A Sudowoodo appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+A {{pkmn|Trainer}}'s appeared in ''[[SM004|First Catch in Alola, Ketchum-Style!]]''.
+
+Two Trainers' Sudowoodo appeared in ''[[SM006|A Shocking Grocery Run!]]''.
+
+A Sudowoodo appeared in ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', where it was among the Pokémon playing in {{an|Lillie}}'s garden.
+
+A Trainer's Sudowoodo appeared in ''[[SM013|Racing to a Big Event!]]'', where it participated in the Pancake Race.
+
+Two Sudowoodo appeared in ''[[SM015|Rocking Clawmark Hill!]]'', as some of the Pokémon training up on [[Clawmark Hill]].
+
+A Trainer's Sudowoodo appeared in ''[[SM023|Getting the Band Back Together!]]''.
+
+A Sudowoodo appeared during a fantasy in ''[[SM046|Deceiving Appearances!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP162|Sudowoodo|Ash's Pokédex|Sudowoodo, the Imitation Pokémon. This rare Pokémon hides in trees to avoid capture.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+{{Animedexheader|Emerald}}
+{{Animedexbody|AG173|Sudowoodo|Ash's Pokédex|Sudowoodo, the Imitation Pokémon. Although it camouflages itself as a tree in order to avoid being attacked, its body is actually more like a rock than like a plant. It hates water and disappears whenever it rains.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Emerald}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP014|Sudowoodo|Dawn's Pokédex|Sudowoodo, the Imitation Pokémon. Disguised as a tree, it's the evolved form of {{p|Bonsly}}.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+===In the Pokémon Adventures manga===
+[[File:Emerald Sudowoodo.png|thumb|200px|Sudowoodo in [[Pokémon Adventures]]]]
+{{main|Emerald's Sudowoodo}}
+In ''[[PS105|Smeargle Smudge]]'', a Sudowoodo disguises himself as a tree in the middle of {{rt|37|Johto}}, hiding from a {{p|Rhydon}}. In ''[[PS106|How Do You Do, Sudowoodo]]'' he revealed himself to {{adv|Gold}} after being hit with [[Polibo]]'s {{m|Water Gun}}. Gold convinced Sudowoodo not to run away from his problems, and Sudowoodo went on to defeat Rhydon in hand-to-hand combat. He soon joined Gold's team with the nickname Sudobo and participated in his friendly match against Silver, and later the [[Masked Man]].
+
+A Sudowoodo that is captured by {{adv|Emerald}} first appeared in ''[[PS303|Never Spritz a Knotty Sudowoodo]]''. [[Todd Snap|The Reporter]] speculates that Sudowoodo is female due to her motherly nature towards Emerald. At the end of the {{chap|Emerald}}, she appeared to have developed a romantic relationship with Sudobo.
+
+In ''[[PS442|Out-Odding Oddish]]'', a Sudowoodo appeared in the [[Pokéathlon]].
+
+A Sudowoodo appears with its Trainer at the Mini-game Corner in the {{chap|X & Y}}.
+
+===In the Magical Pokémon Journey manga===
+In ''[[PPP45|Pikachu and Clefairy's Heroic Tales]]'', {{MPJ|Pikachu}} and {{MPJ|Clefairy}} battle a Prince Sudowoodo of the Stone Kingdom because he has ordered his underlings to kidnap {{p|Bellossom|Princess Bellossom}} of the Flower Kingdom, as he intends to marry her. At the end, Bellossom agrees to become friends with him, but not to marry him right away.
+
+===In the Pokémon Gold & Silver: The Golden Boys manga===
+[[File:Gold Sudowoodo Golden Boys.png|thumb|200px|left|Sudowoodo in [[Golden Boys]]]]
+In [[Pokémon Gold & Silver: The Golden Boys]], {{GnB|Gold}} and [[Whitney]] battle a giant Sudowoodo which is blocking {{rt|36|Johto}} in ''[[GB10|A Huge Mysterious Tree!!]]''. After defeating it in battle, Gold captures it, and it becomes one of his party members.
+
+===In the Pokémon Pocket Monsters manga===
+A Sudowoodo first appeared in ''[[PM087|Sudowoodo's Toll Charges]]'' where it was blocking the way of {{OBP|Red|Pocket Monsters}} and his Pokémon while they were crossing a bridge. With the help of {{TP|Red|Clefairy}}, Sudowoodo was able to get its act together until the bridge that it was standing on earlier collapsed which caused it to walk away sadly.
+
+Later, [[Professor Elm]] was shown to have one in ''[[PMHGSS01|Participate in the Pokéathlon]]''.
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS106]]|Its forte is disguising itself as a tree. However, it will reveal its real identity if splashed with water or drenched by rain.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Sudowoodo (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Melee]]===
+Sudowoodo is a Poké Float. After {{p|Wooper}} first appears, it will move down the right of the screen while Sudowoodo is on the left. Unlike most of the Poké Floats, players are not required to ever go on Sudowoodo. A trophy of Sudowoodo can be obtained after playing on the Poké Floats stage.
+
+====Trophy information====
+''An imitation {{OBP|Pokémon|species}} with an aversion to battle, Sudowoodo always poses as a tree in order to avoid being attacked. Despite their arboreal appearance, these Pokémon are actually Rock-types, and therefore highly vulnerable to water. When it begins to rain, they vanish. A Sudowoodo can be found blocking {{rt|36|Johto}} in [[Johto]].''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.}}
+{{Dex/Entry1|v=Silver|entry=It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.}}
+{{Dex/Entry1|v=Crystal|entry=If a tree branch shakes when there is no wind, it's a Sudowoodo, not a tree. It hides from the rain.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the Pokémon is easily identified as a fake during the winter.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It mimics a tree to avoid being attacked by enemies. But since its forelegs remain green throughout the year, it is easily identified as a fake in the winter.}}
+{{Dex/Entry1|v=FireRed|entry=It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.}}
+{{Dex/Entry1|v=LeafGreen|entry=Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.}}
+{{Dex/Entry1|v=Pearl|entry=It stands along paths pretending to be a tree. If it starts raining, it seems to disappear.}}
+{{Dex/Entry1|v=Platinum|entry=To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.}}
+{{Dex/Entry1|v=HeartGold|entry=Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.}}
+{{Dex/Entry1|v=SoulSilver|entry=It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.}}
+{{Dex/Entry1|v=Y|entry=It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pokémon is easily identified as a fake during the winter.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=To avoid attack, it mimics a tree. It will run off if splashed with water, which it hates.}}
+{{Dex/Entry1|v=Moon|entry=Apparently, the larger the green parts of this Pokémon, the more collectors value it. It's a particular favorite among elderly people.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It's so popular with the elderly that there's a magazine devoted to this Pokémon. Fans obsess over the particular length and angle of its arms.}}
+{{Dex/Entry1|v=Ultra Moon|entry=The result of its holding the same pose all the time is arms that have become supple yet strong.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{rt|36|Johto}} (only one)}}
+{{Availability/Entry1|v=Crystal|area={{rt|36|Johto}} (only one)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{Ho|Battle Frontier}} (only one)}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1|v=Colosseum|area=[[Pyrite Cave]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|v=Diamond|area=[[Evolution|Evolve]] {{p|Bonsly}}}}
+{{Availability/Entry1|v=Pearl|area=[[Route]]s {{rtn|214|Sinnoh}} and {{rtn|221|Sinnoh}}}}
+{{Availability/Entry1|v=Platinum|area={{rt|221|Sinnoh}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|36|Johto}} (only one){{tt|*|Respawns after beating the Elite Four}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry1|v=Black 2|t=fff|area={{rt|20|Unova}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1/None|v=White 2}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|20|Kalos}} ([[Horde Encounter|Mixed Horde]] with {{p|Trevenant}})}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|1|Alola}} and {{rtn|5|Alola}}, [[Lush Jungle]] ([[SOS Battle]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]]s {{rtn|1|Alola}} and {{rtn|5|Alola}}, [[Lush Jungle]] ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Mt. Snowfall]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 4]], Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Sinister Woods]] (1F-4F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Shimmer Desert]] (2F-9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Shimmer Desert]] (2F-9F)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Chroma Road]], [[Haruba Village]]}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Meadow Zone]], [[Cavern Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Sophian Road]], [[Forest Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Autumnwood: [[Volcanic Slope]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{Grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]], [[Verdant Plaza#Green Hide-and-Seek|Verdant Plaza: Green Hide-and-Seek]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 3|Safari Jungle: Stage 3]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Silbern Museum|Silbern Museum: Stage 93]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Thorny Heath|Diamond Crater: Thorny Heath]] <small>(All Areas)</small>, [[Fairy Land#Guardian's Peak|Fairy Land: Guardian's Peak]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 25|Area 25: Stage 11]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Rock}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Substitute Sudowoodo|English|United States|5|February 21 to 27, 2003|link=List of Gotta Catch 'Em All event Pokémon#Substitute Sudowoodo}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Rock
+|colo1=Hard Stone|colo1type=None|colo1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|HP=      70
+|Attack= 100
+|Defense=115
+|SpAtk=   30
+|SpDef=   65
+|Speed=   30 }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Rock
+|Speed=2
+|SpeedMax=2
+|Power=3
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|Normal=   50
+|Fighting=200
+|Flying=   50
+|Poison=   50
+|Ground=  200
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=   200
+|Fire=     50
+|Water=   200
+|Grass=   200
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Sudowoodo|Rock|Rock|2}}
+{{learnlist/level7|1|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level7|1|Wood Hammer|Grass|Physical|120|100|15}}
+{{learnlist/level7|1|Copycat|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|1|Low Kick|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/level7|1|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level7|5|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|8|Low Kick|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/level7|12|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level7|15|Mimic|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|19|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/level7|22|Tearful Look|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|26|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/level7|29|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|33|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level7|36|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/level7|40|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level7|43|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|47|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level7|50|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/level7|54|Head Smash|Rock|Physical|150|80|5||'''}}
+{{learnlist/levelf/7|Sudowoodo|Rock|Rock|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Sudowoodo|Rock|Rock|2}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Sudowoodo|Rock|Rock|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Sudowoodo|Rock|Rock|2}}
+{{learnlist/breed7|{{MSP|095|Onix}}{{MSP|208|Steelix}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|075|Graveler}}{{MSP|075A|Graveler}}{{MSP|076|Golem}}{{MSP|076A|Golem}}|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|299|Nosepass}}{{MSP|557|Dwebble}}{{MSP|562|Yamask}}|Endure|Normal|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|095|Onix}}{{MSP|208|Steelix}}{{MSP|299|Nosepass}}{{MSP|524|Roggenrola}}{{MSP|525|Boldore}}{{MSP|526|Gigalith}}<br>{{MSP|582|Vanillite}}{{MSP|583|Vanillish}}{{MSP|584|Vanilluxe}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Harden|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|361|Snorunt}}{{MSP|362|Glalie}}{{MSP|524|Roggenrola}}{{MSP|525|Boldore}}{{MSP|526|Gigalith}}|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|075|Graveler}}{{MSP|075A|Graveler}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Rollout|Rock|Physical|30|90|20||'''}}
+{{learnlist/breed7|{{MSP|095|Onix}}|Sand Tomb|Ground|Physical|35|85|15}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|075|Graveler}}{{MSP|075A|Graveler}}{{MSP|076|Golem}}{{MSP|076A|Golem}}<br>{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|075|Graveler}}{{MSP|075A|Graveler}}{{MSP|076|Golem}}{{MSP|076A|Golem}}<br>{{MSP|095|Onix}}{{MSP|208|Steelix}}{{MSP|524|Roggenrola}}{{MSP|525|Boldore}}{{MSP|526|Gigalith}}{{MSP|557|Dwebble}}<br>{{MSP|558|Crustle}}|Stealth Rock|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/breedf/7|Sudowoodo|Rock|Rock|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Sudowoodo|Rock|Rock|2}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutorf/7|Sudowoodo|Rock|Rock|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Sudowoodo|Rock|Rock|4}}
+{{learnlist/prevo7|438|Bonsly|||||Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/prevof/7|Sudowoodo|Rock|Rock|4}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background:#{{tcg fighting color light}}; border:3px solid #{{tcg fighting color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Karate Chop}}
+| style="background:#fff; {{roundybr|5px}}" | [[Sudowoodo (EX Unseen Forces 15)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Rock}}
+{{Spindata/Trozei|col=6|type=Rock|ndex=185|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Rock|ndex=185
+|body=1
+|rate=10.4
+|area=Overgrown Forest
+|P1=I'm not a liar. I'm just a very good mimic!
+|P2=Oh, oh, oh? I have only half my HP left.
+|P3=It's over... I don't have the energy to mimic anyone.
+|PL=I leveled up! And that's no lie!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Rock|ndex=185
+|body=1
+|rate=0.5
+|IQ=E
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Rock
+|group=Rock
+|assist=Rock
+|field=Crush
+|fieldpower=2
+|browser=It attacks by dropping rocks every so often.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Rock
+|group=Rock
+|assist=Rock
+|field=Crush
+|fieldpower=2
+|browser=It triggers rockfalls around itself that make Pokémon Tired.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Rock
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Rock|ndex=185
+|Pad=Sudowoodo hone their Hide-and-Seek skills in the [[Meadow Zone]] or [[Cavern Zone]]! Their favorite Attraction is {{DL|Attractions|Bastiodon's Block Barrage}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Rock|ndex=185
+|pad=He is good hearted and serious. But he really wants to pretend to be a tree and surprise everyone.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Rock|ndex=185
+|power=2
+}}
+{{Spindata/Shuffle|col=6|type=Rock|ndex=185|num=022
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Opportunist
+|skilldesc=Rarely increases damage.
+|swapper=Flash Mob
+}}
+|-
+{{Spindata/GO|col=6|type=Rock|ndex=185
+|egg=10
+|buddy=5
+|evolution=N/A
+|stamina=140
+|attack=167
+|defense=198
+|fast={{m|Rock Throw}}, {{m|Counter}}
+|special={{m|Stone Edge}}, {{m|Earthquake}}, {{m|Rock Slide}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Rock
+|pictype=art
+|no1=438
+|name1=Bonsly
+|type1-1=Rock
+|breed={{bag|Rock Incense}}<br>{{color2|000|Pokémon breeding|Breed}}<br>holding {{color2|000|Rock Incense}}
+|evo1={{bag|TM Normal VI}}<br>{{color2|000|Level|Level up}}<br>knowing {{color2|000|Mimic (move)|Mimic}}
+|no2=185
+|name2=Sudowoodo
+|type1-2=Rock}}
+
+===Sprites===
+{{Spritebox/Header|type=rock}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=185}}
+{{Spritebox/3|ndex=185}}
+{{Spritebox/4/Gender|ndex=185}}
+{{Spritebox/5/Gender|ndex=185}}
+{{Spritebox/6/Gender|ndex=185}}
+{{Spritebox/7/Gender|ndex=185}}
+{{Spritebox/Footer|185|Sudowoodo}}
+
+==Trivia==
+* Sudowoodo was created by [[Ken Sugimori]].<ref>http://www.nintendo.co.jp/nom/0007/gfreak/page06.html</ref>
+* Sudowoodo has the same height as [[Lanturn]] (3'11"), and its {{p|Bonsly|pre-evolution}} also has the same height as Lanturn's {{p|Chinchou|pre-evolution}} (1'08").
+* In [[Generation II]], only one Sudowoodo appears (from being sprayed with water from a {{DL|Watering can|SquirtBottle}}). Similarly, in [[Generation III]], only one Sudowoodo appears—this time as the result of a spray from the {{DL|Watering can|Wailmer Pail}}. However, in [[Generation IV]], the {{player}} can get multiple Sudowoodo by evolving {{p|Bonsly}} or by catching it in grass.
+* Sudowoodo's habit of disguising itself as a tree has been occasionally shown in the games.
+** In the Pokémon Mystery Dungeon series, Sudowoodo stand still in dungeons, in a similar manner to the Sudowoodo in [[Johto]].
+** In {{g|X and Y}}, a Sudowoodo can be encountered in a [[Horde Encounter]] with four {{p|Trevenant}}.
+** Starting in [[Generation VI]], Sudowoodo stand still when idle.
+* In {{game|Diamond and Pearl|s}}, Sudowoodo, along with {{p|Skuntank}}, {{p|Togekiss}}, {{p|Fearow}} and {{p|Yanma}}, weighs as much as {{ga|Lucas}}.
+
+===Origin===
+Sudowoodo is based on {{wp|petrified wood}}, plants which have become fossilized over time.
+
+====Name origin====
+Sudowoodo is a combination of ''pseudo'' (prefix meaning false) and ''wood''.
+
+Usokkie may be a combination of 嘘 ''uso'' (false) and 木 ''ki'' (''wood'' or ''tree''). It could also derive from 嘘つき ''usotsuki'' (liar).
+
+==In other languages==
+{{Other languages|type=rock|type2=rock
+|ja=ウソッキー ''Usokkie''|jameaning=From 嘘 ''uso'' (false), 木 ki (wood or tree) and 嘘つき ''usotsuki'' (liar)
+|fr=Simularbre|frmeaning=From ''{{tt|simuler|simulate}}'' and ''{{tt|arbre|tree}}''
+|es=Sudowoodo|esmeaning=Same as English name
+|de=Mogelbaum|demeaning=From ''{{tt|mogeln|to cheat}}'' and ''{{tt|Baum|tree}}''
+|it=Sudowoodo|itmeaning=Same as English name
+|ko=꼬지모 ''Kkojimo''|komeaning=From {{tt|거짓 ''keojit''|lie, falsehood}} (which 꼬지 ''kkoji'' is a variation of) and {{tt|목(木) ''mok''|tree}}.
+|zh_cmn=胡說樹 / 胡说树 ''Húshuōshù''|zh_cmnmeaning=Literally "Driveling tree"
+|zh_yue=鬍說樹 ''Wùhseuisyuh''|zh_yuemeaning=Same meaning as 胡說樹, but with 胡 written as {{tt|鬍 ''wù''|beard}}
+|hi=सूडोवूडो ''Sudowoodo''|himeaning=Transcription of English name
+|ru=Судовудо ''Sudovudo''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Brock's Sudowoodo]]
+* [[Emerald's Sudowoodo]]
+
+==Notes==
+<references/>
+
+==External links==
+*{{wp|Sudowoodo|Article on Wikipedia}}
+
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=184|prev=Azumarill|nextnum=186|next=Politoed}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+[[Category:Pokémon with cross-generational evolutions]]
+
+[[de:Mogelbaum]]
+[[fr:Simularbre]]
+[[it:Sudowoodo]]
+[[ja:ウソッキー]]
+[[pl:Sudowoodo]]
+[[zh:树才怪]]

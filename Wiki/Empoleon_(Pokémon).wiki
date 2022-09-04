@@ -1,0 +1,484 @@
+{{PokémonPrevNext/Head|type=Water|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=394|prev=Prinplup|nextnum=396|next=Starly|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Empoleon}}
+|}
+{{Pokémon Infobox
+|name=Empoleon
+|jname=エンペルト
+|jtranslit=Enperuto
+|tmname=Emperte
+|ndex=395
+|sdex=009
+|abrow=208
+|obrow=085
+|opbrow=003
+|typebox=1
+|type1=Water
+|type2=Steel
+|category=Emperor
+|height-ftin=5'07"
+|height-m=1.7
+|weight-lbs=186.3
+|weight-kg=84.5
+|abilityn=d
+|ability1=Torrent
+|abilityd=Defiant
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Field
+|eggcycles=20
+|evtotal=3
+|evsa=3
+|expyield=239
+|oldexp=210
+|lv100exp=1,059,860
+|gendercode=31
+|color=Blue
+|catchrate=45
+|body=06
+|pokefordex=empoleon
+|generation=4
+|friendship=70
+}}
+'''Empoleon''' ([[List of Japanese Pokémon names|Japanese]]: '''エンペルト''' ''Emperte'') is a dual-type {{2t|Water|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Prinplup}} starting at [[level]] 36. It is the final form of {{p|Piplup}}.
+
+==Biology==
+Empoleon is a large, navy blue, penguin-like Pokémon. It has a wide, yellow beak with three pointed horns that form a trident-shaped crest and small, blue eyes. Large horns are a symbol of leadership and strength for Empoleon. There is a blue marking resembling a crown over its eyes and a white, lacy marking running down its chest. A blue, fin-like projection forms a collar around its throat and runs down the length of its chest and belly. On its back are two raised, gold bumps and a second blue fin that forms its tail. It was wide, flipper-like wings rimmed with blue along the tips and three golden claws. The edges of these wings can slice through ice floes, and this Pokémon will use them to attack anyone or anything that damages its pride. Its yellow feet are webbed with three toes each.
+
+==In the anime==
+[[File:Barry Empoleon.png|thumb|left|250px|Empoleon in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Barry's Empoleon]]====
+Empoleon made its main series debut in ''[[DP101|Barry's Busting Out All Over!]]'', under the ownership of {{an|Barry}}.
+
+====[[Kenny's Empoleon]]====
+{{si|Kenny}}'s {{p|Prinplup}} was revealed to have evolved into Empoleon during the [[Appeal|Performance Stage]] of the [[Sinnoh Grand Festival]] in ''[[DP174|Last Call — First Round!]]''.
+
+====Other====
+Empoleon debuted in ''[[M10|The Rise of Darkrai]]'', under the ownership of a {{pkmn|Coordinator}} named {{OBP|Kai|M10}}. It was used in battle against [[Dawn's Piplup]], and also tried to stop {{OBP|Darkrai|M10}} together with [[Allegra]]'s {{p|Infernape}} and [[Maury]]'s {{p|Torterra}}. It was later used in the [[Contest Battle|Battle Stage]] of the {{to|Alamos}} {{pkmn|Contest}}.
+
+===Minor appearances===
+An Empoleon appeared in ''[[DP189|The Semi-Final Frontier!]]'', under the ownership of a Trainer who went up against {{si|Tobias}} in the [[Lily of the Valley Conference]] semifinals. It battled his {{p|Darkrai}} off-screen, but as with the other five Pokémon owned by its Trainer, it was easily defeated by the Pitch-Black Pokémon.
+
+==In the manga==
+[[File:Platinum Empoleon.png|thumb|200px|Empoleon in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Platinum's Empoleon}}
+In ''[[PS359|Great Gible]]'', {{adv|Platinum}}'s Empoleon evolved in the Veilstone Department Store while her two companions and the bodyguards assigned to protect her were fighting off [[Team Galactic]]. This Empoleon then proved to be an invaluable ally in the [[Pastoria Gym]] challenge, and has continued as an integral part of her team.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+{{main|Hareta's Empoleon}}
+[[Hareta]] owns an Empoleon that evolved in ''[[DPA19|(Violent) Earthquake! Cyrus's Consuming Ambition]]'' after the effects of the [[Everstone]] [[Mitsumi]] gave it wore off, which caused Piplup to evolve straight into an Empoleon, only being Prinplup for a moment. His Empoleon was valuable in the [[Mt. Coronet]] battle and risked its life to stop [[Cyrus]].
+
+===In the Pocket Monsters Platinum: Aim to Be Battle King!! manga===
+{{OBP|Shin|PBK}} has an Empoleon which was first seen in the beginning chapter of the series.
+
+==In the TCG==
+{{main|Empoleon (TCG)}}
+
+==Other appearances==
+[[File:Pokkén Empoleon.png|200px|thumb|Empoleon in Pokkén Tournament]]
+===[[Pokkén Tournament|Pokkén Tournament DX]]===
+Empoleon is a playable character in the arcade and Nintendo Switch versions of Pokkén Tournament.
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Steel}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=The three horns that extend from its beak attest to its power. The leader has the biggest horns.}}
+{{Dex/Entry1|v=Pearl|entry=It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.}}
+{{Dex/Entry1|v=Platinum|entry=If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It avoids unnecessary disputes, but it will decimate anything that threatens its pride.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.}}
+{{Dex/Entry1|v=Y|entry=The three horns that extend from its beak attest to its power. The leader has the biggest horns.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=The three horns that extend from its beak attest to its power. The leader has the biggest horns.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Steel}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Prinplup}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Prinplup}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Evolution|Evolve]] from the [[List of Pokémon Global Link promotions/Pokémon#Piplup|Global Link event]] {{p|Piplup}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Evolution|Evolve]] from the [[List of Pokémon Global Link promotions/Pokémon#Piplup|Global Link event]] {{p|Piplup}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Prinplup}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Prinplup}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Steel}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Crevice Cave]] (B1-B10, Lower Crevice Cave B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Crevice Cave]] (B1-B10, Lower Crevice Cave B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Ice Lake]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]]}}
+{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=[[Evolution|Evolve]] {{p|Prinplup}}}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Iceberg Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Mt. Sorbet]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Prinplup}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#A Battle in the Tower|Variety Battle: A Battle in the Tower]], [[Variety Battle#Empoleon the Great|Variety Battle: Empoleon the Great]] <small>(Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 5|Mysterious Fountain: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 660]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Quiet Inlet|Dewdrop Bay: Quiet Inlet]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 22|Area 22: Stage 06]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Water|type2=Steel}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Center 15th Anniversary Empoleon|Japanese|Japan|100|May 15 to 21, 2013;<br>July 3 to 7, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Empoleon}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Water
+|type2=Steel
+|event1=Air Balloon|event1type=In-battle effect item|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|type2=Steel
+|HP=     84
+|Attack= 86
+|Defense=88
+|SpAtk= 111
+|SpDef= 101
+|Speed=  60}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Steel
+|Speed=3
+|SpeedMax=3
+|Power=3
+|PowerMax=5
+|Technique=3
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Steel
+|Normal=   50
+|Fighting=200
+|Flying=   50
+|Poison=    0
+|Ground=  200
+|Rock=     50
+|Bug=      50
+|Ghost=   100
+|Steel=    25
+|Fire=    100
+|Water=    50
+|Grass=   100
+|Electric=200
+|Psychic=  50
+|Ice=      25
+|Dragon=   50
+|Dark=    100
+|Fairy=    50
+|notes=yes
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Empoleon|Water|Steel|4}}
+{{learnlist/level7|1|Aqua Jet|Water|Physical|40|100|20||'''}}
+{{learnlist/level7|1|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Aqua Jet|Water|Physical|40|100|20||'''}}
+{{learnlist/level7|4|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|8|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/level7|11|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|15|Peck|Flying|Physical|35|100|35}}
+{{learnlist/level7|19|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level7|24|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|28|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/level7|33|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/level7|39|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/level7|46|Mist|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|52|Drill Peck|Flying|Physical|80|100|20}}
+{{learnlist/level7|59|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/7|Empoleon|Water|Steel|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Empoleon|Water|Steel|4}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25||'''}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Empoleon|Water|Steel|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Empoleon|Water|Steel|4}}
+{{learnlist/breed7|{{MSP|025|Pikachu}}{{MSP|058|Growlithe}}{{MSP|077|Ponyta}}{{MSP|078|Rapidash}}{{MSP|083|Farfetch'd}}{{MSP|116|Horsea}}<br>{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|135|Jolteon}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}<br>{{MSP|160|Feraligatr}}{{MSP|162|Furret}}{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|203|Girafarig}}{{MSP|215|Sneasel}}<br>{{MSP|226|Mantine}}{{MSP|278|Wingull}}{{MSP|283|Surskit}}{{MSP|368|Gorebyss}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}<br>{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|570|Zorua}}{{MSP|571|Zoroark}}<br>{{MSP|587|Emolga}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|134|Vaporeon}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|222|Corsola}}<br>{{MSP|226|Mantine}}{{MSP|350|Milotic}}{{MSP|368|Gorebyss}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}<br>{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Aqua Ring|Water|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|027A|Sandshrew}}{{MSP|258|Mudkip}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|273|Seedot}}{{MSP|393|Piplup}}<br>{{MSP|394|Prinplup}}{{MSP|417|Pachirisu}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}<br>{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|618|Stunfisk}}{{MSP|771|Pyukumuku}}|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|203|Girafarig}}{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}{{MSP|418|Buizel}}<br>{{MSP|419|Floatzel}}{{MSP|473|Mamoswine}}|Double Hit|Normal|Physical|35|90|10}}
+{{learnlist/breed7|{{MSP|580|Ducklett}}{{MSP|581|Swanna}}|Feather Dance|Flying|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|222|Corsola}}<br>{{MSP|231|Phanpy}}{{MSP|263|Zigzagoon}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|324|Torkoal}}{{MSP|327|Spinda}}<br>{{MSP|349|Feebas}}{{MSP|369|Relicanth}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|613|Cubchoo}}<br>{{MSP|614|Beartic}}{{MSP|618|Stunfisk}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}<br>{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|775|Komala}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|060|Poliwag}}<br>{{MSP|061|Poliwhirl}}{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|131|Lapras}}{{MSP|138|Omanyte}}<br>{{MSP|139|Omastar}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}<br>{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|226|Mantine}}{{MSP|258|Mudkip}}{{MSP|271|Lombre}}{{MSP|279|Pelipper}}<br>{{MSP|350|Milotic}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}{{MSP|369|Relicanth}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}<br>{{MSP|395|Empoleon}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}<br>{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|594|Alomomola}}{{MSP|656|Froakie}}{{MSP|657|Frogadier}}{{MSP|658|Greninja}}<br>{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/breed7|{{MSP|037A|Vulpix}}{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|215|Sneasel}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}<br>{{MSP|461|Weavile}}{{MSP|471|Glaceon}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}<br>{{MSP|730|Primarina}}|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/breed7|{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}<br>{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|258|Mudkip}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|422|Shellos}}<br>{{MSP|423|Gastrodon}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}<br>{{MSP|618|Stunfisk}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|258|Mudkip}}{{MSP|263|Zigzagoon}}<br>{{MSP|264|Linoone}}{{MSP|369|Relicanth}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}{{MSP|473|Mamoswine}}{{MSP|529|Drilbur}}<br>{{MSP|530|Excadrill}}{{MSP|618|Stunfisk}}{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}{{MSP|771|Pyukumuku}}|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|553|Krookodile}}|Power Trip|Dark|Physical|20|100|10|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|325|Spoink}}{{MSP|326|Grumpig}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|702|Dedenne}}|Snore|Normal|Special|50|100|15}}
+{{learnlist/breed7|{{MSP|226|Mantine}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}<br>{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}|Supersonic|Normal|Status|&mdash;|55|20}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|206|Dunsparce}}<br>{{MSP|230|Kingdra}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|322|Numel}}<br>{{MSP|323|Camerupt}}{{MSP|369|Relicanth}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}<br>{{MSP|513|Pansear}}{{MSP|517|Munna}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|775|Komala}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Empoleon|Water|Steel|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Empoleon|Water|Steel|4}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Hydro Cannon|Water|Special|150|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Liquidation|Water|Physical|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pledge|Water|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Empoleon|Water|Steel|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Empoleon|Water|Steel|4}}
+{{learnlist/prevo7|393|Piplup|||||Pound|Normal|Physical|40|100|35}}
+{{learnlist/prevo7|393|Piplup||394|Prinplup||Water Sport|Water|Status|&mdash;|&mdash;|15}}
+{{learnlist/prevo7|393|Piplup||394|Prinplup||Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/prevof/7|Empoleon|Water|Steel|4}}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Steel}}
+{{Spindata/MDTDS|col=6|type=Water|ndex=395
+|body=1
+|rate=-12
+|IQ=F
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Water
+|field=River Flow
+|fieldpower=2
+|browser=It attacks by spitting {{m|BubbleBeam|bubbles}} and blobs of water.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Cut
+|fieldpower=3
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=3
+|def=4
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Water|ndex=395
+|Pad=Empoleon is a Zone Keeper protecting the [[Beach Zone]] and the [[Iceberg Zone]]. He's the Attraction Chief of {{DL|Attractions|Empoleon's Snow Slide}}. He values a strong mind!
+}}
+|-
+{{Spindata/Conquest|col=6|type=Water|ndex=395
+|HP=4
+|atk=4
+|def=4
+|spd=2
+|range=3
+|move=Hydro Pump
+|ability1=Torrent
+|ability2=Wave Rider
+|ability3=Pride
+|evo=Evolves from {{p|Prinplup}} when its Attack is 102 or higher
+|link={{DL|List of Pokémon Conquest characters|Gō}} and '''[[Ina]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=395
+|power=3
+|skill=Power of Five
+|skilldesc=Increases the damage dealt by matching five Pokémon.
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=395|num=364
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Up, Up, Up
+|skilldesc=Deals even more damage the more times in a row it is triggered.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Water
+|type2=Steel
+|pictype=art
+|no1=393
+|name1=Piplup
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 16}}
+|no2=394
+|name2=Prinplup
+|type1-2=Water
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no3=395
+|name3=Empoleon
+|type1-3=Water
+|type2-3=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Steel}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=395}}
+{{Spritebox/5|ndex=395}}
+{{Spritebox/6|ndex=395}}
+{{Spritebox/7|ndex=395}}
+{{Spritebox/Footer|395|Empoleon}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Empoleon.
+* Empoleon has ten [[type]] resistances, due to its {{t|Steel}}-type qualities, the most of any starter Pokémon.
+* Empoleon can learn seven [[HM]] moves, only excluding {{m|Fly}}, in [[Generation IV]], the most of any starter Pokémon.
+* Empoleon is roughly the same height as its namesake {{wp|Napoleon Bonaparte}}.
+
+===Origin===
+Empoleon is based on an {{wp|emperor penguin}} and an emperor in reference to its crown and royal appearance. Also, the crown has the appearance of a {{wp|trident}}, a fishing tool and supposed weapon of choice for the Greek god {{wp|Poseidon}}. It also bears some resemblance to the {{wp|royal penguin}}.
+
+====Name origin====
+Empoleon is a combination of ''emperor'' (as in ''emperor penguin''), ''pole'' (as in the South Pole), and ''{{wp|Napoleon Bonaparte|Napoleon}}'' (a famous emperor of France).
+
+Emperte is a combination of ''emperor'' and ''Bonaparte'' (Napoleon's surname).
+
+==In other languages==
+{{Other languages|type=Water|type2=Steel
+|ja=エンペルト ''Emperte''|jameaning=From ''emperor'' and ''Bonaparte''
+|fr=Pingoléon|frmeaning=From ''{{tt|pingouin|penguin}}'' and ''Napoléon''
+|es=Empoleon|esmeaning=Same as English name
+|de=Impoleon|demeaning=From ''{{tt|Imperator|emperor}}'' and ''Napoleon''
+|it=Empoleon|itmeaning=Same as English name
+|ko=엠페르트 ''Emperut''|komeaning=Transliteration of Japanese name
+|zh_cmn=帝王拿波 ''Dìwángnábō''|zh_cmnmeaning=From {{tt|帝王 ''dìwáng''|emperor}}, {{tt|帝王企鵝 ''dìwáng qì'é''|emperor penguin}}, the first characters of {{tt|拿破崙·波拿巴 ''Ná​pò​lún​ Bō​ná​bā''|Napoleon Bonaparte}}, and {{tt|波 ''bō''|wave}}
+<!--|zh_yue=帝王拿波 >''Daiwòhngnàhbō''|zh_yuemeaning=Same as Mandarin name-->
+|hi=एम्पोलीयन ''Empoleon''|himeaning=Transliteration of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Barry's Empoleon]]
+* [[Kenny's Empoleon]]
+* [[Platinum's Empoleon]]
+* [[Hareta's Empoleon]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=394|prev=Prinplup|nextnum=396|next=Starly}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Impoleon]]
+[[fr:Pingoléon]]
+[[it:Empoleon]]
+[[ja:エンペルト]]
+[[pl:Empoleon]]
+[[zh:帝王拿波]]

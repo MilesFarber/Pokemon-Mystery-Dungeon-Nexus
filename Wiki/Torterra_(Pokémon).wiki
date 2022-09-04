@@ -1,0 +1,472 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=388|prev=Grotle|nextnum=390|next=Chimchar|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Torterra}}
+|}
+{{Pokémon Infobox
+|name=Torterra
+|jname=ドダイトス
+|jtranslit=Dodaitosu
+|tmname=Dodaitose
+|ndex=389
+|sdex=003
+|abrow=054
+|obrow=141
+|typebox=1
+|type1=Grass
+|type2=Ground
+|category=Continent
+|height-ftin=7'03"
+|height-m=2.2
+|weight-lbs=683.4
+|weight-kg=310.0
+|abilityn=d
+|ability1=Overgrow
+|abilityd=Shell Armor
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=3
+|evat=2
+|evde=1
+|expyield=236
+|oldexp=208
+|lv100exp=1,059,860
+|gendercode=31
+|color=Green
+|catchrate=45
+|body=08
+|pokefordex=torterra
+|generation=4
+|friendship=70
+}}
+'''Torterra''' ([[List of Japanese Pokémon names|Japanese]]: '''ドダイトス''' ''Dodaitose'') is a dual-type {{2t|Grass|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Grotle}} starting at [[level]] 32. It is the final form of {{p|Turtwig}}.
+
+==Biology==
+Torterra is a bulky quadruped Pokémon resembling a tortoise, with a large shell covering its back. There is a single, oak-like tree and three triangular, stony extensions resembling mountain peaks on the top of the shell. There is a patch of brown, resembling soil, next to the tree. A white rim surrounds the shell, and forms a diamond-shaped continuation on the front. Torterra's body appears sectioned, with the upper half being green and the lower half brown. Its mouth is jagged and at the end of its snout is a dark brown beak, giving it the appearance of a snapping turtle. Its lower jaw is green and there are two large spikes protruding from its cheeks. Torterra's small, red eyes are encircled by a black ring. Its legs are thick and they have four toes each, which appear as if they are actually jagged stones. There are three toes on the front and one on the heel.
+
+Torterra's large and clean shell supports the lives of many small Pokémon, which occasionally gather and {{wp|commensalism|build their nests upon the shell}}. Some are born and spend their entire life there. Torterra migrate in search of water, creating the illusion of "moving forests". However, it is typically immobile.
+
+==In the anime==
+[[File:Ash Torterra.png|250px|thumb|left|Torterra in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Torterra]]====
+Ash's Torterra debuted in ''[[DP166|The Fleeing Tower of Sunyshore!]]'' when his Grotle evolved.
+
+====[[Paul's Torterra]]====
+Torterra made its main series debut was in ''[[DP040|Top-Down Training]]'', where it was revealed to be [[Paul]]'s [[starter Pokémon]]. It later helped [[Ash's Grotle]] cope with its reduced {{stat|Speed}} in ''[[DP100|Aiding the Enemy]]''.
+
+====Other====
+Torterra debuted in ''[[M10|The Rise of Darkrai]]'', under the ownership of a {{pkmn|Coordinator}} named [[Maury]]. It battled against [[Ash's Pikachu]], and also tried to stop {{OBP|Darkrai|M10}}. It was later used in the [[Contest Battle|Battle Stage]] of the {{to|Alamos}} {{pkmn|Contest}}, where it faced off against {{OBP|Kai|M10}}'s {{p|Empoleon}}.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP040|Torterra|Ash's Pokédex|Torterra, the Continent Pokémon. Torterra is the final evolved form of {{p|Turtwig}}. Sometimes small Pokémon will gather to make their nests on Torterra's back.}}
+{{Animedexbody|DP166|Torterra|Dawn's Pokédex|Torterra, the Continent Pokémon. Its large back and sanitary nature offer an ideal place for smaller Pokémon to build their nests.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Tru Torterra.png|thumb|Torterra in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Tru}}
+In ''[[PS359|Stunning Staravia & Stinky Skuntank II]]'', {{adv|Diamond}}'s {{p|Grotle}}, [[Tru]], evolved into a Torterra in [[Veilstone City]] alongside {{adv|Pearl}}'s [[Chimler]].
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+Torterra is the final form of {{OBP|Jun|DPA}}'s [[starter Pokémon]], {{p|Turtwig}}. It made it debut in this form in ''[[DPA24|Hareta's Heart's Desire]]'', where it was easily beaten by [[Koya]]'s {{p|Absol}}.
+
+===In the Pokémon Pocket Monsters manga===
+Torterra appeared in ''[[PMDP07|Entry into Trainers' School!]]''.
+
+==In the TCG==
+{{main|Torterra (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Ground}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=Small Pokémon occasionally gather on its unmoving back to begin building their nests.}}
+{{Dex/Entry1|v=Pearl|entry=Groups of this Pokémon migrating in search of water have been mistaken for "moving forests."}}
+{{Dex/Entry1|v=Platinum|entry=Some Pokémon are born on a Torterra's back and spend their entire life there.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Ancient people imagined that beneath the ground, a gigantic Torterra dwelled.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Some Pokémon are born on a Torterra's back and spend their entire life there.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Some Pokémon are born on a Torterra's back and spend their entire life there.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Ancient people imagined that beneath the ground, a gigantic Torterra dwelled.}}
+{{Dex/Entry1|v=Y|entry=Small Pokémon occasionally gather on its unmoving back to begin building their nests.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Ancient people imagined that beneath the ground, a gigantic Torterra dwelled.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Small Pokémon occasionally gather on its unmoving back to begin building their nests.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Ground}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Grotle}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Grotle}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Evolution|Evolve]] from the [[List of Pokémon Global Link promotions/Pokémon#Turtwig|Global Link event]] {{p|Turtwig}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Evolution|Evolve]] from the [[List of Pokémon Global Link promotions/Pokémon#Turtwig|Global Link event]] {{p|Turtwig}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Grotle}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Grotle}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Ground}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (B1-B13), [[Mystery Jungle]] (B1-B29)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] (B1-B13), [[Mystery Jungle]] (B1-B29)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Vien Forest]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] Advanced Mode A & S}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Meadow Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Rand's House]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Grab and Go!|Adventure Area: Grab and Go!]] <small>(Boss)</small>, [[Variety Battle#A Battle in the Tower|Variety Battle: A Battle in the Tower]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 5|Mysterious Fountain: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 690]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Boundless Prairie|Dark Land: Boundless Prairie]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 24|Area 24: Stage 10]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Grass|type2=Ground}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Center 15th Anniversary Torterra|Japanese|Japan|100|June 5 to 11, 2013;<br>July 3 to 7, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Torterra}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Grass
+|type2=Ground
+|event1=Choice Band|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|type2=Ground
+|HP=      95
+|Attack= 109
+|Defense=105
+|SpAtk=   75
+|SpDef=   85
+|Speed=   56}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|type2=Ground
+|Speed=1
+|SpeedMax=2
+|Power=5
+|PowerMax=5
+|Technique=3
+|TechniqueMax=3
+|Stamina=5
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Ground
+|Normal=  100
+|Fighting=100
+|Flying=  200
+|Poison=  100
+|Ground=   50
+|Rock=     50
+|Bug=     200
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=   100
+|Electric=  0
+|Psychic= 100
+|Ice=     400
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|ground=yes
+|newelectric=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Torterra|Grass|Ground|4}}
+{{learnlist/level7|1|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|1|Wood Hammer|Grass|Physical|120|100|15||'''}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Withdraw|Water|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level7|1|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|5|Withdraw|Water|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|9|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level7|13|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level7|17|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|22|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|27|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level7|33|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|39|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|45|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|51|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level7|57|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/7|Torterra|Grass|Ground|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Torterra|Grass|Ground|4}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Torterra|Grass|Ground|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Torterra|Grass|Ground|4}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|143|Snorlax}}|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|143|Snorlax}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|357|Tropius}}<br>{{MSP|713|Avalugg}}{{MSP|776|Turtonator}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|191|Sunkern}}<br>{{MSP|192|Sunflora}}{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|034|Nidoking}}|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|407|Roserade}}{{MSP|764|Comfey}}|Grassy Terrain|Grass|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|046|Paras}}<br>{{MSP|047|Parasect}}{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|191|Sunkern}}<br>{{MSP|192|Sunflora}}{{MSP|273|Seedot}}{{MSP|274|Nuzleaf}}{{MSP|285|Shroomish}}{{MSP|315|Roselia}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|357|Tropius}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}{{MSP|455|Carnivine}}{{MSP|495|Snivy}}<br>{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|546|Cottonee}}{{MSP|547|Whimsicott}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}{{MSP|764|Comfey}}|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|143|Snorlax}}{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}|Heavy Slam|Steel|Physical|—|100|10|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|443|Gible}}{{MSP|444|Gabite}}{{MSP|445|Garchomp}}|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|103|Exeggutor}}{{MSP|103A|Exeggutor}}{{MSP|191|Sunkern}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/breed7|{{MSP|071|Victreebel}}{{MSP|455|Carnivine}}|Spit Up|Normal|Special|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|071|Victreebel}}{{MSP|455|Carnivine}}|Stockpile|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|621|Druddigon}}|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/breed7|{{MSP|071|Victreebel}}{{MSP|455|Carnivine}}|Swallow|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|034|Nidoking}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|105A|Marowak}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}<br>{{MSP|160|Feraligatr}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|713|Avalugg}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}<br>{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|285|Shroomish}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}|Worry Seed|Grass|Status|&mdash;|100|10}}
+{{learnlist/breedf/7|Torterra|Grass|Ground|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Torterra|Grass|Ground|4}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Frenzy Plant|Grass|Special|150|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Grass Pledge|Grass|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Torterra|Grass|Ground|4}}
+
+====By a prior [[evolution]]====
+{{Learnlist/prevoh/7|Torterra|Grass|Ground|4}}
+{{Learnlist/prevo7null}}
+{{Learnlist/prevof/7|Torterra|Grass|Ground|4}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Ground}}
+{{Spindata/MDTDS|col=6|type=Grass|ndex=389
+|body=1
+|rate=-12
+|IQ=E
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Tackle
+|fieldpower=4
+|browser=It attacks by scattering leaves and shooting seeds.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Tackle
+|fieldpower=4
+|past=NA
+|browser=It shoots leaves and grows vines to attack.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=3
+|def=4
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Grass|ndex=389
+|Pad=Torterra came to see the [[Meadow Zone]]. His favorite Attraction is {{DL|Attractions|Rhyperior's Bumper Burn}}!
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=389
+|power=3
+|skill=True Strength
+|skilldesc=Increases damage dealt when energy levels are half or less.
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=389|num=358
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Cross Attack+
+|skilldesc=Deals even more damage when making a + shaped match.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Grass
+|type2=Ground
+|pictype=art
+|no1=387
+|name1=Turtwig
+|type1-1=Grass
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 18}}
+|no2=388
+|name2=Grotle
+|type1-2=Grass
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 32}}
+|no3=389
+|name3=Torterra
+|type1-3=Grass
+|type2-3=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Ground}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=389}}
+{{Spritebox/5|ndex=389}}
+{{Spritebox/6|ndex=389}}
+{{Spritebox/7|ndex=389}}
+{{Spritebox/Footer|389|Torterra}}
+
+====Other sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{ground color dark}}; background: #{{grass color}};"
+|-
+| style="{{roundy|25px}} border: 2px solid #{{ground color dark}}; background: #{{grass color light}}; width:160px"| [[File:Spr 4p Torterra intro.png]]
+|-
+| Platinum intro sprite
+|}
+
+==Trivia==
+* Torterra shares its {{pkmn|category}} with {{p|Groudon}}. They are both known as the Continent Pokémon.
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Torterra.
+* Torterra is the [[List of Pokémon by weight|heaviest]] {{type|Grass}} Pokémon.
+* When walking to the right in [[Amity Square]], Torterra's sprite erroneously shows its left side.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Turtwig, Grotle and Torterra}}
+Torterra has aspects of a {{wp|Chelydridae|snapping turtle}} and an {{wp|Ankylosauria|ankylosaur}}, armored dinosaurs. Its large features and spikes may also be inspired by extinct {{wp|Meiolania}} and {{wp|Proganochelys}} turtles. In concept, it may be based on the {{wp|World Turtle}}s in various mythologies that carry worlds upon their backs, or perhaps the {{wp|Black Tortoise}} of Asian legend.
+
+====Name origin====
+Torterra is a combination of ''tortoise'' and ''terra'' (Latin for ''ground''). ''Terra'' may also refer to ''{{wp|terrapin}}s''. It also bears similarity to ''{{wp|tuatara}}'' (a reptile similar to a lizard) and ''{{wp|totara}}'' (a type of tree), both native to {{pmin|New Zealand}}.
+
+Dodaitose may be a combination of 土 ''do'' (earth or ground), 大 ''dai'' (large), and ''tortoise''. It may also involve 土台 ''dodai'' ({{wp|Foundation (engineering)|foundation}}).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Ground
+|ja= ドダイトス ''Dodaitose''|jameaning=From {{tt|土 ''do''|earth or ground}}, {{tt|大 ''dai''|large}}, {{tt|土台 ''dodai''|foundation}} and ''tortoise''
+|fr=Torterra|frmeaning=Same as English name
+|es=Torterra|esmeaning=Same as English name
+|de=Chelterrar|demeaning=From {{tt|''Chelonia''|Greek for turtle}} and ''{{tt|terra|Latin for 'earth'}}''
+|it=Torterra|itmeaning=Same as English name
+|ko=토대부기 ''Todaibugi''|komeaning=From {{tt|토 (土)''to''|Earth}}, {{tt|대 (大)''dae''|large}}, and {{tt|거북이 ''geobugi''|turtle}}. Also involves {{tt|토대 ''todae''|foundation}}.
+|zh_cmn=土台龜 / 土台龟 ''Tǔtáiguī''|zh_cmnmeaning=Can be taken as "Earth terrace tortoise".
+<!--|zh_yue=土台龜 ''Tóutòihgwāi''|zh_yuemeaning=Same as Mandarin name-->
+|hi=टोरटेरा ''Torterra''|himeaning=Transliteration of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Torterra]]
+* [[Paul's Torterra]]
+* [[Tru]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Grass|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=388|prev=Grotle|nextnum=390|next=Chimchar}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Chelterrar]]
+[[fr:Torterra]]
+[[it:Torterra]]
+[[ja:ドダイトス]]
+[[pl:Torterra]]
+[[zh:土台龟]]

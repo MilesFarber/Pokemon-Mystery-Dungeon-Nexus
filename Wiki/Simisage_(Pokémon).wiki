@@ -1,0 +1,352 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=511|prev=Pansage|nextnum=513|next=Pansear}}
+|}
+{{Pokémon Infobox
+|name=Simisage
+|jname=ヤナッキー
+|jtranslit=Yanakkī
+|tmname=Yanakkie
+|category=Thorn Monkey
+|ndex=512
+|udex=018
+|u2dex=038
+|karea=Central
+|kdex=030
+|typebox=1
+|type1=Grass
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=67.2
+|weight-kg=30.5
+|abilityn=d
+|ability1=Gluttony
+|abilityd=Overgrow
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=174
+|evtotal=2
+|evsp=2
+|lv100exp=1,000,000
+|gendercode=31
+|color=Green
+|catchrate=75
+|body=06
+|pokefordex=simisage
+|generation=5
+|friendship=70
+}}
+'''Simisage''' ([[List of Japanese Pokémon names|Japanese]]: '''ヤナッキー''' ''Yanakkie'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Pansage}} when exposed to a [[Leaf Stone]].
+
+==Biology==
+Simisage is a simian Pokémon that is primarily green. It has a pointed, bush-like crest on its head similar to a {{wp|Pompadour (hairstyle)|pompadour}}. The leaves of this crest are bitter. Its ears are broad with light green insides, and it has oval eyes and a black nose. Simisage has furry, white eyebrows and shoulder tufts, and a cream-colored face, chest, hands and feet. Its hands have five fingers, and its feet have three toes. Its thorny tail is long and tipped with leaves.
+
+==In the anime==
+[[File:Angus Simisage.png|thumb|left|250px|Simisage in the {{pkmn|anime}}]]
+===Major appearances===
+Simisage debuted in ''[[BW070|The Clubsplosion Begins!]]'', under the ownership of [[Angus]]. It battled against {{Ash}}'s {{TP|Ash|Scraggy}}, but lost.
+
+A Simisage appeared in ''[[XY099|The Legend of the Ninja Hero!]]'', where it was protecting the [[Ninja Village]]. It reappeared in [[XY100|the next episode]].
+
+===Minor appearances===
+A {{pkmn|Trainer}}'s Simisage appeared in ''[[XY026|A Battle by Any Other Name!]]'', where it was seen participating in the [[Poké Puff Contest]].
+
+A Trainer's Simisage appeared in ''[[XY059|Under the Pledging Tree!]]''.
+
+A Trainer's Simisage appeared in ''[[XY080|Performing with Fiery Charm!]]''.
+
+==In the manga==
+[[File:Cilan Simisage Adventures.png|thumb|left|115px|Simisage in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Cilan's Pansage|Cilan's Simisage}}
+In [[Pokémon Adventures]], [[Cilan]]'s Pansage evolves into Simisage by being exposed to a [[Leaf Stone]] during the brothers' fight with the [[Shadow Triad]] in ''[[PS519|Something Suspicious]]''.
+{{left clear}}
+
+==In the TCG==
+{{main|Simisage (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.}}
+{{Dex/Entry1|v=White|entry=It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It strikes its enemies with a thorn-covered tail. The leaf on its head is bitter.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered.}}
+{{Dex/Entry1|v=Y|entry=Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Evolution|Evolve]] {{p|Pansage}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Evolution|Evolve]] {{p|Pansage}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Pansage}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Echo Valley]], [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Pansage}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Tyrian Maze]] (B1-B11), [[Silent Tundra]] (Golden Chamber), [[Dreamy Island]] (Golden Chamber), [[Moonlit Forest]] (1F-28F), [[Rusty Mountain]] (Mapless Street), [[Cape at the Edge]] (B1-B29), [[Ivy Park]] (1F-14F), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Magical Lake#Dual Launchers|Magical Lake: Dual Launchers]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 2|Safari Jungle: Stage 2]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 334]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Shrub Forest|Leafy Expanse: Shrub Forest]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=75
+|Attack=98
+|Defense=63
+|SpAtk=98
+|SpDef=63
+|Speed=101}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Simisage|Grass|Grass|5}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/level7|1|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level7|1|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/levelf/7|Simisage|Grass|Grass|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Simisage|Grass|Grass|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Simisage|Grass|Grass|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Simisage|Grass|Grass|5}}
+{{learnlist/breed7|{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|190|Aipom}}{{MSP|203|Girafarig}}<br>{{MSP|234|Stantler}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|303|Mawile}}{{MSP|320|Wailmer}}<br>{{MSP|321|Wailord}}{{MSP|352|Kecleon}}{{MSP|424|Ambipom}}|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/breed7|{{MSP|573|Cinccino}}|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|133|Eevee}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}<br>{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|300|Skitty}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Covet|Normal|Physical|60|100|25}}
+{{learnlist/breed7|{{MSP|300|Skitty}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}{{MSP|700|Sylveon}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}<br>{{MSP|730|Primarina}}|Disarming Voice|Fairy|Special|40|&mdash;|15}}
+{{learnlist/breed7|{{MSP|470|Leafeon}}|Grass Whistle|Grass|Status|&mdash;|55|15}}
+{{learnlist/breed7|{{MSP|275|Shiftry}}{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|505|Watchog}}{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}|Low Kick|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|470|Leafeon}}|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/breed7|{{MSP|038|Ninetales}}{{MSP|038A|Ninetales}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|203|Girafarig}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|275|Shiftry}}<br>{{MSP|390|Chimchar}}{{MSP|461|Weavile}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}<br>{{MSP|570|Zorua}}{{MSP|571|Zoroark}}{{MSP|765|Oranguru}}|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|234|Stantler}}{{MSP|655|Delphox}}{{MSP|678|Meowstic}}|Role Play|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|652|Chesnaught}}{{MSP|777|Togedemaru}}|Spiky Shield|Grass|Status|—|—|10|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|572|Minccino}}{{MSP|573|Cinccino}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breedf/7|Simisage|Grass|Grass|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Simisage|Grass|Grass|5}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Grass Pledge|Grass|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Simisage|Grass|Grass|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Simisage|Grass|Grass|5}}
+{{learnlist/prevo7|511|Pansage|||||Scratch|Normal|Physical|40|100|35}}
+{{learnlist/prevo7|511|Pansage|||||Play Nice|Normal|Status|—|—|20}}
+{{learnlist/prevo7|511|Pansage|||||Vine Whip|Grass|Physical|45|100|25|'''}}
+{{learnlist/prevo7|511|Pansage|||||Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/prevo7|511|Pansage|||||Bite|Dark|Physical|60|100|25}}
+{{learnlist/prevo7|511|Pansage|||||Recycle|Normal|Status|—|—|10||{{sup/7|SM}}}}
+{{learnlist/prevo7|511|Pansage|||||Natural Gift|Normal|Physical|—|100|15}}
+{{learnlist/prevo7|511|Pansage|||||Crunch|Dark|Physical|80|100|15}}
+{{learnlist/prevof/7|Simisage|Grass|Grass|5}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=3
+|def=2
+|speed=4
+}}
+|-
+{{Spindata/Conquest|col=6|type=Grass|ndex=512
+|HP=3
+|atk=3
+|def=2
+|spd=4
+|range=3
+|move=Leaf Storm
+|ability1=Melee
+|ability2=Hero
+|ability3=Instinct
+|evo=Evolves from {{p|Pansage}} after battling while its [[Warrior]] is equipped with a [[Leaf Stone]]
+|link={{DL|List of Pokémon Conquest characters|Rikyū}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=512
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=512|num=433
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Astonish
+|skilldesc=Delays your opponent's disruptions.
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|pictype=art
+|type1=Grass
+|no1=511
+|name1=Pansage
+|type1-1=Grass
+|evo1={{bag|Leaf Stone}}<br>{{color2|000|Leaf Stone}}
+|no2=512
+|name2=Simisage
+|type1-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=512}}
+{{Spritebox/6|ndex=512}}
+{{Spritebox/7|ndex=512}}
+{{Spritebox/Footer|512|Simisage}}
+
+==Trivia==
+===Origin===
+Simisage is based on a {{wp|monkey}} and a {{wp|tree}}; the fact that it is based on both may mean it might be based on the legends of {{wp|Monkey tree phenomenon|monkey trees}} or possibly a visual pun on {{wp|Colobinae|leaf monkeys}}. Its hairstyle may have been inspired by the {{wp|bōsōzoku}} or {{wp|Yankee#In other parts of the world|yankee}} subculture.<!-- It, along with his two contemporaries, seem to inspired by the {{wp|three wise monkeys}} motif; with its mouth doing something, Simisage represents "speak no evil". (I can't justify this)-->
+
+====Name origin====
+Simisage is a combination of ''{{wp|simian}}'' and ''{{wp|sage}}''. ''Sage'' may either mean a type of plant or a wise person, the latter possibly relating to the "{{wp|three wise monkeys}}" motif of the [[elemental monkeys]]. It may also come from the German word ''sagen'', meaning ''to say''.
+
+Yanakkie may be a combination of 柳 ''yanagi'' ({{wp|willow}}) or 野菜 ''yasai'' (vegetable; an alternate reading of 菜 is ''na'') and ''{{wp|monkey}}''. It may also involve ヤンキー ''yankee'' (delinquent youth) and けっき ''kekki'' (vigor).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=ヤナッキー ''Yanakkie''|jameaning=From {{tt|柳 ''yanagi''|willow}} or {{tt|野菜 ''yasai''|vegetable; an alternate reading of 菜 is ''na''}} and ''monkey''. May also involve {{tt|けっき ''kekki''|vigor}}.
+|de=Vegichita|demeaning=From ''Vegetation'' and ''{{wp|Cheeta}}''
+|fr=Feuilloutan|frmeaning=From ''{{tt|feuille|leaf}}'' and ''{{tt|orang-outan|orangutan}}''
+|es=Simisage|esmeaning=Same as English name
+|it=Simisage|itmeaning=Same as English name
+|ko=야나키 ''Yanakkie''|komeaning=Transliteration of Japanese name
+|zh_cmn=花椰猿 ''Huāyéyuán''|zh_cmnmeaning=From {{tt|青花椰菜 ''qīng huāyécài''|broccoli}} or {{tt|花椰菜 ''huāyécài''|cauliflower}} and {{tt|猿 ''yuán''|ape}}.
+|ru=Симисейдж ''Simiseydzh''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+*[[Cilan's Simisage]]
+*[[Elemental monkeys]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=511|prev=Pansage|nextnum=513|next=Pansear}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Vegichita]]
+[[fr:Feuiloutan]]
+[[it:Simisage]]
+[[ja:ヤナッキー]]
+[[pl:Simisage]]
+[[zh:花椰猿]]

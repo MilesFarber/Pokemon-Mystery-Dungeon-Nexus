@@ -1,0 +1,387 @@
+{{PokémonPrevNext/Head|type=Dark|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=623|prev=Golurk|nextnum=625|next=Bisharp|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Pawniard}}
+|}
+{{Pokémon Infobox
+|name=Pawniard
+|jname=コマタナ
+|tmname=Komatana
+|category=Sharp Blade
+|typebox=1
+|type1=Dark
+|type2=Steel
+|abilityn=d
+|ability1=Defiant
+|ability2=Inner Focus
+|abilityd=Pressure
+|ndex=624
+|udex=130
+|u2dex=223
+|karea=Mountain
+|kdex=048
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=22.5
+|weight-kg=10.2
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=20
+|expyield=68
+|lv100exp=1,000,000
+|evtotal=1
+|evat=1
+|gendercode=127
+|color=Red
+|catchrate=120
+|body=12
+|pokefordex=pawniard
+|generation=5
+|friendship=35
+}}
+'''Pawniard''' ([[List of Japanese Pokémon names|Japanese]]: '''コマタナ''' ''Komatana'') is a dual-type {{2t|Dark|Steel}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Bisharp}} starting at [[level]] 52.
+
+==Biology==
+Pawniard is a small, bipedal Pokémon. It has a rounded red and black head with a silvery blade extending from the front. Its face is grey with yellow eyes. Four steel spikes protrude from its black torso, two on each side connected by steel ribs. It has red arms that end with knife-like blades instead of hands, which it regularly sharpens with stones found by rivers. When hunting, Pawniard immobilizes prey by repeated stabbing with these blades. Its legs are red with two-toed feet. In the wild, Pawniard lives in packs governed by Bisharp.
+
+==In the anime==
+[[File:Georgia Pawniard.png|thumb|left|250px|Pawniard in the {{pkmn|anime}}]]
+===Major appearances===
+Pawniard debuted in ''[[BW040|Cilan Versus Trip, Ash Versus Georgia!]]'', under the ownership of [[Georgia]]. It was used in Georgia's battle against {{Ash}} in the second round of the [[Club Battle]] tournament, where it went up against {{AP|Snivy}} but was defeated. Pawniard was later revealed to have evolved into {{p|Bisharp}} by ''[[BW071|Search for the Clubultimate!]]''.
+
+===Minor appearances===
+A {{pkmn|Trainer}}'s Pawniard appeared in a brief flashback in ''[[BW111|There's a New Gym Leader in Town!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW040|Pawniard|Ash's Pokédex|Pawniard, the Sharp Blade Pokémon. Pawniard's entire body is made of blades which it uses to inflict damage on its opponent.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Brycen-Man Pawniard Adventures.png|thumb|150px|Pawniard in [[Pokémon Adventures]]]]
+===In the [[Pokémon Adventures]] manga===
+A Pawniard appeared in ''[[PS479|The Case of the Missing Pokémon]]'', where it was one of the Pokémon kidnapped by Team Plasma. It was later found in a stronghold and returned to its trainer.
+
+A Trainer's Pawniard appeared in ''[[PS486|Unraveling Mysteries]]''.
+
+A Pawniard appeared in a flashback in ''[[PS510|A Wretched Reunion]]''.
+
+In ''[[PS530|Movie Panic]]'', Pawniard starred in a [[Pokéstar Studios]] movie featuring {{DL|Pokéstar Studios opponents|Brycen-Man}}; it was easily defeated by {{adv|Whitley}}'s [[Foongy]].
+
+==In the TCG==
+{{main|Pawniard (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Gates to Infinity}}: Two Pawniard known as the {{mdc|Pawniard|gti|Pawniard Brothers}} were minor antagonists of the game where they scammed Dunsparce with a deal of getting stronger to get Virizion to be his friend but when they are defeated, they quickly scram.
+
+===Pokédex entries===
+{{Dex/Header|type=dark|type2=steel}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.}}
+{{Dex/Entry1|v=White|entry=They fight at {{p|Bisharp}}'s command. They cling to their prey and inflict damage by sinking their blades into it.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.}}
+{{Dex/Entry1|v=Y|entry=Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Blades comprise this Pokémon's entire body. If battling dulls the blades, it sharpens them on stones by the river.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=After shredding its prey, it sharpens its blades on a stone by the river. Each Pawniard has its own favorite sharpening stone.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It follows Bisharp's orders to a tee when it attacks enemies. After slashing an opponent, Pawniard clangs both of its blades together.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=dark|type2=steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Route]]s {{rtn|9|Unova}} and {{rtn|11|Unova}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|9|Unova}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Spooky Manor}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|15|Kalos}}, [[Lost Hotel]], [[Friend Safari]] ([[Friend Safari#Dark-type Safari|Dark]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|17|Alola}} ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dark|type2=Steel}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Yaksha]], [[Valora]], [[Nixtorm]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Glacier Palace]] (1F-13F), [[Kilionea Road]] (B1-B10), [[Dreamy Island]] (1F-25F), [[Rusty Mountain]] (1F-24F), [[Jaws of the Abyss]] (B1-B28), [[Smoking Mountain]] (1F-24F), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#A Very Chaotic Battle!|Toy Collection: A Very Chaotic Battle!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 4|Pitch-Black Cavern: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 235]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Grim Rendezvous|Black Realm: Grim Rendezvous]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Dark
+|type2=Steel
+|HP=45
+|Attack=85
+|Defense=70
+|SpAtk=40
+|SpDef=40
+|Speed=60}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|type2=Steel
+|Normal= 50
+|Fighting= 400
+|Flying= 50
+|Poison= 0
+|Ground= 200
+|Rock= 50
+|Bug= 100
+|Ghost= 50
+|Steel= 50
+|Fire= 200
+|Water= 100
+|Grass= 50
+|Electric= 100
+|Psychic= 0
+|Ice= 50
+|Dragon= 50
+|Dark= 50
+|Fairy=100
+|notes=yes
+|dark=yes
+|newpsychic=½
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=¼
+|oldghost2=¼}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Pawniard|Dark|Steel|5}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|6|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|9|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/level7|14|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|17|Feint Attack|Dark|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|22|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|25|Metal Claw|Steel|Physical|50|95|35||'''}}
+{{learnlist/level7|30|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|33|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/level7|38|Metal Sound|Steel|Status|&mdash;|85|40}}
+{{learnlist/level7|41|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|46|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|49|Night Slash|Dark|Physical|70|100|15||'''}}
+{{learnlist/level7|54|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level7|57|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|62|Guillotine|Normal|Physical|&mdash;|&mdash;|5}}
+{{learnlist/levelf/7|Pawniard|Dark|Steel|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Pawniard|Dark|Steel|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10||'''}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Pawniard|Dark|Steel|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Pawniard|Dark|Steel|5}}
+{{learnlist/breed7|{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|605|Elgyem}}{{MSP|606|Beheeyem}}|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|302|Sableye}}|Mean Look|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}|Psycho Cut|Psychic|Physical|70|100|20}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Pursuit|Dark|Physical|40|100|20||'''}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}{{MSP|448|Lucario}}{{MSP|539|Sawk}}{{MSP|619|Mienfoo}}|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|106|Hitmonlee}}{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}<br>{{MSP|332|Cacturne}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}{{MSP|538|Throh}}|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP|390|Chimchar}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}{{MSP|624|Pawniard}}{{MSP|625|Bisharp}}|Stealth Rock|Rock|Status|&mdash;|&mdash;|20|‡}}
+{{learnlist/breed7|{{MSP|327|Spinda}}{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/breedf/7|Pawniard|Dark|Steel|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Pawniard|Dark|Steel|5}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||'''|no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutorf/7|Pawniard|Dark|Steel|5}}
+
+===Side game data===
+{{Spindata/Head|type=Dark|type2=Steel}}
+{{Spindata/RumbleBlast|col=6|type=Dark
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Dark|ndex=624
+|strong=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|weak=[[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|pad=They are generally serious, but they sometimes slack off. They are street smart and cheerful guards. They complain about {{p|Bisharp}}, but they do like him.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Dark|ndex=624
+|HP=2
+|atk=3
+|spd=2
+|def=2
+|range=3
+|move=Assurance
+|ability1=Parry
+|ability2=Shackle
+|ability3=Inner Focus
+|evo=Evolves into {{p|Bisharp}} when its Attack is 118 or higher
+|link={{DL|List of Pokémon Conquest characters|Hatsume}}, {{DL|List of Pokémon Conquest characters|Hidetada}}, and '''[[Mitsunari]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Dark|ndex=624
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Dark|ndex=624|num=330
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Block Smash
+|skilldesc=Clears one unbreakable-block disruption without fail.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Dark
+|type2=Steel
+|pictype=art
+|no1=624
+|name1=Pawniard
+|type1-1=Dark
+|type2-1=Steel
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 52}}
+|no2=625
+|name2=Bisharp
+|type1-2=Dark
+|type2-2=Steel
+}}
+
+===Sprites===
+{{Spritebox/Header|type=dark|type2=steel}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=624}}
+{{Spritebox/6|ndex=624}}
+{{Spritebox/7|ndex=624}}
+{{Spritebox/Footer|624|Pawniard}}
+
+==Trivia==
+* No other Pokémon has the same [[List of Pokémon with unique type combinations|type combination]] as Pawniard and its {{p|Bisharp|evolution}}.
+** The types it has are coincidentally the two types introduced in [[Generation II]].
+* Pawniard and {{p|Bisharp}} are the only Pokémon that can have {{a|Defiant}} as a non-Hidden Ability.
+
+===Origin===
+It looks and acts similar to a traditional Japanese bandit—specifically a lackey or lower member—with features resembling ''{{wp|ashigaru}}'' armor. It may also originate from ''kaijin'', humanoid villains found in {{wp|kaiju|Japanese monster movies}}.
+
+====Name origin====
+Pawniard may be a combination of ''{{wp|Pawn (chess)|pawn}}'' (the most basic piece in {{wp|chess}} or a low-level operative in an organization) and ''{{wp|poignard}}'' or ''poniard'' (a lightweight dagger). It may also involve ''palliard'' (beggar or thief).
+
+Komatana may be a combination of 駒 ''koma'' (a piece in the board game {{wp|Shogi}}), 細切れ ''komagire'' (small pieces), and 刀 ''katana'' (sword) or 小刀 ''kogatana'' (knife).
+
+==In other languages==
+{{Other languages|type=dark|type2=steel
+|ja=コマタナ ''Komatana''|jameaning=From {{tt|駒 ''koma''|a piece in Shogi}} and {{tt|刀 ''katana''|sword}} or {{tt|小刀 ''kogatana''|knife}}
+|fr=Scalpion|frmeaning=From ''{{tt|scalper|scalp}}'' or ''scalpel'' and ''{{tt|pion|pawn}}''
+|es=Pawniard|esmeaning=Same as English name
+|de=Gladiantri|demeaning=Possibly from ''Gladiator'' and ''Triumph'' or ''{{tt|Antritt|beginning}}''
+|it=Pawniard|itmeaning=Same as English name
+|ko=자망칼 ''Jamangkal''|komeaning=Combination of {{tt|자망 ''jamang''|gill}} and {{tt|칼 ''kal''|blade or knife}}
+|zh_cmn=駒刀小兵 / 驹刀小兵 ''Jūdāoxiǎobīng''|zh_cmnmeaning=From the Japanese 駒 ''koma'', {{tt|刀 ''dāo''|knife}}, {{tt|小 ''xiǎo''|small, young}} and {{tt|兵 ''bīng''|pawn}}
+|ru=Поуниард ''Pouniard''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Pawniard (Rumble Blast)]]
+* [[Pawniard (Gates to Infinity)]]
+
+==Notes==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Dark|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=623|prev=Golurk|nextnum=625|next=Bisharp}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[de:Gladiantri]]
+[[fr:Scalpion]]
+[[it:Pawniard]]
+[[ja:コマタナ]]
+[[pl:Pawniard]]
+[[zh:驹刀小兵]]

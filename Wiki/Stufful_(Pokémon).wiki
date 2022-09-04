@@ -1,0 +1,265 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=758|prev=Salazzle|nextnum=760|next=Bewear}}
+|}
+{{Pokémon Infobox
+|name=Stufful
+|jname=ヌイコグマ
+|tmname=Nuikoguma
+|ndex=759
+|type1=Normal
+|type2=Fighting
+|category=Flailing
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=15.0
+|weight-kg=6.8
+|adex=169
+|abilityn=d
+|ability1=Fluffy
+|ability2=Klutz
+|abilityd=Cute Charm
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=1
+|evat=1
+|expyield=68
+|lv100exp=1,000,000
+|gendercode=127
+|color=Pink
+|catchrate=140
+|body=08
+|pokefordex=stufful
+|generation=7
+|friendship=70
+}}
+'''Stufful''' ([[List of Japanese Pokémon names|Japanese]]: '''ヌイコグマ''' ''Nuikoguma'') is a dual-type {{2t|Normal|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] into {{p|Bewear}} starting at [[level]] 27.
+
+==Biology==
+Stufful is a Pokémon resembling a bear or panda cub. Its body and head are mostly pink, while its legs are brown. There is a single, pink paw pad on the bottom of each foot. There is a white, semicircle marking around its face similar to a {{wp|headband}}, and it has a white muzzle with a triangular, black nose. Its white-tipped ears are situated on the sides of its head, and there is a small, white-tipped tuft of fur under each. There is a dark pink band around the center of its short, puffy tail. Under the tail is a small, white flap resembling the tag on a stuffed toy. This is actually an organ that releases an odor used to communicate with other of its kind.
+
+Despite its small size, Stufful has extraordinary strength and can knock out even well trained Pokémon if they are unprepared. The combination of its cute appearance, mannerisms, and fluffy fur make it very popular. However, Stufful actually dislikes being touched and will flail its powerful arms if it is embraced.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/stufful/</ref>
+
+==In the anime==
+[[File:Aether Paradise Stufful Sandygast Palossand.png|thumb|250px|left|Stufful in the {{pkmn|anime}}]]
+===Major appearances===
+===Minor appearances===
+A Stufful debuted in ''[[SM044|A Dream Encounter!]]'', appearing in a video advertising [[Aether Paradise]]. It reappeared in ''[[SM046|Deceiving Appearances!]]''.
+{{clear}}
+
+==In the manga==
+===In the movie adaptations===
+A {{DL|Ken (GFUM)|Stufful}} appeared in ''[[Get Fired Up, Marshadow!]]'', as one of the Pokémon that {{OBP|Ken|GFUM}} befriended.
+
+==In the TCG==
+{{main|Stufful (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Fighting}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Despite its adorable appearance, when it gets angry and flails about, its arms and legs could knock a pro wrestler sprawling.}}
+{{Dex/Entry1|v=Moon|entry=A touch from anyone except a known friend sends it into a surging frenzy. It's an incredibly dangerous Pokémon.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It boasts power enough to split large trees in half. The organ on its rear releases an odor that it uses to communicate with others of its kind.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Stufful hates to be hugged or touched in any way. It will squirm, thrash, and resist with amazing power.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Fighting}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|8|Alola}}, [[Akala Outskirts]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|8|Alola}}, [[Akala Outskirts]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|type2=Fighting
+|HP=70
+|Attack=75
+|Defense=50
+|SpAtk=45
+|SpDef=50
+|Speed=50}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Fighting
+|Normal=100
+|Fighting=200
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=50
+|Bug=50
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|normal=yes
+|newghost=1
+|fluffy=maybe
+|newfire=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Stufful|Normal|Fighting|7}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|—|100|30}}
+{{learnlist/level7|5|Bide|Normal|Physical|—|—|10}}
+{{learnlist/level7|10|Baby-Doll Eyes|Fairy|Status|—|100|30}}
+{{learnlist/level7|14|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/level7|19|Flail|Normal|Physical|—|100|15||'''}}
+{{learnlist/level7|23|Payback|Dark|Physical|50|100|10}}
+{{learnlist/level7|28|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level7|32|Hammer Arm|Fighting|Physical|100|90|10||'''}}
+{{learnlist/level7|37|Thrash|Normal|Physical|120|100|10||'''}}
+{{learnlist/level7|41|Pain Split|Normal|Status|—|—|20}}
+{{learnlist/level7|46|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/level7|50|Superpower|Fighting|Physical|120|100|5||'''}}
+{{learnlist/levelf/7|Stufful|Normal|Fighting|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Stufful|Normal|Fighting|7}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Stufful|Normal|Fighting|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Stufful|Normal|Fighting|7}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|231|Phanpy}}{{MSP|288|Vigoroth}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}|Endure|Normal|Status|—|—|10}}
+{{learnlist/breed7|{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Force Palm|Fighting|Physical|60|100|10||'''}}
+{{learnlist/breed7|{{MSP|215|Sneasel}}{{MSP|225|Delibird}}{{MSP|427|Buneary}}{{MSP|559|Scraggy}}{{MSP|613|Cubchoo}}|Ice Punch|Ice|Physical|75|100|15|*|}}
+{{learnlist/breed7|{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}|Mega Kick|Normal|Physical|120|75|5||'''}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|057|Primeape}}|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/breed7|{{MSP|181|Ampharos}}|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|620|Mienshao}}|Wide Guard|Rock|Status|—|—|10}}
+{{learnlist/breedf/7|Stufful|Normal|Fighting|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Stufful|Normal|Fighting|7}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20||'''|no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||'''|no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5||'''|no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Stufful|Normal|Fighting|7}}
+<!--
+===Side game data===-->
+
+===Evolution===
+{{Evobox-2
+|type1=Normal
+|type2=Fighting
+|pictype=art
+|no1=759
+|name1=Stufful
+|type1-1=Normal
+|type2-1=Fighting
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 27}}
+|no2=760
+|name2=Bewear
+|type1-2=Normal
+|type2-2=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Fighting}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=759}}
+{{Spritebox/Footer|759|Stufful}}
+
+==Trivia==
+
+===Origin===
+Stufful's black limbs, reddish fur, and ringed tail resemble a {{wp|red panda}}. It also appears to be based on plush toys, such as {{wp|teddy bear}}s.
+
+====Name origin====
+Stufful may be derived from ''stuffed animal''.  It may also incorporate the word ''scuffle'', for its aggressive nature and propensity to fight.
+
+Nuikoguma may be a combination of ぬいぐるみ ''nuigurumi'' (stuffed animal) and 子熊 ''koguma'' (bear cub).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Fighting
+|ja=ヌイコグマ ''Nuikoguma''|jameaning=From {{tt|ぬいぐるみ ''nuigurumi''|stuffed animal}} and {{tt|子熊 ''koguma''|bear cub}}
+|fr=Nounourson|frmeaning=From {{tt|''nounours''|teddy bear}} and {{tt|''ourson''|bear cub}}
+|es=Stufful|esmeaning=Same as English name
+|de=Velursi|demeaning=From {{tt|''Velours''|velour}}, {{tt|''ursus''|Latin for bear}}, and {{tt|''-i''|diminutive suffix}}
+|it=Stufful|itmeaning=Same as English name
+|ko=포곰곰 ''Pogomgom''|komeaning=From {{tt|포 (布) ''po''|cloth}}, {{tt|포근 ''pogeun''|snug}}, and {{tt|곰 ''gom''|bear}}
+|zh_cmn=童偶熊 ''Tóng'ǒuxióng''|zh_cmnmeaning=From {{tt|童 ''tóng''|child}}, {{tt|玩偶 ''wán'ǒu''|stuffed animal}}, and {{tt|熊 ''xióng''|bear}}
+|zh_yue=童偶熊 ''Tùhngngáuhhùhng''|zh_yuemeaning=From {{tt|童 ''tùhng''|child}}, {{tt|玩偶 ''wuhnngáu''|stuffed animal}}, and {{tt|熊 ''hùhng''|bear}}
+|ru=Стаффул ''Stafful''|rumeaning=Transcription of English name}}
+{{-}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Normal|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=758|prev=Salazzle|nextnum=760|next=Bewear}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Velursi]]
+[[fr:Nounourson]]
+[[it:Stufful]]
+[[ja:ヌイコグマ]]
+[[zh:童偶熊]]

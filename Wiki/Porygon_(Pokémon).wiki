@@ -1,0 +1,554 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Porygon}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=136|prev=Flareon|nextnum=138|next=Omanyte|round=none}}
+{{PokémonPrevNext/Disambig|species=Porygon}}
+|}
+{{Pokémon Infobox
+|name=Porygon
+|jname=ポリゴン
+|jtranslit=Porigon
+|tmname=Porygon
+|category=Virtual
+|ndex=137
+|oldjdex=215
+|jdex=220
+|sdex=192
+|adex=217
+|fbrow=103
+|type1=Normal
+|height-ftin=2′07″
+|height-m=0.8
+|weight-lbs=80.5
+|weight-kg=36.5
+|abilitylayout=2
+|ability1=Trace
+|ability2=Download
+|abilityd=Analytic
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evtotal=1
+|evsa=1
+|expyield=79
+|oldexp=130
+|lv100exp=1,000,000
+|gendercode=255
+|female=0
+|male=0
+|color=Pink
+|catchrate=45
+|body=07
+|pokefordex=porygon
+|generation=1
+|friendship=70
+}}
+'''Porygon''' ([[List of Japanese Pokémon names|Japanese]]: '''ポリゴン''' ''Porygon'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] into {{p|Porygon2}} when [[trade]]d holding an [[Up-Grade]], which evolves into {{p|Porygon-Z}} when traded holding a [[Dubious Disc]].
+
+==Biology==
+[[File:Porygon Conversion.png|thumb|left|200px|Porygon changing its appearance using {{m|Conversion}}]]
+Porygon is a Pokémon made completely out of programming code. It has a pink polyhedral body with a blue stomach, blue triangular prism feet, and a blue rectangular prism tail. It has a pink, polyhedral head that ends in a blue beak and has hexagonal eyes. Built into this code is [[Silph Co.]] copy protection [[wp: Digital Rights Management|DRM]], preventing duplication through electronic means. Due to its man-made origins, Porygon does not need to breathe or eat, though it can still accept food if given. It has the ability to convert its body into digital data, allowing it to travel through cyberspace. It was created 20 years ago using the latest technology of its time, so many of its parts have since become obsolete.
+
+Porygon has two [[signature moves]], {{m|Conversion}} and {{m|Conversion 2}}. It can use Conversion to change its appearance to mimic another Pokémon's. Porygon has also [[Pokémon Snap|demonstrated the ability]] to change color for camouflage. Because it is man-made, it is generally found in computers or in labs and other {{DL|List of Pokémon by habitat|Urban Pokémon|buildings}} where people work. In 3D games, such as {{g|Stadium}}, it can detach its limbs and head from its torso.
+{{left clear}}
+
+==In the anime==
+[[File:Porygon anime.png|thumb|220px|Porygon in the {{pkmn|anime}}]]
+[[File:Porygon Aim to Be a Pokémon Master.png|thumb|left|220px|Porygon in [[Aim to Be a Pokémon Master]]]]
+===Major appearances===
+Porygon made its only major anime appearance in [[EP038]], where two specimens created by [[Dr. Akihabara]] appeared, [[List of Pokémon temporarily owned by the Team Rocket trio#Porygon Zero|one]] of which was stolen by {{TRT}}, the other borrowed by {{Ash}}. Both were left behind at Dr. Akihabara's house at the end of the episode.
+
+This episode caused more than 600 children in Japan to be transferred to hospitals by ambulance because of seizure-like symptoms they reported, due to a flashing strobe effect, and was therefore banned and never aired again anywhere in the world. Since then, Porygon and its evolutions have never played a main role in another episode.
+
+===Minor appearances===
+A Porygon made its English dub debut in a brief appearance during a graphic display in ''[[EP047|A Chansey Operation]]'', as well as ''[[EP062|Clefairy Tales]]'' and ''[[EP069|Lights, Camera, Quack-tion]]''.
+
+A Porygon made a cameo during the "World of Pokémon" opening narration of the [[M04|fourth]] and [[M05|fifth]] movies, shown floating behind a wire fence in a city. It also appeared in a shot in a "World of Pokémon" opening at the beginning of the clip show OVA ''[[The Journey to be a Pokémon Master Begins!!]]'', where it was floating above a fence in a very similar location.
+
+It most recently appeared alongside its evolutions and all pre-Generation VI Pokémon besides {{p|Genesect}} in the opening sequence of the [[M15|fifteenth movie]].
+
+==In the manga==
+[[File:Blue Porygon Conversion.png|200px|thumb|Porygon in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Blue's Porygon}}
+{{adv|Blue}} obtains a Porygon during his time in [[Celadon City]] in ''[[PS018|A Tale of Ninetales]]'', and it has since then become a core member of his team. Prior to {{PAV|13}}, it has since evolved into {{p|Porygon2}}.
+
+Another Porygon appeared in [[PASM05]] under the ownership of [[Gladion]]. It battled in the Iki Town festival tournament and won against [[Hau]]'s {{p|Pichu}}.
+
+===In the Pokémon Pocket Monsters manga===
+Multiple Porygon appeared in ''[[PM011|Finish Off Team Rocket!!]]''.
+{{-}}
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS055]]|A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace.}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Porygon (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros.]]/[[Super Smash Bros. Melee|Melee]]===
+Porygon pops out of a door on top of the [[Silph Co.]] building in the [[Saffron City (stage)|Saffron City stage]]. It damages players that come into contact with it.
+
+Porygon's only appearance in Melee is that of a Poké Float. When the fighting is on {{p|Slowpoke}}'s tail, three will travel across the top of the screen. However, they move too quickly to land on and so are little more than decoration in practice.
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Explorers of Sky}}: [[In the Future of Darkness]], Porygon live past Spacial Cliffs. {{mdc|Dusknoir|2}} goes to Spacial Cliffs to see them. Two Porygon appear at the end of the dungeon. They are allies of [[Primal Dialga]], and they transmit {{mdc|Grovyle|2}} and Dusknoir to Frozen Island.
+
+===Pokédex entries===
+{{Dex/Header|type=normal}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace.}}
+{{Dex/Entry1|v=Yellow|entry=The only Pokémon people anticipate can fly into space. None has managed the feat yet, however.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=A man-made Pokémon that consists entirely of programming code. It is capable of moving freely in cyberspace.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It is a manmade Pokémon. Since it doesn't breathe, people are eager to try it in any environment.}}
+{{Dex/Entry1|v=Silver|entry=A manmade Pokémon that came about as a result of research. It is programmed with only basic motions.}}
+{{Dex/Entry1|v=Crystal|entry=An artificial Pokémon created due to extensive research, it can perform only what is in its program.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It is a manmade Pokémon. Since it doesn't breathe, people are eager to try it in any environment.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy-protected so it cannot be duplicated by copying.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It is capable of reverting itself entirely back to program data in order to enter cyberspace. A Porygon is copy-protected so it cannot be duplicated.}}
+{{Dex/Entry1|v=FireRed|entry=Using the most advanced technologies, scientists finally succeeded in making the first artificial Pokémon.}}
+{{Dex/Entry1|v=LeafGreen|entry=A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=The world's first artificially created Pokémon. It can travel through electronic space.}}
+{{Dex/Entry1|v=Platinum|entry=A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.}}
+{{Dex/Entry1|v=HeartGold|entry=It is a manmade Pokémon. Since it doesn't breathe, people are eager to try it in any environment.}}
+{{Dex/Entry1|v=SoulSilver|entry=A manmade Pokémon that came about as a result of research. It is programmed with only basic motions.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=A man-made Pokémon that came about as a result of research. It is programmed with only basic motions.}}
+{{Dex/Entry1|v=Y|entry=A Pokémon that consists entirely of programming code. It is capable of moving freely in cyberspace.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy-protected so it cannot be duplicated by copying.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Roughly 20 years ago, it was artificially created, utilizing the latest technology of the time.}}
+{{Dex/Entry1|v=Moon|entry=It can convert its body into digital data, which enables it to enter cyberspace.}}
+{{Dex/Entry1|v=Ultra Sun|entry=This Pokémon was created using the cutting-edge science of 20 years ago, so many parts of it have since become obsolete.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It was built 20 years ago by scientists who dreamed of exploring space. Their dreams have yet to come true.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=normal}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Celadon Game Corner|Rocket Game Corner]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Celadon Game Corner|Rocket Game Corner]]}}
+{{Availability/Entry1|v=Yellow|area=[[Celadon Game Corner|Rocket Game Corner]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Celadon Game Corner]]}}
+{{Availability/Entry1|v=Crystal|area=[[Celadon Game Corner]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Celadon Game Corner|Rocket Game Corner]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Trophy Garden]]}}
+{{Availability/Entry1|v=Platinum|area=[[List of in-game event Pokémon in Generation IV#Porygon|Received]] from a person in [[Veilstone City]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Celadon Game Corner]]}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[White Forest]]{{tt|*|Appears only with the presence of Backpacker Herman}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Unova Link|Transfer]] from {{pkmn|Dream Radar}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Mirage Islands|Mirage Island]] (North of {{rt|125|Hoenn}}) and [[Mirage Mountains|Mirage Mountain]] (Southeast of {{rt|129|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[List of in-game event Pokémon in Generation VII#Porygon|Received]] in [[Aether House]] after becoming the [[Champion]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[List of in-game event Pokémon in Generation VII#Porygon|Received]] in [[Aether House]] after completing [[Episode RR]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Pokémon Island River|River]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Celadon City]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|1|v=Channel|color={{water color}}|area=[[Springleaf Field|Bus Stop]]}}
+{{Availability/Entry1|1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 1]], [[Huge Storage 5]], [[Mr. Who's Den]]}}
+{{Availability/Entry1|1|v=MD Red|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Buried Relic]] (5F-10F)}}
+{{Availability/Entry1/None|1|v=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Wonder Mail]] code}}
+{{Availability/Entry1|1|v=Ranger|link=Pokémon Ranger (game)|area=[[Dusk Factory]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=Deep [[Spacial Rift]] (B3-B9)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=Deep [[Spacial Rift]] (B3-B9)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Eternal Tower]] <small>(Normal Mode A, Advanced Mode C)</small>}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry2/None|v=MD Stormy|v2=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|t={{water color dark}}|color2={{electric color}}|t2={{electric color dark}}|area={{DL|Pokémon Mystery Dungeon (WiiWare)|Wonder Mail codes}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Conductor Room#Rumbling Magnetic Motors|Conductor Room: Rumbling Magnetic Motors]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 4|Mysterious Fountain: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 278]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Tricky Factory|Gold Plateau: Tricky Factory]] <small>(All Areas)</small>}}
+<!--{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=}}-->
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 20|Area 20: Stage 11]]}}
+|}
+|}
+{{Availability/Footer}}
+
+Porygon will not appear in Pokémon Mystery Dungeon: Blue Rescue Team until a rescue mission involving it has been completed, using a Wonder Mail code such as the following:
+:1?58 T5+? 4J78
+:WS?7 F??R NQ?X
+Objective: Rescue Porygon on floor 4 of [[Thunderwave Cave]].
+
+====In events====
+{{eventAvail/h|type=normal}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Barrier Porygon|English|United States|5|February 21 to 27, 2003|link=List of Gotta Catch 'Em All event Pokémon#Barrier Porygon}}
+|}
+
+====Pokémon Global Link promotions====
+{{eventAvail/h|type=normal}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Porygon|Japanese|PGL|10|May 18, 2011 to April 26, 2012|link=List of Pokémon Global Link promotions/Pokémon#Porygon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Porygon|Korean|PGL|10|October 20, 2011 to April 27, 2012|link=List of Pokémon Global Link promotions/Pokémon#Porygon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Porygon|English|PGL|10|July 12 to September 27, 2012|link=List of Pokémon Global Link promotions/Pokémon#Porygon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Porygon|French|PGL|10|July 19 to September 27, 2012|link=List of Pokémon Global Link promotions/Pokémon#Porygon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Porygon|German|PGL|10|July 19 to September 27, 2012|link=List of Pokémon Global Link promotions/Pokémon#Porygon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Porygon|Italian|PGL|10|July 19 to September 27, 2012|link=List of Pokémon Global Link promotions/Pokémon#Porygon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Porygon|Spanish|PGL|10|July 19 to September 27, 2012|link=List of Pokémon Global Link promotions/Pokémon#Porygon}}
+|}
+
+===Held items===
+{{HeldItems
+|type=normal
+|rby1=Bitter Berry|rby1type=None|rby1rar=100|rby1image=no
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=     65
+|Attack= 60
+|Defense=70
+|SpAtk=  85
+|SpDef=  75
+|Special=75
+|Speed=  40
+|type=Normal }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=5
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=normal
+|Normal=  100
+|Flying=  100
+|Fighting=200
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Poison=  100
+|Ghost=     0
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Porygon|Normal|Normal|1}}
+{{learnlist/level7|1|Conversion 2|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Conversion|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|1|Sharpen|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|7|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level7|12|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|18|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|23|Magnet Rise|Electric|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|29|Signal Beam|Bug|Special|75|100|15}}
+{{learnlist/level7|34|Recycle|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|40|Discharge|Electric|Special|80|100|15}}
+{{learnlist/level7|45|Lock-On|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|50|Tri Attack|Normal|Special|80|100|10||'''}}
+{{learnlist/level7|56|Magic Coat|Psychic|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|62|Zap Cannon|Electric|Special|120|50|5}}
+{{learnlist/levelf/7|Porygon|Normal|Normal|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Porygon|Normal|Normal|1}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Porygon|Normal|Normal|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Porygon|Normal|Normal|2}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Porygon|Normal|Normal|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Porygon|Normal|Normal|2}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Porygon|Normal|Normal|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg colorless color light}}; border: 3px solid #{{tcg colorless color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Peck}}
+| [[Porygon (Aquapolis 103)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/Pinball|col=3|type=Normal|ndex=137|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=137|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=137
+|body=1
+|rate=7.6
+|area=Decrepit Lab
+|P1=<sc>there is nothing that science cannot achieve.</sc>
+|P2=<sc>hp down 50 percent.</sc>
+|P3=<sc>system error. polygons are falling apart.</sc>
+|PL=<sc>level elevation achieved. science is victorious.</sc>
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=137
+|body=1
+|rate=6.4
+|IQ=E
+}}
+|-
+{{Spindata/Ranger|col=6|type=Normal
+|group=Normal
+|assist=None
+|field=None
+|loop=3
+|MinEXP=42
+|MaxEXP=62
+|browser=Porygon makes itself invisible to confuse enemies and interfere with capture.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Normal
+|att=2
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Normal
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=137
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=137|num=398
+|min=50
+|max=115
+|raisemaxlevel=10
+|skill=Barrier Bash+
+|skilldesc=Sometimes removes three barrier-type disruptions.
+|swapper=Flash Mob
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=137
+|egg=5
+|buddy=3
+|evocandy=50 + 1 [[Up-Grade]]
+|stamina=130
+|attack=153
+|defense=139
+|fast={{m|Charge Beam}}{{tt|*|From February 16, 2017 onward}}, {{m|Zen Headbutt}}{{tt|*|From August 20, 2016 until February 16, 2017}}, {{m|Quick Attack}}{{tt|*|Prior to August 20, 2016}}, {{m|Tackle}}{{tt|*|Prior to February 16, 2017}}, {{m|Hidden Power}}{{tt|*|From February 16, 2017 onward}}
+|special={{m|Psybeam}}{{tt|*|Prior to February 16, 2017}}, {{m|Solar Beam}}{{tt|*|From February 16, 2017 onward}}, {{m|Signal Beam}}{{tt|*|Prior to February 16, 2017}}, {{m|Hyper Beam}}{{tt|*|From February 16, 2017 onward}}, {{m|Discharge}}{{tt|*|Prior to February 16, 2017}}, {{m|Zap Cannon}}{{tt|*|From February 16, 2017 onward}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Normal
+|pictype=art
+|no1=137
+|name1=Porygon
+|type1-1=Normal
+|evo1={{bag|Up-Grade}}<br>{{color2|000|Trade}}<br>holding {{color2|000|Up-Grade}}
+|no2=233
+|name2=Porygon2
+|type1-2=Normal
+|evo2={{bag|Dubious Disc}}<br>{{color2|000|Trade}}<br>holding {{color2|000|Dubious Disc}}
+|no3=474
+|name3=Porygon-Z
+|type1-3=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/1|ndex=137}}
+{{Spritebox/2|ndex=137}}
+{{Spritebox/3|ndex=137}}
+{{Spritebox/4|ndex=137}}
+{{Spritebox/5|ndex=137}}
+{{Spritebox/6|ndex=137}}
+{{Spritebox/7|ndex=137}}
+{{Spritebox/Footer|137|Porygon}}
+
+==Trivia==
+* Porygon is the only Pokémon that evolves by trade twice: once holding the [[Up-Grade]] into {{p|Porygon2}}, and a second time (as Porygon2) into {{p|Porygon-Z}} when holding a [[Dubious Disc]]. It is also the only Pokémon in a [[:Category:Pokémon that are part of a three-stage evolutionary line|three-stage evolutionary line]] that does not require leveling up to trigger any of its evolutions (i.e. it is possible to acquire a Porygon-Z at Lv.1).
+* Porygon's evolutionary line is the only three-stage evolutionary line whose members can all learn both {{m|Giga Impact}} and {{m|Hyper Beam}}, as all three were considered fully-evolved during their respective debut generations.
+
+===Origin===
+It may be based on the concept of a bird made with primitive 3D graphics software. It may also draw inspiration from an {{wp|Orizuru|origami crane}}.
+
+====Name origin====
+Porygon is a corruption of ''{{wp|polygon}}''.
+
+==In other languages==
+{{Other languages|type=normal|type2=normal
+|ja=ポリゴン ''Porygon''|jameaning=From ''{{wp|polygon}}''
+|fr=Porygon|frmeaning=Same as English/Japanese name
+|es=Porygon|esmeaning=Same as English/Japanese name
+|de=Porygon|demeaning=Same as English/Japanese name
+|it=Porygon|itmeaning=Same as English/Japanese name
+|ko=폴리곤 ''Porygon''|komeaning=Transliteration of Japanese name
+|zh_yue=立方獸 ''Laahpfōngsau''|zh_yuemeaning=Literally "Cube monster"
+|zh_cmn=3D龍 / 3D龙 ''3D Lóng''|zh_cmnmeaning=Literally "3D Dragon"
+|gr=Πορυγων ''Porygun''|grmeaning=Transcription of English/Japanese name
+|ru=Поригон ''Porigon''|rumeaning=Transcription of English/Japanese name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Blue's Porygon]]
+
+==External links==
+
+==Notes==
+<references />
+
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=136|prev=Flareon|nextnum=138|next=Omanyte}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Pokémon that evolve through trading]]
+[[Category:Pokémon that evolve through held items]]
+[[Category:Pokémon that evolve by trading with a held item]]
+[[Category:Pokémon that evolve by trading holding Up-Grade]]
+[[Category:Pokémon that run from battle]]
+[[Category:Artificial Pokémon]]
+
+[[de:Porygon]]
+[[fr:Porygon]]
+[[it:Porygon]]
+[[ja:ポリゴン]]
+[[pl:Porygon]]
+[[zh:多边兽]]

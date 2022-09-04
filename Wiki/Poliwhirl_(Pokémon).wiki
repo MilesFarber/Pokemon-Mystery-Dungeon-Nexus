@@ -1,0 +1,635 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Poliwhirl}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=060|prev=Poliwag|nextnum=062|next=Poliwrath|round=none}}
+{{PokémonPrevNext/Disambig|species=Poliwhirl}}
+|}
+{{Pokémon Infobox
+|name=Poliwhirl
+|jname=ニョロゾ
+|tmname=Nyorozo
+|ndex=061
+|jdex=073
+|karea=Mountain
+|kdex=034
+|adex=150
+|fbrow=053
+|type1=Water
+|category=Tadpole
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=44.1
+|weight-kg=20.0
+|abilitylayout=2
+|ability1=Water Absorb
+|ability2=Damp
+|abilityd=Swift Swim
+|egggroupn=1
+|egggroup1=Water 1
+|eggcycles=20
+|evtotal=2
+|evsp=2
+|expyield=135
+|oldexp=131
+|lv100exp=1,059,860
+|gendercode=127
+|color=Blue
+|catchrate=120
+|body=12
+|pokefordex=poliwhirl
+|generation=1
+|friendship=70
+}}
+'''Poliwhirl''' ([[List of Japanese Pokémon names|Japanese]]: '''ニョロゾ''' ''Nyorozo'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Poliwag}} starting at [[level]] 25. It evolves into {{p|Poliwrath}} when exposed to a [[Water Stone]] or {{p|Politoed}} when {{DL|Trade|Pokémon which evolve when traded|traded}} holding a [[King's Rock]].
+
+==Biology==
+[[File:Poliwhirl concept art.png|thumb|120px|left|Part of its internal anatomy, as seen in its conceptual art]]
+Poliwhirl is a blue, bipedal Pokémon with a spherical body. It has bulbous eyes that protrude from the top of its head. A black and white swirl covers its belly, which are actually its organs showing through its thin skin. It appears to have white gloves on its hands and rounded, digit-less feet.
+
+While Poliwhirl is capable of moving on land, it prefers to stay in {{DL|List of Pokémon by habitat|Water's-edge Pokémon|freshwater ponds and lakes}}. When out of water, it sweats to keep its skin moist. It is always covered in an oily fluid that allows it to slip away from enemies. All of its skin feels this way except where its swirl is, which is very smooth. The swirl on its belly undulates slowly, and staring at it induces drowsiness.
+{{left clear}}
+
+==In the anime==
+===Major appearances===
+[[File:Poliwhirl anime.png|thumb|250px|Poliwhirl in the {{pkmn|anime}}]]
+====[[Misty's Poliwhirl]]====
+{{an|Misty}} had a Poliwhirl in ''[[EP151|The Totodile Duel]]'' that she caught as a Poliwag; it eventually evolved into a {{TP|Misty|Politoed}} during ''[[EP247|Outrageous Fortunes]]''.
+
+====Other====
+Several Poliwhirl were among the {{type|Water}} Pokémon feuding with the {{t|Grass}} types in ''[[EP225|Bulbasaur...the Ambassador]]''.
+
+In ''[[EP268|Tie One On!]]'', [[Vincent]] used a Poliwhirl in his battle with [[Macy]]. It was seen being defeated by her {{DL|Macy|Quilava}}.
+
+===Minor appearances===
+Poliwhirl first appeared in ''[[EP025|Primeape Goes Bananas]]''.
+
+A Poliwhirl appeared in ''[[EP040|The Battling Eevee Brothers]]'', where it evolved into a Poliwrath.
+
+A Poliwhirl appeared in ''[[EP047|A Chansey Operation]]''.
+
+A Poliwhirl was seen in a Pokémon Lab in ''[[EP58|Riddle Me This]]'' where it was captured by {{TRT}}.
+
+A Poliwhirl appeared in ''[[M01|Mewtwo Strikes Back]]''.
+
+Multiple Poliwhirl were among the Pokémon seen at [[Professor Oak's Laboratory]] in ''[[EP065|Showdown at the Po-ké Corral]]''.
+
+A Poliwhirl under the ownership of an unknown {{pkmn|Trainer}}, appeared in ''[[EP080|Friends to the End]]'', during the closing ceremonies of the [[Indigo League]].
+
+Poliwhirl appeared in ''[[EP083|Poké Ball Peril]]''.
+
+A [[List of alternately colored Pokémon in the anime#Pink Pokémon|pink]] Poliwhirl appeared in {{TRT}}'s fantasy in ''[[EP088|In the Pink]]''.
+
+Multiple Poliwhirl also appeared in ''[[M02|The Power of One]]''.
+
+Two Poliwhirl were part of an exhibition in ''[[EP122|Flower Power]]''.
+
+Four Poliwhirl were among the Pokémon competing in the [[Fire and Rescue Grand Prix]] in ''[[EP147|The Fire-ing Squad!]]''.
+
+A Poliwhirl appeared in ''[[EP169|Beauty and the Breeder]]'' where it participated in [[Pokémon Beauty Contest|a Pokémon breeding competition]].
+
+A Poliwhirl briefly appeared in ''[[EP108|Pokémon Double Trouble]]'' and ''[[EP216|Dueling Heroes]]''.
+
+A Poliwhirl was among the Pokémon stolen from the [[Pokémon Center]] of [[Blue Point Isle]] in ''[[EP210|Around the Whirlpool]]''.
+
+A Poliwhirl was under the ownership of a Trainer who was waiting in line to register for the [[Whirl Cup]] in ''[[EP215|Octillery The Outcast]]''.
+
+A Poliwhirl appeared in {{TRT}}'s fantasy in ''[[EP238|Nice Pryce Baby]]''.
+
+A Poliwhirl was one of the Pokémon seen at [[Professor Oak's Laboratory]] in ''[[SS014|Journey to the Starting Line!]]''.
+
+A Poliwhirl was used by one of the students of the [[Pokémon Trainers' School|Pokémon Trainer's School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+A Poliwhirl was owned by a family of traveling circus performers in ''[[M09|Pokémon Ranger and the Temple of the Sea]]''.
+
+Another Poliwhirl appeared in ''[[DP139|A Faux Oak Finish!]]'' where {{an|Professor Oak}} spotted it shortly before he was captured by a wild {{p|Quagsire}}.
+
+A Poliwhirl appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Poliwhirl appeared in ''[[XY003|A Battle of Aerial Mobility!]]''.
+
+A {{pkmn|Trainer}}'s Poliwhirl appeared in a fantasy in ''[[XY042|Battling Into the Hall of Fame!]]''.
+
+A Poliwhirl appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+A Trainer's Poliwhirl appeared in ''[[SM013|Racing to a Big Event!]]'', where it participated in the Pancake Race.
+
+A Trainer's Poliwhirl appeared in ''[[SM040|Balloons, Brionne, and Belligerence!]]''.
+
+Three Poliwhirl appeared in ''[[SM042|Alola, Kanto!]]'', with one belonging to a Trainer, one appearing in a lake, and one appearing in a photo taken by {{Rotom}}.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP151|Poliwhirl|Ash's Pokédex|Poliwhirl, the Tadpole Pokémon. Its highly developed muscles allow Poliwhirl to move efficiently on land, but it is even more agile in water.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+
+==In the manga==
+[[File:Poli Poliwhirl.png|thumb|200px|Poliwhirl in [[Pokémon Adventures]]]]
+===In The Electric Tale of Pikachu manga===
+{{main|Misty's Politoed}}
+{{an|Misty}}'s Poliwhirl makes a cameo in ''[[ET06|To Evolve or Not to Evolve, That is the Question!]]''. Misty wishes she could evolve her Poliwhirl into a {{p|Poliwrath}}, however, she is unable to, because [[evolutionary stone]]s are too expensive.
+
+===In the Pokémon Adventures manga===
+{{main|Poli}}
+{{main|Polibo}}
+[[Poli]] was {{adv|Red}}'s first Pokémon. He debuted in ''[[PS001|A Glimpse of the Glow]]'' as Poliwhirl, but was captured before the start of the chapter as a Poliwag. He gained more importance in [[Lt. Surge]]'s story arc, in fact he evolved in ''[[PS011|Buzz Off, Electabuzz!]]'' while saving Red from drowning in the sea due to the specks of [[Water Stone]] present in the water.
+
+Another Poliwhirl appeared in Red's explanation of Pokémon to the children of Pallet Town in ''[[PS001|A Glimps of the Glow]]''.
+
+Another Poliwhirl appeared as a silhouette when {{adv|Green}} explains about {{p|Mew}} in ''[[PS017|The Jynx Jinx]]''.
+
+{{adv|Gold}}'s Poliwag, [[Polibo]], evolved into Poliwhirl in ''[[PS109|Ampharos Amore]]'' when Gold and {{adv|Silver}} were trapped inside the [[Bell Tower|Tin Tower]]. With Silver's knowledge of Pokémon [[trade|trading]], Gold temporarily traded Poliwhirl to Silver via their Pokédexes, prompting Poliwhirl to evolve into Politoed when the effects of his [[King's Rock]] activated from the trade, triggering the evolution.
+
+Another Poliwhirl appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+A Poliwhirl appeared as a {{DL|Battle Frontier (Generation III)|Battle Factory}} Pokémon in ''[[PS306|Pinsir Me, I Must Be Dreaming]]''. 
+
+A Poliwhirl appeared in ''[[PS315|Skirting Around Surskit I]]'' as a rental Pokémon that [[Guile Hideout]] stole.
+
+A Poliwhirl appeared in ''[[PAXY28|Scizor Defends]]'' as a Pokémon in the [[Pokémon Village]].
+
+===In the Pokémon Pocket Monsters manga===
+A Poliwhirl is seen with {{OBP|Green|Pocket Monsters}} during the baseball match that took place in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]''.
+
+A Poliwhirl is seen with Green during the curry cooking competition that went on in ''[[PM027|Curry Showdown! Which is the Most Delicious?]]''.
+
+[[Lt. Surge]] also owns a Poliwhirl.
+
+{{OBP|Giovanni|Pocket Monsters}}'s first Poliwhirl appeared in ''[[PM029|The Thrill of a Perfect Score, Big Rampage at the Amusement Park!]]'' where it evolved into a Poliwrath in order to get rid of {{OBP|Red|Pocket Monsters}}, [[Red's Clefairy]] and [[Red's Pikachu (Pocket Monsters)|Pikachu]] when they went to the Amusement Park that he built. Giovanni has another Poliwhirl that appeared in ''[[PM031|Get The Last Badge!!]]'' where it was used in the Gym battle against Red.
+
+==In the TCG==
+{{main|Poliwhirl (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Melee]]===
+Poliwhirl only appears as a random trophy.
+====Trophy information====
+''Poliwhirl is a Tadpole Pokémon able to live on either land or in the water. When on dry land, it's constantly sweating to keep its skin nice and slimy. When in danger, it spins the whirlpool marking on its stomach to put enemies into a deep sleep, then it runs away. It evolves into either Poliwrath or Politoed.''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=water}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Capable of living in or out of water. When out of water, it sweats to keep its body slimy.}}
+{{Dex/Entry1|v=Yellow|entry=Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Capable of living on land, but prefers to stay in water. If it is out of water, it sweats to keep its skin moist.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.}}
+{{Dex/Entry1|v=Silver|entry=The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.}}
+{{Dex/Entry1|v=Crystal|entry=Though it is skilled at walking, it prefers to live underwater where there is less danger.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.}}
+{{Dex/Entry1|v=FireRed|entry=Its two legs are well developed. Even though it can live on the ground, it prefers living in water.}}
+{{Dex/Entry1|v=LeafGreen|entry=It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.}}
+{{Dex/Entry1|v=HeartGold|entry=The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.}}
+{{Dex/Entry1|v=SoulSilver|entry=The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.}}
+{{Dex/Entry1|v=Y|entry=Its two legs are well developed. Even though it can live on the ground, it prefers living in water.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=The surface of Poliwhirl's body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Although it can live on land, it prefers to stay in the water, where it has fewer natural enemies.}}
+{{Dex/Entry1|v=Moon|entry=It marches over the land in search of bug Pokémon to eat. Then it takes them underwater so it can dine on them where it's safe.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Although it has become capable of living on land, it spends its time in the water, where its prey, fish Pokémon, are plentiful.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its health suffers when its skin dries out, so be sure to moisturize it diligently.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area={{rt|10|Kanto}} and [[Celadon City]] ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{rt|10|Kanto}} and [[Celadon City]] ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|v=Yellow|area=[[Route]]s {{rtn|22|Kanto}} and {{rtn|23|Kanto}} ({{DL|Fishing|Super Rod}})}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|22|Kanto}}, {{rtn|28|Kanto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, and {{rtn|44|Johto}}, [[Violet City]], [[Ecruteak City]], [[Viridian City]], [[Mt. Silver]]{{tt|*|Entrance}} ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|22|Kanto}}, {{rtn|28|Kanto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, and {{rtn|44|Johto}}, [[Violet City]], [[Ecruteak City]], [[Viridian City]], [[Mt. Silver]]{{tt|*|Entrance}} ({{m|Surf}}ing)<br/>[[Route]]s {{rtn|28|Kanto}} and {{rtn|44|Johto}}, [[Mt. Silver]]{{tt|*|Entrance}} ([[tall grass]]){{sup/t|N}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Route]]s {{rtn|6|Kanto}}, {{rtn|22|Kanto}}, {{rtn|23|Kanto}}, and {{rtn|25|Kanto}}, [[Four Island (town)|Four Island]], [[Viridian City]], [[Cape Brink]], [[Cerulean Cave]], [[Icefall Cave]], [[Ruin Valley]] ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|225|Sinnoh}} ({{DL|Fishing|Super Rod}})<br/>[[Route]]s {{rtn|227|Sinnoh}} and {{rtn|228|Sinnoh}} ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|227|Sinnoh}} and {{rtn|228|Sinnoh}} ({{m|Surf}}ing)}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|22|Kanto}}, {{rtn|28|Kanto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, and {{rtn|44|Johto}}, [[Ecruteak City]], [[Mt. Silver]], [[Violet City]], [[Viridian City]], [[Mt. Silver]]{{tt|*|exterior}} ({{m|Surf}}ing)<br/>[[Cerulean Cave]] ({{DL|Fishing|Super Rod}}){{sup/t|M}}{{sup/t|D}}<br/>{{safari|Johto}} ([[Fishing]] or {{m|Surf}}ing)}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Sightseeing}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|6|Unova}}, [[Wellspring Cave]], [[Challenger's Cave]], {{OBP|Victory Road|Black and White}}, [[Giant Chasm]] ([[Fishing]])}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Route]]s {{rtn|6|Unova}}, {{rtn|19|Unova}}, {{rtn|20|Unova}}, and {{rtn|23|Unova}}, [[Floccesy Ranch]], [[Relic Passage]], [[Wellspring Cave]], [[Clay Tunnel]], [[Lostlorn Forest]], [[Giant Chasm]], {{OBP|Victory Road|Black 2 and White 2}} ([[Fishing]])<br/>[[Pinwheel Forest]] ([[Hidden Grotto]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Route]]s {{rtn|14|Kalos}}, {{rtn|15|Kalos}}, {{rtn|16|Kalos}}, {{rtn|19|Kalos}}, and {{rtn|21|Kalos}}, [[Laverre City]], [[Frost Cavern]], [[Couriway Town]], [[Pokémon Village]], {{kal|Victory Road}} ({{DL|Fishing|Good Rod}} or {{DL|Fishing|Super Rod}})<br/>[[Pokémon Village]], [[Frost Cavern]], {{kal|Victory Road}} ({{m|Surf}}ing)<br/>[[Friend Safari]] ([[Friend Safari#Water-type Safari|Water]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[In-game trade#Sun and Moon|Trade]] {{p|Zubat}} in [[Konikoni City]]<br>[[Malie Garden]] ([[SOS Battle]] in {{weather|rain}})}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Malie Garden]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Poliwag}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 11]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Northwind Field]] (10F-16F), [[Waterfall Pond]] (9F-13F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Krokka Tunnel]], [[Panula Cave]], [[Sekra Range]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]] <small>(Normale Mode C & A)</small>}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Magical Lake#Let's Sing a Song|Magical Lake: Let's Sing a Song]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 2|Safari Jungle: Stage 2]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 447]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Purifying Pond|Gold Plateau: Purifying Pond]] <small>(All Areas)</small>, [[Plasma Tundra#Misty Moor|Plasma Tundra: Misty Moor]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=water
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1rar=100|rby1image=no
+|gsc1=King's Rock|gsc1type=None|gsc1rar=8
+|dppt1=King's Rock|dppt1type=None|dppt1rar=5
+|hgss1=King's Rock|hgss1type=None|hgss1rar=5
+|bw1=King's Rock|bw1type=None|bw1rar=5
+|b2w21=King's Rock|b2w21type=None|b2w21rar=5
+|xy1=King's Rock|xy1type=None|xy1rar=5
+|sm1=King's Rock|sm1type=None|sm1rar=5
+|usum1=King's Rock|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=     65
+|Attack= 65
+|Defense=65
+|SpAtk=  50
+|SpDef=  50
+|Special=50
+|Speed=  90
+|type=Water }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=water
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|waterabsorb=maybe}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Poliwhirl|Water|Water|1}}
+{{learnlist/level7|1|Water Sport|Water|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|1|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/level7|5|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|8|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/level7|11|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/level7|15|Double Slap|Normal|Physical|15|85|10}}
+{{learnlist/level7|18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|21|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level7|27|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level7|32|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/level7|37|Belly Drum|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|43|Wake-Up Slap|Fighting|Physical|70|100|10||''}}
+{{learnlist/level7|48|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|53|Mud Bomb|Ground|Special|65|85|10}}
+{{learnlist/levelf/7|Poliwhirl|Water|Water|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Poliwhirl|Water|Water|1}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Poliwhirl|Water|Water|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Poliwhirl|Water|Water|2}}
+{{learnlist/breed7|{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|062|Poliwrath}}{{MSP|186|Politoed}}{{MSP|116|Horsea}}{{MSP|117|Seadra}}<br>{{MSP|230|Kingdra}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|222|Corsola}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}<br>{{MSP|226|Mantine}}{{MSP|270|Lotad}}{{MSP|271|Lombre}}{{MSP|283|Surskit}}{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}<br>{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}<br>{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}<br>{{MSP|730|Primarina}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|728|Popplio}}<br>{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|258|Mudkip}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}|Endeavor|Normal|Physical|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|222|Corsola}}{{MSP|618|Stunfisk}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|283|Surskit}}{{MSP|658|Greninja}}|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}|Ice Ball|Ice|Physical|30|90|20}}
+{{learnlist/breed7|{{MSP|062|Poliwrath}}|Mind Reader|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|270|Lotad}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}<br>{{MSP|283|Surskit}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}|Mist|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}<br>{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}<br>{{MSP|537|Seismitoad}}{{MSP|618|Stunfisk}}|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/breed7|{{MSP|222|Corsola}}{{MSP|350|Milotic}}|Refresh|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|349|Feebas}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Splash|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|079|Slowpoke}}<br>{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|131|Lapras}}{{MSP|223|Remoraid}}{{MSP|226|Mantine}}{{MSP|278|Wingull}}<br>{{MSP|279|Pelipper}}{{MSP|350|Milotic}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|656|Froakie}}{{MSP|657|Frogadier}}{{MSP|658|Greninja}}<br>{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|086|Seel}}{{MSP|183|Marill}}<br>{{MSP|184|Azumarill}}{{MSP|271|Lombre}}{{MSP|279|Pelipper}}{{MSP|283|Surskit}}{{MSP|284|Masquerain}}{{MSP|350|Milotic}}<br>{{MSP|368|Gorebyss}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|580|Ducklett}}<br>{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}{{MSP|751|Dewpider}}{{MSP|771|Pyukumuku}}|Water Sport|Water|Status|&mdash;|&mdash;|15}}
+{{learnlist/breedf/7|Poliwhirl|Water|Water|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Poliwhirl|Water|Water|2}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Poliwhirl|Water|Water|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Poliwhirl|Water|Water|1}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Poliwhirl|Water|Water|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" align="center" style="background: #{{tcg water color light}}; border: 3px solid #{{tcg water color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Double Kick}}
+| [[Poliwhirl (Skyridge 88)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Energy Ball}}
+| style="background:#fff; {{roundybr|5px}}" | [[Poliwhirl (EX Unseen Forces 68)]]
+|}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{water color light}}; border: 3px solid #{{ground color}}"
+|-
+! style="{{roundytl|5px}};" | Move
+! Type
+! style="{{roundytr|5px}};" | Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Tackle}}
+| style="background:#fff" | {{typecolor|Normal}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[EP177|Wings 'N' Things]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/Pinball|col=3|type=Water|ndex=061|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Water|ndex=061|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=061
+|body=1
+|rate=-19
+|area=Tadpole Pond
+|P1=Ground or water, I'm good for both!
+|P2=Hate to say this, but I'm down to half HP.
+|P3=I'm about done... There's no power left...
+|PL=Yup! Leveled up! Let me at them!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=061
+|body=1
+|rate=0.5
+|IQ=F
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=2
+|field=Soak
+|loop=5
+|MinEXP=35
+|MaxEXP=55
+|browser=Poliwhirl attacks with jets of water. Beware--it attacks repeatedly.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=2
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=061
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=061|num=592
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Sleep Combo
+|skilldesc=Increases damage done by combos if the foe is asleep.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=061
+|hatch=N/A
+|buddy=3
+|evolution=<br/>Poliwrath: [[File:GO Candy.png|16px]] 100<br/>Politoed: [[File:GO Candy.png|16px]] 100 + 1 [[King's Rock]]
+|stamina=130
+|attack=130
+|defense=130
+|fast={{m|Bubble}}, {{m|Mud Shot}}
+|special={{m|Scald}}{{tt|*|Prior to February 16, 2017}}, {{m|Water Pulse}}{{tt|*|From February 16, 2017 onward}}, {{m|Mud Bomb}}, {{m|Bubble Beam}}
+}}
+|}
+
+===Evolution===
+{{evobox
+|family=Normal
+|sprite1=060Poliwag
+|name1=Poliwag
+|type1-1=Water
+|evotype1=Level
+|level1=25
+|sprite2=061Poliwhirl
+|name2=Poliwhirl
+|type1-2=Water
+|evotype2=Stone
+|evostone2=Water Stone
+|sprite3=062Poliwrath
+|name3=Poliwrath
+|type1-3=Water
+|type2-3=Fighting
+|evotype2a=Trade
+|held2a=King's Rock
+|sprite3a=186Politoed
+|name3a=Politoed
+|type1-3a=Water}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/1|ndex=061}}
+{{Spritebox/2|ndex=061}}
+{{Spritebox/3|ndex=061}}
+{{Spritebox/4|ndex=061}}
+{{Spritebox/5|ndex=061}}
+{{Spritebox/6|ndex=061}}
+{{Spritebox/7|ndex=061}}
+{{Spritebox/Footer|061|Poliwhirl}}
+
+==Trivia==
+[[File:Pokémon Center Tokyo logo old.png|right|thumb|Poliwhirl in the original Tokyo Pokémon Center logo|100px]]
+* The logo for the Pokémon Center in Tokyo featured Poliwhirl until it was replaced by {{p|Piplup}} in July 2007.
+* Poliwhirl was also featured prominently on the center of the November 22nd, 1999 issue of {{wp|Time Magazine}}.
+* Poliwhirl's sprites and artwork are inconsistent with respect to its gloves. Sometimes they are depicted as mittens, while other times they have separate fingers.
+** All spritework from {{2v2|FireRed|LeafGreen}} onwards feature Poliwhirl with mitten-like hands. Because of this, Poliwhirl is one of the few Pokémon to have its {{v2|Emerald}} sprite differ from the {{2v2|Ruby|Sapphire}} one.
+* Poliwhirl shares its {{pkmn|category}} with {{p|Poliwag}}, {{p|Poliwrath}}, and {{p|Tympole}}. They are all known as the Tadpole Pokémon.
+
+===Origin===
+Poliwhirl is based on a {{wp|glass frog}}. The spiral pattern on its belly is supposed to represent how the organs of these frogs and other tadpoles can sometimes be seen through their transparent skin. Its evolution is based on a tadpole's {{wp|Metamorphosis#Amphibian metamorphosis|metamorphosis}}.
+
+====Name origin====
+Poliwhirl may be a combination of ''{{wp|polliwog}}'' and ''whirl'' (referring to the spiral on its stomach).
+
+Nyorozo is derived from ニョロニョロ ''nyoronyoro'' (the sound of slithering).
+
+==In other languages==
+{{incomplete|section|needs Icelandic meaning}}
+{{Other languages|type=water|type2=water
+|ja=ニョロゾ ''Nyorozo''|jameaning=From {{tt|ニョロニョロ ''nyoronyoro''|slithering}}
+|fr=Têtarte|frmeaning=From {{tt|''têtard''|tadpole}} and {{tt|''tarte''|slap}}
+|es=Poliwhirl|esmeaning=Same as English name
+|de=Quaputzi|demeaning=From {{tt|''Kaulquappe''|tadpole}} and ''{{tt|putzig|peculiar}}''
+|it=Poliwhirl|itmeaning=Same as English name
+|ko=슈륙챙이 ''Shuryukchengi''|komeaning=From {{tt|수륙(水陸) ''su'ryuk''|amphibious; literally 'water and land'}} and {{tt|올챙이 ''olchaeng'i''|tadpole}}
+|zh_yue=蚊香蛙 ''Mānhēungwā''|zh_yuemeaning=From {{wp|Mosquito coil|{{tt|蚊香|mosquito coil}}}} and {{tt|蛙|frog}}
+|zh_cmn=蚊香蛙 ''Wénxiāngwā''|zh_cmnmeaning=From {{wp|Mosquito coil|{{tt|蚊香|mosquito coil}}}} and {{tt|蛙|frog}}
+|hi=पॉलीवर्ल ''Poliwhirl''|himeaning=Transcription of English name
+|is=Fjölreiði{{tt|*|in the sub of Pikachu's Rescue Adventure}}|ismeaning=
+|lt=Polivirlas|ltmeaning=From English name
+|ru=Поливирл ''Polivirl''|rumeaning=Transcription of English name
+}}
+
+<br clear="left">
+
+==Related articles==
+* {{TP|Misty|Misty's Poliwhirl|Politoed}}
+* [[Poli]]
+* [[Polibo]]
+
+==External links==
+
+==Notes==
+<references />
+
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=060|prev=Poliwag|nextnum=062|next=Poliwrath}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Pokémon that evolve by evolutionary stone]]
+[[Category:Pokémon that evolve using Water Stone]]
+[[Category:Pokémon that evolve through trading]]
+[[Category:Pokémon that evolve through held items]]
+[[Category:Pokémon that evolve by trading with a held item]]
+[[Category:Pokémon that evolve by trading holding King's Rock]]
+
+[[de:Quaputzi]]
+[[fr:Têtarte]]
+[[it:Poliwhirl]]
+[[ja:ニョロゾ]]
+[[pl:Poliwhirl]]
+[[zh:蚊香君]]

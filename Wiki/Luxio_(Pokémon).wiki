@@ -1,0 +1,433 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=403|prev=Shinx|nextnum=405|next=Luxray|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Luxio}}
+|}
+{{Pokémon Infobox
+|name=Luxio
+|jname=ルクシオ
+|jtranslit=Rukushio
+|tmname=Luxio
+|ndex=404
+|sdex=018
+|abrow=050
+|obrow=124
+|opbrow=044
+|typebox=1
+|type1=Electric
+|category=Spark
+|height-ftin=2'11"
+|height-m=0.9
+|weight-lbs=67.2
+|weight-kg=30.5
+|abilityn=d
+|ability1=Rivalry
+|ability2=Intimidate
+|abilityd=Guts
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=2
+|evat=2
+|expyield=127
+|oldexp=117
+|lv100exp=1,059,860
+|gendercode=127
+|color=Blue
+|catchrate=120
+|body=08
+|pokefordex=luxio
+|generation=4
+|friendship=100
+}}
+'''Luxio''' ([[List of Japanese Pokémon names|Japanese]]: '''ルクシオ''' ''Luxio'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Shinx}} starting at [[level]] 15 and evolves into {{p|Luxray}} starting at level 30.
+
+==Biology==
+Luxio is a feline, quadruped Pokémon resembling a young lynx or lion. Blue and black fur covers most of its body. Its ears, face, hind paws, and front half of its body are blue, while its hindquarters are black. Additionally, Luxio has a tufty black mane surrounding its face. The mane is longer on the male Luxio, while the fur on the hind paws extends to ankles on the female. The insides of its rounded ears are yellow, as are its eyes. There are two yellow rings around each front leg and a yellow, four-point star on the tip of its tail. Luxio is able to communicate with others of its kind using {{wp|Electroreception|electrical pulses from its claws}}. Luxio lives in small groups, and is able to generate powerful electricity by gathering the group's tails together.
+
+==In the anime==
+[[File:Clemont Luxio.png|thumb|left|250px|Luxio in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Clemont's Luxio]]====
+In ''[[XY048|A Campus Reunion!]]'', {{an|Clemont}} {{pkmn2|caught}} a Luxio. He evolved from a Shinx before the episode. In ''[[XY062|The Future Is Now, Thanks to Determination!]]'', Luxio evolved into a {{p|Luxray}}.
+
+====Other====
+Luxio debuted in ''[[M10|The Rise of Darkrai]]'', where it was among the Pokémon residing in a garden in [[Alamos Town]]. Luxio seemed to be shy, as it hesitated before it ran to {{Ash}} and {{ashfr}}' Pokémon. It later participated in a near-skirmish between two groups of Pokémon, caused by a misunderstanding. Afterwards, it was a bystander during the battle between {{mov|Dialga}} and {{mov|Palkia}}.
+
+In ''[[DP109|Leading a Stray!]]'', a Luxio helped a {{p|Wailmer}} that was trapped in the sewers. As a result, the Wailmer made it back into the ocean safely and evolved into a {{p|Wailord}}.
+
+===Minor appearances===
+A Luxio made a brief cameo in the opening sequence of ''[[M11|Giratina and the Sky Warrior]]''.
+
+A Luxio appeared in ''[[DP149|Sticking With Who You Know!]]''.
+
+A {{pkmn|Trainer}}'s Luxio appeared in ''[[DP160|A Marathon Rivalry!]]'', where it was seen participating in the [[Pokéathlon]] held in [[Camellia Town]].
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP109|Luxio|Ash's Pokédex|Luxio, the Spark Pokémon. By touching friends with its front paws, Luxio is able to communicate through the {{m|Spark|sparks}} it emits.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY048|Luxio|Ash's Pokédex|Luxio, the Spark Pokémon, and the evolved form of Shinx. Luxio's sharp claws conduct electricity, and the slightest scratch can knock out an opponent.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Rayler Luxio.png|thumb|200px|Luxio in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Rayler}}
+{{adv|Platinum}} was attacked by a pack of {{p|Shinx}} and Luxio in ''[[PS340|Extreme Luxio]]''. One of them, due to his broken claws, was unable to communicate with his group and was shunned by them. In an attempt to regain his group's favor, he battled with Diamond's Pokémon. Pearl eventually managed to get his comrades' trust and befriended the Luxio. Later, he evolved into a Luxray and joined Pearl's team after being named Rayler.
+
+Multiple Luxio appeared in ''[[PS349|Passing by Probopass and Maneuvering around Magnezone]]'' and ''[[PS389|Cautious Clefairy]]''.
+
+In ''[[PS435|The Final Dimensional Duel V]]'', a Luxio appeared on [[Fullmoon Island]] in {{FB|Tower Tycoon|Palmer}}'s flashback.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+{{main|Hareta's Luxio}}
+[[Hareta]]'s {{p|Shinx}} evolved into Luxio after defeating [[B-2]] on [[Iron Island]] in ''[[DPA10|Serious Training on Iron Island!!]]''. His Trainer attempted to use him against [[Cyrus]]'s {{p|Gyarados}} at [[Lake Valor]], but he was instead ambushed by [[Saturn]]'s {{p|Rhyperior}}, who had been [[revive]]d after being [[Fainting|knocked out]]. Later, he evolved into {{p|Luxray}} during Hareta's {{si|Pokémon League}} battle with [[Koya]].
+
+==In the TCG==
+{{main|Luxio (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]]: [[Amp Plains tribes|Luxray and the Luxio Tribe]] are the bosses of [[Amp Plains]]. In [[Pokémon Mystery Dungeon: Explorers of Sky]], they are replaced by {{p|Manectric}} and the {{p|Electrike}} tribe.
+
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=Its claws loose electricity with enough amperage to cause fainting. They live in small groups.}}
+{{Dex/Entry1|v=Pearl|entry=It rests its forelegs on others to communicate with rhythmic electric pulses from its claws.}}
+{{Dex/Entry1|v=Platinum|entry=Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=By gathering their tails together, they collectively generate powerful electricity from their claws.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its claws loose electricity with enough amperage to cause fainting. They live in small groups.}}
+{{Dex/Entry1|v=Y|entry=Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Its claws loose electricity with enough amperage to cause fainting. They live in small groups.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Fuego Ironworks]]}}
+{{Availability/Entry1|v=Platinum|area={{rt|222|Sinnoh}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Shinx}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Electric-type Safari|Electric]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{rt|118|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|8|Alola}} ({{DL|QR Scanner|Island Scan}}){{dotw|Tu}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=Far [[Amp Plains]] (5F-9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=Far [[Amp Plains]] (5F-9F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Vien Forest]], [[Cargo Ship]], [[Oil Field Hideout]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Fiery Furnace]]}}
+{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=[[Evolution|Evolve]] {{p|Shinx}}}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Wireless Tower]], [[Thunder Temple]], [[Forest Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Violight]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]], [[Jungle Area#Dangerous Rockets|Jungle Area: Dangerous Rockets]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 2|Safari Jungle: Stage 2]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 245]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Fix-Up Factory|Diamond Crater: Fix-Up Factory]] <small>(All Areas)</small>, [[Distortion Land#Electromagnetic Plant|Distortion Land: Electromagnetic Plant]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Electric
+|HP=     60
+|Attack= 85
+|Defense=49
+|SpAtk=  60
+|SpDef=  49
+|Speed=  60}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Electric
+|Speed=3
+|SpeedMax=4
+|Power=4
+|PowerMax=4
+|Technique=3
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=4
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|Normal=  100
+|Fighting=100
+|Flying=   50
+|Poison=  100
+|Ground=  200
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric= 50
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Luxio|Electric|Electric|4}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|5|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|9|Charge|Electric|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|13|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level7|18|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|23|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|28|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|33|Thunder Fang|Electric|Physical|65|95|15||'''}}
+{{learnlist/level7|38|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|43|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|48|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level7|53|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/levelf/7|Luxio|Electric|Electric|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Luxio|Electric|Electric|4}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Luxio|Electric|Electric|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Luxio|Electric|Electric|4}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|034|Nidoking}}{{MSP|135|Jolteon}}{{MSP|256|Combusken}}{{MSP|257|Blaziken}}<br>{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|725|Litten}}{{MSP|726|Torracat}}<br>{{MSP|727|Incineroar}}{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed7|{{MSP|179|Mareep}}|Eerie Impulse|Electric|Status|&mdash;|100|15|*}}
+{{learnlist/breed7|{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|303|Mawile}}{{MSP|570|Zorua}}|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|058|Growlithe}}{{MSP|059|Arcanine}}{{MSP|136|Flareon}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}<br>{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|232|Donphan}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|310|Manectric}}<br>{{MSP|450|Hippowdon}}{{MSP|508|Stoutland}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}<br>{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|058|Growlithe}}{{MSP|133|Eevee}}{{MSP|134|Vaporeon}}{{MSP|135|Jolteon}}<br>{{MSP|136|Flareon}}{{MSP|196|Espeon}}{{MSP|197|Umbreon}}{{MSP|470|Leafeon}}{{MSP|471|Glaceon}}{{MSP|700|Sylveon}}<br>{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|572|Minccino}}<br>{{MSP|573|Cinccino}}{{MSP|678|Meowstic}}|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}<br>{{MSP|295|Exploud}}{{MSP|309|Electrike}}{{MSP|310|Manectric}}{{MSP|653|Fennekin}}{{MSP|654|Braixen}}{{MSP|655|Delphox}}<br>{{MSP|744|Rockruff}}{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Howl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|221|Piloswine}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}<br>{{MSP|365|Walrein}}{{MSP|419|Floatzel}}{{MSP|450|Hippowdon}}{{MSP|471|Glaceon}}{{MSP|473|Mamoswine}}{{MSP|508|Stoutland}}|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/breed7|{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|083|Farfetch'd}}{{MSP|336|Seviper}}{{MSP|359|Absol}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|461|Weavile}}<br>{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|571|Zoroark}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|025|Pikachu}}{{MSP|026|Raichu}}<br>{{MSP|026A|Raichu}}{{MSP|037|Vulpix}}{{MSP|038|Ninetales}}{{MSP|078|Rapidash}}{{MSP|133|Eevee}}{{MSP|134|Vaporeon}}<br>{{MSP|135|Jolteon}}{{MSP|136|Flareon}}{{MSP|196|Espeon}}{{MSP|197|Umbreon}}{{MSP|470|Leafeon}}{{MSP|471|Glaceon}}<br>{{MSP|700|Sylveon}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|161|Sentret}}{{MSP|162|Furret}}<br>{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|255|Torchic}}{{MSP|256|Combusken}}{{MSP|257|Blaziken}}{{MSP|309|Electrike}}<br>{{MSP|310|Manectric}}{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|417|Pachirisu}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}<br>{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|448|Lucario}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|587|Emolga}}<br>{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|745|Lycanroc}}|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/breed7|{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|587|Emolga}}|Shock Wave|Electric|Special|60|&mdash;|20||'''}}
+{{learnlist/breed7|{{MSP|087|Dewgong}}{{MSP|179|Mareep}}{{MSP|180|Flaaffy}}{{MSP|181|Ampharos}}|Signal Beam|Bug|Special|75|100|15}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|133|Eevee}}<br>{{MSP|196|Espeon}}{{MSP|700|Sylveon}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|190|Aipom}}<br>{{MSP|424|Ambipom}}{{MSP|417|Pachirisu}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|572|Minccino}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}|Swift|Normal|Special|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|077|Ponyta}}{{MSP|078|Rapidash}}{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|111|Rhyhorn}}<br>{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}{{MSP|128|Tauros}}{{MSP|133|Eevee}}{{MSP|179|Mareep}}{{MSP|180|Flaaffy}}<br>{{MSP|181|Ampharos}}{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|231|Phanpy}}<br>{{MSP|234|Stantler}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|263|Zigzagoon}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}<br>{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}{{MSP|498|Tepig}}{{MSP|499|Pignite}}<br>{{MSP|500|Emboar}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}<br>{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|667|Litleo}}<br>{{MSP|668|Pyroar}}{{MSP|672|Skiddo}}{{MSP|673|Gogoat}}{{MSP|676|Furfrou}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}<br>{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|766|Passimian}}|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|059|Arcanine}}{{MSP|135|Jolteon}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|229|Houndoom}}<br>{{MSP|232|Donphan}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|309|Electrike}}{{MSP|310|Manectric}}{{MSP|403|Shinx}}<br>{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|450|Hippowdon}}{{MSP|508|Stoutland}}|Thunder Fang|Electric|Physical|65|95|15||'''}}
+{{learnlist/breedf/7|Luxio|Electric|Electric|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Luxio|Electric|Electric|4}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutorf/7|Luxio|Electric|Electric|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Luxio|Electric|Electric|4}}
+{{learnlist/prevo7|403|Shinx|||||Baby-Doll Eyes|Fairy|Status|&mdash;|100|30}}
+{{learnlist/prevof/7|Luxio|Electric|Electric|4}}
+
+====Special moves====
+{{learnlist/eventh/7|Luxio|Electric|Electric|4}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|SM}}|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/eventf/7|Luxio|Electric|Electric|4}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/MDTDS|col=6|type=Electric|ndex=404
+|body=1
+|rate=0.5
+|IQ=C
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|field=Electrify
+|fieldpower=2
+|browser=It spits blobs of electricity and discharges electric bolts from its body.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|field=Electrify
+|fieldpower=2
+|browser=It causes thunderbolts to strike that make Pokémon Paused.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Electric
+|att=3
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Electric
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Electric|ndex=404
+|HP=2
+|atk=3
+|def=2
+|spd=2
+|range=3
+|move=Discharge
+|ability1=Intimidate
+|ability2=Sequence
+|ability3=Run Up
+|evo=Evolves from {{p|Shinx}} when its Attack is 35 or higher<br>Evolves into {{p|Luxray}} when its Attack is 95 or higher |
+|link={{DL|List of Pokémon Conquest characters|Dōsetsu}}, '''[[Ginchiyo]]''', and {{DL|List of Pokémon Conquest characters|Takatane}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=404
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=404|num=347
+|min=50
+|max=115
+|raisemaxlevel=10
+|skill=Block Smash
+|skilldesc=Clears one unbreakable-block disruption without fail.
+|swapper=Mega Boost++
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Electric
+|pictype=art
+|no1=403
+|name1=Shinx
+|type1-1=Electric
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 15}}
+|no2=404
+|name2=Luxio
+|type1-2=Electric
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no3=405
+|name3=Luxray
+|type1-3=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/Gender|ndex=404}}
+{{Spritebox/5/Gender|ndex=404}}
+{{Spritebox/6/Gender|ndex=404}}
+{{Spritebox/7/Gender|ndex=404}}
+{{Spritebox/Footer|404|Luxio}}
+
+==Trivia==
+* Luxio is the only Pokémon with a base stat total of 363.
+
+===Origin===
+Luxio is based on an adolescent {{wp|lynx}} or {{wp|lion}}.
+====Name origin====
+Luxio is a combination of ''{{wp|lux}}'' (Latin for ''light'') and a corruption of ''leo'' (Latin for ''lion''). Notably, the {{wp|Karnak}} temple complex in {{wp|Luxor}}, {{wp|Egypt}} has a famous avenue of {{wp|sphinx}}es.
+
+==In other languages==
+{{Other languages|type=Electric|type2=Electric
+|ja=ルクシオ ''Luxio''|jameaning=From ''lux'' (Latin for light) and a corruption of ''leo'' (Latin for lion)
+|de=Luxio|demeaning=Same as English/Japanese name
+|fr=Luxio|frmeaning=Same as English/Japanese name
+|es=Luxio|esmeaning=Same as English/Japanese name
+|it=Luxio|itmeaning=Same as English/Japanese name
+|ko=럭시오 ''Leoksio''|komeaning=Transliteration of Japanese name
+|zh_cmn=勒克貓 / 勒克貓 ''Lèkèmāo''|zh_cmnmeaning=From {{tt|勒克斯 ''lèkèsī''|lux}} and {{tt|貓 ''māo''|cat}}
+|zh_yue=勒克貓 ''Laahkhāakmāau''|zh_yuemeaning=Same as Mandarin name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Clemont's Luxio]]
+* [[Rayler]]
+* [[Hareta's Luxio]]
+* [[Amp Plains tribes]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=403|prev=Shinx|nextnum=405|next=Luxray}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Luxio]]
+[[fr:Luxio]]
+[[it:Luxio]]
+[[ja:ルクシオ]]
+[[pl:Luxio]]
+[[zh:勒克猫]]

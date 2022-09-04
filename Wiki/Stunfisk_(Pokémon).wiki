@@ -1,0 +1,373 @@
+{{PokémonPrevNext/Head|type=Ground|type2=Electric}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=617|prev=Accelgor|nextnum=619|next=Mienfoo|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Stunfisk}}
+|}
+{{Pokémon Infobox
+|name=Stunfisk
+|jname=マッギョ
+|tmname=Maggyo
+|category=Trap
+|typebox=1
+|type1=Ground
+|type2=Electric
+|abilityn=d
+|ability1=Static
+|ability2=Limber
+|abilityd=Sand Veil
+|ndex=618
+|udex=124
+|u2dex=231
+|karea=Mountain
+|kdex=039
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=24.3
+|weight-kg=11.0
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Amorphous
+|eggcycles=20
+|expyield=165
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=75
+|evtotal=2
+|evhp=2
+|body=03
+|pokefordex=stunfisk
+|generation=5
+|friendship=70
+}}
+'''Stunfisk''' ([[List of Japanese Pokémon names|Japanese]]: '''マッギョ''' ''Maggyo'') is a dual-type {{2t|Ground|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+[[File:Cilan Stunfisk smiling.png|left|thumb|200px|Stunfisk smiling]]
+Stunfisk is a flat, fish-like Pokémon with a broad, mud-brown body. At the base of its yellow tail is a yellow marking shaped like an {{wp|exclamation mark}} when seen from behind. It has small, horizontal, oval-shaped eyes, white with a tiny black pupil and no irises. Almost exactly between these two eyes lies the two thick gray lips that form its mouth. It has two small, flimsy fins at the sides of its body; each with two lobes. It has been seen to leap into the air and flap its fins as if they're wings to remain airborne.
+
+Stunfisk's very tough skin keeps them unharmed if stepped on, even by sumo wrestlers. To exploit this, it buries itself in mud of the seashore and waits for prey to pass by. Whenever unsuspecting prey touch a Stunfisk's body, it is zapped. Stunfisk smiles when electrocuting its foes. If it cannot paralyze its foe, it contorts itself with unexpected speed and flops away.
+
+==In the anime==
+[[File:Cilan Stunfisk.png|thumb|230px|left|Stunfisk in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Cilan's Stunfisk]]====
+[[Cilan's Stunfisk|Stunfisk]] debuted in ''[[BW032|Facing Fear with Eyes Wide Open!]]'', when its friend, {{AP|Palpitoad}}, viewed Ash and his friends as intruders and called upon Stunfisk's help. It succeeded in driving them out of the lake, but it was fished out and captured by {{an|Cilan}} soon after Palpitoad was defeated.
+
+===Minor appearances===
+A Stunfisk appeared in the opening sequences of both ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]''.
+
+A Stunfisk appeared in ''[[XY022|Going for the Gold!]]'', where it was among the Pokémon seen in the [[Ambrette Town]] aquarium.
+
+Two Stunfisk appeared in ''[[XY062|The Future Is Now, Thanks to Determination!]]'', where they were among the {{type|Electric}} {{OBP|Pokémon|species}} being controlled by {{TRT}}.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW032|Stunfisk|Ash's Pokédex|Stunfisk, the Trap Pokémon. Stunfisk hides itself in the mud and then delivers an electric jolt when its prey touches it, smiling all the while.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:White Dorothy.png|thumb|200px|Stunfisk in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Stunfisk appeared in ''[[PS483|Special Delivery]]'' as one of the Pokémon competing in {{ci|Nimbasa}}'s [[Pokémon Musical]].
+
+{{adv|White}} caught a Stunfisk during her Battle Subway training sometime prior to ''[[PS500|With a Little Help from My Friends]]'', which she later names Dorothy.
+
+Multiple Stunfisk were among the {{type|electric}} Pokémon that charges the [[Prism Tower]] during a blackout in ''[[PAXY10|Pangoro Poses a Problem]]''.
+
+A Stunfisk appeared in ''[[PAXY30|Pinsir Changes]]''.
+
+==In the TCG==
+{{main|Stunfisk (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ground|type2=Electric}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.}}
+{{Dex/Entry1|v=White|entry=It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.}}
+{{Dex/Entry1|v=Y|entry=It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ground|type2=Electric}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|8|Unova}}, [[Icirrus City]], [[Moor of Icirrus]] ([[puddle]]s{{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}; [[fishing]] and {{m|surf}}ing)}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|8|Unova}}, [[Icirrus City]], [[Moor of Icirrus]] ([[puddle]]s{{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}; [[fishing]] and {{m|surf}}ing)}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Sparkling Sea}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Route]]s {{rtn|14|Kalos}} and {{rtn|19|Kalos}}, [[Friend Safari]] ([[Friend Safari#Electric-type Safari|Electric]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Space Wilds]] ({{DL|Ultra Space Wilds|Water World}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground|type2=Electric}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Soothing Shore]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#In Trouble? Tap Away!|Jungle Area: In Trouble? Tap Away!]], [[Aquatic Hill#The Colorful Park|Aquatic Hill: The Colorful Park]] <small>(Reward)</small>,<br>[[Challenge Battle#Open Entry Battle Royale|Challenge Battle: Open Entry Battle Royale]], [[Challenge Battle#The Battle for Sky and Land|Challenge Battle: The Battle for Sky and Land]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 3|Dragon Hill: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Jungle Verde|Jungle Verde: Stage 136]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Misty Moor|Plasma Tundra: Misty Moor]] <small>(Center Boss, Back)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 23|Area 23: Stage 10]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Ground|type2=Electric
+|bw1=Soft Sand|bw1type=None|bw1rar=5
+|b2w21=Soft Sand|b2w21type=None|b2w21rar=5
+|xy1=Soft Sand|xy1type=None|xy1rar=5
+|usum1=Soft Sand|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ground
+|type2=Electric
+|HP=109
+|Attack=66
+|Defense=84
+|SpAtk=81
+|SpDef=99
+|Speed=32}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ground
+|type2=Electric
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=50
+|Ground=200
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=yes
+|newelectric=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Stunfisk|Ground|Electric|5}}
+{{learnlist/level7|1|Fissure|Ground|Physical|&mdash;|&mdash;|5}}
+{{learnlist/level7|1|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25}}
+{{learnlist/level7|1|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level7|1|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|5|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|9|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level7|13|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/level7|17|Camouflage|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|21|Mud Bomb|Ground|Special|65|85|10||'''}}
+{{learnlist/level7|25|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level7|30|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|35|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/level7|40|Muddy Water|Water|Special|90|85|10}}
+{{learnlist/level7|45|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/level7|50|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/level7|55|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|61|Fissure|Ground|Physical|&mdash;|&mdash;|5}}
+{{learnlist/levelf/7|Stunfisk|Ground|Electric|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Stunfisk|Ground|Electric|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Stunfisk|Ground|Electric|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Stunfisk|Ground|Electric|5}}
+{{learnlist/breed7|{{MSP|200|Misdreavus}}{{MSP|429|Mismagius}}{{MSP|270|Lotad}}{{MSP|271|Lombre}}{{MSP|272|Ludicolo}}{{MSP|355|Duskull}}<br>{{MSP|356|Dusclops}}{{MSP|477|Dusknoir}}{{MSP|358|Chimecho}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|607|Litwick}}<br>{{MSP|608|Lampent}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|710|Pumpkaboo}}{{MSP|711|Gourgeist}}{{MSP|769|Sandygast}}<br>{{MSP|770|Palossand}}{{MSP|778|Mimikyu}}|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|092|Gastly}}{{MSP|093|Haunter}}{{MSP|094|Gengar}}<br>{{MSP|353|Shuppet}}{{MSP|354|Banette}}{{MSP|355|Duskull}}{{MSP|356|Dusclops}}{{MSP|477|Dusknoir}}{{MSP|399|Bidoof}}<br>{{MSP|400|Bibarel}}{{MSP|442|Spiritomb}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}<br>{{MSP|607|Litwick}}{{MSP|608|Lampent}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|771|Pyukumuku}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|218|Slugma}}{{MSP|219|Magcargo}}{{MSP|222|Corsola}}{{MSP|769|Sandygast}}{{MSP|770|Palossand}}|Earth Power|Ground|Special|90|100|10||'''}}
+{{learnlist/breed7|{{MSP|194|Wooper}}|Eerie Impulse|Electric|Status|&mdash;|100|15|*}}
+{{learnlist/breed7|{{MSP|055|Golduck}}|Me First|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|200|Misdreavus}}{{MSP|577|Solosis}}{{MSP|578|Duosion}}{{MSP|579|Reuniclus}}{{MSP|607|Litwick}}{{MSP|608|Lampent}}<br>{{MSP|609|Chandelure}}{{MSP|710|Pumpkaboo}}{{MSP|711|Gourgeist}}{{MSP|771|Pyukumuku}}{{MSP|778|Mimikyu}}|Pain Split|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|138|Omanyte}}|Reflect Type|Normal|Status|&mdash;|&mdash;|15|*}}
+{{learnlist/breed7|{{MSP|088|Grimer}}{{MSP|089|Muk}}{{MSP|109|Koffing}}{{MSP|110|Weezing}}{{MSP|131|Lapras}}{{MSP|147|Dratini}}<br>{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}{{MSP|200|Misdreavus}}{{MSP|429|Mismagius}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}<br>{{MSP|280|Ralts}}{{MSP|281|Kirlia}}{{MSP|282|Gardevoir}}{{MSP|475|Gallade}}{{MSP|316|Gulpin}}{{MSP|317|Swalot}}<br>{{MSP|351|Castform}}{{MSP|353|Shuppet}}{{MSP|354|Banette}}{{MSP|358|Chimecho}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}<br>{{MSP|425|Drifloon}}{{MSP|426|Drifblim}}{{MSP|442|Spiritomb}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|577|Solosis}}<br>{{MSP|578|Duosion}}{{MSP|579|Reuniclus}}{{MSP|592|Frillish}}{{MSP|593|Jellicent}}{{MSP|603|Eelektrik}}{{MSP|604|Eelektross}}<br>{{MSP|607|Litwick}}{{MSP|608|Lampent}}{{MSP|609|Chandelure}}{{MSP|618|Stunfisk}}{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}|Shock Wave|Electric|Special|60|&mdash;|20|‡|'''}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|079|Slowpoke}}{{MSP|086|Seel}}{{MSP|131|Lapras}}{{MSP|194|Wooper}}{{MSP|363|Spheal}}<br>{{MSP|399|Bidoof}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|602|Tynamo}}{{MSP|603|Eelektrik}}|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/breed7|{{MSP|092|Gastly}}{{MSP|093|Haunter}}{{MSP|094|Gengar}}{{MSP|200|Misdreavus}}{{MSP|429|Mismagius}}{{MSP|353|Shuppet}}<br>{{MSP|354|Banette}}{{MSP|442|Spiritomb}}|Spite|Ghost|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|218|Slugma}}<br>{{MSP|219|Magcargo}}{{MSP|230|Kingdra}}{{MSP|316|Gulpin}}{{MSP|317|Swalot}}{{MSP|358|Chimecho}}{{MSP|369|Relicanth}}<br>{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Stunfisk|Ground|Electric|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Stunfisk|Ground|Electric|5}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Stunfisk|Ground|Electric|5}}
+
+===Side game data===
+{{Spindata/Head|type=Ground|type2=Electric}}
+{{Spindata/RumbleBlast|col=6|type=Ground
+|att=2
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Ground|ndex=618
+|pad=He is {{p|Seismitoad}}'s friend and is always late for appointments. Even when he arrives early, he hides and surprises his friends, so he is not very popular.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ground|ndex=618
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=618|num=145
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Damage Streak
+|skilldesc=Increases damage when it is triggered in a row.
+|swapper=Sleep Combo
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Ground
+|type2=Electric
+|pictype=art
+|no1=618
+|name1=Stunfisk
+|type1-1=Ground
+|type2-1=Electric
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground|type2=Electric}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=618}}
+{{Spritebox/6|ndex=618}}
+{{Spritebox/7|ndex=618}}
+{{Spritebox/Footer|618|Stunfisk}}
+
+==Trivia==
+* Stunfisk is the only Pokémon with a base stat total of 471.
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Stunfisk.
+* Stunfisk was designed by [[Mana Ibe]].<ref>https://twitter.com/Junichi_Masuda/status/300020609323261954</ref>
+* Due to its type, Stunfisk's {{a|Limber}} Ability is redundant in Generation VI unless its type changes, such as via {{m|Camouflage}}, {{m|Reflect Type}}, or {{m|Soak}}.
+* While holding an [[Air Balloon]], Stunfisk is the only dual-typed Pokémon that is immune to both of its types. 
+
+===Origin===
+Stunfisk seems to be based on a {{wp|flounder}} or {{wp|Common dab|dab}} combined with an {{wp|electric ray}}. It may also be based on the {{wp|stargazer (fish)|stargazer}}, another fish that spends most of its time buried in the sea bottom and can make electric discharges when disturbed.
+
+====Name origin====
+Stunfisk may be a combination of ''stun'' and ''[[wiktionary:fisk|fisk]]'' (''fish'' in most Northern European languages, from Old English ''fisk'') or a combination of ''stun'', ''fish'', and ''disk'' (in reference to its flat shape).
+
+Maggyo may be a combination of マッド ''maddo'' (mud) and 魚 ''gyo'' (fish). It may also refer to まぐろ ''maguro'' (tuna).
+
+==In other languages==
+{{Other languages|type=Ground|type2=Electric
+|ja=マッギョ ''Maggyo''|jameaning=From {{tt|マッド ''maddo''|mud}} and {{tt|魚 ''gyo''|fish}}
+|fr=Limonde|frmeaning=From ''{{tt|Limande|flounder}}'', ''{{tt|immonde|ugly}}'' and ''{{tt|limon|silt}}''
+|es=Stunfisk|esmeaning=Same as English name
+|de=Flunschlik|demeaning=From ''{{tt|Flunder|flounder}}'' and ''{{tt|Schlick|silt}}''
+|it=Stunfisk|itmeaning=Same as English name
+|ko=메더 ''Medeo''|komeaning=From {{tt|머드 ''meodeu''|English word 'mud'}} and {{tt|어 (魚) ''eo''|fish}}. May also involve {{tt|메기 ''megi''|catfish}}.
+|zh_cmn=泥巴魚 / 泥巴鱼 ''Níbāyú''|zh_cmnmeaning=Literally "Mud fish"
+|ru=Станфиск ''Stanfisk''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Cilan's Stunfisk]]
+
+==Notes==
+<references/>
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ground|type2=Electric}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=617|prev=Accelgor|nextnum=619|next=Mienfoo}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Flunschlik]]
+[[fr:Limonde]]
+[[it:Stunfisk]]
+[[ja:マッギョ]]
+[[pl:Stunfisk]]
+[[zh:泥巴鱼]]

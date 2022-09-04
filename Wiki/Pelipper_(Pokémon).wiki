@@ -1,0 +1,564 @@
+{{PokémonPrevNext/Head|type=Water|type2=Flying}}
+{{PokémonPrevNext/GO|species=Pelipper}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=278|prev=Wingull|nextnum=280|next=Ralts|round=none}}
+{{PokémonPrevNext/Disambig|species=Pelipper}}
+|}
+{{Pokémon Infobox
+|name=Pelipper
+|jname=ペリッパー
+|jtranslit=Perippā
+|tmname=Pelipper
+|ndex=279
+|hdex=028
+|karea=Coastal
+|kdex=018
+|adex=041
+|fbrow=123
+|sdex=120
+|u2dex=213
+|abrow=079
+|obrow=024
+|opbrow=139
+|type1=Water
+|type2=Flying
+|category=Water Bird
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=61.7
+|weight-kg=28.0
+|abilitylayout=2
+|ability1=Keen Eye
+|ability2=Drizzle
+|abilityd=Rain Dish
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Flying
+|eggcycles=20
+|evtotal=2
+|evde=2
+|expyield=154<!--151 in Gen V-VI-->
+|oldexp=164
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|catchrate=45
+|body=09
+|pokefordex=pelipper
+|generation=3
+|friendship=70
+}}
+'''Pelipper''' ([[List of Japanese Pokémon names|Japanese]]: '''ペリッパー''' ''Pelipper'') is a dual-type {{2t|Water|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolve]]s from {{p|Wingull}} starting at [[level]] 25.
+
+==Biology==
+Pelipper is a pelican-like Pokémon whose head and bill make up the majority of its body. It has white feathers with a short, blue crest on top of its head. There are three blue digits on each of its wide wings, and it has blue feet with three webbed digits. Each eye is made of two black semicircles with a horizontal white line between them. Its large yellow bill appears to extend along its underside. 
+
+Inside Pelliper's bill is a throat pouch that it uses to carry eggs and small Pokémon, and is large enough to fit a small child in. Skimming across the top of waves, it scoops food from the sea and swallows it in one gulp. It can swallow up to 30 {{p|Wishiwashi}} in one go. It builds its nest on {{DL|List of Pokémon by habitat|Sea Pokémon|steep cliffs facing the sea}}. Young male Pelipper are in charge of gathering food and bringing it back to others at its nest. It can also be seen bobbing in the ocean while resting its wings. It loves to eat abandoned {{p|Luvdisc}} that are too despondent to be wary near the sea surface.
+
+==In the anime==
+[[File:Ash Pelipper.png|250px|thumb|left|Pelipper in the {{pkmn|anime}}]]
+===Major appearances===
+In ''[[AG010|You Said a Mouthful!]]'', a {{pkmn|Trainer}} named {{OBP|Anthony|AG010}} has a Pelipper that he used to challenge other Trainers to battle in an unofficial Gym. Anthony was exposed as a cheater because he stuffed several Poké Balls containing smaller Pokémon into the Pelipper's bill.
+
+[[Georgio]] owns a Pelipper that he used to send a letter to {{an|Misty}} and chase [[Butch]] and [[Cassidy]] in ''[[SS011|A Date With Delcatty]]''.
+
+In ''[[AG085|Sky High Gym Battle!]]'', [[Winona]] used a Pelipper against Ash during the Gym Battle. This Pelipper had a unique way handling its weakness to {{t|Electric}}al attacks, Winona having it strike the ground with {{m|Steel Wing}} and pass the electricity harmlessly into the ground. Despite this clever tactic, it was defeated by Pikachu who was knocked out at the same time.
+
+A Pelipper appeared as a mail deliverer in ''[[SS019|Pokémon Mystery Dungeon: Team Go-Getters Out of the Gate!]]''. It reappeared in ''[[SS020|Pokémon Mystery Dungeon: Explorers of Time & Darkness]]'' and ''[[SS021|Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness]]''.
+
+A [[Poké Ride]] Pelipper appeared in ''[[SM011|Young Kiawe Had a Farm!]]''. Ash rode it to join {{an|Kiawe}} and his Ride {{p|Charizard}}.
+
+===Minor appearances===
+Pelipper debuted in ''[[EP274|Hoenn Alone!]]''.
+
+Multiple Pelipper appeared in ''[[M07|Destiny Deoxys]]''.
+
+A Pelipper appeared in ''[[AG080|That's Just Swellow]]'', where it was used in the [[Crossgate Town]] [[PokéRinger]]. It competed against a {{p|Wingull}}, {{p|Swablu}}, and a {{p|Yanma}}
+
+A Pelipper appeared in ''[[AG110|The Great Eight Fate!]]'', under the ownership of [[Juan]].
+
+A {{pkmn|Coordinator}}'s Pelipper appeared in ''[[DP078|Pruning a Passel of Pals!]]'', in which it participated in the [[Contest Battle|Battle Stage]] of the [[Wallace Cup]].
+
+Multiple Pelipper appeared in ''[[M10|The Rise of Darkrai]]'', ''[[M11|Giratina and the Sky Warrior]]'', and ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Pelipper appeared in the Hoopa's Surprise Ring Adventures short ''{{DL|Hoopa's Surprise Ring Adventures|Flying in the Air}}''.
+
+A Pelipper appeared in ''[[SM005|Yo, Ho, Ho! Go, Popplio!]]''.
+
+A Pelipper appeared in ''[[SM018|A Seasoned Search!]]'', where it was among the {{type|Flying}} attracted by {{TP|Mallow|Bounsweet}}'s {{m|Sweet Scent}} during their attempts to attract a {{p|Oricorio}}.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG010|Pelipper|Ash's Pokédex|Pelipper, the Water Bird Pokémon. Pelipper carries small items in their mouths over long distances and, when tired, rest floating on water.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+==In the manga==
+[[File:Peeko Pelipper Adventures.png|thumb|150px|Pelipper in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Peeko}}
+An image of a Pelipper appeared in ''[[PS181|Creeping Past Cacnea]]''.
+
+{{FB|Aqua Admin|Matt}} owns a Pelipper, which first appeared in ''[[PS214|Assaulted by Pelipper I]]''.
+
+A Pelipper appeared in ''[[PS217|Mind-Boggling with Medicham]]''.
+
+Multiple Pelipper appeared in ''[[PS380|Lucky Lucario II]]''.
+
+[[Mr. Briney]]'s pet Wingull [[Peeko]] evolved into a Pelipper sometime before ''[[PS294| Mewtwo and Mew Too]]''.
+
+A Pelipper appeared in the {{chap|Sun & Moon}} inside the [[Aether Paradise]].
+
+===In the W Mission Story: Pokémon Ranger - the Comic manga===
+Pelipper is {{ra|Cameron}}'s Partner Pokémon in [[W Mission Story: Pokémon Ranger - the Comic|the short manga]] based on {{ga|Pokémon Ranger|the game}}.
+
+==In the TCG==
+{{main|Pelipper (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Pinball: Ruby & Sapphire]]: Pelipper perches in the Sapphire Field and will stand upright for a while if the ball hits the button in front of it. During this time, Pelipper will swallow the ball in its beak if the ball goes into the coin loop. It will then either drop the ball over the {{p|Seedot}} bumpers or, if the button was flashing, send the player to the {{p|Sealeo}} Bonus Field.
+* [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]]: The post office in [[Pokémon Square]] is run by a group of Pelipper. The Pelipper can also be seen delivering the mail.
+* [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|Pokémon Mystery Dungeon: Explorers of Time, Darkness]] and [[Pokémon Mystery Dungeon: Explorers of Sky|Sky]]: A Pelipper awaits on [[Pelipper Island]] to take the player's team to a [[dungeon]] to complete a rescue mission received through [[Wonder Mail|SOS Mail]], or go on an adventure while awaiting rescue.
+*{{ga|Pokémon Ranger}}: Pelipper is {{ra|Cameron}}'s partner Pokémon.
+
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Flying}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Pelipper is a flying transporter that carries small Pokémon and {{pkmn|Egg}}s inside its massive bill. This Pokémon builds its nest on steep cliffs facing the sea.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Pelipper searches for food while in flight by skimming the wave tops. This Pokémon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It is a flying transporter that carries small Pokémon in its beak. It bobs on the waves to rest its wings.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It dips its large bill in the sea, then scoops up numerous prey along with water.}}
+{{Dex/Entry1|v=Pearl|entry=It acts as a delivery service by carrying small Pokémon in its bill. It bobs on the waves to rest.}}
+{{Dex/Entry1|v=Platinum|entry=It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Skimming the water's surface, it dips its large bill in the sea, scoops up food and water, and carries it.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It dips its large bill in the sea, then scoops up numerous prey along with water.}}
+{{Dex/Entry1|v=Y|entry=It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Pelipper is a flying transporter that carries small Pokémon and eggs inside its massive bill. This Pokémon builds its nest on steep cliffs facing the sea.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Pelipper searches for food while in flight by skimming the wave tops. This Pokémon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Its spacious beak is large enough for a small child to fit right inside.}}
+{{Dex/Entry1|v=Moon|entry=Gathering food is the work of young males. They store food in their capacious beaks and carry it back to others waiting in the nest.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It places small Pokémon into its spacious beak and carries them around. No one knows where it's taking them.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It scoops up Wishiwashi in its huge beak and swallows them whole. It can devour more than 30 at one go!}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Flying}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|103|Hoenn}}, {{rtn|104|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|121|Hoenn}}, {{rtn|122|Hoenn}}, {{rtn|123|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|128|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}}, [[Dewford Town]], [[Ever Grande City]], [[Lilycove City]], [[Mossdeep City]], [[Pacifidlog Town]], [[Slateport City]] ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Route]]s {{rtn|103|Hoenn}}, {{rtn|104|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|121|Hoenn}}, {{rtn|122|Hoenn}}, {{rtn|123|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|128|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}}, [[Dewford Town]], [[Ever Grande City]], [[Lilycove City]], [[Mossdeep City]], [[Pacifidlog Town]], [[Slateport City]] ({{m|Surf}}ing)}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|213|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|219|Sinnoh}}, {{rtn|220|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|222|Sinnoh}}, {{rtn|223|Sinnoh}}, {{rtn|224|Sinnoh}}, {{rtn|226|Sinnoh}}, {{rtn|229|Sinnoh}}, and {{rtn|230|Sinnoh}}, [[Canalave City]], [[Fuego Ironworks]], [[Iron Island]], [[Pastoria City]], {{si|Pokémon League}}, [[Sunyshore City]], [[Valley Windworks]] ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|219|Sinnoh}}, {{rtn|220|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|223|Sinnoh}}, and {{rtn|226|Sinnoh}}, [[Iron Island]], {{si|Pokémon League}}, [[Sunyshore City]] ({{m|Surf}}ing)<br>[[Route]]s {{rtn|222|Sinnoh}}, {{rtn|224|Sinnoh}}, and {{rtn|230|Sinnoh}} ([[Tall grass|Grass]] or {{m|Surf}}ing)}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Wingull}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Sightseeing}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|13|Unova}}, [[Undella Town]], [[Undella Bay]] ({{m|Surf}}ing)}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|13|Unova}} and {{rtn|22|Unova}}, [[Giant Chasm]]<br>{{rt|22|Unova}} ([[Hidden Grotto]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Wingull}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|103|Hoenn}}, {{rtn|104|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|122|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|128|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, {{rtn|134|Hoenn}}, [[Dewford Town]], [[Ever Grande City]], [[Mossdeep City]], [[Pacifidlog Town]], [[Slateport City]], [[Sea Mauville]], [[Lilycove City]], [[Battle Resort]] ({{m|Surf}}ing)<br>[[Routes]] {{rtn|118|Hoenn}}, {{rtn|121|Hoenn}}, and {{rtn|123|Hoenn}} ([[Tall grass|Grass]])<br>[[Soaring in the sky]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]] {{rtn|16|Alola}}, [[Ancient Poni Path]], [[Exeggutor Island]], [[Poni Gauntlet]], [[Poni Plains]], [[Poni Wilds]], [[Tapu Village]]<br/>[[Route]] {{rtn|14|Alola}}, [[Secluded Shore]] ({{m|Surf}}ing)<br/>[[Route]] {{rtn|15|Alola}} ({{m|Surf}}ing and walking)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]] {{rtn|16|Alola}}, [[Ancient Poni Path]], [[Exeggutor Island]], [[Poni Gauntlet]], [[Poni Plains]], [[Poni Wilds]], [[Tapu Village]]<br/>[[Route]] {{rtn|14|Alola}}, [[Poni Breaker Coast]] ({{m|Surf}}ing)<br/>[[Route]] {{rtn|15|Alola}} ({{m|Surf}}ing and walking)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Flying}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Wingull}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|2|Phobos Jet}}, Endless Level 11, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Wingull}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Safra Sea]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Brine Cave]] (B1-B8), [[Marine Resort]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Brine Cave]] (B1-B8), [[Marine Resort]] (B1-B19)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Volcano Cave]], [[Haruba Village]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Beach Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Hinder Cape]], [[Ice Temple]], [[Odd Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Hazy Pass]] (Golden Chamber), [[Stompstump Peak]] (Golden Chamber), [[Desolate Canyon]] (Golden Chamber), [[Forest Grotto]] (Golden Chamber), [[Tempting Path]] (Golden Chamber), [[Daybreak Ridge]] (Golden Chamber), [[Ochre Quarry]] (Golden Chamber), [[Grove of Whispers]] (Golden Chamber), [[Silent Tundra]] (B1-B26), [[Dreamy Island]] (1F-25F), [[Moonlit Forest]] (Golden Chamber), [[Cape at the Edge]] (B1-B29), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#The Enemies Within|Secret Warehouse: The Enemies Within]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 3|Safari Jungle: Stage 3]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 237]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Quiet Inlet|Dewdrop Bay: Quiet Inlet]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held Items===
+{{HeldItems
+|type=Water|type2=Flying
+|oras1=Pretty Wing|oras1type=None|oras1rar=50
+|oras2=Lucky Egg|oras2type=None|oras2rar=5
+|sm1=Pretty Wing|sm1type=None|sm1rar=50
+|usum1=Pretty Wing|usum1type=None|usum1rar=50
+}}
+
+===Stats===
+====Base stats====
+=====Generation III-VI=====
+{{BaseStats
+|type=Water
+|type2=Flying
+|HP=60
+|Attack=50
+|Defense=100
+|SpAtk=85
+|SpDef=70
+|Speed=65}}
+
+=====Generation VII=====
+{{BaseStats
+|type=Water
+|type2=Flying
+|HP=60
+|Attack=50
+|Defense=100
+|SpAtk=95
+|SpDef=70
+|Speed=65}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Flying
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=4
+|Technique=2
+|TechniqueMax=2
+|Stamina=4
+|StaminaMax=5
+|Jump=5
+|JumpMax=5}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Flying
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=100
+|Electric=400
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Pelipper|Water|Flying|3}}
+{{learnlist/level7|1|Protect|Normal|Status|—|—|10}}
+{{learnlist/level7|1|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/level7|1|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|1|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/level7|1|Soak|Water|Status|—|100|20}}
+{{learnlist/level7|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|1|Water Sport|Water|Status|—|—|15}}
+{{learnlist/level7|1|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Protect|Normal|Status|—|—|10}}
+{{learnlist/level7|5|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level7|8|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/level7|12|Mist|Ice|Status|—|—|30}}
+{{learnlist/level7|15|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level7|19|Payback|Dark|Physical|50|100|10}}
+{{learnlist/level7|22|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/level7|28|Fling|Dark|Physical|—|100|10}}
+{{learnlist/level7|33|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/level7|33|Swallow|Normal|Status|—|—|10}}
+{{learnlist/level7|33|Spit Up|Normal|Special|—|100|10}}
+{{learnlist/level7|39|Roost|Flying|Status|—|—|10}}
+{{learnlist/level7|44|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/level7|50|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|55|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/levelf/7|Pelipper|Water|Flying|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Pelipper|Water|Flying|3}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM58|Sky Drop|Flying|Physical|60|100|10||'''}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Pelipper|Water|Flying|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Pelipper|Water|Flying|3}}
+{{learnlist/breed7|{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}<br>{{MSP|160|Feraligatr}}{{MSP|226|Mantine}}{{MSP|278|Wingull}}{{MSP|283|Surskit}}{{MSP|368|Gorebyss}}{{MSP|418|Buizel}}<br>{{MSP|419|Floatzel}}|Agility|Psychic|Status|—|—|30}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|222|Corsola}}{{MSP|226|Mantine}}<br>{{MSP|350|Milotic}}{{MSP|368|Gorebyss}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|580|Ducklett}}<br>{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Aqua Ring|Water|Status|—|—|20}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|131|Lapras}}<br>{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|222|Corsola}}{{MSP|279|Pelipper}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|367|Huntail}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|564|Tirtouga}}<br>{{MSP|565|Carracosta}}{{MSP|594|Alomomola}}|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|284|Masquerain}}{{MSP|519|Pidove}}{{MSP|520|Tranquill}}<br>{{MSP|521|Unfezant}}{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|561|Sigilyph}}{{MSP|629|Vullaby}}{{MSP|630|Mandibuzz}}<br>{{MSP|714|Noibat}}{{MSP|715|Noivern}}|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}{{MSP|271|Lombre}}{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|270|Lotad}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}<br>{{MSP|283|Surskit}}{{MSP|333|Swablu}}{{MSP|334|Altaria}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}|Mist|Ice|Status|—|—|30}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|149|Dragonite}}<br>{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|226|Mantine}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}{{MSP|441|Chatot}}<br>{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|661|Fletchling}}<br>{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}{{MSP|714|Noibat}}{{MSP|715|Noivern}}{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}<br>{{MSP|733|Toucannon}}{{MSP|741|Oricorio}}|Roost|Flying|Status|—|—|10}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|279|Pelipper}}{{MSP|594|Alomomola}}|Soak|Water|Status|—|100|20}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}<br>{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}{{MSP|350|Milotic}}{{MSP|691|Dragalge}}|Twister|Dragon|Special|40|100|20}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|086|Seel}}{{MSP|183|Marill}}<br>{{MSP|184|Azumarill}}{{MSP|271|Lombre}}{{MSP|279|Pelipper}}{{MSP|283|Surskit}}{{MSP|284|Masquerain}}{{MSP|350|Milotic}}<br>{{MSP|368|Gorebyss}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|580|Ducklett}}<br>{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}{{MSP|751|Dewpider}}{{MSP|771|Pyukumuku}}|Water Sport|Water|Status|—|—|15}}
+{{learnlist/breed7|{{MSP|226|Mantine}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|594|Alomomola}}{{MSP|747|Mareanie}}{{MSP|748|Toxapex}}<br>{{MSP|752|Araquanid}}|Wide Guard|Rock|Status|—|—|10}}
+{{learnlist/breedf/7|Pelipper|Water|Flying|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Pelipper|Water|Flying|3}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Liquidation|Water|Physical|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Pelipper|Water|Flying|3}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Pelipper|Water|Flying|3}}
+{{learnlist/prevo7|278|Wingull|||||Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/prevo7|278|Wingull|||||Air Cutter|Flying|Special|60|95|25|'''}}
+{{learnlist/prevo7|278|Wingull|||||Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/prevo7|278|Wingull|||||Agility|Psychic|Status|—|—|30}}
+{{learnlist/prevo7|278|Wingull|||||Air Slash|Flying|Special|75|95|15|'''}}
+{{learnlist/prevof/7|Pelipper|Water|Flying|3}}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Flying}}
+{{Spindata/PinballRS|col=3|type=Water|ndex=279|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Water|ndex=279|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=279
+|body=1
+|rate=Evolve
+|area=Shallow Beach
+|P1=You need things delivered? You've come to the right place!
+|P2=What's going on? My health is half gone already?
+|P3=I've had it... My heavy bill is dragging me down...
+|PL=That'd be me leveling up! It feels like my bill got bigger, too!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=279
+|body=1
+|rate=-12
+|IQ=D
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=0
+|loop=12
+|MinEXP=N/A
+|MaxEXP=N/A
+|browser=Pelipper wheels high in the sky. It sometimes comes down to sea level.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=3
+|browser=It spits water to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Cut
+|fieldpower=2
+|browser=It causes twisters around itself.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Water|ndex=279
+|Pad=Pelipper is the Attraction Chief of {{DL|Attractions|Pelipper's Circle Circuit}} in the [[Beach Zone]]!
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=279
+|pad=He likes something fun or something new, and he goes for them immediately. He is taking good care of {{p|Wingull}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=279|bttype=Flying
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=279|stype=Flying|num=328
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Power of 4
+|skilldesc=Increases damage when you make a match of four.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=279
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=120
+|attack=158
+|defense=189
+|fast={{m|Water Gun}}, {{m|Wing Attack}}
+|special={{m|Hydro Pump}}, {{m|Hurricane}}, {{m|Blizzard}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Water
+|type2=Flying
+|pictype=art
+|no1=278
+|name1=Wingull
+|type1-1=Water
+|type2-1=Flying
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 25}}
+|no2=279
+|name2=Pelipper
+|type1-2=Water
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Flying}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=279}}
+{{Spritebox/4|ndex=279}}
+{{Spritebox/5|ndex=279}}
+{{Spritebox/6|ndex=279}}
+{{Spritebox/7|ndex=279}}
+{{Spritebox/Footer|279|Pelipper}}
+
+==Trivia==
+* Pelipper shares its {{pkmn|category}} with {{p|Ducklett}}. They are both known as the Water Bird Pokémon.
+
+===Origin===
+Pelipper resembles a {{wp|pelican}}.
+
+====Name origin====
+Pelipper may be a combination of ''pelican'' and ''skipper'' (a rank of sailor) or ''flipper'' (referring to its webbed feet). It may also be a combination of ''pelican'' and ''propeller''.
+
+==In other languages==
+{{Other languages|type=Water|type2=Flying
+|ja=ペリッパー ''Pelipper''|jameaning=From ''pelican'', ''propeller'', ''skipper'' and ''flipper''
+|fr=Bekipan|frmeaning=From ''{{tt|bec qui pend|beak that hangs}}''. It also sounds like ''{{tt|pélican|pelican}}''
+|es=Pelipper|esmeaning=Same as English name
+|de=Pelipper|demeaning=Same as English name
+|it=Pelipper|itmeaning=Same as English name
+|ko=패리퍼 ''Pelipper''|komeaning=Transliteration of its Japanese name
+|zh_cmn=大嘴鷗 / 大嘴鸥 ''Dàzuǐ'ōu''|zh_cmnmeaning=Literally "Big-mouthed gull"
+|hi=पेलीपर ''Pelipper''|himeaning=Transcription of English name
+|ru=Пелиппер ''Pelipper''|rumeaning=Transcription of English name
+}}
+
+<br clear="left">
+
+==Related articles==
+* [[Peeko]]
+* [[Pelipper (Red and Blue Rescue Team)]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=278|prev=Wingull|nextnum=280|next=Ralts}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that appeared in the anime before their game debut]]
+
+[[de:Pelipper]]
+[[fr:Bekipan]]
+[[it:Pelipper]]
+[[ja:ペリッパー]]
+[[pl:Pelipper]]
+[[zh:大嘴鸥]]

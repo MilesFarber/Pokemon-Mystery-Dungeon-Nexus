@@ -1,0 +1,521 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Water}}
+{{PokémonPrevNext/GO|species=Omastar}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=138|prev=Omanyte|nextnum=140|next=Kabuto|round=none}}
+{{PokémonPrevNext/Disambig|species=Omastar}}
+|}
+{{Pokémon Infobox
+|name=Omastar
+|jname=オムスター
+|jtranslit=Omusutā
+|tmname=Omstar
+|ndex=139
+|oldjdex=221
+|jdex=226
+|abrow=236
+|typebox=1
+|type1=Rock
+|type2=Water
+|category=Spiral
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=77.2
+|weight-kg=35.0
+|abilityn=d
+|ability1=Swift Swim
+|ability2=Shell Armor
+|abilityd=Weak Armor
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Water 3
+|eggcycles=30
+|evtotal=2
+|evde=2
+|expyield=173
+|oldexp=199
+|lv100exp=1,000,000
+|gendercode=31
+|color=Blue
+|catchrate=45
+|body=10
+|pokefordex=omastar
+|generation=1
+|friendship=70
+}}
+'''Omastar''' ([[List of Japanese Pokémon names|Japanese]]: '''オムスター''' ''Omstar'') is a dual-type {{2t|Rock|Water}} [[Fossil]] {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Omanyte}} starting at [[level]] 40, after it is revived from a [[Dome and Helix Fossils|Helix Fossil]].
+
+==Biology==
+Omastar is a sky-blue {{wp|Ammonoidea|ammonite}} Pokémon, with several tentacles and a pale yellow, helix spiraled shell on its back. Several sharp spikes line the shell's midsection, spanning from its forefront to just a little towards its back. Its shell constantly grows, getting heavier over time and thus limiting its mobility. It is the weight of the shell that is most often cited as the cause for Omastar's extinction. The shell's hem has two circular indents where Omastar's eyes come out. Its eyes have yellow sclerae and vertically-slit pupils. It has an oval mouth with a four-way jawed, fang-like beak. Once caught, it never lets go of prey, immediately biting down on its victim with immense power.
+
+Before its own shell led to its extinction, Omastar swam the {{DL|List of Pokémon by habitat|seas}} in search of prey. Even the hard shells of prehistoric {{p|Shellder}} stood no match to Omastar's deadly powerful bite, and were quickly made a meal of by having their insides sucked out. Omastar may be linked to {{p|Octillery}}, seen as its distant ancestor.
+
+==In the anime==
+[[File:Omastar anime.png|thumb|220px|left|Omastar in the {{pkmn|anime}}]]
+===Major appearances===
+Omastar debuted in ''[[EP046|Attack of the Prehistoric Pokémon]]'', alongside all the other [[Generation I]] Fossil Pokémon. They were sleeping under [[Grampa Canyon]] until a dynamite blast woke them up. The {{2t|Water|Rock}}-type Fossil Pokémon chased [[Ash Ketchum]] and {{TRT}} until {{p|Aerodactyl}} showed up and scared them off.
+
+An Omastar appeared in ''[[EP163|Fossil Fools]]'', alongside its pre-evolved form {{p|Omanyte}}. These Pokémon were discovered to be living in the [[Ruins of Alph]], but they moved into a museum.
+
+An Omastar appeared in ''[[DP108|Dealing With Defensive Types!]]'' in the [[Canalave Gym]].
+
+===Minor appearances===
+An Omastar appeared in {{TRT}}'s fantasy in ''[[EP174|Imitation Confrontation]]''.
+
+[[Dr. Yung]] uses a Mirage Omastar in ''[[The Mastermind of Mirage Pokémon]]''.
+
+An Omastar appeared in ''[[M08|Lucario and the Mystery of Mew]]'' as one of the Pokémon living in the [[Tree of Beginning]]. Also, one appeared in the opening sequence of the movie.
+
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP046|Omanyte, Omastar, Kabuto, and Kabutops|Ash's Pokédex|{{p|Omanyte}} and Omastar, {{p|Kabuto}} and {{p|Kabutops}}. It is believed these Pokémon became extinct tens of thousands of years ago. The details of their behavior is shrouded in mystery. Though some have speculated that they may still exist, none of these Pokémon have ever been seen alive.}}
+|}
+{| width="100%" style="background: #{{colorschemedark|Kanto}}"
+|-
+| class="roundybottom" width="100%" style="text-align:right; background: #{{colorschemelight|Kanto}}" | <small>'''Original series entries continue below.'''</small>
+|}
+|}
+{{Animedexheader|Johto}}
+{{Animedexbody|EP163|Omastar|Ash's Pokédex|Omastar, the evolved form of Omanyte. This extinct Pokémon is believed to have used its sharp fangs to break through the shells of its prey in order to feed.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+
+==In the manga==
+[[File:Yellow Omny.png|thumb|130px|Omastar in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Omny}}
+{{adv|Yellow}} has an Omastar, nicknamed Omny, whom she originally obtained from [[Misty]] as an {{p|Omanyte}}. He evolved into an Omastar by ''[[PS089|The Might of... Metapod?!]]''.
+
+==In the TCG==
+{{main|Omastar (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}: Two Omastar and a {{p|Kabutops}} are the bosses in [[Brine Cave]]. They attacked the {{player}} and partner without warning but {{mdc|Chatot|2}} protected them. {{mdc|Wigglytuff|2}} later reveals that they had previously attacked them in but Chatot had saved him.
+
+===Pokédex entries===
+{{Dex/Header|type=Rock|type2=Water}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=A prehistoric Pokémon that died out when its heavy shell made it impossible to catch prey.}}
+{{Dex/Entry1|v=Yellow|entry=Sharp beaks ring its mouth. Its shell was too big for it to move freely, so it became extinct.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Attacks by ensnaring its enemy with its tentacles and biting with sharp fangs. Its overly-large shell makes it sluggish.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Apparently, it cracked {{p|Shellder}}'s shell with its sharp fangs and sucked out the insides.}}
+{{Dex/Entry1|v=Silver|entry=Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.}}
+{{Dex/Entry1|v=Crystal|entry=Its heavy shell allowed it to reach only nearby food. This could be the reason it is extinct.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Apparently, it cracked Shellder's shell with its sharp fangs and sucked out the insides.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=An Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large, making its movements slow and ponderous.}}
+{{Dex/Entry1|v=FireRed|entry=Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites.}}
+{{Dex/Entry1|v=LeafGreen|entry=Despite having strong fangs and tentacles, it went extinct when its heavy shell made it unable to catch prey.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It is thought that this Pokémon became extinct because its spiral shell grew too large.}}
+{{Dex/Entry1|v=HeartGold|entry=Apparently, it cracked Shellder's shell with its sharp fangs and sucked out the insides.}}
+{{Dex/Entry1|v=SoulSilver|entry=Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It is thought that this Pokémon became extinct because its spiral shell grew too large.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It is thought that this Pokémon became extinct because its spiral shell grew too large.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites.}}
+{{Dex/Entry1|v=Y|entry=Once wrapped around its prey, it never lets go. It eats the prey by tearing at it with sharp fangs.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=Its heavy shell is thought to be the reason this ancient Pokémon died out. It's apparently a distant ancestor of Octillery.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It wraps its prey in its tentacles to immobilize them and then finishes them off with its sharp fangs.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+{{Availability/Entry1|v=Yellow|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2/None|v=Gold|v2=Silver|area=[[Time Capsule]]}}
+{{Availability/Entry1/None|v=Crystal|area=[[Time Capsule]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+{{Availability/Entry1|v=HeartGold|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+{{Availability/Entry1/None|v=SoulSilver}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1/None|1|v=X}}
+{{Availability/Entry1|1|v=Y|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+{{Availability/Entry1/None|1|v=Omega Ruby}}
+{{Availability/Entry1|1|v=Alpha Sapphire|t=fff|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 9]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Evolution|Evolve]] {{p|Omanyte}}}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Sea of Wailord]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]] <small>(Normal Mode A & S)</small>}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]], [[Entranceway#A Fateful Showdown!|Entranceway: A Fateful Showdown!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 3|Safari Jungle: Stage 3]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Great Challenge|Omastar Appears]]''<br>Event: ''[[Special Stages#Great Daily (First release)|Great Daily Pokémon]]'' <small>(First release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Vast Ocean|Distortion Land: Vast Ocean]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=Rock|type2=Water
+|rby1=Bitter Berry|rby1type=None|rby1rar=100|rby1image=no
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|type=Rock
+|type2=Water
+|HP=      70
+|Attack=  60
+|Defense=125
+|SpAtk=  115
+|SpDef=   70
+|Special=115
+|Speed=   55}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Rock
+|type2=Water
+|Speed=2
+|SpeedMax=3
+|Power=3
+|PowerMax=4
+|Technique=4
+|TechniqueMax=4
+|Stamina=2
+|StaminaMax=3
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Water
+|Normal=   50
+|Flying=   50
+|Fighting=200
+|Ground=  200
+|Rock=    100
+|Bug=     100
+|Poison=   50
+|Ghost=   100
+|Steel=   100
+|Fire=     25
+|Water=   100
+|Grass=   400
+|Electric=200
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Omastar|Rock|Water|1}}
+{{learnlist/level7|1|Spike Cannon|Normal|Physical|20|100|15}}
+{{learnlist/level7|1|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|1|Constrict|Normal|Physical|10|100|35}}
+{{learnlist/level7|1|Withdraw|Water|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Spike Cannon|Normal|Physical|20|100|15}}
+{{learnlist/level7|7|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|10|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|16|Rollout|Rock|Physical|30|90|20||'''}}
+{{learnlist/level7|19|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|25|Mud Shot|Ground|Special|55|95|15}}
+{{learnlist/level7|28|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/level7|34|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|37|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level7|48|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|56|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/level7|67|Shell Smash|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|75|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/7|Omastar|Rock|Water|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Omastar|Rock|Water|1}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Omastar|Rock|Water|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Omastar|Rock|Water|2}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|090|Shellder}}{{MSP|091|Cloyster}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}<br>{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}|Aurora Beam|Ice|Special|65|100|20}}
+{{learnlist/breed7|{{MSP|258|Mudkip}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|564|Tirtouga}}<br>{{MSP|565|Carracosta}}{{MSP|618|Stunfisk}}{{MSP|771|Pyukumuku}}|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|062|Poliwrath}}{{MSP|186|Politoed}}{{MSP|072|Tentacool}}{{MSP|073|Tentacruel}}<br>{{MSP|098|Krabby}}{{MSP|099|Kingler}}{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|183|Marill}}<br>{{MSP|184|Azumarill}}{{MSP|222|Corsola}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|226|Mantine}}{{MSP|270|Lotad}}<br>{{MSP|271|Lombre}}{{MSP|283|Surskit}}{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}<br>{{MSP|395|Empoleon}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}<br>{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}{{MSP|739|Crabrawler}}<br>{{MSP|740|Crabominable}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|283|Surskit}}{{MSP|658|Greninja}}|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|271|Lombre}}{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|618|Stunfisk}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/breed7|{{MSP|073|Tentacruel}}|Reflect Type|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|098|Krabby}}{{MSP|099|Kingler}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}{{MSP|194|Wooper}}<br>{{MSP|195|Quagsire}}|Slam|Normal|Physical|80|75|20}}
+{{learnlist/breed7|{{MSP|091|Cloyster}}{{MSP|658|Greninja}}|Spikes|Ground|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|072|Tentacool}}{{MSP|073|Tentacruel}}{{MSP|090|Shellder}}{{MSP|091|Cloyster}}{{MSP|226|Mantine}}{{MSP|278|Wingull}}<br>{{MSP|279|Pelipper}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}|Supersonic|Normal|Status|&mdash;|55|20}}
+{{learnlist/breed7|{{MSP|072|Tentacool}}{{MSP|073|Tentacruel}}{{MSP|091|Cloyster}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}{{MSP|747|Mareanie}}<br>{{MSP|748|Toxapex}}|Toxic Spikes|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|072|Tentacool}}<br>{{MSP|073|Tentacruel}}{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|131|Lapras}}{{MSP|223|Remoraid}}<br>{{MSP|226|Mantine}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}{{MSP|350|Milotic}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}<br>{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|656|Froakie}}<br>{{MSP|657|Frogadier}}{{MSP|658|Greninja}}{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/breed7|{{MSP|090|Shellder}}{{MSP|258|Mudkip}}{{MSP|366|Clamperl}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}{{MSP|393|Piplup}}<br>{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|594|Alomomola}}|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/breed7|{{MSP|072|Tentacool}}{{MSP|073|Tentacruel}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|224|Octillery}}{{MSP|345|Lileep}}<br>{{MSP|346|Cradily}}|Wring Out|Normal|Special|&mdash;|100|5}}
+{{learnlist/breedf/7|Omastar|Rock|Water|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Omastar|Rock|Water|2}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Omastar|Rock|Water|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Omastar|Rock|Water|1}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Omastar|Rock|Water|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg water color light}}; border: 3px solid #{{tcg fighting color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Hydro Cannon}}
+| style="background:#fff; {{roundybr|5px}}" | [[Omastar (EX Sandstorm 19)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Water}}
+{{Spindata/Pinball|col=3|type=Rock|ndex=139|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Rock|ndex=139|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Rock|ndex=139
+|body=1
+|rate=Evolve
+|area=Deep-Sea Floor
+|P1=There's no getting away from my tentacles' embrace!
+|P2=This doesn't look good. My health is reduced to half.
+|P3=Help me... I can't even wiggle my tentacles...
+|PL=Hm! Leveled up just as I'd hoped!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Rock|ndex=139
+|body=1
+|rate=-4.5
+|IQ=E
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Rock
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=3
+|browser=It shoots bubbles from its mouth to attack.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Rock
+|att=4
+|def=4
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Rock
+|att=4
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Rock|ndex=139
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=139|stype=Water|num=474
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Rock Break+
+|skilldesc=Sometimes destroys three breakable-rock disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Rock|ndex=139
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=140
+|attack=207
+|defense=227
+|fast={{m|Mud Shot}}{{tt|*|From August 20, 2016 onwards}}, {{m|Rock Throw}}{{tt|*|Prior to August 20, 2016}}, {{m|Water Gun}}
+|special={{m|Ancient Power}}, {{m|Hydro Pump}}, {{m|Rock Slide}}{{tt|*|Prior to February 16, 2017}}, {{m|Rock Blast}}{{tt|*|From February 16, 2017 onward}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Rock
+|type2=Water
+|no1=138
+|name1=Omanyte
+|type1-1=Rock
+|type2-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 40}}
+|no2=139
+|name2=Omastar
+|type1-2=Rock
+|type2-2=Water}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock|type2=Water}}
+{{Spritebox/1|ndex=139}}
+{{Spritebox/2|ndex=139}}
+{{Spritebox/3|ndex=139}}
+{{Spritebox/4|ndex=139}}
+{{Spritebox/5|ndex=139}}
+{{Spritebox/6|ndex=139}}
+{{Spritebox/7|ndex=139}}
+{{Spritebox/Footer|139|Omastar}}
+
+==Trivia==
+<!--Do NOT add trivia about its status in the Twitch Plays series, memes are not notable.-->
+* In early English-language promotional material for [[Pokémon Red and Green beta|Pokémon Red and Blue]], Omastar was originally known as "Kargo". This name is derived from "escargot" (French for ''snail'').
+* Omastar is the only Fossil Pokémon whose extinction has been explained: its shell was too heavy for it to move, leading it to die out from starvation.
+** This explanation may also refer to the giant {{wp|orthocone}}, ancestor to the modern octopus. The orthocone resembled a slow, cumbersome octopus with a long, pointed shell.
+
+===Origin===
+It seems to be based on a type of {{wp|Ammonoidea|ammonite}}.
+
+====Name origin====
+Omastar's name is a combination of a phonetic anagram of ''ammonite'' and ''star'' (based on its body shape).
+
+Omstar is a combination of オウムガイ ''ōmugai'' ({{wp|nautilus}}) and ''star''.
+
+==In other languages==
+{{Other languages|type=Rock|type2=Water
+|ja=オムスター ''Omstar''|jameaning=From {{wp|nautilus|{{tt|オウムガイ ''ōmugai''|nautilus}}}} and ''star''
+|fr=Amonistar|frmeaning=From ''ammonite'' and ''star''
+|es=Omastar|esmeaning=Same as English name
+|de=Amoroso|demeaning=From ''{{tt|Ammonit|ammonite}}''
+|it=Omastar|itmeaning=Same as English name
+|ko=암스타 ''Amsta''|komeaning=From ''Ammonite'' and ''star''. 암 (岩) also means "rock", one of its types.
+|zh_yue=多刺菊石獸 ''Dōchikgūksehksau''|zh_yuemeaning=Means "Spiky ammonite beast"
+|zh_cmn=多刺菊石獸 / 多刺菊石兽 ''Duōcìjúshíshòu''|zh_cmnmeaning=Means "Spiky ammonite beast"
+|hi=ओमास्टार ''Omastar''|himeaning=Transcription of English name
+|ru=Омастар ''Omastar''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Omny]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Rock|type2=Water}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=138|prev=Omanyte|nextnum=140|next=Kabuto}}
+|}
+{{Project Pokédex notice}}
+[[Category:Fossil Pokémon]]
+
+[[de:Amoroso]]
+[[fr:Amonistar]]
+[[it:Omastar]]
+[[ja:オムスター]]
+[[pl:Omastar]]
+[[zh:多刺菊石兽]]

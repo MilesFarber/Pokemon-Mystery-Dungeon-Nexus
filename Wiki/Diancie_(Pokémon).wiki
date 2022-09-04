@@ -1,0 +1,385 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=718|prev=Zygarde|nextnum=720|next=Hoopa|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Diancie}}
+|}
+{{Pokémon Infobox
+|name=Diancie
+|jname=ディアンシー
+|tmname=Diancie
+|jtranslit=Dianshī
+|forme=2
+|form2=Mega Diancie
+|image2=719Diancie-Mega.png
+|mega=Diancite
+|category=Jewel
+|typebox=1
+|type1=Rock
+|type2=Fairy
+|abilityn=m
+|abilitylayout=2
+|ability1= Clear Body
+|abilitym=Magic Bounce
+|ndex=719
+|karea=Central
+|kdex=151
+|height-ftin=2'04"
+|height-m=0.7
+|height-ftin2=3'07"
+|height-m2=1.1
+|weight-lbs=19.4
+|weight-kg=8.8
+|weight-lbs2=61.3
+|weight-kg2=27.8
+|egggroupn=0
+|egggroup1=Undiscovered
+|gendercode=255
+|eggcycles=25
+|evde=1
+|evsd=2
+|evtotal=3
+|expyield=270
+|lv100exp=1,250,000
+|color=Pink
+|catchrate=3
+|body=04
+|pokefordex=diancie
+|generation=6
+|friendship=70
+}}
+'''Diancie''' ([[List of Japanese Pokémon names|Japanese]]: '''ディアンシー''' ''Diancie'') is a dual-type {{2t|Rock|Fairy}} [[Mythical Pokémon]] introduced in [[Generation VI]].
+
+While it is not known to [[evolution|evolve]] into or from any other Pokémon, it can [[Mega Evolution|Mega Evolve]] into '''Mega Diancie''' using the [[Diancite]].
+
+Diancie was officially revealed in the March 2014 issue of [[CoroCoro]] magazine.
+
+==Biology==
+Diancie is a gray, sylph-like Pokémon with a white chest and arms that resembles a dress. It has a headdress which consists of pink crystals, four short ones cresting along top pointing upward and two long ones on either side of its head pointing downward, with a diamond-cut centerpiece framed by its slim gray ears. A smaller pink crystal is also embedded in the back of its head, and a gold nugget is embedded in its forehead. Its eyes are red with pink irises. A gold crescent circles its neck, with the ends joined by a rhomboid gem. Its lower body resembles a large oblong chunk of stone, with a large pink crystal protruding from it.
+
+Mega Diancie retains Diancie's color scheme but instead possesses a dress-like structure made of pink gems and a larger chunk of gem replacing the large chunk of rock. The rhomboid gem on the back of its head becomes rounded and two smaller gems grow from it at the bottom. More gold pieces support the large diamond at the lower body. Its centerpiece becomes heart-cut instead of diamond-cut. It also gains two ribbon-like structures growing from the two small gems on the back of its head and are tipped by two small floating rhomboid gems on each ribbon. The two long pink crystals behind its head shrink into one and two more of these hang from the centerpiece and are also tipped by a small floating rhomboid gem each. A larger gold crescent also circles its torso. Because of its noble beauty, Mega Diancie is commonly referred to as "the Royal Pink Princess".<ref name="Mega">http://www.pokemonrubysapphire.com/en-us/pokemon/new-mega-evolutions/mega-diancie</ref>
+
+Diancie is born from a {{p|Carbink}} that undergoes a mutation. It can instantly create diamonds by compressing the carbon in the air; these diamonds can then be used to defend itself. It can absorb light with a perfect balance and emits a radiance that looks like nothing in the world. According to legends, it can protect its travel partners from accidents and illnesses. Diancie is the [[Signature move|only known Pokémon]] that can learn {{m|Diamond Storm}}.
+
+==In the anime==
+===In the main series===
+[[File:Diancie anime.png|thumb|220px|left|Diancie in the {{pkmn|anime}}]]
+[[File:Mega Diancie M17.png|thumb|220px|Mega Diancie in the {{pkmn|anime}}]]
+====Major appearances====
+=====[[Diancie (anime)]]=====
+Diancie debuted as a main character in ''[[SS030|Diancie — Princess of the Diamond Domain]]'', which is set before ''[[M17|Diancie and the Cocoon of Destruction]]''. She later appeared in the latter as a major supporting character.
+
+====Minor appearances====
+A Diancie appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+===In the Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+[[File:Mega Diancie ORAS Trailer.png|thumb|250px|Mega Diancie in the animated trailer]]
+A [[Mega Evolution|Mega]] Diancie made a cameo appearance in the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]].
+{{-}}
+
+==In the manga==
+[[File:Diancie Adventures.png|thumb|right|200px|Diancie in [[Pokémon Adventures]]]]
+[[File:Mega Diancie Adventures.png|thumb|left|200px|Mega Diancie in [[Pokémon Adventures]]]]
+===In the movie adaptations===
+{{an|Diancie}} appeared in the manga adaptation of the {{ma|Diancie and the Cocoon of Destruction|seventeenth movie}}.
+
+===In the [[Pokémon Adventures]] manga===
+Diancie debuts in the {{chap|X & Y}}, where it was mentioned by [[Gurkinn]] as he was escaping the destruction of the [[Tower of Mastery]]. It was sought after by the owner of the [[Shabboneau Castle]], who sent his butlers out to obtain Diancie. One of the butlers, actually a thief, found Diancie and attempted to steal it. With the help of Gurkinn, [[Diantha]], and [[Korrina]], the thief was defeated and sent running away. Afterward, Diancie leaves with its Carbink companions to find a new home.
+
+The same Diancie also appeared in ''[[PAORAS07|Omega Alpha Adventure 7]]'', having helped {{adv|Ruby}} and {{p|Latios}} from drowning after they were knocked into the sea. After the crisis is over, Diancie enters a [[Pokémon Contest|Pokémon Contest Spectacular]] with Ruby, using its [[Diancite]], it [[Mega Evolution|Mega Evolved]] into a Mega Diancie. After the events of the thirteenth chapter, Diancie left with {{Steven}} to the Kalos region.
+{{left clear}}
+
+==In the TCG==
+{{main|Diancie (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock|type2=Fairy}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.}}
+{{Dex/Entry1|v=Y|entry=It can instantly create many diamonds by compressing the carbon in the air between its hands.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It can instantly create many diamonds by compressing the carbon in the air between its hands.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y|area={{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area={{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Commemorative Event|Diancie Is Set to Dazzle!]]''<br>Event: ''[[Escalation Battle|Take on Escalation Battles]]'' <small>(Regular and Shiny)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Mineral Crust Hollow|Legend Terrain: Mineral Crust Hollow]] <small>(Special Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 27|Area 27: Stage 12]] (As a {{DL|Pokémon Picross|Mythical Pokémon}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=rock|type2=fairy}}
+{{eventAvail|{{gameabbrev6|XY}}|Cinema Diancie|All|Japan|50|July 6, 2014; July 13, 2014;<br/>July 19 to September 30, 2014|link=List of local event Pokémon distributions in Generation VI#Cinema Diancie}}
+{{eventAvail|{{gameabbrev6|XY}}|Movie Theater Diancie|Taiwanese region|Online|50|August 29 to October 15, 2014|link=List of Taiwanese region serial code event Pokémon distributions in Generation VI#Movie Theater Diancie}}
+{{eventAvail|{{gameabbrev6|XY}}|October 2014 Diancie|American region|Online|50|October 16, 2014 to February 28, 2015|link=List of American region serial code event Pokémon distributions in Generation VI#Diancie}}
+{{eventAvail|{{gameabbrev6|XY}}|November 2014 Diancie|PAL region|Online|50|October 23, 2014 to February 25, 2015|link=List of PAL region serial code event Pokémon distributions in Generation VI#November 2014 Diancie}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Cinema Diancie|Korean region|Online|50|January 6 to March 31, 2015|link=List of Korean region serial code event Pokémon distributions in Generation VI#Cinema Diancie}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Hope Diancie|American region|Online|50|July 24 to 27, 2015|link=List of American region Nintendo Network event Pokémon distributions in Generation VI#Hope Diancie}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Hope Diancie|PAL region|Online|50|July 24 to 27, 2015|link=List of PAL region Nintendo Network event Pokémon distributions in Generation VI#Hope Diancie}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Universe Diancie|Japanese region|Online|50|October 15 to November 30, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Universe Diancie}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Universe Diancie|Taiwanese region|Online|50|October 15 to November 30, 2015|link=List of Taiwanese region serial code event Pokémon distributions in Generation VI#Universe Diancie}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Center Diancie|Japanese region|Nintendo Zone|50[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|December 12 to 31, 2015|link=List of Japanese region Nintendo Network event Pokémon distributions in Generation VI#Pokémon Center Diancie}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon All-Stars Battle Diancie|All|South Korea|50[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|August 13 to 14, 2016|link=List of local event Pokémon distributions in Generation VI#Pokémon All-Stars Battle Diancie}}
+|}
+
+===Held items===
+{{HeldItems
+|type=rock|type2=fairy
+|event1=Normal Gem|event1type=Gem|event1rar=100}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|type2=Fairy
+|HP=50
+|Attack=100
+|Defense=150
+|SpAtk=100
+|SpDef=150
+|Speed=50}}
+
+=====Mega Diancie=====
+{{Base Stats
+|type=rock
+|type2=fairy
+|HP=50
+|Attack=160
+|Defense=110
+|SpAtk=160
+|SpDef=110
+|Speed=110 }}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Fairy
+|Normal=   50
+|Flying=   50
+|Fighting=100
+|Ground=  200
+|Rock=    100
+|Bug=      50
+|Poison=  100
+|Ghost=   100
+|Steel=   400
+|Fire=     50
+|Water=   200
+|Grass=   200
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=    0
+|Dark=     50
+|Fairy=   100
+|notes=yes
+|fairy=yes
+|newdragon=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Diancie|Rock|Fairy|6}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Harden|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|1|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level7|5|Sharpen|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|8|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level7|12|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|18|Stealth Rock|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|21|Guard Split|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|27|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level7|31|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|35|Skill Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|40|Power Gem|Rock|Special|80|100|20||'''}}
+{{learnlist/level7|46|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|49|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level7|50|Moonblast|Fairy|Special|95|100|15||'''}}
+{{learnlist/level7|50|Diamond Storm|Rock|Physical|100|95|5||'''}}
+{{learnlist/level7|60|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|70|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/levelf/7|Diancie|Rock|Fairy|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Diancie|Rock|Fairy|6}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Diancie|Rock|Fairy|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Diancie|Rock|Fairy|6}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Diancie|Rock|Fairy|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Diancie|Rock|Fairy|6}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutorf/7|Diancie|Rock|Fairy|6}}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Fairy}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=719|stype=Fairy|num=307|mega=1|stone=Diancite
+|min=70
+|max=130
+|raisemaxlevel=15
+|skill=Barrier Bash+
+|skilldesc=Sometimes removes three barrier-type disruptions.
+|swapper=Mega Boost+
+|megaspeedup=10
+|effectdesc=Removes barrier-covered Pokémon / disruptions (max 10) and damages the foe.
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=719S|stype=Fairy|num=307|mega=1|stone=Diancite
+|min=70
+|max=130
+|raisemaxlevel=15
+|skill=Block Shot
+|skilldesc=Erases two unbreakable-block disruptions and increases damage.
+|megaspeedup=5
+|effectdesc=Erases unbreakable-block and rock disruptions (max 10) and damages the foe.
+}}
+|}
+
+===Evolution===
+{{evobox-1
+|type1=Rock
+|type2=Fairy
+|pictype=art
+|no1=719
+|name1=Diancie
+|type1-1=Rock
+|type2-1=Fairy}}
+
+===Sprites===
+{{Spritebox/Header|type=rock|type2=fairy}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6/2FormsORAS|ndex=719|form1=M}}
+{{Spritebox/7/2Forms|ndex=719|form1=M}}
+{{Spritebox/Footer|719|Diancie}}
+
+==Trivia==
+* Diancie is the only Pokémon introduced in [[Generation VI]] that is capable of [[Mega Evolution]].
+** Diancie is also the only [[Mythical Pokémon]] that is capable of Mega Evolution.
+* Diancie is tied with Carbink for the highest base {{stat|Defense}} stat of all {{type|Fairy}} Pokémon.
+* Mega Diancie has the highest base stat total of all {{type|Fairy}} Pokémon and is tied with {{p|Tyranitar|Mega Tyranitar}} for the highest base stat total of all {{type|Rock}} Pokémon.
+** Mega Diancie also has the highest base {{stat|Attack}} stat of all {{type|Fairy}} Pokémon, and the highest base {{stat|Special Attack}} stat of all {{type|Rock}} Pokémon.
+*** Mega Diancie's Defense and Special Defense decrease is the largest single stat decrease of all Mega Evolutions, at 40 points.
+* Diancie is tied with {{p|Deoxys}} for the lowest base {{stat|HP}} of all Mythical and Legendary Pokémon.
+* Diancie's origins as a mutated Carbink is reflected in its near-identical moveset and learn rate, though it learns Trick Room in place of Power Gem in Generation VI.
+* Diancie's Pokédex on Pokémon.com erroneously states that its gender would be either male or female, despite being a genderless Pokémon.
+* Diancie is the only {{type|Rock}} [[Mythical Pokémon]].
+
+===Origin===
+Diancie could be based on the carbuncle, a mythical fairy-like creature that was rumored to have a {{wp|Carbuncle (gemstone)|jewel}} embedded on its forehead. Diancie could also be loosely based on a "princess-cut" diamond, referring to its princess-like appearance.
+
+====Name origin====
+Diancie may be a combination of ''diamond'', ''fancy'', and 石 ''ishi'' (stone). It may also include ''pixie''.
+
+==In other languages==
+{{Other languages|type=rock|type2=fairy
+|ja=ディアンシー ''Diancie''|jameaning=From ''diamond'', ''fancy'', ''pixie'', and {{tt|石 ''ishi''|stone, rock}}
+|fr=Diancie|frmeaning=Same as Japanese name
+|es=Diancie|esmeaning=Same as Japanese name
+|de=Diancie|demeaning=Same as Japanese name
+|it=Diancie|itmeaning=Same as Japanese name
+|ko=디안시 ''Diancie''|komeaning=Transliteration of its Japanese name
+|zh_cmn=蒂安希 ''Dìānxī''|zh_cmnmeaning=Transliteration of its Japanese name
+|zh_yue=蒂安希 ''Daiōnhēi''|zh_yuemeaning=Mandarin-based transliteration of its Japanese name
+|sq=Dianci|sqmeaning=From English name
+|ar=دايانسي ''Diancie''|armeaning=Transcription of English name
+|hi=दियंसिए ''Diancie''|himeaning=Transcription of English name
+|ru=Дианси ''Diansi''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+* [[Diancie (anime)]]
+
+==Notes==
+<references />
+
+==External links==
+
+{{Legendary Pokémon}}
+{{EventExclusive}}<br>
+{{PokémonPrevNext/Head|type=Rock|type2=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=718|prev=Zygarde|nextnum=720|next=Hoopa}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Mythical Pokémon]]
+[[Category:Promotion-only Pokémon]]
+
+[[de:Diancie]]
+[[fr:Diancie]]
+[[it:Diancie]]
+[[ja:ディアンシー]]
+[[pl:Diancie]]
+[[zh:蒂安希]]

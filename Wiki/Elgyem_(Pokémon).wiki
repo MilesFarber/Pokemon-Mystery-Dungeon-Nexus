@@ -1,0 +1,348 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=604|prev=Eelektross|nextnum=606|next=Beheeyem}}
+|}
+{{Pokémon Infobox
+|name=Elgyem
+|jname=リグレー
+|jtranslit=Rigurē
+|tmname=Ligray
+|category=Cerebral
+|typebox=1
+|type1=Psychic
+|abilityn=d
+|ability1=Telepathy
+|ability2=Synchronize
+|abilityd=Analytic
+|ndex=605
+|udex=111
+|u2dex=188
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=19.8
+|weight-kg=9.0
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=20
+|expyield=67
+|lv100exp=1,000,000
+|evtotal=1
+|evsa=1
+|gendercode=127
+|color=Blue
+|catchrate=255
+|body=06
+|pokefordex=elgyem
+|generation=5
+|friendship=70
+}}
+'''Elgyem''' ([[List of Japanese Pokémon names|Japanese]]: '''リグレー''' ''Ligray'') is a {{type|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Beheeyem}} starting at [[level]] 42.
+
+==Biology==
+Elgyem is a light blue [[extraterrestrial Pokémon]] with an oblong head with depressions on either side. It has black, symmetrical lines going down the front of its head. On the front of its head are shiny, green button-like eyes. Its hands have three finger-like digits: one red, one green, and one yellow. It has short, stubby legs and a small tail. Elgyem controls incredible psychic power, which it uses to squeeze its opponent’s brains, causing them headaches. Its origin is said to be linked with a UFO crash site that appeared 50 years ago.
+
+Overall, Elgyem has quite the welcoming and informative behavior. It is willing to help in stressful and otherwise difficult situations. However, Elgyem can become fully involved in something it feels to be important and protect that with its life.
+
+==In the anime==
+[[File:Icarus Elgyem.png|250px|thumb|left|Elgyem in the {{pkmn|anime}}]]
+===Major appearances===
+Elgyem debuted in ''[[BW030|A UFO for Elgyem!]]'' as the friend of [[Professor Icarus]]. It tried to help others by giving them visions of impending danger to help prevent the accident from occurring, but this only caused suspicion and drew attention to Professor Icarus's household. It befriended {{Ash}} and {{ashfr}} when they too came to investigate, and even saved Ash's life after showing them a vision of him falling through a weak board on a bridge. It was later kidnapped by {{TRT}}, but Ash, {{an|Iris}}, and {{an|Cilan}} came to its rescue and reunited it with Professor Icarus.
+
+An Elgyem appeared in ''[[BW069|Climbing the Tower of Success!]]'', under the ownership of [[Ricky]]. Ricky used Elgyem's {{m|Psychic}} powers came in handy for the Wishing Bell Festival contest, but it was sometimes used to cheat. Its Trainer also likes to take credit for its Psychic powers.
+
+===Minor appearances===
+An Elgyem appeared in ''[[BW053|A Maractus Musical!]]'' as part of a [[Pokémon Musical]] show alongside a {{p|Bouffalant}}.
+
+An Elgyem appeared in a fantasy in ''[[BW120|Ash and N: A Clash of Ideals!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW030|Elgyem|Ash's Pokédex|Elgyem, the Cerebral Pokémon. Nobody had ever seen an Elgyem before it made its sudden appearance in the desert.}}
+{{Animedexbody|BW069|Elgyem|Ash's Pokédex|Elgyem, the Cerebral Pokémon. Elgyem was first discovered when it emerged from deep within the desert 50 years ago.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Elgyem Adventures.png|thumb|200px|Elgyem in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PS478|Big City Battles]]'', an Elgyem was briefly seen under the ownership of one of [[Castelia City]]'s residents. 
+
+An Elgyem appeared in ''[[PS483|Special Delivery]]'' as one of the Pokémon competing in {{ci|Nimbasa}}'s [[Pokémon Musical]].
+
+==In the TCG==
+{{main|Elgyem (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Psychic}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.}}
+{{Dex/Entry1|v=White|entry=This Pokémon had never been seen until it appeared from far in the desert 50 years ago.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.}}
+{{Dex/Entry1|v=Y|entry=Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=It uses its strong psychic power to squeeze its opponent's brain, causing unendurable headaches.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=It controls tremendous psychic power. Most reports of alien sightings are actually just people mistaking Elgyem for an alien.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This Pokémon is shrouded in mystery. It's said to have appeared from a UFO that fell from the sky about 50 years ago.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Celestial Tower]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Celestial Tower]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Spooky Manor}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{rt|121|Hoenn}}, [[Mt. Pyre]] ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Mount Hokulani]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Frozen Tundra]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Melodious Woodland#A Lively Concert|Melodious Woodland: A Lively Concert]], [[Chill Battle#Unidentified Flying Objects|Chill Battle: Unidentified Flying Objects]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 3|Safari Jungle: Stage 3]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 677]]<br>Event: [[Special Stages#Ninth release|''Pokémon Safari'']] <small>(Ninth release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Super Gene Laboratorium|Origin Hideaway: Super Gene Laboratorium]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Psychic
+|HP=55
+|Attack=55
+|Defense=55
+|SpAtk=85
+|SpDef=55
+|Speed=30}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|Normal=100
+|Flying=100
+|Fighting=50
+|Ground=100
+|Rock=100
+|Bug=200
+|Poison=100
+|Ghost=200
+|Steel=100
+|Fire=100
+|Grass=100
+|Electric=100
+|Psychic=50
+|Water=100
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Elgyem|Psychic|Psychic|5}}
+{{learnlist/level7|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|4|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|8|Heal Block|Psychic|Status|&mdash;|100|15}}
+{{learnlist/level7|11|Miracle Eye|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|15|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level7|18|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|22|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/level7|25|Imprison|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|29|Simple Beam|Normal|Status|&mdash;|100|15}}
+{{learnlist/level7|32|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/level7|36|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|39|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|43|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|46|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|50|Guard Split|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|50|Power Split|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|53|Synchronoise|Psychic|Special|120|100|10||'''}}
+{{learnlist/level7|56|Wonder Room|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/levelf/7|Elgyem|Psychic|Psychic|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Elgyem|Psychic|Psychic|5}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Elgyem|Psychic|Psychic|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Elgyem|Psychic|Psychic|5}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}|Ally Switch|Psychic|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|302|Sableye}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}|Barrier|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|427|Buneary}}|Cosmic Power|Psychic|Status|&mdash;|&mdash;|20|*}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|096|Drowzee}}{{MSP|097|Hypno}}|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}|Guard Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|390|Chimchar}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}|Power Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|063|Abra}}{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|122|Mr. Mime}}<br>{{MSP|327|Spinda}}{{MSP|574|Gothita}}{{MSP|575|Gothorita}}{{MSP|576|Gothitelle}}{{MSP|605|Elgyem}}{{MSP|606|Beheeyem}}|Skill Swap|Psychic|Status|&mdash;|&mdash;|10|‡}}
+{{learnlist/breed7|{{MSP|063|Abra}}{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}|Teleport|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breedf/7|Elgyem|Psychic|Psychic|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Elgyem|Psychic|Psychic|5}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Elgyem|Psychic|Psychic|5}}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/RumbleBlast|col=6|type=Psychic
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=605
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=605|num=572
+|min=50
+|max=120
+|raisemaxlevel=15
+|skill=Block Smash
+|skilldesc=Clears one unbreakable-block disruption without fail.
+|swapper=Paralysis Combo
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Psychic
+|no1=605
+|name1=Elgyem
+|type1-1=Psychic
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 42}}
+|no2=606
+|name2=Beheeyem
+|type1-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=605}}
+{{Spritebox/6|ndex=605}}
+{{Spritebox/7|ndex=605}}
+{{Spritebox/Footer|605|Elgyem}}
+
+==Trivia==
+===Origin===
+Elgyem is based on {{wp|Grey alien|greys}}, one of the more popular kinds of {{wp|extraterrestrial life|alien}}. Its rocky physical appearance may be a reference to the {{wp|stone circle}}s of Europe, which were allegedly created by visiting extraterrestrials. The colored dots on its hands resembles the colorful faces of the invaders in the {{wp|The War of the Worlds (1953 film)|1953 ''War of the Worlds'' film}}; however, the aliens in the film had green, blue and red dots while Elgyem has red, green and yellow. Judging from its Pokédex entry, Elgyem and its {{p|Beheeyem|evolution}} may also be based on the {{wp|Area 51}} {{wp|Area 51#UFO and other conspiracy theories concerning Area 51|alien conspiracies}} or the {{wp|Roswell UFO incident|Roswell incident}}. Considering its species names, physical appearance, and powers, it may also be based on a brain.
+
+====Name origin====
+Elgyem is a corruption of the abbreviation ''{{wp|Little green men|LGM}}'', a common term used to refer to extraterrestrials.
+
+Ligray may be derived from ''{{wp|Grey alien|greys}}'' (a commonly speculated type of extraterrestrial) and may also be a combination of ''light'' (as in light-grey) or ''little'' and ''grey'' (alternative spelling of ''gray''). Alternatively, it may be a combination of ''little'' and a corruption of ''green'', referring to the slang for aliens: "little green men."
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Psychic
+|ja=リグレー ''Ligray''|jameaning=From ''{{wp|Grey alien|greys}}''; possibly also a contraction of {{tt|リットルグリーンマン|Little Green Man}}
+|fr=Lewsor|frmeaning=A reversed corruption of ''{{wp|Roswell UFO incident|Roswell}}''
+|es=Elgyem|esmeaning=Same as English name
+|de=Pygraulon|demeaning=From ''{{tt|Pygmäe|pygmy}}'', ''{{tt|grau|gray}}'', and ''encephalon''
+|it=Elgyem|itmeaning=Same as English name
+|ko=리그레 ''Ligray''|komeaning=Transliteration of Japanese name
+|zh_cmn=小灰怪 ''Xiǎo​huī​guài​''|zh_cmnmeaning=Literally "Little grey freak". Possibly a reference to {{wp|Greys|{{tt|小灰人 ''xiǎohuīrén''|Greys}}}}
+|ru=Элгием ''Elgiem''|rumeaning=Transcription of English name
+|sr=Eldžijem|srmeaning=From English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=604|prev=Eelektross|nextnum=606|next=Beheeyem}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Pygraulon]]
+[[fr:Lewsor]]
+[[it:Elgyem]]
+[[ja:リグレー]]
+[[pl:Elgyem]]
+[[zh:小灰怪]]

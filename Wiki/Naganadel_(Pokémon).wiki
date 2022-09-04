@@ -1,0 +1,284 @@
+{{PokémonPrevNext/Head|type=Poison|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=803|prev=Poipole|nextnum=805|next=Stakataka}}
+|}
+{{Pokémon Infobox
+|name=Naganadel
+|jname=アーゴヨン
+|tmname=Āgoyon
+|ndex=804
+|type1=Poison
+|type2=Dragon
+|category=Poison Pin
+|height-ftin=11'10"
+|height-m=3.6
+|weight-lbs=330.7
+|weight-kg=150
+|abilityn=1
+|ability1=Beast Boost
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=120
+|evtotal=3
+|evsa=3
+|expyield=243
+|lv100exp=1,250,000
+|gendercode=255
+|color=Purple
+|catchrate=45
+|body=09
+|pokefordex=naganadel
+|generation=7
+|friendship=0
+}}
+'''Naganadel''' ([[List of Japanese Pokémon names|Japanese]]: '''アーゴヨン''' ''Āgoyon'') is a {{2t|Poison|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation VII]] in [[Pokémon Ultra Sun and Ultra Moon]].
+
+It [[Evolution|evolves]] from {{p|Poipole}} when [[level]]ed up while knowing {{m|Dragon Pulse}}.
+
+It is one of the [[Ultra Beast]]s and is known by the code name '''UB Stinger''' (Japanese: '''{{tt|ＵＢ：ＳＴＩＮＧＥＲ |ユービー：スティンガー}}''' ''UB: Stinger'').
+
+==Biology==
+
+Naganadel is a large purple striped Pokémon that has both draconic and insectoid features. The top half of its body is slender with thin arms and fuchsia tipped claws. Both shoulders have grey spikes. Naganadel possess purple draconic wings, which it uses to fly. These wings have a single fuchsia claw at the joint and darker purple membranes. At the end of its long neck is its head, which has a large spiked crest and grey face spikes which act as mandibles when it opens its mouth. Its glowing cyan eyes are conjoined, giving the appearance of a visor. The lower half of its body is an abdomen that resembles a wasp's abdomen. There are three grey spikes on the end of the abdomen, with the middle one being the largest and resembling a hypodermic needle or a wasp's stinger.
+
+Naganadel's main stinger can eject a powerful, adhesive, and luminescent poison at a distance of over six miles. The abdomen contains hundreds of liters of this poison, as well as the [[Ultra Beast]]'s brain. The stingers on its abdomen are directly connected to its brain, and it will react with violence if they are touched by anyone.<ref>https://www.pokemon-sunmoon.com/ultra/en-us/gallery-detail-18.html</ref> Naganadel originates from [[Ultra Megalopolis]] in [[Ultra Space]].
+<!--
+
+==In the anime==
+===Major appearances===
+===Minor appearances===
+
+==In the manga==
+-->
+
+==In the TCG==
+{{main|Naganadel (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Poison|type2=Dragon}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.}}
+{{Dex/Entry1|v=Ultra Moon|entry=One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Poison|type2=Dragon}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=Unavailable}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolve]] {{p|Poipole}}}}
+|}
+|}
+{{Availability/Footer}}
+====In side games====
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Poison
+|type2=Dragon
+|HP=73
+|Attack=73
+|Defense=73
+|SpAtk=127
+|SpDef=73
+|Speed=121
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Poison|type2=Dragon
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=50
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=200
+|Ice=200
+|Dragon=200
+|Dark=100
+|Fairy=100
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Naganadel|Poison|Dragon|7|SM|USUM}}
+{{learnlist/levelVII|N/A|1|Air Cutter|Flying|Special|60|95|25}}
+{{learnlist/levelVII|N/A|1|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/levelVII|N/A|1|Peck|Flying|Physical|35|100|35}}
+{{learnlist/levelVII|N/A|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/levelVII|N/A|1|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/levelVII|N/A|1|Acid|Poison|Special|40|100|30||'''}}
+{{learnlist/levelVII|N/A|{{tt|Evo.|Learned upon evolving}}|Air Cutter|Flying|Special|60|95|25}}
+{{learnlist/levelVII|N/A|7|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/levelVII|N/A|13|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/levelVII|N/A|19|Charm|Fairy|Status|—|100|20}}
+{{learnlist/levelVII|N/A|23|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/levelVII|N/A|31|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/levelVII|N/A|37|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/levelVII|N/A|41|Toxic|Poison|Status|—|90|10}}
+{{learnlist/levelVII|N/A|47|Fell Stinger|Bug|Physical|50|100|25}}
+{{learnlist/levelVII|N/A|53|Air Slash|Flying|Special|75|95|15}}
+{{learnlist/levelVII|N/A|61|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/levelf/7|Naganadel|Poison|Dragon|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Naganadel|Poison|Dragon|7}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM28|Leech Life|Bug|Physical|80|100|10}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM58|Sky Drop|Flying|Physical|60|100|10}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM67|Smart Strike|Steel|Physical|70|—|10}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Naganadel|Poison|Dragon|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Naganadel|Poison|Dragon|7}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Naganadel|Poison|Dragon|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Naganadel|Poison|Dragon|7}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|no|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5||'''|no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Naganadel|Poison|Dragon|7}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Naganadel|Poison|Dragon|7}}
+{{learnlist/prevo7|803|Poipole|||||Covet|Normal|Physical|60|100|25|}}
+{{learnlist/prevof/7|Naganadel|Poison|Dragon|7}}
+
+===Side game data===
+===Evolution===
+{{Evobox-2
+|type1=Poison
+|pictype=art
+|no1=803
+|name1=Poipole
+|type1-1=Poison
+|evo1={{bag|Rare Candy}} + {{bag|TM Dragon VI}}<br>{{color2|000|Level|Level up}}<br><small>knowing {{mcolor|Dragon Pulse}}</small>
+|no2=804
+|name2=Naganadel
+|type1-2=Poison
+|type2-2=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=Poison|type2=Dragon}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7/USUM|ndex=804}}
+{{Spritebox/Footer|804|Naganadel}}
+
+
+==Trivia==
+* Naganadel and its {{p|Poipole|pre-evolution}} are the only [[Ultra Beast]]s that are part of an evolutionary line.
+* Naganadel is the [[List of Pokémon by height|tallest]] {{type|Poison}} Pokémon.
+* Naganadel and its {{p|Poipole|pre-evolution}} were created by [[James Turner]].
+* Naganadel's Speed stat of 121 is the only base stat of an Ultra Beast that is not a prime number.
+* Naganadel shares its {{pkmn|category}} name with its {{p|Poipole|pre-evolution}},  {{p|Nidoran♀}}, {{p|Nidorina}}, {{p|Nidoran♂}}, and {{p|Nidorino}}. They are all known as the Poison Pin Pokémon.
+
+===Origin===
+Naganadel may be based on a Western dragon. Its abdomen resembles that of a wasp.  
+
+====Name origin====
+Naganadel is a combination of ''{{wp|Nāga}}'' and ''Nadel'' (German for needle).<ref>[https://mobile.twitter.com/JamesTurner_42/status/931788320752918529 Twitter - James Turner confirming name origin]</ref>
+
+Āgoyon may be a combination of 顎 ''ago'' (jaw), ''ago'' (Italian for needle), 四 ''yon'' (four) and ''dragon'' or 용 ''yong'' (Korean for dragon).
+
+==In other languages==
+{{Other languages|type=Poison|type2=Dragon
+|ja=アーゴヨン ''Āgoyon''|jameaning=From {{tt|顎 ''ago''|jaw}}, {{tt|''ago''|Italian for needle}}, {{tt|四 ''yon''|four}}, and ''dragon'' or {{tt|용 ''yong''|Korean for dragon}}
+|fr=Mandrillon|frmeaning=From {{wp|Chuck (engineering)|{{tt|''mandrin''|chuck}}}}, {{tt|''salamandre''|salamander}}, {{tt|''mandibule''|mandible}}, ''drill'', ''dragon'' and ''{{tt|aiguillon|stinger}}
+|es=Naganadel|esmeaning=Same as English name
+|de=Agoyon|demeaning=Same as Japanese name
+|it=Naganadel|itmeaning=Same as English name
+|ko=아고용 ''Agoyong''|komeaning=Transliteration of Japanese name. Contains {{tt|용 (龍) ''yong''|dragon}}
+|zh_cmn=四顎針龍 / 四颚针龙 ''Sì'èzhēnlóng''|zh_cmnmeaning=From {{tt|四 ''sì''|four}}, {{tt|顎 / 颚 ''è''|jaw}}, {{tt|針 / 针 ''zhēn''|needle}}, and {{tt|龍 / 龙  ''lóng''|dragon}}
+|zh_yue=四顎針龍 ''Sei'ngohkjāmlùhng''|zh_yuemeaning=From {{tt|四 ''sei''|four}}, {{tt|顎 ''ngohk''|jaw}}, {{tt|針 ''jām''|needle}}, and {{tt|龍   ''lùhng''|dragon}}
+|ru=Наганадел ''Naganadel''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+''UB Stinger''
+{{Langtable|color={{poison color}}|bordercolor={{dragon color dark}}
+|zh_yue=ＵＢ：刺針 ''{{tt|UB: Chijām|UB: Stinger}}''
+|zh_cmn=ＵＢ：刺針 / UB:刺针 ''{{tt|UB: Cìzhēn|UB: Stinger}}''
+|fr=UC-Aiguillon
+|de=UB Stachel
+|it=UC Aculeus
+|ko=UB스팅어 ''UB Stinger''
+|es=UE Aguijón
+}}
+{{-}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Poison|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=803|prev=Poipole|nextnum=805|next=Stakataka}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Agoyon]]
+[[fr:Mandrillon]]
+[[it:Naganadel]]
+[[ja:アーゴヨン]]
+[[zh:四颚针龙]]

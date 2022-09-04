@@ -1,0 +1,350 @@
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=582|prev=Vanillite|nextnum=584|next=Vanilluxe}}
+|}
+{{Pokémon Infobox
+|name=Vanillish
+|jname=バニリッチ
+|jtranslit=Baniritchi
+|tmname=Vanirich
+|category=Icy Snow
+|type1=Ice
+|abilityn=d
+|ability1=Ice Body
+|ability2=Snow Cloak
+|abilityd=Weak Armor
+|ndex=583
+|udex=089
+|u2dex=256
+|karea=Mountain
+|kdex=086
+|adex=256
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=90.4
+|weight-kg=41.0
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|expyield=138
+|lv100exp=1,250,000
+|gendercode=127
+|color=White
+|catchrate=120
+|evtotal=2
+|evsa=2
+|body=05
+|pokefordex=vanillish
+|generation=5
+|friendship=70
+}}
+'''Vanillish''' ([[List of Japanese Pokémon names|Japanese]]: '''バニリッチ''' ''Vanirich'') is an {{type|Ice}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Vanillite}} starting at [[level]] 35 and evolves into {{p|Vanilluxe}} starting at level 47.
+
+==Biology==
+[[File:Snowless Vanillish.png|thumb|left|170px|A "bald" Vanillish with a melted snow covering]]
+Vanillish have large, white, rounded upper bodies with a swirled substance on top, making it resemble a scoop of vanilla ice cream. Its eyes are dark blue with small, ice crystals at the sides. Vanillish has a dark blue mouth, two ice crystals below its mouth, and stubby, limbs that resemble icicles. It has a pointed lower body that resembles a large icicle. 
+
+Vanillish lives in southern, snowy mountains, which it migrated to during an ancient ice age. It creates ice inside its body by drinking water, and expels it to hide itself or freeze opponents. It can shatter frozen opponents with powerful headbutts. Vanillish are smaller in hotter regions, and though it can refreeze its snow despite melting, this process can leave its appearance warped.
+{{left clear}}
+
+==In the anime==
+[[File:Vanillish anime.png|thumb|left|250px|Vanillish in the {{pkmn|anime}}]]
+===Major appearances===
+Vanillish debuted in ''[[BW057|The Mighty Accelguard to the Rescue!]]'', under the ownership of [[Dr. Ferrara|Dr. Ferrara/Cryogonal Man]].
+
+A Vanillish appeared in ''[[BW079|Caution: Icy Battle Conditions!]]'', under the ownership of [[Brycen]]. Brycen used Vanillish in a Gym battle against {{Ash}}, where it battled against {{AP|Krookodile}} before being defeated by {{AP|Scraggy}}.
+
+A Vanillish appeared in ''[[XY057|Thawing an Icy Panic!]]'' alongside a {{p|Vanilluxe}}, where they were looking for a {{p|Vanillite}} who had gone missing and created a big snowstorm in [[Coumarine City]].
+
+===Minor appearances===
+A Vanillish appeared in ''[[XY080|Performing with Fiery Charm!]]'', under the ownership of a [[Pokémon Performer]]. It reappeared in ''[[XY112|Master Class is in Session!]]'', where it was used in the Master Class Pokémon Showcase in [[Gloire City]]; and then again in ''[[XY113|Performing a Pathway to the Future!]]'', where it was seen watching the same Master Class Pokémon Showcase.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW057|Vanillish|Ash's Pokédex|Vanillish, the Icy Snow Pokémon and the evolved form of Vanillite. Vanillish migrated southward long ago during an ice age, and now lives on snow-covered mountains.}}
+{{Animedexbody|BW079|Vanillish|Ash's Pokédex|Vanillish, the Icy Snow Pokémon and the evolved form of Vanillite. Vanillish creates ice energy internally by drinking water from lakes or rivers.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY057|Vanillish|Serena's Pokédex|Vanillish, the Icy Snow Pokémon and the evolved form of Vanillite. Vanillish forms ice particles in the air by cooling it down, then uses them to freeze opponents.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Brycen Vanillish Adventures.png|thumb|130px|Vanillish in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Vanillish owned by a girl in Catelia City appeared in ''[[PS479|The Case of the Missing Pokémon]]'', where they watch as [[Bo|Tep]] trying to find the person who kidnapped {{adv|Bianca}}'s {{p|Litwick}}.
+
+[[Brycen]] owns three Vanillish. They were first used to train {{adv|Black}}'s Pokémon while a single one was used to later battle Black in a Gym battle in ''[[PS499|School of Hard Knocks]]''.
+
+==In the TCG==
+{{main|Vanillish (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ice}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.}}
+{{Dex/Entry1|v=White|entry=It conceals itself from enemy eyes by creating many small ice particles and hiding among them.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=They cool down the surrounding air and create ice particles, which they use to freeze their foes.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=They cool down the surrounding air and create ice particles, which they use to freeze their foes.}}
+{{Dex/Entry1|v=Y|entry=Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=They cool down the surrounding air and create ice particles, which they use to freeze their foes.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Snowy mountains are this Pokémon's habitat. During an ancient ice age, they moved to southern areas.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Hot days cause its body to melt. It can be restored by refreezing it, but the process leaves its body slightly warped.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon has existed since the Ice Age. It controls particles of ice, freezes its opponents, and then shatters them with a headbutt.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It sprays its enemies with grains of ice to freeze them. Most Vanillish in Alola are smaller than average.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This hearty Pokémon survived the Ice Age. It's incredibly popular in very hot regions.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Dragonspiral Tower]] ({{DL|Tall grass|dark grass}}){{sup/s|W}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Giant Chasm]]<br>[[Dragonspiral Tower]]{{sup/s|W}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Icy Cave}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Vanillite}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Mount Lanakila]] ([[SOS Battle]] while {{OBP|hail|weather condition}}ing)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Mount Lanakila]] ([[SOS Battle]] while {{OBP|hail|weather condition}}ing)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Glacier: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Race against the Clock|Frenzy Square: Race against the Clock]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 4|Dragon Hill: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Mt. Vinter|Mt. Vinter: Stage 111]]<br>[[Nacht Carnival|Nacht Carnival: Stage 526]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Frosty Alps|Plasma Tundra: Frosty Alps]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Ice
+|sm1=Never-Melt Ice|sm1type=None|sm1rar=5
+|usum1=Never-Melt Ice|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Ice
+|HP=51
+|Attack=65
+|Defense=65
+|SpAtk=80
+|SpDef=75
+|Speed=59}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ice
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=200
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Vanillish|Ice|Ice|5}}
+{{learnlist/level7|1|Icicle Spear|Ice|Physical|25|100|30||'''}}
+{{learnlist/level7|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level7|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level7|1|Uproar|Normal|Special|90|100|10}}
+{{learnlist/level7|4|Harden|Normal|Status|—|—|30}}
+{{learnlist/level7|7|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level7|10|Uproar|Normal|Special|90|100|10}}
+{{learnlist/level7|13|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level7|16|Mist|Ice|Status|—|—|30}}
+{{learnlist/level7|19|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/level7|22|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level7|26|Mirror Shot|Steel|Special|65|85|10}}
+{{learnlist/level7|31|Acid Armor|Poison|Status|—|—|20}}
+{{learnlist/level7|36|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/level7|42|Hail|Ice|Status|—|—|10}}
+{{learnlist/level7|47|Mirror Coat|Psychic|Special|—|100|20}}
+{{learnlist/level7|53|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/level7|58|Sheer Cold|Ice|Special|—|—|5}}
+{{learnlist/levelf/7|Vanillish|Ice|Ice|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Vanillish|Ice|Ice|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Vanillish|Ice|Ice|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Vanillish|Ice|Ice|5}}
+{{learnlist/breed7|{{MSP|208|Steelix}}{{MSP|679|Honedge}}{{MSP|680|Doublade}}{{MSP|681|Aegislash}}|Autotomize|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|361|Snorunt}}|Ice Shard|Ice|Physical|40|100|30||'''}}
+{{learnlist/breed7|{{MSP|707|Klefki}}|Imprison|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|476|Probopass}}{{MSP|524|Roggenrola}}{{MSP|525|Boldore}}{{MSP|526|Gigalith}}{{MSP|679|Honedge}}{{MSP|680|Doublade}}<br>{{MSP|681|Aegislash}}|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Magnet Rise|Electric|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|075|Graveler}}{{MSP|076|Golem}}{{MSP|095|Onix}}{{MSP|208|Steelix}}{{MSP|185|Sudowoodo}}<br>{{MSP|299|Nosepass}}{{MSP|476|Probopass}}{{MSP|361|Snorunt}}{{MSP|362|Glalie}}|Natural Gift|Normal|Physical|&mdash;|100|15|‡}}
+{{learnlist/breed7|{{MSP|361|Snorunt}}{{MSP|362|Glalie}}|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/breed7|{{MSP|361|Snorunt}}{{MSP|362|Glalie}}{{MSP|582|Vanillite}}{{MSP|583|Vanillish}}{{MSP|584|Vanilluxe}}|Water Pulse|Water|Special|60|100|20|‡}}
+{{learnlist/breedf/7|Vanillish|Ice|Ice|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Vanillish|Ice|Ice|5}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Vanillish|Ice|Ice|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Vanillish|Ice|Ice|5}}
+{{Learnlist/prevo7null}}
+{{learnlist/prevof/7|Vanillish|Ice|Ice|5}}
+
+===Side game data===
+{{Spindata/Head|type=Ice}}
+{{Spindata/RumbleBlast|col=6|type=Ice
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ice|ndex=583
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Ice|ndex=583|num=102
+|min=50
+|max=115
+|raisemaxlevel=10
+|skill=Opportunist
+|skilldesc=Rarely increases damage.
+|swapper=Ice Dance
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Ice
+|no1=582
+|name1=Vanillite
+|type1-1=Ice
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 35}}
+|no2=583
+|name2=Vanillish
+|type1-2=Ice
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 47}}
+|no3=584
+|name3=Vanilluxe
+|type1-3=Ice}}
+
+===Sprites===
+{{Spritebox/Header|type=Ice}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=583}}
+{{Spritebox/6|ndex=583}}
+{{Spritebox/7|ndex=583}}
+{{Spritebox/Footer|583|Vanillish}}
+
+==Trivia==
+* According to Game Freak, Vanillish and its {{p|Vanillite|evolutionary}} {{p|Vanilluxe|relatives}} were created by [[James Turner]].<ref>http://web.archive.org/web/20130115083652/http://www.gamefreak.co.jp/blog/staff/?p=204</ref>
+* Vanillish and {{p|Braviary}} weigh as much as {{ga|Lyra}}.
+
+===Origin===
+Vanillish is based on an {{wp|ice cream cone}} made of snow and ice. It also resembles an {{wp|icicle}}.
+
+====Name origin====
+Vanillish is a combination of ''{{wp|vanilla}}'' and ''delish'' (slang term for delicious).
+
+Vanirich may be a combination of ''vanilla'' and ''rich'' (abounding with).
+
+==In other languages==
+{{Other languages|type=Ice|type2=Ice
+|ja=バニリッチ ''Vanirich''|jameaning=From ''vanilla'' and ''rich''
+|fr=Sorboul|frmeaning=From ''sorbet'' and ''{{tt|boule|ball}}''
+|es=Vanillish|esmeaning=Same as English name
+|de=Gelatroppo|demeaning=From ''{{tt|gelato|Italian for 'ice cream'}}'' and ''{{tt|troppo|Italian for 'too much'}}''
+|it=Vanillish|itmeaning=Same as English name
+|ko=바닐리치 ''Vanirich''|komeaning=Transliteration of Japanese name
+|zh_cmn=多多冰 ''Duōduōbīng''|zh_cmnmeaning=From {{tt|多多 ''duōduō''|much; may also be referring to yogurt drinks}} and {{tt|冰 ''bīng''|ice}}
+|ru=Ваниллиш ''Vanillish''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Notes==
+<references/>
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=582|prev=Vanillite|nextnum=584|next=Vanilluxe}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Gelatroppo]]
+[[fr:Sorboul]]
+[[it:Vanillish]]
+[[ja:バニリッチ]]
+[[pl:Vanillish]]
+[[zh:多多冰]]

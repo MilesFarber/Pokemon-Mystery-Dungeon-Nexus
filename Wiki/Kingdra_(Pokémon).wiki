@@ -1,0 +1,512 @@
+{{PokémonPrevNext/Head|type=Water|type2=Dragon}}
+{{PokémonPrevNext/GO|species=Kingdra}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=229|prev=Houndoom|nextnum=231|next=Phanpy|round=none}}
+{{PokémonPrevNext/Disambig|species=Kingdra}}
+|}
+{{Pokémon Infobox
+|name=Kingdra
+|jname=キングドラ
+|jtranslit=Kingudora
+|tmname=Kingdra
+|ndex=230
+|oldjdex=188
+|jdex=192
+|hdex=186
+|hdex6=195
+|karea=Coastal
+|kdex=041
+|fbrow=109
+|abrow=231
+|obrow=070
+|typebox=1
+|type1=Water
+|type2=Dragon
+|category=Dragon
+|height-ftin=5'11″
+|height-m=1.8
+|weight-lbs=335.1
+|weight-kg=152.0
+|abilityn=d
+|ability1=Swift Swim
+|ability2=Sniper
+|abilityd=Damp
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Dragon
+|eggcycles=20
+|evtotal=3
+|evat=1
+|evsa=1
+|evsd=1
+|expyield=243
+|oldexp=207
+|lv100exp=1,000,000
+|gendercode=127
+|color=Blue
+|catchrate=45
+|body=05
+|pokefordex=kingdra
+|generation=2
+|friendship=70
+}}
+'''Kingdra''' ([[List of Japanese Pokémon names|Japanese]]: '''キングドラ''' ''Kingdra'') is a dual-type {{2t|Water|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Seadra}} when [[trade]]d holding a [[Dragon Scale]]. It is the final form of {{p|Horsea}}.
+
+==Biology==
+Kingdra is a large, seahorse-like Pokémon with a tightly curled tail. It is covered in blue scales except for its yellow, compact belly scales. There are thin spines with a single branch atop its head and thin, white fins under its cheeks. Its thin snout is powerful, allowing squirts of water jets with devastating power to be fired. Two-pronged fins extend slightly past its cheeks. On its back is a white fin supported by thin, blue spines similar to the ones on its head.
+
+The yawn of a sleeping Kingdra is powerful enough to create undercurrents capable of destroying small ships. Should it decide to emerge from the depths of the ocean, Kingdra's strength can create large whirlpools and sea-born tornadoes on the surface. Because of its immense power, Kingdra often hibernates deep in uninhabited areas of the {{DL|List of Pokémon by habitat|Sea Pokémon|sea}} to rest and build up its energy. When a storm arrives, Kingdra is said to awaken and wander about in search of prey.
+
+==In the anime==
+[[File:Clair Kingdra.png|left|thumb|175px|Kingdra in the {{pkmn|anime}}]]
+===Major appearances===
+[[Molly Hale]] used an illusionary Kingdra, created thanks to the power of the {{OBP|Unown|M03}}, to battle {{an|Misty}} in ''[[M03|Spell of the Unown: Entei]]''.
+
+Kingdra made its main series debut in ''[[EP216|Dueling Heroes]]'', under the ownership of {{OBP|Christopher|EP216}}. It lost to {{AP|Totodile}} in the first match of the [[Whirl Cup]].
+
+[[Gym Leader]] [[Clair]] of [[Blackthorn City]] owns a Kingdra, which debuted in ''[[EP252|Fangs for Nothin']]''. Kingdra was used to battle against Ash; it battled {{AP|Pikachu}} and {{AP|Noctowl}}, defeating the latter. Kingdra was used in the rematch against {{AP|Snorlax}} and was eventually defeated.
+
+===Minor appearances===
+A Kingdra was seen at a [[Pokémon Center]] in ''[[The Legend of Thunder!]]''.
+
+A Kingdra appeared in ''[[M09|Pokémon Ranger and the Temple of the Sea]]''.
+
+Multiple Kingdra appeared in ''[[XY001|Kalos, Where Dreams and Adventures begin!]]''.
+
+A Kingdra appeared in ''[[XY024|An Undersea Place to Call Home!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP216|Kingdra|Ash's Pokédex|Kingdra, the Dragon Pokémon. Normally rest on the ocean floor, but in periods of high activity, even a simple yawn has enough power to create whirlpools.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+
+==In the manga==
+[[File:Juan Kingdra Adventures.png|thumb|200px|Kingdra in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{adv|Silver}}'s {{p|Seadra}} evolves into Kingdra when he trades her to {{adv|Gold}} for {{p|Poliwhirl}}, which also [[Polibo|evolves]], in ''[[PS109|Ampharos Amore]]'' but is not seen in this form until ''[[PS111|Tyranitar War]]''. The two then trade back, so that each would have his original, though evolved, Pokémon. She is then used in his battle with Gold in the ruins of [[Ecruteak City]], where she defeats {{DL|Gold (Adventures)|Sudobo}} after being switched in. Silver also uses her to {{m|Waterfall|climb waterfalls}}.
+
+In ''[[PS123|Debonaire Dragonair]]'', [[Clair]] of the [[Blackthorn Gym]] also has a Kingdra which is seen following its Trainer as they approach the Dragon's Den.
+
+[[Juan]] also has a Kingdra which he uses to assist {{adv|Ruby}} and {{adv|Sapphire}} in their training. It first appeared in ''[[PS255|With a Spoink in Your Step I]]''.
+
+==In the TCG==
+{{main|Kingdra (TCG)}}
+{{right clear}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Dragon}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It is said that it usually hides in underwater caves. It can create whirlpools by yawning.}}
+{{Dex/Entry1|v=Silver|entry=It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.}}
+{{Dex/Entry1|v=Crystal|entry=It stores energy by sleeping at underwater depths at which no other life forms can survive.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It is said that it usually hides in underwater caves. It can create whirlpools by yawning.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships.}}
+{{Dex/Entry1|v=FireRed|entry=It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.}}
+{{Dex/Entry1|v=LeafGreen|entry=It is said that it usually hides in underwater caves. It can create whirlpools by yawning.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It lives in caves on the seafloor and creates giant whirlpools every time it moves.}}
+{{Dex/Entry1|v=HeartGold|entry=It is said that it usually hides in underwater caves. It can create whirlpools by yawning.}}
+{{Dex/Entry1|v=SoulSilver|entry=It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It lives in caves on the seafloor and creates giant whirlpools every time it moves.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It lives in caves on the seafloor and creates giant whirlpools every time it moves.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It is said that it usually hides in underwater caves. It can create whirlpools by yawning.}}
+{{Dex/Entry1|v=Y|entry=It stores energy by sleeping at underwater depths at which no other life forms can survive.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Dragon}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Route]]s {{rtn|17|Unova}} and {{rtn|18|Unova}}, [[P2 Laboratory]] ([[Fishing]] in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Route]]s {{rtn|17|Unova}} and {{rtn|18|Unova}}, [[P2 Laboratory]] ([[Fishing]] in {{DL|Phenomenon|rippling water}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Dragon}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 13]], Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Seadra}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Safra Sea]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Surrounded Sea]] (B1-B20), [[Miracle Sea]] (B1-B18, Deep Miracle Sea B1-B4), [[Bottomless Sea]] (B1-B49)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Surrounded Sea]] (B1-B20), [[Miracle Sea]] (B1-B18, Deep Miracle Sea B1-B4), [[Bottomless Sea]] (B1-B49)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Sea of Wailord]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Coral Sea]], {{ra|Eastern Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Sunny Seashore]] (Post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Spike Ball Alert!|Vehicle Gallery: Spike Ball Alert!]], [[Entranceway#Battle Royale - Cage Match|Entranceway: Battle Royale - Cage Match]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 2|Dragon Hill: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Great Challenge|Kingdra Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Windy Sea|Silver Isles: Windy Sea]] <small>(Back Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Water|type2=Dragon}}
+{{eventAvail|{{gameabbrev3|RS}}|Christmas Day Kingdra|English|United States|35|December 25, 2003|link=List of PCNY event Pokémon distributions in Generation III#Kingdra}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Yamamoto's Tournament Kingdra|Japanese|Japan|50|September 29 to October 6, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Kingdra}}
+|}
+
+===Held items===
+{{HeldItems|type=Water|type2=Dragon|Frontier=yes
+|e1=Dragon Scale|e1type=None|e1rar=5
+|bw1=Dragon Scale|bw1type=None|bw1rar=5
+|b2w21=Dragon Scale|b2w21type=None|b2w21rar=5
+|event1=Life Orb|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|type2=Dragon
+|HP=     75
+|Attack= 95
+|Defense=95
+|SpAtk=  95
+|SpDef=  95
+|Speed=  85}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Dragon
+|Speed=2
+|SpeedMax=5
+|Power=4
+|PowerMax=4
+|Technique=3
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Dragon
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     25
+|Water=    25
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  200
+|Dark=    100
+|Fairy=200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Kingdra|Water|Dragon|2}}
+{{learnlist/level7|1|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|1|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/level7|1|Smokescreen|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|5|Smokescreen|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|9|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|13|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|17|Twister|Dragon|Special|40|100|20||'''}}
+{{learnlist/level7|21|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level7|26|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|31|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/level7|38|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|45|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level7|52|Dragon Dance|Dragon|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|60|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/7|Kingdra|Water|Dragon|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Kingdra|Water|Dragon|2}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Kingdra|Water|Dragon|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Kingdra|Water|Dragon|2}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}|Aurora Beam|Ice|Special|65|100|20}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|422|Shellos}}|Clear Smog|Poison|Special|50|&mdash;|15|*}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|334|Altaria}}{{MSP|371|Bagon}}{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}<br>{{MSP|635|Hydreigon}}{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}{{MSP|780|Drampa}}|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/breed7|{{MSP|004|Charmander}}{{MSP|005|Charmeleon}}{{MSP|006|Charizard}}{{MSP|130|Gyarados}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}<br>{{MSP|149|Dragonite}}{{MSP|443|Gible}}{{MSP|444|Gabite}}{{MSP|445|Garchomp}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}<br>{{MSP|612|Haxorus}}{{MSP|621|Druddigon}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}{{MSP|757|Salandit}}<br>{{MSP|780|Drampa}}|Dragon Rage|Dragon|Special|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|129|Magikarp}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|222|Corsola}}{{MSP|349|Feebas}}<br>{{MSP|369|Relicanth}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|618|Stunfisk}}{{MSP|692|Clauncher}}<br>{{MSP|693|Clawitzer}}{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}{{MSP|776|Turtonator}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|618|Stunfisk}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}<br>{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/breed7|{{MSP|224|Octillery}}|Octazooka|Water|Special|65|85|10||'''}}
+{{learnlist/breed7|{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}<br>{{MSP|621|Druddigon}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}{{MSP|706|Goodra}}{{MSP|780|Drampa}}<br>{{MSP|782|Jangmo-o}}{{MSP|783|Hakamo-o}}{{MSP|784|Kommo-o}}|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/breed7|{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|694|Helioptile}}{{MSP|695|Heliolisk}}|Razor Wind|Normal|Special|80|100|10}}
+{{learnlist/breed7|{{MSP|087|Dewgong}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|226|Mantine}}|Signal Beam|Bug|Special|75|100|15}}
+{{learnlist/breed7|{{MSP|129|Magikarp}}{{MSP|349|Feebas}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Splash|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|079|Slowpoke}}<br>{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|131|Lapras}}{{MSP|223|Remoraid}}{{MSP|226|Mantine}}{{MSP|278|Wingull}}<br>{{MSP|279|Pelipper}}{{MSP|350|Milotic}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|656|Froakie}}{{MSP|657|Frogadier}}{{MSP|658|Greninja}}<br>{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/breedf/7|Kingdra|Water|Dragon|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Kingdra|Water|Dragon|2}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Kingdra|Water|Dragon|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Kingdra|Water|Dragon|2}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Kingdra|Water|Dragon|2}}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/PinballRS|col=3|type=Water|ndex=230|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Water|ndex=230|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=230
+|body=1
+|rate=Evolve
+|area=Treasure Sea
+|P1=When I awaken, tornadoes form!
+|P2=Watch out. My HP is down by half already.
+|P3=I'm ruined... Conjuring up a tornado is a dream within a dream...
+|PL=Leveled up! My tornadoes gained in power as well!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=230
+|body=1
+|rate=-12%
+|IQ=C
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=3
+|field=Soak
+|loop=6
+|browser=Kingdra will attack with strong jets of water when it appears above the surface.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Dragon
+|field=Crush
+|fieldpower=4
+|browser=It blows bubbles from its mouth and lets loose widening rings of water to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Crush
+|fieldpower=4
+|past=NA
+|browser=It attacks by spitting bubbles that make Pokémon Slowed.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=230
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=230|num=549
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Whirlpool
+|skilldesc=Delays your opponent's disruptions.
+|swapper=Cross Attack+
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=230
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=150
+|attack=194
+|defense=194
+|fast={{m|Water Gun}}, {{m|Dragon Breath}}
+|special={{m|Hydro Pump}}, {{m|Blizzard}}, {{m|Outrage}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Water
+|type2=Dragon
+|pictype=art
+|no1=116
+|name1=Horsea
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 32}}
+|no2=117
+|name2=Seadra
+|type1-2=Water
+|evo2={{bag|Dragon Scale}}<br>{{color2|000|Trade}}<br>holding {{color2|000|Dragon Scale}}
+|no3=230
+|name3=Kingdra
+|type1-3=Water
+|type2-3=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Dragon}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=230}}
+{{Spritebox/3|ndex=230}}
+{{Spritebox/4|ndex=230}}
+{{Spritebox/5|ndex=230}}
+{{Spritebox/6|ndex=230}}
+{{Spritebox/7|ndex=230}}
+{{Spritebox/Footer|230|Kingdra}}
+
+==Trivia==
+* Kingdra's name is often mistranslated to "Kingora" in the [[Chuang Yi]] translation of [[Pokémon Adventures]].
+* Kingdra is the only Dragon-type Pokémon introduced in [[Generation II]].
+* Kingdra and its pre-evolutions share their {{pkmn|category}} with {{p|Dratini}} along with its evolutions, {{p|Salamence}}, and {{p|Goodra}}. They are all known as the Dragon Pokémon.
+
+===Origin===
+Kingdra is based on a {{wp|weedy sea dragon}}, but still shares many characteristics with regular {{wp|seahorse}}s. The fact that it dwells on the sea floor while creating whirlpools may be based on the mythical monster {{wp|Charybdis}}. Its secondary {{type|Dragon}} may be a reference to a Japanese name for seahorses, 竜の落し子 ''tatsu-no-otoshigo'', which means "dragon's child", and to the legends of {{wp|Ryūjin}} and East Asian dragons, where they are said to bear power over the seas of the world, live on the floors of deep bodies of water, and are also known for their weather like ascensions into the heavens.
+
+====Name origin====
+Kingdra may be a combination of ''king'' and ''dragon'' or ''{{wp|Lernaean Hydra|hydra}}'' (a mythological sea creature).
+
+==In other languages==
+{{Other languages|type=Water|type2=Dragon
+|ja=キングドラ ''Kingdra''|jameaning=From ''king'', ''dragon'', and ''hydra''
+|fr=Hyporoi|frmeaning=From ''{{tt|hippocampe|seahorse}}'' and ''{{tt|roi|king}}''
+|es=Kingdra|esmeaning=Same as English name
+|de=Seedraking|demeaning=From ''{{tt|Seepferd|seahorse}}'', ''{{tt|Drache|dragon}}'', and ''king''
+|it=Kingdra|itmeaning=Same as English name
+|ko=킹드라 ''Kingdra''|komeaning=Transliteration of its Japanese name
+|zh_cmn=刺龍王 / 刺龙王 ''Cìlóngwáng''|zh_cmnmeaning=Literally "Sting dragon king"
+|hi=किंगड्रा ''Kingdra''|himeaning=Transcription of English name
+|ru=Кингдра ''Kingdra''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=229|prev=Houndoom|nextnum=231|next=Phanpy}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational evolutions]]
+
+[[de:Seedraking]]
+[[fr:Hyporoi]]
+[[it:Kingdra]]
+[[ja:キングドラ]]
+[[pl:Kingdra]]
+[[zh:刺龙王]]

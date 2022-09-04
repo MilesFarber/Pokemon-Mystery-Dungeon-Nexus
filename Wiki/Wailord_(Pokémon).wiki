@@ -1,0 +1,515 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Wailord}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=320|prev=Wailmer|nextnum=322|next=Numel|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Wailord
+|jname=ホエルオー
+|jtranslit=Hoeruō
+|tmname=Whaloh
+|ndex=321
+|hdex=100
+|hdex6=105
+|u2dex=241
+|karea=Coastal
+|kdex=028
+|adex=267
+|abrow=238
+|typebox=1
+|type1=Water
+|category=Float Whale
+|height-ftin=47'07"
+|height-m=14.5
+|weight-lbs=877.4
+|weight-kg=398.0
+|abilityn=d
+|ability1=Water Veil
+|ability2=Oblivious
+|abilityd=Pressure
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Water 2
+|eggcycles=40
+|evtotal=2
+|evhp=2
+|expyield=175
+|oldexp=206
+|lv100exp=1,640,000
+|gendercode=127
+|color=Blue
+|catchrate=60
+|body=03
+|pokefordex=wailord
+|generation=3
+|friendship=70
+}}
+'''Wailord''' ([[List of Japanese Pokémon names|Japanese]]: '''ホエルオー''' ''Whaloh'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolve]]s from {{p|Wailmer}} starting at [[level]] 40.
+
+==Biology==
+Wailord is a huge Pokémon based on the {{wp|blue whale}}. It has small beady eyes, a huge mouth, and a throat that is lined with grooves. It has a blue back with and four white spots, and a tan, grooved underbelly. It has two pairs of fins along its sides and a horizontal tail at the back.
+
+When it is jumping out of the water, it makes a giant splash due to its large size. It can dive deep at 10,000 feet (3,000 meters) in one breath. It lives in the {{DL|List of Pokémon by habitat|Sea Pokémon|sea}} in large groups called pods. A pod of Wailord travels together in order to search for food, and is able to eat large quantities at one time, such as schools of {{p|Wishiwashi}}. When a Wailmer is attacked by its predators {{p|Sharpedo}} or {{p|Dhelmise}}, its whole pod works to defend it. It is the largest known Pokémon. Dhelmise also preys on Wailord.
+
+==In the anime==
+[[File:Wailord anime.png|left|230px|thumb|Wailord in the {{pkmn|anime}}]]
+===Major appearances===
+Wailord debuted in ''[[AG034|Having a Wailord of a Time]]''. The Float Whale Pokémon was stuck on a beach near a [[Pokémon Center]]. {{TRT}} tried to haul it away, but a {{p|Combusken}} foiled their plans.
+
+A {{p|Wailmer}} that befriended a man named [[Robin]] evolved into a Wailord in ''[[AG124|Island Time]]''. This Wailord transported {{Ash}} and {{ashfr}} across the ocean until they came across a ship heading for [[Ever Grande City]].
+
+In ''[[DP109|Leading a Stray!]]'', a family of Wailord appeared. One Wailmer was separated from its family, and {{Ash}} helped it get back. By the end of the episode, this Wailmer evolved into a Wailord.
+
+A Wailord appeared in ''[[BW094|The Road to Humilau!]]'', under the ownership of [[Marlon]]. It was used to transport Marlon, {{Ash}}, and {{un|Cameron}} to the [[Humilau Gym]].
+
+===Minor appearances===
+A Wailord appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+Along with their pre-evolved form, multiple Wailord appeared in ''[[M09|Pokémon Ranger and the Temple of the Sea]]''. One briefly reappeared in a montage in ''[[M10|The Rise of Darkrai]]'', which chronicled the preceding nine movies.
+
+A Wailord made a cameo appearance in ''[[M11|Giratina and the Sky Warrior]]''.
+
+A Wailord appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+Multiple Wailord appeared in ''[[BW086|Piplup, Pansage, and a Meeting of the Times!]]'' and ''[[BW087|Expedition to Onix Island!]]''
+
+A Wailord made a cameo appearance in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Wailord appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Wailord appeared in ''[[PK26|Pikachu, What's This Key?]]''.
+
+A Wailord appeared in a flashback in ''[[XY040|Day Three Blockbusters!]]''.
+
+A Wailord appeared in ''[[SM005|Yo, Ho, Ho! Go, Popplio!]]'', during a fantasy where {{an|Sophocles}} predicts he could catch one through [[fishing]] with his special rod.
+
+A Wailord appeared in ''[[SM026|So Long, Sophocles!]]'', where {{an|Lana}} and Sophocles spotted it emerging from the water.
+
+A Wailord appeared in ''[[M20|I Choose You!]]'', where it was seen swimming in the ocean near the [[Shamouti Island]] area.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG034|Wailord|Ash's Pokédex|Wailord, the Float Whale Pokémon. Wailord is the largest Pokémon yet discovered. When diving out of the water in pursuit of its prey, it makes quite an impressive sight.}}
+{{Animedexbody|AG124|Wailord|Ash's Pokédex|Wailord, the Float Whale Pokémon. Wailord is the largest Pokémon yet to be discovered. It is able to jump high into the air, creating gigantic pillars of water.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP109|Wailord|Dawn's Pokédex|Wailord, the Float Whale Pokémon. Wailord can {{m|Dive|dive}} nearly ten-thousand feet on one breath.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Lorry.png|130px|thumb|Wailord in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In [[Pokémon Adventures]], {{adv|Sapphire}} was given a Wailord nicknamed Lorry from her [[Professor Birch|father]] so that she could be able to cross the waters, who first appeared in ''[[PS192|Stick This in Your Craw, Crawdaunt I]]''.
+
+A Wailord appeared in [[PS541]].
+
+==In the TCG==
+{{main|Wailord (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Wii U]]===
+Wailord makes a cameo appearance in the {{OBP|Kalos Pokémon League|stage}}. When the stage transitions to the {{DL|Pokémon League (Kalos)|Flood Chamber}}, it can be seen in the background along with {{p|Blastoise}}, {{p|Piplup}}, and {{p|Clawitzer}}.
+
+====Trophy information====
+'''NA''': ''At a massive 47 feet 7 inches long, Wailord is the largest Pokémon found so far. It's as big as a five-story building! Also, Wailords can dive to almost 10,000 feet with only one breath of air. That's nearly two miles down and almost four times the height of the tallest modern buildings!''
+
+'''PAL''': ''With a height of 14.5 metres, Wailord is the largest Pokémon discovered thus far. 14.5 metres - that's roughly the size of a five-storey building! Also, Wailord can dive to a depth of 3,000 metres on only one breath. That's more than twice the height of Ben Nevis! Some remarkable stats for a remarkable Pokémon.''
+
+==Game data==
+===NPC appearances===
+[[Pokémon Ranger: Shadows of Almia]]: A Wailord is seen in the [[Sea of Wailord]] that was trapped by [[Team Dim Sun]]. The player must free it by deactivating the traps. Later on in the game, it is seen attacking [[Kincaid]]'s submarine. After the {{player}} captures {{p|Darkrai}} for the first time, and then goes to [[Haruba Desert]]'s dock, Wailord will ferry the player to the [[Capture Arena]].
+
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Wailord is the largest of all identified Pokémon up to now. This giant Pokémon swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=When chasing prey, Wailord herds them by leaping out of the water and making a humongous {{m|splash}}. It is breathtaking to see this Pokémon leaping out of the sea with others in its pod.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It breathes through nostrils that it raises above the sea. By inhaling to its maximum capacity, a Wailord can dive close to {{tt|10,000 feet|3,000 meters}} beneath the waves.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It is among the largest of all Pokémon. It herds prey in a pack then swallows the massed prey in one gulp.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=The biggest of all Pokémon. It can {{m|dive}} to a depth of almost {{tt|10,000 feet|3,000 meters}} on only one breath.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It is the largest of all identified Pokémon. They jump as a pack to herd their prey.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=The biggest of all Pokémon. It can dive to a depth of almost {{tt|10,000 feet|3,000 meters}} on only one breath.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.}}
+{{Dex/Entry1|v=Y|entry=The biggest of all Pokémon. It can dive to a depth of almost {{tt|10,000 feet|3,000 meters}} on only one breath.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Wailord is the largest of all identified Pokémon up to now. This giant Pokémon swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=When chasing prey, Wailord herds them by leaping out of the water and making a humongous splash. It is breathtaking to see this Pokémon leaping out of the sea with others in its pod.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Wailord pursue their prey in pods. With their large mouths, they can swallow entire schools of {{p|Wishiwashi}} whole.}}
+{{Dex/Entry1|v=Moon|entry=Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world.}}
+{{Dex/Entry1|v=Ultra Sun|entry=They eat so many fish Pokémon that when Wailord become too numerous, fishermen have to chase them off.}}
+{{Dex/Entry1|v=Ultra Moon|entry=When a small Wailmer is attacked by Sharpedo or Dhelmise, its whole pod works together to protect it.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area={{rt|129|Hoenn}} ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{rt|129|Hoenn}} ({{m|Surf}}ing)}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|223|Sinnoh}} and {{rtn|230|Sinnoh}} ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|223|Sinnoh}} and {{rtn|230|Sinnoh}} ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] [[Pokéwalker]] {{p|Wailmer}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Undella Bay]] ({{m|Surf}}ing in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Undella Bay]] ({{m|Surf}}ing in {{DL|Phenomenon|rippling water}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Wailmer}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Wailmer}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Poni Breaker Coast]], [[Seafolk Village]] ([[SOS Battle]])<br/>[[Poni Wilds]] ([[SOS Battle]] and [[Ambush encounter]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Seafolk Village]] ([[SOS Battle]])<br/>[[Poni Breaker Coast]] ([[SOS Battle]] and [[Ambush encounter]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Wailmer}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 5]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Wailmer}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Bottomless Sea]] (B26F), [[Surrounded Sea]] (B16F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Bottomless Sea]] (B26F), [[Surrounded Sea]] (B16F)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Sea of Wailord]] (during mission)}}
+{{Availability/Entry2/None|v=MD Blazing|v2=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|t={{fire color dark}}|color2={{electric color}}|t2={{electric color dark}}|area={{DL|Pokémon Mystery Dungeon (WiiWare)|Wonder Mail codes}}}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Beach Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Rugged Flats]] (post-ending)}}
+{{Availability/Entry1|1|v=PokéPark 2|color={{grass color}}|link=PokéPark 2: Wonders Beyond|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Wonder Area#Go Big or Go Home!|Wonder Area: Go Big or Go Home!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 6|Distortion Island: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Great Challenge|Wailord Appears]]''<br>Event: ''[[Special Stages#Great Daily (First release)|Great Daily Pokémon]]'' <small>(First release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Sea of Origin|Sapphire Sea: Sea of Origin]] <small>(Back Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Water}}
+{{eventAvail|{{gameabbrev3|RS}}|Monster Week 2 Wailord|English|United States|50|October 25 to 31, 2003|link=List of PCNY event Pokémon distributions in Generation III#Level 50 Wailord}}
+{{eventAvail|{{gameabbrev3|RS}}|Monster Week 2 Wailord|English|United States|100|October 25 to 31, 2003|link=List of PCNY event Pokémon distributions in Generation III#Level 100 Wailord}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|HP=    170
+|Attack= 90
+|Defense=45
+|SpAtk=  90
+|SpDef=  45
+|Speed=  60}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=2
+|SpeedMax=3
+|Power=4
+|PowerMax=5
+|Technique=1
+|TechniqueMax=1
+|Stamina=5
+|StaminaMax=5
+|Jump=2
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   200
+|Electric=200
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Wailord|Water|Water|3}}
+{{learnlist/level7|1|Soak|Water|Status|&mdash;|100|20}}
+{{learnlist/level7|1|Noble Roar|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Heavy Slam|Steel|Physical|&mdash;|100|10}}
+{{learnlist/level7|1|Splash|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|1|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level7|4|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|7|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|10|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level7|13|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/level7|16|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level7|19|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level7|22|Mist|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|25|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/level7|29|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|33|Water Spout|Water|Special|150|100|5||'''}}
+{{learnlist/level7|37|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|44|Dive|Water|Physical|80|100|10||'''}}
+{{learnlist/level7|51|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/level7|58|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|65|Heavy Slam|Steel|Physical|&mdash;|100|10}}
+{{learnlist/levelf/7|Wailord|Water|Water|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Wailord|Water|Water|3}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Wailord|Water|Water|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Wailord|Water|Water|3}}
+{{learnlist/breed7|{{MSP|118|Goldeen}}{{MSP|119|Seaking}}{{MSP|170|Chinchou}}{{MSP|171|Lanturn}}{{MSP|370|Luvdisc}}{{MSP|456|Finneon}}<br>{{MSP|457|Lumineon}}{{MSP|594|Alomomola}}{{MSP|746|Wishiwashi}}|Aqua Ring|Water|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|324|Torkoal}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|432|Purugly}}<br>{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}|Clear Smog|Poison|Special|50|&mdash;|15|*}}
+{{learnlist/breed7|{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|028A|Sandslash}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}<br>{{MSP|157|Typhlosion}}{{MSP|206|Dunsparce}}{{MSP|231|Phanpy}}{{MSP|232|Donphan}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|498|Tepig}}<br>{{MSP|499|Pignite}}{{MSP|500|Emboar}}{{MSP|517|Munna}}{{MSP|518|Musharna}}{{MSP|775|Komala}}{{MSP|777|Togedemaru}}|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|128|Tauros}}{{MSP|133|Eevee}}<br>{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|206|Dunsparce}}{{MSP|231|Phanpy}}{{MSP|300|Skitty}}<br>{{MSP|322|Numel}}{{MSP|327|Spinda}}{{MSP|369|Relicanth}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}{{MSP|550|Basculin}}<br>{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|672|Skiddo}}{{MSP|673|Gogoat}}{{MSP|746|Wishiwashi}}{{MSP|759|Stufful}}<br>{{MSP|760|Bewear}}{{MSP|766|Passimian}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|323|Camerupt}}{{MSP|339|Barboach}}<br>{{MSP|340|Whiscash}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}|Fissure|Ground|Physical|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|325|Spoink}}{{MSP|326|Grumpig}}{{MSP|339|Barboach}}{{MSP|340|Whiscash}}<br>{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}|Snore|Normal|Special|50|100|15}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|118|Goldeen}}{{MSP|119|Seaking}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}<br>{{MSP|321|Wailord}}{{MSP|370|Luvdisc}}{{MSP|456|Finneon}}{{MSP|457|Lumineon}}{{MSP|550|Basculin}}{{MSP|594|Alomomola}}<br>{{MSP|746|Wishiwashi}}|Soak|Water|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|034|Nidoking}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|128|Tauros}}{{MSP|130|Gyarados}}{{MSP|216|Teddiursa}}<br>{{MSP|217|Ursaring}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|327|Spinda}}{{MSP|340|Whiscash}}{{MSP|522|Blitzle}}<br>{{MSP|523|Zebstrika}}{{MSP|550|Basculin}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}{{MSP|554|Darumaka}}<br>{{MSP|555|Darmanitan}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|626|Bouffalant}}{{MSP|725|Litten}}{{MSP|726|Torracat}}<br>{{MSP|727|Incineroar}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|766|Passimian}}<br>{{MSP|775|Komala}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breed7|{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|340|Whiscash}}{{MSP|572|Minccino}}{{MSP|573|Cinccino}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|128|Tauros}}{{MSP|203|Girafarig}}{{MSP|234|Stantler}}{{MSP|325|Spoink}}<br>{{MSP|326|Grumpig}}{{MSP|340|Whiscash}}{{MSP|517|Munna}}{{MSP|765|Oranguru}}|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/breedf/7|Wailord|Water|Water|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Wailord|Water|Water|3}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Liquidation|Water|Physical|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Wailord|Water|Water|3}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Wailord|Water|Water|3}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Wailord|Water|Water|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg water color light}}; border: 3px solid #{{tcg water color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Take Down}}
+| style="background:#fff; {{roundybr|5px}}" | [[Wailord (EX Ruby & Sapphire 14)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/PinballRS|col=3|type=Water|ndex=321|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Water|ndex=321|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=321
+|body=4
+|rate=Evolve
+|area=Serene Sea
+|P1=I'm the biggest of all Pokémon!
+|P2=Oh, not good! I've gone and lost half my HP already.
+|P3=It's no good... I've lost every bit of power...
+|PL=Yes! Leveled up! Watch me grow bigger!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=321
+|body=4
+|rate=-12
+|IQ=E
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=-
+|browser=This Pokémon is gargantuan. It is far too big to capture.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Water|ndex=321
+|Pad=Wailord swims in the [[Beach Zone]]. The largest Pokémon in the {{ga|PokéPark}}, he's well known to be well informed and well organized.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=321
+|pad=He has traveled all around PokéPark. He likes to learn something new. He recently learned the taste of honey in a {{DL|Items in PokéPark 2|Honey Jar}}, too.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=321
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=321|num=621
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Flash Mob
+|skilldesc=Increases damage when there are more Pokémon with the same type in the puzzle area.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=321
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=340
+|attack=175
+|defense=87
+|fast={{m|Zen Headbutt}}, {{m|Water Gun}}
+|special={{m|Surf}}, {{m|Blizzard}}, {{m|Hyper Beam}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Water
+|pictype=art
+|no1=320
+|name1=Wailmer
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 40}}
+|no2=321
+|name2=Wailord
+|type1-2=Water}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=321}}
+{{Spritebox/4|ndex=321}}
+{{Spritebox/5|ndex=321}}
+{{Spritebox/6|ndex=321}}
+{{Spritebox/7|ndex=321}}
+{{Spritebox/Footer|321|Wailord}}
+
+==Trivia==
+<!--Do not add trivia about Wailord's density. It is pure speculation; even if it has a set height and mass, we do not know its VOLUME.
+Also, do not add trivia about Wailord being the tallest Pokémon, it's already in the Biology section, it's too important to be shoved down here.-->
+* Wailord has the highest base {{stat|HP}} of all {{type|Water}} Pokémon.
+* In the games [[Pokémon Colosseum]] and [[Pokémon XD: Gale of Darkness]], Wailord was resized to fit in the battlefield. In [[Pokémon Battle Revolution]], however, its size matches its Pokédex entry.
+* Wailord is the only Pokémon in {{g|Ranger: Shadows of Almia}} that doesn't need to be captured to be added to the Browser; its Browser entry explains that it is too big to capture.
+* Wailord and {{p|Wailmer|its pre-evolution}}'s [[Egg Group]]s ({{egg|Field}} and {{egg|Water 2}}) are unique.
+* In {{game|Black and White|s 2|Pokémon Black 2 and White 2}}, the {{player}} can get the [[List of Medals in Pokémon Black 2 and White 2|Wailord Watcher Medal]] by spotting a Wailord in the [[Marine Tube]].
+
+===Origin===
+This Pokémon is based on the {{wp|blue whale}}, the largest known animal to ever exist. It also resembles a submarine, a blimp, and a torpedo.
+
+====Name origin====
+Wailord is a combination of ''whale'', ''wail'' (referring to the sounds or songs that whales and this Pokémon might make), and ''lord''.
+
+Whaloh is a combination of ''whale'', 吠える ''hoeru'' (to bellow), and 王 ''ō'' (king).
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=ホエルオー ''Whaloh''|jameaning=From ''whale'', {{tt|吠える ''hoeru''|to bellow}}, and {{tt|王 ''ō''|king}}
+|fr=Wailord|frmeaning=Same as English name
+|es=Wailord|esmeaning=Same as English name
+|de=Wailord|demeaning=Same as English name
+|it=Wailord|itmeaning=Same as English name
+|ko=고래왕 ''Goraewang'' |komeaning=Portmanteau of {{tt|고래 ''gorae''|whale}} and {{tt|왕 (王) ''wang''|king}}. It is notable that 대왕고래 ''daewanggorae'' is the Korean name of the blue whale.
+|zh_cmn=吼鯨王 / 吼鲸王 ''Hǒujīngwáng''|zh_cmnmeaning=Literally "Bellowing whale king"
+|hi=वैलर्ड ''Wailord''|himeaning=Transliteration of English name
+|ru=Вэйлорд ''Veylord''|rumeaning=Transliteration of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=320|prev=Wailmer|nextnum=322|next=Numel}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Wailord]]
+[[fr:Wailord]]
+[[it:Wailord]]
+[[ja:ホエルオー]]
+[[pl:Wailord]]
+[[zh:吼鲸王]]

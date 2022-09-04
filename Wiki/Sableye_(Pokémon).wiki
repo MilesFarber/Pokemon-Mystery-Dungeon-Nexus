@@ -1,0 +1,667 @@
+{{PokémonPrevNext/Head|type=Dark|type2=Ghost}}
+{{PokémonPrevNext/GO|species=Sableye}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=301|prev=Delcatty|nextnum=303|next=Mawile|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Sableye
+|jname=ヤミラミ
+|tmname=Yamirami
+|forme=2
+|form2=Mega Sableye
+|image2=302Sableye-Mega.png
+|mega=Sablenite‎
+|ndex=302
+|hdex=068
+|hdex6=070
+|karea=Coastal
+|kdex=123
+|adex=102
+|abrow=193
+|obrow=177
+|opbrow=218
+|type1=Dark
+|type2=Ghost
+|category=Darkness
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=24.3
+|weight-kg=11.0
+|height-ftin2=1'08"
+|height-m2=0.5
+|weight-lbs2=354.9
+|weight-kg2=161.0
+|abilitylayout=2+1
+|abilitycolm=2
+|ability1=Keen Eye
+|ability2=Stall
+|abilityd=Prankster
+|abilitym=Magic Bounce
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=25
+|evtotal=2
+|evat=1
+|evde=1
+|expyield=133
+|oldexp=98
+|lv100exp=1,059,860
+|gendercode=127
+|color=Purple
+|catchrate=45
+|body=12
+|pokefordex=sableye
+|generation=3
+|friendship=35
+}}
+'''Sableye''' ([[List of Japanese Pokémon names|Japanese]]: '''ヤミラミ''' ''Yamirami'') is a dual-type {{2t|Dark|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+While is not known to [[Evolution|evolve]] into or from any other Pokémon, it can [[Mega Evolution|Mega Evolve]] into '''Mega Sableye''' using the [[Sablenite‎]].
+
+==Biology==
+Sableye is a bipedal Pokémon with a dark purple body, armed with sharp teeth and claws, which it uses to dig through soil. It has pale blue, gemstone-like eyes, which allow it to see in low light and sparkle in the dark. It also has a red gemstone on its chest, and its back has a blue and green gemstone as well as another red one. These gem-like eyes and adornments on its body are caused by its diet, which consists of rocks and raw gemstones. It also targets {{p|Carbink}} as prey, though they are usually taken by {{p|Gabite}} before Sableye can reach them. It is feared by people, since it is said to steal a person's soul if they look into its eyes. It is nocturnal and is rarely seen. It lives in {{DL|List of Pokémon by habitat|Cave Pokémon|caves}}.
+
+As Mega Sableye, all the energy from its Mega Evolution is concentrated into the red jewel on its chest, causing it to rip out of Sableye's skin and significantly increase in size; the detached jewel leaves a small hole in Mega Sableye's chest. Its ears elongate, and it gains a spike on the top of its head. Its teeth turn from white to yellow, and its eyes also change from pale blue to a crimson red, with diagonal slits at their inner edges. Its back gains more gems: a second green one, a second red one and two small yellow gems. The enlarged jewel is said to boast such incredible hardness that no attack can even leave a scratch on it. During battle, Mega Sableye shelters itself behind the jewel, from where it can take advantage of any openings its target leaves exposed.<ref name= "Mega">http://www.pokemonrubysapphire.com/en-us/pokemon/new-mega-evolutions/mega-sableye</ref> However, being forced to support its massive jewel leaves Sableye unable to turn quickly, making it vulnerable from behind.
+
+==In the anime==
+===In the main series===
+[[File:Carrie Sableye.png|thumb|220px|left|Sableye in the {{pkmn|anime}}]]
+[[File:Mega Sableye anime.png|thumb|220px|left|Mega Sableye in the anime]]
+====Major appearances====
+Sableye debuted in ''[[SS008|Oaknapped!]]'', under the ownership of [[Cassidy]].
+
+Sableye made its main series debut in ''[[AG029|Ready, Willing, and Sableye]]''. In the episode, the Darkness Pokémon was playing tricks on {{Ash}} and {{ashfr}}.
+
+A Sableye appeared in [[PK15]].
+
+Multiple Sableye appeared in ''[[SS021|Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness]]'' where they tried to stop [[Team Poképals]] from getting on the Rainbow Stoneship.
+
+A Sableye appeared in ''[[XY092|Cloudy Fate, Bright Future!]]'', under the ownership of {{OBP|Carrie|XY092}}. It was used in a battle against Ash, since Carrie believed he was the threat to [[Kalos]] that [[Olympia]] had predicted.
+
+====Minor appearances====
+A Sableye appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+A {{pkmn|Coordinator}}'s Sableye appeared in ''[[AG091|Lessons in Lilycove]]'', where it was seen participating in the [[Lilycove City]] [[Pokémon Contest]].
+
+A Sableye made a cameo appearance in ''[[AG167|What I Did for Love!]]''.
+
+A Sableye appeared in ''[[M16|Genesect and the Legend Awakened]]'' at [[Pokémon Hills]].
+
+A {{pkmn|Trainer}}'s Sableye appeared in ''[[XY039|Summer of Discovery!]]'', ''[[XY041|Foggy Pokémon Orienteering!]]'', and ''[[XY042|Battling Into the Hall of Fame!]]''.
+
+A Sableye that can [[Mega Evolution|Mega Evolve]] into Mega Sableye appeared in ''[[SS031|Mega Evolution Special II]]''.
+
+A Trainer's Sableye appeared in ''[[SS032|Mega Evolution Special III]]''.
+
+Four Sableye appeared in the Hoopa's Surprise Ring Adventures short ''{{DL|Hoopa's Surprise Ring Adventures|In the Dark}}''.
+
+A Trainer's Sableye appeared in ''[[XY138|The First Day of the Rest of Your Life!]]''.
+
+Six Sableye, each of them belonging to a different Trainer, appeared in ''[[SM001|Alola to New Adventure!]]''. One of them appeared in a flashback.
+
+A Student's Sableye appeared in ''[[SM002|The Guardian's Challenge!]]''. It appeared again in [[SM064]].
+
+A Sableye appeared in ''[[SM004|First Catch in Alola, Ketchum-Style!]]'', during a fantasy.
+
+A Trainer's Sableye appeared in ''[[SM006|A Shocking Grocery Run!]]''.  
+
+A Trainer's Sableye appeared in ''[[SM007|That's Why the Litten is a Scamp!]]''.
+
+Two Sableye appeared in ''[[SM015|Rocking Clawmark Hill!]]'', as some of the Pokémon training up on [[Clawmark Hill]].
+
+Two Trainers' Sableye appeared in ''[[SM021|One Journey Ends, Another Begins...]]''.
+
+Two Trainers' Sableye appeared in ''[[SM023|Getting the Band Back Together!]]''.
+
+A Trainer's Sableye appeared in ''[[SM027|A Glaring Rivalry!]]''.
+
+A Trainer's Sableye appeared in ''[[SM040|Balloons, Brionne, and Belligerence!]]''.
+
+A Trainer's Sableye appeared in ''[[SM050|Faba's Revenge!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG029|Sableye|May's Pokédex|Sableye, the Darkness Pokémon. Sableye normally live within caves and eat rocks. They use their sharp claws to {{m|dig}} through the earth.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY092|Sableye|Serena's Pokédex|Sableye, the Darkness Pokémon. Living in caves, Sableye digs up gems with its sharp claws, then devours them.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+===In the Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+[[File:Mega Sableye ORAS Trailer.png|thumb|250px|Mega Sableye in the animated trailer]]
+A [[Mega Evolution|Mega]] Sableye made a cameo appearance in the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]].
+{{-}}
+
+==In the manga==
+[[File:Jupiter Sableye Adventures.png|thumb|125px|Sableye in [[Pokémon Adventures]]]]
+===In the movie adaptations===
+Two Sableye appeared in [[Get Fired Up, Marshadow!]].
+
+===In the Pokémon Adventures manga===
+Sableye first appeared in ''[[PS180|The Last Battle XIV]]'', as a wild Pokémon pictured in one of the many photographs of unseen Pokémon that {{adv|Professor Oak}} discovered. 
+
+A Sableye appeared in ''[[PS241|Dreadful Dealing with Dusclops]]'', attacking {{adv|Wally}} inside the [[Sky Pillar]].
+
+In ''[[PS306|Pinsir Me, I Must Be Dreaming]]'', Sableye appeared under Trainer ownership for the first time. One was a [[Battle Factory]] rental Pokémon that {{adv|Emerald}} faced. Another Sableye appeared in ''[[PS319|Verily Vanquishing Vileplume I]]'', owned by {{tc|Hex Maniac}} Valerie who took part in the preview [[Battle Dome]] tournament.
+
+A Sableye appears as one of the Pokémon owned by the [[Team Galactic]] commander [[Jupiter]]. She used it alongside her {{p|Gastrodon}} and {{p|Tangrowth}} to attack {{adv|Platinum}}, [[Candice]], and [[Maylene]] when they arrived in [[Lake Acuity]]. It first appeared in ''[[PS395|Stopping Sableye]]''.
+
+[[Draconid]] [[Renza]] owns a Sableye which appeared in ''[[PAORAS06|Omega Alpha Adventure 6]]''.
+
+===In the Pokémon Ruby-Sapphire manga===
+Sableye is [[Brawly]]'s only known Pokémon. It is considered an unusual choice for him as it was not a {{type|Fighting}} and it is immune to {{t|Fighting}} moves.
+
+==In the TCG==
+{{main|Sableye (TCG)}}
+
+==Game data==
+===NPC appearances===
+{{spoilers}}
+* [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]]: Six Sableye acted as assistants to {{mdc|Dusknoir|2}} and had a number of appearances over the course of the game. After the player defeats Dusknoir and the Sableye in the [[Hidden Land]], the Sableye all flee.
+* [[Pokémon Mystery Dungeon: Explorers of Sky]]: Six Sableye perform the same role as above, and in addition appear in Special Episode 5, which contains the events happening after Grovyle returns to the future with Dusknoir, and play a role in the episode's plot.
+
+===Pokédex entries===
+====Sableye====
+{{Dex/Header|type=Dark|type2=Ghost}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Sableye lead quiet lives deep inside caverns. They are feared, however, because these Pokémon are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon's body surface.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It digs branching holes in caves using its sharp claws in search of food—raw gems. A Sableye lurks in darkness and is seen only rarely.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.}}
+{{Dex/Entry1|v=Y|entry=It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Sableye lead quiet lives deep inside caverns. They are feared, however, because these Pokémon are thought to steal the spirits of people when their eyes burn with a sinister glow in the darkness.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Sableye digs the ground with sharpened claws to find rocks that it eats. Substances in the eaten rocks crystallize and rise up to the Pokémon’s body surface.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It's a fiend for gemstones, so it stalks Carbink. Unfortunately, Gabite almost always grabs them first.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon is feared. When its gemstone eyes begin to glow with a sinister shine, it's believed that Sableye will steal people's spirits away.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It digs through the ground with its hard claws and crunches down gems with its thick pointy teeth. Carbink is its favorite food.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Mega Sableye====
+{{Dex/Header|type=Dark|type2=Ghost}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=The jewel from its chest, which has grown gigantic due to the effects of Mega Evolution, can turn back any attack.}}
+{{Dex/Entry1|v=Moon|entry=Supporting a giant heavy jewel, it can't change direction very nimbly and is vulnerable to attack from behind.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Bathed in the energy of Mega Evolution, the gemstone on its chest expands, rips through its skin, and falls out.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It blocks any and all attacks with its giant-sized gemstone. However, the stone's a heavy burden, and it limits Mega Sableye's movements.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dark|type2=Ghost}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1/None|v=Ruby|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=Sapphire|t=FFF|area=[[Granite Cave]], [[Cave of Origin]], [[Sky Pillar]], {{ho|Victory Road}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Granite Cave]], [[Cave of Origin]], [[Sky Pillar]], {{ho|Victory Road}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Citadark Isle]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Iron Island]] {{color2|{{sapphire color dark}}|Dual-slot mode|(Sapphire)}}}}
+{{Availability/Entry1|v=Platinum|area=[[Iron Island]] {{color2|{{sapphire color dark}}|Dual-slot mode|(Sapphire)}}}}
+{{Availability/Entry1|v=HeartGold|area={{rt|9|Kanto}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1/None|v=SoulSilver}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Rally}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Challenger's Cave]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Trade]] with [[Curtis]] in [[Nimbasa City]] (female player character only)}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Spooky Manor}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Reflection Cave]], [[Friend Safari]] ([[Friend Safari#Dark-type Safari|Dark]])}}
+{{Availability/Entry1/None|v=Omega Ruby}}
+{{Availability/Entry1|v=Alpha Sapphire|t=FFF|area=[[Granite Cave]], [[Cave of Origin]], {{ho|Victory Road}}, [[Sky Pillar]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ten Carat Hill]], [[Vast Poni Canyon]] ([[SOS Battle]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ten Carat Hill]], [[Vast Poni Canyon]] ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dark|type2=Ghost}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Cave ({{color2|{{sapphire color}}|Sapphire Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 3]], Endless Level 3, Forever Level 3, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Darknight Relic]] (1F-15F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Spacial Rift]] (B1F-B15F, Deep B1F-B9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Spacial Rift]] (B1F-B15F, Deep B1F-B9F)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Chroma Ruins]], [[Hippowdon Temple]]}}
+{{Availability/Entry2/None|v=MD Blazing|v2=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|t={{fire color dark}}|color2={{electric color}}|t2={{electric color dark}}|area={{DL|Pokémon Mystery Dungeon (WiiWare)|Wonder Mail codes}}}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Haunted Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Daybreak Ruins]], [[Light Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Hauntyard: [[World Axle - B1F]] (post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Magical Lake#Protect Pichu in the Forest|Magical Lake: Protect Pichu in the Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 4|Distortion Island: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Night Festival|Night Festival: Stage 24]]<br>[[Graucus Hall|Graucus Hall: Stage 458]]<br>Event: ''[[Special Stages#Great Challenge|Sableye Appears]]'' <small>(Costumed)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Halloween Village|Starlight Islands: Halloween Village]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 15|Area 15: Stage 09]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Dark|type2=Ghost}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Fifth Campaign Sableye|Japanese|Japan|10|March 21 to April 9, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Sableye}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Chief Golgo's Sableye|Japanese|Japan|50|September 15 to 28, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Chief Golgo's Sableye}}
+{{eventAvail|{{gameabbrev6|AS}}|Shigeki Morimoto's Sableye|PAL region|Online|50|August 5, 2015 to January 22, 2016|link=List of PAL region serial code event Pokémon distributions in Generation VI#Sableye}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Mega Campaign Sableye|All|Japan|100|January 1 to 31, 2016|link=List of local event Pokémon distributions in Generation VI#Sableye}}
+|}
+
+===Held items===
+{{HeldItems|type=Dark|type2=Ghost
+|as1=Wide Lens|as1type=None|as1rar=5
+|sm1=Wide Lens|sm1type=None|sm1rar=5
+|usum1=Wide Lens|usum1type=None|usum1rar=5
+|event1=Black Sludge|event1type=None|event1rar=100
+|event2=Sablenite‎|event2type=None|event2rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Dark
+|type2=Ghost
+|HP=     50
+|Attack= 75
+|Defense=75
+|SpAtk=  65
+|SpDef=  65
+|Speed=  50}}
+
+=====Mega Sableye=====
+{{Base Stats
+|type=Dark
+|type2=Ghost
+|HP=50
+|Attack=85
+|Defense=125
+|SpAtk=85
+|SpDef=115
+|Speed=20}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Dark
+|type2=Ghost
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|type2=Ghost
+|Normal=    0
+|Fighting=  0
+|Flying=  100
+|Poison=   50
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic=   0
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   200
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=2
+|dark=yes
+|newpsychic=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Sableye|Dark|Ghost|3}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|4|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|6|Night Shade|Ghost|Special|&mdash;|100|15}}
+{{learnlist/level7|9|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level7|11|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level7|14|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|16|Shadow Sneak|Ghost|Physical|40|100|30||'''}}
+{{learnlist/level7|19|Feint Attack|Dark|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|21|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/level7|24|Punishment|Dark|Physical|&mdash;|100|5||'''}}
+{{learnlist/level7|26|Knock Off|Dark|Physical|65|100|20||'''}}
+{{learnlist/level7|29|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/level7|31|Confuse Ray|Ghost|Status|&mdash;|100|10}}
+{{learnlist/level7|34|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/level7|36|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/level7|39|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level7|41|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/level7|44|Quash|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|46|Mean Look|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/levelf/7|Sableye|Dark|Ghost|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Sableye|Dark|Ghost|3}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10||'''}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Sableye|Dark|Ghost|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Sableye|Dark|Ghost|3}}
+{{learnlist/breed7|{{MSP|063|Abra}}{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}<br>{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|106|Hitmonlee}}{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}<br>{{MSP|125|Electabuzz}}{{MSP|466|Electivire}}{{MSP|126|Magmar}}{{MSP|467|Magmortar}}{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}<br>{{MSP|302|Sableye}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|313|Volbeat}}{{MSP|327|Spinda}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}<br>{{MSP|448|Lucario}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Captivate|Normal|Status|&mdash;|100|20|‡}}
+{{learnlist/breed7|{{MSP|106|Hitmonlee}}{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|391|Monferno}}<br>{{MSP|392|Infernape}}{{MSP|448|Lucario}}|Feint|Normal|Physical|30|100|10}}
+{{learnlist/breed7|{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}{{MSP|574|Gothita}}{{MSP|575|Gothorita}}{{MSP|576|Gothitelle}}|Flatter|Dark|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|605|Elgyem}}{{MSP|606|Beheeyem}}|Imprison|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|302|Sableye}}|Mean Look|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|625|Bisharp}}|Metal Burst|Steel|Physical|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|313|Volbeat}}|Moonlight|Fairy|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|390|Chimchar}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|605|Elgyem}}{{MSP|606|Beheeyem}}|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|327|Spinda}}{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Sucker Punch|Dark|Physical|70|100|5||'''|Clever|3|0}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|122|Mr. Mime}}|Trick|Psychic|Status|&mdash;|100|10}}
+{{learnlist/breedf/7|Sableye|Dark|Ghost|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Sableye|Dark|Ghost|3}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15||'''|no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||'''|no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Sableye|Dark|Ghost|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg darkness color light}}; border: 3px solid #{{tcg darkness color}}"
+|-
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Disable}}
+| [[Sableye (EX Crystal Guardians 10)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Slash}}
+| style="background:#fff; {{roundybr|5px}}" | [[Sableye (EX Deoxys 23)]]
+|}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{dark color light}}; border: 3px solid #{{ghost color}}"
+|-
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Lick}}
+| style="background:#fff" | {{typecolor|Ghost}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[AG029|Ready, Willing, and Sableye]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Dark|type2=Ghost}}
+{{Spindata/PinballRS|col=3|type=Dark|ndex=302|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Dark|ndex=302|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Dark|ndex=302
+|body=1
+|rate=8.2
+|area=Darkness Ridge
+|P1=You'll appreciate my luminous eyes in darkness.
+|P2=Hey, you do see my HP's gone down by half?
+|P3=I'm next to done... The light in my eyes grows dim...
+|PL=There! I've leveled up! See how my eyes blaze with color?
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Dark|ndex=302
+|body=1
+|rate=8.2
+|IQ=C
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Dark
+|group=Dark
+|assist=Dark
+|field=Cut
+|fieldpower=2
+|browser=It launches {{m|Shadow Ball|eerie orbs}} and dark pulses to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Dark
+|group=Dark
+|assist=Dark
+|field=Cut
+|fieldpower=1
+|browser=It releases dark pulses around itself that make Pokémon Tired.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Dark
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Dark|ndex=302
+|Pad=Sableye loves to spend time reading books in the Haunted House. Quizzes make him dance with joy. And so does playing {{DL|Attractions|Bastiodon's Block Barrage}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Dark|ndex=302
+|pad=He came to the warehouse to look for gems and settled down there. He secretly ate a lot of gems while in [[Wish Park]].
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Dark|ndex=302
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Dark|ndex=302|num=074
+|mega=1
+|stone=Sablenite
+|min=50
+|max=130
+|raisemaxlevel=20
+|skill=Risk-Taker
+|skilldesc=Increases damage randomly.
+|swapper=Swap+
+|megaspeedup=10
+|effectdesc=Erases all Pokémon in an O-shaped pattern.
+}}
+{{Spindata/Shuffle|col=3|type=Dark|ndex=302Spooky|stype=Ghost|num=074
+|mega=1
+|stone=Sablenite
+|min=50
+|max=115
+|raisemaxlevel=10
+|skill=Prank
+|skilldesc=Sometimes changes when a foe will next disrupt your play.
+|swapper=Swap++
+|megaspeedup=7
+|effectdesc=Replaces Pokémon (max 3) of the same type as Mega Sableye.
+}}
+|-
+{{Spindata/GO|col=6|type=Dark|ndex=302
+|hatch=10 km
+|buddy=5
+|evolution=N/A
+|stamina=100
+|attack=114
+|defense=114
+|fast={{m|Shadow Claw}}, {{m|Feint Attack}}
+|special={{m|Power Gem}}, {{m|Foul Play}}, {{m|Shadow Sneak}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Dark
+|type2=Ghost
+|pictype=art
+|no1=302
+|name1=Sableye
+|type1-1=Dark
+|type2-1=Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=Dark|type2=Ghost}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=302}}
+{{Spritebox/4|ndex=302}}
+{{Spritebox/5|ndex=302}}
+{{Spritebox/6/2FormsORAS|ndex=302|form1=M}}
+{{Spritebox/7/2Forms|ndex=302|form1=M}}
+{{Spritebox/Footer|302|Sableye}}
+
+==Trivia==
+* Sableye seems to be the counterpart of {{p|Mawile}}. Both of them are [[version-exclusive]] of Ruby and Sapphire, as well as in {{2v2|HeartGold|SoulSilver}}. Both have [[Mega Evolution]]s. They also have the same [[base stats|base stat total]] (with the same base HP and Speed).
+* Sableye shares its {{pkmn|category}} with {{p|Murkrow}}. They are both known as the Darkness Pokémon.
+* Sableye has the lowest base stat total of all fully evolved Dark-type Pokémon.
+* Mega Sableye is tied with Mega Mawile for having the lowest [[base stat]] total of all Mega Evolved Pokémon, at 480, and is tied with Mega {{p|Camerupt}} for having the lowest Speed stat of all Mega Evolved Pokémon, at 20.
+* Mega Sableye is the slowest {{type|Dark}} Pokémon.
+* Prior to the introduction of the {{t|Fairy}} type in [[Generation VI]], Sableye (along with {{p|Spiritomb}}) had no elemental weaknesses under normal battle conditions (using {{m|Foresight}} can expose its Dark-type vulnerability to {{t|Fighting}}). As this occurred without the aid of an [[Ability]], it was commonly hacked to have the ability {{a|Wonder Guard}}, making it immune to all direct damage. This hack is commonly referred to as [[Wondereye]].
+* Mega Sableye is the shortest Mega-Evolved Pokémon, standing at 1'08" (0.5 m).
+
+===Origin===
+Sableye is a stylization of the {{wp|Kelly–Hopkinsville encounter|Hopkinsville Goblin}}, a creature from an alleged Kentucky "alien encounter" described as having shining eyes, small legs, clawed arms and swaying hips (a movement that Sableye imitates in the 3D Pokémon games). The Hopkinsville aliens are most famous in Japan, where they have appeared in other anime and video games.
+
+The [[Pokémon Ruby and Sapphire Versions|ruby, sapphire]] and [[Pokémon Emerald Version|emerald]] on Sableye's body may be a reference to the three games of the [[Generation III|generation]] it debuted in.
+
+====Name origin====
+Sableye is a combination of ''{{wp|Sable (heraldry)|sable}}'' and ''{{wp|eye}}''. It may also be a play on ''able-eyed''.
+
+Yamirami may be a combination of 闇 ''yami'' (darkness) and 藪睨み ''yabunirami'' (a {{wp|squint}}) or 睨み ''nirami'' (glare).
+
+==In other languages==
+{{Other languages|type=Dark|type2=Ghost
+|ja=ヤミラミ ''Yamirami''|jameaning=From {{tt|闇 ''yami''|darkness}}, {{tt|藪睨み ''yabunirami''|a squint}} and {{tt|睨み ''nirami''|glare}}
+|fr=Ténéfix|frmeaning=From ''{{tt|ténèbre|darkness}} and ''{{tt|fixer|stare}}''
+|es=Sableye|esmeaning=Same as English name
+|de=Zobiris|demeaning=From ''Zombie'' and ''{{wp|Iris (anatomy)|Iris}}''
+|it=Sableye|itmeaning=Same as English name
+|ko=깜까미 ''Kamkami''|komeaning=Corruption of {{tt|깜깜 ''kkam-kkam''|dark, pitch-black}}
+|zh_cmn=勾魂眼 ''Gōuhúnyǎn''|zh_cmnmeaning=From {{tt|勾魂 ''gōuhún''|soul-stealing}} and {{tt|眼 ''yǎn''|eye}}
+|zh_yue=勾魂眼 ''Ngāuwàhnngáahn''|zh_yuemeaning=From {{tt|勾魂 ''ngāuwàhn''|soul-stealing}} and {{tt|眼 ''ngáahn''|eye}}
+|hi=सेबलआई ''Sableye''|himeaning=Transliteration of English name
+|ru=Сэйблай ''Seyblay''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Notes==
+<references />
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Dark|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=301|prev=Delcatty|nextnum=303|next=Mawile}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+
+[[de:Zobiris]]
+[[fr:Ténéfix]]
+[[it:Sableye]]
+[[ja:ヤミラミ]]
+[[pl:Sableye]]
+[[zh:勾魂眼]]

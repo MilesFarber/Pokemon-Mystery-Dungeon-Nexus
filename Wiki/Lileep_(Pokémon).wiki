@@ -1,0 +1,451 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Grass}}
+{{PokémonPrevNext/GO|species=Lileep}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=344|prev=Claydol|nextnum=346|next=Cradily|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Lileep
+|jname=リリーラ
+|jtranslit=Rirīra
+|tmname=Lilyla
+|ndex=345
+|hdex=133
+|hdex6=138
+|typebox=1
+|type1=Rock
+|type2=Grass
+|category=Sea Lily
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=52.5
+|weight-kg=23.8
+|abilityn=d
+|ability1=Suction Cups
+|abilityd=Storm Drain
+|egggroupn=1
+|egggroup1=Water 3
+|eggcycles=30
+|evtotal=1
+|evsd=1
+|expyield=71
+|g4exp=99
+|oldexp=121
+|lv100exp=600,000
+|gendercode=31
+|color=Purple
+|catchrate=45
+|body=05
+|pokefordex=lileep
+|generation=3
+|friendship=70
+}}
+'''Lileep''' ([[List of Japanese Pokémon names|Japanese]]: '''リリーラ''' ''Lilyla'') is a dual-type {{2t|Rock|Grass}} [[Fossil]] {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It is resurrected from a [[Root and Claw Fossils|Root Fossil]] and [[Evolution|evolves]] into {{p|Cradily}} starting at [[level]] 40.
+
+==Biology==
+Lileep is a somewhat plant-like Pokémon with eight dark-tipped, pink tentacles protruding from an opening on top of its head. Inside the pitch black opening are two glowing, yellow eyes. The remainder of its head is purple with yellow eyespots resembling targets. The head is connected to the body by means of a yellow stem. The body itself is purple and semi-spherical. Four stubby roots anchor this Pokémon firmly to the rocks of its home on the {{DL|List of Pokémon by habitat|Sea Pokémon|sea floor}}. 
+
+In ancient times, it lived in warm seas. It waves its tentacles around to disguise itself as seaweed in order to attract prey, which is swallowed whole after being entangled. Lileep has been extinct for 100 million years, but specimens can be revived from [[Root and Claw Fossils|Root Fossil]]s.
+
+==In the anime==
+[[File:Wales Island Lileep.png|thumb|220px|left|Lileep in the {{pkmn|anime}}]]
+===Major appearances===
+
+===Minor appearances===
+A group of Lileep were seen on [[Wales Island]] with the other [[Fossil]] Pokémon in ''[[AG102|Where's Armaldo?]]''. They were being looked after by [[Professor Proctor]] and [[Annie Proctor]].
+
+Three Lileep appeared in ''[[M08|Lucario and the Mystery of Mew]]'' as some of the Pokémon living in the [[Tree of Beginning]].
+
+A Mirage Lileep appeared in ''[[The Mastermind of Mirage Pokémon]]''.
+
+A Lileep revived by [[Dr. Kenzo]] appeared in ''[[DP017|Wild in the Streets!]]'', where it was seen along with several other Pokémon within the habitat created for the revived Pokémon.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG102|Lileep|Ash's Pokédex|Lileep, the Sea Lily Pokémon. Lileep is believed to affix itself to stones on the ocean floor, and uses its petal-like tentacles to catch prey.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+==In the manga==
+[[File:Lileep and Anorith Adventures.png|thumb|150px|Lileep in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Lileep was set free alongside an {{p|Anorith}} during {{adv|Ruby}}'s stay in [[Fallarbor Town]] in ''[[PS225|Tanks, but No Tanks, Anorith & Lileep]]'', and using the raw talent in battle that he inherited from [[Norman]], he calmed them (when he saw that nobody was looking, of course).
+
+A Lileep appeared as a {{DL|Battle Frontier (Generation III)|Battle Factory}} Pokémon in ''[[PS306|Pinsir Me, I Must Be Dreaming]]''. 
+
+A Lileep appeared in ''[[PS315|Skirting Around Surskit I]]'' as a rental Pokémon that [[Guile Hideout]] stole.
+
+==In the TCG==
+{{main|Lileep (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock|type2=Grass}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Lileep became extinct approximately a hundred million years ago. This ancient Pokémon attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Lileep is an ancient Pokémon that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this Pokémon intently scans for prey with its two eyes.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It disguises itself as seaweed by making its tentacles sway. Unsuspecting prey that come too close are swallowed whole. It became extinct 100 million years ago.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It became extinct roughly 100 million years ago. It was regenerated from a fossil using advanced techniques.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It lived on the seafloor 100 million years ago and was reanimated scientifically.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It lived on the seafloor 100 million years ago and was reanimated scientifically.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It lived on the seafloor 100 million years ago and was reanimated scientifically.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times.}}
+{{Dex/Entry1|v=Y|entry=It lived on the seafloor 100 million years ago and was reanimated scientifically.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Lileep became extinct approximately a hundred million years ago. This ancient Pokémon attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Lileep is an ancient Pokémon that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this Pokémon intently scans for prey with its two eyes.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=In ancient times, it lived in warm seas. It disguised itself as seaweed to ambush its prey and devoured them whole when they got close.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It sticks to rocks with its powerful suckers and can't be washed away no matter how rough the surf gets.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Grass}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=Revive from [[Root and Claw Fossils|Root Fossil]] at [[Rustboro City]]'s [[Devon Corporation]]}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=Revive from [[Root and Claw Fossils|Root Fossil]] at [[Rustboro City]]'s [[Devon Corporation]]}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=Revive from [[Root and Claw Fossils|Root Fossil]] at the [[Oreburgh Mining Museum]]}}
+{{Availability/Entry1|v=Platinum|area=Revive from [[Root and Claw Fossils|Root Fossil]] at the [[Oreburgh Mining Museum]]}}
+{{Availability/Entry1/None|v=HeartGold|area=[[Trade]]<br>Receive [[Root and Claw Fossils|Root Fossil]] [[held item|held]] by a [[trade]]d Pokémon and revive it}}
+{{Availability/Entry1|v=SoulSilver|area=Revive from [[Root and Claw Fossils|Root Fossil]] at the [[Pewter Museum of Science]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=Revive from [[Root and Claw Fossils|Root Fossil]] at the {{DL|Nacrene City|Nacrene Museum}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=Revive from [[Root and Claw Fossils|Root Fossil]] at the {{DL|Nacrene City|Nacrene Museum}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Sparkling Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|2|v=X|t=FFF|area=Revive from [[Root and Claw Fossils|Root Fossil]] at the [[Ambrette Town]] {{DL|Ambrette Town|Fossil Lab}}}}
+{{Availability/Entry1/None|2|v=Y|area=[[Trade]]<br>Receive [[Root and Claw Fossils|Root Fossil]] [[held item|held]] by a [[trade]]d Pokémon and revive it}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=Revive from [[Root and Claw Fossils|Root Fossil]] at [[Rustboro City]]'s [[Devon Corporation]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]<br/>Receive [[Root and Claw Fossils|Root Fossil]] [[held item|held]] by a [[trade]]d Pokémon and revive it
+}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=Revive from [[Root and Claw Fossils|Root Fossil]] at the [[Fossil Restoration Center]] on {{rt|8|Alola}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Grass}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Ocean ({{color2|{{ruby color}}|Ruby Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 17, Endless Level 46, Forever Level 7, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Silver Trench]] (80F-89F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Drenched Bluff]] (B1-B6)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Drenched Bluff]] (B1-B6)}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Entranceway#The Hidden Basement|Entranceway: The Hidden Basement]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 2|Safari Jungle: Stage 2]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 507]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Sea of Origin|Sapphire Sea: Sea of Origin]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Rock|type2=Grass}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Adventure Camp Lileep|Japan|Japanese|15|July 21, 2012 to September 30, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Lileep}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Rock|type2=Grass
+|event1=Tanga Berry|event1type=Berry|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|type2=Grass
+|HP=66
+|Attack=41
+|Defense=77
+|SpAtk=61
+|SpDef=87
+|Speed=23}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Rock
+|type2=Grass
+|Speed=1
+|SpeedMax=3
+|Power=3
+|PowerMax=4
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Grass
+|Normal=   50
+|Flying=  100
+|Fighting=200
+|Ground=  100
+|Rock=    100
+|Bug=     200
+|Poison=  100
+|Ghost=   100
+|Steel=   200
+|Fire=    100
+|Grass=   100
+|Electric= 50
+|Psychic= 100
+|Water=   100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|stormdrain=maybe}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Lileep|Rock|Grass|3}}
+{{learnlist/level7|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level7|1|Constrict|Normal|Physical|10|100|35}}
+{{learnlist/level7|5|Acid|Poison|Special|40|100|30}}
+{{learnlist/level7|9|Ingrain|Grass|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|13|Confuse Ray|Ghost|Status|&mdash;|100|10}}
+{{learnlist/level7|17|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level7|21|Brine|Water|Special|65|100|10}}
+{{learnlist/level7|26|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level7|31|Gastro Acid|Poison|Status|&mdash;|100|10}}
+{{learnlist/level7|36|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|41|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level7|46|Stockpile|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|46|Spit Up|Normal|Special|&mdash;|100|10}}
+{{learnlist/level7|46|Swallow|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|52|Wring Out|Normal|Special|&mdash;|100|5}}
+{{learnlist/levelf/7|Lileep|Rock|Grass|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Lileep|Rock|Grass|3}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Lileep|Rock|Grass|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Lileep|Rock|Grass|3}}
+{{learnlist/breed7|{{MSP|072|Tentacool}}{{MSP|073|Tentacruel}}|Barrier|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|222|Corsola}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/breed7|{{MSP|222|Corsola}}|Mirror Coat|Psychic|Special|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|222|Corsola}}|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|222|Corsola}}{{MSP|345|Lileep}}<br>{{MSP|346|Cradily}}{{MSP|347|Anorith}}{{MSP|348|Armaldo}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|566|Archen}}<br>{{MSP|567|Archeops}}{{MSP|688|Binacle}}{{MSP|689|Barbaracle}}|Stealth Rock|Rock|Status|&mdash;|&mdash;|20|‡}}
+{{learnlist/breed7|{{MSP|138|Omanyte}}{{MSP|139|Omastar}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|072|Tentacool}}{{MSP|073|Tentacruel}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|345|Lileep}}{{MSP|346|Cradily}}|Wring Out|Normal|Special|&mdash;|100|5}}
+{{learnlist/breedf/7|Lileep|Rock|Grass|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Lileep|Rock|Grass|3}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Lileep|Rock|Grass|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Mud Shot}}
+| [[Lileep δ (EX Holon Phantoms 68)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Absorb}}
+| style="background:#fff; {{roundybr|5px}}" | [[Lileep (Legends Awakened 105)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Grass}}
+{{Spindata/PinballRS|col=3|type=Rock|ndex=345|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Rock|ndex=345|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Rock|ndex=345
+|body=1
+|rate=7.3
+|area=Deep-Sea Floor
+|P1=I've returned from 100 million years ago!
+|P2=My health is half gone already...
+|P3=I'm close to done... I want to sleep as a fossil again...
+|PL=Yes! I've leveled up! It fills me with glee!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Rock|ndex=345
+|body=1
+|rate=6.4
+|IQ=F
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Rock
+|att=1
+|def=3
+|speed=2
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Rock|ndex=345
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=345|num=658
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mind Zap
+|skilldesc=Delays your opponent's disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Rock|ndex=345
+|buddy=3
+|evocandy=50
+|stamina=132
+|attack=105
+|defense=154
+|fast={{m|Acid}}, {{m|Infestation}}
+|special={{m|Grass Knot}}, {{m|Mirror Coat}}, {{m|Ancient Power}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Rock
+|type2=Grass
+|pictype=art
+|no1=345
+|name1=Lileep
+|type1-1=Rock
+|type2-1=Grass
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 40}}
+|no2=346
+|name2=Cradily
+|type1-2=Rock
+|type2-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock|type2=Grass}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=345}}
+{{Spritebox/4|ndex=345}}
+{{Spritebox/5|ndex=345}}
+{{Spritebox/6|ndex=345}}
+{{Spritebox/7|ndex=345}}
+{{Spritebox/Footer|345|Lileep}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Lileep and its {{p|Cradily|evolution}}.
+** Furthermore, Lileep and its evolution consist of the two types with most weaknesses, {{t|Grass}} and {{t|Rock}}, but they have only four weaknesses.
+* Lileep and its evolution are the only Grass-type Pokémon that belong in the {{egg3|Water 3}}.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Lileep and Cradily}}
+It may be based on {{wp|crinoid}}s (also known as sea lilies), marine animals related to {{wp|seastar}}s, which were once believed to be extinct.
+
+===Name origin===
+Lileep may be a combination of ''{{wp|lily}}'' and ''peep'' (it seems to peep out from the darkness). The latter part of its name may also derive from ''deep'' (coming from the depths of the ocean floor) or ''sleep'' (as they have been sleeping as Fossils for over one hundred million years).
+
+Lilyla may be a play on ''lily'' and possibly ''lila'' (Spanish for {{wp|Syringa|lilac}}, referring to its purple color).
+
+==In other languages==
+{{Other languages|type=Rock|type2=Grass
+|ja=リリーラ ''Lilyla''|jameaning=From ''lily'' and possibly ''lila''
+|fr=Lilia|frmeaning=Variation of {{tt|''lilas''|lilac}}
+|es=Lileep|esmeaning=Same as English name
+|de=Liliep|demeaning=From ''{{tt|Lilie|lily}}'' and possibly ''{{wp|Likiep Atoll|Likiep}}'' (a {{wp|Coral atoll|coral atoll}} in the Pacific Ocean)
+|it=Lileep|itmeaning=Same as English name
+|ko=릴링 ''Lilring''|komeaning=From ''lily''
+|zh_cmn=觸手百合 / 触手百合 ''Chùshǒubǎihé''|zh_cmnmeaning=Literally "Tentacled lily"
+|hi=लिलीप ''Lileep''|himeaning=Transliteration of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Rock|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=344|prev=Claydol|nextnum=346|next=Cradily}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Fossil Pokémon]]
+
+[[de:Liliep]]
+[[fr:Lilia]]
+[[it:Lileep]]
+[[ja:リリーラ]]
+[[pl:Lileep]]
+[[zh:触手百合]]

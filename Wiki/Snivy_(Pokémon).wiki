@@ -1,0 +1,418 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=494|prev=Victini|nextnum=496|next=Servine|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Snivy}}
+|}
+{{Pokémon Infobox
+|name=Snivy
+|jname=ツタージャ
+|jtranslit=Tsutāja
+|tmname=Tsutarja
+|category=Grass Snake
+|type1=Grass
+|abilitylayout=2
+|ability1=Overgrow
+|abilityd=Contrary
+|ndex=495
+|udex=001
+|u2dex=001
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=17.9
+|weight-kg=8.1
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Grass
+|expyield=62<!--28 in Gen V-VI-->
+|gendercode=31
+|eggcycles=20
+|lv100exp=1,059,860
+|color=Green
+|catchrate=45
+|body=06
+|evtotal=1
+|evsp=1
+|pokefordex=snivy
+|generation=5
+|friendship=70
+}}
+'''Snivy''' ([[List of Japanese Pokémon names|Japanese]]: '''ツタージャ''' ''Tsutarja'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Servine}} starting at level 17, which evolves into {{p|Serperior}} starting at level 36.
+
+Along with {{p|Tepig}} and {{p|Oshawott}}, Snivy is one of three [[starter Pokémon]] of [[Unova]] available at the beginning of {{game|Black and White|s|Pokémon Black, White}}, [[Pokémon Black and White Versions 2|Black 2, and White 2]].
+
+==Biology==
+Snivy is a bipedal, reptilian Pokémon with a slender build. Most of its body is green with a cream underside. A yellow stripe runs down the length of its back and tail, and it has yellow markings around its large eyes. Two curved yellow structures that resemble leaves or small wings protrude from its shoulders and bend backwards. Its slender arms have three fingers, while its tiny feet have no digits whatsoever. It has a large, palmate leaf with three prongs on the end of its tail. This tail is capable of performing photosynthesis, which allows Snivy to move more quickly. However, the tail will begin to droop when Snivy loses energy. This Pokémon has a calm, collected demeanor.
+
+==In the anime==
+[[File:Juniper Snivy.png|thumb|left|250px|Snivy in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Trip's Snivy]]====
+{{TP|Trip|Snivy|Serperior}} debuted in ''[[BW001|In The Shadow of Zekrom!]]'', where [[Professor Juniper]] gave [[Trip]] one as his [[starter Pokémon]]. He was able to defeat [[Ash's Pikachu]] with {{m|Leaf Tornado}} in a battle they had. Eventually, when Ash and Trip met again in ''[[BW010|A Rival Battle for Club Champ!]]'', his Snivy had evolved into Servine.
+
+====[[Ash's Snivy]]====
+[[Ash's Snivy]] debuted in ''[[BW007|Snivy Plays Hard to Catch!]]''. She knows {{m|Attract}}, much to the dismay of Ash, who tried to catch her, but failed because most of his team was male. She was defeated by [[Ash's Tranquill|Pidove]] due to both of them having the same gender, and Ash successfully captured her.
+
+====Other====
+A Snivy appeared in ''[[BW109|New Places... Familiar Faces!]]'' as a [[starter Pokémon]] Professor Juniper offered for [[Nanette]]. However, she chose {{DL|Nanette|Tepig}} instead.
+
+===Minor appearances===
+Multiple Trainers' Snivy appeared in ''[[BW019|A Connoisseur's Revenge!]]'', where they were seen at a [[Poké Mart]].
+
+A Snivy appeared in a fantasy in ''[[BW120|Ash and N: A Clash of Ideals!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW001|Snivy|Trip's Pokédex|Snivy, the Grass Snake Pokémon. Cool, calm, and collected, Snivy uses photosynthesis to collect energy with the leaf on its tail.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Cheren Snivy Adventures.png|thumb|200px|Snivy in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Cheren's Snivy}}
+{{main|N's Snivy}}
+Snivy is also featured along with the other starter Pokémon as one of the starter Pokémon in Professor Juniper's lab. While talking on the phone to [[Fennel]], {{p|Tepig}} spilled some {{DL|Drink|Berry Juice}} on Snivy, causing him to fight with [[Tep|Tepig]]. Eventually Oshawott joined in on the commotion until the three starter Pokémon had managed to make a mess of her office, after which Juniper returned them to their [[Poké Ball]]s, commenting that she was worried that the three might be too much for their future Trainers. Snivy was given to {{adv|Cheren}} by {{adv|Bianca}} because she thought he resembled him. He first appeared in ''[[PS461|Fussing and Fighting]]''.
+
+Professor [[Cedric Juniper]]'s Snivy was supposed to be given to new Trainers, but was liberated by {{adv|N}}. Snivy went with N, and evolved into a Servine while with N, and was then given to {{adv|White}}. She first appeared in ''[[PS479|The Case of the Missing Pokémon]]''.
+
+===In the Be the Best! Pokémon B+W manga===
+{{main|Monta's Serperior}}
+Snivy is [[Monta]]'s [[starter Pokémon]] in the [[Be the Best! Pokémon B+W]] manga, a "walkthrough comic" based on the Black and White games. It later evolved into its final form.
+
+==In the TCG==
+{{main|Snivy (TCG)}}
+
+==Other appearances==
+===Super Smash Bros. for Nintendo 3DS/Wii U===
+[[File:Snivy SSB4.png|220px|thumb|Snivy in Super Smash Bros. for 3DS]]
+Snivy appears as a Pokémon released from a [[Poké Ball]] in [[Super Smash Bros. for Nintendo 3DS/Wii U]]. When released, it uses {{m|Razor Leaf}}, a move that it [[Game move errors|cannot legally learn]].
+
+====Trophy information====
+'''NA''': ''Along with Ekans and {{tt|Onyx|[sic]}}, this Pokémon is considered to be a snake Pokémon, even though it has two legs. When it evolves into Serperior, however, it sheds those legs. In Smash Bros., Snivy unleashes Razor Leaf on fighters, sending sharp leaves flying and damaging anything in range.''
+
+'''PAL''': ''Like Ekans and Onix, Snivy is known as a snake Pokémon. Unlike those Pokémon, it has two legs. When it eventually evolves into Serperior, though, it loses them. It attacks using Razor Leaf, which sends super sharp leaves flying into fighters in front of it, potentially hitting them over and over again. ''
+
+==Game data==
+[[File:PP2 Snivy.png|thumb|160px|Snivy as seen in PokéPark 2: Wonders Beyond]]
+===As the Player===
+Snivy appears as one of the [[player character]] in [[PokéPark 2: Wonders Beyond]]. She is the daughter of Queen {{p|Serperior}}, which makes her Princess of the [[Arbor Area]]. Much to her mother's dismay, she is quite rambunctious, and prefers playing and getting dirty than being elegant and proper. Upon hearing of {{OBP|Pikachu|PokéPark}} and {{p|Oshawott}}'s task to save the PokéPark, she helps them to open the portal in the Arbor Zone, on the condition that they take her with them.
+
+Snivy is also playable in [[Pokémon Mystery Dungeon: Gates to Infinity]]. The player may either choose to be transformed into Snivy, or have the partner be one.
+
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.}}
+{{Dex/Entry1|v=White|entry=They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands.}}
+{{Dex/Entry1|v=Y|entry=They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Starter Pokémon]] from [[Professor Juniper]] in [[Nuvema Town]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Starter Pokémon]] from [[Bianca]] in [[Aspertia City]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=From [[Professor Birch]] on {{rt|101|Hoenn}} after completing the [[Delta Episode]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{pkmn|breeding|Breed}} {{p|Serperior}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Autumnwood: [[Volcanic Slope]]; Forest: [[Echo Valley]], [[Trailhead Field]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Greenleaf]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Starter Pokémon]], [[Partner Pokémon]], [[Moonlit Forest]] (1F-28F), [[Rusty Mountain]] (Mapless Street), [[Slumbering Cave]] (B1-B99), [[Path of No Return]] (B1-B99), [[Ivy Park]] (1F-14F), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#Serperior Jungle|Jungle Area: Serperior Jungle]], [[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]],<br>[[Variety Battle#Get 1,000 Combos!|Variety Battle: Get 1,000 Combos!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 3|Colossal Forest: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Prasino Woods|Prasino Woods: Stage 593]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Sunlit Forest|Sapphire Sea: Sunlit Forest]] <small>(All Areas)</small>}}<!--
+{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=[[Starter Pokémon]], [[Partner Pokémon]]}} -->
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 13|Area 13: Stage 01]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Grass}}
+{{eventAvail|{{gameabbrev5|BW}}|Pokémon Center Tohoku Snivy|Japanese|Japan|5|December 4 to December 18, 2011|link=List of local Japanese event Pokémon distributions in Generation V#Pokémon Center Tohoku Snivy}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Grass
+|event1=Muscle Band|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=45
+|Attack=45
+|Defense=55
+|SpAtk=45
+|SpDef=55
+|Speed=63}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Snivy|Grass|Grass|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|4|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|7|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/level7|10|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level7|13|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|16|Leaf Tornado|Grass|Special|65|90|10||'''}}
+{{learnlist/level7|19|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|22|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level7|25|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level7|28|Leaf Blade|Grass|Physical|90|100|15||'''}}
+{{learnlist/level7|31|Coil|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|34|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level7|37|Wring Out|Normal|Special|&mdash;|100|5}}
+{{learnlist/level7|40|Gastro Acid|Poison|Status|&mdash;|100|10}}
+{{learnlist/level7|43|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/7|Snivy|Grass|Grass|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Snivy|Grass|Grass|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Snivy|Grass|Grass|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Snivy|Grass|Grass|5}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}<br>{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|234|Stantler}}{{MSP|300|Skitty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}<br>{{MSP|509|Purrloin}}{{MSP|572|Minccino}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|206|Dunsparce}}{{MSP|336|Seviper}}|Glare|Normal|Status|&mdash;|100|30}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|114|Tangela}}{{MSP|407|Roserade}}{{MSP|465|Tangrowth}}{{MSP|764|Comfey}}|Grassy Terrain|Grass|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|111|Rhyhorn}}{{MSP|179|Mareep}}|Iron Tail|Steel|Physical|100|75|15|*}}
+{{learnlist/breed7|{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|182|Bellossom}}{{MSP|315|Roselia}}{{MSP|407|Roserade}}<br>{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}{{MSP|470|Leafeon}}{{MSP|764|Comfey}}|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/breed7|{{MSP|197|Umbreon}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|678|Meowstic}}|Mean Look|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|428|Lopunny}}{{MSP|471|Glaceon}}|Mirror Coat|Psychic|Special|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|231|Phanpy}}{{MSP|270|Lotad}}<br>{{MSP|357|Tropius}}{{MSP|511|Pansage}}{{MSP|513|Pansear}}{{MSP|515|Panpour}}{{MSP|764|Comfey}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}<br>{{MSP|128|Tauros}}{{MSP|197|Umbreon}}{{MSP|206|Dunsparce}}{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|418|Buizel}}<br>{{MSP|419|Floatzel}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|570|Zorua}}<br>{{MSP|571|Zoroark}}{{MSP|587|Emolga}}{{MSP|626|Bouffalant}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|182|Bellossom}}<br>{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|303|Mawile}}{{MSP|315|Roselia}}{{MSP|357|Tropius}}{{MSP|407|Roserade}}<br>{{MSP|455|Carnivine}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}{{MSP|591|Amoonguss}}{{MSP|764|Comfey}}|Sweet Scent|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}{{MSP|275|Shiftry}}{{MSP|357|Tropius}}|Twister|Dragon|Special|40|100|20|‡}}
+{{learnlist/breedf/7|Snivy|Grass|Grass|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Snivy|Grass|Grass|5}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Grass Pledge|Grass|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Snivy|Grass|Grass|5}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Razor Leaf}}
+| [[Snivy (Legendary Treasures RC1)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Grass|ndex=495
+|HP=2
+|atk=1
+|def=2
+|spd=3
+|range=4
+|move=Vine Whip
+|ability1=Overgrow
+|ability2=Grass Cloak
+|ability3=Instinct
+|evo=Evolves into {{p|Servine}} when its Speed is 56 or higher
+|link={{DL|List of Pokémon Conquest characters|Takamoto}} and {{DL|List of Pokémon Conquest characters|Ujisato}}
+}}
+|-
+{{Spindata/Battle Trozei|col=6<!--3-->|type=Grass|ndex=495
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Grass|ndex=495|num=258
+|min=50
+|max=120
+|raisemaxlevel=15
+|skill=Absorb
+|skilldesc=Damage varies depending on the opponent's remaining HP.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Grass
+|pictype=art
+|no1=495
+|name1=Snivy
+|type1-1=Grass
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 17}}
+|no2=496
+|name2=Servine
+|type1-2=Grass
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no3=497
+|name3=Serperior
+|type1-3=Grass
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=495}}
+{{Spritebox/6|ndex=495}}
+{{Spritebox/7|ndex=495}}
+{{Spritebox/Footer|495|Snivy}}
+
+==Trivia==
+[[File:PokéSun May09 10.png|thumb|The three silhouettes on [[Pokémon Sunday]]]]
+{{bulbanews|Gotta Meme 'em All: Genetics and Smugleaf}}
+* Snivy and the other {{2v2|Black|White}} starter Pokémon were first revealed as silhouettes on the May 9, 2010 episode of [[Pokémon Sunday]]. They were later revealed in full in the June 2010 issue of [[CoroCoro]].
+* Shortly after its release, much like many other [[Generation V]] Pokémon newly introduced, Snivy received the fan-made moniker, "Smugleaf". This name was picked up on and published in an article on the video gaming-focused blog [http://kotaku.com/5538319/pokemons-smugleaf-a-meme-in-the-making/ Kotaku] and later in an issue of [[Media:NZAU Magazine Scan.jpg|Official Nintendo Magazine Australia and New Zealand]], as well as its United Kingdom counterpart.
+* Snivy is the only {{type|Grass}} [[starter Pokémon]] that is not listed as the first Pokémon in its [[regional Pokédex]], although it is still #001; this is because the {{p|Victini|Pokémon before it}} has a Pokédex number of #000. It is also the only Grass-type starter Pokémon that is not the first Pokémon of its generation in [[National Pokédex]] order.
+* Snivy has the lowest base stat total of all {{type|Grass}} starter Pokémon.
+* In {{g|Black and White}}, Snivy, along with {{p|Tepig}} and {{p|Oshawott}}, has the lowest [[experience]] yield of all Pokémon, with a base value of 28. This was done specifically for the first two battles of the games, so the player's starter wouldn't level up after defeating [[Bianca]] and thus have a level advantage over [[Cheren]].
+** From {{g|Black 2 and White 2}} onward, their base experience yield was raised to 62 to bring them in line with the other [[starter Pokémon]] in the series.
+
+===Origin===
+Snivy may be based on a variety of green {{wp|vine snake}} species with a pointed snout, including ''{{wp|Oxybelis fulgidus}}'', ''{{wp|Ahaetulla nasuta}}'', and ''{{wp|Ahaetulla prasina}}''. Snivy's color scheme is similar to its species' possible namesake, the {{wp|smooth green snake|grass snake}}. The Pokémon's combination of snake- and lizard-like features is also similar to that of the {{wp|Florida sand skink}}, a lizard that resembles a snake with small, stubby legs. The shape of its head, body, and the protrusions on its shoulders may be based on the {{wp|Strelitzia|bird of paradise}} or {{wp|Heliconia|false bird of paradise}} flowers. [[Ken Sugimori]] has said that Snivy, Servine, and Serperior are based on French royalty, specifically mentioning the anime ''{{wp|The Rose of Versailles}}'' as inspiration.<ref>http://web.archive.org/web/20101228065540/http://www.nintendo.co.jp/ds/interview/irbj/sp/index5.html (archived link)</ref>
+
+====Name origin====
+Snivy is a combination of ''snake'' and ''ivy''. It may also involve ''snide'', ''sly'', ''snark'' (a snide remark), or ''snicker'' (a sly or snide laugh).
+
+Tsutarja may be a combination of ツタ ''tsuta'' ({{wp|Parthenocissus tricuspidata|Japanese ivy}}) and 蛇 ''ja'' (snake).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=ツタージャ ''Tsutarja''|jameaning=From {{tt|ツタ ''tsuta''|Japanese ivy}} and {{tt|蛇 ''ja''|snake}}
+|de=Serpifeu|demeaning=From the suborder ''{{wp|Snake|Serpentes}}'' and ''{{tt|Efeu|ivy}}''
+|fr=Vipélierre|frmeaning=From ''{{tt|vipère|viper}}'' and ''{{tt|lierre|ivy}}''
+|es=Snivy|esmeaning=Same as English name
+|it=Snivy|itmeaning=Same as English name
+|ko=주리비얀 ''Juribiyan''|komeaning=From {{tt|줄기 ''julgi''|(plant) stem}} and {{tt|뱀 ''baem''|snake}}; essentially "vine snake"
+|zh_cmn=藤藤蛇 ''Téngténgshé''|zh_cmnmeaning=From {{tt|藤 ''téng''|vine}} and {{tt|蛇 ''shé''|snake}}
+|hr=Snivjja|hrmeaning=From English name
+|ru=Снайви ''Snayvi''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Snivy]]
+* [[Trip's Snivy]]
+* [[Cheren's Snivy]]
+* [[N's Snivy]]
+* [[Monta's Snivy]]
+
+==Notes==
+<references />
+
+==External links==
+
+{{-}}
+{{Starter Pokémon|Grass}}<br>
+{{Smash Bros.}}<br>
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=494|prev=Victini|nextnum=496|next=Servine}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Starter Pokémon|494]]
+[[Category:Anime starter Pokémon|Snivy]]
+[[Category:Mystery Dungeon starters|494]]
+
+[[de:Serpifeu]]
+[[fr:Vipélierre]]
+[[it:Snivy]]
+[[ja:ツタージャ]]
+[[pl:Snivy]]
+[[zh:藤藤蛇]]

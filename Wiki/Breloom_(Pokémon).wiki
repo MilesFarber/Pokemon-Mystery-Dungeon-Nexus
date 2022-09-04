@@ -1,0 +1,498 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Fighting}}
+{{PokémonPrevNext/GO|species=Breloom}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=285|prev=Shroomish|nextnum=287|next=Slakoth|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Breloom
+|jname=キノガッサ
+|tmname=Kinogassa
+|ndex=286
+|hdex=035
+|hdex6=036
+|typebox=1
+|type1=Grass
+|type2=Fighting
+|category=Mushroom
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=86.4
+|weight-kg=39.2
+|abilityn=d
+|ability1=Effect Spore
+|ability2=Poison Heal
+|abilityd=Technician
+|egggroupn=2
+|egggroup1=Fairy
+|egggroup2=Grass
+|eggcycles=15
+|evtotal=2
+|evat=2
+|expyield=161
+|oldexp=165
+|lv100exp=1,640,000
+|gendercode=127|
+|color=Green
+|catchrate=90
+|body=06
+|pokefordex=breloom
+|generation=3
+|friendship=70
+}}
+'''Breloom''' ([[List of Japanese Pokémon names|Japanese]]: '''キノガッサ''' ''Kinogassa'') is a dual-type {{2t|Grass|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Shroomish}} starting at [[level]] 23.
+
+==Biology==
+Breloom is a bipedal, mushroom-like Pokémon with some kangaroo-like qualities. Most of its body is green, but its head to its neck and its tail are beige. On top of its head is a green, mushroom-like cap with beige gills underneath and a round, red berry-like growth with a hole in the middle on either side. It has oval, black eyes, a beak-like mouth, and frilled segments around the base of its neck. There are two red claws on each of its hands and feet. At the end of its tail, there are seed clusters made of hardened toxic spores that are horrible to eat.
+
+Breloom can stretch its short arms to deliver fast punches. Additionally, it has light, springy footwork that allows it to get close to opponents. Another way it closes in on opponents is by incapacitating them with spores released from the holes in its cap. Its technique is equal to that of professional boxers. It prefers to live in {{DL|List of Pokémon by habitat|Forest Pokémon|warm and humid forests,}} where it feeds on trees and plants.
+
+==In the anime==
+===In the main series===
+[[File:Breloom anime.png|thumb|250px|left|Breloom in the {{pkmn|anime}}]]
+====Major appearances====
+Breloom appeared in ''[[AG082|A Shroomish Skirmish]]'', where they attacked {{Ash}} and {{ashfr}} after [[Evolution|evolving]] from Shroomish and were furious at {{TRT}} for stealing their {{pkmn|food}}. {{an|May}}'s newly evolved {{TP|May|Combusken}} took on the leader Breloom in a vicious hand-to-hand fight and suddenly declared a truce between them, saving the day.
+
+{{si|Kenny}} has a Breloom that debuted in ''[[DP060|Journey to the Unown!]]'', where it was used in {{pkmn|battle}} against [[Ash's Turtwig]]. In ''[[DP061|Team Shocker!]]'', its performance in the [[Appeal|Appeals Round]] of the [[Solaceon Town]] [[Pokémon Contest]] advanced Kenny to the [[Contest Battle]]s.
+
+A wild male Breloom appeared in ''[[XY104|A Windswept Encounter!]]''. He was in love with an Orange Flower {{p|Floette}} and had three {{p|Beedrill}} followers. He fought against {{AP|Noibat}} over the Floette, who didn't reciprocate his feelings, but later worked together with Noibat to defeat {{TRT}}.
+
+====Minor appearances====
+Breloom debuted in a cameo in ''[[M06|Jirachi: Wish Maker]]''. The Mushroom Pokémon was one of the residents of [[Forina]], {{OBP|Jirachi|M06}}'s home.
+
+A Breloom appeared in the opening sequence of ''[[AG102|Where's Armaldo?]]''.
+
+A Breloom had a cameo in ''[[AG135|Numero Uno Articuno]]'' as a Pokémon belonging to {{FB|Factory Head|Noland}}.
+
+A Breloom appeared in ''[[AG145|Pasta La Vista!]]'', under the ownership of the [[Fighting Dojo]].
+
+A {{pkmn|Coordinator}}'s Breloom briefly appeared in ''[[AG180|May, We Harley Drew'd Ya!]]''.
+
+A Breloom was battled by [[Ash's Pikachu]] during the tournament held in [[Rota]] in ''[[M08|Lucario and the Mystery of Mew]]''.
+
+Multiple Breloom made a cameo in the opening sequence of ''[[M11|Giratina and the Sky Warrior]]''.
+
+Multiple Breloom appeared in ''[[M13|Zoroark: Master of Illusions]]'' as some of the many local Pokémon living in [[Crown City]]. Two of them worked with the other Pokémon in surrounding {{OBP|Zorua|M13}} with the intention of attacking him, angry for what {{OBP|Zoroark|M13}} did to the city. Before a fight broke out, the Breloom, along with the other Pokémon, were calmed down by {{OBP|Celebi|M13}}.
+
+A Breloom appeared in ''[[SS026|Mewtwo — Prologue to Awakening]]''.
+
+A group of Breloom appeared in ''[[M16|Genesect and the Legend Awakened]]'', where they battled the [[Genesect Army]] at [[Pokémon Hills]].
+
+A Breloom appeared in a video that [[Sawyer]] was watching during ''[[XY129|Kalos League Passion with a Certain Flare!]]'' during a fight with a {{p|Scrafty}}.
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG082|Breloom|May's Pokédex|Breloom, the Mushroom Pokémon. Breloom is the evolved form of {{p|Shroomish}}. Its excellent footwork gets it within striking distance of its opponent, where it unleashes a barrage of punches.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP060|Breloom|Dawn's Pokédex|Breloom, the Mushroom Pokémon. Its short arms stretch when it throws punches, and its technique is as good as a professional boxer.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY104|Breloom|Serena's Pokédex|Breloom, the Mushroom Pokémon. Breloom releases poisonous spores to weaken its opponents, then attacks with powerful punches.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+===In Pokémon Generations===
+[[File:Ninjask Breloom Masquerain PG.png|thumb|250px|Breloom in [[Pokémon Generations]]]]
+A wild Breloom appeared in ''[[PG08|The Cavern]]'', where it was running away from a storm which a [[Primal Reversion|Primal]] {{p|Kyogre}} was creating.
+{{-}}
+
+==In the manga==
+[[File:Masaharu Breloom Adventures.png|thumb|220px|Breloom in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Breloom made its debut in ''[[PS185|Brushing Past Breloom]]'' where a wild one attacked [[Norman]], only to be quickly beaten unconscious by his {{p|Vigoroth}}'s {{m|Aerial Ace}}.
+
+It also made a brief appearance in ''[[PS320|Verily Vanquishing Vileplume II]]'' under the ownership of {{tc|Pokémon Ranger}} Masaharu. However, it was no match for {{adv|Emerald}}'s {{p|Dusclops}}.
+
+The Battle Factory rented a Breloom which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''.
+
+A Breloom appeared in a flashback as a Pokémon trained by the [[International Police]] in ''[[PS528|Innocent Scientist]]''.
+{{-}}
+
+==In the TCG==
+{{main|Breloom (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Fighting}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Breloom closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This Pokémon's fighting technique puts boxers to shame.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=The seeds ringing Breloom's tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pokémon's seed will cause your stomach to rumble.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It scatters spores from holes in the cap on its head. It loves warm and humid climates. It feeds on trees and plants in fields and forests.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=The seeds on its tail are made of toxic spores. It knocks out foes with quick, virtually invisible punches.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.}}
+{{Dex/Entry1|v=Y|entry=It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Breloom closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This Pokémon's fighting technique puts boxers to shame.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=The seeds ringing Breloom's tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pokémon's seed will cause your stomach to rumble.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Fighting}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Shroomish}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Shroomish}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Shroomish}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Shroomish}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Shroomish}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|v=Black|t=FFF|area=[[Evolution|Evolve]] {{p|Shroomish}}}}
+{{Availability/Entry1/None|v=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Pinwheel Forest]] ([[Hidden Grotto]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Friend Safari]] ([[Friend Safari#Fighting-type Safari|Fighting]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Shroomish}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Fighting}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Shroomish}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 6]], [[Secret Storage 16]], Endless Level 7, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Shroomish}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Foggy Forest]] (7F-11F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Foggy Forest]] (7F-11F)}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Haunted Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Misty Edgewater]] (post-ending)}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Verdant Plaza#Four Seasons in the Forest|Verdant Plaza: Four Seasons in the Forest]],<br>[[Verdant Plaza#Green Hide-and-Seek|Verdant Plaza: Green Hide-and-Seek]] <small>(Capsule Cage)</small>,<br>[[Challenge Battle#Open Entry Battle Royale|Challenge Battle: Open Entry Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 2|Distortion Island: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Great Challenge|Breloom Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Thorny Heath|Diamond Crater: Thorny Heath]] <small>(All Areas, Entrance Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 30|Area 30: Stage 02]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=Grass|type2=Fighting
+|hgss1=Kebia Berry|hgss1type=Berry|hgss1rar=5
+|b2w21=Kebia Berry|b2w21type=Berry|b2w21rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|type2=Fighting
+|HP=     60
+|Attack=130
+|Defense=80
+|SpAtk=  60
+|SpDef=  60
+|Speed=  70}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|type2=Fighting
+|Speed=3
+|SpeedMax=3
+|Power=4
+|PowerMax=5
+|Technique=2
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Fighting
+|Normal=  100
+|Fighting=100
+|Flying=  400
+|Poison=  200
+|Ground=   50
+|Rock=     50
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic= 200
+|Ice=     200
+|Dragon=  100
+|Dark=     50
+|Fairy=   200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Breloom|Grass|Fighting|3}}
+{{learnlist/level7|1|Mach Punch|Fighting|Physical|40|100|30||'''}}
+{{learnlist/level7|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Stun Spore|Grass|Status|&mdash;|75|30}}
+{{learnlist/level7|1|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Mach Punch|Fighting|Physical|40|100|30||'''}}
+{{learnlist/level7|5|Stun Spore|Grass|Status|&mdash;|75|30}}
+{{learnlist/level7|8|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|12|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level7|15|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|19|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level7|22|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/level7|28|Force Palm|Fighting|Physical|60|100|10||'''}}
+{{learnlist/level7|33|Mind Reader|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|39|Sky Uppercut|Fighting|Physical|85|90|15||'''}}
+{{learnlist/level7|44|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level7|50|Dynamic Punch|Fighting|Physical|100|50|5||'''}}
+{{learnlist/levelf/7|Breloom|Grass|Fighting|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Breloom|Grass|Fighting|3}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Breloom|Grass|Fighting|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Breloom|Grass|Fighting|3}}
+{{learnlist/breed7|{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|192|Sunflora}}|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/breed7|{{MSP|176|Togetic}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|300|Skitty}}{{MSP|311|Plusle}}{{MSP|417|Pachirisu}}<br>{{MSP|546|Cottonee}}{{MSP|682|Spritzee}}{{MSP|683|Aromatisse}}{{MSP|702|Dedenne}}|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|036|Clefable}}{{MSP|039|Jigglypuff}}{{MSP|040|Wigglytuff}}{{MSP|044|Gloom}}{{MSP|045|Vileplume}}<br>{{MSP|182|Bellossom}}{{MSP|176|Togetic}}{{MSP|468|Togekiss}}{{MSP|271|Lombre}}{{MSP|272|Ludicolo}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}{{MSP|531|Audino}}{{MSP|556|Maractus}}{{MSP|683|Aromatisse}}<br>{{MSP|685|Slurpuff}}{{MSP|709|Trevenant}}|Drain Punch|Fighting|Physical|75|100|10|‡|'''}}
+{{learnlist/breed7|{{MSP|303|Mawile}}{{MSP|312|Minun}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|209|Snubbull}}|Focus Punch|Fighting|Physical|150|100|20|*|'''}}
+{{learnlist/breed7|{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|311|Plusle}}{{MSP|312|Minun}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}<br>{{MSP|531|Audino}}{{MSP|546|Cottonee}}{{MSP|764|Comfey}}|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}{{MSP|357|Tropius}}<br>{{MSP|764|Comfey}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|103|Exeggutor}}{{MSP|103A|Exeggutor}}{{MSP|191|Sunkern}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|039|Jigglypuff}}{{MSP|300|Skitty}}|Wake-Up Slap|Fighting|Physical|70|100|10||'''}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}<br>{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|285|Shroomish}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}|Worry Seed|Grass|Status|&mdash;|100|10}}
+{{learnlist/breedf/7|Breloom|Grass|Fighting|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Breloom|Grass|Fighting|3}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||'''|no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5||'''|no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Breloom|Grass|Fighting|3}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Breloom|Grass|Fighting|3}}
+{{learnlist/prevo7|285|Shroomish|||||Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/prevo7|285|Shroomish|||||Giga Drain|Grass|Special|75|100|10|'''|{{sup/7|SM}}}}
+{{learnlist/prevo7|285|Shroomish|||||Growth|Normal|Status|—|—|20}}
+{{learnlist/prevo7|285|Shroomish|||||Spore|Grass|Status|—|100|15}}
+{{learnlist/prevof/7|Breloom|Grass|Fighting|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Sleep Powder}}
+| style="background:#fff; {{roundybr|5px}}" | [[Forina's Breloom (Movie VS Pack 2)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Fighting}}
+{{Spindata/PinballRS|col=3|type=Grass|ndex=286|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Grass|ndex=286|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=286
+|body=1
+|rate=Evolve
+|area=Mushroom Forest
+|P1=My tail doles out punches faster than your eyes can see!
+|P2=We've got a problem. I have only about half my HP left.
+|P3=It's all over... I'm out of power to even punch...
+|PL=I've leveled up! My punching speed accelerated, too!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=286
+|body=1
+|rate=0.5
+|IQ=C
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Grass|ndex=286
+|Pad=Breloom came to the [[Haunted Zone]] to battle tough Pokémon! His favorite Attractions are {{DL|Attractions|Absol's Hurdle Bounce}} and {{DL|Attractions|Rayquaza's Balloon Panic}}!
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=286
+|pad=He always trains in high spirits. His goal is to participate in the Battle Tournament, but he likes anything that gets him moving.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=286
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=286|num=615
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Rock Break++
+|skilldesc=Sometimes destroys five breakable-rock disruptions.
+|swapper=Rock Shot
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=286
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=120
+|attack=241
+|defense=153
+|fast={{m|Counter}}, {{m|Bullet Seed}}
+|special={{m|Dynamic Punch}}, {{m|Seed Bomb}}, {{m|Sludge Bomb}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Grass
+|type2=Fighting
+|pictype=art
+|no1=285
+|name1=Shroomish
+|type1-1=Grass
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 23}}
+|no2=286
+|name2=Breloom
+|type1-2=Grass
+|type2-2=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Fighting}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=286}}
+{{Spritebox/4|ndex=286}}
+{{Spritebox/5|ndex=286}}
+{{Spritebox/6|ndex=286}}
+{{Spritebox/7|ndex=286}}
+{{Spritebox/Footer|286|Breloom}}
+
+==Trivia==
+* Breloom and its {{p|Shroomish|pre-evolved form}} share their species name with {{p|Paras}}, {{p|Parasect}}, {{p|Foongus}}, and {{p|Amoonguss}}. They are all known as the Mushroom Pokémon.
+
+===Origin===
+Breloom is based on a {{wp|mushroom}} specifically the genus {{wp|Agaricus}} and its body structure resembles that of a {{wp|kangaroo}}. The shapes of its head and tail resemble that of the armored {{wp|dinosaurs}}, ''{{wp|Pachycephalosaurus}}'' and ''{{wp|Ankylosaurus}}'', respectively.
+
+====Name origin====
+Breloom may be a combination of ''{{wp|umbrella}}'' and ''{{wp|mushroom}}''. In Latin, ''bellum'' means ''war'', perhaps a nod to its Fighting type.
+
+Kinogassa may be a combination of 茸 ''kinoko'' (mushroom) and 傘 ''kasa'' (umbrella).
+
+==In other languages==
+{{Other languages|type=Grass|type2=grass
+|ja=キノガッサ ''Kinogassa''|jameaning=From {{tt|茸 ''kinoko''|mushrooms}} and {{tt|傘 ''kasa''|umbrella}}
+|fr=Chapignon|frmeaning=From ''{{tt|chapeau|hat}}'' and ''{{tt|champignon|mushroom}}''
+|es=Breloom|esmeaning=Same as English name
+|de=Kapilz|demeaning=From ''{{tt|Kappe|cap}}'' and ''{{tt|Pilz|mushroom}}''
+|it=Breloom|itmeaning=Same as English name
+|ko=버섯모 ''Bosotmo''|komeaning=From {{tt|버섯 ''beoseot''|mushroom}} and {{tt|모자 ''moja''|hat}}
+|zh_cmn=斗笠菇 ''Dǒulìgū''|zh_cmnmeaning=From {{tt|斗笠 ''dǒulì''|bamboo hat}} and {{tt|菇 ''gū''|mushroom}}
+|hi=ब्रेलूम ''Breloom''|himeaning=Transcription of English name
+|ru=Брелум ''Brelum''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Grass|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=285|prev=Shroomish|nextnum=287|next=Slakoth}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Kapilz]]
+[[fr:Chapignon]]
+[[it:Breloom]]
+[[ja:キノガッサ]]
+[[pl:Breloom]]
+[[zh:斗笠菇]]

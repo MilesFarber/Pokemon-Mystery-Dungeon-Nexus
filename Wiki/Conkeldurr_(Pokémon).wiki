@@ -1,0 +1,390 @@
+{{PokémonPrevNext/Head|type=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=533|prev=Gurdurr|nextnum=535|next=Tympole|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Conkeldurr}}
+|}
+{{Pokémon Infobox
+|name=Conkeldurr
+|jname=ローブシン
+|jtranslit=Rōbushin
+|tmname=Roubushin
+|category=Muscular
+|typebox=1
+|type1=Fighting
+|abilityn=d
+|ability1=Guts
+|ability2=Sheer Force
+|abilityd=Iron Fist
+|ndex=534
+|udex=040
+|u2dex=075
+|karea=Mountain
+|kdex=095
+|height-ftin=4'07"
+|height-m=1.4
+|weight-lbs=191.8
+|weight-kg=87.0
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=20
+|expyield=227
+|lv100exp=1,059,860
+|gendercode=63
+|color=Brown
+|catchrate=45
+|evtotal=3
+|evat=3
+|body=12
+|pokefordex=conkeldurr
+|generation=5
+|friendship=70
+}}
+'''Conkeldurr''' ([[List of Japanese Pokémon names|Japanese]]: '''ローブシン''' ''Roubushin'') is a {{type|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[evolution|evolves]] from {{p|Gurdurr}} when [[trade]]d. It is the final form of {{p|Timburr}}.
+
+==Biology==
+Conkeldurr is a bipedal sepia-colored Pokémon resembling an ogre. Its nose is large and red, with its face also having a prominent brow, a wide mouth, a gray tuft on its chin, dark rings around its eyes and a bulbous feature sticking up from the back of its head. Thick violet bands and tendons adorn its shoulders, chest, back and thighs. It is known to carry concrete pillars in its massive arms, which it uses to attack strongly without using physical strength or to support its massive upper body. Conkeldurr can create concrete, a technique it was believed to have taught humans 2000 years ago. It is often seen around construction sites helping construction workers.
+
+==In the anime==
+[[File:Conkeldurr anime.png|250px|thumb|left|Conkeldurr in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Trip's Conkeldurr]]====
+Conkeldurr debuted in ''[[BW070|The Clubsplosion Begins!]]'', under the ownership of [[Trip]]. Conkeldurr battled during the Clubsplosion against [[Bianca's Emboar]], but was soon defeated.
+
+====Other====
+Multiple Conkeldurr appeared in ''[[BW120|Ash and N: A Clash of Ideals!]]'', ''[[BW121|Team Plasma and the Awakening Ceremony!]]'', and ''[[BW122|What Lies Beyond Truth and Ideals!]]''. They were owned by [[Cedric Juniper's assistants]] at the {{an|White Ruins}}, but all of them were later turned against their owners by [[Colress]].
+
+A Conkeldurr appeared in ''[[XY035|The Forest Champion!]]'', where they, along with an {{p|Ursaring}}, were tricked by the former forest champion {{p|Machamp}} into battling {{AP|Hawlucha}} and then ganging up on it.
+
+A {{pkmn|Trainer}}'s Conkeldurr appeared in ''[[XY039|Summer of Discovery!]]'', ''[[XY041|Foggy Pokémon Orienteering!]]'', and ''[[XY042|Battling Into the Hall of Fame!]]''; and also in a flashback in ''[[XY044|Showdown at the Shalour Gym!]]''.
+
+===Minor appearances===
+A Conkeldurr appeared in ''[[M16|Genesect and the Legend Awakened]]'' in [[New Tork City]].
+
+A Trainer's Conkeldurr appeared in ''[[M20|I Choose You!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW070|Conkeldurr|Ash's Pokédex|Conkeldurr, the Muscular Pokémon and the evolved form of Gurdurr. Conkeldurr uses concrete pillars like canes, tossing them with ease.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Marshal Conkeldurr Adventures.png|thumb|200px|Conkeldurr in [[Pokémon Adventures]]]]
+===In the Pocket Monsters BW manga===
+{{main|Red's Conkeldurr}}
+{{OBP|Red|Pocket Monsters}} caught a Conkeldurr in ''[[PMBW14|The New Member is an Architect!!]]'', and he has traveled with him since.
+
+A Conkeldurr made its debut appearance in ''[[PMBW13|The Victory Pokémon and the Big Match!]]''.
+
+===In the Pokémon Adventures manga===
+In ''[[PS511|Dream a Little Dream]]'', [[Marshal]]'s Conkeldurr debuted when the Unova [[Elite Four]] gathered at the [[Pokémon League (Unova)|Unova Pokémon League]].
+
+==In the TCG==
+{{main|Conkeldurr (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fighting}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.}}
+{{Dex/Entry1|v=White|entry=They use concrete pillars as walking canes. They know moves that enable them to swing the pillars freely in battle.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.}}
+{{Dex/Entry1|v=Y|entry=Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fighting}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Evolution|Evolve]] {{p|Gurdurr}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Evolution|Evolve]] {{p|Gurdurr}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Gurdurr}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Gurdurr}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Poni Plains]] ({{DL|QR Scanner|Island Scan}}){{dotw|Mo}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fighting}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Canyon: [[Volcanic Slope]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Tech Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Gurdurr}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Kilionea Road]] (B1-B10), [[Forest of Shadows]] (1F-14F), [[Daybreak Ridge]] (1F-6F), [[Grove of Whispers]] (1F-9F), [[Freezing Pillar]] (1F-14F), [[Silent Tundra]] (Golden Chamber), [[Dreamy Island]] (Golden Chamber), [[Moonlit Forest]] (1F-28F), [[Rusty Mountain]] (Mapless Street), [[Cape at the Edge]] (B1-B29), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Grab and Go!|Adventure Area: Grab and Go!]] <small>(Reward)</small>, [[Melodious Woodland#A Lively Concert|Melodious Woodland: A Lively Concert]],<br>[[Challenge Battle#Open Entry Battle Royale|Challenge Battle: Open Entry Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 4|Dragon Hill: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Pedra Valley|Pedra Valley: Stage 198]]<br>[[Prasino Woods|Prasino Woods: Stage 588]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Endless Cave|Plasma Tundra: Endless Cave]] <small>(Back Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Fighting
+|HP=105
+|Attack=140
+|Defense=95
+|SpAtk=55
+|SpDef=65
+|Speed=45}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fighting
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=50
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Conkeldurr|Fighting|Fighting|5}}
+{{learnlist/level7|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|1|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|4|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|8|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|12|Low Kick|Fighting|Physical|&mdash;|100|20||'''}}
+{{learnlist/level7|16|Rock Throw|Rock|Physical|50|90|15}}
+{{learnlist/level7|20|Wake-Up Slap|Fighting|Physical|70|100|10||'''}}
+{{learnlist/level7|24|Chip Away|Normal|Physical|70|100|20}}
+{{learnlist/level7|29|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|33|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/level7|37|Dynamic Punch|Fighting|Physical|100|50|5||'''}}
+{{learnlist/level7|41|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|45|Hammer Arm|Fighting|Physical|100|90|10||'''}}
+{{learnlist/level7|49|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/level7|53|Focus Punch|Fighting|Physical|150|100|20||'''}}
+{{learnlist/level7|57|Superpower|Fighting|Physical|120|100|5||'''}}
+{{learnlist/levelf/7|Conkeldurr|Fighting|Fighting|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Conkeldurr|Fighting|Fighting|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Conkeldurr|Fighting|Fighting|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Conkeldurr|Fighting|Fighting|5}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}|Comet Punch|Normal|Physical|18|85|15}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|448|Lucario}}{{MSP|539|Sawk}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|302|Sableye}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|701|Hawlucha}}|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Drain Punch|Fighting|Physical|75|100|10||'''}}
+{{learnlist/breed7|{{MSP|106|Hitmonlee}}{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|427|Buneary}}<br>{{MSP|428|Lopunny}}{{MSP|538|Throh}}{{MSP|539|Sawk}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Force Palm|Fighting|Physical|60|100|10||'''}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|106|Hitmonlee}}{{MSP|302|Sableye}}{{MSP|427|Buneary}}<br>{{MSP|428|Lopunny}}{{MSP|448|Lucario}}|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}|Mach Punch|Fighting|Physical|40|100|30||'''}}
+{{learnlist/breed7|{{MSP|448|Lucario}}|Power-Up Punch|Fighting|Physical|40|100|20|{{sup/7|USUM}}|'''}}
+{{learnlist/breed7|{{MSP|106|Hitmonlee}}{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|538|Throh}}<br>{{MSP|539|Sawk}}{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Reversal|Fighting|Physical|&mdash;|100|15||'''}}
+{{learnlist/breed7|{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}|Smelling Salts|Normal|Physical|70|100|10}}
+{{learnlist/breed7|{{MSP|068|Machamp}}{{MSP|106|Hitmonlee}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}{{MSP|538|Throh}}{{MSP|620|Mienshao}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Conkeldurr|Fighting|Fighting|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Conkeldurr|Fighting|Fighting|5}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5||'''|no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutorf/7|Conkeldurr|Fighting|Fighting|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Conkeldurr|Fighting|Fighting|5}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Conkeldurr|Fighting|Fighting|5}}
+
+====Special moves====
+{{learnlist/eventh/7|Conkeldurr|Fighting|Fighting|5}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|SM}}|Drain Punch|Fighting|Physical|75|100|10||'''}}
+{{learnlist/eventf/7|Conkeldurr|Fighting|Fighting|5}}
+
+===Side game data===
+{{Spindata/Head|type=Fighting}}
+{{Spindata/RumbleBlast|col=6|type=Fighting
+|att=5
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Fighting|ndex=534
+|pad=He looks stubborn, but he is very gentle at heart. He is strict with himself and others, but he takes good care of them, so Pokémon in the Area like him.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Fighting|ndex=534
+|HP=4
+|atk=5
+|def=3
+|spd=2
+|range=3
+|move=Superpower
+|ability1=Thrust
+|ability2=Guts
+|ability3=Spirit
+|evo=Evolves from {{p|Gurdurr}} when it has a link of 60% or higher, after knocking out a [[Warrior]]'s Pokémon in a manner that allows recruitment
+|link={{DL|List of Pokémon Conquest characters|Koroku}}, {{DL|List of Pokémon Conquest characters|Seikai}}, {{DL|List of Pokémon Conquest characters|Takahisa}}, {{DL|List of Pokémon Conquest characters|Tokitaka}}, and '''[[Yoshihiro]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Fighting|ndex=534
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Fighting|ndex=534|num=223
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Last-Ditch Effort
+|skilldesc=Increases damage when things are looking desperate.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|pictype=art
+|type1=Fighting
+|no1=532
+|name1=Timburr
+|type1-1=Fighting
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 25}}
+|no2=533
+|name2=Gurdurr
+|type1-2=Fighting
+|evo2={{bag|Pal Pad}}<br>{{color2|000|Trade}}
+|no3=534
+|name3=Conkeldurr
+|type1-3=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=Fighting}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=534}}
+{{Spritebox/6|ndex=534}}
+{{Spritebox/7|ndex=534}}
+{{Spritebox/Footer|534|Conkeldurr}}
+
+==Trivia==
+* Conkeldurr's evolutionary line shares many similarities with {{p|Machamp}}'s evolutionary line. Both of them are {{type|Fighting}} Pokémon whose {{stat|Attack}} is their highest stat, have below average {{stat|Speed}}, have the same gender ratio, have three evolutionary stages, reach their respective final-evolutionary form through [[Trade|trading]] and have the same base stat total.
+* Due to [[List of censored words in Pokémon Black and White Versions|the censor]] that prevents Pokémon with offensive [[nickname]]s being traded on the [[GTS]], an English language Conkeldurr cannot be traded on the GTS without a nickname in {{game|Black and White|s}}.
+* In [[Pokémon Conquest]], Conkeldurr and its pre-evolved form, {{p|Gurdurr}}, are the only Pokémon that share a max link of 100% with five different [[Warrior]]s, which is the highest amount found in the game.
+
+===Origin===
+At first glance, Conkeldurr's brutal humanoid appearance suggests inspiration from {{wp|ogre}}s of folklore. {{p|Timburr}}'s Pokédex entry supports that it and its evolutions are based on {{wp|construction worker}}s. Due to its clown nose and buff body, it may have also been based on a muscleman {{wp|Glossary of 'carny' slang|carnie}} from a {{wp|Sideshow|carnival sideshow}}. It also seems to be based on an elderly person since it has a gray tuft under its chin and uses its pillars as walking canes.
+
+====Name origin====
+Conkeldurr may be a combination of ''concrete'' and ''elder''. It may also involve ''conk'', having meaning as both an especially large nose and to hit someone on the head.
+
+Roubushin may be a combination of 老 ''rō'' (old) and 武神 ''bushin'' (warlord) or 普請 ''fushin'' (construction work/public work).
+
+==In other languages==
+{{Other languages|type=Fighting|type2=Fighting
+|ja=ローブシン ''Roubushin''|jameaning=From {{tt|老 ''rō''|old}} and {{tt|武神 ''bushin''|warlord}} or {{tt|普請 ''fushin''|construction work/public work}}
+|de=Meistagrif|demeaning=From {{tt|''Meister''|master}} and {{tt|''Griff''|grip}}
+|fr=Bétochef|frmeaning=From {{tt|''béton''|concrete}} and {{tt|''chef''|chieftain}}
+|es=Conkeldurr|esmeaning=Same as English name
+|it=Conkeldurr|itmeaning=Same as English name
+|ko=노보청 ''Nobocheong''|komeaning=From {{tt|노(老) ''no''|old}} and transliteration of japanese word {{tt|普請 ''bocheong''|construction work/public work}}
+|zh_cmn=修繕老頭 / 修缮老头 ''Xiūshànlǎotóu''|zh_cmnmeaning=From {{tt|修繕 ''xiūshàn''|to repair or renovate}} and {{tt|老頭 ''lǎotóu''|a disrepectful term referring to an old person}}.
+|ru=Конклдурр ''Konkldurr''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+*[[Trip's Conkeldurr]]
+*[[Red's Conkeldurr]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=533|prev=Gurdurr|nextnum=535|next=Tympole}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Meistagrif]]
+[[fr:Bétochef]]
+[[it:Conkeldurr]]
+[[ja:ローブシン]]
+[[pl:Conkeldurr]]
+[[zh:修建老匠]]

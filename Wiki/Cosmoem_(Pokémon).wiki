@@ -1,0 +1,253 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=789|prev=Cosmog|nextnum=791|next=Solgaleo|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Cosmoem}}
+|}
+{{Pokémon Infobox
+|name=Cosmoem
+|jname=コスモウム
+|jtranslit=Kosumōmu
+|tmname=Cosmovum
+|ndex=790
+|type1=Psychic
+|category=Protostar
+|height-ftin=0'04"
+|height-m=0.1
+|weight-lbs=2204.4
+|weight-kg=999.9
+|adex=290
+|abilityn=1
+|abilitylayout=1
+|ability1=Sturdy
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=120
+|evtotal=2
+|evde=1
+|evsd=1
+|expyield=80
+|lv100exp=1,250,000
+|gendercode=255
+|color=Blue
+|catchrate=45
+|body=01
+|pokefordex=cosmoem
+|generation=7
+|friendship=0
+}}
+'''Cosmoem''' ([[List of Japanese Pokémon names|Japanese]]: '''コスモウム''' ''Cosmovum'') is a {{type|Psychic}} [[Legendary Pokémon]] introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] from {{p|Cosmog}} starting at [[level]] 43 and evolves into either {{p|Solgaleo}} or {{p|Lunala}} starting at level 53 depending on the game it evolves in.
+* In {{pkmn|Sun and Moon|Pokémon Sun}} and {{pkmn|Ultra Sun and Ultra Moon|Ultra Sun}}, Cosmoem evolves into {{p|Solgaleo}}.
+* In {{pkmn|Sun and Moon|Pokémon Moon}} and {{pkmn|Ultra Sun and Ultra Moon|Ultra Moon}}, Cosmoem evolves into {{p|Lunala}}.
+
+==Biology==
+Cosmoem is a Pokémon in the shape of a translucent, dark blue orb with a starscape pattern set in a solid golden shell structure, which is made up of four ellipses intersecting each other in an asterisk shape and another intersecting the former four along the middle.
+At the center of the main body is a much smaller black core with a blue and a pink marking on the front and an orange semicircle on both sides, giving it the appearance of a sleeping face. The shape also looks like an eye.
+
+It does not, and cannot, move. In [[Pokémon Refresh]], it cannot eat. It grows as it absorbs light. Its body is warm. In ancient times, it was worshiped by the people of [[Alola]].
+
+==In the anime==
+[[File:Nebby Cosmoem anime.png|thumb|left|250px|Cosmoem in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Nebby]]====
+[[Nebby]], who started out as a {{p|Cosmog}}, evolved into Cosmoem in ''[[SM050|Faba's Revenge!]]''. Nebby later evolved into {{p|Solgaleo}} in [[SM052]].
+
+===Minor appearances===
+{{clear}}
+
+==In the manga==
+
+==In the TCG==
+{{main|Cosmoem (TCG)}}
+
+==Game data==
+===NPC appearances===
+{{spoilers}}
+{{main|Nebby}}
+
+* {{g|Sun and Moon}}: [[Nebby]], the {{p|Cosmog}} that travels with [[Lillie]], eventually evolves into Cosmoem after being forced to open an [[Ultra Wormhole]] by [[Lusamine]]. At the [[Altar of the Sunne]]{{sup/7|S}}{{sup/7|US}}/[[Altar of the Moone]]{{sup/7|M}}{{sup/7|UM}}, the {{player}} and Lillie play the {{key|VII|Sun Flute|Sun}} and {{key|VII|Moon Flute}}s, causing Nebby to evolve into {{p|Solgaleo}}{{sup/7|S}}{{sup/7|US}}/{{p|Lunala}}{{sup/7|M}}{{sup/7|UM}}, where it eventually officially joins the player{{sup/7|S}}{{sup/7|M}}/its absorbed by {{p|Necrozma}} in order to become its Dusk Mane{{sup/7|US}}/Dawn Wings{{sup/7|UM}} form.
+{{Endspoilers}}
+
+===Pokédex entries===
+{{Dex/Header|type=Psychic}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Motionless as if dead, its body is faintly warm to the touch. In the distant past, it was called the cocoon of the stars.}}
+{{Dex/Entry1|v=Moon|entry=There's something accumulating around the black core within its hard shell. People think this Pokémon may come from another world.}}
+{{Dex/Entry1|v=Ultra Sun|entry=The king who ruled Alola in times of antiquity called it the “cocoon of the stars” and built an altar to worship it.}}
+{{Dex/Entry1|v=Ultra Moon|entry=As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Cosmog}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Cosmog}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|A Great Chance a Day!}}''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Psychic
+|HP=43
+|Attack=29
+|Defense=131
+|SpAtk=29
+|SpDef=131
+|Speed=37}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=50
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Cosmoem|Psychic|Psychic|7}}
+{{learnlist/level7|1|Cosmic Power|Psychic|Status|—|—|20}}
+{{learnlist/level7|1|Teleport|Psychic|Status|—|—|20}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Cosmic Power|Psychic|Status|—|—|20}}
+{{learnlist/levelf/7|Cosmoem|Psychic|Psychic|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Cosmoem|Psychic|Psychic|7}}
+{{learnlist/tm7null}}
+{{learnlist/tmf/7|Cosmoem|Psychic|Psychic|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Cosmoem|Psychic|Psychic|7}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Cosmoem|Psychic|Psychic|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Cosmoem|Psychic|Psychic|7}}
+{{learnlist/tutor7null}}
+{{learnlist/tutorf/7|Cosmoem|Psychic|Psychic|7}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Cosmoem|Psychic|Psychic|7}}
+{{learnlist/prevo7|789|Cosmog|||||Splash|Normal|Status|—|—|40}}
+{{learnlist/prevof/7|Cosmoem|Psychic|Psychic|7}}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/Shuffle|col=6|type=Psychic|ndex=790|num=732
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Quirky++
+|skilldesc=Rarely erases five extra matching Pokémon elsewhere.
+}}
+|}
+
+===Evolution===
+{{Evobox
+|family=Normal
+|sprite1=789Cosmog
+|name1=Cosmog
+|type1-1=Psychic
+|evotype1=Level
+|level1=43
+|sprite2=790Cosmoem
+|name2=Cosmoem
+|type1-2=Psychic
+|evotype2=Level
+|level2=53<br><small>in Pokémon Sun or Ultra Sun</small>
+|sprite3=791Solgaleo
+|name3=Solgaleo
+|type1-3=Psychic
+|type2-3=Steel
+|evotype2a=Level
+|level2a=53<br><small>in Pokémon Moon or Ultra Moon</small>
+|sprite3a=792Lunala
+|name3a=Lunala
+|type1-3a=Psychic
+|type2-3a=Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=790}}
+{{Spritebox/Footer|790|Cosmoem}}
+
+==Trivia==
+<!--Do not add trivia about Cosmoem's density. It is pure speculation, even if it has a set height and mass, we do not know its VOLUME.-->
+* At 2204.4&nbsp;lbs. (999.9&nbsp;kg), Cosmoem is tied with {{p|Celesteela}} as the [[List of Pokémon by weight|heaviest]] Pokémon.
+* At 4 inches (0.1&nbsp;m), Cosmoem is tied with {{p|Joltik}}, {{p|Flabébé}}, {{p|Cutiefly}}, and {{p|Comfey}} as the [[List of Pokémon by height|smallest]] Pokémon.
+* Requiring 43 levels to evolve from Cosmog and just 10 more to evolve into either Solgaleo or Lunala, Cosmeom has the lowest relative second-stage evolution requirement, at around 23%.
+
+===Origin===
+Cosmoem has characteristics of both a stylized sun and a stylized moon, having rays and a pair of crescents, respectively. Given its description, it seems to be an embodiment of star formation in general. It may also be based on the idea of the {{wp|world egg}}. When viewed from the front, its shape resembles an eye.
+
+====Name origin====
+Cosmoem may be a combination of ''cosmo'' and ''{{wp|embryo}}''.
+
+Cosmovum may be a combination of ''cosmo'' and ''ovum'' (Latin for egg).
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Psychic
+|ja=コスモウム ''Cosmovum''|jameaning=From ''cosmo'' and ''{{tt|ovum|Latin for egg}}''
+|fr=Cosmovum|frmeaning=From its Japanese name
+|es=Cosmoem|esmeaning=Same as English name
+|de=Cosmovum|demeaning=From its Japanese name
+|it=Cosmoem|itmeaning=Same as English name
+|ko=코스모움 ''Koseumoum''|komeaning=Transliteration of Japanese name
+|zh_cmn=科斯莫姆 ''Kēsīmòmǔ''|zh_cmnmeaning=Transliteration of Japanese name
+|zh_yue=科斯莫姆 ''Fōsīmohkmóuh''|zh_yuemeaning=Mandarin-based transliteration of Japanese name
+|ru=Космоем ''Kosmoyem''|rumeaning=Transcription of English name}}
+{{-}}
+
+==Related articles==
+* [[Nebby]]
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{Legendary Pokémon}}
+{{-}}
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=789|prev=Cosmog|nextnum=791|next=Solgaleo}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Legendary Pokémon]]
+[[Category:Alola Legendary Pokémon]]
+[[Category:Pokémon that evolve based on game]]
+
+[[de:Cosmovum]]
+[[fr:Cosmovum]]
+[[it:Cosmoem]]
+[[ja:コスモウム]]
+[[zh:科斯莫姆]]

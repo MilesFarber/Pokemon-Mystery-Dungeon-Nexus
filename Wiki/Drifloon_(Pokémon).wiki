@@ -1,0 +1,494 @@
+{{PokémonPrevNext/Head|type=Ghost|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=424|prev=Ambipom|nextnum=426|next=Drifblim|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Drifloon}}
+|}
+{{Pokémon Infobox
+|name=Drifloon
+|jname=フワンテ
+|tmname=Fuwante
+|ndex=425
+|sdex=065
+|u2dex=208
+|karea=Coastal
+|kdex=001
+|adex=064
+|abrow=142
+|obrow=232
+|opbrow=219
+|typebox=1
+|type1=Ghost
+|type2=Flying
+|category=Balloon
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=2.6
+|weight-kg=1.2
+|abilityn=d
+|ability1=Aftermath
+|ability2=Unburden
+|abilityd=Flare Boost
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=30
+|evtotal=1
+|evhp=1
+|expyield=70
+|oldexp=127
+|lv100exp=1,640,000
+|gendercode=127
+|color=Purple
+|catchrate=125
+|body=04
+|pokefordex=drifloon
+|generation=4
+|friendship=70
+}}
+'''Drifloon''' ([[List of Japanese Pokémon names|Japanese]]: '''フワンテ''' ''Fuwante'') is a dual-type {{2t|Ghost|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolve]]s into {{p|Drifblim}} starting at [[level]] 28.
+
+==Biology==
+[[File:Fantina Drifloon.png|thumb|left|220px|Drifloon's mouth, in the middle of the ''X'']]
+Drifloon has a spherical, purple body with two stringy arms that have yellow, heart-shaped hands on the ends of them. At the base of its body is a frayed protrusion that resembles the tied end of a balloon. In the very center of its body is a yellow tape-like "X", which contains its small mouth in the very center. Located on either side of the "X" are its small, black eyes. A white mass of fluff that resembles a cloud sits on top of Drifloon's head.
+
+Due to its aimless drifting, this species is known as "Signpost for Wandering Spirits". It has been known to steal children that mistake it for a regular balloon. However, due to its light weight, it can be resisted easily and is often pulled around. Although created by lost spirits of Pokémon and people, [[DP028|as seen in the anime]], it can be friendly and helpful. It prefers to reside in damp, humid locations and can expand or shrink to express its feelings.
+
+==In the anime==
+[[File:Marnie Drifloon.png|thumb|left|220px|Drifloon in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Fantina's Drifloon]]====
+[[Fantina]] owns a Drifloon, which debuted in ''[[DP093|Playing The Leveling Field!]]''. It evolved into Drifblim while battling [[Ash's Pikachu]] in the same episode.
+
+====Other====
+Drifloon debuted in ''[[DP028|Drifloon on the Wind!]]'', where they were used by [[Marnie and Paige]] for transport. Marnie owned three and Paige owned one.
+
+A Drifloon belonging to [[Kylie]] appeared in ''[[DP076|A Full Course Tag Battle!]]''. It was used alongside [[Roman]]'s {{p|Girafarig}} in a [[Multi Battle|Tag Battle]] against [[Dawn's Piplup]] and [[May's Blaziken]].
+
+Multiple Drifloon appeared in ''[[XY041|Foggy Pokémon Orienteering!]]''.
+
+===Minor appearances===
+Multiple Drifloon appeared in ''[[M10|The Rise of Darkrai]]''.
+
+A Drifloon appeared in ''[[DP088|Camping It Up!]]''.
+
+A Drifloon briefly appeared in ''[[DP176|Coming Full-Festival Circle!]]''.
+
+Two Drifloon appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+Four Trainers' Drifloon appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+A Student's Drifloon appeared in ''[[SM002|The Guardian's Challenge!]]''. It appeared again in [[SM064]].
+
+Two Trainers' Drifloon appeared in ''[[SM006|A Shocking Grocery Run!]]''.
+
+A Trainer's Drifloon appeared in ''[[SM017|Crystal-Clear Sleuthing!]]''.
+
+Two Trainers' Drifloon appeared in ''[[SM040|Balloons, Brionne, and Belligerence!]]''.
+
+A Trainer's Drifloon appeared in ''[[SM050|Faba's Revenge!]]''.
+
+A Trainer's Drifloon appeared in [[SM060]].
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP028|Drifloon|Dawn's Pokédex|Drifloon, the Balloon Pokémon. Drifloon is filled with air and can either expand or shrink to express its feelings. It also likes damp weather.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Drifloon Adventures.png|thumb|200px|Drifloon in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Drifloon appeared in ''[[PS343|Honey for Combee]]'', when {{adv|Diamond}}, {{adv|Pearl}}, and {{adv|Platinum}} were in [[Valley Windworks]] as a friend of the worker there.
+
+A Drifloon appeared in ''[[PS423|Tackling Togekiss]]''.
+
+A student's Drifloon appeared in ''[[PS530|Movie Panic]]''.
+
+A Trainer's Drifloon appeared in ''[[PS432|The Final Dimensional Duel II]]'' and [[PASM04]].
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+A Drifloon appeared in a flashback in ''[[DPAS1|Deoxys, The Phantom Pokémon! (Part 1)]]''.
+
+==In the TCG==
+{{main|Drifloon (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Brawl]]===
+In the {{st|Pokémon Stadium 2}} stage, a Drifloon can be seen floating on the {{t|Flying}} Terrain.
+
+====Trophy information====
+''"A Balloon Pokémon that appears each Friday at the Valley Windworks in the Sinnoh region. It's round and cute, but it has a dreadful side too, as it attempts to drag children into the underworld by their hands. It likes damp, humid seasons. If it's on the verge of fainting in battle, it will counterattack by self-destructing. It evolves into Drifblim."''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ghost|type2=Flying}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.}}
+{{Dex/Entry1|v=Pearl|entry=It tugs on the hands of children to steal them away. However, it gets pulled around instead.}}
+{{Dex/Entry1|v=Platinum|entry=Because of the way it floats aimlessly, an old folktale calls it a "Signpost for Wandering Spirits."}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Because of the way it floats aimlessly, an old folktale calls it a "Signpost for Wandering Spirits."}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=These Pokémon are called the "Signpost for Wandering Spirits." Children holding them sometimes vanish.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.}}
+{{Dex/Entry1|v=Y|entry=These Pokémon are called the "Signpost for Wandering Spirits." Children holding them sometimes vanish.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=These Pokémon are called the "Signpost for Wandering Spirits." Children holding them sometimes vanish.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Stories go that it grabs the hands of small children and drags them away to the afterlife. It dislikes heavy children.}}
+{{Dex/Entry1|v=Moon|entry=If for some reason its body bursts, its soul spills out with a screaming sound.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Its round body is stuffed with souls and expands each time it leads someone away.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Wandering souls gathered together to form this Pokémon. When trying to make friends with children, Drifloon grabs them by the hand.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ghost|type2=Flying}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Valley Windworks]]{{dotw|Fr}}}}
+{{Availability/Entry1|v=Platinum|area=[[Valley Windworks]]{{dotw|Fr}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{pkmn|breeding|Breed}} {{p|Drifblim}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|13|Unova}} ([[Hidden Grotto]]){{tt|*|Hidden Grotto near the stairs}} <br> [[Unova Link|Transfer]] from {{pkmn|Dream Radar}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Windswept Sky}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|8|Kalos}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Soaring in the sky]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Hau'oli Cemetery]]{{Sup/t|D}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Hau'oli Cemetery]]{{Sup/t|D}}<br/>{{rt|1|Alola}}{{Sup/t|N}} (One)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ghost|type2=Flying}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Volcano Cave]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie‎]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Haunted Zone]], [[Granite Zone]]{{tt|*|Cannot be befriended here}}}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area={{ra|Sky}}, [[Light Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Misty Edgewater]]; Hauntyard: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Avia]] (special), [[Spectra]] (special)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Wonder Area#Haunted Playland|Wonder Area: Haunted Playland]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 1|Sky-High Ruins: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#12th release|''Pokémon Safari'']] <small>(12th release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Pixie Glen|Fairy Land: Pixie Glen]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ghost
+|type2=Flying
+|HP=     90
+|Attack= 50
+|Defense=34
+|SpAtk=  60
+|SpDef=  44
+|Speed=  70}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ghost
+|type2=Flying
+|Speed=3
+|SpeedMax=5
+|Power=1
+|PowerMax=1
+|Technique=4
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|type2=Flying
+|Normal=    0
+|Fighting=  0
+|Flying=  100
+|Poison=   50
+|Ground=    0
+|Rock=    200
+|Bug=      25
+|Ghost=   200
+|Steel=   100
+|Fairy=   100
+|Fire=    100
+|Water=   100
+|Grass=    50
+|Electric=200
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    200
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=½
+|flying=yes
+|newground=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Drifloon|Ghost|Flying|4}}
+{{learnlist/level7|1|Constrict|Normal|Physical|10|100|35}}
+{{learnlist/level7|1|Minimize|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|4|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level7|8|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level7|13|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|16|Payback|Dark|Physical|50|100|10}}
+{{learnlist/level7|20|Ominous Wind|Ghost|Special|60|100|5||'''}}
+{{learnlist/level7|25|Stockpile|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|27|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level7|32|Swallow|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|32|Spit Up|Normal|Special|&mdash;|100|10}}
+{{learnlist/level7|36|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level7|40|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|44|Baton Pass|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|50|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/levelf/7|Drifloon|Ghost|Flying|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Drifloon|Ghost|Flying|4}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Drifloon|Ghost|Flying|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Drifloon|Ghost|Flying|4}}
+{{learnlist/breed7|{{MSP|218|Slugma}}{{MSP|219|Magcargo}}{{MSP|317|Swalot}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|109|Koffing}}{{MSP|110|Weezing}}{{MSP|218|Slugma}}{{MSP|219|Magcargo}}|Clear Smog|Poison|Special|50|&mdash;|15}}
+{{learnlist/breed7|{{MSP|425|Drifloon}}{{MSP|426|Drifblim}}|Defog|Flying|Status|&mdash;|&mdash;|15|‡}}
+{{learnlist/breed7|{{MSP|092|Gastly}}{{MSP|093|Haunter}}{{MSP|094|Gengar}}{{MSP|109|Koffing}}{{MSP|110|Weezing}}{{MSP|202|Wobbuffet}}<br>{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}|Destiny Bond|Ghost|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|088|Grimer}}{{MSP|088A|Grimer}}{{MSP|089|Muk}}{{MSP|089A|Muk}}{{MSP|355|Duskull}}{{MSP|356|Dusclops}}<br>{{MSP|477|Dusknoir}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|109|Koffing}}{{MSP|110|Weezing}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|092|Gastly}}{{MSP|093|Haunter}}{{MSP|094|Gengar}}{{MSP|280|Ralts}}{{MSP|281|Kirlia}}{{MSP|282|Gardevoir}}<br>{{MSP|442|Spiritomb}}{{MSP|769|Palossand}}{{MSP|770|Sandygast}}|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/breed7|{{MSP|088|Grimer}}{{MSP|088A|Grimer}}{{MSP|089|Muk}}{{MSP|089A|Muk}}{{MSP|109|Koffing}}{{MSP|110|Weezing}}<br>{{MSP|442|Spiritomb}}{{MSP|607|Litwick}}{{MSP|608|Lampent}}|Memento|Dark|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|351|Castform}}{{MSP|425|Drifloon}}{{MSP|426|Drifblim}}|Tailwind|Flying|Status|&mdash;|&mdash;|15|‡}}
+{{learnlist/breed7|{{MSP|351|Castform}}|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/breedf/7|Drifloon|Ghost|Flying|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Drifloon|Ghost|Flying|4}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Drifloon|Ghost|Flying|4}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background:#{{tcg psychic color light}}; border:3px solid #{{tcg psychic color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Tackle}}
+| style="background:#fff; {{roundybr|5px}}" | [[Drifloon (Stormfront SH1)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Ghost|type2=Flying}}
+{{Spindata/MDTDS|col=6|type=Ghost|ndex=425
+|body=1
+|rate=2.5
+|IQ=G
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ghost
+|group=Ghost
+|assist=Ghost
+|field=Airlift
+|fieldpower=-
+|browser=It launches {{m|Shadow Ball|eerie orbs}} to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Ghost
+|group=Ghost
+|assist=Ghost
+|field=Tackle
+|fieldpower=1
+|browser=To attack, it spits out an orb imbued with loathsome emotions that make Pokémon Tired.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Ghost
+|att=2
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Ghost
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Ghost|ndex=425
+|Pad=Drifloon live in the [[Haunted Zone]] and the [[Granite Zone]]. The Drifloon brothers enjoy being together.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Ghost|ndex=425
+|HP=4
+|atk=2
+|def=1
+|spd=3
+|range=4
+|move=Astonish
+|ability1=Dodge
+|ability2=Explode
+|ability3=Decoy
+|evo=Evolves into {{p|Drifblim}} when its HP is 146 or higher
+|link={{DL|List of Pokémon Conquest characters|Asa}} and {{DL|List of Pokémon Conquest characters|Otsū}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ghost|ndex=425
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Ghost|ndex=425|num=643
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Rock Break
+|skilldesc=Destroys one breakable-rock disruption without fail.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Ghost
+|type2=Flying
+|pictype=art
+|no1=425
+|name1=Drifloon
+|type1-1=Ghost
+|type2-1=Flying
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 28}}
+|no2=426
+|name2=Drifblim
+|type1-2=Ghost
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Ghost|type2=Flying}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=425}}
+{{Spritebox/5|ndex=425}}
+{{Spritebox/6|ndex=425}}
+{{Spritebox/7|ndex=425}}
+{{Spritebox/Footer|425|Drifloon}}
+
+==Trivia==
+*Drifloon was the first Generation IV Pokémon to be shown in [[Super Smash Bros. Brawl]].
+*In the Japanese version of Pearl's Pokédex entry, Drifloon specifically takes children to the "world of the dead" (Japanese: あのよ), instead of just trying to "steal them away" as in the English version. However, in the US release of Super Smash Bros. Brawl, the description along with Drifloon's trophy still states that it is "taking children to the underworld".
+* Drifloon shares its {{pkmn|category}} with {{p|Jigglypuff}}'s evolutionary family and {{p|Qwilfish}}. They are all known as the Balloon Pokémon.
+* Drifloon and {{p|Drifblim}} are the only Pokémon not introduced in [[Hoenn]] to be found in the Fluctuating Experience Group.
+
+===Origin===
+Drifloon are based on {{wp|balloons}}. They also resemble {{wp|comb jellies}}, specifically {{wp|tentaculata}}.
+
+====Name origin====
+Drifloon is a combination of ''drift'' and ''balloon''.
+
+Fuwante may be a combination of ふわふわ ''fuwa fuwa'' (''soft'', ''airy'' and ''light'', or an {{wp|onomatopoeia}} for ''floating''), 風船 ''fūsen'' (balloon), and 不安定 ''fuantei'' (unstable).
+
+==In other languages==
+{{Other languages|type=Ghost|type2=Flying
+|ja=フワンテ ''Fuwante''|jameaning=From {{tt|ふわふわ ''fuwa fuwa''|soft, airy and light, onomatopoeia for floating}}, {{tt|風船 ''fūsen''|balloon}}, and {{tt|不安定 ''fuantei''|unstable}}
+|de=Driftlon|demeaning=From ''Drift'' and ''{{tt|Ballon|balloon}}''
+|fr=Baudrive|frmeaning=From ''{{tt|baudruche|balloon}}'' and ''{{tt|dérive|drift}}''
+|es=Drifloon|esmeaning=Same as English name
+|it=Drifloon|itmeaning=Same as English name
+|ko=흔들풍손 ''Hundlpungson''|komeaning=Combination of {{tt|흔들다 ''heundeulda''|to shake or wave}} and a play on {{tt|풍선 ''pungseon''|balloon}} and {{tt|손 ''son''|hand}}.
+|zh_cmn=飄飄球 ''Piāo Piāo Qiú''|zh_cmnmeaning=Literally "Lightly floating balloon". {{tt|球|ball}} is derived from {{tt|氣球 ''Qì​qiú''|balloon}}.
+|ru=Дрифлун ''Driflun''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Fantina's Drifblim|Fantina's Drifloon]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ghost|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=424|prev=Ambipom|nextnum=426|next=Drifblim}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Driftlon]]
+[[fr:Baudrive]]
+[[it:Drifloon]]
+[[ja:フワンテ]]
+[[pl:Drifloon]]
+[[zh:飘飘球]]

@@ -1,0 +1,358 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=639|prev=Terrakion|nextnum=641|next=Tornadus|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Virizion}}
+|}
+{{Pokémon Infobox
+|name=Virizion
+|jname=ビリジオン
+|jtranslit=Birujion
+|tmname=Virizion
+|category=Grassland
+|typebox=1
+|type1=Grass
+|type2=Fighting
+|abilityn=1
+|abilitylayout=1
+|ability1=Justified
+|ndex=640
+|udex=146
+|u2dex=227
+|height-ftin=6'07"
+|height-m=2.0
+|weight-lbs=440.9
+|weight-kg=200.0
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=80
+|expyield=261
+|lv100exp=1,250,000
+|gendercode=255
+|color=Green
+|evtotal=3
+|evsd=3
+|catchrate=3
+|body=08
+|pokefordex=virizion
+|generation=5
+|friendship=35
+}}
+'''Virizion''' ([[List of Japanese Pokémon names|Japanese]]: '''ビリジオン''' ''Virizion'') is a dual-type {{2t|Grass|Fighting}} [[Legendary Pokémon]] introduced in [[Generation V]].
+
+It is not known to [[Evolution|evolve]] into or from any Pokémon.
+
+Along with {{p|Cobalion}}, {{p|Terrakion}}, and {{p|Keldeo}}, Virizion is a member of the [[Swords of Justice]].
+
+==Biology==
+Virizion is a stag or {{wp|antelope}}-like, quadruped Pokémon that is primarily green. On the sides of its head are long horns that end in dull, curled points. It has a pointed snout with a black blaze running from its nose to the back of its head. Its face, hind legs, and underside are white. There is a pinked-tipped leaf on each side of its neck, and leafy tufts on its shoulders. On its back, there are pointed tufts of fur forming a medium-long tail. Its lower legs resemble knee-high boots with pink highlights at the knees, and it has black hooves.
+
+Like the other members of [[Swords of Justice|its quartet]], Virizion battled against humans in order to protect Pokémon. Its horns are as sharp as blades, and are used to cut opponents.
+
+==In the anime==
+[[File:Virizion M15.png|thumb|250px|left|Virizion in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Swords of Justice (M15)|Virizion (M15)]]====
+Virizion debuted in ''[[M15|Kyurem VS. The Sword of Justice]]'', being one of its stars alongside {{p|Cobalion}}, {{p|Terrakion}}, {{p|Kyurem}}, and {{p|Keldeo}}. Along with Cobalion, Terrakion, Keldeo, and Kyurem, Virizion can [[Talking Pokémon|speak through telepathy]].
+
+===Minor appearances===
+{{-}}
+
+==In the manga==
+===In the Pokémon Adventures manga===
+[[File:Virizion Adventures.png|thumb|200px|Virizion in [[Pokémon Adventures]]]]
+{{main|Swords of Justice (Adventures)}}
+Virizion was the first of the Swords of Justice to debut in Pokémon Adventures, appearing in ''[[PS476|A Direct Attack and a Daunting Defense]]'', where it attacks {{adv|Black}} and {{adv|White}} as they cross the [[Skyarrow Bridge]], cutting up their clothing. Virizion later appears alongside Terrakion in [[Mistralton Cave]]. Both would later follow Cobalion to [[Pledge Grove]] to meet [[Keldemaru|Keldeo]].
+
+===In the Be the Best! Pokémon B+W manga===
+[[Monta]] owns a Virizion, which he uses in an attempt to weaken {{p|Kyurem}}.
+
+===In the Pokémon RéBURST manga===
+Virizion, along with Cobalion and Terrakion, were captured by [[Great Gavel]] via holding several Pokémon captive. Later, it was sealed into a Burst Heart and became the [[Burst]] form of [[Rovy]].
+
+==In the TCG==
+{{main|Virizion (TCG)}}
+
+==Game data==
+===NPC appearances===
+{{spoilers}}
+{{main|Virizion (Gates to Infinity)}}
+[[Pokémon Mystery Dungeon: Gates to Infinity]]: {{mdc|Virizion|gti}} is a very popular Pokémon among the [[Post Town]] inhabitants, even though she has turned them all down at some point. The {{player}} first meets her after rescuing {{mdc|Dunsparce|gti}}. Dunsparce had gotten lost looking for a crystal to give to Virizion as a gift, because he wanted to be her friend. Virizion turns him down, saying she doesn't have friends. This hurts Dunsparce's feelings, causing him to run away. After rescuing Dunsparce again, she asks to join the team. The player's partner immediately accepts, much to {{mdc|Emolga|gti}}'s chagrin. Virizion proves to be a calm and collected addition to the team, rarely outwardly expressing her emotions, but she changes as more and more is revealed about her past with her last friend, {{mdc|Keldeo|gti}}. She later admits that she likes Emolga.
+{{endspoilers}}
+
+===Pokédex entries===
+{{Dex/Header|type=grass|type2=fighting}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=This Pokémon fought humans in order to protect its friends. Legends about it continue to be passed down.}}
+{{Dex/Entry1|v=White|entry=Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Legends say this Pokémon confounded opponents with its swift movements.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents.}}
+{{Dex/Entry1|v=Y|entry=Legends say this Pokémon confounded opponents with its swift movements.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Legends say this Pokémon confounded opponents with its swift movements.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=grass|type2=fighting}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Pinwheel Forest]] <small>(Rumination Field)</small> ([[List of in-game event Pokémon in Generation V#Virizion|Only one]])}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{rt|11|Unova}} ([[List of in-game event Pokémon in Generation V#Virizion_2|Only one]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=FFF|area=[[Pathless Plain]]{{dotw|Mo}}{{dotw|Th}} ([[List of in-game event Pokémon in Generation VI#Virizion|Only one]], requires three Pokémon with max EVs in the player's party)}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Space Wilds]] ({{DL|Ultra Space Wilds|Rocky World}}) ([[List of in-game event Pokémon in Generation VII#Virizion|Only one]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Fighting}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: All ([[Pokémon Rumble Blast#Legendary Boss Pokémon|Random Legendary Encounter]])}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Desolate Canyon]]{{tt|*|Automatically recruited upon completion}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#Launch to Victory!|Toy Collection: Launch to Victory!]] <small>(Reward)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 4|Sacred Plains: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Expert Stages|Expert Stage: Stage EX26]]<br>Event: ''[[Special Stages#Special Challenge|Virizion Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Everspring Valley|White Ruins: Everspring Valley]] <small>(Special Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 26|Area 26: Stage 12]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|type2=Fighting
+|HP=91
+|Attack=90
+|Defense=72
+|SpAtk=90
+|SpDef=129
+|Speed=108
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Fighting
+|Normal=100
+|Fighting=100
+|Flying=400
+|Poison=200
+|Ground=50
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=200
+|Ice=200
+|Dragon=100
+|Dark=50
+|Fairy=200
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Virizion|Grass|Fighting|5}}
+{{learnlist/level7|1|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/level7|1|Leaf Blade|Grass|Physical|90|100|15||'''}}
+{{learnlist/level7|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Double Kick|Fighting|Physical|30|100|30||'''}}
+{{learnlist/level7|1|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/level7|7|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|13|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|19|Retaliate|Normal|Physical|70|100|5}}
+{{learnlist/level7|25|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level7|31|Sacred Sword|Fighting|Physical|90|100|15||'''}}
+{{learnlist/level7|37|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|42|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|49|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|55|Leaf Blade|Grass|Physical|90|100|15||'''}}
+{{learnlist/level7|61|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/levelf/7|Virizion|Grass|Fighting|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Virizion|Grass|Fighting|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Virizion|Grass|Fighting|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Virizion|Grass|Fighting|5}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Virizion|Grass|Fighting|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Virizion|Grass|Fighting|5}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5||'''|no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Virizion|Grass|Fighting|5}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Mega Drain}}
+| style="background:#fff; {{roundybr|5px}}" | [[Virizion (Everyone's Exciting Battle 5)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Fighting}}
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=3
+|def=4
+|speed=4
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Grass|ndex=640
+|power=4
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Grass|ndex=640|num=302
+|min=70
+|max=140
+|raisemaxlevel=20
+|skill=Power of 4+
+|skilldesc=Deals even more damage when you make a match of four.
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Grass
+|type2=Fighting
+|pictype=art
+|no1=640
+|name1=Virizion
+|type1-1=Grass
+|type2-1=Fighting
+}}
+
+===Sprites===
+{{Spritebox/Header|type=grass|type2=fighting}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=640}}
+{{Spritebox/6|ndex=640}}
+{{Spritebox/7|ndex=640}}
+{{Spritebox/Footer|640|Virizion}}
+
+==Trivia==
+* Virizion has the highest {{stat|Special Defense}} base stat of all {{type|Grass}} Pokémon and {{type|Fighting}} Pokémon.
+* Virizion is the only member of the [[Swords of Justice]] that:
+** is not weak to the types of any of the other members.
+** has a type advantage over the members.
+** has a double weakness.
+
+===Origin===
+Virizion appears to be based on the character of {{wp|Aramis}} from the novel ''{{wp|The Three Musketeers}}''. Like Aramis, it is the best at swordplay. Aramis in the novels was also the most feminine, vain, and romantic, qualities that Virizion possesses relative to its comrades. It physically resembles {{wp|antelope}}s, such as the {{wp|gerenuk}} or other species of {{wp|gazelle}}. It may also be based on a stag (male deer). Like its comrades, its nose resembles that of a sheep.
+
+====Name origin====
+Virizion may be derived from ''{{wp|viridian}}'' (a bluish-green color), or simply ''viridis'' (Latin for green), and possibly ''champion''.
+
+==In other languages==
+{{Other languages|type=grass|type2=fighting
+|ja=ビリジオン ''Virizion''|jameaning=From ''viridian'', or simply ''viridis'', and possibly ''champion''
+|fr=Viridium|frmeaning=From ''viridian'' and the suffix ''-ium''; same as German name
+|es=Virizion|esmeaning=Same as English/Japanese name
+|de=Viridium|demeaning=From ''viridian'' and the suffix ''-ium''; same as French name
+|it=Virizion|itmeaning=Same as English/Japanese name
+|ko=비리디온 ''Virizion''|komeaning=Transliteration of Japanese name
+|zh_cmn=畢力吉翁 / 毕力吉翁 ''Bìlìjíwēng''|zh_cmnmeaning=Transliteration of Japanese name
+|ru=Вирижион ''Virizhion''|rumeaning=Transcription of English name
+}}
+
+<br clear="left">
+
+==Related articles==
+*[[Swords of Justice (M15)#Virizion|Virizion (M15)]]
+* [[Virizion (Gates to Infinity)]]
+*[[Swords of Justice]]
+*[[Swords of Justice (Adventures)]]
+
+==Notes==
+<references />
+
+==External links==
+{{Legendary Pokémon}}
+{{PokémonPrevNext/Head|type=Grass|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=639|prev=Terrakion|nextnum=641|next=Tornadus}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Legendary Pokémon]]
+[[Category:Legendary Pokémon obtainable before the Elite Four]]
+[[Category:Unova Legendary Pokémon]]
+
+[[de:Viridium]]
+[[fr:Viridium]]
+[[it:Virizion]]
+[[ja:ビリジオン]]
+[[pl:Virizion]]
+[[zh:毕力吉翁]]

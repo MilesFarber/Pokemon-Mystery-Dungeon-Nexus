@@ -1,0 +1,469 @@
+{{PokémonPrevNext/Head|type=Dragon|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=442|prev=Spiritomb|nextnum=444|next=Gabite|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Gible}}
+|}
+{{Pokémon Infobox
+|name=Gible
+|jname=フカマル
+|tmname=Fukamaru
+|ndex=443
+|sdex=109
+|karea=Mountain
+|kdex=006
+|adex=238
+|abrow=251
+|obrow=199
+|opbrow=208
+|typebox=1
+|type1=Dragon
+|type2=Ground
+|category=Land Shark
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=45.2
+|weight-kg=20.5
+|abilityn=d
+|ability1=Sand Veil
+|abilityd=Rough Skin
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Dragon
+|eggcycles=40
+|evtotal=1
+|evat=1
+|expyield=60
+|oldexp=67
+|lv100exp=1,250,000
+|gendercode=127
+|color=Blue
+|catchrate=45
+|body=06
+|pokefordex=gible
+|generation=4
+|friendship=70
+}}
+'''Gible''' ([[List of Japanese Pokémon names|Japanese:]] '''フカマル''' ''Fukamaru'') is a dual-type {{2t|Dragon|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] into {{p|Gabite}} starting at [[level]] 24, which evolves into {{p|Garchomp}} starting at level 48.
+
+==Biology==
+Gible is a small, bipedal dragon-like Pokémon that is primarily blue. It has a big mouth filled with sharp teeth, no neck, and arms that start at the outer edges of its jaws. A red underbelly stretches from its abdomen to the bottom of its jaw. Gible has two horns that resemble {{wp|jet}} or {{wp|plane}} engines, each with a light blue stripe in the middle. It has a single light blue stripe wrapping around its back. On top of its head is a dorsal fin, which has a notch on it for the male. Its dorsal fin is strong enough to carry a person. Gible appears to be a good digger, making deep holes for homes in caverns. It enjoys play-fighting with other members of its species. It has tremendously strong jaws that it uses to bite enemies. However, when biting, it often hurts itself because of clumsiness.
+
+==In the anime==
+[[File:Ash Gible.png|thumb|left|250px|Gible in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Gible]]====
+Gible appeared in ''[[DP156|A Meteoric Rise to Excellence!]]''. He tried to learn {{m|Draco Meteor}} with the help of {{Ash}} and friends, but kept failing to use it, succeeding only once. He began to follow the group at the end of the episode. He appeared again in ''[[DP157|Gotta Get a Gible!]]'', where Ash {{pkmn2|caught}} him.
+
+====[[Iris's Gible]]====
+{{an|Iris}} caught a Gible in [[SS028]].
+
+====Other====
+Gible made its main series debut in ''[[DP145|A Rivalry to Gible On!]]'', where Ash and [[Khoury]] both attempted to catch it. However, in the end, Khoury was successful in catching Gible.
+
+A Gible appeared in ''[[PK25|Eevee & Friends]]'' as a friend of an {{p|Umbreon}} living with an {{p|Eevee}} and the rest of the [[Eeveelution]]s.
+
+===Minor appearances===
+Gible debuted in ''[[M10|The Rise of Darkrai]]'', where it was seen battling a {{p|Bronzor}}. It appeared again as one of the victims of {{p|Darkrai}}'s {{m|Dark Void}}.
+
+[[Professor Sycamore]]'s {{p|Garchomp}} was shown in a flashback as a Gible, given to him by [[Alain]], during ''[[XY068|Garchomp's Mega Bond!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP145|Gible|Khoury's Pokédex|Gible, the Land Shark Pokémon. Gible once lived in the tropics, and to avoid cold it lives in caves warmed by geothermal heat.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Advanced level Grunt Gible.png|thumb|130px|Gible in [[Pokémon Adventures]]]]
+===In the movie adaptations===
+A Gible appears in the ''{{ma|The Rise of Darkrai}}'' manga adaptation where it was put to sleep by {{mov|Darkrai|Darkrai|10}}'s {{m|Dark Void}}.
+
+===In the Pokémon Adventures manga===
+Gible made its first appearance in ''[[PS358|Stunning Staravia & Stinky Skuntank I]]'' as one of the [[Advanced level Grunt]]'s Pokémon. The female Gible was first used to attack {{adv|Diamond}}'s {{adv|Lax}} when Diamond told the Grunt to return the [[Pokédex]] to him. She was later used in the [[Team Galactic HQ]] to battle Diamond's Pokémon.
+
+[[Benga]]'s Gible appeared in a flashback in [[PS541]].
+
+==In the TCG==
+{{main|Gible (TCG)}}
+
+==Game data==
+===NPC appearances===
+[[Pokémon Ranger: Shadows of Almia]]: Gible can be obtained as a [[Partner Pokémon]] by clearing a quest in [[Boyleland]].
+
+===Pokédex entries===
+{{Dex/Header|type=Dragon|type2=Ground}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.}}
+{{Dex/Entry1|v=Pearl|entry=It once lived in the tropics. To avoid the cold, it lives in caves warmed by geothermal heat.}}
+{{Dex/Entry1|v=Platinum|entry=It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.}}
+{{Dex/Entry1|v=Y|entry=It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It lives in caves warmed by geothermal heat. Even so, when the weather gets cold, it will huddle close with others of its kind.}}
+{{Dex/Entry1|v=Moon|entry=It skulks in caves, and when prey or an enemy passes by, it leaps out and chomps them. The force of its attack sometimes chips its teeth.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It reacts to anything that moves—flies right at it and bites it. Sometimes it injures itself, but it doesn't care too much.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its original home is an area much hotter than Alola. If you're planning to live with one, your heating bill will soar.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dragon|type2=Ground}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Wayward Cave]] (secret area under {{si|Cycling Road}})}}
+{{Availability/Entry1|v=Platinum|area=[[Wayward Cave]] (secret area under {{si|Cycling Road}})}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry1|v=Black 2|t=fff|area=Gift in [[Floccesy Town]] ({{Shiny}}){{tt|*|After defeating Benga in Area 10 of the Black Tower}}}}
+{{Availability/Entry1/None|v=White 2}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Icy Cave}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|13|Kalos}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{rt|111|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{pkmn|breeding|Breed}} {{p|Gabite}} or {{p|Garchomp}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{pkmn|breeding|Breed}} {{p|Gabite}} or {{p|Garchomp}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dragon|type2=Ground}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Landslide Cave]] (B1-B12)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Landslide Cave]] (B1-B12)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Volcano Cave]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Rocky Cave]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Cavern Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Daybreak Ruins]], [[Oblivia Ruins]], [[Dark Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Dragnor]] (special)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Magical Lake#In Need of Trees|Magical Lake: In Need of Trees]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 6|Mysterious Fountain: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#Third release|''Pokémon Safari'']] <small>(Third release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Foggy Crags|Silver Isles: Foggy Crags]] <small>(All Areas)</small>, [[Diamond Crater#Smelting Forge|Diamond Crater: Smelting Forge]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 15|Area 15: Stage 03]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=Dragon|type2=Ground
+|dppt1=Haban Berry|dppt1type=Berry|dppt1rar=5
+|hgss1=Haban Berry|hgss1type=Berry|hgss1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Dragon
+|type2=Ground
+|HP=     58
+|Attack= 70
+|Defense=45
+|SpAtk=  40
+|SpDef=  45
+|Speed=  42}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Dragon
+|type2=Ground
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=2
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=3
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dragon
+|type2=Ground
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=   50
+|Ground=  100
+|Rock=     50
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=     50
+|Water=   100
+|Grass=   100
+|Electric=  0
+|Psychic= 100
+|Ice=     400
+|Dragon=  200
+|Dark=    100
+|Fairy=   200
+|notes=yes
+|ground=yes
+|newelectric=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Gible|Dragon|Ground|4}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|3|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|7|Dragon Rage|Dragon|Special|&mdash;|100|10}}
+{{learnlist/level7|13|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|15|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|19|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level7|25|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|27|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/level7|31|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level7|37|Dragon Rush|Dragon|Physical|100|75|10||'''}}
+{{learnlist/levelf/7|Gible|Dragon|Ground|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Gible|Dragon|Ground|4}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Gible|Dragon|Ground|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Gible|Dragon|Ground|4}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|143|Snorlax}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|357|Tropius}}<br>{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}<br>{{MSP|776|Turtonator}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|304|Aron}}<br>{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|371|Bagon}}{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|712|Bergmite}}<br>{{MSP|713|Avalugg}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|334|Altaria}}{{MSP|371|Bagon}}{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}<br>{{MSP|635|Hydreigon}}{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}{{MSP|780|Drampa}}|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/breed7|{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/breed7|{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}<br>{{MSP|621|Druddigon}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}{{MSP|706|Goodra}}{{MSP|780|Drampa}}<br>{{MSP|782|Jangmo-o}}{{MSP|783|Hakamo-o}}{{MSP|784|Kommo-o}}|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/breed7|{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|621|Druddigon}}|Rock Climb|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|443|Gible}}{{MSP|444|Gabite}}{{MSP|445|Garchomp}}|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/breed7|{{MSP|004|Charmander}}{{MSP|005|Charmeleon}}{{MSP|006|Charizard}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}<br>{{MSP|130|Gyarados}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}<br>{{MSP|248|Tyranitar}}{{MSP|371|Bagon}}{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}<br>{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}{{MSP|621|Druddigon}}<br>{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}{{MSP|782|Jangmo-o}}{{MSP|783|Hakamo-o}}{{MSP|784|Kommo-o}}|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|034|Nidoking}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|105A|Marowak}}{{MSP|130|Gyarados}}{{MSP|158|Totodile}}<br>{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}{{MSP|696|Tyrunt}}<br>{{MSP|697|Tyrantrum}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breed7|{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|130|Gyarados}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}<br>{{MSP|149|Dragonite}}{{MSP|350|Milotic}}{{MSP|691|Dragalge}}{{MSP|780|Drampa}}|Twister|Dragon|Special|40|100|20||'''}}
+{{learnlist/breedf/7|Gible|Dragon|Ground|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Gible|Dragon|Ground|4}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutorf/7|Gible|Dragon|Ground|4}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Bite}}
+| [[Gible (Supreme Victors 106)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Dragon|type2=Ground}}
+{{Spindata/MDTDS|col=6|type=Dragon|ndex=443
+|body=1
+|rate=8.2
+|IQ=C
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Dragon
+|group=Dragon
+|assist=Dragon
+|fieldpower=-
+|browser=It spits hunks of dirt to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Dragon
+|group=Dragon
+|assist=Dragon
+|field=Crush
+|fieldpower=1
+|browser=It attacks by launching blue fireballs.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Dragon
+|att=2
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Dragon
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Dragon|ndex=443
+|Pad=Gible love playing with the Mine Cart in the [[Cavern Zone]]. They agree that their favorite Attraction is {{DL|Attractions|Bastiodon's Block Barrage}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Dragon|ndex=443
+|strong=&nbsp;
+|weak=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]][[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=She is innocent and energetic. She also wants to be strong and called by a nickname.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Dragon|ndex=443
+|HP=2
+|atk=1
+|def=1
+|spd=2
+|range=3
+|move=Dragon Rage
+|ability1=Sandpit
+|ability2=Instinct
+|ability3=Melee
+|evo=Evolves into {{p|Gabite}} when its Attack is 44 or higher
+|link={{DL|List of Pokémon Conquest characters|Harutaka}}, {{DL|List of Pokémon Conquest characters|Masahide}}, and {{DL|List of Pokémon Conquest characters|Narimasa}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Dragon|ndex=443
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Dragon|ndex=443|stype=Ground|num=279
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Dragon
+|type2=Ground
+|pictype=art
+|no1=443
+|name1=Gible
+|type1-1=Dragon
+|type2-1=Ground
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 24}}
+|no2=444
+|name2=Gabite
+|type1-2=Dragon
+|type2-2=Ground
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 48}}
+|no3=445
+|name3=Garchomp
+|type1-3=Dragon
+|type2-3=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Dragon|type2=Ground}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/Gender|ndex=443}}
+{{Spritebox/5/Gender|ndex=443}}
+{{Spritebox/6/Gender|ndex=443}}
+{{Spritebox/7/Gender|ndex=443}}
+{{Spritebox/Footer|443|Gible}}
+
+==Trivia==
+* The Gible evolutionary line made its anime debuts in reverse order of evolution. Garchomp appeared first in ''[[DP040|Top-Down Training]]'', Gabite appeared second in ''[[DP114|Another One Gabites the Dust!]]'', and Gible appeared last in ''[[DP145|A Rivalry to Gible On!]]''.
+
+===Origin===
+Appearance-wise, Gible seems like a cross between a {{wp|European dragon}} and a {{wp|shark}}. Gible and its evolved forms may also be a reference to the book ''{{wp|After Man: A Zoology of the Future}}''. One species mentioned is a type of land shark that lives in desert regions.
+
+====Name origin====
+Gible may be a combination of ''gobble'' or ''ground'' and ''nibble''.
+
+Fukamaru may be a combination of 鱶 ''fuka'' (shark) and 丸 ''maru'' (round; also a suffix in young boy's names), and may also play on 深まる ''fukamaru'' (to deepen, to become deep).
+
+==In other languages==
+{{Other languages|type=Dragon|type2=Ground
+|ja=フカマル ''Fukamaru''|jameaning=From {{tt|鱶 ''fuka''|shark}} and {{tt|丸 ''maru''|round}}
+|de=Kaumalat|demeaning=From ''{{tt|kauen|to chew}}'', ''{{tt|kaum|hardly}}''
+|fr=Griknot|frmeaning=From ''{{tt|grignoter|chew}}'' and ''{{tt|quenotte|milk tooth}}''
+|es=Gible|esmeaning=Same as English name
+|it=Gible|itmeaning=Same as English name
+|ko=딥상어동 ''Dipsangeodong''|komeaning=From ''deep'', {{tt|상어 ''sangeo''|shark}} and {{tt|동 (童) ''dong''|kid}}
+|zh_yue=圓陸鯊 ''Yùhnluhksā''|zh_yuemeaning=Same as Mandarin name
+|zh_cmn=圓陸鯊 / 圆陆鲨 ''Yuánlùshā''|zh_cmnmeaning=Literally "Round land shark"
+|ru=Гибл ''Gibl''|rumeaning=Transliteration of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Gible]]
+* [[Iris's Gible]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Dragon|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=442|prev=Spiritomb|nextnum=444|next=Gabite}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Ranger Partner Pokémon]]
+
+[[de:Kaumalat]]
+[[fr:Griknot]]
+[[it:Gible]]
+[[ja:フカマル]]
+[[pl:Gible]]
+[[zh:圆陆鲨]]

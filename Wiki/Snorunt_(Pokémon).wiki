@@ -1,0 +1,510 @@
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/GO|species=Snorunt}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=360|prev=Wynaut|nextnum=362|next=Glalie|round=none}}
+{{PokémonPrevNext/Disambig|species=Snorunt}}
+|}
+{{Pokémon Infobox
+|name=Snorunt
+|jname=ユキワラシ
+|tmname=Yukiwarashi
+|ndex=361
+|hdex=171
+|hdex6=179
+|sdex=206
+|adex=246
+|fbrow=174
+|abrow=213
+|type1=Ice
+|color=Gray
+|category=Snow Hat
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=37.0
+|weight-kg=16.8
+|abilitylayout=2
+|ability1=Inner Focus
+|ability2=Ice Body
+|abilityd=Moody
+|egggroupn=2
+|egggroup1=Fairy
+|egggroup2=Mineral
+|eggcycles=20
+|evtotal=1
+|evhp=1
+|expyield=60
+|oldexp=74
+|lv100exp=1,000,000
+|gendercode=127
+|catchrate=190
+|body=12
+|pokefordex=snorunt
+|generation=3
+|friendship=70
+}}
+'''Snorunt''' ([[List of Japanese Pokémon names|Japanese]]: '''ユキワラシ''' ''Yukiwarashi'') is an {{type|Ice}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] into either {{p|Glalie}} starting at level 42 or, if female, {{p|Froslass}} when exposed to a [[Dawn Stone]].
+
+==Biology==
+Snorunt is a small, black Pokémon with an ovoid body. It has circular, light blue eyes, wide teeth, and spherical hands and feet that lack digits. It is covered with a yellow cloak that gives it a triangular outline. The coat is rimmed with an orange stripe and has three orange diamond markings on the back. Well-adapted to life in colder climates, it subsists on snow and ice and can survive temperatures as low as {{tt|-150 degrees Fahrenheit|-100 degrees Celsius}}. Snorunt is also a social creature, living and traveling with other Snorunt in groups of five. It can be found in {{DL|List of Pokémon by habitat|Cave Pokémon|caves}}, particularly when the outside weather lacks snow. Additionally, it has been known to visit human dwellings.
+
+==In the anime==
+[[File:Snorunt anime.png|thumb|left|220px|Snorunt in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Snorunt]]====
+Snorunt debuted in ''[[AG108|Let It Snow, Let It Snow, Let It Snorunt!]]''. This Snow Hat Pokémon stole {{Ash}}'s [[Badge]]s, and so he chased after it. Ash eventually gained Snorunt's trust and it joined his team. After learning {{m|Ice Beam}} by practicing extensively, Ash's Snorunt evolved into {{p|Glalie}} in ''[[AG123|Rhapsody in Drew]]''.
+
+====Other====
+[[File:Sugimori Snorunt AG.jpg|thumb|220px|[[Ken Sugimori|Sugimori]] reference sheet for the anime]]
+A Snorunt appeared in ''[[DP116|The Drifting Snorunt!]]'', along with its evolved forms, {{DL|Poacher (DP116)|Glalie}} and {{p|Froslass}}. It was almost captured by a {{OBP|Poacher|DP116}}.
+
+===Minor appearances===
+Snorunt debuted in a cameo in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+A Snorunt appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Snorunt made a cameo appearance in ''[[DP088|Camping It Up!]]'', where it was one of the Pokémon trained by the students of the [[Pokémon Summer Academy]].
+
+A Snorunt made a brief appearance in ''[[DP182|An Old Family Blend!]]'', under the ownership of a {{pkmn|Trainer}} participating in the [[Lily of the Valley Conference]].
+
+Five Snorunt appeared in [[SM060]], with one under the ownership of a {{pkmn|Trainer}} and the other four wild.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG108|Snorunt|Ash's Pokédex|Snorunt, the Snow Hat Pokémon. Snorunt primarily inhabits very snowy regions. It has long been said that any home visited by a Snorunt will be blessed with good fortune.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP116|Snorunt|Dawn's Pokédex|Snorunt, the Snow Hat Pokémon. Snorunt is said to bring great wealth to any home that it lives in.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Glacia Snorunt Adventures.png|thumb|100px|Snorunt in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Snorunt is one of the Pokémon owned by the [[Hoenn]] [[Elite Four]] [[Glacia]] along with {{p|Glalie|its evolution}}, unlike only {{p|Spheal}} being shown in her possession instead of its evolutions. It is not seen in battle. It first appeared in ''[[PS256|A Royal Rumble with Regirock, Regice and Registeel I]]''.
+
+A Snorunt appeared as a {{DL|Battle Frontier (Generation III)|Battle Factory}} Pokémon in ''[[PS306|Pinsir Me, I Must Be Dreaming]]''. 
+
+A Snorunt appeared in ''[[PS315|Skirting Around Surskit I]]'' as a rental Pokémon that [[Guile Hideout]] stole.
+
+In ''[[PS387|Striking Out Snover]]'', wild Snorunt are shown near [[Snowpoint City]], some of them being cared by [[Candice]].
+
+==In the TCG==
+{{main|Snorunt (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Brawl]]===
+Snorunt appears on the Ice Terrain, and also as a trophy.
+
+====Trophy information====
+''"A Snow Hat Pokémon. It usually moves about in groups of around five. According to folklore, "Snorunt seen at night herald deep snow the next day," and "homes in which Snorunt reside are sure to prosper." In reality, however, the truth behind Snorunt tales lies in mystery. Male Snorunt evolve into Glalie, while females given a Dawn Stone evolve into Froslass."''
+
+==Game data==
+===NPC appearances===
+{{spoilers}}
+{{g|Mystery Dungeon: Explorers of Sky}}: In the Special Episode [[In the Future of Darkness]], when {{mdc|Grovyle|2}} and {{mdc|Dusknoir|2}} arrive at [[Frozen Island]], three Snorunt play a prank on Grovyle when pressed by him for the location of [[Primal Dialga]]'s "new henchman". After clearing [[Dark Ice Mountain]], Grovyle manages to press a different Snorunt for information, and it reveals that he saw three {{p|Sableye}} carrying what appeared to be {{mdc|Celebi|2}} through the [[Icicle Forest]].
+
+===Pokédex entries===
+{{Dex/Header|type=Ice}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pokémon steals away to live quietly among stalactites and stalagmites deep in caverns.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Snorunt survives by eating only snow and ice. Old folklore claims that a house visited by this Pokémon is sure to prosper for many generations to come.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=They tend to move about in groups of around five Snorunt. In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It is said that a home visited by a Snorunt will prosper. It can withstand cold of {{tt|minus 150 degrees Fahrenheit.|minus 100 degrees Celsius}}.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=In the snow country, certain folklore says a house will prosper if a Snorunt lives there.}}
+{{Dex/Entry1|v=Platinum|entry=It is said that several Snorunt gather under giant leaves and live together in harmony.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It is said that several Snorunt gather under giant leaves and live together in harmony.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It is said that several Snorunt gather under giant leaves and live together in harmony.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It is said that several Snorunt gather under giant leaves and live together in harmony.}}
+{{Dex/Entry1|v=Y|entry=In the snow country, certain folklore says a house will prosper if a Snorunt lives there.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pokémon steals away to live quietly among stalactites and stalagmites deep in caverns.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Snorunt survives by eating only snow and ice. Old folklore claims that a house visited by this Pokémon is sure to prosper for many generations to come.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Their numbers seem to have rapidly increased in [[Alola]]. Custom has it that houses where Snorunt live will be prosperous for generations to come.}}
+{{Dex/Entry1|v=Moon|entry=It can only survive in cold areas. It bounces happily around, even in environments as cold as {{tt|-150 degrees Fahrenheit|-101 degrees Celsius}}.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It feeds mainly on ice and snow. It's only able to survive in a limited number of places in the warm Alola region.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Rich people from cold areas all share childhood memories of playing with Snorunt.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Shoal Cave]] (low tide)}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Shoal Cave]] (low tide)}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Phenac City]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|216|Sinnoh}} and {{rtn|217|Sinnoh}}, [[Acuity Lakefront]] ([[Poké Radar]])}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|216|Sinnoh}} and {{rtn|217|Sinnoh}}, [[Acuity Lakefront]], [[Lake Acuity]]{{Sup/t|N}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=Transfer from [[Pokéwalker]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Icy Mountain Rd.}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Icy Cave}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Friend Safari]] ([[Friend Safari#Ice-type Safari|Ice]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Shoal Cave]] (low tide)}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Mount Lanakila]], [[Tapu Village]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Mount Lanakila]], [[Tapu Village]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Hatch from {{pkmn|Egg}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 8]], [[Secret Storage 15]], Endless Level 52, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Frosty Forest]] (8F-9F), [[Mt. Faraway]] (1F-11F), [[Joyous Tower]] (50F-57F), [[Oddity Cave]] (B14-B15)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Panula Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Blizzard Island]] (1F-20F), [[Crevice Cave]] (B1-B10, Lower Crevice Cave B1-B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Blizzard Island]] (1F-20F), [[Crevice Cave]] (B1-B10, Lower Crevice Cave B1-B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Almia Castle]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Glacier: [[Frozen Tundra]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Nixtorm]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Race against the Clock|Frenzy Square: Race against the Clock]], [[Conductor Room#Frozen Runway|Conductor Room: Frozen Runway]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 2|Safari Jungle: Stage 2]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Sweet Strasse|Sweet Strasse: Stage 78]]<br>[[Blau Salon|Blau Salon: Stage 417]]<br>Event: [[Special Stages#Tenth release|''Pokémon Safari'']] <small>(Tenth release; Winking)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Outermost Snowfield|Distortion Land: Outermost Snowfield]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=Ice
+|dppt1=Babiri Berry|dppt1type=Berry|dppt1rar=5
+|oras1=Snowball|oras1type=None|oras1rar=5
+|sm1=Snowball|sm1type=None|sm1rar=5
+|usum1=Snowball|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ice
+|HP=     50
+|Attack= 50
+|Defense=50
+|SpAtk=  50
+|SpDef=  50
+|Speed=  50}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ice
+|Speed=4
+|SpeedMax=5
+|Power=2
+|PowerMax=3
+|Technique=3
+|TechniqueMax=4
+|Stamina=2
+|StaminaMax=3
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ice
+|Normal=  100
+|Fighting=200
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    200
+|Bug=     100
+|Ghost=   100
+|Steel=   200
+|Fire=    200
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Snorunt|Ice|Ice|3}}
+{{learnlist/level7|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|5|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|10|Ice Shard|Ice|Physical|40|100|30||'''}}
+{{learnlist/level7|14|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level7|19|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|23|Ice Fang|Ice|Physical|65|95|15||'''}}
+{{learnlist/level7|28|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|32|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|37|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/level7|41|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|46|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/level7|50|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/levelf/7|Snorunt|Ice|Ice|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Snorunt|Ice|Ice|3}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15||''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Snorunt|Ice|Ice|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Snorunt|Ice|Ice|3}}
+{{learnlist/breed7|{{MSP|582|Vanillite}}{{MSP|583|Vanillish}}{{MSP|584|Vanilluxe}}|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/breed7|{{MSP|417|Pachirisu}}|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|185|Sudowoodo}}{{MSP|299|Nosepass}}{{MSP|476|Probopass}}|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|039|Jigglypuff}}{{MSP|040|Wigglytuff}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|303|Mawile}}{{MSP|312|Minun}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Hex|Ghost|Special|65|100|10||''}}
+{{learnlist/breed7|{{MSP|039|Jigglypuff}}{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|075|Graveler}}{{MSP|075A|Graveler}}{{MSP|183|Marill}}<br>{{MSP|184|Azumarill}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|777|Togedemaru}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/breed7|{{MSP|707|Klefki}}|Spikes|Ground|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|312|Minun}}|Switcheroo|Dark|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|351|Castform}}{{MSP|407|Roserade}}{{MSP|584|Vanilluxe}}|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/breedf/7|Snorunt|Ice|Ice|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Snorunt|Ice|Ice|3}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Snorunt|Ice|Ice|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg water color light}}; border: 3px solid #{{tcg water color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Tackle}}
+| style="background:#fff; {{roundybr|5px}}" | [[Snorunt (EX Hidden Legends 73)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Ice}}
+{{Spindata/PinballRS|col=3|type=Ice|ndex=361|acquisition=Hatch}}
+{{Spindata/Trozei|col=3|type=Ice|ndex=361|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Ice|ndex=361
+|body=1
+|rate=7.5
+|area=Frigid Cavern
+|P1=Did you know? You can grow rich by being with me.
+|P2=Oh, please! My health is half gone already?
+|P3=I'm sorry... I can take cold, but not this...
+|PL=I leveled up! I wonder if you'll get richer?
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ice|ndex=361
+|body=1
+|rate=6.4
+|IQ=A
+}}
+|-
+{{Spindata/Ranger|col=6|type=Ice
+|group=Ice
+|assist=Ice
+|fieldpower=1
+|field=Crush
+|loop=7
+|MinEXP=25
+|MaxEXP=45
+|browser=Snorunt tosses ice rings that can shatter small Rocks.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ice
+|group=Ice
+|assist=Ice
+|field=Crush
+|fieldpower=1
+|browser=It blows {{M|Powder Snow|powdered snow}} and hunks of ice from its mouth to attack.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Ice
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Ice|ndex=361
+|HP=2
+|atk=1
+|def=2
+|spd=2
+|range=3
+|move=Powder Snow
+|ability1=Inner Focus
+|ability2=Skater
+|ability3=Stealth
+|evo=Evolves into {{p|Glalie}} when its HP is 128 or higher<br>Evolves into {{p|Froslass}} when its [[link]] is improved while its female [[Warrior]] is equipped with a [[Dawn Stone]]
+|link='''{{OBP|Aya|Conquest}}''', {{DL|List of Pokémon Conquest characters|Hiroko}}, and {{DL|List of Pokémon Conquest characters|Tsunamoto}}
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Ice|ndex=361
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Ice|ndex=361|num=124
+|min=40
+|max=105
+|raisemaxlevel=10
+|skill=Freeze
+|skilldesc=Leaves the foe frozen.
+|swapper=Rock Shot
+}}
+{{Spindata/Shuffle|col=3|type=Ice|ndex=361Winking|num=124
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Block Smash+
+|skilldesc=Sometimes clears three unbreakable-block disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Ice|ndex=361
+|buddy=3
+|evocandy=50
+|stamina=100
+|attack=95
+|defense=95
+|fast={{m|Powder Snow}}, {{m|Hex}}
+|special={{m|Avalanche}}, {{m|Icy Wind}}, {{m|Shadow Ball}}
+}}
+|}
+
+===Evolution===
+{{Evobox
+|family=Normal
+|sprite1=361Snorunt
+|name1=Snorunt
+|type1-1=Ice
+|evotype1=Level
+|level1=42
+|sprite2=362Glalie
+|name2=Glalie
+|type1-2=Ice
+|evotype1a=Stone
+|evostone1a=Dawn Stone
+|gender1a=female
+|sprite2a=478Froslass
+|name2a=Froslass
+|type1-2a=Ice
+|type2-2a=Ghost
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Ice}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=361}}
+{{Spritebox/4|ndex=361}}
+{{Spritebox/5|ndex=361}}
+{{Spritebox/6|ndex=361}}
+{{Spritebox/7|ndex=361}}
+{{Spritebox/Footer|361|Snorunt}}
+
+==Trivia==
+* Snorunt's Platinum Pokédex entry seems to reference the ''{{wp|Koro-pok-guru}}'', a race of small people in Ainu folklore. They are said to live under the leaves of plants in harmony. The Ainu live in Hokkaido, the place in Japan upon which Sinnoh is based.
+
+===Origin===
+Snorunt is based on a ''yukinko'', a childlike spirit in Japanese mythology said to emerge when it snows, as well as the ''{{wp|zashiki warashi}}'', a mischievous spirit from the folklore of {{wp|Iwate Prefecture}}. It also seems to be a stylized version of a person wearing a ''yuki mino'', a type of traditional winter wear from the snowy parts of Japan that consists of a conical snow-cloak made of straw. Generally, ''yukinko'' are depicted as small, elf-like creatures wearing ''yuki mino''.
+
+====Name origin====
+Snorunt is a combination of ''snow'' and ''runt'' (a smaller-than-average animal).
+
+Yukiwarashi may be a combination of 雪 ''yuki'' (snow) and 座敷童子 ''zashiki warashi'' (a spiritual creature found in the folklore of Iwate Prefecture). It should be noted that 童子 ''warashi'' on its own is simply an archaic word for child.
+
+==In other languages==
+{{Other languages|type=Ice|type2=Ice
+|ja=ユキワラシ ''Yukiwarashi''|jameaning=From {{tt|雪 ''yuki''|snow}} and {{tt|座敷童子 ''zashiki warashi''|a spiritual creature found in the folklore of Iwate Prefecture}}''
+|de=Schneppke|demeaning=From {{tt|''Schnee''|snow}} and {{tt|''Steppke''|little boy}}
+|fr=Stalgamin|frmeaning=From ''{{wp|stalagmite}}'' and {{tt|''gamin''|brat}}. A play on {{tt|''sale gamin''|dirty brat}}
+|es=Snorunt|esmeaning=Same as English name
+|it=Snorunt|itmeaning=Same as English name
+|ko=눈꼬마 ''Nunkoma''|komeaning=From {{tt|눈 ''nun''|snow}} and {{tt|꼬마 ''kko'ma''|tiny person, small child}}
+|zh_cmn=雪童子 ''Xuě Tóng Zǐ''|zh_cmnmeaning=From its Japanese name. 童子 may also be derived from 座敷童子 ''zashiki warashi''. Literally "Snow boy/lad"
+|hi=स्नोरन्ट ''Snorunt''|himeaning=Transliteration of English name}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Glalie|Ash's Snorunt]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=360|prev=Wynaut|nextnum=362|next=Glalie}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Pokémon that evolve by evolutionary stone]]
+[[Category:Pokémon that evolve using Dawn Stone]]
+[[Category:Pokémon that evolve based on gender]]
+
+[[de:Schneppke]]
+[[fr:Stalgamin]]
+[[it:Snorunt]]
+[[ja:ユキワラシ]]
+[[pl:Snorunt]]
+[[zh:雪童子]]

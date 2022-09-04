@@ -1,0 +1,988 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/GO|species=Deoxys}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=385|prev=Jirachi|nextnum=387|next=Turtwig|round=none}}
+{{PokémonPrevNext/Disambig|species=Deoxys}}
+|}
+{{Pokémon Infobox
+|name=Deoxys
+|jname=デオキシス
+|jtranslit=Deokishisu
+|tmname=Deoxys
+|forme=4
+|form1=Normal Forme
+|form2=Attack Forme
+|form3=Defense Forme
+|form4=Speed Forme
+|image2=386Deoxys-Attack.png
+|image3=386Deoxys-Defense.png
+|image4=386Deoxys-Speed.png
+|ndex=386
+|hdex=202
+|hdex6=211
+|fbrow=211
+|opbrow=X-001
+|typebox=1
+|type1=Psychic
+|category=DNA
+|height-ftin=5'07"
+|height-m=1.7
+|weight-lbs=134.0
+|weight-kg=60.8
+|abilityn=1
+|abilitylayout=1
+|ability1=Pressure
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=120
+|evforms=4
+|evtotal=3
+|evat=1
+|evsa=1
+|evsp=1
+|evat2=2
+|evsa2=1
+|evde3=2
+|evsd3=1
+|evsp4=3
+|expyield=270
+|oldexp=215
+|lv100exp=1,250,000
+|gendercode=255
+|color=Red
+|catchrate=3
+|body=12
+|pokefordex=deoxys
+|generation=3
+|friendship=0
+}}
+'''Deoxys''' ([[List of Japanese Pokémon names|Japanese]]: '''デオキシス''' ''Deoxys'') is a {{type|Psychic}} [[Mythical Pokémon]] introduced in [[Generation III]].
+
+While it is not known to [[Evolution|evolve]] into or from any other Pokémon, it has [[List of Pokémon with form differences#Deoxys|three other Formes]]. In [[Generation III]], its Forme depends on which game cartridge it is on and cannot be changed without trading.
+*'''Normal Forme''' is the default in {{game|Ruby and Sapphire|s}} and {{g|Colosseum}} and {{XD}}.
+*'''Attack Forme''' is the default in {{game|FireRed and LeafGreen|s|Pokémon FireRed}}.
+*'''Defense Forme''' is the default in {{game|FireRed and LeafGreen|s|Pokémon LeafGreen}}.
+*'''Speed Forme''' is the default in {{game|Emerald}}.
+
+In later generations, its Forme can be changed at will in [[Veilstone City]], [[Kanto Route 3]], [[Nacrene City]], [[Ambrette Town]], [[Fallarbor Town]], or [[Hokulani Observatory]].
+
+==Biology==
+[[File:Deoxys purple crystal Recover.png|thumb|250px|left|Deoxys regenerating]]
+Deoxys is an alien-like bipedal Pokémon that has four Formes, each focused on a different stat. The main components that are constant for all four Formes are a dominant reddish orange color, a bluish-green face, and three bluish-green dots on its back arranged in a triangle. Typically, there is a purple stripe running down the center of its face and a purple, crystalline organ in its chest. Its white, circular eyes are set inside rectangular, black eye sockets. It is shown [[M07|in the anime]], that Deoxys may have a green crystalline organ and facial stripe.
+
+In its Normal Forme, Deoxys has tapering legs with a segmented, vertical, blue stripe on the upper portion. The abdomen is black with vertical lines, while the majority of its skin is reddish-orange. The arms are capable of taking different forms, usually a pair of tentacles coiled in a double helix. One tentacle is the primarily skin color, while the other is light blue. Alternately, it can form more humanoid arms with a red top and blue underside and a five-fingered hand. This Forme has a blunt protrusion with a single blue stripe on either side of its head and stubby tail.
+
+While in its Attack Forme, its legs remain tapered. However, its blue stripes are no longer segmented and run the entire length of the leg and there is now a large spike on the knee. Two pairs of whip-like tentacles with pointed tips, one reddish-orange and one blue, replace its previous coiled, blunted tentacles. The protrusion on its head are now triangular with an additional one extending for the top of its head. Most of its reddish-orange skin has receded, revealing a striated, black chest and abdomen. Finally, its tail is now longer and more pointed.
+
+Deoxys's Defense Forme has bulky, wide legs that are somewhat flat at the end with a bluish-green spot on each knee. It retains its two pairs of red and blue tentacles, but they are now flat and broad. The head has fused with its body and all protrusion are gone, causing it to resemble a helmet. The reddish-orange skin now covers the entire body, so none of its inner black portion is visible. There is now a single blue stripe on each shoulder, and its tail has disappeared.
+
+The Speed Forme of this Pokémon has a sleek black body with thin striation. The reddish-orange skin now covers only its head, hip joints, and the area around its crystal. There is now only one tentacle on each side of its body, one red and one blue. The protrusions on its head now point upward and the back of its head now forms a long spike. There is a long, thick blue stripe running down the center of this longer protrusion. More blue stripes appear on either hip joint and on its legs.
+
+Deoxys was formed by the mutation of a virus from space. The Pokémon is highly intelligent; its brain appears to be the crystal in its chest. This organ is capable of firing laser beams. Additionally, Deoxys can use psychokinetic powers, which are useful for its [[signature move]] {{m|Psycho Boost}}. As shown [[M07|in the anime]], it is able to regenerate any part of its body that it may have lost during a battle. It has also demonstrated the ability to create an aurora without changing its Forme. These auroras can have different electromagnetic wavelengths and are used to communicate with other Deoxys. It is also shown that the various electromagnetic waves given off by people, Pokémon, and all electronics can obscure its vision if there is enough interference with its communication. This Pokémon came from {{DL|List of Pokémon by habitat|Rare Pokémon|outer space from inside of a meteor}}.
+
+In the anime and manga, Deoxys has been observed to create clones of itself. These clones have lifeless eyes and duller color, lack of the trademark crystal on the chest, and seem to be unable to change from the Normal Forme. Furthermore, they seem unable to morph their tentacles into hands. When these clones are defeated, they dissolve into dust-like particles.
+
+==In the anime==
+===In the main series===
+[[File:Deoxys Normal Forme anime.png|thumb|210px|left|Normal Forme Deoxys in the {{pkmn|anime}}]]
+====Major appearances====
+=====[[Deoxys (M07)]]=====
+{{OBP|Deoxys|M07}} debuted in ''[[M07|Destiny Deoxys]]''. Two fell to earth in a meteorite; one had a green crystalline organ, and the other had a purple one. When the Deoxys with the green crystal (which spent most of its time as a crystal in the movie) was taken to [[LaRousse City]], the purple crystal Deoxys followed behind and began a search for it. However, it ended up in an epic battle with {{p|Rayquaza}}, which thought Deoxys had invaded its territory. As {{game|Emerald}} had not been released when the movie was produced, only its {{stat|Defense}}, Normal, and {{stat|Attack}} Formes appeared.
+
+=====[[Recurring wild Pokémon in the anime#Deoxys|Deoxys (anime)]]=====
+Deoxys's {{stat|Speed}} Forme debuted in ''[[AG171|Pokémon Ranger - Deoxys' Crisis! (Part 1)]]''.
+
+=====Other=====
+A Deoxys appeared in ''[[DP112|Cheers on Castaways Isle!]]'' in all of its Formes.
+
+A Deoxys appeared in [[PK21]], in which it saved [[Ash's Pikachu]], [[Dawn's Piplup]], and a {{pkmn2|wild}} {{p|Skitty}}.
+
+====Minor appearances====
+Two Deoxys made a cameo appearance in the opening sequence of ''[[M10|The Rise of Darkrai]]'', where they were soaring across the sky in their Normal Formes.
+
+A Deoxys had a cameo appearance in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+<gallery>
+Deoxys Attack Forme anime.png|Attack Forme Deoxys in the anime
+Deoxys Defense Forme anime.png|Defense Forme Deoxys in the anime
+Deoxys Speed Forme anime.png|Speed Forme Deoxys in the anime
+</gallery>
+
+===In Pokémon Generations===
+[[File:Deoxys Normal Forme PG.png|thumb|250px|Normal Forme Deoxys in [[Pokémon Generations]]]]
+Deoxys appeared in ''[[PG09|The Scoop]]'', in which it battled {{me|Rayquaza}} and was eventually {{pkmn2|caught}} by {{player|a Trainer}}.
+<gallery>
+Deoxys Attack Forme PG.png|Attack Forme Deoxys
+Deoxys Defense Forme PG.png|Defense Forme Deoxys
+Deoxys Speed Forme PG.png|Speed Forme Deoxys
+</gallery>
+
+==In the manga==
+[[File:Organism No 2 Normal Forme.png|thumb|200px|Deoxys in its Normal Forme in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Deoxys (Adventures)}}
+Two Deoxys play major roles in the events of the {{chap|FireRed & LeafGreen}}, referred to as ''Organism No.1'' and ''Organism No. 2''. ''Organism No.1'' returns in the {{chap|Omega Ruby & Alpha Sapphire}}. ''Organism No.1'' first appeared in ''[[PS270|Now You See Me...]]'' and ''Organism No.2'' first appeared in ''[[PS275|A Vicious Cycle of Possibilities]]''.
+
+<gallery>
+Organism No 2 Attack Forme.png|Deoxys in its Attack Forme in [[Pokémon Adventures]]
+Organism No 2 Defense Forme.png|Deoxys in its Defense Forme in [[Pokémon Adventures]]
+Organism No 2 Speed Forme.png|Deoxys in its Speed Forme in [[Pokémon Adventures]]
+</gallery>
+{{-}}
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+[[File:Deoxys DPA.png|thumb|200px|Deoxys in its Normal Forme in [[Pokémon Diamond and Pearl Adventure!]]]]
+Deoxys plays a large part in a [[DPAS1|special chapter]] of volume 3 in [[Pokémon Diamond and Pearl Adventure!]]. [[Hareta]] and [[Mitsumi]] come upon a large meteorite in [[Veilstone City]]. Mitsumi proceeds to tell him that there is a Pokémon that comes from a meteorite. He tells her that he's met Deoxys. She freaks out and doesn't believe him, so he tells the story of how he met Deoxys. Hareta is seen jumping around the forest until he starts riding a {{p|Drifloon}}. A {{p|Murkrow}} flies toward them and pecks the Drifloon, causing it to explode. Hareta is seen plummeting to the ground, and then bouncing off a {{p|Bibarel}}'s stomach. He lays down on the ground with the Bibarel as a pillow, when the Bibarel starts getting worried, because it sees the meteorite containing Deoxys zooming to the ground. The Bibarel tries to tell Hareta what's happening, and he looks up and wonders what it is. The Pokémon and Hareta try to get away as the meteorite crashes down. Deoxys emerges from the meteor, and Hareta thinks it might be a Pokémon. Meanwhile, [[Mars]] and some grunts see the crash, and begin to battle it, but to no avail.
+
+[[Professor Rowan]] shows up, a little worried that something might have happened to Hareta. He asks Rowan what happened to "that weird Pokémon". They then see Deoxys, and Rowan is shocked to see such a rare Pokémon. It transforms to Attack Forme and fires off a {{m|Psycho Boost}} at Hareta and Rowan. Rowan tells Hareta not to make it any angrier, but instead he jumps on top of Deoxys and asks what's wrong. It flings him off, then tries to fire another Psycho Boost at him, but he jumps around it, evading it completely. He jumps on it again, but it transforms to Speed Forme while he is still on it. It starts flying around the forest with Hareta, while he asks Deoxys what's wrong once more. It tells him what's wrong, but it throws him off itself. Then he battles Deoxys with his friends from the forest. {{p|Onix}} tries to {{m|Headbutt}} it, but it misses. It transforms to Defense Forme, and then Hareta jumps on Deoxys and covers its eyes. Then he tells a bunch of {{p|Kricketune}} to have a "super bug concert". Rowan compliments him on the super-effectiveness of the attack, then it transforms back to Normal Forme. It becomes calmer, but transforms to Attack Forme and fires off another Psycho Boost, this time hitting a {{p|Drifloon}}. It explodes, defeating Deoxys. Deoxys is totally calm now, and it merges its tentacles to create a hand, and it shakes hands with Hareta. Hareta finishes telling the story to Mitsumi, and tells her that it wanted to find out more about this planet.
+
+<gallery>
+Deoxys Attack Forme DPA.png|Deoxys in its Attack Forme in [[Pokémon Diamond and Pearl Adventure!]]
+Deoxys Defense Forme DPA.png|Deoxys in its Defense Forme in [[Pokémon Diamond and Pearl Adventure!]]
+Deoxys Speed Forme DPA.png|Deoxys in its Speed Forme in [[Pokémon Diamond and Pearl Adventure!]]
+</gallery>
+
+===In the Pokémon Pocket Monsters manga===
+[[File:Kazuki Deoxys PMDP.png|thumb|200px|Deoxys in its Normal Forme in [[Pokémon Pocket Monsters]]]]
+A Deoxys made it debut in ''[[PMRS32|A Visitor From Outer Space?!]]'' where it was first mentioned by {{PPM|Professor Oak}} while having {{PPM|Red}} obtain an orb that contains it. As Red got the orb, he competed with a guy and his {{p|Swampert}} in which Swampert's owner ended up swiping the orb for a {{p|Voltorb}}. Deoxys appeared in Clefairy's flashback in the same chapter where it was fighting the Swampert.
+
+{{OBP|Kazuki|Pocket Monsters DP}} owns a Deoxys in ''[[PMDP26|Learning a Special Move!!]]'' where it appeared in all of its Formes.
+
+<gallery>
+Kazuki Deoxys Attack Forme PMDP.png|Deoxys in its Attack Forme in [[Pokémon Pocket Monsters]]
+Kazuki Deoxys Defense Forme PMDP.png|Deoxys in its Defense Forme in [[Pokémon Pocket Monsters]]
+Kazuki Deoxys Speed Forme PMDP.png|Deoxys in its Speed Forme in [[Pokémon Pocket Monsters]]
+</gallery>
+{{-}}
+
+===In the W Mission Story: Pokémon Ranger - the Comic manga===
+[[File:Deoxys Normal PR.png|thumb|200px|Deoxys in its Normal Forme in [[W Mission Story: Pokémon Ranger - the Comic]]]]
+Deoxys is the target of a mission that [[Lunick]] and [[Solana]] are assigned as {{ra|Spenser}}, [[Joel]], and [[Elita]] were beaten by the Pokémon.
+
+<gallery>
+Deoxys Attack PR.png|Deoxys in its Attack Forme in [[W Mission Story: Pokémon Ranger - the Comic]]
+Deoxys Defense PR.png|Deoxys in its Defense Forme in [[W Mission Story: Pokémon Ranger - the Comic]]
+Deoxys Speed PR.png|Deoxys in its Speed Forme in [[W Mission Story: Pokémon Ranger - the Comic]]
+</gallery>
+{{-}}
+
+==In the TCG==
+{{main|Deoxys (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Brawl]]===
+[[File:Deoxys SSBB.png|220px|thumb|left|Deoxys in Super Smash Bros. Brawl]]
+An Attack Forme Deoxys will sometimes be released from a [[Poké Ball]]. It floats towards the top of the screen and does a spin. It will then shoot a powerful {{m|Hyper Beam}}, drawing in all the opponents near it and sending them flying. Coming in contact with Deoxys's body will do damage.
+
+====Trophy information====
+''A DNA Pokémon born through the mutation of the DNA of a space virus. It has multiple Formes, and the abilities it possesses and the techniques it can remember change from forme to forme. It has four forms: normal, attack, defense, and speed. It can be made to change forms by using the power of a meteorite in [[Veilstone City]].''
+
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+[[File:Deoxys SSB4.png|220px|thumb|Deoxys in Super Smash Bros. for 3DS]]
+Deoxys appears as a Poké Ball summon in the 3DS and Wii U versions of the game, unchanged from ''Brawl''.
+
+====Trophy information====
+'''NA:''' ''This Psychic-type Pokémon was born from a virus attached to a meteorite. It has four different Formes, but in Smash Bros. only the Attack Forme appears. In battle, it'll soar skyward before unleashing a powerful Hyper Beam attack straight downward from the crystal in its chest.''
+
+'''PAL:''' ''Deoxys was formed from a mutated virus that came to Earth on a meteorite. It comes in four different Formes, but in this game, it appears in Attack Forme. When summoned, it heads skywards before firing its Hyper Beam attack straight downwards from the crystal in its chest.''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Psychic}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys. The crystalline organ on this Pokémon's chest appears to be its brain.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Pokémon that mutated from an extraterrestrial virus exposed to a laser beam. Its body is configured for superior agility and speed.}}
+{{Dex/Entry1|v=FireRed|entry=This Deoxys has transformed into its aggressive guise. It can fool enemies by altering its appearance.}}
+{{Dex/Entry1|v=LeafGreen|entry=When it changes form, an aurora appears. It absorbs attacks by altering its cellular structure.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.}}
+{{Dex/Entry1|v=Y|entry=DNA from a space virus mutated and became a Pokémon. It appears where auroras are seen.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys. The crystalline organ on this Pokémon's chest appears to be its brain.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Emerald|area=[[Birth Island]] <small>(requires [[AuroraTicket]])</small> ([[List of in-game event Pokémon in Generation III#Deoxys|only one]])}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Birth Island]] <small>(requires [[AuroraTicket]])</small> ([[List of in-game event Pokémon in Generation III#Deoxys|only one]])}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl|area=[[Pal Park]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Platinum|area=[[Pal Park]]}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=[[Pal Park]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]], {{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]], {{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Sky Pillar|Edge of space]] <small>(immediately after capturing {{p|Rayquaza}} and battling [[Zinnia]] at [[Sky Pillar]] in the [[Delta Episode]])</small><br>[[Sky Pillar]] <small>(if not caught previously, respawns here the next time the player enters the [[Hall of Fame]])</small> ([[List of in-game event Pokémon in Generation VI#Deoxys|only one]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Random Agent Cards, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Meteor Cave]] (20F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Krokka Tunnel]] <small>(Special Mission 1)</small>}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Shimmer Hill]] ({{tt|17F|with Mystery Part or Secret Slab in the bag}})}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Shimmer Hill]] ({{tt|17F|with Mystery Part or Secret Slab in the bag}})}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Flower Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Odd Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: All ([[Pokémon Rumble Blast#Legendary Boss Pokémon|Random Legendary Encounter]])}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Melodious Woodland#A Lively Concert|Melodious Woodland: A Lively Concert]] <small>(Reward)</small>,<br>[[Chill Battle#Unidentified Flying Objects|Chill Battle: Unidentified Flying Objects]] <small>(Attack, Defense, and Speed Formes)</small>,<br>[[Challenge Battle#The Final Battle Royale|Challenge Battle: The Final Battle Royale]], NFC Figurine}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 6|Pitch-Black Cavern: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 260]] <small>(Normal Forme)</small><br>[[Zaffiro Coast|Zaffiro Coast: Stage 640]] <small>(Defense Forme)</small><br>[[Expert Stages|Expert Stage: Stage EX52]] <small>(Speed Forme)</small><br>Event: ''{{DL|Special Stages|Ultra Challenge|Deoxys Appears}}'' <small>(Attack Forme)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Meteorite Parkland|Legend Terrain: Meteorite Parkland]] <small>(Special Boss)</small>}}
+{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=[[Meteorite Crater]]}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 16|Area 16: Stage 11]] (As a {{DL|Pokémon Picross|Mythical Pokémon}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Psychic}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Space Center Deoxys|English|United States|70|March 10 to May 14, 2006|link=List of English event Pokémon distributions in Generation III#Space Center Deoxys}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Doel Deoxys|English|the Netherlands|70|May 25 to 28, 2006|link=List of English event Pokémon distributions in Generation III#Doel Deoxys}}
+{{eventAvail|{{gameabbrev4|DP}}|10th Movie Deoxys|Japanese|Japan|50|June 23 to September 2, 2007|link=List of local Japanese event Pokémon distributions in Generation IV#10th Movie Deoxys}}
+{{eventAvail|{{gameabbrev4|DP}}|GameStop Deoxys|English|United States|50|June 20 to July 13, 2008|link=List of local English event Pokémon distributions in Generation IV#GameStop Deoxys}}
+{{eventAvail|{{gameabbrev4|DP}}|Nintendo of Korea Deoxys|Korean|South Korea|50|August 30 to 31, 2008|link=List of local Korean event Pokémon distributions in Generation IV#Nintendo of Korea Deoxys}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Masuda Deoxys|Japanese|Japan|100|December 15 to 23, 2012|link=List of local Japanese event Pokémon distributions in Generation V#First distribution}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Masuda Deoxys|Japanese|Japan|100|March 20 to May 6, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Second distribution}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Team Plasma Deoxys|Korean|South Korea|100|May 4 to 5, 2013|link=List of local Korean event Pokémon distributions in Generation V#Team Plasma Deoxys}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Plasma Deoxys|English|Wi-Fi|100|May 8 to 31, 2013|link=List of Wi-Fi English event Pokémon distributions in Generation V#Plasma Deoxys}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Plasma Deoxys|French|Wi-Fi|100|July 1 to 22, 2013|link=List of Wi-Fi French event Pokémon distributions in Generation V#Plasma Deoxys}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Plasma Deoxys|German|Wi-Fi|100|July 1 to 22, 2013|link=List of Wi-Fi German event Pokémon distributions in Generation V#Plasma Deoxys}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Plasma Deoxys|Italian|Wi-Fi|100|July 1 to 22, 2013|link=List of Wi-Fi Italian event Pokémon distributions in Generation V#Plasma Deoxys}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Plasma Deoxys|Spanish|Wi-Fi|100|July 1 to 22, 2013|link=List of Wi-Fi Spanish event Pokémon distributions in Generation V#Plasma Deoxys}}
+|}
+
+=====In-game events=====
+{{eventAvail/h|type=Psychic|lochide=yes|expand=yes}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Normal Forme Deoxys|Japanese|hide|50|March 6, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#Japanese Oblivia Deoxys Normal Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Attack Forme Deoxys|Japanese|hide|50|March 6, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#Japanese Oblivia Deoxys Attack Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Defense Forme Deoxys|Japanese|hide|50|March 6, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#Japanese Oblivia Deoxys Defense Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Speed Forme Deoxys|Japanese|hide|50|March 6, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#Japanese Oblivia Deoxys Speed Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Normal Forme Deoxys|English|hide|50|October 4, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Normal Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Attack Forme Deoxys|English|hide|50|October 4, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Attack Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Defense Forme Deoxys|English|hide|50|October 4, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Defense Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Speed Forme Deoxys|English|hide|50|October 4, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Speed Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Normal Forme Deoxys|French|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Normal Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Attack Forme Deoxys|French|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Attack Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Defense Forme Deoxys|French|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Defense Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Speed Forme Deoxys|French|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Speed Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Normal Forme Deoxys|German|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Normal Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Attack Forme Deoxys|German|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Attack Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Defense Forme Deoxys|German|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Defense Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Speed Forme Deoxys|German|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Speed Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Normal Forme Deoxys|Italian|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Normal Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Attack Forme Deoxys|Italian|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Attack Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Defense Forme Deoxys|Italian|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Defense Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Speed Forme Deoxys|Italian|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Speed Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Normal Forme Deoxys|Spanish|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Normal Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Attack Forme Deoxys|Spanish|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Attack Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Defense Forme Deoxys|Spanish|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Defense Forme}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Oblivia Speed Forme Deoxys|Spanish|hide|50|November 5, 2010 onwards|link=List of game-based Pokémon distributions in Generation IV#International Oblivia Deoxys Speed Forme}}
+|}
+
+===Held items===
+{{HeldItems|type=Psychic
+|event1=NeverMeltIce|event1type=None|event1rar=100
+|event3=Petaya Berry|event3type=Berry|event3rar=50
+|event4=Ganlon Berry|event4type=Berry|event4rar=50
+|event5=Life Orb|event5type=None|event5rar=100
+}}
+
+===Stats===
+====Base stats====
+=====Normal Forme=====
+{{BaseStats
+|type=Psychic
+|HP=     50
+|Attack=150
+|Defense=50
+|SpAtk= 150
+|SpDef=  50
+|Speed= 150}}
+
+=====Attack Forme=====
+{{BaseStats
+|type=Psychic
+|HP=     50
+|Attack=180
+|Defense=20
+|SpAtk= 180
+|SpDef=  20
+|Speed= 150}}
+
+=====Defense Forme=====
+{{BaseStats
+|type=Psychic
+|HP=      50
+|Attack=  70
+|Defense=160
+|SpAtk=   70
+|SpDef=  160
+|Speed=   90}}
+
+=====Speed Forme=====
+{{BaseStats
+|type=Psychic
+|HP=     50
+|Attack= 95
+|Defense=90
+|SpAtk=  95
+|SpDef=  90
+|Speed= 180}}
+
+====Pokéathlon stats====
+=====Normal Forme=====
+{{Pokéthlon
+|type=Psychic
+|Speed=4
+|SpeedMax=4
+|Power=4
+|PowerMax=4
+|Technique=4
+|TechniqueMax=4
+|Stamina=4
+|StaminaMax=4
+|Jump=3
+|JumpMax=4
+}}
+
+=====Attack Forme=====
+{{Pokéthlon
+|type=Psychic
+|Speed=4
+|SpeedMax=5
+|Power=5
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=3
+|JumpMax=4
+}}
+
+=====Defense Forme=====
+{{Pokéthlon
+|type=Psychic
+|Speed=3
+|SpeedMax=3
+|Power=3
+|PowerMax=4
+|Technique=4
+|TechniqueMax=5
+|Stamina=5
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+=====Speed Forme=====
+{{Pokéthlon
+|type=Psychic
+|Speed=5
+|SpeedMax=5
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=4
+|Jump=4
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|Normal=  100
+|Fighting= 50
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     200
+|Ghost=   200
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic=  50
+|Ice=     100
+|Dragon=  100
+|Dark=    200
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Normal Forme=====
+{{learnlist/levelh/7|Deoxys|Psychic|Psychic|3}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level7|7|Night Shade|Ghost|Special|&mdash;|100|15}}
+{{learnlist/level7|13|Teleport|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|19|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/level7|25|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|31|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|37|Snatch|Dark|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|43|Psycho Shift|Psychic|Status|&mdash;|100|10}}
+{{learnlist/level7|49|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/level7|55|Cosmic Power|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|61|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|67|Psycho Boost|Psychic|Special|140|90|5||'''}}
+{{learnlist/level7|73|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/levelf/7|Deoxys|Psychic|Psychic|3}}
+
+=====Attack Forme=====
+{{learnlist/levelh/7|Deoxys|Psychic|Psychic|3}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level7|7|Night Shade|Ghost|Special|&mdash;|100|15}}
+{{learnlist/level7|13|Teleport|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|19|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|25|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|31|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|37|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/level7|43|Psycho Shift|Psychic|Status|&mdash;|100|10}}
+{{learnlist/level7|49|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/level7|55|Cosmic Power|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|61|Zap Cannon|Electric|Special|120|50|5}}
+{{learnlist/level7|67|Psycho Boost|Psychic|Special|140|90|5||'''}}
+{{learnlist/level7|73|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/levelf/7|Deoxys|Psychic|Psychic|3}}
+
+=====Defense Forme=====
+{{learnlist/levelh/7|Deoxys|Psychic|Psychic|3}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level7|7|Night Shade|Ghost|Special|&mdash;|100|15}}
+{{learnlist/level7|13|Teleport|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|19|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/level7|25|Spikes|Ground|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|31|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|37|Snatch|Dark|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|43|Psycho Shift|Psychic|Status|&mdash;|100|10}}
+{{learnlist/level7|49|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/level7|55|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|55|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|61|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|67|Psycho Boost|Psychic|Special|140|90|5||'''}}
+{{learnlist/level7|73|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/level7|73|Mirror Coat|Psychic|Special|&mdash;|100|20}}
+{{learnlist/levelf/7|Deoxys|Psychic|Psychic|3}}
+
+=====Speed Forme=====
+{{learnlist/levelh/7|Deoxys|Psychic|Psychic|3}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level7|7|Night Shade|Ghost|Special|&mdash;|100|15}}
+{{learnlist/level7|13|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|19|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/level7|25|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|31|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|37|Swift|Normal|Special|60|&mdash;|20}}
+{{learnlist/level7|43|Psycho Shift|Psychic|Status|&mdash;|100|10}}
+{{learnlist/level7|49|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/level7|55|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|61|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|67|Psycho Boost|Psychic|Special|140|90|5||'''}}
+{{learnlist/level7|73|Extreme Speed|Normal|Physical|80|100|5}}
+{{learnlist/levelf/7|Deoxys|Psychic|Psychic|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Deoxys|Psychic|Psychic|3}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Deoxys|Psychic|Psychic|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Deoxys|Psychic|Psychic|3}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Deoxys|Psychic|Psychic|3}}
+
+====By [[Move Tutor|tutoring]]====
+=====Normal Forme=====
+{{learnlist/tutorh/7|Deoxys|Psychic|Psychic|3}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Deoxys|Psychic|Psychic|3}}
+
+=====Attack Forme=====
+{{learnlist/tutorh/7|Deoxys|Psychic|Psychic|3}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Deoxys|Psychic|Psychic|3}}
+
+=====Defense Forme=====
+{{learnlist/tutorh/7|Deoxys|Psychic|Psychic|3}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Deoxys|Psychic|Psychic|3}}
+
+=====Speed Forme=====
+{{learnlist/tutorh/7|Deoxys|Psychic|Psychic|3}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Deoxys|Psychic|Psychic|3}}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/Trozei|col=6|type=Psychic|ndex=386|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Psychic|ndex=386
+|body=1
+|rate=-10
+|area=Enclosed Island
+|P1=<ab><small>Normal Forme:</small> This world is but tiny in the vastness of space...
+<small>Attack Forme:</small> Let me demonstrate my cosmic-level attack power!
+<small>Defense Forme:</small> Let me demonstrate my cosmic-level defense power!
+<small>Speed Forme:</small> Let me demonstrate my cosmic-level speed!</ab>
+|P2=This isn't good... Only half my health remains...
+|P3=<ab><small>Normal Forme:</small> I can't keep going this way... Must I flee back to space?
+<small>Attack Forme:</small> I can't keep going this way... Was my attack power insufficient?
+<small>Defense Forme:</small> I can't keep going this way... Was my defensive power insufficient?
+<small>Speed Forme:</small> I can't keep going this way... Was my speed insufficient?</ab>
+|PL=<ab><small>Normal Forme:</small> I leveled up! Auroras and crystals fill me with power!
+<small>Attack Forme:</small> I leveled up! Witness the true power of the Attack Form!
+<small>Defense Forme:</small> I leveled up! Witness the true power of the Defense Form!
+<small>Speed Forme:</small> I leveled up! Witness the true power of the Speed Form!</ab>
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Psychic|ndex=386
+|body=1
+|rate=-10
+|IQ=F
+}}
+|-
+{{Spindata/Ranger|col=6|type=Psychic
+|group=Psychic
+|assist=Psychic
+|fieldpower=0
+|field=None
+|loop=<br>13 (Attack Forme)<br>17 (Defense Forme)<br>3 (Speed Forme)<br>9 (Normal Forme)
+|MinEXP=470
+|MaxEXP=570
+|browser=Deoxys has the ability to transform four ways. Little is known about it, however.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Psychic
+|group=Psychic
+|present=NA
+|assistp=Psychic
+|fieldp=Psy Power
+|browser=It launches a beam of energy at Pokémon.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Psychic|ndex=386
+|att=5|def=2|speed=5
+|att2=5|def2=1|speed2=5
+|att3=2|def3=5|speed3=3
+|att4=4|def4=4|speed4=5
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Psychic|ndex=386
+|Pad=Deoxys made his way to the PokéPark chasing after a shining Prism Piece. He's a dazzling performer at {{DL|Attractions|Rayquaza's Balloon Panic}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Psychic|ndex=386
+|power=4
+|skill=Flinch Attack
+|skilldesc=Briefly stops wild Pokémon from taking action.
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=386|num=355
+|min=80
+|max=115
+|raisemaxlevel=5
+|skill=Swap+
+|skilldesc=Sometimes replaces three disruptions with this Pokémon.
+|swapper=Shot Out
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=386A|num=355
+|min=80
+|max=115
+|raisemaxlevel=5
+|skill=Psychic Combo
+|skilldesc=Increases damage done by any Psychic types in the combo.
+|swapper=Typeless Combo
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=386D|num=355
+|min=80
+|max=135
+|raisemaxlevel=15
+|skill=Counterattack+
+|skilldesc=Deals even more damage the more disruptions there are.
+|swapper=Barrier Shot
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=386S|num=355
+|min=80
+|max=115
+|raisemaxlevel=5
+|skill=Three Force
+|skilldesc=Increases damage when you make a match of three.
+|swapper=Lightning
+}}
+|-
+{{Spindata/GO|col=6|type=Psychic|ndex=386
+|hatch=N/A
+|evolution=N/A
+|stamina=100
+|attack=345
+|defense=115
+|fast={{m|Zen Headbutt}}, {{m|Counter}}
+|special={{m|Psycho Boost}}, {{m|Zap Cannon}}, {{m|Swift}}
+}}
+|}
+
+===Evolution===
+{{Evobox/Formes
+|sprite1=386Deoxys
+|name1=Deoxys
+|type1-1=Psychic
+|forme1=Normal Forme
+|sprite2=386Deoxys-Attack
+|forme2=Attack Forme
+|sprite3=386Deoxys-Defense
+|forme3=Defense Forme
+|sprite4=386Deoxys-Speed
+|forme4=Speed Forme}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3/Deoxys}}
+{{Spritebox/4/4Forms|ndex=386|form1=A|form2=D|form3=S}}
+{{Spritebox/5/4Forms|ndex=386|form1=A|form2=D|form3=S}}
+{{Spritebox/6/4Forms|ndex=386|form1=A|form2=D|form3=S}}
+{{Spritebox/7/4Forms|ndex=386|form1=A|form2=D|form3=S}}
+{{Spritebox/Footer|386|Deoxys}}
+
+====Normal Forme sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color}}"
+| style="{{roundy|80px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:160px"| [[File:Spr 3e 386.png]]<br>[[File:Spr 3e 386 s.png]]
+| style="{{roundy|80px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:160px"| [[File:Spr b 3e 386.png]]<br>[[File:Spr b 3e 386 s.png]]
+|-
+| Emerald
+| Emerald back
+|}
+
+==Trivia==
+* Speed Forme Deoxys has the highest base {{stat|Speed}} stat of all Pokémon.
+* Defense Forme Deoxys has the highest base {{stat|Defense}} and {{stat|Special Defense}} stats of all {{type|Psychic}} Pokémon.
+* Attack Forme Deoxys has the lowest base {{stat|Special Defense}} stat of all Pokémon, on par with {{p|Magikarp}}, {{p|Carvanha}}, {{p|Igglybuff}}, {{p|Caterpie}} and {{p|Weedle}}.
+** Its Attack Forme has both of the lowest individual base stats of any Mythical Pokémon, those two being Defense and Special Defense, each with a base stat of 20.
+** Its Attack Forme also has the lowest base Special Defense stat of all Psychic-type Pokémon.
+* Tied with {{p|Diancie}}, Deoxys has the lowest base {{stat|HP}} of all Mythical Pokémon, with 50 base HP in all four forms.
+* Deoxys is the only Pokémon whose Forme change is triggered by different events between generations.
+* When recruited in [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]] Deoxys will be in its Normal Forme when playing in the overworld; however, when exploring a dungeon, Deoxys's Forme will be randomly selected each time the player progresses to a new floor.
+** Deoxys is also one of two Pokémon that has defenses over 100 at Level 100 if not given any vitamins or [[Gummi]]s, the other being {{p|Lugia}}.
+* In {{ga|Pokémon Ranger}}, Deoxys's Forme changes every time its [[List of Pokémon by Fiore Browser number|Browser]] entry is accessed. It cycles in order from Normal Forme to Attack Forme to Defense Forme to Speed Forme and finally back to Normal Forme.
+* In the {{pkmn|anime}} and in Pokémon Ranger, Deoxys is able to change to any of its forms at will regardless of where it is. While it can willingly change in the [[Pokémon Adventures]] manga, its choices are limited by the environment.
+* Due to the cause of Forme change in Generation III being the game Deoxys is in, ''only'' Speed Forme Deoxys is banned from the {{gdis|Battle Frontier|III}}, as only Speed Forme Deoxys is obtainable in Emerald.
+* In the games, the [[Sevii Islands]] and [[Orre]]{{tt|*|excluding multiplayer modes in XD}} are the only regions where all four Formes have not been available.
+* Deoxys was the first Pokémon to have its own unique battle music.
+* Using the first letter from the names of three of Deoxys's Formes, one can spell "DNA" ('''D'''efense, '''N'''ormal, '''A'''ttack). The letter "s" at the ending of Deoxys's name could stand for '''S'''peed.
+* Before Generation V, Deoxys was the only Pokémon whose stats were recalculated (to apply gained [[effort values|effort points]] to its stats) immediately after a battle. Other Pokémon had to level up, use the [[box trick]], or be fed a [[vitamin]] or [[effort values#Generation III|stat-reducing Berry]] in order to have the effort values applied to their stats.
+* When in the wild, or while looking at a Deoxys belonging to another player (e.g. while trading), it will appear in its Normal Forme in Generation III.
+* Deoxys was designed by [[Hironobu Yoshida]].<ref>[https://web.archive.org/web/20100111034554/http://www.go-pokemon.com/op/news/articles/16.html Pokémon Creators, Artists at the World Championships - Go-Pokemon.com] (archive)</ref>
+* Contrary to its classification in Pokémon Omega Ruby and Alpha Sapphire, [http://www.pokemoncenter.com/info/Pokemon_Characters PokémonCenter.com] calls Deoxys a Legendary Pokémon rather than a Mythical Pokémon.
+
+===Origin===
+Deoxys appears to draw inspiration from certain representations of aliens and visual representations of the DNA double helix. It may also be more loosely based on viruses and mutation.
+
+====Name origin====
+Deoxys is an abbreviation of ''{{wp|DNA|deoxyribonucleic acid}}''—or ''DNA''—the medium of genetic code in many cellular organisms.
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Psychic
+|ja=デオキシス ''Deoxys''|jameaning=From an abbreviation of ''deoxyribonucleic acid'' or ''DNA'', the medium of genetic code in many cellular organisms.
+|de=Deoxys|demeaning=Same as Japanese name
+|fr=Deoxys|frmeaning=Same as Japanese name
+|es=Deoxys|esmeaning=Same as Japanese name
+|it=Deoxys|itmeaning=Same as Japanese name
+|ko=테오키스 ''Teoxys''|komeaning=Transliteration of its Japanese name
+|zh_cmn=代歐奇希斯 ''Dài Ōu Qí Xī Sī''|zh_cmnmeaning=Transliteration of its Japanese name.
+|cs=Deoxis|csmeaning=From English name
+|el=Ντεοξις ''Deoxis''|elmeaning=Transcription of English name
+|hi=Deoxy|himeaning=From English name
+|hu=Dioxis|humeaning=From English name
+|ru=Деоксис ''Deoksis''|rumeaning=Transcription of English name
+|sr=Deoksis|srmeaning=From English name
+|vi=Deoxys|vimeaning=Transliteration of its Japanese name
+}}
+{{left clear}}
+{| style="float:left"
+| style="vertical-align:top" |
+''Normal Forme''
+{{langtable
+|color={{psychic color}}|bordercolor={{psychic color dark}}
+|ja=ノーマルフォルム ''Normal Forme''
+|zh_cmn=一般型態{{tt|*|Taiwan}} ''{{tt|Yībān Xíngtài|Normal Forme}}''<br>全方位形态{{tt|*|Mainland China}} ''{{tt|Quánfāngwèi Xíngtài|Comprehensive Forme}}''
+|fi=Normaalimuoto
+|fr=Forme Normale
+|de=Normalform
+|it=Forma Normale
+|ko=노말폼 ''Normal Forme''
+|es=Forma Normal
+|vi=Dạng thường}}
+| style="vertical-align:top" |
+''Attack Forme''
+{{langtable
+|color={{psychic color}}|bordercolor={{firered color dark}}
+|ja=アタックフォルム ''Attack Forme''
+|zh_cmn=攻擊型態 ''{{tt|Gōngjí Xíngtài|Attack Forme}}
+|fi=Hyökkäysmuoto
+|fr=Forme Attaque
+|de=Angriffsform
+|it=Forma Attacco
+|ko=어택폼 ''Attack Forme''
+|es=Forma Ataque
+|vi=Dạng tấn công}}
+|-
+| style="vertical-align:top" |
+''Defense Forme''
+{{langtable
+|color={{psychic color}}|bordercolor={{leafgreen color dark}}
+|ja=ディフェンスフォルム ''Defense Forme''
+|zh_cmn=防禦型態 ''{{tt|Fángyù Xíngtài|Defense Forme}}
+|fi=Puolustusmuoto
+|fr=Forme Défense
+|de=Verteidigungsform
+|it=Forma Difesa
+|ko=디펜스폼 ''Defense Forme''
+|es=Forma Defensa
+|vi=Dạng phòng thủ}}
+| style="vertical-align:top" |
+''Speed Forme''
+{{langtable
+|color={{psychic color}}|bordercolor={{emerald color dark}}
+|ja=スピードフォルム ''Speed Forme''
+|zh_cmn=速度型態 ''{{tt|Sùdù Xíngtài|Speed Forme}}
+|fi=Vauhtimuoto
+|fr=Forme Vitesse
+|de=Initiativeform
+|it=Forma Velocità
+|ko=스피드폼 ''Speed Forme''
+|es=Forma Velocidad
+|vi=Dạng tốc độ}}
+|}{{-}}
+
+==Related articles==
+* [[Deoxys (M07)]]
+* [[Recurring wild Pokémon in the anime#Deoxys|Deoxys (anime)]]
+* [[Deoxys (Adventures)]]
+
+==Notes==
+<references/>
+
+==External links==
+* {{wp|Deoxys|Article on Wikipedia}}
+
+{{-}}
+{{Legendary Pokémon}}<br>
+{{Smash Bros.}}<br>
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=385|prev=Jirachi|nextnum=387|next=Turtwig}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Mythical Pokémon]]
+[[Category:Pokémon that appeared in the anime before their game debut]]<!--Attack and Defense formes-->
+
+[[de:Deoxys]]
+[[fr:Deoxys]]
+[[it:Deoxys]]
+[[ja:デオキシス]]
+[[pl:Deoxys]]
+[[zh:代欧奇希斯]]

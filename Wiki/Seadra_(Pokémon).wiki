@@ -1,0 +1,568 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Seadra}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=116|prev=Horsea|nextnum=118|next=Goldeen|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Seadra
+|jname=シードラ
+|jtranslit=Shīdora
+|tmname=Seadra
+|ndex=117
+|oldjdex=187
+|jdex=191
+|hdex=185
+|hdex6=194
+|karea=Coastal
+|kdex=040
+|fbrow=108
+|abrow=230
+|obrow=069
+|typebox=1
+|type1=Water
+|category=Dragon
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=55.1
+|weight-kg=25.0
+|abilityn=d
+|ability1=Poison Point
+|ability2=Sniper
+|abilityd=Damp
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Dragon
+|eggcycles=20
+|evtotal=2
+|evde=1
+|evsa=1
+|expyield=154
+|oldexp=155
+|lv100exp=1,000,000
+|gendercode=127
+|color=Blue
+|catchrate=75
+|body=05
+|pokefordex=seadra
+|generation=1
+|friendship=70
+}}
+'''Seadra''' ([[List of Japanese Pokémon names|Japanese]]: '''シードラ''' ''Seadra'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Horsea}} starting at [[level]] 32 and evolves into {{p|Kingdra}} when [[trade]]d holding a [[Dragon Scale]].
+
+==Biology==
+Seadra is a blue, {{wp|seahorse}}-like Pokémon. It has a long snout and a two fin-like ridges curving over either side of its head. Its belly is covered with rough, cream-colored scales. Seadra's lower pectoral fins have sharp, pointed, cream-colored tips that exude venom. It also has a large, coiled tail.
+
+Seadra can swim in any direction while facing forward by rapidly flapping its fins and tail. It catches its prey by spinning its body to create large whirlpools. When its prey is exhausted, Seadra swallows it whole using its long snout. Seadra's venom is toxic enough to induce fainting in humans, but is prized among practitioners of traditional medicine.
+
+Seadra makes its nest by either wriggling between or anchoring itself to branches of coral under the {{DL|List of Pokémon by habitat|Sea Pokémon|ocean}}. After a female Seadra gives birth, the male Seadra will take care of the young. It is markedly vicious, and will mercilessly attack those who venture near its nest.
+
+==In the anime==
+===In the main series===
+[[File:Mandi Seadra.png|thumb|left|210px|Seadra in the {{pkmn|anime}}]]
+====Major appearances====
+Seadra debuted in ''[[M01|Mewtwo Strikes Back]]'', under the ownership of [[Fergus]]. It was one of the Pokémon that were captured and cloned by {{OBP|Mewtwo|original series}}. The Seadra clone reappeared in ''[[Mewtwo Returns]]''.
+
+Seadra made its main series debut in ''[[EP075|Round One - Begin!]]'', under the ownership of [[Mandi]], who was faceing{{Ash}} in his first battle in the [[Indigo Plateau Conference]]. Seadra battled {{AP|Kingler}}, but it was defeated. It reappeared in a flashback in [[EP076|the following episode]].
+
+[[Cissy]] used a Seadra while Ash was participating in her target test in ''[[EP085|Fit to be Tide]]''. It competed against {{AP|Squirtle}} but the match was declared a tie. It reappeared in a flashback in ''[[EP098|A Way Off Day Off]]''.
+
+====Minor appearances====
+A Seadra appeared in ''[[M02|The Power of One]]''.
+
+A Trainer used a Seadra in ''[[EP168|Hook, Line, and Stinker]]'' to aid him in the annual {{p|Seaking}} [[Seaking Catching Day|Catching Competition]].
+
+Three Seadra appeared in ''[[EP206|The Joy of Water Pokémon]]''. Two were living in [[Lake Lucid]], while the other one was receiving special treatment in a salt bath tank in the [[Pokémon Center]] near the lake.
+
+A Seadra was seen in a [[Pokémon Center]] in ''[[The Legend of Thunder!]]''.
+
+A Seadra was used by a competitor in the [[Tour de Alto Mare]] in ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+[[Juan]] owns a Seadra, which appeared in ''[[AG110|The Great Eight Fate!]]'' and ''[[AG111|Eight Ain't Enough]]''.
+
+Multiple Seadra appeared in ''[[XY001|Kalos, Where Dreams and Adventures begin!]]''.
+
+A Seadra appeared in ''[[M20|I Choose You!]]''.
+
+Two Seadra appeared in ''[[SM042|Alola, Kanto!]]'', with one appearing during a fantasy.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP075|Seadra|Ash's Pokédex|Seadra, a Dragon Pokémon. The evolved form of {{p|Horsea}}. Seadra has a violent temperament, and the quills that cover its body can render its victim unconscious.}}
+|}
+{| width="100%" style="background: #{{colorschemedark|Kanto}}"
+|-
+| width="100%" style="text-align:right; background: #{{colorschemelight|Kanto}}; {{roundybottom|10px}}" | <small>''' Original series entries continue below.'''</small>
+|}
+|}
+{{Animedexheader|Orange}}
+{{Animedexbody|EP085|Seadra|Ash's Pokédex|Seadra, the Dragon Pokémon. It is known for its powerful disposition, but possesses both strength and speed.}}
+{{Animedexfooter/Pokémon|original|Orange}}
+
+===In Pokémon Origins===
+[[File:Swimmer m PO.png|thumb|220px|Seadra in [[Pokémon Origins]]]]
+A Seadra appeared in ''[[PO03|File 3: Giovanni]]'' under the control of a {{tc|Swimmer}}.
+{{right clear}}
+
+==In the manga==
+[[File:Ryu Seadra.png|thumb|175px|Seadra in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PS043|Sea Sea Seadra]]'', A Seadra first appeared attacking [[Bill]] as he made his way through [[Viridian Forest]]. He managed to suck him into a {{m|Whirlpool}}, but he was caught by {{adv|Yellow}} with the help of [[Pika]]. She released him after she healed him.
+
+{{adv|Silver}} had a Seadra as a part of his team which she evolved from Horsea sometime after ''[[PS090|The Legend]]'' where she was given back to him by {{adv|Green}}, although she was not shown at the time. During the events ''[[PS109|Ampharos Amore]]'', Silver secretly sends Seadra to {{adv|Gold}} via trade for his [[Polibo|Poliwhirl]], triggering Seadra's evolution into {{p|Kingdra}}, upon which she was finally shown attacking {{DL|Gold (Adventures)|Sudobo}} in a battle between the two trainers during ''[[PS111|Tyranitar War]]''.
+
+In ''[[PS123|Debonaire Dragonair]]'', one of [[Clair]]'s disciples, named [[Ryu]], used a Seadra in a training battle against Clair. It was defeated by [[Clair's Dragonair]].
+
+==In the TCG==
+{{main|Seadra (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=water}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail.}}
+{{Dex/Entry1|v=Yellow|entry=Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=A clever Pokémon that can swim backwards while facing forward. Fainting may result from a jab of its sharp spikes.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=An examination of its cells revealed the presence of a gene not found in {{p|Horsea}}. It became a hot topic.}}
+{{Dex/Entry1|v=Silver|entry=Its fin tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine.}}
+{{Dex/Entry1|v=Crystal|entry=The male raises the young. If it is approached, it uses its toxic spikes to fend off the intruder.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=An examination of its cell revealed the presence of a gene not found in Horsea. It became a hot topic.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's poison barbs if they fail to notice it.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Seadra generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This Pokémon weakens prey with these currents, then swallows it whole.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.}}
+{{Dex/Entry1|v=FireRed|entry=Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.}}
+{{Dex/Entry1|v=LeafGreen|entry=It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.}}
+{{Dex/Entry1|v=HeartGold|entry=An examination of its cell revealed the presence of a gene not found in Horsea. It became a hot topic.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its fin tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.}}
+{{Dex/Entry1|v=Y|entry=It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon's poison barbs if they fail to notice it.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Seadra generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This Pokémon weakens prey with these currents, then swallows it whole.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Red|area=[[Seafoam Islands]]<br>{{rt|23|Kanto}} and [[Cerulean Cave]] ([[Fishing#In the games|Super Rod]])}}
+{{Availability/Entry1|1|v=Blue|t=fff|area={{rt|23|Kanto}} and [[Cerulean Cave]] ([[Fishing#In the games|Super Rod]])}}
+{{Availability/Entry1|1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{rt|23|Kanto}} and [[Cerulean Cave]] ([[Fishing#In the games|Super Rod]])}}
+{{Availability/Entry1|1|v=Yellow|area=[[Route]]s {{rtn|12|Kanto}} and {{rtn|13|Kanto}} ([[Fishing#In the games|Super Rod]])}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Whirl Islands]] (walking{{tt|*|inner cave in B2F}} and {{m|surf}}ing)}}
+{{Availability/Entry1|v=Crystal|area=[[Whirl Islands]] (walking{{tt|*|inner cave in B2F}} and {{m|surf}}ing)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Horsea}}}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[Evolution|Evolve]] {{p|Horsea}}}}
+{{Availability/Entry1|v=FireRed|area=[[Route]]s {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, and {{rtn|21|Kanto}}, [[Kindle Road]], [[Treasure Beach]], [[Bond Bridge]], [[Resort Gorgeous]], [[Water Labyrinth]], [[Five Isle Meadow]], [[Memorial Pillar]], [[Green Path]], [[Water Path]], [[Outcast Island]], [[Trainer Tower]], [[Tanoby Ruins]], [[Cinnabar Island]], {{OBP|One Island|town}}, {{OBP|Five Island|town}}, [[Icefall Cave]] ([[Super Rod]])}}
+{{Availability/Entry1|v=LeafGreen|area=[[Evolution|Evolve]] {{p|Horsea}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|226|Sinnoh}} ([[Super Rod]])}}
+{{Availability/Entry1|v=Platinum|area={{rt|226|Sinnoh}} ([[Super Rod]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Whirl Islands]], [[Seafoam Islands]] ([[Super Rod]])}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Route]]s {{rtn|17|Unova}} and {{rtn|18|Unova}}, [[P2 Laboratory]] ([[Fishing]] in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Route]]s {{rtn|17|Unova}} and {{rtn|18|Unova}}, [[P2 Laboratory]] ([[Fishing]] in {{DL|Phenomenon|rippling water}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Ambrette Town]], [[Cyllage City]] ([[Super Rod]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}} ([[Fishing#In the games|Super Rod]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Horsea}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Horsea}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Horsea}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Horsea}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 8, Endless Level 25, Forever Level 57, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Stormy Sea]] (30F-39F), [[Silver Trench]] (30F-39F), [[Grand Sea]] (30F-39F), [[Fantasy Strait]] (B30)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Safra Sea]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Surrounded Sea]] (B1-B20), [[Miracle Sea]] (B1-B18, Deep Miracle Sea B1-B4), [[Bottomless Sea]] (B1-B49)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Surrounded Sea]] (B1-B20), [[Miracle Sea]] (B1-B18, Deep Miracle Sea B1-B4), [[Bottomless Sea]] (B1-B49)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Sea of Wailord]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]] <small>(Normal Mode B & S)</small>}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Canal Ruins]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Challenger's Ground]], [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Spike Ball Alert!|Vehicle Gallery: Spike Ball Alert!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 2|Dragon Hill: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 379]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Windy Sea|Silver Isles: Windy Sea]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=water}}
+{{eventAvail|{{gameabbrev3|RS}}|Dragon Week Seadra|English|United States|45|September 29 to October 3, 2003|link=List of PCNY event Pokémon distributions in Generation III#Seadra}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Water
+|rby1=Gold Leaf|rby1type=None|rby1rar=100|rby1image=no
+|gsc1=Dragon Scale|gsc1type=None|gsc1rar=8
+|dppt1=Dragon Scale|dppt1type=None|dppt1rar=5
+|hgss1=Dragon Scale|hgss1type=None|hgss1rar=5
+|bw1=Dragon Scale|bw1type=None|bw1rar=5
+|b2w21=Dragon Scale|b2w21type=None|b2w21rar=5
+|xy1=Dragon Scale|xy1type=None|xy1rar=5
+|oras1=Dragon Scale|oras1type=None|oras1rar=5
+|event1=Dragon Scale|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=55
+|Attack=65
+|Defense=95
+|SpAtk=95
+|SpDef=45
+|Special=95
+|Speed=85
+|type=Water}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=water
+|Normal=100
+|Flying=100
+|Fighting=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Poison=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Seadra|Water|Water|1}}
+{{learnlist/level7|1|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|1|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/level7|1|Smokescreen|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|5|Smokescreen|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|9|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|13|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|17|Twister|Dragon|Special|40|100|20||''}}
+{{learnlist/level7|21|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level7|26|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|31|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/level7|38|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|45|Dragon Pulse|Dragon|Special|85|100|10||''}}
+{{learnlist/level7|52|Dragon Dance|Dragon|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|60|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/7|Seadra|Water|Water|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Seadra|Water|Water|1}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Seadra|Water|Water|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Seadra|Water|Water|2}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}|Aurora Beam|Ice|Special|65|100|20}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|422|Shellos}}|Clear Smog|Poison|Special|50|&mdash;|15|*}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|334|Altaria}}{{MSP|371|Bagon}}{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}<br>{{MSP|635|Hydreigon}}{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}{{MSP|780|Drampa}}|Dragon Breath|Dragon|Special|60|100|20||''}}
+{{learnlist/breed7|{{MSP|004|Charmander}}{{MSP|005|Charmeleon}}{{MSP|006|Charizard}}{{MSP|130|Gyarados}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}<br>{{MSP|149|Dragonite}}{{MSP|443|Gible}}{{MSP|444|Gabite}}{{MSP|445|Garchomp}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}<br>{{MSP|612|Haxorus}}{{MSP|621|Druddigon}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}{{MSP|757|Salandit}}<br>{{MSP|780|Drampa}}|Dragon Rage|Dragon|Special|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|129|Magikarp}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|222|Corsola}}{{MSP|349|Feebas}}<br>{{MSP|369|Relicanth}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|618|Stunfisk}}{{MSP|692|Clauncher}}<br>{{MSP|693|Clawitzer}}{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}{{MSP|776|Turtonator}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|618|Stunfisk}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}<br>{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/breed7|{{MSP|224|Octillery}}|Octazooka|Water|Special|65|85|10||'''}}
+{{learnlist/breed7|{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}<br>{{MSP|621|Druddigon}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}{{MSP|706|Goodra}}{{MSP|780|Drampa}}<br>{{MSP|782|Jangmo-o}}{{MSP|783|Hakamo-o}}{{MSP|784|Kommo-o}}|Outrage|Dragon|Physical|120|100|10||''}}
+{{learnlist/breed7|{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|694|Helioptile}}{{MSP|695|Heliolisk}}|Razor Wind|Normal|Special|80|100|10}}
+{{learnlist/breed7|{{MSP|087|Dewgong}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|226|Mantine}}|Signal Beam|Bug|Special|75|100|15}}
+{{learnlist/breed7|{{MSP|129|Magikarp}}{{MSP|349|Feebas}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Splash|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|079|Slowpoke}}<br>{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|131|Lapras}}{{MSP|223|Remoraid}}{{MSP|226|Mantine}}{{MSP|278|Wingull}}<br>{{MSP|279|Pelipper}}{{MSP|350|Milotic}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|656|Froakie}}{{MSP|657|Frogadier}}{{MSP|658|Greninja}}<br>{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/breedf/7|Seadra|Water|Water|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Seadra|Water|Water|2}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Seadra|Water|Water|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Seadra|Water|Water|1}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Seadra|Water|Water|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg water color light}}; border: 3px solid #{{tcg water color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Confuse Ray}}
+| style="background:#fff; {{roundybr|5px}}" | [[Seadra (EX Team Rocket Returns 48)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/Pinball|col=2|type=Water|ndex=117|acquisition=Evolve|evolved=yes}}
+{{Spindata/PinballRS|col=2|type=Water|ndex=117|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=2|type=Water|ndex=117|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=117
+|body=1
+|rate=-19
+|area=Treasure Sea
+|P1=Don't stand behind me! Not if you don't want to get hurt.
+|P2=This is tougher than expected. Half my HP's gone already.
+|P3=This is it... I can't get any power...
+|PL=There we go! I leveled up! Let me at them!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=117
+|body=1
+|rate=-10
+|IQ=C
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|field=None
+|loop=5
+|browser=Seadra forcefully spits blobs of water. Capture it before it slips underwater!
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=3
+|browser=It blows bubbles from its mouth to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Crush
+|fieldpower=2
+|past=NA
+|browser=It attacks by spitting bubbles that make Pokémon Slowed.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=117
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=117|num=548
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Dancing Dragons
+|skilldesc=Increases damage done by any Dragon types in the combo.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=117
+|hatch=N/A
+|buddy=3
+|evocandy=100 + 1 [[Dragon Scale]]
+|stamina=110
+|attack=187
+|defense=182
+|fast={{m|Water Gun}}, {{m|Dragon Breath}}
+|special={{m|Blizzard}}{{tt|*|Prior to February 16, 2017}}, {{m|Aurora Beam}}{{tt|*|From February 16, 2017 onward}}, {{m|Dragon Pulse}}, {{m|Hydro Pump}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Water
+|pictype=art
+|no1=116
+|name1=Horsea
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 32}}
+|no2=117
+|name2=Seadra
+|type1-2=Water
+|evo2={{bag|Dragon Scale}}<br>{{color2|000|Trade}}<br>holding {{color2|000|Dragon Scale}}
+|no3=230
+|name3=Kingdra
+|type1-3=Water
+|type2-3=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/1|ndex=117}}
+{{Spritebox/2|ndex=117}}
+{{Spritebox/3|ndex=117}}
+{{Spritebox/4|ndex=117}}
+{{Spritebox/5|ndex=117}}
+{{Spritebox/6|ndex=117}}
+{{Spritebox/7|ndex=117}}
+{{Spritebox/Footer|117|Seadra}}
+
+==Trivia==
+* Seadra's [[Effort values|EV Yield]] (1 Defense, 1 Sp. Atk) is unique.
+* Seadra's [[Pokémon Gold and Silver Versions|Gold]] and [[Pokémon HeartGold and SoulSilver Versions|HeartGold]] [[Pokédex]] entries likely refer to the real world theory of {{wp|evolution}}.
+* Seadra shares its {{pkmn|category}} with {{p|Horsea}}, {{p|Kingdra}}, {{p|Dratini}} and its evolutions, {{p|Salamence}}, and {{p|Goodra}}. They are all known as the Dragon Pokémon.
+* Seadra is the only Pokémon that may have the ability {{a|Poison Point}} without being a {{type|Poison}} itself.
+
+===Origin===
+Seadra is based on a {{wp|seahorse}}, though its ability to shoot ink resembles that of a {{wp|squid}}. Its category might be a reference to {{wp|leafy sea dragon}}s, seahorses turning into dragons after a century in Japanese mythology, or the Japanese word for seahorse, which translates as "dragon's child". Its large, spiky, poisonous fins may be inspired by the {{wp|lion fish}}.
+
+====Name origin====
+Seadra may be a combination of ''seahorse'' and ''dragon'' or ''{{wp|Lernaean Hydra|hydra}}'' (a mythological sea creature).
+
+==In other languages==
+{{Other languages|type=water|type2=water
+|ja=シードラ ''Seadra''|jameaning=From ''sea'' and ''dragon'', possibly also ''hydra''
+|fr=Hypocéan|frmeaning=From ''{{tt|hippocampe|seahorse}}'' and ''{{tt|océan|ocean}}''
+|es=Seadra|esmeaning=Same as English/Japanese name
+|de=Seemon|demeaning=From ''{{tt|Seepferd|seahorse}}'' and ''Monster''
+|it=Seadra|itmeaning=Same as English/Japanese name
+|ko=시드라 ''Seadra''|komeaning=Transliteration of Japanese name
+|zh_yue=飛刺海馬 ''Fēichihóimáh''|zh_yuemeaning=Literally "Flying sting seahorse"
+|zh_cmn=海刺龍 / 海刺龙 ''Hǎicìlóng''|zh_cmnmeaning=Literally "Sea sting dragon". May also come from {{wp|Syngnathidae|{{tt|海龍科 ''Hǎilóng-kē''|Syngnathidae}}}}.
+|hi=सीड्रा ''Seadra''|himeaning=Transcription of English name
+|ru=Сидра ''Sidra''|rumeaning=Transcription of English name
+}}
+
+
+<br clear="left">
+
+==External links==
+
+==Notes==
+<references />
+
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=116|prev=Horsea|nextnum=118|next=Goldeen}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Pokémon that evolve through trading]]
+[[Category:Pokémon that evolve through held items]]
+[[Category:Pokémon that evolve by trading with a held item]]
+[[Category:Pokémon that evolve by trading holding Dragon Scale]]
+
+[[de:Seemon]]
+[[fr:Hypocéan]]
+[[it:Seadra]]
+[[ja:シードラ]]
+[[pl:Seadra]]
+[[zh:海刺龙]]

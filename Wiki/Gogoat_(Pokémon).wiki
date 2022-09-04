@@ -1,0 +1,340 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=672|prev=Skiddo|nextnum=674|next=Pancham|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Gogoat}}
+|}
+{{Pokémon Infobox
+|name=Gogoat
+|jname=ゴーゴート
+|jtranslit=Gōgōto
+|tmname=Gogoat
+|category=Mount
+|typebox=1
+|type1=Grass
+|abilityn=d
+|ability1=Sap Sipper
+|abilityd=Grass Pelt
+|ndex=673
+|karea=Central
+|kdex=090
+|height-ftin=5'07"
+|height-m=1.7
+|weight-lbs=200.6
+|weight-kg=91.0
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=2
+|evhp=2
+|expyield=186
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=45
+|body=08
+|pokefordex=gogoat
+|generation=6
+|friendship=70
+}}
+'''Gogoat''' ([[List of Japanese Pokémon names|Japanese]]: '''ゴーゴート''' ''Gogoat'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[evolution|evolves]] from {{p|Skiddo}} starting at [[level]] 32.
+
+==Biology==
+Gogoat are quadruped, hoofed Pokémon similar to goats. They are covered in fluffy, brown fur that is dark across the back and light around the belly and legs. Around their neck, they have a thick, green leafy mane that extends down their spine and ends in a short tail. The fur on their face is white with fluffier fur on their chin. They have a black nose and red eyes with white pupils. The eyes are surrounded by a black marking. The top of their head is dark brown and has two long, curving, black horns that extend over their back. The fur on their legs is shorter than the rest of their body, dark brown on the upper leg, and white around the feet. Each foot ends in a cloven, brownish-orange hoof.
+
+Gogoat has the ability to sense the feelings of whoever grips its horns; this ability is so acute that it can move as if it and its rider were one being. Wild Gogoat live in mountainous regions and choose their leader by locking horns.
+
+==In the anime==
+[[File:Ramos Gogoat.png|left|thumb|250px|Gogoat in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Alexa's Gogoat]]====
+Gogoat debuted in ''[[BW134|The Journalist from Another Region!]]'', under the ownership of [[Alexa]]. In ''[[BW138|Go, Go Gogoat!]]'', it was revealed that Gogoat was Alexa's first Pokémon; she caught it after it helped her climb up a cliff to her campsite. This episode also focused on its ability to sense the feelings of an individual who touches its horns.
+
+====Other====
+A Gogoat appeared in ''[[XY057|Thawing an Icy Panic!]]'', under the ownership of [[Ramos]]. It reappeared in ''[[XY058|The Green, Green Grass Types of Home!]]'' in a Gym battle against {{Ash}}, where it was defeated by {{AP|Frogadier}}. Ramos' Gogoat reappeared in ''[[XY135|Rocking Kalos Defenses!]]'' and ''[[XY136|Forming a More Perfect Union!]]'', where it participated in the fight against the [[Giant Rock]].
+
+A Gogoat appeared during a flashback in ''[[SS036|The Legend of X, Y, and Z!]]'', under the ownership of {{OBP|Jan|SS036}}.
+
+===Minor appearances===
+Multiple Gogoat appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+Multiple Gogoat appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+Multiple Gogoat appeared in ''[[XY053|A Race for Home!]]''.
+
+Multiple Gogoat appeared in ''[[XY063|A Fork in the Road! A Parting of the Ways!]]''.
+
+A Gogoat appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''.
+
+A Gogoat appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+A Gogoat appeared in ''[[M20|I Choose You!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW134|Gogoat|Ash's Pokédex|No data.<br><small>(Note: {{Ash}}'s [[Unova]]-based Pokédex couldn't recognize Gogoat due to it being a [[Kalos]] Pokémon.)</small>}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY057|Gogoat|Serena's Pokédex|Gogoat, the Mount Pokémon and the evolved form of {{p|Skiddo}}. Gogoat is able to sense its Trainer's feelings by detecting small changes in the grip on its horns. This allows both Trainer and Pokémon to move together as one.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:X Gogoat Adventures.png|thumb|130px|Gogoat in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Two Gogoat were first seen in ''[[PAXY08|Chespin Sows the Seeds of Change]]'', when {{adv|X}} and [[Professor Sycamore]] were riding two from the Gogoat Shuttle service when they went to meet up with {{adv|Y}}, {{adv|Shauna}}, {{adv|Trevor}}, and {{adv|Tierno}}.
+
+[[Ramos]] also owns a Gogoat that first appeared in ''[[PAXY24|Pyroar Breathes]]''. It was first used to try and stop the [[ultimate weapon]] from activating.
+
+==In the TCG==
+{{main|Gogoat (TCG)}}
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+Gogoat appears as a [[Poké Ball]] summon. When summoned, it charges around the stage with {{m|Take Down}}, and can be mounted by anyone.
+====Trophy information====
+''Lots of people in Lumiose City get around by riding on the backs of these Grass-type Pokémon. If you summon one during a fight, it'll run around the stage and charge at your opponents using Take Down. If you like, you can even jump on its back and get a lift around the stage from it!''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=grass}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It can tell how its trainer is feeling by subtle shifts in the grip on its horns. This empathetic sense lets them run as if one being.}}
+{{Dex/Entry1|v=Y|entry=They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It can tell how its trainer is feeling by subtle shifts in the grip on its horns. This empathetic sense lets them run as if one being.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=grass}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Friend Safari]] ([[Friend Safari#Grass-type Safari|Grass]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 1|Renegade Meadow: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 256]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Castle Farm|Dewdrop Bay: Castle Farm]] <small>(Center Boss, Back)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=     123
+|Attack= 100
+|Defense=62
+|SpAtk=  97
+|SpDef=  81
+|Speed=  68}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=grass
+|Normal=100
+|Flying=200
+|Fighting=100
+|Ground=50
+|Rock=100
+|Bug=200
+|Poison=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|sapsipper=maybe}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Gogoat|Grass|Grass|6}}
+{{learnlist/level7|1|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/level7|1|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/level7|7|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/level7|9|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|12|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|13|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level7|16|Worry Seed|Grass|Status|&mdash;|100|10}}
+{{learnlist/level7|20|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|22|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|26|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/level7|30|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level7|34|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|40|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|47|Horn Leech|Grass|Physical|75|100|10||'''}}
+{{learnlist/level7|55|Leaf Blade|Grass|Physical|90|100|15||'''}}
+{{learnlist/level7|58|Milk Drink|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/levelf/7|Gogoat|Grass|Grass|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Gogoat|Grass|Grass|6}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Gogoat|Grass|Grass|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Gogoat|Grass|Grass|6}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|028A|Sandslash}}{{MSP|161|Sentret}}{{MSP|162|Furret}}<br>{{MSP|206|Dunsparce}}{{MSP|231|Phanpy}}{{MSP|232|Donphan}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}<br>{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|517|Munna}}{{MSP|518|Musharna}}{{MSP|775|Komala}}{{MSP|777|Togedemaru}}|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|273|Seedot}}{{MSP|495|Snivy}}|Grassy Terrain|Grass|Status|—|—|10|*{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|672|Skiddo}}{{MSP|673|Gogoat}}|Milk Drink|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|206|Dunsparce}}<br>{{MSP|231|Phanpy}}{{MSP|232|Donphan}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|498|Tepig}}{{MSP|499|Pignite}}{{MSP|500|Emboar}}<br>{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|775|Komala}}<br>{{MSP|777|Togedemaru}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/breedf/7|Gogoat|Grass|Grass|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Gogoat|Grass|Grass|6}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Gogoat|Grass|Grass|6}}
+
+====By a prior [[evolution]]====
+{{Learnlist/prevoh/7|Gogoat|Grass|Grass|6}}
+{{Learnlist/prevo7null}}
+{{Learnlist/prevof/7|Gogoat|Grass|Grass|6}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Template:Spindata/Battle Trozei|col=6|type=Grass|ndex=673
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Grass|ndex=673|num=368
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Quirky+
+|skilldesc=Sometimes erases two extra matching Pokémon elsewhere.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=grass
+|pictype=art
+|no1=672
+|name1=Skiddo
+|type1-1=Grass
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 32}}
+|no2=673
+|name2=Gogoat
+|type1-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=grass}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=673}}
+{{Spritebox/7|ndex=673}}
+{{Spritebox/Footer|673|Gogoat}}
+
+==Trivia==
+[[File:Shiny Gogoat Cropped.png|thumb|90px|Gogoat's original Shiny coloration.]]
+* Gogoat is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 531.
+* Gogoat has the highest base {{stat|HP}} of all {{type|Grass}} Pokémon.
+* In [[Pokémon X and Y beta|pre-release footage]] shown in the E3 developer roundtable, Gogoat's {{Shiny}} form was shown. However, in the final release, its Shiny colors were changed drastically.
+
+===Origin===
+Gogoat is based on a {{wp|goat}}, possibly a {{wp|bharal}}, {{wp|Dwarf blue sheep|dwarf bharal}}, {{wp|Bilberry goat|bilberry}}, or ibex due to its horns, though they also resemble the horns of various {{wp|gazelle}}s and {{wp|antelope}}s. It is also based on a {{wp|motorcycle}}, as it can be ridden and has {{wp|Motorcycle handlebar#Types of handlebar|beach bar}}-like horns. The grass that grows upon it may originate from {{wp|Pan (god)|Pan}} or {{wp|Faunus}}, gods of nature who are half-goat, half-human. The grass could also be a reference to the traditional {{wp|yule goat}} figures in northern Europe made of hay.
+
+====Name origin====
+Gogoat may be derived from ''go'', 轟轟 ''gōgō'' (rumbling), and ''goat''.
+
+==In other languages==
+{{Other languages|type=grass|type2=grass
+|ja=ゴーゴート ''Gogoat''|jameaning=From ''go'', {{tt|轟轟 ''gōgō''|rumbling}} and ''goat''
+|fr=Chevroum|frmeaning=From ''{{tt|chèvre|goat}}'' and ''{{tt|vroum|vroom}}''
+|es=Gogoat|esmeaning=Same as English name
+|de=Chevrumm|demeaning=From ''{{tt|chèvre|French for goat}}'' and ''{{tt|brumm|vroom}}''
+|it=Gogoat|itmeaning=Same as English name
+|ko=고고트 ''Gogoteu''|komeaning=Transliteration of its Japanese name
+|zh_yue=指路羊 ''Jílouhyèuhng''|zh_yuemeaning=Means "Guiding goat"
+|zh_cmn=坐騎山羊 ''Zuòqíshānyáng''|zh_cmnmeaning=Means "Mounting goat"
+|hi=गोगोट ''Gogoat''|himeaning=Transcription of English name
+|ru=Гогоут ''Gogout''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+*[[Alexa's Gogoat]]
+
+==External links==
+
+{{Smash Bros.}}
+{{-}}
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=672|prev=Skiddo|nextnum=674|next=Pancham}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appeared in the anime before their game debut]]
+
+[[de:Chevrumm]]
+[[fr:Chevroum]]
+[[it:Gogoat]]
+[[ja:ゴーゴート]]
+[[pl:Gogoat]]
+[[zh:坐骑山羊]]

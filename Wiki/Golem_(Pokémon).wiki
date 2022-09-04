@@ -1,0 +1,849 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Ground}}
+{{PokémonPrevNext/GO|species=Golem}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=075|prev=Graveler|nextnum=077|next=Ponyta|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Golem
+|jname=ゴローニャ
+|jtranslit=Gorōnya
+|tmname=Golonya
+|forme=2
+|form1=Golem
+|form2=Alolan Golem
+|image2=076Golem-Alola.png
+|ndex=076
+|jdex=036
+|hdex=059
+|hdex6=060
+|sdex=033
+|karea=Mountain
+|kdex=011
+|adex=231
+|fbrow=066
+|abrow=043
+|obrow=049
+|opbrow=069
+|type1=Rock
+|type2=Ground
+|form2type1=Rock
+|form2type2=Electric
+|category=Megaton
+|height-ftin=4'07"
+|height-m=1.4
+|height-ftin2=5'07"
+|height-m2=1.7
+|weight-lbs=661.4
+|weight-kg=300.0
+|weight-lbs2=696.7
+|weight-kg2=316.0
+|abilitylayout=2+2
+|ability1=Rock Head
+|ability2=Sturdy
+|abilityd=Sand Veil
+|abilitydcaption=Golem
+|ability2-1=Magnet Pull
+|ability2-2=Sturdy
+|abilityd2=Galvanize
+|abilityd2caption=Alolan Golem
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=15
+|evtotal=3
+|evde=3
+|expyield=223<!--218 in Gen V-VI-->
+|oldexp=177
+|lv100exp=1,059,860
+|gendercode=127
+|color=Brown
+|formcolors=yes
+|catchrate=45
+|body=12
+|pokefordex=golem
+|generation=1
+|friendship=70
+}}
+'''Golem''' ([[List of Japanese Pokémon names|Japanese]]: '''ゴローニャ''' ''Golonya'') is a dual-type {{2t|Rock|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Graveler}} when [[trade]]d. It is the final form of {{p|Geodude}}.
+
+In [[Alola]], Golem has a [[regional variant]] that is {{2t|Rock|Electric}}. It evolves from Alolan Graveler when traded. It is the final form of Alolan Geodude.
+
+==Biology==
+Golem is a bipedal tortoise-like Pokémon with plated, green rocks as its shell. Golem grows bigger by shedding its skin once a year. The discarded shell immediately hardens when exposed to air, crumbling away and returning to the soil. Golem has a head protruding out of the center of the shell, short arms that have three claws, and two legs with five-clawed feet that have four claws in front and one in back. It has red eyes and a flat snout with two pointed teeth in its lower jaw. As shown in the [[Pocket Monsters Carddass Trading Cards]], Golem's shell is hollow.
+
+[[EP036|The anime]] has shown that Golem is able to withdraw its head, arms, and legs into its shell and roll at high speeds. Golem is dangerous when doing this, as it is unable to see and may crash into or run over anything in its path. To prevent it from rolling into the homes of people downhill, grooves are dug into the sides of the mountains to divert the rolling Golem's course. Golem's body is so hard that even dynamite cannot scratch it. Golem is seldom seen in the wild. However, it can be found living in {{DL|List of Pokémon by habitat|Mountain Pokémon|mountainous}} regions.
+
+The Alolan Golem has shorter forearms with two claws and only two claws on its feet. The face has attracted more iron sand, creating the appearance of a mustache, eyebrows and a large black beard. Above its head are two large black rocks jutting out of its body. On the inner edge of these rocks are three golden dots. In-between the two large rocks is a shorter black rock. The Alolan Golem is capable of firing this rock for attacking; if it is not available, it will fire nearby {{p|Geodude}} instead.
+
+==In the anime==
+[[File:Team Rocket Golem.png|280px|thumb|Golem in the {{pkmn| anime}}]]
+===Major appearances===
+Golem debuted in ''[[EP036|The Bridge Bike Gang]]'', under the ownership of [[Chopper]], who used it against {{Ash}} in a battle. It reappeared in a flashback in ''[[EP105|Charizard Chills]]''.
+
+{{an|Giovanni}}'s Golem appeared in ''[[EP063|The Battle of the Badge]]'', where it was used in his battle against {{Gary}} but was defeated by {{p|Nidoking}}.
+
+{{Gary}} used a Golem in his battle against Ash in ''[[EP270|Can't Beat the Heat!]]''. It battled {{AP|Charizard}} but was defeated.
+
+{{ka|Flint}} used a Golem against [[Lola]] in a feud about what type the [[Pewter City]] Gym should focus in ''[[SS001|A Family That Battles Together Stays Together!]]''. It reappeared in ''[[AG177|Grating Spaces!]]'', where it welcomed {{an|Brock}} home.
+
+In ''[[AG137|Hooked on Onix]]'', Golem and its pre-evolved forms were the loyal subjects of King {{p|Onix}}.
+
+A Golem appeared in ''[[DP170|An Elite Coverup!]]'', under the ownership of [[Bertha]]. It took on {{TRT}} and their armored {{TP|James|Carnivine}} and {{TP|Jessie|Seviper}}.
+
+A wild Golem appeared in ''[[DP181|Bucking the Treasure Trend!]]'' as a guardian of treasure [[Buck]] was looking for. [[Ash's Gible]] defeated it easily and sent it rolling back into the cave it appeared from.
+
+A Golem was used by a {{tc|Team Rocket Grunt}} in ''[[BW096|Meloetta and the Undersea Temple!]]''. It was used alongside a {{p|Rhydon}} to capture {{an|Meloetta}}. It was stopped from doing so, however, by [[Ridley]] and his {{p|Golurk}}.
+
+===Minor appearances===
+In ''[[EP042|Showdown at Dark City]]'', Golem was one of the Pokémon owned by the Trainers at [[Kas Gym]].
+
+In ''[[EP050|Who Gets To Keep Togepi]]'', when Ash, Misty, and Brock are discussing which Pokémon they'd like to hatch out of the Egg, Brock mentions that he wishes it would be a Golem, and one is shown for a second before Misty replaces it with a Lapras.
+
+At the beginning of ''[[M01|Mewtwo Strikes Back]]'', [[Raymond]] used a Golem to battle [[Ash's Pikachu]]. Golem, along with the rest of his Pokémon, were defeated by Pikachu.
+
+A Golem belonging to [[Rudy]] made a cameo appearance in ''[[EP103|Misty Meets Her Match]]''.
+
+A Golem appeared in ''[[M02|The Power of One]]''.
+
+A Golem was seen in a dojo in ''[[EP140|Wired for Battle!]]''.
+
+A Golem was one of the Pokémon seen at the Pokémon Swap Meet in ''[[EP146|Tricks of the Trade]]''.
+
+A wild Golem was seen attacking a wounded {{p|Houndour}} in ''[[EP150|Hour of the Houndour]]'' but was driven off by [[Ash's Chikorita]].
+
+A Golem appeared in a fantasy in ''[[EP162|Type Casting]]''.
+
+[[Goneff|A crook]] who appeared in ''[[EP192|The Wayward Wobbuffet]]'' had a Golem.
+
+A Golem was one of the Pokémon competing in the Pokémon Sumo Wrestling in ''[[EP194|Ring Masters]]''.
+
+In ''[[EP237|As Cold as Pryce]]'', a Golem appeared in [[Pryce]]'s flashback as one of the Pokémon which fought against his {{TP|Pryce|Piloswine}}.
+
+A Golem appeared in ''[[M04|Celebi: The Voice of the Forest]]'', ''[[M05|Pokémon Heroes: Latios & Latias]]'', ''[[M07|Destiny Deoxys]]'', ''[[M08|Lucario and the Mystery of Mew]]'', and ''[[M11|Giratina and the Sky Warrior]]''.
+
+A group of Golem appeared in ''[[DP046|A Maze-ing Race!]]''.
+
+A Golem was used by the henchmen of {{OBP|J's client|DP071}} in ''[[DP071|Pokémon Ranger and the Kidnapped Riolu! Parts 1]] [[DP072|and 2]]''.
+
+A Golem made a brief cameo in ''[[M11|Giratina and the Sky Warrior]]''.
+
+A Golem appeared in ''[[DP141|Challenging a Towering Figure!]]'', where it battled against a {{p|Snorlax}} during the {{DL|Twinleaf Festival|Festival Battle Challenge}}.
+
+Two Golem made a cameo in ''[[M12|Arceus and the Jewel of Life]]''.
+
+Two Golem appeared in ''[[M16|Genesect and the Legend Awakened]]'', where they battled the [[Genesect Army]] at [[Pokémon Hills]].
+
+A Trainer's Golem appeared in ''[[SM001|Alola to New Adventure!]]'', during a flashback.
+
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP036|Golem|Ash's Pokédex|Golem, a Megaton Pokémon. Once a year it sheds its bedrock shell and grows larger.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+
+==In the manga==
+[[File:Gravvy.png|thumb|200px|Golem in [[Pokémon Adventures]]]]
+===In The Electric Tale of Pikachu manga===
+Brock used a Golem to try to impress Professor Oak but was never shown to him because of Brock's nervousness paralyzing him.
+
+Rudy used his Golem in the dance battle against Ash.
+
+===In the Pokémon Adventures manga===
+Golem debuted in ''[[PS036|Drat That Dratini!]]'' where a horde of Golem tried to attacke {{adv|Red}} and {{adv|Yellow}} but they escaped using Red's Aerodactyl. They later appeared again in ''[[PS038|Long Live the Nidoqueen!?]]'' when the people of Viridian City were trying to calm them down. In ''[[PS043|Sea Sea Seadra]]'' several of the wild Golem in Viridian Forest appeared in a flashback of Bill's about the cology of the forest hasn't changed in two years.
+
+In ''[[PS037|Golly, Golem]]'', {{adv|Giovanni}} is seen with a Golem as the second Pokémon he sends out against {{adv|Red}}. His best attacks involve his body shattering, allowing him to use {{m|Rock Throw}}.
+
+In ''[[PS089|The Might of... Metapod?!]]'', {{adv|Yellow}}'s Graveler evolves into Golem during the final battle on [[Cerise Island]]. [[Blaine]] acknowledges his evolution, as Graveler normally evolve into Golem by trade.
+
+In ''[[PS179|The Last Battle XIII]]'', a Golem was one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+Golem was the second Pokémon that {{FB|Factory Head|Noland}} used in the [[Battle Factory]] in ''[[PS306|Pinsir Me, I Must Be Dreaming]]''. He managed to defeat {{adv|Emerald}}'s {{p|Pinsir}} and {{p|Linoone}} but was defeated by [[Emerald's Sceptile]].
+
+A Golem appeared in ''[[PS315|Skirting Around Surskit I]]'' as a rental Pokémon that [[Guile Hideout]] stole.
+
+===In the Pokémon Pocket Monsters manga===
+A Golem participated in a baseball match in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]''.
+
+[[Blaine]] sent out Golem during the battle portion of the Pokémon Quiz Battle in [[PM024|Fierce Competition at the Pokémon Quiz Battle!!]].
+
+Giovanni sent out his Golem to prevent {{OBP|Red|Pocket Monsters}} from interfering with his plans on creating {{p|Mewtwo}} in ''[[PM025|Bring Down the Strongest Pokémon!!]]''.
+
+Golem is one of [[Bruno]]'s Pokémon in the [[Pokémon League]] as seen in ''[[PM034|Clefairy's Under Training!!]]''.
+
+Golem was owned by [[Rydel's rival]] in ''[[PMRS17|Serious Bicycle Match!]]''.
+
+==In the TFG==
+One Golem figure has been released.
+
+* {{TFG|Next Quest}}: {{TFG ID|Next Quest|Golem|16}}
+
+==In the TCG==
+{{main|Golem (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|Pokémon Mystery Dungeon]]: Golem is the leader of Team Rumblerock, a [[Rank (Mystery Dungeon)|Normal Rank]] [[Team#Rescue Teams|Rescue Team]]. It joins a new team designed to travel through [[Magma Cavern]] but is defeated.
+* [[Pokémon: Magikarp Jump]]: Golem may appear during {{DL|Pokémon: Magikarp Jump|training}}. As part of the "Golem Push" training session, the player's Magikarp pushes it to earn JP.
+
+===Pokédex entries===
+====Golem====
+{{Dex/Header|type=Rock|type2=Ground}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.}}
+{{Dex/Entry1|v=Yellow|entry=Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it's exposed to air.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Its body, which weighs {{tt|over 660 pounds|300 kg}}, is as hard as stone. It grows bigger by shedding its skin once a year.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It sheds its skin once a year. The discarded shell immediately hardens and crumbles away.}}
+{{Dex/Entry1|v=Silver|entry=It is capable of blowing itself up. It uses this explosive force to jump from mountain to mountain.}}
+{{Dex/Entry1|v=Crystal|entry=Its rock-like body is so durable, even high-powered dynamite blasts fail to scratch its rugged hide.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It sheds its skin once a year. the discarded shell immediately hardens and crumbles away.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Golem is known for rolling down from mountains. To prevent them from rolling into the homes of people downhill, grooves have been dug into the sides of mountains to serve as guideways for diverting this Pokémon's course.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It is said to live in volcanic craters on mountain peaks. Once a year, it sheds its hide and grows larger. The shed hide crumbles and returns to the soil.}}
+{{Dex/Entry1|v=FireRed|entry=It is enclosed in a hard shell that is as rugged as slabs of rock. It sheds skin once a year to grow larger.}}
+{{Dex/Entry1|v=LeafGreen|entry=Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without taking damage.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It sheds its hide once a year. Its boulderlike body is so tough, even dynamite can't harm it.}}
+{{Dex/Entry1|v=Pearl|entry=It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves.}}
+{{Dex/Entry1|v=Platinum|entry=Even dynamite can't harm its hard, boulderlike body. It sheds its hide just once a year.}}
+{{Dex/Entry1|v=HeartGold|entry=It sheds its skin once a year. The discarded shell immediately hardens and crumbles away.}}
+{{Dex/Entry1|v=SoulSilver|entry=It is capable of blowing itself up. It uses this explosive force to jump from mountain to mountain.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Even dynamite can't harm its hard, boulderlike body. It sheds its hide just once a year.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Even dynamite can't harm its hard, boulder-like body. It sheds its hide just once a year.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves.}}
+{{Dex/Entry1|v=Y|entry=Even dynamite can't harm its hard, boulder-like body. It sheds its hide just once a year.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Golem is known for rolling down from mountains. To prevent them from rolling into the homes of people downhill, grooves have been dug into the sides of mountains to serve as guideways for diverting this Pokémon's course.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Its body can survive dynamite blasts without a single scratch, but it hates rain and humidity.}}
+{{Dex/Entry1|v=Moon|entry=Once a year, this Pokémon molts, and its shed shell returns to the soil. This process creates enriched soil, so farmers collect the shells.}}
+{{Dex/Entry1|v=Ultra Sun|entry=When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It detonates its own body. The power from that explosion can propel it up steep mountain paths with amazing speed.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Alolan Golem====
+{{Dex/Header|type=Rock|type2=Electric}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It fires rocks charged with electricity. Even if the rock isn't fired that accurately, just grazing an opponent will cause numbness and fainting.}}
+{{Dex/Entry1|v=Moon|entry=Because it can't fire boulders at a rapid pace, it's been known to seize nearby Geodude and fire them from its back.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It shoots large rocks that are charged with electricity. Tremendous electric shocks are flung out across the whole area of impact.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[In-game trade#Blue (Japan)|Trade]] {{p|Kadabra}} for {{p|Graveler}} on [[Cinnabar Island]]{{tt|*|evolves immediately after being obtained}}}}
+{{Availability/Entry1|v=Yellow|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+{{Availability/Entry1|v=Pal Park|color=D4B5A7|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[In-game trade#Sun and Moon|Trade]] {{p|Haunter}} for {{p|Graveler}} in [[Tapu Village]]{{tt|*|evolves immediately after being obtained}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Ground}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Graveler}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 10]], Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Magma Cavern]] (15F-20F), [[Mt. Faraway]] (10F-19F), [[Buried Relic]] (91-99F), [[Wish Cave]] (76F-79F), [[Southern Cavern]] (40F-50F), [[Joyous Tower]] (74F-79F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Sekra Range]], [[Fiore Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Crystal Cave]] (B8-B11)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Crystal Cave]] (B8-B11)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Hippowdon Temple]], [[Altru Tower]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Rocky Cave]] <small>(Normal Mode A & S, Advanced Mode B & S)</small>}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Lava Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Faldera Island]], [[Thunder Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Canyon: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#Pokémon on a Roll|Variety Battle: Pokémon on a Roll <small>(Boss)</small>]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 3|Mountain of Order: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|Great Challenge|Golem Appears}}''<br>Event: ''[[Special Stages#Great Daily (Fifth release)|Great Daily Pokémon]]'' <small>(Fifth release)</small><br>Event: [[Special Stages#16th release|''Pokémon Safari'']] <small>(16th release; Alola Form)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Booming Grotto|Sapphire Sea: Booming Grotto]] <small>(Center Boss, Back)</small>}}
+<!--{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=}}-->
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Rock|type2=Ground|Frontier=yes
+|rby1=Bitter Berry|rby1type=None|rby1rar=100|rby1image=no
+|e1=Everstone|e1type=None|e1rar=5
+}}
+
+===Stats===
+====Base stats====
+=====Generation I-V=====
+{{Stats
+|type=Rock
+|type2=Ground
+|HP=80
+|Attack=110
+|Defense=130
+|SpAtk=55
+|SpDef=65
+|Special=55
+|Speed=45}}
+
+=====Generation VI onward=====
+{{BaseStats
+|type=Rock
+|type2=Ground
+|HP=80
+|Attack=120
+|Defense=130
+|SpAtk=55
+|SpDef=65
+|Speed=45}}
+
+* [[Alola]]n Golem has the same stats as a regular Golem.
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Rock
+|type2=Ground
+|Speed=2
+|SpeedMax=2
+|Power=4
+|PowerMax=4
+|Technique=1
+|TechniqueMax=2
+|Stamina=4
+|StaminaMax=4
+|Jump=2
+|JumpMax=2}}
+
+===Type effectiveness===
+====Golem====
+{{TypeEffectiveness
+|type1=Rock
+|type2=Ground
+|Normal=50
+|Flying=50
+|Fighting=200
+|Ground=200
+|Rock=50
+|Bug=100
+|Poison=25
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=400
+|Grass=400
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=yes
+|newelectric=1}}
+
+====Alolan Golem====
+{{TypeEffectiveness
+|type1=Rock
+|type2=Electric
+|Normal=50
+|Fighting=200
+|Flying=25
+|Poison=50
+|Ground=400
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=50
+|Water=200
+|Grass=200
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+All damage-dealing {{type|Normal}} moves will get [[Same-type attack bonus|STAB]] when used by Alolan Golem if it has the Ability {{a|Galvanize}}.
+
+====By [[Level|leveling up]]====
+=====Golem=====
+{{learnlist/levelh/7|Golem|Rock|Ground|1}}
+{{learnlist/level7|1|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level7|1|Mud Sport|Ground|Status|—|—|15}}
+{{learnlist/level7|1|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/level7|4|Mud Sport|Ground|Status|—|—|15}}
+{{learnlist/level7|6|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/level7|10|Steamroller|Bug|Physical|65|100|20}}
+{{learnlist/level7|12|Magnitude|Ground|Physical|—|100|30||'''}}
+{{learnlist/level7|16|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level7|18|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level7|22|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level7|24|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level7|30|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level7|34|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/level7|40|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|44|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/level7|50|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|54|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level7|60|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/levelf/7|Golem|Rock|Ground|1}}
+
+=====Alolan Golem=====
+{{learnlist/levelh/7|Golem|Rock|Electric|7}}
+{{learnlist/level7|1|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Defense Curl|Normal|Status|—|—|40}}
+{{learnlist/level7|1|Charge|Electric|Status|—|—|20}}
+{{learnlist/level7|1|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/level7|4|Charge|Electric|Status|—|—|20}}
+{{learnlist/level7|6|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/level7|10|Steamroller|Bug|Physical|65|100|20}}
+{{learnlist/level7|12|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level7|16|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level7|18|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level7|22|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/level7|24|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level7|30|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level7|34|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/level7|40|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level7|44|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/level7|50|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|54|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level7|60|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/levelf/7|Golem|Rock|Electric|7}}
+
+====By [[TM]]/[[HM]]====
+=====Golem=====
+{{learnlist/tmh/7|Golem|Rock|Ground|1}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Golem|Rock|Ground|1}}
+
+=====Alolan Golem=====
+{{learnlist/tmh/7|Golem|Rock|Electric|7}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Golem|Rock|Electric|7}}
+
+====By {{pkmn|breeding}}====
+=====Golem=====
+{{learnlist/breedh/7|Golem|Rock|Ground|2}}
+{{learnlist/breed7|{{MSP|208|Steelix}}{{MSP|679|Honedge}}{{MSP|680|Doublade}}{{MSP|681|Aegislash}}|Autotomize|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|185|Sudowoodo}}{{MSP|299|Nosepass}}{{MSP|476|Probopass}}|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|095|Onix}}{{MSP|208|Steelix}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|074A|Geodude}}{{MSP|185|Sudowoodo}}{{MSP|299|Nosepass}}{{MSP|557|Dwebble}}{{MSP|562|Yamask}}|Endure|Normal|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|185|Sudowoodo}}{{MSP|557|Dwebble}}{{MSP|558|Crustle}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|075|Graveler}}{{MSP|076|Golem}}{{MSP|185|Sudowoodo}}|Focus Punch|Fighting|Physical|150|100|20|‡}}
+{{learnlist/breed7|{{MSP|185|Sudowoodo}}|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|075|Graveler}}{{MSP|076|Golem}}{{MSP|185|Sudowoodo}}|Mega Punch|Normal|Physical|80|85|20|‡}}
+{{learnlist/breed7|{{MSP|598|Ferrothorn}}|Rock Climb|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Golem|Rock|Ground|2}}
+
+=====Alolan Golem=====
+{{learnlist/breedh/7|Golem|Rock|Electric|7}}
+{{learnlist/breed7|{{MSP|208|Steelix}}{{MSP|679|Honedge}}{{MSP|680|Doublade}}{{MSP|681|Aegislash}}|Autotomize|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|185|Sudowoodo}}{{MSP|299|Nosepass}}{{MSP|476|Probopass}}|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|185|Sudowoodo}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|095|Onix}}{{MSP|208|Steelix}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|185|Sudowoodo}}{{MSP|299|Nosepass}}{{MSP|557|Dwebble}}{{MSP|562|Yamask}}|Endure|Normal|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|185|Sudowoodo}}{{MSP|557|Dwebble}}{{MSP|558|Crustle}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Magnet Rise|Electric|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|598|Ferrothorn}}|Rock Climb|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|095|Onix}}{{MSP|208|Steelix}}|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Golem|Rock|Electric|7}}
+
+====By [[Move Tutor|tutoring]]====
+=====Golem=====
+{{learnlist/tutorh/7|Golem|Rock|Ground|2}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutorf/7|Golem|Rock|Ground|2}}
+
+=====Alolan Golem=====
+{{learnlist/tutorh/7|Golem|Rock|Electric|7}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutorf/7|Golem|Rock|Electric|7}}
+
+====By a prior [[evolution]]====
+=====Golem=====
+{{learnlist/prevoh/7|Golem|Rock|Ground|1}}
+{{learnlist/prevo7|074|Geodude||075|Graveler||Rollout|Rock|Physical|30|90|20|'''}}
+{{learnlist/prevof/7|Golem|Rock|Ground|1}}
+
+=====Alolan Golem=====
+{{learnlist/prevoh/7|Golem|Rock|Electric|7}}
+{{learnlist/prevo7|074A|Geodude||075A|Graveler||Rollout|Rock|Physical|30|90|20|'''}}
+{{learnlist/prevof/7|Golem|Rock|Electric|7}}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Ground}}
+{{Spindata/Pinball|col=2|type=Rock|ndex=076|acquisition=Evolve|evolved=yes}}
+{{Spindata/PinballRS|col=2|type=Rock|ndex=076|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=2|type=Rock|ndex=076|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Rock|ndex=076
+|body=1
+|rate=-30
+|area=Mt. Deepgreen
+|P1=Even dynamite can't shatter my armor!
+|P2=Better be careful. My HP's half gone.
+|P3=I'm about done... I have no energy left...
+|PL=Hm! I leveled up! My armor's grown harder, too!
+|Partner=no
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Rock|ndex=076
+|body=1
+|rate=0.5
+|IQ=E
+}}
+|-
+{{Spindata/Ranger|col=6|type=Rock
+|group=Ground
+|assist=Rock
+|fieldpower=3
+|field=Crush
+|loop=16
+|MinEXP=95
+|MaxEXP=145
+|browser=Golem can destroy even big Boulders using its extraordinary strength.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Rock
+|group=Rock
+|assist=Rock
+|field=Crush
+|fieldpower=4
+|browser=It hurls stones to attack. It also opens fissures in the ground.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Rock
+|group= Rock
+|assist= Rock
+|field= Crush
+|fieldpower= 3
+|browser=It triggers rockfalls to attack
+}}
+|-
+{{Spindata/Rumble|col=3|type=Rock
+|att=3
+|def=4
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Rock
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Rock|ndex=076
+|Pad=Golem sometimes lends a hand with {{DL|Attractions|Blaziken's Boulder Bash}} in the [[Lava Zone]]. He likes to collect shiny things.
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Rock|ndex=076
+|power=3
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Rock|ndex=076|num=590
+|min=70
+|max=125
+|raisemaxlevel=10
+|skill=Cross Attack
+|skilldesc=Increases damage when making a + shaped match.
+|swapper=Non Stop+
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=076A|stype=Electric|num=590
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Non Stop+
+|skilldesc=Deals even more damage the more times in a row it is triggered.
+}}
+|-
+{{Spindata/GO|col=6|type=Rock|ndex=076
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=160
+|attack=211
+|defense=229
+|fast={{m|Rock Throw}}, {{m|Mud-Slap}}{{tt|*|From August 20, 2016 onwards}}, {{m|Mud Shot}}{{tt|*|Prior to August 20, 2016}}
+|special={{m|Stone Edge}}, {{m|Ancient Power}}{{tt|*|Prior to February 16, 2017}}, {{m|Rock Blast}}{{tt|*|From February 16, 2017 onward}}, {{m|Earthquake}}
+}}
+|}
+
+===Evolution===
+====Golem====
+{{Evobox-3
+|type1=Rock
+|type2=Ground
+|pictype=art
+|no1=074
+|name1=Geodude
+|type1-1=Rock
+|type2-1=Ground
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 25}}
+|no2=075
+|name2=Graveler
+|type1-2=Rock
+|type2-2=Ground
+|evo2={{bag|Pal Pad}}<br>{{color2|000|Trade}}
+|no3=076
+|name3=Golem
+|type1-3=Rock
+|type2-3=Ground}}
+
+====Alolan Golem====
+{{Evobox-3
+|type1=Rock
+|type2=Electric
+|pictype=sprite
+|no1=074Geodude-Alola
+|name1=Geodude
+|type1-1=Rock
+|type2-1=Electric
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 25}}
+|no2=075Graveler-Alola
+|name2=Graveler
+|type1-2=Rock
+|type2-2=Electric
+|evo2={{bag|Pal Pad}}<br>{{color2|000|Trade}}
+|no3=076Golem-Alola
+|name3=Golem
+|type1-3=Rock
+|type2-3=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock|type2=Ground}}
+{{Spritebox/1|ndex=076}}
+{{Spritebox/2|ndex=076}}
+{{Spritebox/3|ndex=076}}
+{{Spritebox/4|ndex=076}}
+{{Spritebox/5|ndex=076}}
+{{Spritebox/6|ndex=076}}
+{{Spritebox/7/2Forms|ndex=076|form1=A}}
+{{Spritebox/Footer|076|Golem}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Alolan Golem and its Alolan {{p|Geodude|evolutionary}} {{p|Graveler|relatives}}.
+* Alolan Golem, along with its Alolan evolutionary relatives, were designed by [[Hitoshi Ariga]].
+* Between {{3v|Red|Blue|Yellow}} in [[Generation I]], Golem is the only Pokémon that cannot ever be seen without trading; however, its existence is implied by a [[non-player character]] who had just received his friend's {{p|Graveler}}.
+* Alolan Golem has the highest base {{stat|Defense}} stat of all {{type|Electric}} Pokémon.
+
+===Origin===
+Golem is probably based on a tortoise. Tortoise are believed to hold the world on their backs in many myths, including the Hindu, Chinese and Native American mythologies. Its "shell" may represent the {{wp|tectonic plates}} of Earth.
+
+Alolan Golem, like its predecessors, seems to have taken on the attributes of {{wp|magnetite}}, a subset of iron ore known for its black crystalline appearance in nature. The crystals on its back also may be derived from the {{wp|railgun}}.
+
+====Name origin====
+Golem is a reference to the {{wp|golem}}s of medieval and {{wp|Jewish mythology|Hebrew}} legend.
+
+Golonya may be a combination of ''{{wp|golem}}'' and ''stone''<!--so where does the ''(n)ya'' come in?-->. Additionally, ゴロゴローン ''gorogorōn'' is the sound of rolling, a habit of Golem.
+
+==In other languages==
+{{Other languages|type=Rock|type2=Ground
+|ja=ゴローニャ ''Golonya''|jameaning=From ''{{wp|golem}}'' and ''stone'', and possibly {{tt|ゴロゴローン ''gorogorōn''|the sound rolling}}
+|fr=Grolem|frmeaning=Corruption of ''{{tt|gros|big}}'' and ''Golem''
+|es=Golem|esmeaning=Same as English name
+|de=Geowaz|demeaning=From ''geo'' and ''{{tt|Watz|informal expression for a massive piece of stone}}''
+|it=Golem|itmeaning=Same as English name
+|ko=딱구리 ''Ttakguri''|komeaning=From {{tt|딱딱하다 ''ddakddakhada''|(to be) hard, stiff}} and {{tt|구르다 ''gureuda''|to roll or prowl around}}; possibly literally "hard roller"
+|zh_yue=滾動岩 ''Gwánduhngngàahm''|zh_yuemeaning=Literally "Rolling boulder"
+|zh_cmn=隆隆岩 ''Lónglóngyán''|zh_cmnmeaning=Literally "Rumbling boulder"
+|hi=गोलएम ''Golem''|himeaning=Transcription of English name
+|ru=Голем ''Golem''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Notes==
+<references />
+
+==External links==
+* {{wp|Geodude, Graveler, and Golem|Article on Wikipedia}}
+
+{{-}}
+{{PokémonPrevNext/Head|type=Rock|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=075|prev=Graveler|nextnum=077|next=Ponyta}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+[[Category:Gray-colored Pokémon]]<!--Alolan Golem-->
+[[Category:Pokémon whose base stats changed in Generation VI]]
+
+[[de:Geowaz]]
+[[fr:Grolem]]
+[[it:Golem]]
+[[ja:ゴローニャ]]
+[[pl:Golem]]
+[[zh:隆隆岩]]

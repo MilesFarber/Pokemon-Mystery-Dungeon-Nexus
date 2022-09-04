@@ -1,0 +1,686 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Flying}}
+{{PokémonPrevNext/GO|species=Butterfree}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=011|prev=Metapod|nextnum=013|next=Weedle|round=none}}
+{{PokémonPrevNext/Disambig|species=Butterfree}}
+|}
+{{Pokémon Infobox
+|name=Butterfree
+|jname=バタフリー
+|jtranslit=Batafurī
+|tmname=Butterfree
+|ndex=012
+|jdex=026
+|karea=Central
+|kdex=025
+|adex=019
+|type1=Bug
+|type2=Flying
+|category=Butterfly
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=70.5
+|weight-kg=32.0
+|abilityn=d
+|ability1=Compound Eyes
+|abilityd=Tinted Lens
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=3
+|evsa=2
+|evsd=1
+|expyield=178<!--173 in Gen V-VI-->
+|oldexp=160
+|lv100exp=1,000,000
+|gendercode=127
+|color=White
+|catchrate=45
+|body=13
+|pokefordex=butterfree
+|generation=1
+|friendship=70
+}}
+'''Butterfree''' ([[List of Japanese Pokémon names|Japanese]]: '''バタフリー''' ''Butterfree'') is a dual-type {{2t|Bug|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Metapod}} starting at [[level]] 10. It is the final form of {{p|Caterpie}}.
+
+==Biology==
+Butterfree resembles a vaguely anthropomorphic butterfly with a purple body. Unlike true insects, it only has two body segments and four light blue legs. The upper pair of legs resemble small, three-fingered hands, while the lower pair resemble long, digit-less feet. Butterfree has two black antennae, a light blue snout with two fangs underneath, and large, red compound eyes. Its two pairs of veined wings are white with black accents. The oval scales of a female Butterfree's lower wings are black, but white in males.
+
+Butterfree's wings are covered with poisonous powders that fall off continuously as it flies. This powder repels water, enabling it to gather honey even in the rain. Butterfree will roam up to {{tt|six miles|ten kilometers}} from its nest in search of honey, which it carries with the hairs of its legs. It also consumes sap from trees pierced by {{p|Heracross}}, as seen in [[EP119|the anime]]. Butterfree is found in {{DL|List of Pokémon by habitat|Forest Pokémon|forests}}, but has also [[EP021|been observed]] flying near the ocean as part of its migratory breeding pattern.
+
+==In the anime==
+===In the main series===
+[[File:Ash Butterfree M20.png|220px|thumb|Butterfree in the {{pkmn|anime}}]]
+[[File:Orange Islands Butterfree.png|thumb|220px|An {{DL|List of alternately colored Pokémon in the anime|Orange Archipelago Butterfree}} in the anime]]
+====Major appearances====
+=====[[Ash's Butterfree]]=====
+{{Ash}} had a Butterfree that he {{pkmn2|caught}} as a {{p|Caterpie}}, the first Pokémon he ever caught. Butterfree was also the first Pokémon Ash [[released Pokémon|let go]], allowing it to mate with a [[pink Butterfree]] in ''[[EP021|Bye-Bye Butterfree]]''.
+
+=====[[Pink Butterfree]]=====
+A pink Butterfree appeared in ''[[EP021|Bye-Bye Butterfree]]''. Ash's Butterfree fell in love with it and fought to save it from Team Rocket. At the end of the episode, Ash released his Butterfree to mate with the pink Butterfree. The pink Butterfree reappeared in ''[[M20|I Choose You!]]'', which is set in a timeline different from the main series.
+
+=====Other=====
+Multiple wild Butterfree appeared in ''[[EP021|Bye-Bye Butterfree]]'', where they engaged in a ceremony that Ash's Butterfree took a part of.
+
+[[Ritchie]] has a Butterfree nicknamed Happy. It was first seen in ''[[EP078|A Friend in Deed]]''.
+
+An {{DL|List of alternately colored Pokémon in the anime|Orange Archipelago Butterfree|Orange Archipelago variant}} of Butterfree living on [[Valencia Island]] appeared in ''[[EP083|Poké Ball Peril]]''. It had not eaten for days despite [[Professor Ivy]]'s effort to make different kinds of food for it. It took a liking to {{an|Brock}}'s food, however, and was one of the reasons he stayed behind. It reappeared in a flashback in ''[[EP115|A Tent Situation]]''.
+
+A Butterfree appeared in ''[[M03|Spell of the Unown: Entei]]'', under the ownership of {{OBP|Lisa|M03}}.
+
+After {{TRT}} kidnapped Dr. Gordon and flew away on [[Jessie's Dustox]] in ''[[AG142|Caterpie's Big Dilemma]]'', [[Xander]]'s [[Giant Pokémon|giant]] Metapod evolved into a Butterfree to chase Team Rocket. Xander's Butterfree shrunk back to its normal size at the end of the episode.
+
+{{OBP|Jeremy|AG151}} used a Butterfree in the [[Appeal|Appeals Round]] of the {{ka|Silver Town}} [[Pokémon Contest]] in ''[[AG151|Weekend Warrior]]''.
+
+[[Drew]] has a Butterfree, which he used during his [[Double Battle|two-on-two]] [[Contest Battle]] against {{an|May}} in ''[[AG187|The Unbeatable Lightness of Seeing]]''. Butterfree battled alongside {{p|Roselia}} against {{TP|May|Combusken}} and {{TP|May|Beautifly}} and managed to win.
+
+Multiple Butterfree appeared in ''[[BW130|Butterfree and Me!]]'', including one Ash helped to evolve.
+
+Multiple wild Butterfree appeared in ''[[M20|I Choose You!]]''.
+
+====Minor appearances====
+A Butterfree appeared in ''[[EP008|The Path to the Pokémon League]]'', under the ownership of [[A.J.]].
+
+Multiple Butterfree appeared in ''[[EP015|Battle Aboard the St. Anne]]''.
+
+A Butterfree appeared in ''[[EP028|Pokémon Fashion Flash]]'', ''[[EP043|The March of the Exeggutor Squad]]'', ''[[EP081|Pallet Party Panic]]'', and ''[[EP127|Once in a Blue Moon]]''.
+
+Multiple Butterfree appeared in ''[[EP119|A Sappy Ending]]''.
+
+Multiple Butterfree appeared in the opening sequences of ''[[M02|The Power of One]]'', ''[[M04|Celebi: The Voice of the Forest]]'', ''[[M05|Pokémon Heroes: Latios & Latias]]'', ''[[M07|Destiny Deoxys]]'', and ''[[M11|Giratina and the Sky Warrior]]''.
+
+A flock of {{DL|List of alternately colored Pokémon in the anime|Orange Archipelago Butterfree}} living on the [[Seven Grapefruit Islands]] appeared in a flashback in ''[[EP094|Snack Attack]]''.
+
+A {{pkmn|Trainer}}'s {{DL|List of alternately colored Pokémon in the anime|Orange Archipelago Butterfree}} appeared in ''[[EP099|The Mandarin Island Miss Match]]''.
+
+An Orange Archipelago Butterfree living on [[Shamouti Island]] appeared in ''[[Slowking's Day]]''.
+
+Three Butterfree were seen at [[Professor Oak's Laboratory]] in ''[[EP116|The Rivalry Revival]]''.
+
+Multiple Butterfree appeared in ''[[EP132|For Crying Out Loud]]'', where they played with [[Wilhomena]]'s {{DL|Wilhomena|Marill}}.
+
+A Butterfree was one of the Pokémon seen at the [[Pokémon Swap Meet]] in ''[[EP146|Tricks of the Trade]]''.
+
+A flock of Butterfree were seen flying over [[Mount Quena]] in ''[[Mewtwo Returns]]''.
+
+Multiple Butterfree appeared in ''[[EP180|Houndoom's Special Delivery]]''.
+
+Three Butterfree appeared in a flashback in ''[[EP185|The Light Fantastic]]''.
+
+Several Butterfree appeared in {{an|Brock}}'s dream in ''[[EP193|Sick Daze]]''.
+
+A Butterfree was one of the inhabitants of an oasis just for Pokémon in ''[[EP207|Got Miltank?]]''.
+
+A Butterfree appeared in ''[[EP233|A Tyrogue Full of Trouble]]'', where it was followed by [[Misty's Togepi]].
+
+Two Butterfree were seen at [[Lake Slowpoke]] in ''[[EP244|Enlighten Up!]]''.
+
+Several Butterfree were among the inhabitants of the [[Dragon Holy Land]] in ''[[EP252|Fangs for Nothin']]''.
+
+A Butterfree made a brief appearance in ''[[PK11|Camp Pikachu]]''.
+
+A flock of Butterfree appeared before [[Ash's Larvitar]] in ''[[EP258|Hatch Me If You Can]]''.
+
+A {{pkmn|Coordinator}}'s Butterfree appeared in ''[[AG033|Now That's Flower Power!]]''.
+
+Multiple Butterfree appeared in ''[[AG166|Curbing the Crimson Tide!]]'' and ''[[AG188|Pinch Healing!]]''.
+
+[[Solidad]] used her {{DL|Solidad|Butterfree}} in the [[Kanto Grand Festival]] in ''[[AG181|Channeling the Battle Zone]]''.
+
+A wild Butterfree appeared in ''[[DP071|Pokémon Ranger and the Kidnapped Riolu! Part One]]''.
+
+A Butterfree appeared in ''[[DP088|Camping It Up!]]''.
+
+A Butterfree was seen as part of [[Lila]]'s famous "Tiger Lily Smile" background in ''[[DP095|Battling the Generation Gap!]]''.
+
+A group of Butterfree appeared in ''[[M16|Genesect and the Legend Awakened]]'' at [[Pokémon Hills]].
+
+A Trainer's Butterfree appeared in ''[[XY077|A Relay in the Sky!]]''.
+
+A Butterfree appeared in ''[[XY086|A Legendary Photo Op!]]''.
+
+A Butterfree appeared in a flashback in ''[[XY121|Seeing the Forest for the Trees!]]''.
+
+A Trainer's Butterfree appeared in ''[[SM001|Alola to New Adventure!]]'', during a flashback.
+
+A Butterfree appeared in ''[[SM003|Loading the Dex!]]'' as a silhouette that [[Rotom Pokédex]] brought up.
+
+A Butterfree appeared in ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', where it flew past {{an|Lillie}}'s balcony and received some food. It reappeared in ''[[SM027|A Glaring Rivalry!]]''.
+
+Two Butterfree appeared in ''[[SM018|A Seasoned Search!]]'', where they were among the {{type|Flying}} attracted by {{TP|Mallow|Bounsweet}}'s {{m|Sweet Scent}} in their attempts to attract a {{p|Oricorio}}.
+
+A Butterfree appeared in ''[[SM020|Partner Promises!]]''.
+
+Two Butterfree appeared in ''[[SM029|Lulled to La-La Land!]]'' during a flashback.
+
+Two Trainers' Butterfree appeared in ''[[SM040|Balloons, Brionne, and Belligerence!]]''.
+
+Four wild Buttefree appeared in ''[[SM042|Alola, Kanto!]]''.
+
+Three wild Butterfree appeared in [[SM059]], during a flashback.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP004|Butterfree|Ash's Pokédex|Butterfree. One week after {{p|Caterpie}} [[Evolution|evolves]] into {{p|Metapod}}, it again evolves into Butterfree.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+{{Animedexheader|Emerald}}
+{{Animedexbody|AG142|Butterfree|May's Pokédex|Butterfree, the Butterfly Pokémon. Butterfree is the evolved form of Metapod. The scales covering its wings help it to shed water.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Emerald}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW130|Butterfree|Ash's Pokédex|Butterfree, the Butterfly Pokémon. Butterfree's love of flower nectar draws it to seek out flowers, even if they don't have much pollen.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+===In Pokémon Origins===
+A Butterfree appeared in ''[[PO04|File 4: Charizard]]'' in a fantasy.
+
+==In the manga==
+[[File:Ash Butterfree EToP.png|thumb|230px|Butterfree in [[The Electric Tale of Pikachu]]]]
+[[File:Kitty.png|thumb|240px|Butterfree in [[Pokémon Adventures]]]]
+===In The Electric Tale of Pikachu manga===
+{{main|Ash's Butterfree}}
+{{Ash}}'s Butterfree makes a brief appearance in the manga series [[The Electric Tale of Pikachu]]. It was first caught in ''[[ET01|Pikachu, I See You!]]'' as a {{p|Caterpie}} and then evolved into {{p|Metapod}} in ''[[ET02|Play Misty For Me]]''.
+
+Ash's Metapod evolves into Butterfree in ''Play Misty For Me'' during Ash's Gym battle with {{an|Misty}}. Its last appearance as a Butterfree was in ''[[ET04|Haunting My Dreams]]'', battling a giant {{p|Haunter}}.
+
+Melanie took care of three Butterfree in ''[[ET07|Pikachu's Excellent Adventure]]''.
+
+===In the How I Became a Pokémon Card manga===
+{{HIBAPC|Midori}} owns a Butterfree that was first in [[PW10]].
+
+===In the Pokémon Adventures manga===
+{{main|Kitty}}
+Butterfree debuts in ''[[PS012|Wake Up—You're Snorlax!]]'' as one of the Pokémon shocked by {{adv|Red}}'s [[Pika]] in a forest.
+
+{{adv|Yellow}}'s Butterfree, nicknamed Kitty, evolved from her Caterpie that had just recently evolved into a Metapod in ''[[PS089|The Might of... Metapod?!]]''. Her uncle, Fisherman [[Wilton]], also has a Butterfree which first appeared in ''[[PS039|Just a Spearow Carrier]]''. Both of them are able to use Butterfree as a mode of flight, using Butterfree to hold onto their backs as they fly.
+
+In ''[[PS179|The Last Battle XIII]]'' a Butterfree was one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+In ''[[PS442|Out-Odding Oddish]]'', a Butterfree appeared in the [[Pokéathlon]].
+
+In ''[[PS446|Weavile Wobbles But It Won't Fall Down]]'', a Trainer at the {{safari|Johto}} owns one.
+
+According to the Pokédex at the end of [[Pokémon Adventures volume 1|Volume 1]], Red appears to have captured a Caterpie which evolved into a Metapod and then a Butterfree.
+
+===In the Pokémon Gold & Silver: The Golden Boys manga===
+Bugsy has a Butterfree as his main Pokémon. It was first seen as a Metapod in ''[[GB04|Let's Aim For The Goal]]''.
+
+===In the Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon manga===
+A Butterfree appeared in [[Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon]].
+
+===In the Pokémon Pocket Monsters manga===
+{{OBP|Giovanni|Pocket Monsters}} used a Butterfree in a haircut salon that he built.
+
+==In the TCG==
+{{main|Butterfree (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|Pokémon Mystery Dungeon]]: Butterfree is the mother of {{p|Caterpie}}, who she sends the player to rescue in the first mission of the game.
+
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Flying}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=In battle, it flaps its wings at high speed to release highly toxic dust into the air.}}
+{{Dex/Entry1|v=Yellow|entry=Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Its wings are covered with poisonous dust. If you see one flapping its wings, be careful not to inhale any of the dust.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.}}
+{{Dex/Entry1|v=Silver|entry=Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.}}
+{{Dex/Entry1|v=Crystal|entry=It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over {{tt|six miles|ten kilometers}} from its nest.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over {{tt|six miles|ten kilometers}} away.}}
+{{Dex/Entry1|v=FireRed|entry=The wings are protected by a rain-repellent dust. As a result, this Pokémon can fly about even in rain.}}
+{{Dex/Entry1|v=LeafGreen|entry=In battle, it flaps its wings at great speed to release highly toxic dust into the air.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.}}
+{{Dex/Entry1|v=HeartGold|entry=It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.}}
+{{Dex/Entry1|v=SoulSilver|entry=Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.}}
+{{Dex/Entry1|v=Y|entry=The wings are protected by rain-repellent dust. As a result, this Pokémon can fly about even in rain.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Close examination of its large eyes reveals that each eye is composed of a myriad of tiny eyes.}}
+{{Dex/Entry1|v=Moon|entry=When attacked by other Pokémon, it defends itself by scattering its poisonous scales and fluttering its wings.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Nectar from pretty flowers is its favorite food. In fields of flowers, it has heated battles with Cutiefly for territory.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Alternate games===
+;[[Pokémon Pinball]], [[Pokémon Trading Card Game]] ({{TCG|Base Set}})
+:In battle, it flaps its wings at high speed, releasing highly toxic dust into the air.
+;[[Pokémon Trading Card Game]] ({{TCG|Neo Discovery}})
+:It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Flying}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Evolution|Evolve]] {{p|Metapod}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Evolution|Evolve]] {{p|Metapod}}}}
+{{Availability/Entry1|v=Yellow|area=[[Evolution|Evolve]] {{p|Metapod}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Gold|area={{rt|2|Kanto}}{{sup/t|M}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br>[[Route]]s {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}, [[Azalea Town]], [[Ilex Forest]], [[Lake of Rage]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|1|v=Silver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Crystal|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}{{sup/t|M}}{{sup/t|D}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br>[[Ilex Forest]] ([[Headbutt tree]]s)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Metapod}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cipher Key Lair]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Metapod}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Metapod}}}}
+{{Availability/Entry1|v=HeartGold|area={{rt|2|Kanto}}{{sup/t|M}}{{sup/t|D}}<br>[[Viridian Forest]]{{sup/t|M}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br>{{rt|47|Johto}}, [[Ilex Forest]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=SoulSilver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|1|v=Black}}
+{{Availability/Entry1|1|v=White|area={{rt|12|Unova}} ({{DL|Phenomenon|Rustling grass}})}}
+{{Availability/Entry1/None|1|v=Black 2}}
+{{Availability/Entry1|1|v=White 2|area=[[Pinwheel Forest]] ([[Hidden Grotto]])}}
+{{Availability/Entry1|1|v=Dream World|color={{dream color}}|area={{dwa|Windswept Sky}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Bug-type Safari|Bug]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|5|Alola}}, [[Melemele Meadow]]<br>{{rt|5|Alola}}, [[Lush Jungle]], [[Melemele Meadow]] ([[SOS Battle]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|5|Alola}}, [[Melemele Meadow]]<br>{{rt|5|Alola}}, [[Lush Jungle]], [[Melemele Meadow]] ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Flying}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Pokémon Island Beach|Beach]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Metapod}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Viridian Forest (Channel)|Forest]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 1]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Metapod}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|1|v=MD Time|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Apple Woods]] (1F-7F)}}
+{{Availability/Entry1|1|v=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Evolution|Evolve]] {{p|Metapod}}}}
+{{Availability/Entry1|1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Apple Woods]] (1F-7F)}}
+{{Availability/Entry1|1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode C, A & S)</small>}}
+{{Availability/Entry1|1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Meadow Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Sun-Dappled Bank]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Chill Battle#The Forest of Memories|Chill Battle: The Forest of Memories]] <small>(Final Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 2|Safari Jungle: Stage 2]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|A Great Chance a Day!}}''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Pixie Glen|Fairy Land: Pixie Glen]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 26|Area 26: Stage 07]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Bug|type2=Flying|Frontier=yes
+|rby1=Bitter Berry|rby1type=None|rby1image=no|rby1rar=100
+|gsc1=SilverPowder|gsc1type=None|gsc1rar=8
+|e1=SilverPowder|e1type=None|e1rar=5
+|hgss1=SilverPowder|hgss1type=None|hgss1rar=5
+|w1=SilverPowder|w1type=None|w1rar=5
+|w21=SilverPowder|w21type=None|w21rar=5
+|xy1=Silver Powder|xy1type=None|xy1rar=5
+|sm1=Silver Powder|sm1type=None|sm1rar=5
+|usum1=Silver Powder|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+=====Generation I-V=====
+{{Stats
+|type=Bug
+|type2=Flying
+|HP=60
+|Attack=45
+|Defense=50
+|SpAtk=80
+|SpDef=80
+|Special=80
+|Speed=70}}
+
+=====Generation VI onward=====
+{{Stats
+|type=Bug
+|type2=Flying
+|HP=60
+|Attack=45
+|Defense=50
+|SpAtk=90
+|SpDef=80
+|Speed=70}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Flying
+|Speed=2
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=2
+|StaminaMax=3
+|Jump=5
+|JumpMax=5}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Flying
+|Normal=100
+|Fighting=25
+|Flying=200
+|Poison=100
+|Ground=0
+|Rock=400
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=25
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=ironballiv
+|gen1bug=yes
+|newground=½
+|oldpoison=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Butterfree|Bug|Flying|1}}
+{{learnlist/level7|1|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level7|1|Confusion|Psychic|Special|50|100|25}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level7|11|Confusion|Psychic|Special|50|100|25}}
+{{learnlist/level7|13|Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/level7|13|Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/level7|13|Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/level7|17|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level7|19|Silver Wind|Bug|Special|60|100|5||'''}}
+{{learnlist/level7|23|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level7|25|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/level7|29|Whirlwind|Normal|Status|—|—|20}}
+{{learnlist/level7|31|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level7|35|Rage Powder|Bug|Status|—|—|20}}
+{{learnlist/level7|37|Captivate|Normal|Status|—|100|20}}
+{{learnlist/level7|41|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/level7|43|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|47|Quiver Dance|Bug|Status|—|—|20}}
+{{learnlist/levelf/7|Butterfree|Bug|Flying|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Butterfree|Bug|Flying|1}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|—|—|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Butterfree|Bug|Flying|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Butterfree|Bug|Flying|2}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Butterfree|Bug|Flying|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Butterfree|Bug|Flying|2}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutorf/7|Butterfree|Bug|Flying|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Butterfree|Bug|Flying|1}}
+{{learnlist/prevo7|010|Caterpie|||||Tackle|Normal|Physical|40|100|35}}
+{{learnlist/prevo7|010|Caterpie|||||String Shot|Bug|Status|—|95|40}}
+{{learnlist/prevo7|010|Caterpie|||||Bug Bite|Bug|Physical|60|100|20|'''|{{sup/7|SM}}}}
+{{learnlist/prevo7|011|Metapod|||||Harden|Normal|Status|—|—|30}}
+{{learnlist/prevof/7|Butterfree|Bug|Flying|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" align="center" style="background:#{{tcg grass color light}}; border:3px solid #{{tcg grass color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Fly}}
+| style="background:#fff; {{roundybr|5px}}" | [[Butterfree (Southern Islands 9)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Flying}}
+{{Spindata/Pinball|col=3|type=Bug|ndex=012|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=012|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=012
+|body=1
+|rate=Evolve
+|area=Mist-Rise Forest
+|P1=I'll protect you with the wicked toxins in my wings.
+|P2=Oh, no... My health has dropped to half...
+|P3=I've about had it... It hurts to even fly...
+|PL=I leveled up! I'm in peak form! Let me show you!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=012
+|body=1
+|rate=5.5
+|IQ=A
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Bug|ndex=012
+|Pad=Butterfree came to the [[Meadow Zone]] to play! His favorite Attraction is {{DL|Attractions|Pelipper's Circle Circuit}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=012
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=012|num=749
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Rock Shot
+|skilldesc=Erases two breakable-rock disruptions and increases damage.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=012
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=120
+|attack=167
+|defense=151
+|fast={{m|Bug Bite}}{{tt|*|Prior to February 16, 2017}}, {{m|Confusion}}, {{m|Struggle Bug}}{{tt|*|From February 16, 2017 onward}}
+|special={{m|Bug Buzz}}, {{m|Psychic}}, {{m|Signal Beam}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Bug
+|type2=Flying
+|pictype=art
+|no1=010
+|name1=Caterpie
+|type1-1=Bug
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 7}}
+|no2=011
+|name2=Metapod
+|type1-2=Bug
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 10}}
+|no3=012
+|name3=Butterfree
+|type1-3=Bug
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Flying}}
+{{Spritebox/1|ndex=012}}
+{{Spritebox/2|ndex=012}}
+{{Spritebox/3|ndex=012}}
+{{Spritebox/4/Gender|ndex=012}}
+{{Spritebox/5/Gender|ndex=012}}
+{{Spritebox/6/Gender|ndex=012}}
+{{Spritebox/7/Gender|ndex=012}}
+{{Spritebox/Footer|012|Butterfree}}
+
+==Trivia==
+<!--
+DO NOT ADD TRIVIA ABOUT BUTTERFREE BEING RELATED TO VENONAT.
+-->
+* Butterfree was the first Pokémon shown in the {{pkmn|anime}} to have an alternate color, [[Pink Butterfree|pink]]. This has only been seen in a single female, and unlike a {{Shiny}} Butterfree, which has green eyes and pink wings, limbs, and snout, this Butterfree only differed in its pink body and wings.
+* Butterfree has been trained by four important anime Trainers: {{Ash}}, [[Ritchie]], [[Solidad]], and [[Drew]].
+* Butterfree shares its {{pkmn|category}} with {{p|Beautifly}}. They are both known as the Butterfly Pokémon.
+* Butterfree can be seen as a parallel to {{p|Beedrill}}. Both of their unevolved stages evolve at level 7 and again at level 10. They both go through metamorphosis-like evolution and have the same base stat total of 395. Also, while Beedrill is [[Game-exclusive Pokémon|exclusive]] to {{game3|Black and White|Black|s}} and [[Pokémon Black and White Versions 2|Black 2]], Butterfree is exclusive to White and White 2.
+
+===Origin===
+Its design appears to be based on the {{wp|Aporia crataegi|Black-veined White}} butterfly.
+
+====Name origin====
+Butterfree is a combination of ''{{wp|butterfly}}'' and ''free'', possibly referring to its ability to fly after being grounded for two evolutionary stages. In Japanese, the name may also derive from the word 振る ''furu'' (to flap, as in wings).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Flying
+|ja=バタフリー ''Butterfree''|jameaning=From {{tt|バタフライ ''batafurai''|butterfly}} and {{tt|フリー ''furī''|free}}
+|fr=Papilusion|frmeaning=From {{tt|''papillon''|butterfly}} and ''illusion''
+|es=Butterfree|esmeaning=Same as English/Japanese name
+|de=Smettbo|demeaning=From {{tt|''Schmetterling''|butterfly}} and possibly {{tt|''Bö''|gust}}
+|it=Butterfree|itmeaning=Same as English/Japanese name
+|ko=버터플 ''Butterfle''|komeaning=Corruption of {{tt|버터플라이 ''beoteopeullai''|butterfly}}
+|bg=Батърфри ''Batŭrfri''|bgmeaning=Transcription of English name
+|zh_yue=巴他蝶 ''Bātādihp''|zh_yuemeaning=Partial transliteration of Japanese name. 蝶 is from {{tt|蝴蝶 ''wùhdihp''|butterfly}}
+|zh_cmn=巴大蝴 ''Bādàhú''|zh_cmnmeaning=Partial transliteration of Japanese name. 蝴 is from {{tt|蝴蝶 ''húdié''|butterfly}}
+|hu={{tt|Csodalepke|Mewtwo Returns only, where it was mistakenly translated}}|humeaning="Wonder butterfly"
+|lt=Drugelaisvis|ltmeaning=From {{tt|''drugys''|butterfly}} and {{tt|''laisvas''|free}}
+|ru=Баттерфри ''Batterfri''|rumeaning=Transcription of English/Japanese name
+|hi=बटरफ्री ''Butterfree''|himeaning=Transcription of English/Japanese name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Butterfree]]
+* [[Pink Butterfree]]
+* [[Kitty]]
+* [[Butterfree (Red and Blue Rescue Team)]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+* {{wp|Caterpie, Metapod, and Butterfree|Article on Wikipedia}}
+
+{{-}}
+{{PokémonPrevNext/Head|type=Bug|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=011|prev=Metapod|nextnum=013|next=Weedle|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon whose base stats changed in Generation VI]]
+
+[[de:Smettbo]]
+[[fr:Papilusion]]
+[[it:Butterfree]]
+[[ja:バタフリー]]
+[[pl:Butterfree]]
+[[zh:巴大蝶]]

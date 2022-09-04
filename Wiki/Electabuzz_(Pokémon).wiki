@@ -1,0 +1,632 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Electabuzz}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=124|prev=Jynx|nextnum=126|next=Magmar|round=none}}
+{{PokémonPrevNext/Disambig|species=Electabuzz}}
+|}
+{{Pokémon Infobox
+|name=Electabuzz
+|jname=エレブー
+|jtranslit=Erebū
+|tmname=Eleboo
+|ndex=125
+|oldjdex=155
+|jdex=157
+|u2dex=057
+|sdex=198
+|adex=227
+|fbrow=188
+|abrow=071
+|obrow=116
+|typebox=1
+|type1=Electric
+|category=Electric
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=66.1
+|weight-kg=30.0
+|abilityn=d
+|ability1=Static
+|abilityd=Vital Spirit
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=25
+|evtotal=2
+|evsp=2
+|expyield=172
+|oldexp=156
+|lv100exp=1,000,000
+|gendercode=63
+|color=Yellow
+|catchrate=45
+|body=06
+|pokefordex=electabuzz
+|generation=1
+|friendship=70
+}}
+'''Electabuzz''' ([[List of Japanese Pokémon names|Japanese]]: '''エレブー''' ''Eleboo'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Elekid}} starting at [[level]] 30 and evolves into {{p|Electivire}} when [[trade]]d holding an [[Electirizer]].
+
+==Biology==
+Electabuzz is a slightly humanoid creature with a few feline traits. It is covered in yellow fur with black stripes; a large stripe on its chest is shaped like a lightning bolt. It has a long tail. There are three, clawed toes on each of its feet, two in front and one in back, while it has five fingers on each hand. Electabuzz has two sharp fangs and a pair of antennae with bulbous ends. In the dark, Electabuzz will glow a light blue with the electrical charge stored inside of it.
+
+Electabuzz is capable of storing huge amounts of electrical energy inside of its body over long periods. During torrential thunderstorms, Electabuzz will compete to determine which is capable of attaining the highest ground, so as to be most likely struck by a bolt of lightning. If struck, Electabuzz will absorb the electricity and will not be harmed. It is in this same manner that captured Electabuzz are sometimes used in small towns as an alternative to lightning rods.
+
+As demonstrated in [[EP042|the anime]], Electabuzz is enraged by the color red. If this Pokémon sees the color red, it will become violent and raze the area around it. In battle, Electabuzz windmills its arms, apparently to add momentum to its punches. This method of battle seems ineffective, as its opponent has been known to escape in the meantime. It is also capable of entirely nonverbal communication via electrical currents when in close proximity to another of its species. Electabuzz typically resides in or around power plants, and can also be found in {{DL|List of Pokémon by habitat|Grassland Pokémon|grasslands}}. It has been known to wander into cities and cause blackouts.
+
+==In the anime==
+[[File:Paul Electabuzz.png|thumb|250px|Electabuzz in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Paul's Electabuzz]]====
+In ''[[DP052|Smells Like Team Spirit]]'', Paul's {{p|Elekid}} evolves into Electabuzz in the [[Double Battle|Tag Battle]] Competition. In ''[[DP066|Lost Leader Strategy!]]'' it was revealed that Paul had left his Electabuzz under the care of his brother, [[Reggie]]. It then returned to Paul's team after the events of ''[[DP069|Enter Galactic!]]''. It was shown to have evolved into Electivire in ''[[DP184|Casting a Paul on Barry!]]''.
+
+====Other====
+Electabuzz debuted in ''[[EP042|Showdown at Dark City]]'', under the ownership of [[Kaz]]. It is the [[Kas Gym]]'s primary Pokémon and was used in the feuds that the Kas and [[Yas Gym]]s were having.
+
+[[Rudy]], the [[Trovita Island]] [[Gym Leader]], used an Electabuzz in his match against {{Ash}} in ''[[EP103|Misty Meets Her Match]]''. It battled against {{AP|Pikachu}} and won.
+
+In ''[[EP112|Enter The Dragonite]]'', {{OBP|Drake|Orange League}}, the [[Orange Crew Supreme Gym Leader]], used his Electabuzz to fight {{AP|Bulbasaur}} and {{AP|Charizard}}. Drake's Electabuzz defeated {{Ash}}'s Bulbasaur before being defeated by Ash's Charizard.
+
+An Electabuzz was the head of security in a power plant. In ''[[EP199|Current Events]]'', it attacked Ash and his {{AP|Chikorita}}, seeing them as intruders, but was then captured by {{TRT}}.
+
+[[Dr. Namba]] owns an Electabuzz that he used in ''[[EP222|A Promise is a Promise]]''.
+
+[[Macy]] used an Electabuzz in her [[Silver Conference]] battle against Ash in ''[[EP267|Love, Pokémon Style]]''. It battled against {{AP|Phanpy}} before being recalled. It later battled and defeated {{AP|Totodile}} before losing to {{AP|Squirtle}}.
+
+{{OBP|Jump|AG126}} used an Electabuzz in the first round of the [[Ever Grande Conference]] in ''[[AG126|Saved by the Beldum]]'', but it was defeated by [[Morrison]]'s newly-evolved {{TP|Morrison|Metang}}.
+
+===Minor appearances===
+In ''[[EP058|Riddle Me This]]'', Electabuzz was one of the Pokémon shown in an exercise Gym. {{TRT}} tried to steal the group of {{type|Fighting}} Pokémon, but were stopped by {{Ash}} and {{ashfr}}.
+
+An Electabuzz appeared in ''[[M01|Mewtwo Strikes Back]]'' and ''[[EP108|Pokémon Double Trouble]]''.
+
+An Electabuzz was among the Pokémon controlled by [[Cassidy]] and [[Butch]] in ''[[EP086|Pikachu Re-Volts]]''.
+
+A {{DL|List of alternately colored Pokémon in the anime|Pink Pokémon|pink}} Electabuzz appeared in {{TRT}}'s fantasy in ''[[EP088|In the Pink]]''.
+
+Multiple Electabuzz also appeared in ''[[M02|The Power of One]]''.
+
+An Electabuzz was seen in a fantasy in ''[[EP116|The Rivalry Revival]]''.
+
+Electabuzz was one of the Electric-type Pokémon seen in the lake with crystal in ''[[EP242|As Clear As Crystal]]''.
+
+An Electabuzz appeared in the opening of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A {{pkmn|Coordinator}}'s Electabuzz was used in the [[Contest Battle|Battle Stage]] of the {{to|Arrowroot}} {{pkmn|Contest}} in ''[[DP171|Dawn of a Royal Day!]]''.
+
+An Electabuzz appeared in ''[[M13|Zoroark: Master of Illusions]]'' alongside an {{p|Elekid}} and {{p|Electivire}}, all under the ownership of a [[Pokémon Baccer World Cup]] participant.
+
+A Student's Electabuzz appeared in ''[[SM002|The Guardian's Challenge!]]''. It appeared again in [[SM064]].
+
+A Trainer's Electabuzz appeared in ''[[SM017|Crystal-Clear Sleuthing!]]''.
+
+A Trainer's Electabuzz appeared in ''[[SM021|One Journey Ends, Another Begins...]]''
+
+Two Trainers' Electabuzz appeared in ''[[SM027|A Glaring Rivalry!]]''. One of them reappeared in a flashback in ''[[SM047|A Masked Warning!]]''.
+
+An Electabuzz appeared in ''[[SM028|Pulling Out the Pokémon Base Pepper!]]'', where it was the pitcher in a [[Baseball|Pokémon Base]] game. It appeared again on television in ''[[SM048|Night of a Thousand Poses!]]''.
+
+An Electabuzz appeared in ''[[M20|I Choose You!]]'', where it was among the Pokémon that were under the control of {{OBP|Marshadow|M20}}.
+
+An Electabuzz appeared in a photo taken by {{Rotom}} in ''[[SM042|Alola, Kanto!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP042|Scyther and Electabuzz|Ash's Pokédex|{{p|Scyther}} and Electabuzz are both rare Pokémon. They are able to distinguish colors and become enraged by the color red.}}
+|}
+{| width="100%" style="background: #{{colorschemedark|Kanto}}"
+|-
+| width="100%" style="text-align:right; background: #{{colorschemelight|Kanto}}; {{roundybottom|10px}}" | <small>''' Original series entries continue below.'''</small>
+|}
+|}
+{{Animedexheader|Johto}}
+{{Animedexbody|EP199|Electabuzz|Ash's Pokédex|Electabuzz, the Electric Pokémon. Electabuzz is the [[Evolution|evolved]] form of {{p|Elekid}}. With powerful electric currents constantly coursing through its body, Electabuzz appears to glow.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP052|Electabuzz|Dawn's Pokédex|Electabuzz, the Electric Pokémon. An evolved form of {{p|Elekid}}. It appears near power generators, and because it eats electricity, it can cause blackouts.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Lt Surge Electabuzz Adventures.png|right|200px|thumb|Electabuzz in [[Pokémon Adventures]]]]
+===In The Electric Tale of Pikachu manga===
+Rudy's Electabuzz was his first choice of Pokémon in his [[Gym]] battle against {{OBP|Ash Ketchum|EToP|Ash}}.
+
+===In the Pokémon Adventures manga===
+Electabuzz debuts in its own round, ''[[PS011|Buzz Off, Electabuzz!]]'', as the main Pokémon of [[Lt. Surge]]. It is so vicious that even its Trainer cannot keep it in its Ball and its {{m|ThunderPunch}} attack tears through ground floors like wheat. Although the most that [[Poli]] can do against it at first is freeze its feet so that Red and Poli can flee, the tables turn when Poli evolves into {{p|Poliwrath}} and throws Electabuzz and its Trainer both off the ship. The same Electabuzz later appears to fight [[Morty]]'s {{p|Misdreavus}}, but while its continuous {{m|Thunder}} attacks do a number, the ghost's {{m|Pain Split}} and {{m|Spite}} leave it unable to attack.
+
+Another Electabuzz appears as a silhouette when {{adv|Green}} explains something to Red about {{adv|Mew}} in ''[[PS017|The Jynx Jinx]]''.
+
+An Electabuzz appears in ''[[PS119|A Flaaffy Kerfuffle]]'' where it is one of the Pokémon in {{adv|Professor Oak}}'s fantasy as he explains that Trainers should only have six Pokémon with them.
+
+A Trainer's Electabuzz appeared in ''[[PS418|Deprogramming Porygon-Z]]''.
+
+===In the Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon manga===
+An Electabuzz appears in [[Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon]].
+
+===In the Pokémon Pocket Monsters manga===
+{{OBP|Giovanni|Pocket Monsters}}'s Electabuzz appears in ''[[PM047|Good-Bye, Pikachu?!]]''.
+
+Another Electabuzz appears in ''[[PM060|I Want to Become Popular!!]]''
+
+===In the Pokémon Zensho manga===
+Electabuzz is [[Lt. Surge]]'s only known Pokémon. It goes up against {{Zensho|Satoshi's Charmeleon}} and loses.
+
+==In the TCG==
+{{main|Electabuzz (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=electric}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Normally found near power plants, they can wander away and cause major blackouts in cities.}}
+{{Dex/Entry1|v=Yellow|entry=If a major power outage occurs, it is certain that this Pokémon has eaten electricity at a power plant.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Appear in power plants in search of electricity. They are said to cause major blackouts if they disappear.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.}}
+{{Dex/Entry1|v=Silver|entry=Its body constantly discharges electricity. Getting close to it will make your hair stand on end.}}
+{{Dex/Entry1|v=Crystal|entry=When two Electabuzz touch, they control the electric currents to communicate their feelings.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use Electabuzz in place of lightning rods.}}
+{{Dex/Entry1|v=FireRed|entry=It loves to feed on strong electricity. It occasionally appears around large power plants and so on.}}
+{{Dex/Entry1|v=LeafGreen|entry=Normally found near power plants, they can wander away and cause major blackouts in cities.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=Half of all blackouts occur when this Pokémon appears at power plants and eats electricity.}}
+{{Dex/Entry1|v=Platinum|entry=It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.}}
+{{Dex/Entry1|v=HeartGold|entry=Electricity runs across the surface of its body. In darkness, its entire body glows a whitish-blue.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its body constantly discharges electricity. Getting close to it will make your hair stand on end.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Electricity runs across the surface of its body. In darkness, its body glows a whitish blue.}}
+{{Dex/Entry1|v=Y|entry=It loves to feed on strong electricity. It occasionally appears around large power plants and so on.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=When a storm arrives, gangs of this Pokémon compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use Electabuzz in place of lightning rods.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Half of all sudden blackouts are caused by Electabuzz gathering at electric power plants and gobbling up electricity.}}
+{{Dex/Entry1|v=Moon|entry=Electricity leaks from it in amounts far greater than the amount of electricity it eats.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Electricity permeates its body. It swings its arms round and round to charge up electricity before unleashing a punch.}}
+{{Dex/Entry1|v=Ultra Moon|entry=While it's often blamed for power outages, the truth is the cause of outages is more often an error on the part of the electric company.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=electric}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Red|area={{FB|Kanto|Power Plant}}}}
+{{Availability/Entry1/None|1|v=Blue}}
+{{Availability/Entry1/None|1|v=Blue|ex=(Japan)|link=Pokémon Blue Version (Japanese)}}
+{{Availability/Entry1/None|1|v=Yellow}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{rt|10|Kanto}}}}
+{{Availability/Entry1|v=Crystal|area={{rt|10|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Emerald|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=FireRed|area={{FB|Kanto|Power Plant}}}}
+{{Availability/Entry1/None|v=LeafGreen|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Citadark Isle]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Elekid}}}}
+{{Availability/Entry1|v=Platinum|area={{rt|222|Sinnoh}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|10|Kanto}}, {{safari|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|1|v=Black|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|1|v=White|area=[[Evolution|Evolve]] {{p|Elekid}}}}
+{{Availability/Entry1/None|1|v=Black 2}}
+{{Availability/Entry1|1|v=White 2|area=[[Evolution|Evolve]] {{p|Elekid}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Friend Safari]] ([[Friend Safari#Electric-type Safari|Electric]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Elekid}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|12|Alola}}, [[Blush Mountain]] ([[SOS Battle]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Blush Mountain]], [[Mount Hokulani]] ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Pokémon Island Tunnel|Tunnel]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Lavender Town]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 7]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Elekid}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Go-Rock Squad Base]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Amp Plains]] (10F, Far Amp Plains 1F-9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Amp Plains]] (10F, Far Amp Plains 1F-9F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Cargo Ship]], [[Chroma Ruins]], [[Altru Building]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Eternal Tower]] <small>(Normal Mode B & A, Advanced Mode C & S)</small>}}
+{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=[[Evolution|Evolve]] {{p|Elekid}}}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Haunted Zone]], [[Meeting Place]]{{tt|*|Cannot be recruited here}}}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Layuda Island]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[Firebreathing Mountain]], [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Conductor Room#Rumbling Magnetic Motors|Conductor Room: Rumbling Magnetic Motors]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 2|Distortion Island: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 391]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Rumbling Hall|White Ruins: Rumbling Hall]] <small>(All Areas)</small>, [[Distortion Land#Electromagnetic Plant|Distortion Land: Electromagnetic Plant]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=electric}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Third Campaign Electabuzz|Japanese|Japan|10|January 14 to 29, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Electabuzz}}
+{{eventAvail|{{gameabbrev4|P}}|Pokémon Festa 2006 Electabuzz|Japanese|Japan|30|November 25, 2006 to January 31, 2007|link=List of local Japanese event Pokémon distributions in Generation IV#Electabuzz}}
+{{eventAvail|{{gameabbrev5|BW}}|Trade for Evolution! Electabuzz|Japanese|Japan|30|October 10 to November 28, 2010|link=List of local Japanese event Pokémon distributions in Generation V#Electabuzz}}
+{{eventAvail|{{gameabbrev6|Y}}|Spring 2014 Electabuzz|PAL region|Europe, Australia, and South Africa|30|April 1 to September 30, 2014|link=List of PAL region serial code event Pokémon distributions in Generation VI#Electabuzz}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Electric
+|rby1=Bitter Berry|rby1type=None|rby1rar=100|rby1image=no
+|event1=Electirizer|event1type=None|event1rar=100
+|pt1=Electirizer|pt1type=None|pt1rar=5
+|sm1=Electirizer|sm1type=None|sm1rar=5
+|usum1=Electirizer|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=65
+|Attack=83
+|Defense=57
+|SpAtk=95
+|SpDef=85
+|Special=85
+|Speed=105
+|type=Electric}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Electric
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=electric
+|Normal=100
+|Flying=50
+|Fighting=100
+|Ground=200
+|Rock=100
+|Bug=100
+|Poison=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Electabuzz|Electric|Electric|1}}
+{{learnlist/level7|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level7|5|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level7|8|Low Kick|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/level7|12|Swift|Normal|Special|60|&mdash;|20}}
+{{learnlist/level7|15|Shock Wave|Electric|Special|60|&mdash;|20||'''}}
+{{learnlist/level7|19|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/level7|22|Electro Ball|Electric|Special|&mdash;|100|10||'''}}
+{{learnlist/level7|26|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|29|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/level7|36|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level7|42|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|49|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/level7|55|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/levelf/7|Electabuzz|Electric|Electric|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Electabuzz|Electric|Electric|1}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Electabuzz|Electric|Electric|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Electabuzz|Electric|Electric|2}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}|Barrier|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}|Cross Chop|Fighting|Physical|100|80|5}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|532|Timburr}}{{MSP|533|Gurdurr}}{{MSP|534|Conkeldurr}}|Dynamic Punch|Fighting|Physical|100|50|5}}
+{{learnlist/breed7|{{MSP|106|Hitmonlee}}{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|391|Monferno}}<br>{{MSP|392|Infernape}}{{MSP|448|Lucario}}|Feint|Normal|Physical|30|100|10}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|126|Magmar}}{{MSP|467|Magmortar}}{{MSP|308|Medicham}}{{MSP|466|Electivire}}|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|532|Timburr}}{{MSP|533|Gurdurr}}{{MSP|534|Conkeldurr}}|Focus Punch|Fighting|Physical|150|100|20}}
+{{learnlist/breed7|{{MSP|532|Timburr}}{{MSP|533|Gurdurr}}{{MSP|534|Conkeldurr}}{{MSP|675|Pangoro}}|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|308|Medicham}}|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|539|Sawk}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}<br>{{MSP|701|Hawlucha}}|Karate Chop|Fighting|Physical|50|100|25}}
+{{learnlist/breed7|{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|106|Hitmonlee}}{{MSP|122|Mr. Mime}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}<br>{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Meditate|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|106|Hitmonlee}}{{MSP|237|Hitmontop}}|Rolling Kick|Fighting|Physical|60|85|15}}
+{{learnlist/breedf/7|Electabuzz|Electric|Electric|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Electabuzz|Electric|Electric|2}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15|||no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutorf/7|Electabuzz|Electric|Electric|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Electabuzz|Electric|Electric|2}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Electabuzz|Electric|Electric|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg lightning color light}}; border: 3px solid #{{tcg lightning color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Charge}}
+| style="background:#fff; {{roundybr|5px}}" | [[Lt. Surge's Electabuzz (Gym Heroes 6)]]<br>[[Lt. Surge's Electabuzz (Gym Heroes 27)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/Pinball|col=3|type=Electric|ndex=125|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Electric|ndex=125|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Electric|ndex=125
+|body=1
+|rate=Evolve
+|area=Power Plant
+|P1=All I need is electricity! Nothing else!
+|P2=Urk! My health's halved! There's not enough electricity.
+|P3=Shoot, I'm done... There's not even a volt of electricity left.
+|PL=I leveled up! I'm buzzing with electricity!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Electric|ndex=125
+|body=1
+|rate=0.5
+|IQ=C
+}}
+|-
+{{Spindata/Ranger|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|fieldpower=3
+|field=Recharge
+|loop=6
+|MinEXP=13
+|MaxEXP=13
+|browser=Electabuzz attacks by widely discharging power. It can also recharge the [[Capture Styler|Styler]].
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|field=Flash
+|fieldpower=-
+|browser=It discharges electricity from its body. It attacks by shooting bolts of electricity.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|field=Electrify
+|fieldpower=2
+|past=NA
+|browser=It creates waves of electricity around it that make Pokémon Stopped.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Electric
+|att=3
+|def=3
+|speed=4
+}}
+{{Spindata/RumbleBlast|col=3|type=Electric
+|att=3
+|def=3
+|speed=4
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Electric|ndex=125
+|Pad=Electabuzz are the brothers of {{p|Elekid}}, who is in the [[Haunted Zone]]. Their favorite Attractions are {{DL|Attractions|Tangrowth's Swing-Along}} and {{DL|Attractions|Rotom's Spooky Shoot-'em-Up}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=125
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=125|num=518
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Heavy Hitter
+|skilldesc=Sometimes increases damage.
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=125
+|hatch=N/A{{tt|*|10&nbsp;km Eggs obtained prior to December 12, 2016 can hatch into Electabuzz}}
+|buddy=5
+|evolution=N/A
+|stamina=130
+|attack=198
+|defense=173
+|fast={{m|Thunder Shock}}, {{m|Low Kick}}
+|special={{m|Thunder Punch}}, {{m|Thunderbolt}}, {{m|Thunder}}
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Electric
+|pictype=art
+|no1=239
+|name1=Elekid
+|type1-1=Electric
+|breed={{MS|Egg|Pokémon Egg}}<br>{{color2|000|Pokémon breeding|Breed}}
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no2=125
+|name2=Electabuzz
+|type1-2=Electric
+|evo2={{bag|Electirizer}}<br>{{color2|000|Trade}}<br>holding {{color2|000|Electirizer}}
+|no3=466
+|name3=Electivire
+|type1-3=Electric
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/1|ndex=125}}
+{{Spritebox/2|ndex=125}}
+{{Spritebox/3|ndex=125}}
+{{Spritebox/4|ndex=125}}
+{{Spritebox/5|ndex=125}}
+{{Spritebox/6|ndex=125}}
+{{Spritebox/7|ndex=125}}
+{{Spritebox/Footer|125|Electabuzz}}
+
+==Trivia==
+[[File:Stadium125.png|thumb|right|150px|Note its fingers]]
+* Electabuzz and its {{p|Elekid|pre-evolution}} share their {{pkmn|category}} name with {{p|Zapdos}}. They are all known as the Electric Pokémon.
+* {{p|Magmar}} and Electabuzz seem to be counterparts; both evolve in a very similar way (first at level 30, then after being traded holding an item which has a name that ends with the suffix "-izer"), and both are typically exclusive to one version of a pair of games. They both have similar status-inducing Abilities in Flame Body and Static, as well as the same Hidden Ability, Vital Spirit. Since Generation V, they also often learn similar moves at the same level. They even have the same special moves when purified in Pokémon XD: {{m|Follow Me}} and {{m|Cross Chop}}. Their pre-evolutions and evolutions were released in the same generation (Generation II and IV).
+* Electabuzz is the only member of its family not to have some physical relation to an {{wp|AC power plugs and sockets|AC power unit}}. Elekid's head is shaped like a power plug while Electivire's back pattern looks like a power socket.
+* Electabuzz is depicted with six fingers (five fingers and one thumb) on both of its hands in [[Pokémon Stadium]].
+
+===Origin===
+Electabuzz is likely based on the Japanese {{wp|oni (Japanese folklore)|oni}} that was a horned ogre that wore tiger skin and was sometimes depicted as a god of lightning and thunder. Its tail looks like that of a {{wp|tiger}}.
+====Name origin====
+Electabuzz is a combination of ''electric'' and ''buzz'' (possibly referring to the humming sound of electricity).
+
+Eleboo may be a combination of ''electric'' and ブンブン ''bunbun'' (buzz).
+
+==In other languages==
+{{Other languages|type=electric|type2=electric
+|ja=エレブー ''Eleboo''|jameaning=From ''electric'' and possibly {{tt|ブンブン ''bunbun''|buzz}}
+|fr=Élektek|frmeaning=From ''Electric'' and {{tt|tek|tech}}
+|es=Electabuzz|esmeaning=Same as English name
+|de=Elektek|demeaning=From ''{{tt|Elektrotechnik|electrical engineering}}''
+|it=Electabuzz|itmeaning=Same as English name
+|ko=에레브 ''Elev''|komeaning=Transliteration of Japanese name
+|zh_yue=電擊獸 ''Dihngīksau''|zh_yuemeaning=Literally "Electric shock beast"
+|zh_cmn=電擊獸 / 电击兽 ''Diànjíshòu''|zh_cmnmeaning=Literally "Electric shock beast"
+|hi=एलेकटाबज़्ज़ ''Electabuzz''|himeaning=Transcription of English name
+|ru=Электабазз ''Elektabazz''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Paul's Electivire|Paul's Electabuzz]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=124|prev=Jynx|nextnum=126|next=Magmar}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Pokémon that evolve through trading]]
+[[Category:Pokémon that evolve through held items]]
+[[Category:Pokémon that evolve by trading with a held item]]
+[[Category:Pokémon that evolve by trading holding Electirizer]]
+
+[[de:Elektek]]
+[[fr:Élektek]]
+[[it:Electabuzz]]
+[[ja:エレブー]]
+[[pl:Electabuzz]]
+[[zh:电击兽]]

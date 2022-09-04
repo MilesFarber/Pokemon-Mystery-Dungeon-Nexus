@@ -1,0 +1,529 @@
+{{PokémonPrevNext/Head|type=Water|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Slowking}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=198|prev=Murkrow|nextnum=200|next=Misdreavus|round=none}}
+{{PokémonPrevNext/Disambig|species=Slowking}}
+|}
+{{Pokémon Infobox
+|name=Slowking
+|jname=ヤドキング
+|jtranslit=Yadokingu
+|tmname=Yadoking
+|ndex=199
+|jdex=082
+|karea=Coastal
+|kdex=135
+|adex=039
+|obrow=268
+|opbrow=188
+|type1=Water
+|type2=Psychic
+|category=Royal
+|height-ftin=6'07"
+|height-m=2.0
+|weight-lbs=175.3
+|weight-kg=79.5
+|abilitylayout=2
+|ability1=Oblivious
+|ability2=Own Tempo
+|abilityd=Regenerator
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Water 1
+|eggcycles=20
+|evtotal=3
+|evsd=3
+|expyield=172
+|oldexp=164
+|lv100exp=1,000,000
+|gendercode=127
+|color=Pink
+|catchrate=70
+|body=06
+|pokefordex=slowking
+|generation=2
+|friendship=70
+}}
+'''Slowking''' ([[List of Japanese Pokémon names|Japanese]]: '''ヤドキング''' ''Yadoking'') is a dual-type {{2t|Water|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolve]]s from {{p|Slowpoke}} when [[trade]]d while holding a [[King's Rock]]. It is one of Slowpoke's final forms, the other being {{p|Slowbro}}.
+
+==Biology==
+Slowking is a bipedal Pokémon with a {{p|Shellder}} latched onto its head. It is primarily pink, with a pale yellow muzzle and scaled belly. Its feet and hands each have a single clawed digit, while the hands also have a clawless thumb. Around its neck is a spiny ruff with alternating red and white stripes. The Shellder on its head has a spiral shape with two horns near the base. A red gem resides in the center of the Shellder.
+
+Shellder's bite releases venom into Slowpoke's brain, causing a chemical chain-reaction that unlocks a superior intelligence and extraordinary power. More venom is injected into Slowking every time it yawns. The more venom the Shellder releases, the more intelligent Slowking will become. However, if the Shellder on its head comes off, it will forget everything it has learned. Slowking's intelligence can match that of a human and it constantly attempts to learn more. Its inspiration and intuition are also highly developed, and Slowking is able to stay calm in any situation and plan situations with effective results. [[M02|In the anime]], it can [[Talking Pokémon|understand and speak the human language]]. According to [[The Complete Pokémon Pocket Guide]], it has such an easy-going personality that it is never stressed. Slowking lives {{DL|List of Pokémon by habitat|by the water's edge}}. It [[Slowking's Day|has been seen]] eating seaweed and drinking coconut milk. In [[Alola]], Slowking occasionally matches wits with {{p|Oranguru}} by the beach.
+
+==In the anime==
+===In the main series===
+[[File:Slowking M02.png|250px|left|thumb|Slowking in the {{pkmn|anime}}]]
+====Major appearances====
+=====[[Slowking (M02)]]=====
+Slowking debuted in ''[[M02|The Power of One]]''. This {{pkmn2|talking}} {{OBP|Slowking|M02}} gave {{Ash}} advice on where to find the orbs. This same Slowking made another appearance in a special episode called ''[[Slowking's Day]]'' that showed what he does on a daily basis. 
+
+Slowking reappeared in an alternate reality of the main series in ''[[M20|I Choose You!]]''.
+
+=====Other=====
+Slowking made its main series debut in ''[[EP260|A Crowning Achievement]]'', where a colony of Slowpoke were attempting to reach the King's Rock in order to evolve into one so that they could help save the colony from a drought. The Slowpoke were faced with many problems since the King's Rock was also surrounded by {{p|Shellder}}, and whenever they failed to reach it, they would evolve into a {{p|Slowbro}} instead. One Slowpoke nicknamed Arthur, which was owned by [[Alice Telesu]], tried reaching the King's Rock and eventually succeeded. In the end, he left Alice in order to be the leader of the colony. It reappeared in {{AP|Larvitar}} and {{p|Unown}}'s vision in ''[[EP263|Address Unown]]''.
+
+A Slowking appeared in ''[[DP050|Tag! We're It...!]]'' and ''[[DP052|Smells Like Team Spirit!]]'', under the ownership of [[Conway]]. It participated in the [[Hearthome City Tag Battle Competition]]. It later reappeared in ''[[DP089|Up Close and Personable!]]''.
+
+====Minor appearances====
+A Slowking appeared in the opening sequences of ''[[M08|Lucario and the Mystery of Mew]]'' and ''[[M13|Zoroark: Master of Illusions]]''.
+
+====Pokédex entries====
+{{Animedexheader|Johto}}
+{{Animedexbody|EP260|Slowking|Ash's Pokédex|Slowking, the Royal Pokémon. Slowking possess great knowledge and inspiration, and are known for maintaining a level head in any circumstances.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP050|Slowking|Dawn's Pokédex|Slowking, the Royal Pokémon. It has tremendous intelligence and intuition. No matter what the situation, it stays calm and collected.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+===In Pokémon Origins===
+Despite being a Generation II Pokémon, a Slowking can be seen in the photo of a previous [[Champion]] at the [[Hall of Fame]] in ''[[PO04|File 4: Charizard]]''.
+
+==In the manga==
+[[File:Sham Slowking.png|thumb|150px|Slowking in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A hint of Slowking's existence first appeared in ''[[PS083|Bang the Drum, Slowbro]]'', while [[Lorelei]] was musing on {{p|Slowbro}}'s enhanced abilities after it had been bitten by {{p|Shellder}}. She remarked that {{p|Slowpoke}} would likely have further improved abilities if it was bitten on its head.
+
+However, Slowking's proper debut was in ''[[PS153|Oh, It's Ho-Oh!]]'', under the ownership of [[Sham]]. It was able to use its {{m|Snore}} alongside [[Carl]]'s {{p|Magcargo}} to attack even when asleep. However, a double {{m|Giga Drain}} defeated them both.
+
+Another Slowking appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+Slowking appeared once more under the ownership of Lorelei herself in ''[[PS277|Enter The Three Beasts]]'', and was used to escape the [[Icefall Cave]] when [[Carr]] detonated his {{p|Forretress}}, as well as to battle [[Sird]].
+
+In''[[PS431|The Final Dimensional Duel I]]'', [[Charon]] was seen in possession of a Slowking. This Slowking was used to provoke {{p|Giratina}} into attacking {{adv|Pearl}}, and later was used to attack Pearl again when Diamond was "killed." It was later abandoned toward the end of the arc.
+
+In ''[[PAXY24|Pyroar Breathes]]'', [[Olympia]] has a Slowking where it was used to help stop the [[Ultimate weapon]] from activating.
+
+===In the Pokemon Golden Boys manga===
+A talking Slowking appears in The Truth About The Mysterious Whirl Islands!!. It met Gold and Chris whne they got stranded on Whirl Islands. It initialy thought they came to challenge Lugia, but they knew nothing about the Silver Wing. It asked them to battle a recently gone violent Kamex that had ruled the island for a century. They manage to defeat it, wreckig slowkig's cave in the process. It later appears as they say farewell to lugia.
+
+==In the TCG==
+{{main|Slowking (TCG)}}
+
+==Game data==
+===Pokédex entries===
+<!--[[File:1999 Slowking Pokedex entry.png|thumb|right|Beta Pokédex entry]]
+*[[Pokémon Gold and Silver Beta]]: "Now investigating this newly discovered Pokémon."-->
+{{Dex/Header|type=Water|type2=Psychic}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.}}
+{{Dex/Entry1|v=Silver|entry=When its head was bitten, toxins entered {{p|Slowpoke}}'s head and unlocked an extraordinary power.}}
+{{Dex/Entry1|v=Crystal|entry=Every time it yawns, {{p|Shellder}} injects more poison into it. The poison makes it more intelligent.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It undertakes research every day to solve the mysteries of the {{pkmn|world}}. However, it apparently forgets everything if the Shellder on its head comes off.}}
+{{Dex/Entry1|v=FireRed|entry=When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.}}
+{{Dex/Entry1|v=LeafGreen|entry=It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.}}
+{{Dex/Entry1|v=HeartGold|entry=It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.}}
+{{Dex/Entry1|v=SoulSilver|entry=When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It has incredible intellect and intuition. Whatever the situation, it remains calm and collected.}}
+{{Dex/Entry1|v=Y|entry=When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=A poisonous bite reacted with its system, blessing it with the enhanced intellect of a genius. It has full control of its psychic powers.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon is so famed for its intellect that a proverb still persists in some regions: "When in doubt, ask Slowking."}}
+{{Dex/Entry1|v=Ultra Sun|entry=It's constantly coming up with new ideas that would change the world, but as soon as it hits upon a new idea, it forgets it.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It's called “the sage of the sea.” It engages in battles of wits with {{p|Oranguru}}, but the result is usually a draw.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Psychic}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Slowpoke}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Slowpoke}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry1/None|v=FireRed}}
+{{Availability/Entry1|v=LeafGreen|area=[[Evolution|Evolve]] {{p|Slowpoke}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1/None|v=Diamond}}
+{{Availability/Entry1|v=Pearl|area=[[Evolution|Evolve]] {{p|Slowpoke}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Slowpoke}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Slowpoke}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Abundant Shrine]] ({{m|Surf}}ing in {{DL|Phenomenon|rippling water}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Slowpoke}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Slowpoke}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Slowpoke}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Slowpoke}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Kala'e Bay]] ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Psychic}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 65, Forever Level 16, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Slowpoke}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Surrounded Sea]] (B1-B20), [[Miracle Sea]] (B1-B18, Deep Miracle Sea B1-B4), [[Bottomless Sea]] (B1-B49)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Surrounded Sea]] (B1-B20), [[Miracle Sea]] (B1-B18, Deep Miracle Sea B1-B4), [[Bottomless Sea]] (B1-B49)}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Oblivia Ruins]], [[Dark Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Shimmering Lake]] (post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 6|Mountain of Order: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Castle Noapte|Castle Noapte: Stage 132]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Super Gene Laboratorium|Origin Hideaway: Super Gene Laboratorium]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Water|type2=Psychic|Frontier=yes
+|e1=King's Rock|e1type=None|e1rar=5
+|bw1=King's Rock|bw1type=None|bw1rar=5
+|usum1=King's Rock|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|type2=Psychic
+|HP=     95
+|Attack= 75
+|Defense=80
+|SpAtk= 100
+|SpDef= 110
+|Speed=  30 }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Psychic
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=5
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Psychic
+|Normal=  100
+|Fighting= 50
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     200
+|Ghost=   200
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   200
+|Electric=200
+|Psychic=  50
+|Ice=      50
+|Dragon=  100
+|Dark=    200
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Slowking|Water|Psychic|2}}
+{{learnlist/level7|1|Heal Pulse|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/level7|1|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/level7|1|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|5|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|9|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|14|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|19|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|23|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|28|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level7|32|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/level7|36|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|41|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|45|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|49|Trump Card|Normal|Special|&mdash;|&mdash;|5}}
+{{learnlist/level7|54|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|58|Heal Pulse|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/levelf/7|Slowking|Water|Psychic|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Slowking|Water|Psychic|2}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Slowking|Water|Psychic|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Slowking|Water|Psychic|2}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|108|Lickitung}}{{MSP|143|Snorlax}}{{MSP|757|Salandit}}|Belch|Poison|Special|120|90|10|*}}
+{{learnlist/breed7|{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|143|Snorlax}}|Belly Drum|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|143|Snorlax}}{{MSP|411|Bastiodon}}|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|131|Lapras}}{{MSP|183|Marill}}{{MSP|225|Delibird}}|Future Sight|Psychic|Special|120|100|10|*|'''}}
+{{learnlist/breed7|{{MSP|055|Golduck}}{{MSP|108|Lickitung}}{{MSP|463|Lickilicky}}|Me First|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|258|Mudkip}}{{MSP|369|Relicanth}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|618|Stunfisk}}{{MSP|771|Pyukumuku}}|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|143|Snorlax}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|143|Snorlax}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}|Snore|Normal|Special|50|100|15}}
+{{learnlist/breed7|{{MSP|108|Lickitung}}{{MSP|463|Lickilicky}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}{{MSP|293|Whismur}}<br>{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|357|Tropius}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}|Wonder Room|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|270|Lotad}}<br>{{MSP|271|Lombre}}{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/breedf/7|Slowking|Water|Psychic|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Slowking|Water|Psychic|2}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||'''|no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Slowking|Water|Psychic|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Slowking|Water|Psychic|2}}
+{{learnlist/prevo7|079|Slowpoke|||||Slack Off|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/prevo7|079|Slowpoke|||||Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/prevof/7|Slowking|Water|Psychic|2}}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Psychic}}
+{{Spindata/Trozei|col=6|type=Water|ndex=199|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=199
+|body=1
+|rate=Evolve
+|area=Bountiful Sea
+|P1=Empty your mind of anxiety, and solutions will come to you.
+|P2=Please, be careful. My health has been reduced to half.
+|P3=I am weary... The weight of my head forces me down...
+|PL=Ah, yes, yes. My level appears to have risen.
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=199
+|body=1
+|rate=12
+|IQ=B
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Psychic
+|assist=Psychic
+|field=Teleport
+|fieldpower=-
+|fieldp=Psy Power
+|browser=It lets loose psychic orbs that make Pokémon Paused.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=199|bttype=Psychic
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=199|stype=Psychic|num=83
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Power of 5
+|skilldesc=Increases damage when you make a match of five.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=199
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=190
+|attack=177
+|defense=194
+|fast={{m|Water Gun}}, {{m|Confusion}}
+|special={{m|Blizzard}}, {{m|Psychic}}, {{m|Fire Blast}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Water
+|type2=Psychic
+|pictype=art
+|no1=079
+|name1=Slowpoke
+|type1-1=Water
+|type2-1=Psychic
+|evo1={{bag|King's Rock}}<br>{{color2|000|Trade}}<br>holding {{color2|000|King's Rock}}
+|no2=199
+|name2=Slowking
+|type1-2=Water
+|type2-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Psychic}}
+{{Spritebox/NA|II}}
+{{Spritebox/2|ndex=199}}
+{{Spritebox/3|ndex=199}}
+{{Spritebox/4|ndex=199}}
+{{Spritebox/5|ndex=199}}
+{{Spritebox/6|ndex=199}}
+{{Spritebox/7|ndex=199}}
+{{Spritebox/Footer|199|Slowking}}
+
+==Trivia==
+* In the TCG, Slowking's {{TCG|Southern Islands}} card is the only card depicting a Pokémon introduced after [[Generation I]] to have a square evolution box, in Japan only. In English, the Southern Islands collection used the Neo-era designs, which, like all later card layouts, feature a circular evolution box.
+* Slowking shares its {{pkmn|category}} name with {{p|Pyroar}}. They are both known as the Royal Pokémon.
+
+===Origin===
+{{bulbanews|On the Origin of Species: Slowpoke, Slowbro and Slowking}}
+Slowking's shell makes it similar to {{wp|hermit crab}}s, though it is physically similar to {{wp|giant otter}}s, {{wp|giant salamander}}s, and {{wp|hippopotamus}}es. Its shell "crown" may also be a reference to the mythical {{wp|sazae-oni}}, a magical sea demon of Japanese folklore distinguished by its spiny "sazae" or "turban shaped" snail shell. It is also based on a king, as the growth around its neck is based on a king's {{wp|Ruff (clothing)|ruff}} while its shell is similar to a crown.
+
+====Name origin====
+Slowking is a combination of ''slow'' and ''king''.
+
+Yadoking is a combination of 宿借り ''yadokari'' ({{wp|hermit crab}}) and ''king''. Alternatively, it may also derive from 宿主 ''yadonushi'' ([parasitic] host), based on its relationship with {{p|Shellder}} in its evolutions.
+
+==In other languages==
+{{Other languages|type=Water|type2=Psychic
+|ja=ヤドキング Yadoking|jameaning=From {{tt|宿借り ''yadokari''|hermit crab}}, {{tt|宿主 ''yadonushi''|parasitic host}} and ''king''
+|fr=Roigada|frmeaning=From ''{{tt|roi|king}}'' and ''{{tt|flagada|lacking vigor}}''.
+|es=Slowking|esmeaning=Same as English name
+|de=Laschoking|demeaning=From ''{{tt|lasch|lax}}'' and ''king''
+|it=Slowking|itmeaning=Same as English name
+|ko=야도킹 ''Yadoking''|komeaning=Transliteration of its Japanese name
+|zh_cmn=河馬王 / 河马王 ''Hémǎwáng''|zh_cmnmeaning=Literally "Hippopotamus king"
+|hi=स्लोकिंग ''Slowking''|himeaning=Transcription of English name
+|ru=Слоукинг ''Slouking''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Slowking (M02)]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Water|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=198|prev=Murkrow|nextnum=200|next=Misdreavus}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appeared in the anime before their game debut]]
+[[Category:Pokémon with cross-generational evolutions]]
+
+[[de:Laschoking]]
+[[fr:Roigada]]
+[[it:Slowking]]
+[[ja:ヤドキング]]
+[[pl:Slowking]]
+[[zh:呆呆王]]

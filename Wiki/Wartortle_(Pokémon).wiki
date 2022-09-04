@@ -1,0 +1,582 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Wartortle}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=007|prev=Squirtle|nextnum=009|next=Blastoise|round=none}}
+{{PokémonPrevNext/Disambig|species=Wartortle}}
+|}
+{{Pokémon Infobox
+|name=Wartortle
+|jname=カメール
+|jtranslit=Kamēru
+|tmname=Kameil
+|ndex=008
+|oldjdex=233
+|jdex=238
+|karea=Central
+|kdex=087
+|fbrow=077
+|abrow=012
+|typebox=1
+|type1=Water
+|category=Turtle
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=49.6
+|weight-kg=22.5
+|abilityn=d
+|ability1=Torrent
+|abilityd=Rain Dish
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Water 1
+|eggcycles=20
+|evtotal=2
+|evde=1
+|evsd=1
+|expyield=142
+|oldexp=143
+|lv100exp=1,059,860
+|gendercode=31
+|color=Blue
+|catchrate=45
+|body=06
+|pokefordex=wartortle
+|generation=1
+|friendship=70
+}}
+'''Wartortle''' ([[List of Japanese Pokémon names|Japanese]]: '''カメール''' ''Kameil'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Squirtle}} starting at [[level]] 16 and evolves into {{p|Blastoise}} starting at level 36.
+
+==Biology==
+Wartortle is a bipedal, indigo Pokémon similar to a turtle. It has brown eyes, a dark blue streak on each cheek, and two sharp teeth protruding from its upper jaw. It has three clawed fingers and pointed toes. Pale blue fur covers its long ears and tail. A brown shell with a pale yellow underside encases its body. A thick, white rim separates the upper and lower halves of the shell. As Wartortle grows old, its tail fur will darken, and it may have algae growing on its shell. The shell may also carry scars from past battles.
+
+To maintain balance while swimming at high speeds, Wartortle moves its furry ears and tail. It can use the fur to store air for extended underwater diving. Its tail is a popular symbol of longevity, making it popular with the elderly. It hides in water when hunting and emerges to surprise its prey. In the past, {{m|Skull Bash}} was its [[signature move]]. [[EP060|The anime has shown]] that Wartortle can be found living in colonies on islands, but its preferred habitat seems to be {{DL|List of Pokémon by habitat|Water's Edge Pokémon|freshwater ponds and lakes}}.
+
+==In the anime==
+===In the main series===
+[[File:Tierno Wartortle.png|thumb|240px|left|Wartortle in the {{pkmn| anime}}]]
+====Major appearances====
+=====[[Team Wartortle]]=====
+A group of Wartortle is part of a firefighting squad led by [[Captain Aidan]]. Team Wartortle work alongside Team Squirtle and Team Blastoise depending on which evolutionary form is best for the situation. [[Ash's Squirtle]] joined Team Wartortle to prove its strength in ''[[EP106|The Pokémon Water War]]''. Team Wartortle later went up against the [[Squirtle Squad]] — this time with the opponents being led by Ash's Squirtle — in a firefighting competition in ''[[EP147|The Fire-ring Squad]]''.
+
+=====[[May's Wartortle]]=====
+{{an|May}}'s Squirtle was revealed to have evolved into a Wartortle in ''[[DP077|Staging a Heroes' Welcome!]]'', in which it was used in the [[Appeal|Performance Stage]] of the [[Wallace Cup]].
+
+=====[[Tierno's Wartortle]]=====
+{{an|Tierno}}'s Wartortle appeared in ''[[XY065|Good Friends, Great Training!]]'' after having evolved from Squirtle. Tierno's Wartortle was revealed to have evolved into Blastoise by ''[[XY090|Tag Team Battle Inspiration!]]''.
+
+=====Other=====
+Wartortle debuted in ''[[EP060|Beach Blank-Out Blastoise]]'', where a group of Wartortle and {{p|Squirtle}} were troubled by their leader, a {{p|Blastoise}}, not waking up.
+
+A Wartortle was owned by a teenager named {{OBP|Jimmy|AG092}} in ''[[AG092|Judgment Day]]''. The Wartortle evolved into a Blastoise to free itself and Jimmy's {{p|Ivysaur}} and {{p|Charmeleon}} from {{TRT}}.
+
+====Minor appearances====
+A Wartortle was among the Pokémon controlled by [[Cassidy]] and [[Butch]] in ''[[EP086|Pikachu Re-Volts]]''.
+
+A Wartortle appeared in {{an|Misty}}'s fantasy in ''[[EP091|Bye Bye Psyduck]]''.
+
+Multiple Wartortle appeared in ''[[M02|The Power of One]]''.
+
+Two Wartortle were part of an exhibition in ''[[EP122|Flower Power]]''.
+
+A Wartortle appeared in ''[[EP108|Pokémon Double Trouble]]'' and ''[[EP216|Dueling Heroes]]''.
+
+A Trainer used a Wartortle in ''[[EP168|Hook, Line, and Stinker]]'' to aid him in the annual [[Seaking Catching Day|Seaking Catching Competition]].
+
+A Wartortle was one of the Pokémon belonging to a crew that appeared in [[Jenaro]]'s story in ''[[EP219|Hi Ho Silver... Away!]]''.
+
+A Wartortle was used by a competitor in the [[Tour de Alto Mare]], a water chariot race, in ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+A Wartortle was used by one of the students of the [[Pokémon Trainers' School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+A Trainer's Wartortle appeared in ''[[M20|I Choose You!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP060|Wartortle|Ash's Pokédex|Wartortle, the Turtle Pokémon. The evolved form of {{p|Squirtle}}. Its long furry tail is a symbol of its age and wisdom.}}
+|}
+{| width="100%" style="background: #{{colorschemedark|Kanto}}"
+|-
+| width="100%" style="text-align:right; background: #{{colorschemelight|Kanto}}; {{roundybottom|10px}}" | <small>''' Original series entries continue below.'''</small>
+|}
+|}
+{{Animedexheader|Orange}}
+{{Animedexbody|EP106|Wartortle|Ash's Pokédex|Wartortle, the Turtle Pokémon. The evolved form of Squirtle. A highly sought after Pokémon because its long fur-covered tail is said to bring good luck.}}
+{{Animedexfooter/Pokémon|original|Orange}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP077|Wartortle|Dawn's Pokédex|Wartortle, the Turtle Pokémon and the evolved form of Squirtle. Its furry tail is very popular as a symbol of long life.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+===In [[Pokémon Origins]]===
+{{OBP|Blue|Origins}} was about to send out Wartortle in ''[[PO02|File 2: Cubone]]'', but the screen shifted to the Pokémon House instead. Wartortle evolved into {{p|Blastoise}} sometime before {{OBP|Red|Origins}} fought Blue in the Pokémon League in ''[[PO04|File 4: Charizard]]''.
+
+==In the manga==
+[[File:Blasty Wartortle.png|120px|thumb|Wartortle in [[Pokémon Adventures]]]]
+===In the [[Magical Pokémon Journey]] manga===
+{{MPJ|Squirtle}} has a sister who is a Wartortle. Her name is Kamena and she appears in ''[[PPP19|The Five Sisters of Squirtle]]''.
+
+===In the [[Pokémon Adventures]] manga===
+{{main|Blasty}}
+{{adv|Green}} had a Wartortle named Blasty during her first appearance in ''[[PS015|Wartortle Wars]]'', which evolved from the {{p|Squirtle}} that she stole from {{adv|Professor Oak}}. He has since evolved into {{p|Blastoise}}, and became a mainstay in her team ever since.
+
+A Wartortle appeared as a {{DL|Battle Frontier (Generation III)|Battle Factory}} Pokémon in ''[[PS306|Pinsir Me, I Must Be Dreaming]]''. 
+
+A Wartortle appeared in ''[[PS315|Skirting Around Surskit I]]'' as a rental Pokémon that [[Guile Hideout]] stole.
+
+===In the [[Pokémon Gotta Catch 'Em All]] manga===
+[[Shu]] has a Wartortle he caught after quite a bit of trouble in [[Pokémon Gotta Catch 'Em All]].
+
+===In the [[Pokémon Pocket Monsters]] manga===
+A Wartortle appeared in ''[[PM094|Take me to the Dragon Palace!]]''.
+
+===In the [[Pokémon Zensho]] manga===
+{{Zensho|Shigeru}} has a Wartortle which he received it as a Squirtle from his grandfather, Professor Oak. It later evolved into a Blastoise.
+{{-}}
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS015]]|Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance. Its fur covered tail is considered a symbol of longevity.}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Wartortle (TCG)}}
+
+==In the TFG==
+One Wartortle figure has been released.
+* {{TFG|Groundbreakers}}: {{TFG ID|Groundbreakers|Wartortle|35}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance.}}
+{{Dex/Entry1|v=Yellow|entry=When tapped, this Pokémon will pull in its head, but its tail will still stick out a little bit.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=The tail is covered with a rich fur. It stores air in the fur before taking extended dives underwater.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.}}
+{{Dex/Entry1|v=Silver|entry=It cleverly controls its furry ears and tail to maintain its balance while swimming.}}
+{{Dex/Entry1|v=Crystal|entry=Its long, furry tail is a symbol of longevity, making it quite popular among older people.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokémon's toughness in battle.}}
+{{Dex/Entry1|v=FireRed|entry=This Pokémon is very popular as a pet. Its fur-covered tail is a symbol of its longevity.}}
+{{Dex/Entry1|v=LeafGreen|entry=It often hides in water to stalk unwary prey. For fast swimming, it moves its ears to maintain balance.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.}}
+{{Dex/Entry1|v=HeartGold|entry=It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.}}
+{{Dex/Entry1|v=SoulSilver|entry=It cleverly controls its furry ears and tail to maintain its balance while swimming.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=When tapped, this Pokémon will pull in its head, but its tail will still stick out a little bit.}}
+{{Dex/Entry1|v=Y|entry=It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=FFF|area=[[Evolution|Evolve]] {{p|Squirtle}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=FFF|link=Pokémon Blue Version (Japanese)|area=[[Evolution|Evolve]] {{p|Squirtle}}}}
+{{Availability/Entry1|v=Yellow|area=[[Evolution|Evolve]] {{p|Squirtle}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2/None|v=Gold|v2=Silver|area=[[Time Capsule]]}}
+{{Availability/Entry1/None|v=Crystal|area=[[Time Capsule]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Squirtle}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Squirtle}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Water-type Safari|Water]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Squirtle}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Squirtle}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 56 and 65, Forever Level 6, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Northwind Field]] (27F-29F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Lyra Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Vien Forest]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]] <small>(Normal Mode C & A)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Iceberg Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=PokéPark 2|color={{grass color}}|link=PokéPark 2: Wonders Beyond|area=[[Arcane Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Dream Gate#Wet and Wild Battle|Dream Gate: Wet and Wild Battle]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 3|Blade-and-Shield Path: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Rainbow Park|Rainbow Park: Stage 57]]<br>[[Blau Salon|Blau Salon: Stage 411]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Pearl Lake|Pearl Marsh: Pearl Lake]] <small>(All Areas, Entrance Boss)</small>}}
+<!--{{Availability/Entry1|1|v=Super MD|color={{gold color}}|link=Pokémon Super Mystery Dungeon}}-->
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Water
+|rby1=Bitter Berry|rby1type=None|rby1image=no|rby1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=59
+|Attack=63
+|Defense=80
+|SpAtk=65
+|SpDef=80
+|Special=65
+|Speed=58
+|type=Water
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=2
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=4
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Wartortle|Water|Water|1}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|4|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|7|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|10|Withdraw|Water|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|13|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/level7|17|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|21|Rapid Spin|Normal|Physical|20|100|40}}
+{{learnlist/level7|25|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|29|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level7|33|Aqua Tail|Water|Physical|90|90|10||'''}}
+{{learnlist/level7|37|Skull Bash|Normal|Physical|130|100|10}}
+{{learnlist/level7|41|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|45|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|49|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/7|Wartortle|Water|Water|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Wartortle|Water|Water|1}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Wartortle|Water|Water|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Wartortle|Water|Water|2}}
+{{learnlist/breed7|{{MSP|055|Golduck}}{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|283|Surskit}}<br>{{MSP|395|Empoleon}}{{MSP|400|Bibarel}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}<br>{{MSP|594|Alomomola}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Aqua Jet|Water|Physical|40|100|20||'''}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|222|Corsola}}{{MSP|226|Mantine}}<br>{{MSP|350|Milotic}}{{MSP|368|Gorebyss}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|580|Ducklett}}<br>{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Aqua Ring|Water|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|693|Clawitzer}}|Aura Sphere|Fighting|Special|80|&mdash;|20}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|131|Lapras}}<br>{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|222|Corsola}}{{MSP|279|Pelipper}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|367|Huntail}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|564|Tirtouga}}<br>{{MSP|565|Carracosta}}{{MSP|594|Alomomola}}|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/breed7|{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|181|Ampharos}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}<br>{{MSP|612|Haxorus}}{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}{{MSP|693|Clawitzer}}{{MSP|757|Salandit}}{{MSP|776|Turtonator}}<br>{{MSP|780|Drampa}}|Dragon Pulse|Dragon|Special|85|100|10}}
+{{learnlist/breed7|{{MSP|271|Lombre}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed7|{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|222|Corsola}}{{MSP|349|Feebas}}{{MSP|369|Relicanth}}<br>{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|618|Stunfisk}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}<br>{{MSP|776|Turtonator}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|258|Mudkip}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|283|Surskit}}{{MSP|658|Greninja}}|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|222|Corsola}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Mirror Coat|Psychic|Special|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|270|Lotad}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}<br>{{MSP|283|Surskit}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}<br>{{MSP|698|Amaura}}{{MSP|699|Aurorus}}|Mist|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|258|Mudkip}}{{MSP|369|Relicanth}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|618|Stunfisk}}{{MSP|771|Pyukumuku}}|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|618|Stunfisk}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/breed7|{{MSP|108|Lickitung}}{{MSP|463|Lickilicky}}{{MSP|222|Corsola}}{{MSP|350|Milotic}}|Refresh|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|223|Remoraid}}|Water Spout|Water|Special|150|100|5|*|'''}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|143|Snorlax}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}<br>{{MSP|230|Kingdra}}{{MSP|369|Relicanth}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Wartortle|Water|Water|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Wartortle|Water|Water|2}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||'''|no|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pledge|Water|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Wartortle|Water|Water|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Wartortle|Water|Water|1}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Wartortle|Water|Water|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg water color light}}; border: 3px solid #{{tcg water color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Double Slap}}
+| style="background:#fff; {{roundybr|5px}}" | [[Wartortle (Expedition 92)]]<br>[[Dark Wartortle (Team Rocket 46)]]<br> [[Wartortle (Platinum 65)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/Pinball|col=3|type=Water|ndex=008|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Water|ndex=008|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=008
+|body=1
+|rate=-19
+|area=Turtleshell Pond
+|P1=Did you know? I live a long time.
+|P2=I'm down to half HP...
+|P3=I can't keep going...
+|PL=Yes! Leveled up! Let me handle things!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=008
+|body=1
+|rate=-10
+|IQ=E
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=2
+|field=Soak
+|loop=8
+|MinEXP=36
+|MaxEXP=50
+|browser=Wartortle shoots globs of water. It's small but also quite powerful.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=2
+|browser=It attacks by squirting water from its mouth.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=2
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=008
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=008|num=008
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Stabilize
+|skilldesc=Sometimes erases one of the foe's disruptions on the board.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=008
+|hatch=N/A
+|buddy=3
+|evocandy=100
+|stamina=118
+|attack=126
+|defense=155
+|fast={{m|Water Gun}}, {{m|Bite}}
+|special={{m|Aqua Jet}}, {{m|Ice Beam}}, {{m|Hydro Pump}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Water
+|pictype=art
+|no1=007
+|name1=Squirtle
+|type1-1=Water
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 16}}
+|no2=008
+|name2=Wartortle
+|type1-2=Water
+|evo2={{bag|Rare Candy}} <br>{{color2|000|Level|Level 36}}
+|no3=009
+|name3=Blastoise
+|type1-3=Water}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/1|ndex=008}}
+{{Spritebox/2|ndex=008}}
+{{Spritebox/3|ndex=008}}
+{{Spritebox/4|ndex=008}}
+{{Spritebox/5|ndex=008}}
+{{Spritebox/6|ndex=008}}
+{{Spritebox/7|ndex=008}}
+{{Spritebox/Footer|008|Wartortle}}
+
+==Trivia==
+[[File:008Wartortle OS anime.png|thumb|150px|Anime promotional art depicting Wartortle with the same color on its ears and its face]]
+* Even though Wartortle's ears are depicted lighter than its face in the official Sugimori stock art and most of its game sprites, early promotional pictures portrayed its ears the same color as its face.
+
+===Origin===
+Its design appears to be a stylized {{wp|turtle}}. Its feathery tail is a reference to Japanese legends of the ''{{wp|Cultural depictions of turtles#Japan|minogame}}'' (蓑亀), a turtle which lived for 10,000 years and grew a tail made of seaweed. The use of its tail to store oxygen seems to be a reference to certain turtles that breathe through their cloaca, placed near the tail.
+
+====Name origin====
+Wartortle's name is a combination of ''war'' or ''warrior'', ''{{wp|tortoise}}'', and ''turtle''.
+
+Kameil comes from the Japanese word 亀 ''kame'' (tortoise/turtle) and may be a combination of 亀 ''kame'' and テール ''tail''. It is also a corruption of 噛める ''kameru'' (to be able to bite).
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=カメール ''Kameil''|jameaning=From {{tt|噛める ''kameru''|can bite}} or {{tt|亀 ''kame''|turtle}} and {{tt|テール ''tēru''|tail}}
+|fr=Carabaffe|frmeaning=From ''{{tt|carapace|shell}}'' and ''{{tt|baffe|swipe/slap}}''
+|es=Wartortle|esmeaning=Same as English name
+|de=Schillok|demeaning=From ''{{tt|Schildkröte|turtle}}'' and ''{{tt|Locke|curl}}''
+|it=Wartortle|itmeaning=Same as English name
+|ko=어니부기 ''Eonibugi''|komeaning=From {{tt|어금니 ''eogeumni''|molar}} or {{tt|언니 ''eonni''|older siblings}} and {{tt|거북이 ''geobugi''|turtle}}
+|bg=Уортортъл ''Uortortŭl ''|bgmeaning=Transcription of English name
+|zh_yue=卡美龜 ''Kāméihgwāi''|zh_yuemeaning=Similar to the Mandarin name. The second character means ''beauty'' and the third means ''turtle''
+|zh_cmn=卡咪龜 / 卡咪龟 ''Kǎmīguī''|zh_cmnmeaning=Partial transliteration of the Japanese name. The last character means ''turtle''
+|hi=वर्तोर्तल ''Wartortle''|himeaning=Transcription of English name
+|lt=Karvėžlys|ltmeaning=Translation of English name
+|ru=Вартортл ''Vartortl''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Gary's Wartortle]]
+* [[Team Wartortle]]
+* [[May's Wartortle]]
+* [[Tierno's Wartortle]]
+* [[Blasty]]
+
+==External links==
+* {{wp|List of Pokémon (1-51)#Wartortle|Section on Wikipedia}}
+
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=007|prev=Squirtle|nextnum=009|next=Blastoise|round=yes}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[de:Schillok]]
+[[fr:Carabaffe]]
+[[it:Wartortle]]
+[[ja:カメール]]
+[[pl:Wartortle]]
+[[zh:卡咪龟]]

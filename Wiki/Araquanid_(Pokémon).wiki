@@ -1,0 +1,289 @@
+{{PokémonPrevNext/Head|type=Water|type2=Bug}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=751|prev=Dewpider|nextnum=753|next=Fomantis}}
+|}
+{{Pokémon Infobox
+|name=Araquanid
+|jname=オニシズクモ
+|tmname=Onishizukumo
+|ndex=752
+|type1=Water
+|type2=Bug
+|category=Water Bubble
+|height-ftin=5'11"
+|height-m=1.8
+|weight-lbs=180.8
+|weight-kg=82.0
+|adex=142
+|abilityn=d
+|ability1=Water Bubble
+|abilityd=Water Absorb
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Bug
+|eggcycles=15
+|evtotal=2
+|evsd=2
+|expyield=159
+|lv100exp=1,000,000
+|gendercode=127
+|color=Green
+|catchrate=100
+|body=14
+|pokefordex=araquanid
+|generation=7
+|friendship=70
+}}
+'''Araquanid''' ([[List of Japanese Pokémon names|Japanese]]: '''オニシズクモ''' ''Onishizukumo'') is a dual-type {{2t|Water|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] from {{p|Dewpider}} starting at [[level]] 22.
+
+==Biology==
+Araquanid is a fairly large spider-like Pokémon with a bubble of water surrounding its head. Its six legs are yellow-green for two-thirds of their length, and the final portions are dark blue. Each leg has an opaque bubble enveloping each joint. Its abdomen is dark blue with brown streaks on the top and bottom, with two additional horizontal streaks on the top. These streaks connect to the "collar" that flares out with the shape of the bubble that encloses its head, which is also dark blue. Its eyes are a lighter tone of blue, with whitish-blue waves along the center of each eye. There are forked, brown "eyebrows" directly above the eyes, giving the Pokémon an angry or aggressive expression. On the top of its head, there are three round, short growths that are the same color as its eyes. Both the growths and its eyes are capable of glowing and flashing. Below its head, there is a mouth accompanied by hanging mandibles.
+
+With its water bubble, Araquanid can deliver headbutts, which can suck in small Pokémon and cause them to drown. However, in spite of its unnerving appearance, it is a caring Pokémon. It can use its bubble to encircle and protect weak and vulnerable Pokémon, or store subdued prey and other valuables.
+<!--==In the anime==
+===Major appearances===
+===Minor appearances===-->
+
+==In the manga==
+[[File:Lana Araquanid Adventures.png|thumb|left|170px|Araquanid in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Araquanid debuted in [[PASM11]]. One was seen under the ownership of [[Lana]].
+
+==In the TCG==
+{{main|Araquanid (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Bug}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It delivers headbutts with the water bubble on its head. Small Pokémon get sucked into the bubble, where they drown.}}
+{{Dex/Entry1|v=Moon|entry=Despite what its appearance suggests, it cares for others. If it finds vulnerable, weak Pokémon, it protectively brings them into its water bubble.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It usually passes its time in the water. When its belly is full, it stores its subdued prey in the water bubble on its head.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It has a habit of storing things it values in its water bubble. If its Trainer doesn't watch out, Araquanid will try to put them in its bubble!}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Bug}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Malie Garden]]{{Sup/t|D}}}}
+{{Availability/Entry1|v=Ultra Sun|area=[[Malie Garden]]{{Sup/t|D}}}}
+{{Availability/Entry1|v=Ultra Moon|area=[[Malie Garden]]{{Sup/t|D}}<br/>[[List of in-game event Pokémon in Generation VII|Received]] from [[Samson Oak]] at [[Heahea Beach]]{{tt|*|Requires 40 Totem Stickers}} ([[Totem Pokémon|Totem]]-sized)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Bug}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|Great Challenge|Araquanid Appears}}''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Water|type2=Bug
+|sm1=Mystic Water|sm1type=None|sm1rar=5
+|usum1=Mystic Water|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Water
+|type2=Bug
+|HP=68
+|Attack=70
+|Defense=92
+|SpAtk=50
+|SpDef=132
+|Speed=42}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=50
+|Grass=100
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|waterabsorb=maybe
+|waterbubble=maybe
+|newfire=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Araquanid|Water|Bug|7}}
+{{learnlist/level7|1|Wide Guard|Rock|Status|—|—|10}}
+{{learnlist/level7|1|Soak|Water|Status|—|100|20}}
+{{learnlist/level7|1|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/level7|1|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/level7|1|Spider Web|Bug|Status|—|—|10}}
+{{learnlist/level7|1|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|5|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/level7|8|Spider Web|Bug|Status|—|—|10}}
+{{learnlist/level7|13|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|16|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level7|21|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|26|Aqua Ring|Water|Status|—|—|20}}
+{{learnlist/level7|33|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/level7|38|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|45|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/level7|50|Mirror Coat|Psychic|Special|—|100|20}}
+{{learnlist/level7|57|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/level7|62|Entrainment|Normal|Status|—|100|15}}
+{{learnlist/levelf/7|Araquanid|Water|Bug|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Araquanid|Water|Bug|7}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM28|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Araquanid|Water|Bug|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Araquanid|Water|Bug|7}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}|Aurora Beam|Ice|Special|65|100|20}}
+{{learnlist/breed7|{{MSP|213|Shuckle}}|Power Split|Psychic|Status|—|—|10}}
+{{learnlist/breed7|{{MSP|279|Pelipper}}|Spit Up|Normal|Special|—|100|10}}
+{{learnlist/breed7|{{MSP|167|Spinarak}}{{MSP|168|Ariados}}{{MSP|213|Shuckle}}{{MSP|283|Surskit}}{{MSP|402|Kricketune}}{{MSP|540|Sewaddle}}<br>{{MSP|596|Galvantula}}|Sticky Web|Bug|Status|—|—|20|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|279|Pelipper}}|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/breedf/7|Araquanid|Water|Bug|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Araquanid|Water|Bug|7}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Liquidation|Water|Physical|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magic Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutorf/7|Araquanid|Water|Bug|7}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Araquanid|Water|Bug|7}}
+{{learnlist/prevo7|751|Dewpider|||||Water Sport|Water|Status|—|—|15}}
+{{learnlist/prevof/7|Araquanid|Water|Bug|7}}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Bug}}
+{{Spindata/Shuffle|col=6|type=Water|ndex=752|num=728
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Shot Out
+|skilldesc=Erases two non-Support Pokémon and increases damage.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Water
+|type2=Bug
+|pictype=art
+|no1=751
+|name1=Dewpider
+|type1-1=Water
+|type2-1=Bug
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 22}}
+|no2=752
+|name2=Araquanid
+|type1-2=Water
+|type2-2=Bug}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Bug}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=752}}
+{{Spritebox/Footer|752|Araquanid}}
+
+==Trivia==
+* Araquanid can be seen as a counterpart to {{p|Masquerain}}. Both share the {{t|Bug}} type and the same base stat totals, and both can be found at [[Malie Garden]] in [[Pokémon Sun and Moon]], taking the place of the other depending on the [[time]], with Araquanid being found during the day and Masquerain at night.
+
+===Origin===
+Araquanid appears to be based on the {{wp|diving bell spider}}. The growths on its head may be inspired by the {{wp|Theridion grallator|Hawaiian happy-face spider}}.
+====Name origin====
+Araquanid may be a combination of ''arachnid'' and ''aqua''.
+
+Onishizukumo may be a combination of 鬼蜘蛛 ''onigumo'' (''{{wp|Araneus|Araneus ventricosus}}''), 鬼 ''oni'' (demon), and 滴 ''shizuku'' (drop).
+
+==In other languages==
+{{Other languages|type=Water|type2=Bug
+|ja=オニシズクモ ''Onishizukumo''|jameaning=From {{tt|鬼 ''oni''|demon}}, {{tt|滴 ''shizuku''|drop}}, and {{tt|鬼蜘蛛 ''onigumo''|Araneus ventricosus}}
+|fr=Tarenbulle|frmeaning=From ''tarentule'' (tarantula) and ''bulle'' (bubble)
+|es=Araquanid|esmeaning=Same as English name
+|de=Aranestro |demeaning=From ''{{wp|Araneus}}'' and ''Tropfen'' (drop)
+|it=Araquanid|itmeaning=Same as English name
+|ko=깨비물거미 ''Kkaebimulgeomi''|komeaning=From 도깨비 ''{{wp|dokkaebi}}'', {{tt|물 ''mul''|water}}, {{tt|거미 ''geomi''|spider}}, and {{tt|물거미 ''mulgeomi''|diving bell spider}}
+|zh_cmn=滴蛛霸 ''Dīzhūbà''|zh_cmnmeaning=From {{tt|滴 ''dī''|drop}}, {{tt|蜘蛛 ''zhīzhū''|spider}}, and {{tt|霸 ''bà''|tyrant}}
+|zh_yue=滴蛛霸 ''Dīkjyūba''|zh_yuemeaning=From {{tt|滴 ''dīk''|drop}}, {{tt|蜘蛛 ''jījyū''|spider}}, and {{tt|霸 ''bà''|tyrant}}
+|ru=Аракванид ''Arakvanid''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Water|type2=Bug}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=751|prev=Dewpider|nextnum=753|next=Fomantis}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Aranestro]]
+[[fr:Tarenbulle]]
+[[it:Araquanid]]
+[[ja:オニシズクモ]]
+[[zh:滴蛛霸]]

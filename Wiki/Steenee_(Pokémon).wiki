@@ -1,0 +1,308 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=761|prev=Bounsweet|nextnum=763|next=Tsareena|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Steenee}}
+|}
+{{Pokémon Infobox
+|name=Steenee
+|jname=アママイコ
+|tmname=Amamaiko
+|ndex=762
+|type1=Grass
+|category=Fruit
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=18.1
+|weight-kg=8.2
+|adex=172
+|abilityn=d
+|ability1=Leaf Guard
+|ability2=Oblivious
+|abilityd=Sweet Veil
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|evtotal=2
+|evsp=2
+|expyield=102
+|lv100exp=1,059,860
+|gendercode=254
+|color=Purple
+|catchrate=120
+|body=12
+|pokefordex=steenee
+|generation=7
+|friendship=70
+}}
+'''Steenee''' ([[List of Japanese Pokémon names|Japanese]]: '''アママイコ''' ''Amamaiko'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] from {{p|Bounsweet}} starting at [[level]] 18 and evolves into {{p|Tsareena}} when leveled up while knowing {{m|Stomp}}.
+
+==Biology==
+Steenee is a bipedal, plant-like Pokémon with a humanoid appearance. Its torso and legs are dark purple, while its hips, arms, and head are all white. It has dark purple eyes with purple, triangular markings over them similar to stylized eyelashes. On top of its head is a large, light green {{wp|sepal|calyx}}. The calyx has short leaves on the front and back, two large leaves out to the sides similar to {{wp|pigtails}}, and a short stem on the top. The right leaf has two yellowish-green spots on it. The upper part of its torso has short ruffles similar to a dress, and it has wide hips made up of six segments. Its slender arms have slightly rounded hands with no visible digits, and its legs have pointed tips.
+
+While it has a delectable fragrance, this Pokémon also has a tomboyish personality that can make it hard to get along with. Its calyx has hardened, allowing it to play with other Pokémon without worrying about being damaged. However, the leaves spin as Steenee moves and often strike nearby objects. It apparently does not care what it hits, and even uses the calyx as a form of attack. Foes are struck with the leaves first, then kicked by one of Steenee's equally hard legs.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/steenee/</ref>
+
+==In the anime==
+[[File:Mallow Steenee.png|thumb|left|250px|Steenee in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Mallow's Steenee]]====
+Mallow's {{p|Bounsweet}} evolved into a Steenee in ''[[SM018|A Seasoned Search!]]'' following a battle with {{TRT}}.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM018|Steenee|Rotom Pokédex|Steenee, the Fruit Pokémon. A {{t|Grass}} type. Steenee's hard sepals are highly developed for protection, making its {{m|Double Slap}} move very powerful.}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+<!--
+==In the manga==-->
+
+==In the manga==
+[[File:Mallow Steenee Adventures.png|thumb|left|170px|Steenee in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Mallow's Steenee}}
+
+[[Mallow]] owns a Steenee that first appeared in the {{chap|Sun & Moon}}.
+{{-}}
+
+==In the TCG==
+{{main|Steenee (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=The sepals on its head developed to protect its body. These are quite hard, so even if pecked by bird Pokémon, this Pokémon is totally fine.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon is always bouncing around energetically. Other Pokémon are attracted by its lively appearance and pleasant aroma.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It's protected by its hard sepals, so it plays with bird Pokémon without worry. They peck it relentlessly, but it doesn't care.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It bounces around, swinging the sepals on its head with abandon. They're quite painful when they smack you!}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Trade]] {{p|Granbull}} in [[Seafolk Village]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Lush Jungle]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#19th release|''Pokémon Safari'']] <small>(19th release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Grass}}
+{{eventAvail|{{gameabbrev7|SM}}|Mallow's Steenee|Japanese|Online|20|June 17 to July 4, 2017|link=List of Japanese region serial code event Pokémon distributions in Generation VII#Mallow's Steenee}}
+{{eventAvail|{{gameabbrev7|SM}}|Mallow's Steenee|All|Japan|20|July 22 to August 13, 2017|link=List of local event Pokémon distributions in Generation VII#Mallow's Steenee}}
+{{eventAvail|{{gameabbrev7|SM}}|Mallow's Steenee|Korean|Online|20|September 19, 2017 to ???|link=List of Korean region serial code event Pokémon distributions in Generation VII#Mallow's Steenee}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Grass
+|usum1=Grassy Seed|usum1type=None|usum1rar=5
+|event1=Yellow Nectar|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Grass
+|HP=52
+|Attack=40
+|Defense=48
+|SpAtk=40
+|SpDef=48
+|Speed=62}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Steenee|Grass|Grass|7}}
+{{learnlist/level7|1|Double Slap|Normal|Physical|15|85|10}}
+{{learnlist/level7|1|Splash|Normal|Status|—|—|40}}
+{{learnlist/level7|1|Play Nice|Normal|Status|—|—|20}}
+{{learnlist/level7|1|Rapid Spin|Normal|Physical|20|100|40}}
+{{learnlist/level7|1|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Double Slap|Normal|Physical|15|85|10}}
+{{learnlist/level7|5|Play Nice|Normal|Status|—|—|20}}
+{{learnlist/level7|9|Rapid Spin|Normal|Physical|20|100|40}}
+{{learnlist/level7|13|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level7|17|Sweet Scent|Normal|Status|—|100|20}}
+{{learnlist/level7|21|Magical Leaf|Grass|Special|60|—|20||'''}}
+{{learnlist/level7|25|Teeter Dance|Normal|Status|—|100|20}}
+{{learnlist/level7|29|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level7|33|Aromatic Mist|Fairy|Status|—|—|20}}
+{{learnlist/level7|37|Captivate|Normal|Status|—|100|20}}
+{{learnlist/level7|41|Aromatherapy|Grass|Status|—|—|5}}
+{{learnlist/level7|45|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/7|Steenee|Grass|Grass|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Steenee|Grass|Grass|7}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Steenee|Grass|Grass|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Steenee|Grass|Grass|7}}
+{{learnlist/breed7|{{MSP|556|Maractus}}|Acupressure|Normal|Status|—|—|30}}
+{{learnlist/breed7|{{MSP|546|Cottonee}}|Charm|Fairy|Status|—|100|20}}
+{{learnlist/breed7|{{MSP|286|Breloom}}|Feint|Normal|Physical|30|100|10}}
+{{learnlist/breed7|{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}|Grass Whistle|Grass|Status|—|55|15}}
+{{learnlist/breed7|{{MSP|764|Comfey}}|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|273|Seedot}}{{MSP|315|Roselia}}<br>{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}{{MSP|764|Comfey}}|Synthesis|Grass|Status|—|—|5}}
+{{learnlist/breedf/7|Steenee|Grass|Grass|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Steenee|Grass|Grass|7}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Steenee|Grass|Grass|7}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Steenee|Grass|Grass|7}}
+{{learnlist/prevo7|761|Bounsweet|||||Flail|Normal|Physical|—|100|15}}
+{{learnlist/prevof/7|Steenee|Grass|Grass|7}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/Shuffle|col=6|type=Grass|ndex=762|num=745
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Paralysis Combo
+|skilldesc=Increases damage done by combos if the foe is paralyzed.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Grass
+|pictype=art
+|no1=761
+|name1=Bounsweet
+|type1-1=Grass
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 18}}
+|no2=762
+|name2=Steenee
+|type1-2=Grass
+|evo2={{bag|Rare Candy}} + {{bag|TM Normal VI}}<br>{{color2|000|Level|Level up}}<br><small>knowing {{mcolor|Stomp}}</small>
+|no3=763
+|name3=Tsareena
+|type1-3=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=762}}
+{{Spritebox/Footer|762|Steenee}}
+
+==Trivia==
+* Steenee and its evolutionary relatives, {{p|Bounsweet}} and {{p|Tsareena}}, share their {{pkmn|category}} with {{p|Tropius}}. They are all known as the Fruit Pokémon.
+
+===Origin===
+Steenee appears to be based on a {{wp|mangosteen}} and a young girl.
+
+====Name origin====
+Steenee may be a combination of ''mangosteen'' and ''teeny'' or ''teenager''.
+
+Amamaiko may be a combination of 甘い ''amai'' (sweet) and 舞子 ''maiko'' (dancing girl).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=アママイコ ''Amamaiko''|jameaning=From {{tt|甘い ''amai''|sweet}} and {{tt|舞子 ''maiko''|dancing girl}}
+|fr=Candine|frmeaning=From {{tt|''coquine''|naughty or flirty}}, {{tt|''candide''|innocent or naive}}, and possibly ''candy''
+|es=Steenee|esmeaning=Same as English name
+|de=Frubaila|demeaning=From {{tt|''Frucht''|fruit}} and {{tt|''bailar''|Spanish for dance}}
+|it=Steenee|itmeaning=Same as English name
+|ko=달무리나 ''Dalmurina''|komeaning=From {{tt|달콤 ''dalkom''|sweet}}, {{tt|무녀 (舞女) ''munyeo''|dancing girl}}, and ''ballerina''
+|zh_cmn=甜舞妮 ''Tiánwǔní / Tiánwǔnī''|zh_cmnmeaning=From {{tt|甜 ''tián''|sweet}}, {{tt|舞女 ''wǔnǚ''|dancing girl}}, and {{tt|妮 ''ní / nī''|girl}}
+|zh_yue=甜舞妮 ''Tìhmmóuhnèih''|zh_yuemeaning=From {{tt|甜 ''tìhm''|sweet}}, {{tt|舞女 ''móuhnéuih''|dancing girl}}, and {{tt|妮 ''nèih''|girl}}
+|ru=Стини ''Stini''|rumeaning=Transcription of English name}}
+{{-}}
+
+==Related articles==
+*[[Mallow's Steenee]]
+
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=761|prev=Bounsweet|nextnum=763|next=Tsareena}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve with certain moves]]
+[[Category:Pokémon that evolve with Stomp]]
+
+[[de:Frubaila]]
+[[fr:Candine]]
+[[it:Steenee]]
+[[ja:アママイコ]]
+[[pl:Steenee]]
+[[zh:甜舞妮]]

@@ -1,0 +1,331 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=696|prev=Tyrunt|nextnum=698|next=Amaura}}
+|}
+{{Pokémon Infobox
+|name=Tyrantrum
+|jname=ガチゴラス
+|jtranslit=Gachigorasu
+|tmname=Gachigoras
+|category=Despot
+|typebox=1
+|type1=Rock
+|type2=Dragon
+|abilityn=d
+|ability1=Strong Jaw
+|abilityd=Rock Head
+|ndex=697
+|karea=Coastal
+|kdex=065
+|height-ftin=8'02"
+|height-m=2.5
+|weight-lbs=595.2
+|weight-kg=270.0
+|egggroupn=1
+|egggroup1=Monster
+|egggroup2=Dragon
+|gendercode=31
+|eggcycles=30
+|evtotal=2
+|evat=2
+|expyield=182
+|lv100exp=1,000,000
+|color=Red
+|catchrate=45
+|body=06
+|pokefordex=tyrantrum
+|generation=6
+|friendship=70
+}}
+'''Tyrantrum''' ([[List of Japanese Pokémon names|Japanese]]: '''ガチゴラス''' ''Gachigoras'') is a dual-type {{2t|Rock|Dragon}} [[Fossil]] {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Tyrunt}} when [[level]]ed up during the [[Time|day]] starting at level 39, after it is revived from a [[Jaw and Sail Fossils|Jaw Fossil]].
+
+==Biology==
+Tyrantrum is a large, dinosaurian Pokémon, closely resembling theropods like ''Tyrannosaurus''. It is predominantly brick-red in coloration, with scaly patterns on its skin and scattered orange highlights on some of the scales and ridges. The underbelly is gray with white borders, and it has a long tail with two orange spikes near the tip. Its small forelimbs have only two black clawed digits, but it has powerful hind legs with three sharp, black talons. Plated, armor-like ridges are found on the front of the legs and down the back and tail. Spiky, white "fluff", similar to the primitive feathers on many dinosaurs, extends into a cape-like fringe around the neck.
+
+Additional feathering forms a prominent beard on the lower jaw, which is otherwise gray in coloration. Its head is proportionally large, with a ridged snout and powerful jaws. The lower jaw is lined with pointed teeth, and the upper jaw features a number of tooth-like projections which are also highlighted orange. Its eyes appear to have black sclera with white irises. An orange, five-pointed crest extends from the snout above the eyes and point backwards, giving it the appearance of wearing a crown.
+
+Before its extinction, wild Tyrantrum used to live 100 million years ago, when its powerful jaw conferred its status as an unmatched predator. It is theorized that in its time, its whole body was covered with a feather-like coat. Since it was considered invincible in the ancient world, it behaved like a king.
+
+==In the anime==
+[[File:Scientist Tyrantrum.png|thumb|250px|left|Tyrantrum in the {{pkmn|anime}}]]
+===Major appearances===
+Four Tyrantrum debuted in ''[[XY087|The Tiny Caretaker!]]'', under the ownership of several {{tc|Scientist}}s, with one of them having evolved from a Tyrunt. {{an|Bonnie}} hoped {{an|Clemont}} would catch the Tyrantrum she had befriended, but because the scientists owned it, she had to bid a sad farewell to it.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY087|Tyrantrum|Ash's Pokédex|Tyrantrum, the Despot Pokémon. Using its jaw, Tyrantrum can rip through thick metal. In times past, it was considered unbeatable.}}
+
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Grant Tyrantrum Adventures.png|1700px|thumb|Tyrantrum in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+[[Grant]] owns a Tyrantrum. It was first used to try and stop the [[ultimate weapon]] from activating in ''[[PAXY24|Pyroar Breathes]]''.
+
+In ''[[PAORAS04|Omega Alpha Adventure 4]]'', a Tyrantrum was silhouetted in {{Steven}}'s explanation about the [[Draconid people]].
+
+==In the TCG==
+{{main|Tyrantrum (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=rock|type2=dragon}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited.}}
+{{Dex/Entry1|v=Y|entry=Nothing could stop this Pokémon 100 million years ago, so it behaved like a king.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Nothing could stop this Pokémon 100 million years ago, so it behaved like a king.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=Complete restoration is impossible, allowing room for theories that its entire body was once covered in a feather-like coat.}}
+{{Dex/Entry1|v=Ultra Moon|entry=The king of the ancient world, it can easily crunch a car with the devastating strength of its enormous jaws.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=rock|type2=dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Tyrunt}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Tyrunt}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 4|Renegade Meadow: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 320]]<br>[[Marron Trail|Marron Trail: Stage 653]]<br>Event: ''[[Special Stages#Special Challenge|Tyrantrum Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Guardian's Peak|Fairy Land: Guardian's Peak]] <small>(Back Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|type2=Dragon
+|HP=     82
+|Attack= 121
+|Defense=119
+|SpAtk=  69
+|SpDef=  59
+|Speed=  71}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Dragon
+|Normal=   50
+|Flying=   50
+|Fighting=200
+|Ground=  200
+|Rock=    100
+|Bug=     100
+|Poison=   50
+|Ghost=   100
+|Steel=   200
+|Fire=    25
+|Water=   100
+|Grass=   100
+|Electric=50
+|Psychic= 100
+|Ice=      200
+|Dragon=  200
+|Dark=    100
+|Fairy=   200
+|notes= no
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Tyrantrum|Rock|Dragon|6}}
+{{learnlist/level7|1|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level7|1|Head Smash|Rock|Physical|150|80|5||'''}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level7|6|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|10|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level7|12|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|15|Stealth Rock|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|17|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|20|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/level7|26|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level7|30|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/level7|34|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|37|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/level7|42|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|47|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/level7|53|Horn Drill|Normal|Physical|&mdash;|&mdash;|5}}
+{{learnlist/level7|58|Head Smash|Rock|Physical|150|80|5||'''}}
+{{learnlist/level7|68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/levelf/7|Tyrantrum|Rock|Dragon|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Tyrantrum|Rock|Dragon|6}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Tyrantrum|Rock|Dragon|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Tyrantrum|Rock|Dragon|6}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}<br>{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|130|Gyarados}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}<br>{{MSP|149|Dragonite}}{{MSP|334|Altaria}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}{{MSP|782|Jangmo-o}}<br>{{MSP|783|Hakamo-o}}{{MSP|784|Kommo-o}}|Dragon Dance|Dragon|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|004|Charmander}}{{MSP|005|Charmeleon}}{{MSP|006|Charizard}}{{MSP|024|Arbok}}{{MSP|248|Tyranitar}}{{MSP|295|Exploud}}<br>{{MSP|373|Salamence}}{{MSP|445|Garchomp}}|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|130|Gyarados}}{{MSP|248|Tyranitar}}{{MSP|295|Exploud}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|336|Seviper}}|Poison Fang|Poison|Physical|50|100|15}}
+{{learnlist/breed7|{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}<br>{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|389|Torterra}}{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}<br>{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}{{MSP|698|Amaura}}{{MSP|699|Aurorus}}<br>{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}{{MSP|784|Kommo-o}}|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|248|Tyranitar}}{{MSP|295|Exploud}}{{MSP|373|Salamence}}|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/breedf/7|Tyrantrum|Rock|Dragon|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Tyrantrum|Rock|Dragon|6}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Tyrantrum|Rock|Dragon|6}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Tyrantrum|Rock|Dragon|6}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Tyrantrum|Rock|Dragon|6}}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Dragon}}
+{{Template:Spindata/Battle Trozei|col=6|type=Rock|ndex=697
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Rock|ndex=697|num=453
+|min=70
+|max=125
+|raisemaxlevel=10
+|skill=Dragon Talon
+|skilldesc=Sometimes increases damage.
+|swapper=Block Shot
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=rock
+|type2=dragon
+|no1=696
+|name1=Tyrunt
+|type1-1=Rock
+|type2-1=Dragon
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 39}}<br><small>during the {{color2|000|Time|day}}</small>
+|no2=697
+|name2=Tyrantrum
+|type1-2=Rock
+|type2-2=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=rock|type2=dragon}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=697}}
+{{Spritebox/7|ndex=697}}
+{{Spritebox/Footer|697|Tyrantrum}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Tyrantrum and {{p|Tyrunt|its pre-evolution}}.
+* Tyrantrum and its {{p|Tyrunt|pre-evolution}} were designed by [[Hitoshi Ariga]].<ref>[http://hitoshiariga.deviantart.com/art/Pocket-Monsters-XY-413536751 Pocket Monsters XY by HitoshiAriga on deviantART]</ref>
+* Tyrantrum is the heaviest [[Fossil|Fossil Pokémon]].
+
+===Origin===
+Tyrantrum is mostly based on the {{wp|genus}} ''{{wp|Tyrannosaurus}}'', though it also shares characteristics (including the orange facial crest) with the {{wp|Carnosauria}} clade. The orange crest is also similar to those seen on ''{{wp|Cryolophosaurus}}''. The orange crest and white feathers may also have been inspired by {{wp|king}}s (with the crest acting as the crown, the fringe on the lower jaw acting like a beard, and the fringe on the Pokémon's neck acting as a cape). The fringe may also be a reference to the possibility of ''Tyrannosaurus'' having feathers.
+
+====Name origin====
+Tyrantrum may be a combination of ''Tyrannosaurus'' or ''tyrant'' with ''tantrum''.
+
+Gachigoras may be a combination of ガチ ''gachi'' (serious or for real) and チゴラス ''Chigoras'' ({{p|Tyrunt}}'s Japanese name). It may also come from がっちり ''gacchiri'' (stocky).
+
+==In other languages==
+{{Other languages|type=Rock|type2=Dragon
+|ja=ガチゴラス ''Gachigoras''|jameaning=Possibly from {{tt|ガチン ''gachin''|banging noise}}, or {{tt|ガチガチ ''gachigachi''|teeth chattering}}, {{tt|チゴラス ''Chigorasu''|Tyrunt}}, and ''Tyrannosaurus''
+|fr=Rexillius|frmeaning=From the Latin word ''rex'' ("king").
+|es=Tyrantrum|esmeaning=Same as English name
+|de=Monargoras|demeaning=From ''Monarch'', ''{{p|Tyrunt|Balgoras}}'', and ''{{wp|Gorgosaurus}}''
+|it=Tyrantrum|itmeaning=Same as English name
+|ko=견고라스 ''Gyeongoraseu''|komeaning=From {{tt|견고 (堅固) ''gyeongo''|firm}} and {{tt|티고라스 ''Tigoraseu''|Tyrunt}}
+|zh_yue=怪顎龍 ''Gwaaingohklùhng''|zh_yuemeaning=From {{tt|怪顎 ''gwaaingohk''|strange jaw}} and ''{{tt|暴龍 ''buhklùhng''|Tyrannosaurus}}''
+|hi=टाइरानट्रम ''Tyrantrum''|himeaning=Transcription of English name
+|ru=Тайрантрам ''Tayrantram''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Rock|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=696|prev=Tyrunt|nextnum=698|next=Amaura}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Fossil Pokémon]]
+
+[[de:Monargoras]]
+[[fr:Rexillius]]
+[[it:Tyrantrum]]
+[[ja:ガチゴラス]]
+[[pl:Tyrantrum]]
+[[zh:怪颚龙]]

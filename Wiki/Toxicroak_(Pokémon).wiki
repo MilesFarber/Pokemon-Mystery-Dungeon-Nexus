@@ -1,0 +1,494 @@
+{{PokémonPrevNext/Head|type=Poison|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=453|prev=Croagunk|nextnum=455|next=Carnivine|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Toxicroak}}
+|}
+{{Pokémon Infobox
+|name=Toxicroak
+|jname=ドクロッグ
+|jtranslit=Dokuroggu
+|tmname=Dokurog
+|ndex=454
+|sdex=130
+|u2dex=291
+|karea=Central
+|kdex=126
+|abrow=081
+|obrow=039
+|opbrow=106
+|typebox=1
+|type1=Poison
+|type2=Fighting
+|category=Toxic Mouth
+|height-ftin=4'03"
+|height-m=1.3
+|weight-lbs=97.9
+|weight-kg=44.4
+|abilityn=d
+|ability1=Anticipation
+|ability2=Dry Skin
+|abilityd=Poison Touch
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=20
+|evtotal=2
+|evat=2
+|expyield=172
+|oldexp=181
+|lv100exp=1,000,000
+|gendercode=127
+|color=Blue
+|catchrate=75
+|body=12
+|pokefordex=toxicroak
+|generation=4
+|friendship=70
+}}
+'''Toxicroak''' ([[List of Japanese Pokémon names|Japanese:]] '''ドクロッグ''' ''Dokurog'') is a dual-type {{2t|Poison|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolve]]s from {{p|Croagunk}} starting at [[level]] 37.
+
+==Biology==
+Toxicroak is a dark blue and teal, bipedal Pokémon resembling a {{wp|poison dart frog}}. Its head bears a gently-upward curling spike which seems to be a part of the skull. Its eyes are bright yellow, sinister and intimidating, with a small snake-like pupil. Its mouth gives an appearance of a mouth-guard, with its red upper lip curling upward at the ends in a very intimidating manner. Underneath its chin is a bulbous red vocal sac, which is smaller on a female Toxicroak. It has three fingers and one large red claw on the back of each hand. These claws on the backs of their hands can channel poison. Its forearms have two black rings encircling them. Its legs are muscular and seem to be adapted for speedy attacks. It has three toes on its feet, with a red middle toe on each foot, and a sharp spike which juts out of its heels. Underneath the pelvic area are two white horizontal lines. Thick black lines run down the sides of its body and surrounding its limbs, making them seem as if the limbs are detachable. The black lines go up into its face and surround the eyes before meeting in the middle of its snout, just above the upper lip.
+
+By croaking, Toxicroak churns the poison stored in the poison sac on their throat for more potency. Toxicroak gives off poison with stings, though it can poison when touched. It can be cruel and fearsome, or it can be quite laid-back, relaxing on rocks and in marshes, studying the views around it. Toxicroak lives in moist areas around bodies of water.
+
+==In the anime==
+[[File:Toxicroak anime.png|thumb|250px|left|Toxicroak in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Saturn's Toxicroak]]====
+{{TP|Saturn|Toxicroak}} debuted in ''[[DP069|Enter Galactic!]]'' as a Pokémon belonging to [[Saturn]]. Saturn's Toxicroak made several later appearances with [[Team Galactic]], during which it developed a rivalry with [[Brock's Croagunk]].
+
+====Other====
+Multiple Toxicroak appeared in ''[[XY103|A Cellular Connection!]]''.
+
+===Minor appearances===
+A Toxicroak appeared in ''[[DP086|Arriving in Style!]]'', where it was used in the [[Hearthome Collection]] by a [[Pokémon Stylist]].
+
+A Toxicroak made a brief cameo in the opening sequence of ''[[M11|Giratina and the Sky Warrior]]''.
+
+A {{pkmn|Coordinator}}'s Toxicroak briefly appeared in the [[Sinnoh Grand Festival]] in ''[[DP174|Last Call — First Round!]]'', where it was performing alongside a {{p|Skuntank}}.
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP069|Toxicroak|Ash's Pokédex|Toxicroak, the Toxic Mouth Pokémon and the evolved form of {{p|Croagunk}}. The poison produced in its sacks is carried through tubes in its arms to its knuckle claws.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY103|Toxicroak|Serena's Pokédex|Toxicroak. The Toxic Mouth Pokémon, and the evolved form of {{p|Croagunk}}. Toxicroak's throat has a poison sac, and its poison stirs and becomes even more potent when it croaks.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Saturn Toxicroak Adventures.png|thumb|125px|Toxicroak in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Saturn's Toxicroak}}
+Like in many other canons, Saturn is known to own a Toxicroak. She evolved from his {{p|Croagunk}} somewhere before ''[[PS436|The Final Dimensional Duel VI]]''.
+
+A Toxicroak appeared in a fantasy in [[PS536]].
+
+A Toxicroak appeared in ''[[PAXY15|Dancing Vivillon]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+{{main|Saturn's Toxicroak}}
+Toxicroak first appeared with [[Jupiter]] in ''[[DPA08|Team Galactic's Conspiracy, Revealed!!]]'', where she used it alongside her {{p|Golbat}} against [[Mitsumi]] and her {{p|Infernape}} and {{p|Leafeon}}. It was defeated by a {{m|Sunny Day}}-boosted {{m|Fire Spin}}.
+
+Like in the {{pkmn|games}} and {{pkmn|anime}}, {{TP|Saturn|Toxicroak}} is [[Saturn]]'s main Pokémon. Saturn used it to stop [[Hareta]] from stealing {{p|Azelf}}. Its poison left Hareta weak, but Azelf helped by boosting Hareta's willpower, which, in turn, activated Toxicroak's {{a|Anticipation}}. It first appeared in ''[[DPA11|The Legendary Pokémon, Captured]]''.
+
+==In the TCG==
+{{main|Toxicroak (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Gates to Infinity}}: Toxicroak is the second-in-command of a gang that was enlisted by {{p|Kyurem}} to help eliminate any humans that came to the Pokémon world to stop the [[Bittercold]]. It is seen throughout the game impeding progress of the player and partner Pokémon as well as frequently reporting to its {{OBP|Munna|Gates to Infinity|commanding officer}}.
+{{endspoilers}}
+
+===Pokédex entries===
+{{Dex/Header|type=Poison|type2=Fighting}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.}}
+{{Dex/Entry1|v=Pearl|entry=The toxin made in its poison sacs is pumped to the knuckle claws through tubes down its arms.}}
+{{Dex/Entry1|v=Platinum|entry=It has a poison sac at its throat. When it croaks, the stored poison is churned for more potency.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It has a poison sac at its throat. When it croaks, the stored poison is churned for more potency.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The croaking that Toxicroak produces before a battle is for churning the poison it has stored in its poison sac.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.}}
+{{Dex/Entry1|v=Y|entry=Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Poison|type2=Fighting}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Great Marsh]]}}
+{{Availability/Entry1|v=Platinum|area=[[Great Marsh]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Croagunk}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Croagunk}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Pinwheel Forest]] (outer)}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Poison-type Safari|Poison]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Poison|type2=Fighting}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Spacial Rift]] (B7-B15, Deep Spacial Rift B1-B9)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Spacial Rift]] (B7-B15, Deep Spacial Rift B1-B9)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Pueltown]] (during mission), [[Capture Arena]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Rocky Cave]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Sky Fortress]], [[Fire Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Croagunk}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Worldcore]] (1F-13F), [[Silent Tundra]] (Golden Chamber), [[Dreamy Island]] (Golden Chamber), [[Moonlit Forest]] (1F-28F), [[Rusty Mountain]] (Mapless Street), [[Cape at the Edge]] (B1-B29), high difficulty Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Melodious Woodland#A Lively Concert|Melodious Woodland: A Lively Concert]], [[Sealed Door#The Place to Return To|Sealed Door: The Place to Return To]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 3|Safari Jungle: Stage 3]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Jungle Verde|Jungle Verde: Stage 146]]<br>[[Zaffiro Coast|Zaffiro Coast: Stage 609]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Pearl Lake|Pearl Marsh: Pearl Lake]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Poison|type2=Fighting
+|dppt1=Black Sludge|dppt1type=None|dppt1rar=5
+|b2w21=Black Sludge|b2w21type=None|b2w21rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Poison
+|type2=Fighting
+|HP=     83
+|Attack=106
+|Defense=65
+|SpAtk=  86
+|SpDef=  65
+|Speed=  85}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Poison
+|type2=Fighting
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=4
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=4
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Poison
+|type2=Fighting
+|Normal=  100
+|Fighting= 50
+|Flying=  200
+|Poison=   50
+|Ground=  200
+|Rock=     50
+|Bug=      25
+|Ghost=   100
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic= 400
+|Ice=     100
+|Dragon=  100
+|Dark=     50
+|Fairy=   100
+|notes=yes
+|dryskin=maybe
+|newfire=1¼}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Toxicroak|Poison|Fighting|4}}
+{{learnlist/level7|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level7|1|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level7|1|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level7|3|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level7|8|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level7|10|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|15|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|17|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/level7|22|Revenge|Fighting|Physical|60|100|10||'''}}
+{{learnlist/level7|24|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|29|Mud Bomb|Ground|Special|65|85|10}}
+{{learnlist/level7|31|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level7|36|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/level7|41|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|49|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/level7|54|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/level7|58|Belch|Poison|Special|120|90|10||'''}}
+{{learnlist/level7|62|Flatter|Dark|Status|&mdash;|100|15}}
+{{learnlist/levelf/7|Toxicroak|Poison|Fighting|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Toxicroak|Poison|Fighting|4}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Toxicroak|Poison|Fighting|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Toxicroak|Poison|Fighting|4}}
+{{learnlist/breed7|{{MSP|307|Meditite}}{{MSP|308|Medicham}}|Acupressure|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|675|Pangoro}}|Bullet Punch|Steel|Physical|40|100|30}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|448|Lucario}}{{MSP|539|Sawk}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}|Cross Chop|Fighting|Physical|100|80|5||'''}}
+{{learnlist/breed7|{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Drain Punch|Fighting|Physical|75|100|10||'''}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|532|Timburr}}{{MSP|533|Gurdurr}}{{MSP|534|Conkeldurr}}|Dynamic Punch|Fighting|Physical|100|50|5||'''}}
+{{learnlist/breed7|{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}{{MSP|302|Sableye}}{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed7|{{MSP|106|Hitmonlee}}{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|391|Monferno}}<br>{{MSP|392|Infernape}}{{MSP|448|Lucario}}|Feint|Normal|Physical|30|100|10}}
+{{learnlist/breed7|{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|605|Elgyem}}{{MSP|606|Beheeyem}}|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|448|Lucario}}|Me First|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|106|Hitmonlee}}{{MSP|122|Mr. Mime}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}<br>{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Meditate|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}{{MSP|448|Lucario}}{{MSP|539|Sawk}}{{MSP|619|Mienfoo}}|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}|Smelling Salts|Normal|Physical|70|100|10}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}|Vacuum Wave|Fighting|Special|40|100|30||'''}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|296|Makuhita}}<br>{{MSP|297|Hariyama}}{{MSP|532|Timburr}}{{MSP|533|Gurdurr}}{{MSP|534|Conkeldurr}}|Wake-Up Slap|Fighting|Physical|70|100|10||'''}}
+{{learnlist/breedf/7|Toxicroak|Poison|Fighting|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Toxicroak|Poison|Fighting|4}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||'''|no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20||'''|no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutorf/7|Toxicroak|Poison|Fighting|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Toxicroak|Poison|Fighting|4}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Toxicroak|Poison|Fighting|4}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg psychic color light}}; border: 3px solid #{{tcg psychic color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Slash}}
+| style="background:#fff; {{roundybr|5px}}" | [[Toxicroak (Majestic Dawn 31)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Poison|type2=Fighting}}
+{{Spindata/MDTDS|col=6|type=Poison|ndex=454
+|body=1
+|rate=-12
+|IQ=F
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Poison
+|group=Poison
+|assist=Poison
+|field=Crush
+|fieldpower=2
+|browser=It lets loose a poison gas and a poisonous fluid from its mouth to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Poison
+|group=Poison
+|assist=Poison
+|field=Crush
+|fieldpower=4
+|browser=It releases poison that makes Pokémon Tired.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Poison
+|att=4
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Poison
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Poison|ndex=454
+|HP=4
+|atk=3
+|def=2
+|spd=3
+|range=3
+|move=Sludge Bomb
+|ability1=Dodge
+|ability2=Melee
+|ability3=Hero
+|evo=Evolves from {{p|Croagunk}} when its Attack is 81 or higher
+|link={{DL|List of Pokémon Conquest characters|Kanemori}}, {{DL|List of Pokémon Conquest characters|Morikiyo}}, and {{DL|List of Pokémon Conquest characters|Tadamoto}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Poison|ndex=454
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Poison|ndex=454|num=088
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Prank
+|skilldesc=Sometimes changes when a foe will next disrupt your play.
+|swapper=Poison
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Poison
+|type2=Fighting
+|no1=453
+|name1=Croagunk
+|type1-1=Poison
+|type2-1=Fighting
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 37}}
+|no2=454
+|name2=Toxicroak
+|type1-2=Poison
+|type2-2=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=Poison|type2=Fighting}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/Gender|ndex=454}}
+{{Spritebox/5/Gender|ndex=454}}
+{{Spritebox/6/Gender|ndex=454}}
+{{Spritebox/7/Gender|ndex=454}}
+{{Spritebox/Footer|454|Toxicroak}}
+
+==Trivia==
+[[File:WTP XY103.png|thumb|250px|right|Toxicroak with turquoise skin in the [[Who's That Pokémon?]] segment]]
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Toxicroak and its pre-evolution, {{p|Croagunk}}.
+** Toxicroak, along with its {{p|Croagunk|pre-evolution}}, are also the only Pokémon with a double weakness to the {{t|Psychic}} type, due to this unique typing.
+* In the {{pkmn|anime}}, Toxicroak is depicted with a light turquoise skin similar to its [[Shiny]] coloration. This appears to be its ordinary coloration in the anime.
+
+===Origin===
+Toxicroak may have been based on the {{wp|poison dart frog}}. The claws on its hands may be inspired by the {{wp|hairy frog}}, which defends itself by breaking its own toes and projecting sharpened bones from its skin.
+
+====Name origin====
+Toxicroak is a combination of ''toxic'' and ''croak''.
+
+Dokurog is a combination of 毒 ''doku'' (poison) and ''frog''.
+
+==In other languages==
+{{Other languages|type=Poison|type2=Fighting
+|ja=ドクロッグ ''Dokurog''|jameaning=From 毒 ''doku'' (poison) and ''frog''
+|de=Toxiquak|demeaning=From ''{{tt|toxisch|toxic}}'' and ''{{tt|quaken|to croak}}''
+|fr=Coatox|frmeaning=From ''{{tt|coassement|croaking}}'' and ''{{tt|toxine|toxin}}''
+|es=Toxicroak|esmeaning=Same as English name
+|it=Toxicroak|itmeaning=Same as English name
+|ko=독개굴 ''Dokgaegul''|komeaning=From {{tt|독 ''dok''|toxin}} and {{tt|개굴 ''gaegul''|to croak}} or just {{tt|독개구리 ''deokgaeguri''|Poisonous Dart Frog}}
+|zh_cmn=毒骷蛙 ''Dú Kū Wā''|zh_cmnmeaning=毒骷 may be a transliteration of "doku" in its Japanese name. 毒 also means poison. The last character means frog. Literally "Poison skeleton frog".
+}}
+<br clear="left">
+
+==Related articles==
+* [[Saturn's Toxicroak]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Poison|type2=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=453|prev=Croagunk|nextnum=455|next=Carnivine}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Toxiquak]]
+[[fr:Coatox]]
+[[it:Toxicroak]]
+[[ja:ドクロッグ]]
+[[pl:Toxicroak]]
+[[zh:毒骷蛙]]

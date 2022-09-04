@@ -1,0 +1,316 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=658|prev=Greninja|nextnum=660|next=Diggersby|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Bunnelby}}
+|}
+{{Pokémon Infobox
+|name=Bunnelby
+|jname=ホルビー
+|jtranslit=Horubī
+|tmname=Horubee
+|category=Digging
+|typebox=1
+|type1=Normal
+|ndex=659
+|karea=Central
+|kdex=010
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=11.0
+|weight-kg=5.0
+|abilityn=d
+|ability1=Pickup
+|ability2=Cheek Pouch
+|abilityd=Huge Power
+|egggroupn=1
+|egggroup1=Field
+|gendercode=127
+|eggcycles=15
+|evtotal=1
+|evsp=1
+|expyield=47
+|lv100exp=1,000,000
+|color=Brown
+|catchrate=255
+|body=06
+|pokefordex=bunnelby
+|generation=6
+|friendship=70
+}}
+'''Bunnelby''' ([[List of Japanese Pokémon names|Japanese]]: '''ホルビー''' ''Horubee'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] into {{p|Diggersby}} starting at level 20.
+
+==Biology==
+Bunnelby is a small, gray, rabbit-like Pokémon. It has large, gray, brown-tipped ears with pinkish fur on the inside. It has a large, gray head and large eyes with white sclera and black pupils. It has a small pink nose and gray fur that sticks out on the cheeks, along with large white teeth. Its neck is surrounded by brown fur. It has a gray body with a gray tail and small brown spots on its hind legs. Its front paws are completely gray, while its hind paws are gray with brown toes. Bunnelby's ears are strong enough to shovel dirt and chop tree roots. It tends to be nocturnal.
+
+==In the anime==
+[[File:Clemont Bunnelby.png|thumb|250px|left|Bunnelby in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Clemont's Bunnelby]]====
+Bunnelby debuted in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]'', under the ownership of {{an|Clemont}}.
+
+===Minor appearances===
+A Bunnelby appeared in ''[[XY025|Climbing the Walls!]]''.
+
+A Bunnelby appeared in a flashback or a fantasy in ''[[XY035|The Forest Champion!]]''.
+
+A wild Bunnelby appeared in ''[[XY140|Till We Compete Again!]]''
+
+Two Trainers' Bunnelby appeared in ''[[SS036|The Legend of X, Y, and Z!]]'', with one of them appearing during a flashback.
+
+==In the manga==
+[[File:Bunnelby Adventures.png|thumb|100px|Bunnelby in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Bunnelby debuted in ''[[PAXY02|X-actly What They Wanted]]'', where it was seen running with its trainer from the battle between {{p|Xerneas}} and {{p|Yveltal}}.
+
+Another Bunnelby appeared with a female {{tc|Rising Star}} at a Mini-game Corner in the {{chap|X & Y}}.
+
+A Bunnelby appeared in ''[[PAXY37|Zygarde Agitated]]''.
+
+==In the TCG==
+{{main|Bunnelby (TCG)}}
+
+==Game data==
+===NPC appearances===
+*{{g|Super Mystery Dungeon}}: Bunnelby is in charge of underground explorations in the [[Expedition Society]].
+
+===Pokédex entries===
+{{Dex/Header|type=normal}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=They use their large ears to dig burrows. They will dig the whole night through.}}
+{{Dex/Entry1|v=Y|entry=It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=They use their large ears to dig burrows. They will dig the whole night through.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=normal}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Route]]s {{rtn|2|kalos}}, {{rtn|3|kalos}}, {{rtn|5|kalos}}, and {{rtn|22|kalos}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 3|Renegade Meadow: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 388]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Forgotten Forest|Dark Land: Forgotten Forest]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|HP=38
+|Attack=36
+|Defense=38
+|SpAtk=32
+|SpDef=36
+|Speed=57}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Flying=100
+|Fighting=200
+|Ground=100
+|Rock=100
+|Bug=100
+|Poison=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Water=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Bunnelby|Normal|Normal|6}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|7|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level7|10|Double Slap|Normal|Physical|15|85|10||'''}}
+{{learnlist/level7|13|Mud-Slap|Ground|Special|20|100|10||''}}
+{{learnlist/level7|15|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level7|18|Mud Shot|Ground|Special|55|95|15||''}}
+{{learnlist/level7|20|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/level7|25|Odor Sleuth|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|29|Flail|Normal|Physical|&mdash;|100|15||'''}}
+{{learnlist/level7|33|Dig|Ground|Physical|80|100|10||''}}
+{{learnlist/level7|38|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/level7|42|Super Fang|Normal|Physical|&mdash;|90|10}}
+{{learnlist/level7|47|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/level7|49|Earthquake|Ground|Physical|100|100|10||''}}
+{{learnlist/levelf/7|Bunnelby|Normal|Normal|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Bunnelby|Normal|Normal|6}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Bunnelby|Normal|Normal|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Bunnelby|Normal|Normal|6}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|028A|Sandslash}}{{MSP|161|Sentret}}{{MSP|162|Furret}}<br>{{MSP|206|Dunsparce}}{{MSP|231|Phanpy}}{{MSP|232|Donphan}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}<br>{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|517|Munna}}{{MSP|518|Musharna}}{{MSP|775|Komala}}{{MSP|777|Togedemaru}}|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|206|Dunsparce}}<br>{{MSP|231|Phanpy}}{{MSP|232|Donphan}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|498|Tepig}}{{MSP|499|Pignite}}{{MSP|500|Emboar}}<br>{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|775|Komala}}<br>{{MSP|777|Togedemaru}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/breed7|{{MSP|225|Delibird}}|Spikes|Ground|Status|&mdash;|&mdash;|20|*}}
+{{learnlist/breedf/7|Bunnelby|Normal|Normal|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Bunnelby|Normal|Normal|6}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutorf/7|Bunnelby|Normal|Normal|6}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg colorless color light}}; border: 3px solid #{{tcg colorless color}}"
+|-
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Rototiller}}
+| [[Bunnelby (Primal Clash 121)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Template:Spindata/Battle Trozei|col=6|type=Normal|ndex=659
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Normal|ndex=659|num=545
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Cloud Clear
+|skilldesc=Clears away one black-cloud disruption without fail.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=normal
+|pictype=art
+|no1=659
+|name1=Bunnelby
+|type1-1=Normal
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 20}}
+|no2=660
+|name2=Diggersby
+|type1-2=Normal
+|type2-2=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=normal}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=659}}
+{{Spritebox/7|ndex=659}}
+{{Spritebox/Footer|659|Bunnelby}}
+
+==Trivia==
+* Bunnelby was designed by [[Lee HyunJung]].
+
+===Origin===
+Bunnelby is based on a rabbit. Its ability to use its ears as digging tools to excavate through earth and roots may be a reference to {{wp|trowel}}s or {{wp|shovel}}s.
+
+====Name origin====
+Bunnelby may be a combination of ''bunny'' and ''tunnel''.
+
+Horubee may be based on 掘る ''horu'' (to dig) or ''hole''.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ホルビー ''Horubee''|jameaning=From {{tt|掘る ''horu''| to dig}}
+|fr=Sapereau|frmeaning=From ''{{tt|saper|erode}}'' and ''{{tt|lapereau|rabbit}}
+|es=Bunnelby|esmeaning=Same as English name
+|de=Scoppel|demeaning=From ''scoop'' and ''{{tt|hoppeln|to hop}}
+|it=Bunnelby|itmeaning=Same as English name
+|ko=파르빗 ''Pareubit''|komeaning=From {{tt|파다 ''pada''|to dig}} and ''rabbit''
+|zh_cmn=掘掘兔 ''Juéjuétù''|zh_cmnmeaning=From {{tt|掘 ''jué''|to dig}} and {{tt|兔 ''tù''|rabbit}}
+|zh_yue=掘掘兔 ''Gwahtgwahttou''|zh_yuemeaning=From {{tt|掘 ''gwaht''|to dig}} and {{tt|兔 ''tou''|rabbit}}
+|hi=बनेलबी ''Bunnelby''|himeaning=Transcription of English name
+|ru=Баннелби ''Bannelbi''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+*[[Clemont's Bunnelby]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=658|prev=Greninja|nextnum=660|next=Diggersby}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[de:Scoppel]]
+[[fr:Sapereau]]
+[[it:Bunnelby]]
+[[ja:ホルビー]]
+[[pl:Bunnelby]]
+[[zh:掘掘兔]]

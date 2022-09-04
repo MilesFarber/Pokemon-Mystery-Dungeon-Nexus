@@ -1,0 +1,257 @@
+{{PokémonPrevNext/Head|type=Poison}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=802|prev=Marshadow|nextnum=804|next=Naganadel|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Poipole}}
+|}
+{{Pokémon Infobox
+|name=Poipole
+|jname=ベベノム 
+|tmname=Bebenomu
+|image=803Poipole.png
+|ndex=803
+|type1=Poison
+|category=Poison Pin
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=4.0
+|weight-kg=1.8
+|abilityn=1
+|ability1=Beast Boost
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=120
+|evtotal=1
+|evsp=1
+|expyield=189
+|lv100exp=1,250,000
+|gendercode=255
+|color=Purple
+|catchrate=45
+|body=06
+|pokefordex=poipole
+|generation=7
+|friendship=0
+}}
+'''Poipole''' ([[List of Japanese Pokémon names|Japanese]]: '''ベベノム''' ''Bebenomu'') is a {{type|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation VII]] in [[Pokémon Ultra Sun and Ultra Moon]].
+
+It [[Evolution|evolves]] into {{p|Naganadel}} when [[Level|leveled]] up while knowing {{m|Dragon Pulse}}.
+
+It is one of the [[Ultra Beast]]s and is known by the code name '''UB Adhesive''' (Japanese: '''{{tt|ＵＢ：ＳＴＩＣＫＹ|ユービー：スティッキー}}''' ''UB: Sticky'').
+
+==Biology==
+Poipole is a small purple Pokémon with a large head and small limbs with no visible digits. It has a long tail with a small spike on it, giving it a vaguely reptilian appearance. The tip of its tail, chest, face and tips of its head spikes are fuchsia. On its head are three spikes. The side spikes and the top of its head have grey nozzles which are capable of firing a glowing adhesive poison. It laughs while targeting opponents with this poison. Poipole's eyes and mouth give off a cyan glow.
+
+Poipole originates from [[Ultra Megalopolis]] in [[Ultra Space]], where it is popular as a [[starter Pokémon]]. Poipole is capable of understanding human speech after spending enough time with humans<ref>https://www.pokemon-sunmoon.com/ultra/en-us/gallery-detail-5.html</ref>.
+
+==In the anime==
+[[File:Poipole anime.png|thumb|250px|left|Poipole in the anime]]
+===Major appearances===
+====[[Recurring wild Pokémon in the anime#Poipole|Poipole (anime)]]====
+Poipole debuted in [[SM055]], where it was traversing an [[Ultra Wormhole]]. It reappeared in [[SM061]].
+
+===Minor appearances===
+{{clear}}
+==In the manga==
+
+==In the TCG==
+{{main|Poipole (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Poison}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=This Ultra Beast is well enough liked to be chosen as a first partner in its own world.}}
+{{Dex/Entry1|v=Ultra Moon|entry=An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Poison}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=Unavailable}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Megalo Tower]]/[[Ultra Megalopolis]]{{tt|*|If refused at Megalo Tower}} ({{pkmn2|Gift}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+
+====In events====
+{{eventAvail/h|Region|type=Poison}}
+{{eventAvail|{{gameabbrev7|USUM}}|Ultra Shiny Poipole|Japanese region|Online|40[[File:ShinyVIIStar.png|Shiny|link=Shiny Pokémon]]|March 2 to May 6, 2018|link=List of Japanese region serial code event Pokémon distributions in Generation VII#Ultra Shiny Poipole}}
+|}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Poison
+|HP=67
+|Attack=73
+|Defense=67
+|SpAtk=73
+|SpDef=67
+|Speed=73
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Poison
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Poipole|Poison|Poison|7|SM|USUM}}
+{{learnlist/levelVII|N/A|1|Dragon Pulse|Dragon|Special|85|100|10||''}}
+{{learnlist/levelVII|N/A|1|Peck|Flying|Physical|35|100|35}}
+{{learnlist/levelVII|N/A|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/levelVII|N/A|1|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/levelVII|N/A|1|Acid|Poison|Special|40|100|30||'''}}
+{{learnlist/levelVII|N/A|7|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/levelVII|N/A|13|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/levelVII|N/A|19|Charm|Fairy|Status|—|100|20}}
+{{learnlist/levelVII|N/A|23|Venom Drench|Poison|Status|—|100|20}}
+{{learnlist/levelVII|N/A|31|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/levelVII|N/A|37|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/levelVII|N/A|41|Toxic|Poison|Status|—|90|10}}
+{{learnlist/levelVII|N/A|47|Fell Stinger|Bug|Physical|50|100|25}}
+{{learnlist/levelf/7|Poipole|Poison|Poison|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Poipole|Poison|Poison|7}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Poipole|Poison|Poison|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Poipole|Poison|Poison|7}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Poipole|Poison|Poison|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Poipole|Poison|Poison|7}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||''|no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Poipole|Poison|Poison|7}}
+
+===Side game data===
+===Evolution===
+{{Evobox-2
+|type1=Poison
+|pictype=art
+|no1=803
+|name1=Poipole
+|type1-1=Poison
+|evo1={{bag|Rare Candy}} + {{bag|TM Dragon VI}}<br>{{color2|000|Level|Level up}}<br><small>knowing {{mcolor|Dragon Pulse}}</small>
+|no2=804
+|name2=Naganadel
+|type1-2=Poison
+|type2-2=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=Poison}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7/USUM|ndex=803}}
+{{Spritebox/Footer|803|Poipole}}
+
+==Trivia==
+* Poipole and its {{p|Naganadel|evolution}} are the only [[Ultra Beast]]s that are part of an evolutionary line.
+* Poipole has the lowest base stat total of all the Ultra Beasts.
+* Poipole and its evolution were created by [[James Turner]].
+* Poipole shares its {{pkmn|category}} name with its {{p|Naganadel|evolution}}, {{p|Nidoran♀}}, {{p|Nidorina}}, {{p|Nidoran♂}}, and {{p|Nidorino}}. They are all known as the Poison Pin Pokémon.
+
+===Origin===
+Poiple appears to be the infant of a stereotypical alien. Considering its evolution line, Poiple might also be based on the larva of a wasp.
+
+====Name origin====
+Poipole is a combination of ''poison'' and ''pole''<ref>[https://twitter.com/JamesTurner_42/status/931788320752918529 Twitter - James Turner confirming name origin]</ref>. It is also a play on ''purple''.
+
+Bebenomu is a combination of ''baby'' or ''bébé'' (French for baby) and ''venom''<ref>[https://twitter.com/JamesTurner_42/status/931665326772645888 Twitter - James Turner revealing Japanese name origin]</ref>.
+
+==In other languages==
+{{Other languages|type=Poison|type2=Poison
+|ja=ベベノム ''Bebenomu''|jameaning=From ''{{tt|bébé|French for baby}}'' and ''venom''
+|fr=Vémini|frmeaning=From ''{{tt|venin|venom}}'' and ''mini''
+|es=Poipole|esmeaning=Same as English name
+|de=Venicro|demeaning=From ''venom'' and ''micro''
+|it=Poipole|itmeaning=Same as English name
+|ko= 베베놈 ''Vevenom''|komeaning=Transliteration of Japanese name
+|zh_cmn=毒貝比 / 毒贝比 ''Dúbèibǐ''|zh_cmnmeaning=From {{tt|毒 ''dú''|poison}} and a transliteration of ''baby''
+|zh_yue=毒貝比 ''Duhkbuibéi''|zh_yuemeaning=From {{tt|毒 ''duhk''|poison}} and a transliteration of ''baby''
+|ru=Пойпол ''Poypol''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+''UB Adhesive''
+{{Langtable|color={{poison color}}|bordercolor={{poison color dark}}
+|zh_yue=ＵＢ：沾黏 ''{{tt|UB: Jīmnìhm|UB: Adhesion}}''
+|zh_cmn=ＵＢ：沾黏 ''{{tt|UB: Zhānnián|UB: Adhesion}}''
+|fr=UC-Glu
+|de=UB Klebrigkeit
+|it=UC Viscosus
+|ko=UB스티키 ''UB Sticky''
+|ru=УЧ Вязкость ''UCH Vyazkost'''
+|es=UE Viscoso
+}}
+{{-}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Poison}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=802|prev=Marshadow|nextnum=804|next=Naganadel}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve with certain moves]]
+[[Category:Pokémon that evolve with Dragon Pulse]]
+
+[[de:Venicro]]
+[[fr:Vémini]]
+[[it:Poipole]]
+[[ja:ベベノム]]
+[[zh:毒贝比]]

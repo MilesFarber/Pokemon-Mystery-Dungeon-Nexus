@@ -1,0 +1,371 @@
+{{PokémonPrevNext/Head|type=Fire|type2=Normal}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=667|prev=Litleo|nextnum=669|next=Flabébé|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Pyroar}}
+|}
+{{Pokémon Infobox
+|name=Pyroar
+|jname=カエンジシ
+|tmname=Kaenjishi
+|category=Royal
+|typebox=1
+|type1=Fire
+|type2=Normal
+|abilityn=d
+|ability1=Rivalry
+|ability2=Unnerve
+|abilityd=Moxie
+|ndex=668
+|karea=Central
+|kdex=058
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=179.7
+|weight-kg=81.5
+|egggroupn=1
+|egggroup1=Field
+|gendercode=223
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=177
+|lv100exp=1,059,860
+|color=Brown
+|catchrate=65
+|body=08
+|pokefordex=pyroar
+|generation=6
+|friendship=70
+}}
+'''Pyroar''' ([[List of Japanese Pokémon names|Japanese]]: '''カエンジシ''' ''Kaenjishi'') is a dual-type {{2t|Fire|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Litleo}} starting at [[level]] 35.
+
+==Biology==
+Pyroar is a quadruped, leonine Pokémon. It is mostly dark brown with light brown legs, tail tip, chest, and face. A male Pyroar has a large, dominantly red mane with gold streaks forming pattern resembling the ''Daimonji'' symbol 大. The shape also resembles the symbol for fire 火. In contrast, a female has a long, gold and red mane extending from its forehead to the whole length of its body. Pyroar's irises are tinted [[wp:Azure_(color)|azure]] with black pupils.
+
+Pyroar live in prides, led by the male with the largest mane of fire, and the females protect the pride's {{p|Litleo|cubs}}. Male Pyroar are usually lazy, but will protect its friends at the risk of its own well-being. Pyroar viciously threatens any challenger with a fiery breath exceeding {{tt|10,000 degrees Fahrenheit|6,000 degrees Celsius}}. It prefers to eat its meat raw.
+
+==In the anime==
+===In the main series===
+[[File:Pyroar anime.png|left|thumb|250px|Male and female Pyroar in the {{pkmn|anime}}]]
+[[File:Pyroar gender difference anime.png|left|thumb|250px|Close-up view of their gender difference]]
+====Major appearances====
+=====[[Lysandre's Pyroar]]=====
+A male Pyroar debuted in ''[[SS031|Mega Evolution Special II]]'', under the ownership of [[Lysandre]]. It reappeared in ''[[SS032|Mega Evolution Special III]]''.
+
+Lysandre's Pyroar made its main series debut in ''[[XY094|From A to Z!]]''.
+
+=====Other=====
+Four Pyroar appeared in ''[[XY097|A Fiery Rite of Passage!]]'', with three of them being female and one being male. The male Pyroar forced a Litleo to leave their pride to become more independent, but kept an eye on it. It eventually allowed Litleo back into the pride.
+
+A female Pyroar appeared in ''[[XY137|Battling With a Clean Slate!]]'', under the ownership of [[Alvin]]. It battled against [[Clembot]], who used {{TP|Clemont|Magneton}}, and lost.
+
+====Minor appearances====
+A male Pyroar debuted in ''[[M17|Diancie and the Cocoon of Destruction]]'', under the ownership of [[Astrid]].
+{{-}}
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY097|Pyroar|Ash's Pokédex|Pyroar, the Royal Pokémon. Pyroar's mane, which is made of fire, becomes larger when it gets excited.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+===In Pokémon Generations===
+[[File:Lysandre Pyroar PG.png|thumb|250px|Pyroar in [[Pokémon Generations]]]]
+=====[[Lysandre's Pyroar]]=====
+Lysandre's Pyroar appeared in ''[[PG16|The Beauty Eternal]]''. It was seen accompanying Lysandre during his announcement of the [[Holo Caster]], using {{m|Flamethrower}} on him to showcase its hologram functionality. It often appeared outside of its Poké Ball.
+{{-}}
+
+==In the manga==
+[[File:Malva Pyroar Adventures.png|thumb|left|120px|Female Pyroar in [[Pokémon Adventures]]]]
+[[File:Lysandre Pyroar Adventures.png|thumb|140px|Male Pyroar in [[Pokémon Adventures]]]]
+
+===In the Let's Play the Pokémon Card Game XY! manga===
+[[Manabu Kadoo|Manabu]] used a male Pyroar in Let's Play the Pokémon Card Game XY!.
+
+===In the Pokémon Adventures manga===
+{{main|Lysandre's Pyroar}}
+[[Team Flare]] scientist [[Aliana]] owns a female Pyroar in ''[[PAXY02|X-actly What They Wanted]]''. This Pyroar is later revealed to be [[Malva]]'s after she resumed to her active duty.
+
+Team Flare's Boss [[Lysandre]] owns a male Pyroar, which first appeared in ''[[PAXY09|Chespin Sows the Seeds of Change]]''.
+
+==In the TCG==
+{{main|Pyroar (TCG)}}
+
+==Other Appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Wii U]]===
+[[File:PyroarTrophySmashBrosWii.png|thumb|200px|Pyroar Trophy in [[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Wii U]]]]
+A male Pyroar appears in the background of the {{st|Kalos Pokémon League}} stage. Pyroar appears in the {{DL|Pokémon League (Kalos)|Blazing Chamber}} along with other {{type|Fire}} Pokémon, namely {{p|Tepig}}, {{p|Blaziken}}, and {{p|Infernape}}.
+
+====Trophy information====
+'''NA''': ''The cute {{p|Litleo}} with a red tuft of fur evolves into the majestic-looking Pyroar. Male Pyroar have huge, fiery manes. In the wild, the male with the largest mane of fire becomes the leader. Female Pyroar have long manes and will fiercely protect the pride's cubs.''
+
+'''PAL''': ''{{p|Litleo}}, that adorable little Pokémon with a red tuft of fur, evolves into the majestic Pyroar. Males have huge fiery manes, and the one has the biggest mane is the leader of the pride. Females, on the other hand, have long, flowing manes and play the vital role of protecting the pride's cubs.''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=fire|type2=normal}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The male with the largest mane of fire is the leader of the pride.}}
+{{Dex/Entry1|v=Y|entry=With fiery breath of more than {{tt|10,000 degrees Fahrenheit|6,000 degrees Celsius}}, they viciously threaten any challenger. The females protect the pride’s cubs.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=The male with the largest mane of fire is the leader of the pride.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=With fiery breath of more than {{tt|10,000 degrees Fahrenheit|6,000 degrees Celsius}}, they viciously threaten any challenger. The females protect the pride’s cubs.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=The males are usually lazy, but when attacked by a strong foe, a male will protect its friends with no regard for its own safety.}}
+{{Dex/Entry1|v=Ultra Moon|entry=The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesn't use it on its prey. This Pokémon prefers to eat raw meat.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fire|type2=Normal}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Friend Safari]] ([[Friend Safari#Fire-type Safari|Fire]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Poni Plains]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fire|type2=Normal}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 2|Mountain of Order: Stage 2]] (Both forms)}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 515]] <small>(Female)</small><br>[[Nacht Carnival|Nacht Carnival: Stage 525]] <small>(Male)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ember Mountains#Furnace Mountain|Ember Mountains: Furnace Mountain]] <small>(All Areas)</small>, [[Gold Plateau#Revival Mountain|Gold Plateau: Revival Mountain]] <small>(Special)</small>, [[Starlight Islands#Volcanic Ravine|Volcanic Ravine]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Fire|type2=Normal}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Center Occupation Plan Lysandre's Pyroar|All|Japan|49|October 1 to November 11, 2016|link=List of local event Pokémon distributions in Generation VI#Lysandre's Pyroar}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Fire
+|type2=Normal
+|HP=     86
+|Attack= 68
+|Defense=72
+|SpAtk=  109
+|SpDef=  66
+|Speed=  106}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=fire
+|type2=normal
+|Normal=100
+|Flying=100
+|Fighting=200
+|Ground=200
+|Rock=200
+|Bug=50
+|Poison=100
+|Ghost=0
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|normal=yes
+|newghost=1
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Pyroar|Fire|Normal|6}}
+{{learnlist/level7|1|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level7|1|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|5|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level7|8|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|11|Headbutt|Normal|Physical|70|100|15||'''}}
+{{learnlist/level7|15|Noble Roar|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|20|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level7|23|Fire Fang|Fire|Physical|65|95|15||'''}}
+{{learnlist/level7|28|Endeavor|Normal|Physical|&mdash;|100|5}}
+{{learnlist/level7|33|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/level7|38|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/level7|42|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|48|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/level7|51|Incinerate|Fire|Special|60|100|15||'''}}
+{{learnlist/level7|57|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/levelf/7|Pyroar|Fire|Normal|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Pyroar|Fire|Normal|6}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Pyroar|Fire|Normal|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Pyroar|Fire|Normal|6}}
+{{learnlist/breed7|{{MSP|674|Pancham}}{{MSP|675|Pangoro}}{{MSP|702|Dedenne}}|Entrainment|Normal|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|037|Vulpix}}{{MSP|077|Ponyta}}{{MSP|078|Rapidash}}{{MSP|136|Flareon}}{{MSP|255|Torchic}}{{MSP|324|Torkoal}}<br>{{MSP|631|Heatmor}}{{MSP|653|Fennekin}}{{MSP|654|Braixen}}{{MSP|655|Delphox}}|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|077|Ponyta}}{{MSP|078|Rapidash}}{{MSP|136|Flareon}}{{MSP|256|Combusken}}{{MSP|257|Blaziken}}<br>{{MSP|391|Monferno}}{{MSP|392|Infernape}}{{MSP|498|Tepig}}{{MSP|499|Pignite}}{{MSP|500|Emboar}}{{MSP|554|Darumaka}}<br>{{MSP|555|Darmanitan}}{{MSP|631|Heatmor}}{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/breed7|{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|631|Heatmor}}|Snatch|Dark|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|206|Dunsparce}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|287|Slakoth}}<br>{{MSP|289|Slaking}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}<br>{{MSP|450|Hippowdon}}{{MSP|513|Pansear}}{{MSP|517|Munna}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|775|Komala}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Pyroar|Fire|Normal|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Pyroar|Fire|Normal|6}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutorf/7|Pyroar|Fire|Normal|6}}
+
+====By a prior [[evolution]]====
+{{Learnlist/prevoh/7|Pyroar|Fire|Normal|6}}
+{{Learnlist/prevo7null}}
+{{Learnlist/prevof/7|Pyroar|Fire|Normal|6}}
+
+===Side game data===
+{{Spindata/Head|type=Fire|type2=Normal}}
+{{Template:Spindata/Battle Trozei|col=3|type=Fire|ndex=668
+|power=2
+}}
+{{Template:Spindata/Battle Trozei|col=3|type=Fire|ndex=668F
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Fire|ndex=668|num=663
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Relentless
+|skilldesc=Increases damage done by combos if foe has any status condition.
+}}
+{{Spindata/Shuffle|col=3|type=Fire|ndex=668F|num=663
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Crowd Control
+|skilldesc=Increases damage when there are more Pyroar in the puzzle area.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=fire
+|type2=normal
+|pictype=art
+|no1=667
+|name1=Litleo
+|type1-1=Fire
+|type2-1=Normal
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 35}}
+|no2=668
+|name2=Pyroar
+|type1-2=Fire
+|type2-2=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=fire|type2=normal}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6/Gender|ndex=668}}
+{{Spritebox/7/Gender|ndex=668}}
+{{Spritebox/Footer|668|Pyroar}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Pyroar and its {{p|Litleo|pre-evolution}}.
+* No other Pokémon has the same [[List of Pokémon by gender ratio|gender ratio]] — [[:Category:Pokémon with a gender ratio of one male to seven females|one male to seven females]] — as Pyroar and {{p|Litleo|its pre-evolution.}}
+* Pyroar is the only Pokémon with a base stat total of 507.
+* Pyroar shares its {{pkmn|category}} with {{p|Slowking}}. They are both known as the Royal Pokémon.
+* Though the male Pyroar has a chevron-shaped nose in its official artwork and in [[Pokémon Battle Trozei]], all other merchandise, game, and anime artwork shows it with a triangular shaped nose, similar to that of the female.
+
+===Origin===
+Pyroar is based on a lion. The style of its fur, in particular the spiked areas on its limbs and tail, more than likely is a reference to {{wp|Lion (heraldry)|stylized lions in heraldry and coat of arms}}. The yellow pattern on the mane of a male Pyroar is similar in shape to the ''Daimonji'', a bonfire lit during the Japanese festival {{wp|Gozan no Okuribi}} in the shape of the symbol 大 (meaning ''great'' or ''large''). The shape also resembles the kanji for fire (火), as written in certain (often calligraphic) styles. Its [[:Category:Pokémon with a gender ratio of one male to seven females|gender ratio]] also resembles lions prides, which consist of one primary male lion, several females, and one or two lesser males.
+
+====Name origin====
+Pyroar may be a combination of ''[[wiktionary:pyr-|pyr-]]'' and ''roar''.
+
+Kaenjishi is a combination of 火炎 ''kaen'' (flame) and 獅子 ''shishi'' (lion).
+
+==In other languages==
+{{Other languages|type=fire|type2=normal
+|ja=カエンジシ ''Kaenjishi''|jameaning=From {{tt|火炎 ''kaen''|flame}} and {{tt|獅子 ''shishi''|lion}}
+|fr=Némélios|frmeaning=From ''{{wp|Nemean lion|Némée}}'' and ''{{wp|Helios}}''
+|es=Pyroar|esmeaning=Same as English name
+|de=Pyroleo|demeaning=From ''pyro-'' and ''{{tt|leo|Latin for lion}}''
+|it=Pyroar|itmeaning=Same as English name
+|ko=화염레오 ''Hwayeomre'o''|komeaning=From {{tt|화염 (火焰) ''hwayeom''|flame}} and ''leo''
+|zh_cmn=火炎獅 ''Huǒyánshī''|zh_cmnmeaning=From {{tt|火炎 ''huǒyán''|flame}} and {{tt|獅 ''shī''|lion}}
+|zh_yue=火炎獅 ''Fóyìhmsī''|zh_yuemeaning=From {{tt|火炎 ''fóyìhm''|flame}} and {{tt|獅 ''sī''|lion}}
+|hi=पाइरोर ''Pyroar''|himeaning=Transcription of English name
+|ru=Пироар ''Piroar''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+*[[Lysandre's Pyroar]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Fire|type2=Normal}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=667|prev=Litleo|nextnum=669|next=Flabébé}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Pyroleo]]
+[[fr:Némélios]]
+[[it:Pyroar]]
+[[ja:カエンジシ]]
+[[pl:Pyroar]]
+[[zh:火炎狮]]

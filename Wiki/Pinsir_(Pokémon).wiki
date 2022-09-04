@@ -1,0 +1,683 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Pinsir}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=126|prev=Magmar|nextnum=128|next=Tauros|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Pinsir
+|jname=カイロス
+|jtranslit=Kairosu
+|tmname=Kailios
+|forme=2
+|form2=Mega Pinsir
+|image2=127Pinsir-Mega.png
+|mega=Pinsirite
+|ndex=127
+|oldjdex=112
+|jdex=113
+|hdex=167
+|hdex6=174
+|u2dex=146
+|karea=Coastal
+|kdex=130
+|adex=175
+|fbrow=093
+|abrow=123
+|type1=Bug
+|form2type1=Bug
+|form2type2=Flying
+|category={{tt|Stag Beetle|STAGBEETLE before Generation III}}
+|height-ftin=4'11"
+|height-m=1.5
+|height-ftin2=5'07"
+|height-m2=1.7
+|weight-lbs=121.3
+|weight-kg=55.0
+|weight-lbs2=130.1
+|weight-kg2=59.0
+|abilitylayout=2+1
+|abilitycolm=2
+|ability1=Hyper Cutter
+|ability2=Mold Breaker
+|abilitym=Aerilate
+|abilityd=Moxie
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=25
+|evtotal=2
+|evat=2
+|expyield=175
+|oldexp=200
+|lv100exp=1,250,000
+|gendercode=127
+|color=Brown
+|catchrate=45
+|body=12
+|body2=13
+|pokefordex=pinsir
+|generation=1
+|friendship=70
+}}
+'''Pinsir''' ([[List of Japanese Pokémon names|Japanese]]: '''カイロス''' ''Kailios'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+While it is not known to [[Evolution|evolve]] into or from any other Pokémon, it can [[Mega Evolution|Mega Evolve]] into '''Mega Pinsir''' using the [[Pinsirite]].
+
+==Biology==
+Pinsir is a bipedal Pokémon with a wide, dull brown body and a large pair of gray, spiky pincers on top of its head. In its mouth are many long, flat teeth arranged horizontally. Its legs are short and thick while its arms are long and thin, and each limb ends with three grey claws. Pinsir's limbs and abdomen are divided into segments. Its eyes are simple, but usually appear angry.
+
+As Mega Pinsir, it gains a large pair of clear wings with an area of orange venation. Additionally, a set of wing coverings appear. On each wing cover is a pair of large, thin, orange blades. Its arms become longer and more segmented, with triangular extensions on its lower arms. The pincers on its head are now longer with larger spikes, and its eyes are now yellow. When it Mega Evolves, Pinsir is left in a constant state of excitement. Mega Pinsir can travel up to 30&nbsp;mph and uses its two large horns to pierce its enemies before shredding them.
+
+It can use its pincers to crush, toss, bludgeon, or tear opponents, lift things twice its weight, and shatter logs. Captured prey is kept in place by the piercing thorns and sheer strength of Pinsir's horns, and will not be released until they are torn in half. In addition to hunting prey, [[EP119|the anime]] has shown that it enjoys tree sap. Pinsir lives deep in the {{DL|List of Pokémon by habitat|Forest Pokémon|forest}}, where it burrows underground or hides in the treetops on nights cold enough to render it immobile.
+
+In [[Alola]], it has a rivalry with {{p|Vikavolt}} and gets along with {{p|Heracross}}.
+
+==In the anime==
+[[File:Keanan Pinsir.png|thumb|220px|left|Pinsir in the {{pkmn|anime}}]]
+[[File:Mega Pinsir anime.png|thumb|220px|left|Mega Pinsir in the {{pkmn|anime}}]]
+===Major appearances===
+Pinsir debuted in ''[[EP004|Challenge of the Samurai]]'', where [[Samurai]] used it to battle against {{Ash}}. It easily defeated {{AP|Pidgeotto}}, but lost to his {{AP|Metapod}}.
+
+Multiple Pinsir appeared in ''[[EP119|A Sappy Ending]]'', where they were being driven into a forest that was {{p|Heracross}}'s territory because {{TRT}} was stealing the sap from the trees that were in their own territory.
+
+A Pinsir appeared in ''[[AG123|Rhapsody in Drew]]'', under the ownership of {{OBP|Anthony|AG122}}. Anthony used it and his {{p|Swalot}} against [[May's Combusken]] and {{TP|May|Bulbasaur}} in the [[Contest Battle|Battle Round]] of the [[Hoenn Grand Festival]].
+
+A Pinsir appeared in ''[[AG176|The Ole' Berate and Switch]]'', under the ownership of [[Howie]]. It was used in a battle against Ash and {{AP|Corphish}} during a bogus competition that {{TRT}} created.
+
+Multiple Pinsir appeared in ''[[XY069|Defending the Homeland!]]''. They are one of {{an|Florges}}'s minions who were ordered to attack {{AP|Goodra}}'s homeland and its friends. They reappeared in ''[[XY070|Beyond the Rainbow!]]'' and ''[[XY112|Master Class is in Session!]]''. Two of them reappeared in ''[[XY140|Till We Compete Again!]]''.
+
+A Pinsir that can Mega Evolve appeared in ''[[M19|Volcanion and the Mechanical Marvel]]'', under the control of [[Levi]] and [[Cherie]]'s Mega Wave. Pinsir was briefly lent to [[James]] to use in an attempt to capture {{OBP|Magearna|M19}}. It was later freed from their control when [[Alva]]'s Mega Wave Crystal was destroyed, and it escaped.
+
+A Trainer's Pinsir appeared in ''[[SM013|Racing to a Big Event!]]'', where it participated in the Pancake Race.
+
+A Pinsir appeared in ''[[M20|I Choose You!]]''. {{OBP|Ash Ketchum|M20|Ash}} attempted to capture Pinsir by battling it with his {{p|Caterpie}}. However, during the battle, Caterpie evolved into {{p|Metapod}}, allowing Pinsir to get away.
+
+===Minor appearances===
+In the beginning of ''[[M01|Mewtwo Strikes Back]]'', Raymond used a Pinsir in his battle against Ash, where it battled {{AP|Pikachu}}, alongside his {{p|Golem}} and {{p|Venomoth}}. All three were defeated simultaneously by Pikachu.
+
+A Pinsir appeared in ''[[EP047|A Chansey Operation]]'', where it was one of the injured Pokémon brought to the clinic.
+
+A Pinsir was used in the {{DL|Princess Festival|Queen of the Princess Festival contest}} in ''[[EP052|Princess vs. Princess]]''.
+
+A Pinsir appeared on an island that is mainly inhabited by Bug-type Pokémon in ''[[EP097|Tracey Gets Bugged]]''.
+
+A Pinsir appeared in ''[[M02|The Power of One]]''.
+
+A Pinsir was seen in a Gym on [[Kumquat Island]] in ''[[EP108|Pokémon Double Trouble]]''. However, this scene was removed from the dub due to the appearance of {{p|Jynx}}.
+
+A Pinsir appeared in ''[[EP169|Beauty and the Breeder]]'', where it participated in [[Pokémon Beauty Contest|a Pokémon breeding competition]].
+
+A {{pkmn2|wild}} Pinsir attacked [[Misty's Togepi]] in ''[[EP180|Houndoom's Special Delivery]]''.
+
+A Pinsir appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+A Pinsir appeared in {{AP|Bulbasaur}}'s flashback in ''[[EP225|Bulbasaur... the Ambassador!]]''.
+
+[[Gary Oak]] has a Pinsir, which was seen in his profile in ''[[EP269|The Ties that Bind!]]''.
+
+A Pinsir was owned by a [[demolition crew]] (which was changed into a construction crew due to [[Ritchie]] changing the past) in ''[[SS013|Celebi and Joy!]]''.
+
+A Pinsir made a cameo in ''[[AG135|Numero Uno Articuno]]'' as a Pokémon belonging to {{FB|Factory Head|Noland}}.
+
+In the beginning of ''[[M09|Pokémon Ranger and the Temple of the Sea]]'', [[The Phantom]] used a Pinsir alongside {{p|Parasect}} to attack [[Jack Walker]].
+
+A Pinsir made a brief cameo in ''[[M11|Giratina and the Sky Warrior]]''.
+
+A {{pkmn|Coordinator}}'s Pinsir appeared in ''[[DP171|Dawn of a Royal Day!]]'', where it participated in the [[Contest Battle|Battle Stage]] of the [[Arrowroot Town]] [[Pokémon Contest]].
+
+A Pinsir appeared in the ending credits of ''[[PK25|Eevee & Friends]]'', alongside {{p|Heracross}}.
+
+A Pinsir that can [[Mega Evolution|Mega Evolve]] into Mega Pinsir appeared in ''[[SS029|Mega Evolution Special I]]''.
+
+A Pinsir appeared in a flashback in ''[[XY055|A Slippery Encounter!]]''.
+
+Five Pinsir appeared in ''[[SM047|A Masked Warning!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP004|Pinsir|Ash's Pokédex|Pinsir. This fearsome Pokémon uses its powerful claws to put the squeeze on its opponents.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+
+==In the manga==
+[[File:X Rute.png|thumb|150px|Pinsir in [[Pokémon Adventures]]]]
+[[File:X Rute Mega Pinsir.png|thumb|150px|Mega Pinsir in [[Pokémon Adventures]]]]
+===In The Electric Tale of Pikachu manga===
+A Pinsir attacked a group of wild {{p|Pikachu}} in ''[[ET08|You Gotta Have Friends]]''. [[Ash's Pikachu]] was able to defeat the Stag Beetle Pokémon.
+
+===In the Pokémon Battrio: Aim to be Battrio Master! manga===
+[[Ryū Tendō|Ryū]] owns a Pinsir.
+
+===In the Pokémon Adventures manga===
+Pinsir debuted in ''[[PS015|Wartortle Wars]]'', where {{adv|Red}} fought a wild one using [[Pika]] using items he bought from {{adv|Green}}. As the items were fakes, Pika lost the battle.
+
+A Pinsir appeared as a silhouette when {{adv|Green}} explains about {{p|Mew}} in ''[[PS017|The Jynx Jinx]]''.
+
+Another Pinsir appeared in ''[[PS067|Can You Diglett?]]'' as a silhouette when Agatha and Lorelei explains to Red about how Pokémon and people can't coexist with each other.
+
+In ''[[PS306|Pinsir Me, I Must Be Dreaming]]'', a Pinsir was used by {{adv|Emerald}} in the {{ho|Battle Factory}} in his challenge against {{FB|Factory Head|Noland}}.
+
+A Pinsir appeared in ''[[PS315|Skirting Around Surskit I]]'' as a rental Pokémon that [[Guile Hideout]] stole.
+
+In ''[[PS442|Out-Odding Oddish]]'', a Pinsir appeared in the [[Pokéathlon]].
+
+In ''[[PAXY28|Scizor Defends]]'', {{adv|X}} captured a Pinsir that he nicknamed Rute, who first appeared in ''[[PAXY27|Pinsir Glares]]''. He was later given a [[Pinsirite]], allowing him to Mega Evolve into Mega Pinsir.
+
+===In the Pokémon Pocket Monsters manga===
+{{OBP|Giovanni|Pocket Monsters}} and his brother have a Pinsir who debuted in ''[[PM028|Seize the Dream of One Million Yen!!]]''.
+
+==In the TCG==
+{{main|Pinsir (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Stadium 2}}: Pinsir stars in a mini-game alongside {{p|Scyther}} called "Clear Cut Challenge." Each player chops a falling log for each round of the game. The score for each player is determined by how close the player is to the white line on the log. Cuts anywhere above the log will cause the player to lose points.
+
+===Pokédex entries===
+====Pinsir====
+{{Dex/Header|type=bug}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=If it fails to crush the victim in its pincers, it will swing it around and toss it hard.}}
+{{Dex/Entry1|v=Yellow|entry=Grips its prey in its pincers and squeezes hard! It can't move if it's cold, so it lives in warm places.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Grips and tears at its enemy with the two pincers on its head. Enemies with hard bodies are gripped and tossed.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.}}
+{{Dex/Entry1|v=Silver|entry=Swings its long antlers wildly to attack. During cold periods, it hides deep in forests.}}
+{{Dex/Entry1|v=Crystal|entry=When the temperature drops at night, it sleeps on treetops or among roots where it is well hidden.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe's body when the pincer closes, making it tough for the foe to escape.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Their pincers are strong enough to shatter thick logs. Because they dislike cold, Pinsir burrow and sleep under the ground on chilly nights.}}
+{{Dex/Entry1|v=FireRed|entry=Its two long pincer horns are powerful. Once they grip an enemy, they won't release until the foe is torn.}}
+{{Dex/Entry1|v=LeafGreen|entry=If it fails to crush the foe in its pincers, it will swing around and toss the opponent.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.}}
+{{Dex/Entry1|v=HeartGold|entry=With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.}}
+{{Dex/Entry1|v=SoulSilver|entry=It swings its long pincer horns wildly to attack. During cold periods, it hides deep in forests.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It grips prey with its powerful pincers and will not let go until the prey is torn in half.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It grips prey with its pincers until the prey is torn in half. What it can't tear, it tosses far.}}
+{{Dex/Entry1|v=Y|entry=It swings its long antlers wildly to attack. During cold periods, it hides deep in forests.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon's movements turn sluggish in cold places.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe's body when the pincer closes, making it tough for the foe to escape.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It grips its prey in its pincers and splits them apart. Although it is a powerful Pokémon, it can't deal with the cold.}}
+{{Dex/Entry1|v=Moon|entry=One solid blow from its horns is enough to split apart a large tree. Its greatest rival in [[Alola]] is {{p|Vikavolt}}.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It gets into territorial disputes with Vikavolt. For some reason, it apparently gets along well with {{p|Heracross}} in Alola.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Although it's tough, it can't handle cold well. When night falls, it buries itself in leafage and sleeps.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Mega Pinsir====
+{{Dex/Header|type=Bug|type2=Flying}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=The influence of Mega Evolution leaves it in a state of constant excitement. It pierces enemies with its two large horns before shredding them.}}
+{{Dex/Entry1|v=Moon|entry=Bathed in the energy of Mega Evolution, its wings become unusually developed. It flies at speeds of approximately 30 mph.}}
+{{Dex/Entry1|v=Ultra Sun|entry=After Mega Evolution, it becomes able to fly. Perhaps because it's so happy, it rarely touches the ground.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It zips around at blistering speeds, looking for an opening to skewer its opponent on its giant pincers.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=bug}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1/None|1|v=Red}}
+{{Availability/Entry1|1|v=Blue|t=fff|area={{safari|Kanto}}, [[Celadon Game Corner|Rocket Game Corner]]}}
+{{Availability/Entry1|1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{safari|Kanto}}}}
+{{Availability/Entry1|1|v=Yellow|area={{safari|Kanto}}, [[Celadon Game Corner|Rocket Game Corner]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|v=Crystal|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area={{safari|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{safari|Hoenn}}}}
+{{Availability/Entry1/None|v=FireRed}}
+{{Availability/Entry1|v=LeafGreen|area={{safari|Kanto}}, [[Celadon Game Corner|Rocket Game Corner]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Citadark Isle]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1/None|v=Diamond}}
+{{Availability/Entry1|v=Pearl|area={{rt|229|Sinnoh}}}}
+{{Availability/Entry1|v=Platinum|area={{rt|229|Sinnoh}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|12|Unova}}}}
+{{Availability/Entry1|v=Black 2|t=fff|area=[[Lostlorn Forest]] ([[Hidden Grotto]])}}
+{{Availability/Entry1|v=White 2|area={{rt|12|Unova}} and [[Lostlorn Forest]]<br/>[[Lostlorn Forest]] ([[Hidden Grotto]])}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|2|v=X|t=fff|area={{rt|12|Kalos}}, [[Friend Safari]] ([[Friend Safari#Bug-type Safari|Bug]])}}
+{{Availability/Entry1|2|v=Y|area=[[Friend Safari]] ([[Friend Safari#Bug-type Safari|Bug]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{safari|Hoenn}} (Zone 4, {{DL|Tall grass|long grass}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Lush Jungle]], [[Poni Grove]], [[Poké Pelago]]{{tt|*|Only begin appearing after the player reaches Ula'Ula Island}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Lush Jungle]], [[Poni Grove]], [[Exeggutor Island]], [[Poké Pelago]]{{tt|*|Only begin appearing after the player reaches Ula'Ula Island}}<br/>[[Exeggutor Island]] (Three)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Celadon City]], {{safari|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Safari Zone ({{color2|{{ruby color}}|Ruby Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 43, Endless Level 58, Forever Level 17, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Mt. Steel]] (7F-8F), [[Western Cave]] (21F-28F), [[Joyous Tower]] (9F-11F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Dusk Factory]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Foggy Forest]] (7F-11F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Foggy Forest]] (7F-11F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Peril Cliffs]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode A & S)</small>}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[World Axle - B2F]] (post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Entranceway#A Fateful Showdown!|Entranceway: A Fateful Showdown!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 1|Pitch-Black Cavern: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#One Chance a Day!|Seize Hold of Pinsir]]''<br>Event: ''[[Special Stages#One Chance a Day!|Pinsir Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Primeval Thicket|Legend Terrain: Primeval Thicket]] <small>(Center Boss, Back, Special)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 14|Area 14: Stage 06]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=bug}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Rock Throw Pinsir|English|United States|5|February 28 to March 6, 2003|link=List of Gotta Catch 'Em All event Pokémon#Rock Throw Pinsir}}
+{{eventAvail|{{gameabbrev6|Y}}|2014 Korean World Championship Series Pinsir|All|South Korea|50|July 5, 2014|link=List of local event Pokémon distributions in Generation VI#Pinsir}}
+{{eventAvail|{{gameabbrev6|Y}}|Summer 2014 Pinsir|American region|Nintendo Network|50|August 13 to September 17, 2014|link=List of American region Nintendo Network event Pokémon distributions in Generation VI#Pinsir}}
+|}
+
+===Held items===
+{{HeldItems
+|type=bug
+|rby1=Bitter Berry|rby1type=None|rby1rar=100|rby1image=no
+|event1=Pinsirite|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+=====Pinsir=====
+{{BaseStats with RBY
+|HP=65
+|Attack=125
+|Defense=100
+|SpAtk=55
+|SpDef=70
+|Special=55
+|Speed=85
+|type=Bug}}
+
+=====Mega Pinsir=====
+{{Base Stats
+|type=Bug
+|type2=Flying
+|HP=65
+|Attack=155
+|Defense=120
+|SpAtk=65
+|SpDef=90
+|Speed=105}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|Speed=2
+|SpeedMax=2
+|Power=4
+|PowerMax=5
+|Technique=3
+|TechniqueMax=4
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+=====Pinsir=====
+{{TypeEffectiveness
+|type1=Bug
+|Normal=  100
+|Flying=  200
+|Fighting= 50
+|Ground=   50
+|Rock=    200
+|Bug=     100
+|Poison=  100
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=100
+|notes=yes
+|gen1bug=yes
+|oldpoison=2}}
+
+=====Mega Pinsir=====
+{{TypeEffectiveness
+|type1=Bug
+|type2=Flying
+|Normal=  100
+|Flying=  200
+|Fighting= 25
+|Ground=    0
+|Rock=    400
+|Bug=      50
+|Poison=  100
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    25
+|Electric=200
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=100
+|notes=yes
+|flying=helditem
+|newground=½}}
+
+===Learnset===
+All damage-dealing {{type|Normal}} moves will get [[Same-type attack bonus|STAB]] if used by Mega Pinsir because of its Ability, {{a|Aerilate}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Pinsir|Bug|Bug|1}}
+{{learnlist/level7|1|Vice Grip|Normal|Physical|55|100|30}}
+{{learnlist/level7|1|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|4|Bind|Normal|Physical|15|85|20}}
+{{learnlist/level7|8|Seismic Toss|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/level7|11|Harden|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|15|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/level7|18|Vital Throw|Fighting|Physical|70|&mdash;|10}}
+{{learnlist/level7|22|Double Hit|Normal|Physical|35|90|10}}
+{{learnlist/level7|26|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/level7|29|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/level7|33|Submission|Fighting|Physical|80|80|20}}
+{{learnlist/level7|36|Storm Throw|Fighting|Physical|60|100|10}}
+{{learnlist/level7|40|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|43|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|47|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/level7|50|Guillotine|Normal|Physical|&mdash;|&mdash;|5}}
+{{learnlist/levelf/7|Pinsir|Bug|Bug|1|form=mega}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Pinsir|Bug|Bug|1}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Pinsir|Bug|Bug|1|form=mega}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Pinsir|Bug|Bug|2}}
+{{learnlist/breed7|{{MSP|010|Caterpie}}{{MSP|013|Weedle}}{{MSP|168|Ariados}}{{MSP|204|Pineco}}{{MSP|205|Forretress}}{{MSP|213|Shuckle}}<br>{{MSP|265|Wurmple}}{{MSP|291|Ninjask}}{{MSP|401|Kricketot}}{{MSP|412|Burmy}}{{MSP|414|Mothim}}{{MSP|415|Combee}}<br>{{MSP|451|Skorupi}}{{MSP|452|Drapion}}{{MSP|469|Yanmega}}{{MSP|540|Sewaddle}}{{MSP|541|Swadloon}}{{MSP|542|Leavanny}}<br>{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}{{MSP|557|Dwebble}}{{MSP|558|Crustle}}{{MSP|595|Joltik}}<br>{{MSP|596|Galvantula}}{{MSP|632|Durant}}{{MSP|636|Larvesta}}{{MSP|664|Scatterbug}}{{MSP|736|Grubbin}}{{MSP|737|Charjabug}}<br>{{MSP|738|Vikavolt}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}{{MSP|768|Golisopod}}|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/breed7|{{MSP|214|Heracross}}|Close Combat|Fighting|Physical|120|100|5}}
+{{learnlist/breed7|{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|214|Heracross}}{{MSP|328|Trapinch}}{{MSP|469|Yanmega}}|Feint|Normal|Physical|30|100|10}}
+{{learnlist/breed7|{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|328|Trapinch}}{{MSP|329|Vibrava}}{{MSP|330|Flygon}}{{MSP|557|Dwebble}}<br>{{MSP|558|Crustle}}|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|540|Sewaddle}}{{MSP|557|Dwebble}}{{MSP|558|Crustle}}{{MSP|588|Karrablast}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|214|Heracross}}{{MSP|588|Karrablast}}{{MSP|589|Escavalier}}|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/breed7|{{MSP|617|Accelgor}}|Me First|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}<br>{{MSP|283|Surskit}}{{MSP|284|Masquerain}}{{MSP|313|Volbeat}}{{MSP|617|Accelgor}}|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/breed7|{{MSP|127|Pinsir}}{{MSP|328|Trapinch}}|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/breedf/7|Pinsir|Bug|Bug|2|form=mega}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Pinsir|Bug|Bug|2}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutorf/7|Pinsir|Bug|Bug|2|form=mega}}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{bug color light}}; border: 3px solid #{{bug color}}"
+|-
+! Move
+! Type
+! Episode
+|- style="background:#fff"
+| {{m|Tackle}}
+| {{typecolor|Normal}}
+| ''[[EP004|Challenge of the Samurai]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/Pinball|col=2|type=Bug|ndex=127|acquisition=Catch}}
+{{Spindata/PinballRS|col=2|type=Bug|ndex=127|acquisition=Catch}}
+{{Spindata/Trozei|col=2|type=Bug|ndex=127|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=127
+|body=1
+|rate=8.3
+|area=Overgrown Forest
+|P1=My pincers are a one-way ride to your oblivion!
+|P2=They managed to cut my HP in half...
+|P3=I'm out of power... I can't even close my pincers...
+|PL=Leveled up! I can feel the power in my pincers!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=127
+|body=1
+|rate=8.2
+|IQ=C
+}}
+|-
+{{Spindata/Ranger|col=6|type=Bug
+|group=Bug
+|assist=Bug
+|fieldpower=2
+|field=Cut
+|loop=6
+|MinEXP=82
+|MaxEXP=102
+|browser=Pinsir grips items with its two long horns. It cuts through a Metal Fence with ease.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Bug
+|group=Bug
+|assist=Bug
+|field=Cut
+|fieldpower=2
+|browser=It rams with the powerful horns on its head to attack.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=4
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=127
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=127|num=233
+|min=70
+|max=125
+|raisemaxlevel=10
+|skill=Power of 4
+|skilldesc=Increases damage when you make a match of four.
+|swapper=Bug Combo
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=127
+|hatch=5&nbsp;km{{tt|*|10&nbsp;km Eggs obtained prior to February 8, 2017 can hatch into Pinsir}}
+|buddy=5
+|evolution=N/A
+|stamina=130
+|attack=238
+|defense=197
+|fast={{m|Rock Smash}}, {{m|Fury Cutter}}{{tt|*|Prior to February 16, 2017}}, {{m|Bug Bite}}{{tt|*|From February 16, 2017 onward}}
+|special={{m|Vice Grip}}, {{m|X-Scissor}}, {{m|Submission}}{{tt|*|Prior to February 16, 2017}}, {{m|Close Combat}}{{tt|*|From February 16, 2017 onward}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Bug
+|pictype=art
+|no1=127
+|name1=Pinsir
+|type1-1=Bug}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/1|ndex=127}}
+{{Spritebox/2|ndex=127}}
+{{Spritebox/3|ndex=127}}
+{{Spritebox/4|ndex=127}}
+{{Spritebox/5|ndex=127}}
+{{Spritebox/6/2Forms|ndex=127|form1=M}}
+{{Spritebox/7/2Forms|ndex=127|form1=M}}
+{{Spritebox/Footer|127|Pinsir}}
+
+====Japanese sprites====
+{| style="{{roundy|20px}} background: #{{bug color}}; margin:auto; text-align:center; font-size: 80%; border: 2px solid #{{bug color dark}}"
+|-
+| style="{{roundy|80px}} background: #{{bug color light}}; border: 2px solid #{{bug color dark}}; width:160px"| [[File:Spr b 2g 127 jp.png]] [[File:Spr b 2g 127 s jp.png]]
+|-
+| Gold/Silver back
+|}
+
+==Trivia==
+* Pinsir can be seen as a parallel to {{p|Scyther}}. Both are {{type|Bug}} {{cat|Generation I Pokémon}}. Pinsir is exclusive to {{game3|Red and Blue|Blue|s}}, {{game3|FireRed and LeafGreen|LeafGreen|s}}, and {{game3|Diamond and Pearl|Pearl|s}}, while Scyther is exclusive to Red, FireRed, and Diamond.
+** Pinsir can also be seen as a counterpart to {{p|Heracross}}. Both are Bug-type Pokémon based on beetles and lack an evolutionary family. Pinsir is not part {{t|Fighting}} like Heracross, but it learns several Fighting-type moves by leveling up. Both Pokémon and their [[Mega Stone]]s are version exclusives in {{g|X and Y}}: Pinsir and Pinsirite are exclusive to X while Heracross and Heracronite are exclusive to Y. Each Mega Stone can be found in [[Santalune Forest]] in its respective version. The heights of both Pokémon are the same, even when Mega Evolved.
+* Mega Pinsir is tied with {{p|Heracross|Mega Heracross}}, {{p|Scizor|Mega Scizor}} and {{p|Genesect}} for the highest base stat total of all {{type|Bug}} Pokémon.
+* Pinsir shares its category with {{p|Vikavolt}}. They are both known as the Stag Beetle Pokémon.
+* Pinsir, along with {{p|Scyther}} and {{p|Scizor}}, are the only Pokémon legitimately available in all 27 in-game [[Poké Ball]] variants.
+* Prior to Omega Ruby and Alpha Sapphire, Mega Pinsir had the same [[List of Pokémon by body style|body style]] as when it is not Mega Evolved.
+
+===Origin===
+It is based on a {{wp|stag beetle}}, possibly ''{{wp|Prosopocoilus inclinatus}}'', a species commonly used in {{wp|insect fighting}}. Its thornlike mandibles most closely resemble that of ''{{wp|Lucanus maculifemoratus}} hopei'', whereas its Mega Evolution's diagonal spikes resemble ''Calcodes versicolor''.
+
+====Name origin====
+Pinsir is a corruption of ''pincer'', referring to its horns.
+
+Kailios may be a combination of the Greek letter ''{{wp|Chi (letter)|Χ}}'' (カイ ''kai'') and ''cross'' (referring to its {{m|X-Scissor|scissor-like horns}}). Alternatively, it may be a combination of 傀 ''kai'' (large), 魁偉 ''kaii'' (brawny), or 刈 ''kai'' (cut) combined with κοριός ''korios'' ({{wp|Greek language|Greek}} for ''bug'').
+
+==In other languages==
+{{Other languages|type=bug|type2=bug
+|ja=カイロス ''Kailios''|jameaning=From ''{{wp|Chi (letter)|{{tt|Χ|the Greek letter chi}}}}'', {{tt|傀 ''kai''|large}}, {{tt|魁偉 ''kaii''|brawny}} or {{tt|刈 ''kai''|cut}} combined with {{tt|κοριός ''korios''|Greek for bug}}
+|fr=Scarabrute|frmeaning=A combination of ''{{tt|scarabée|scarab}}'' and ''brute''
+|es=Pinsir|esmeaning=Same as English name
+|de=Pinsir|demeaning=Same as English name
+|it=Pinsir|itmeaning=Same as English name
+|ko=쁘사이저 ''Ppeusaizeo''|komeaning=From {{tt|부수다 ''busuda''|break, crash}}, {{tt|뿔 ''ppul''|horn}}, and ''scissors''
+|zh_yue=鉗刀甲蟲 ''Kìhmdōugaapchùhng''|zh_yuemeaning=Literally "Pincer-blade beetle"
+|zh_cmn=大甲 ''Dàjiǎ''|zh_cmnmeaning=Literally "Big armor"
+|hi=पिनसिर ''Pinsir''|himeaning=Transcription of English name
+|ru=Пинсир ''Pinsir''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Notes==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=126|prev=Magmar|nextnum=128|next=Tauros}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Body style 13 Pokémon]]<!--Mega Pinsir; after Omega Ruby and Alpha Sapphire-->
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+[[Category:Shadow Pokémon in Pokémon XD]]
+
+[[de:Pinsir]]
+[[fr:Scarabrute]]
+[[it:Pinsir]]
+[[ja:カイロス]]
+[[pl:Pinsir]]
+[[zh:凯罗斯]]

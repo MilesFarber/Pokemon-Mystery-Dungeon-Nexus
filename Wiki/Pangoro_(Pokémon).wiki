@@ -1,0 +1,379 @@
+{{PokémonPrevNext/Head|type=Fighting|type2=Dark}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=674|prev=Pancham|nextnum=676|next=Furfrou}}
+|}
+{{Pokémon Infobox
+|name=Pangoro
+|jname=ゴロンダ
+|tmname=Goronda
+|category=Daunting
+|type1=Fighting
+|type2=Dark
+|abilitylayout=2
+|ability1=Iron Fist
+|ability2=Mold Breaker
+|abilityd=Scrappy
+|ndex=675
+|karea=Central
+|kdex=092
+|adex=221
+|height-ftin=6'11"
+|height-m=2.1
+|weight-lbs=299.8
+|weight-kg=136.0
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Human-Like
+|gendercode=127
+|eggcycles=25
+|expyield=173
+|lv100exp=1,000,000
+|color=White
+|catchrate=65
+|evtotal=2
+|evat=2
+|body=12
+|pokefordex=pangoro
+|generation=6
+|friendship=70
+}}
+'''Pangoro''' ([[List of Japanese Pokémon names|Japanese]]: '''ゴロンダ''' ''Goronda'') is a dual-type {{2t|Fighting|Dark}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Pancham}} starting at [[level]] 32, if the {{player}} has a {{type|Dark}} Pokémon in their party.
+
+==Biology==
+Pangoro is a large bipedal Pokémon, resembling a humanoid panda bear. It has a stocky build with a round belly, short legs and long arms with large paws, which are often balled into fists. Its head and belly are covered in thick white fur, while its lower body, chest, arms, and back are covered in equally thick but dark grey fur. A long fringe of this dark grey fur hangs down behind its back that, in combination with the rest of the dark-furred pattern, gives the impression that Pangoro is wearing a longcoat and trousers. Pangoro's three-fingered paws have shorter fur a darker shade of grey than the overcoat and are tipped with vicious black claws. Its face tapers down to a snout and its white color contrasts with its black ears and nose as well as the two semi-circles of black fur under its brow that render Pangoro's eyes indistinguishable. Pangoro likes to carry a thin leaved shoot in its mouth, which has prominent lower fangs.
+
+Despite its cantankerous demeanor, Pangoro is not one to tolerate those who pick on the weak. With arms powerful enough to snap a telephone pole, it charges into battle like a berserker, heedless of any damage it might suffer as it bashes its opponents. It can use the leaf in its mouth to sense the movements of those around it.
+
+==In the anime==
+[[File:Pangoro anime.png|thumb|left|250px|Pangoro in the {{pkmn|anime}}]]
+===Major appearances===
+A Pangoro appeared in ''[[XY011|The Bamboozling Forest!]]''.
+
+A Pangoro appeared in ''[[SS030|Diancie — Princess of the Diamond Domain]]''.
+
+Three Pangoro appeared in ''[[XY071|So You're Having a Bad Day!]]''. After {{TRT}} stole their berries, they attacked {{Ash}} and {{ashfr}}, causing them to be separated from each other. They then blasted Team Rocket off after discovering they were the ones responsible for the theft.
+
+[[Serena's Pancham]] evolved into a Pangoro in a dream in ''[[XY098|Dream a Little Dream from Me!]]''.
+
+Two Pangoro appeared in ''[[SM015|Rocking Clawmark Hill!]]'', as some of the Pokémon training up on [[Clawmark Hill]].
+
+===Minor appearances===
+Pangoro debuted in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Pangoro appeared in ''[[XY019|A Conspiracy to Conquer!]]'', in which it was being possessed by {{DL|Recurring wild Pokémon in the anime|Malamar|an evil, psychopathic Malamar}}.
+
+A Pangoro appeared in ''[[XY081|Rotom's Wish!]]'', under the ownership of an unnamed {{pkmn|Trainer}}. It was defeated by [[Mantle]]'s {{DL|Mantle|Krookodile}}.
+
+Four Pangoro appeared in a video in [[SM061]], where they were seen attempting to battle a {{p|Buzzwole}}.
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY011|Pangoro|Ash's Pokédex|Pangoro, the Daunting Pokémon and the evolved form of Pancham. Pangoro has an ornery personality. It holds a bamboo sprig in its mouth, which allows Pangoro to detect surrounding movements.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Lumiose Press editor-in-chief Pangoro Adventures.png|thumb|200px|Pangoro in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PAXY10|Pangoro Poses a Problem]]'', the [[Lumiose Press editor-in-chief]] used a Pangoro and two {{p|Spewpa}} to try and kill [[Alexa]] in order to prevent her from giving information about the destruction of [[Vaniville Town]] to the public. Alexa was saved by {{adv|X}}, who battled the editor-in-chief and defeated him.
+
+==In the TCG==
+{{main|Pangoro (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=fighting|type2=dark}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Although it possesses a violent temperament, it won’t put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.}}
+{{Dex/Entry1|v=Y|entry=It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Although it possesses a violent temperament, it won’t put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It charges ahead and bashes its opponents like a berserker, uncaring about any hits it might take. Its arms are mighty enough to snap a telephone pole.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It boasts superb physical strength. Those who wish to become Pangoro's Trainer have no choice but to converse with their fists.}}
+{{Dex/Entry1|v=Moon|entry=From the slight twitches of its bamboo leaf, it deduces its opponent's movements. It's eager to tussle but kindhearted toward its companions.}}
+{{Dex/Entry1|v=Ultra Sun|entry=This rowdy Pokémon boasts great physical strength. Many Trainers are also smitten by its lively character.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Pangoro is the type to talk with its fists. It doesn't say much as it pummels opponents with enough force to send a dump truck flying.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=fighting|type2=dark}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Pancham}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|10|Alola}}, {{rtn|11|Alola}}, and {{rtn|17|Alola}} ([[SOS Battle]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]]s {{rtn|10|Alola}} and {{rtn|11|Alola}} ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fighting|type2=Dark}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 1|Blade-and-Shield Path: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Pedra Valley|Pedra Valley: Stage 193]]<br>[[Prasino Woods|Prasino Woods: Stage 568]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Old-Growth Woods|Origin Hideaway: Old-Growth Woods]] <small>(Center Boss, Back)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=Fighting|type2=Dark
+|sm1=Mental Herb|sm1type=None|sm1rar=5
+|usum1=Mental Herb|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Fighting
+|type2=Dark
+|HP=95
+|Attack=124
+|Defense=78
+|SpAtk=69
+|SpDef=71
+|Speed=58}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fighting
+|type2=Dark
+|Normal=100
+|Fighting=200
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=50
+|Bug=100
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=25
+|Fairy=400
+|notes=yes
+|dark=yes
+|newpsychic=2
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Pangoro|Fighting|Dark|6}}
+{{learnlist/level7|1|Bullet Punch|Steel|Physical|40|100|30}}
+{{learnlist/level7|1|Hammer Arm|Fighting|Physical|100|90|10||'''}}
+{{learnlist/level7|1|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/level7|1|Entrainment|Normal|Status|&mdash;|100|15}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Arm Thrust|Fighting|Physical|15|100|20||'''}}
+{{learnlist/level7|1|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Bullet Punch|Steel|Physical|40|100|30}}
+{{learnlist/level7|7|Arm Thrust|Fighting|Physical|15|100|20||'''}}
+{{learnlist/level7|10|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|12|Karate Chop|Fighting|Physical|50|100|25||'''}}
+{{learnlist/level7|15|Comet Punch|Normal|Physical|18|85|15}}
+{{learnlist/level7|20|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|25|Circle Throw|Fighting|Physical|60|90|10||'''}}
+{{learnlist/level7|27|Vital Throw|Fighting|Physical|70|&mdash;|10||'''}}
+{{learnlist/level7|35|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level7|42|Crunch|Dark|Physical|80|100|15||'''}}
+{{learnlist/level7|45|Entrainment|Normal|Status|&mdash;|100|15}}
+{{learnlist/level7|48|Parting Shot|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|52|Sky Uppercut|Fighting|Physical|85|90|15||'''}}
+{{learnlist/level7|57|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/level7|65|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|70|Hammer Arm|Fighting|Physical|100|90|10||'''}}
+{{learnlist/levelf/7|Pangoro|Fighting|Dark|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Pangoro|Fighting|Dark|6}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10||'''}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Pangoro|Fighting|Dark|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Pangoro|Fighting|Dark|6}}
+{{learnlist/breed7|{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|302|Sableye}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}<br>{{MSP|570|Zorua}}{{MSP|571|Zoroark}}{{MSP|765|Oranguru}}|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/breed7|{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|234|Stantler}}{{MSP|359|Absol}}{{MSP|448|Lucario}}|Me First|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|553|Krookodile}}|Power Trip|Dark|Physical|20|100|10||'''}}
+{{learnlist/breed7|{{MSP|053A|Persian}}{{MSP|302|Sableye}}{{MSP|765|Oranguru}}|Quash|Dark|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}{{MSP|448|Lucario}}{{MSP|539|Sawk}}{{MSP|619|Mienfoo}}<br>{{MSP|678|Meowstic}}{{MSP|745|Lycanroc}}|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|538|Throh}}|Storm Throw|Fighting|Physical|60|100|10||'''}}
+{{learnlist/breedf/7|Pangoro|Fighting|Dark|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Pangoro|Fighting|Dark|6}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||'''|no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15||'''|no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||'''|no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20||'''|no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5||'''|no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{Learnlist/tutorf/7|Pangoro|Fighting|Dark|6}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Pangoro|Fighting|Dark|6}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Pangoro|Fighting|Dark|6}}
+
+===Side game data===
+{{Spindata/Head|type=Fighting|type2=Dark}}
+{{Template:Spindata/Battle Trozei|col=6|type=Fighting|ndex=675
+|power=2
+|skill=Flinch Attack
+|skilldesc=Briefly stops wild Pokémon from taking action.
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Fighting|ndex=675|num=276
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Pummel
+|skilldesc=Increases damage done by any Fighting types in the combo.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=fighting
+|type2=dark
+|pictype=art
+|no1=674
+|name1=Pancham
+|type1-1=Fighting
+|evo1={{bag|Rare Candy}} + {{Ic|Dark}} <br>{{color2|000|Level|Level 32}}<br><small>with a {{color2|000|Dark (type)|Dark-type}} in the {{color2|000|party}}
+|no2=675
+|name2=Pangoro
+|type1-2=Fighting
+|type2-2=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=fighting|type2=dark}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=675}}
+{{Spritebox/7|ndex=675}}
+{{Spritebox/Footer|675|Pangoro}}
+
+==Trivia==
+* Pangoro was designed by [[Hitoshi Ariga]].<ref>[http://hitoshiariga.deviantart.com/art/Pocket-Monsters-XY-413536751 Pocket Monsters XY by HitoshiAriga on deviantART]</ref> However, he did not design its {{p|Pancham|pre-evolution}}; [[Megumi Mizutani]] did.
+
+===Origin===
+Pangoro is based on a {{wp|giant panda}}. Considering how its pre-evolution needs to be around Dark-type Pokémon as a prerequisite for its evolution, its hot-blooded, belligerent, yet virtuous attitude, and features such as a coat-like cape and chewing stick, Pangoro also appears to draw inspiration from {{wp|Banchō (position)#Juvenile delinquency|banchō}}, Japanese juvenile-delinquent leaders. The method of evolution may imply that the pure Fighting-type Pancham acquired its {{t|Dark}} type after evolution due to being led astray by a "bad influence". Its {{Shiny}} coloration could be a reference to the {{wp|Qinling panda}}, whose coloring tends to be more brown than black.
+
+====Name origin====
+Pangoro and Goronda may be a combination of ごろつき ''gorotsuki'' (rogue), ごろごろ ''gorogoro'' (rumbling sound), and ''panda''.
+
+==In other languages==
+{{Other languages|type=Fighting|type2=Dark
+|ja=ゴロンダ ''Goronda''|jameaning=Possibly from {{tt|ごろつき ''gorotsuki''|rogue}}, {{tt|ごろごろ ''gorogoro''|rumbling sound}}, and ''panda''
+|fr=Pandarbare|frmeaning=From ''panda'' and ''{{tt|barbare|barbarian}}''
+|es=Pangoro|esmeaning=Same as English name
+|de=Pandagro|demeaning=From ''Panda'' and ''Aggression''
+|it=Pangoro|itmeaning=Same as English name
+|ko=부란다 ''Buranda''|komeaning=From {{tt|부랑자 ''burangja''|rogue, vagabond}}, {{tt|불량배 ''bulyangbae''|thug}} and ''panda''. It is also a play on {{tt|불한당 ''bulhandang''|scoundrel}}.
+|zh_cmn=流氓熊貓 ''Liúmángxióngmāo''|zh_cmnmeaning=From {{tt|流氓 ''liúmáng''|rogue}} and {{tt|熊貓 ''xióngmāo''|panda}}
+|zh_yue=流氓熊貓 ''Làuhmàhnhùhngmāau''|zh_yuemeaning=From {{tt|流氓 ''làuhmàhn''|rogue}} and {{tt|熊貓 ''hùhngmāau''|panda}}
+|hi=पानगोरो ''Pangoro''|himeaning=Transcription of English name
+|ru=Пангоро ''Pangoro''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Fighting|type2=Dark}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=674|prev=Pancham|nextnum=676|next=Furfrou}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Pandagro]]
+[[fr:Pandarbare]]
+[[it:Pangoro]]
+[[ja:ゴロンダ]]
+[[pl:Pangoro]]
+[[zh:流氓熊猫]]

@@ -1,0 +1,446 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=409|prev=Rampardos|nextnum=411|next=Bastiodon|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Shieldon}}
+|}
+{{Pokémon Infobox
+|name=Shieldon
+|jname=タテトプス
+|jtranslit=Tatetopusu
+|tmname=Tatetops
+|ndex=410
+|sdex=038
+|adex=190
+|abrow=181
+|obrow=178
+|opbrow=099
+|type1=Rock
+|type2=Steel
+|category=Shield
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=125.7
+|weight-kg=57.0
+|abilitylayout=2
+|ability1=Sturdy
+|abilityd=Soundproof
+|egggroupn=1
+|egggroup1=Monster
+|eggcycles=30
+|evtotal=1
+|evde=1
+|expyield=70
+|oldexp=99
+|lv100exp=600,000
+|gendercode=31
+|color=Gray
+|catchrate=45
+|body=08
+|pokefordex=shieldon
+|generation=4
+|friendship=70
+}}
+'''Shieldon''' ([[List of Japanese Pokémon names|Japanese]]: '''タテトプス''' ''Tatetops'') is a dual-type {{2t|Rock|Steel}} [[Fossil]] {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It is resurrected from an [[Skull and Armor Fossils|Armor Fossil]] and [[Evolution|evolves]] into {{p|Bastiodon}} starting at [[level]] 30.
+
+==Biology==
+Shieldon is a small, yellow, ceratopsian-like reptilian Pokémon. It has white toes and a white bump on its back. Shieldon has a dark-gray elliptical face, with a prominent white brow and a white rim on its black snout. Its facial hide is extremely hard; however, it is vulnerable when attacked from behind. 
+
+100 million years ago, Shieldon lived in dense forests. It has a habit of polishing its face against tree trunks. It is speculated that few enemies would have considered challenging its armored face. It eats grass, tree roots, and [[Berry|Berries]]. Its fossils show no sign of damage to its face.
+
+==In the anime==
+[[File:Newton Shieldon.png|thumb|left|Shieldon in the {{pkmn|anime}}]]
+===Major appearances===
+Shieldon debuted in ''[[DP045|Ill-Will Hunting]]'', where Pokémon Hunter [[J]] tried to capture four of them. [[Gary Oak]] was tasked with protecting them, but J managed to capture one. However, it was soon freed by {{Ash}}.
+
+A Shieldon appeared in ''[[M11|Giratina and the Sky Warrior]]'', under the ownership of [[Newton Graceland]].
+
+===Minor appearances===
+A Shieldon appeared in the [[boss fantasy]] of ''[[DP092|A Lean Mean Team Rocket Machine!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP045|Shieldon|Ash's Pokédex|Shieldon, the Shield Pokémon. The skin on its face is very hard, and it has a habit of polishing it by rubbing against trees.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Diamond Don Shieldon.png|150px|thumb|Shieldon in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Don}}
+
+[[Byron]] has a Shieldon that he was unable to befriend even after carrying him outside of his ball for an extended period. As {{adv|Diamond}} was able to do so even without knowing him, he decided to give him to the boy prior to his training on [[Iron Island]], which he names "{{DL|Diamond (Adventures)|Don|Don}}". He evolved into a Bastiodon later in the showdown against [[Team Galactic]]. He first appeared in ''[[PS348|A Big Stink Over Stunky]]''.
+
+==In the TCG==
+{{main|Shieldon (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock|type2=Steel}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=A Pokémon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.}}
+{{Dex/Entry1|v=Pearl|entry=It habitually {{m|Rock Polish|polishes}} its face by rubbing it against tree trunks. It is weak to attacks from behind.}}
+{{Dex/Entry1|v=Platinum|entry=It is outstandingly armored. As a result, it can eat grass and berries without having to fight.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a {{a|sturdy}} face.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It is outstandingly armored. As a result, it can eat grass and berries without having to fight.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It is outstandingly armored. As a result, it can eat grass and berries without having to fight.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It habitually polishes its face by rubbing it against tree trunks. It is weak to attacks from behind.}}
+{{Dex/Entry1|v=Y|entry=It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It habitually polishes its face by rubbing it against tree trunks. It is weak to attacks from behind.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Many fossils of this Pokémon have been found, but almost none have shown signs of damage to the face.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon lived in primeval jungles. Few enemies would have been willing to square off against its heavily armored face, so it's thought.}}
+{{Dex/Entry1|v=Ultra Sun|entry=A mild-mannered, herbivorous Pokémon, it used its face to dig up tree roots to eat. The skin on its face was plenty tough.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Although its fossils can be found in layers of primeval rock, nothing but its face has ever been discovered.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Steel}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1/None|v=Diamond|area=[[Trade]]<br/>Receive [[Skull and Armor Fossils|Armor Fossil]] [[held item|held]] by a [[trade]]d Pokémon and revive it}}
+{{Availability/Entry1|v=Pearl|area=Revive from [[Skull and Armor Fossils|Armor Fossil]] at the [[Oreburgh Mining Museum]]}}
+{{Availability/Entry1|v=Platinum|area=Revive from [[Skull and Armor Fossils|Armor Fossil]] at the [[Oreburgh Mining Museum]]{{tt|*|If the player's Trainer ID is an even number}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=Revive from [[Skull and Armor Fossils|Armor Fossil]] at the [[Pewter Museum of Science]]{{tt|*|Fossil cannot be found in HGSS; must be transferred in a trade}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=Revive from [[Skull and Armor Fossils|Armor Fossil]] at the {{DL|Nacrene City|Nacrene Museum}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=Revive from [[Skull and Armor Fossils|Armor Fossil]] at the {{DL|Nacrene City|Nacrene Museum}}<br>[[Trade]] with [[Yancy]] in [[Nimbasa City]] (male player character only)}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Icy Cave}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=Revive from [[Skull and Armor Fossils|Armor Fossil]] at the [[Ambrette Town]] {{DL|Ambrette Town|Fossil Lab}}}}
+{{Availability/Entry1|2|v=Omega Ruby|t=fff|area=Revive from [[Armor and Skull Fossils|Armor Fossil]] at [[Rustboro City]]'s [[Devon Corporation]]}}
+{{Availability/Entry1/None|2|v=Alpha Sapphire|area=[[Trade]]<br>Receive [[Armor and Skull Fossils|Armor Fossil]] [[held item|held]] by a [[trade]]d Pokémon and revive it}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1/None|2|v=Sun|area=[[Trade]]<br>Receive [[Armor and Skull Fossils|Armor Fossil]] [[held item|held]] by a [[trade]]d Pokémon and revive it}}
+{{Availability/Entry1|2|v=Moon|area=Revive from [[Armor and Skull Fossils|Armor Fossil]] at the [[Fossil Restoration Center]] on {{rt|8|Alola}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=Revive from [[Skull and Armor Fossils|Armor Fossil]] at the [[Fossil Restoration Center]] on {{rt|8|Alola}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Steel}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Crystal Cave]] (B7-B11)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Crystal Cave]] (B7-B11)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Peril Cliffs]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Fiery Furnace]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Daybreak Ruins]], [[Fire Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lava: [[Firebreathing Mountain]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Cragspur]], [[Valora]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Spike Ball Alert!|Vehicle Gallery: Spike Ball Alert!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 1|Colossal Forest: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 375]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Rock Chasm|Diamond Crater: Rock Chasm]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Rock|type2=Steel}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Adventure Camp Shieldon|Japan|Japanese|15|July 21, 2012 to September 30, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Shieldon}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Rock|type2=Steel
+|event1=Shuca Berry|event1type=Berry|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|type2=Steel
+|HP=30
+|Attack=42
+|Defense=118
+|SpAtk=42
+|SpDef=88
+|Speed=30}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Rock
+|type2=Steel
+|Speed=3
+|SpeedMax=3
+|Power=3
+|PowerMax=4
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Steel
+|Normal=   25
+|Fighting=400
+|Flying=   25
+|Poison=    0
+|Ground=  400
+|Rock=     50
+|Bug=      50
+|Ghost=   100
+|Steel=   100
+|Fire=    100
+|Water=   200
+|Grass=   100
+|Electric=100
+|Psychic=  50
+|Ice=      50
+|Dragon=   50
+|Dark=    100
+|Fairy=    50
+|notes=yes
+|steel=yes
+|newpoison=½
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Shieldon|Rock|Steel|4}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|6|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|10|Metal Sound|Steel|Status|&mdash;|85|40}}
+{{learnlist/level7|15|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|19|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|24|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|28|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level7|33|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|37|Metal Burst|Steel|Physical|&mdash;|100|10}}
+{{learnlist/level7|42|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level7|46|Heavy Slam|Steel|Physical|&mdash;|100|10||'''}}
+{{learnlist/levelf/7|Shieldon|Rock|Steel|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Shieldon|Rock|Steel|4}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Shieldon|Rock|Steel|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Shieldon|Rock|Steel|4}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|143|Snorlax}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|357|Tropius}}<br>{{MSP|776|Turtonator}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|111|Rhyhorn}}{{MSP|152|Chikorita}}|Counter|Fighting|Physical|&mdash;|100|20|*}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}<br>{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|304|Aron}}<br>{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|131|Lapras}}|Fissure|Ground|Physical|&mdash;|&mdash;|5|*}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|034|Nidoking}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|408|Cranidos}}<br>{{MSP|409|Rampardos}}|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|111|Rhyhorn}}|Guard Split|Psychic|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|304|Aron}}<br>{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/breed7|{{MSP|004|Charmander}}{{MSP|005|Charmeleon}}{{MSP|006|Charizard}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}<br>{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}<br>{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}{{MSP|621|Druddigon}}|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|108|Lickitung}}{{MSP|463|Lickilicky}}{{MSP|143|Snorlax}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}<br>{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}{{MSP|252|Treecko}}{{MSP|253|Grovyle}}{{MSP|254|Sceptile}}<br>{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/breed7|{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}|Stealth Rock|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|713|Avalugg}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Shieldon|Rock|Steel|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Shieldon|Rock|Steel|4}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15||'''|no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutorf/7|Shieldon|Rock|Steel|4}}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Steel}}
+{{Spindata/MDTDS|col=6|type=Rock|ndex=410
+|body=1
+|rate=8.2
+|IQ=C
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Rock
+|group=Steel
+|assist=Steel
+|fieldpower=-
+|browser= It rams with its {{m|Iron Head|rock-hard head}}. It also makes {{m|Rock Slide|stones drop}} to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Rock
+|group=Steel
+|assist=Steel
+|field=Tackle
+|fieldpower=2
+|browser=It attacks by making iron balls fall.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Rock
+|att=1
+|def=4
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Rock
+|att=1
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Rock|ndex=410
+|HP=1
+|atk=1
+|def=4
+|spd=1
+|range=3
+|move=Iron Head
+|ability1=Shield
+|ability2=Last Bastion
+|ability3=Sturdy
+|evo=Evolves into {{p|Bastiodon}} when its Defense is 113 or higher
+|link={{DL|List of Pokémon Conquest characters|Bokuden}}, {{DL|List of Pokémon Conquest characters|Kazumasa}}, and {{DL|List of Pokémon Conquest characters|Ujiteru}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Rock|ndex=410
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=410|num=543
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Counterattack
+|skilldesc=Deals even more damage the more disruptions there are.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Rock
+|type2=Steel
+|pictype=art
+|no1=410
+|name1=Shieldon
+|type1-1=Rock
+|type2-1=Steel
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no2=411
+|name2=Bastiodon
+|type1-2=Rock
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock|type2=Steel}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=410}}
+{{Spritebox/5|ndex=410}}
+{{Spritebox/6|ndex=410}}
+{{Spritebox/7|ndex=410}}
+{{Spritebox/Footer|410|Shieldon}}
+
+==Trivia==
+* Shieldon and {{p|Cranidos}} evolve at level 30, the earliest of any [[Fossil]] Pokémon.
+
+===Origin===
+Shieldon is based on a {{wp|ceratopsia}}n {{wp|dinosaur}} and a {{wp|shield}}. Its lack of horns makes it particularly similar to ''{{wp|Protoceratops}}''.
+
+====Name origin====
+Shieldon is a combination of ''shield'' (referring to its shield-like head) and ''don'' (from δόντι ''dónti'', Greek for ''tooth''; a suffix in various dinosaur names).
+
+Tatetops is a combination of 盾 ''tate'' (shield) and ''tops'' (ὤψ ''ōps'', Ancient Greek for ''face'', a suffix commonly used for {{wp|Ceratopsidae}} dinosaurs).
+
+==In other languages==
+{{Other languages|type=Rock|type2=Steel
+|ja=タテトプス ''Tatetops''|jameaning=From {{tt|盾 ''tate''|shield}}, {{tt|ὤψ ''ōps''|Ancient Greek for face}} and ''{{tt|-tops|a suffix used commonly for Ceratopsidae species}}''
+|de=Schilterus|demeaning=From ''{{tt|Schild|shield}}'', ''{{tt|Schulter|shoulder}}'', and ''{{tt|-saurus|a suffix used commonly for genus reptiles}}''
+|fr=Dinoclier|frmeaning=From ''{{tt|dinosaure|dinosaur}}'' and ''{{tt|bouclier|shield}}''
+|es=Shieldon|esmeaning=Same as English name
+|it=Shieldon|itmeaning=Same as English name
+|ko=방패톱스 ''Bangpaetops''|komeaning=From {{tt|방패 (防牌) ''bangpae''|shield}} and 트리케라톱스 ''Triceratops''
+|zh_cmn=盾甲龍 / 盾甲龙 ''Dùnjiǎlóng''|zh_cmnmeaning=From {{tt|盾 ''dùn''|shield}}, {{tt|甲 ''jiǎ''|armor plate}}, and {{tt|龍 ''lóng''|dragon, a common suffix for dinosaur names}}
+|zh_yue=盾甲龍 ''Téuhngaaplùhng''|zh_yuemeaning=Same as Mandarin name
+|hi=शील्डन ''Shieldon''|himeaning=Transliteration of English name
+|ru=Шилдон ''Shildon''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Don]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Rock|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=409|prev=Rampardos|nextnum=411|next=Bastiodon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Fossil Pokémon]]
+[[Category:Ranger Partner Pokémon]]
+
+[[de:Schilterus]]
+[[fr:Dinoclier]]
+[[it:Shieldon]]
+[[ja:タテトプス]]
+[[pl:Shieldon]]
+[[zh:盾甲龙]]

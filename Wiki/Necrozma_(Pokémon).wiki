@@ -1,0 +1,535 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=799|prev=Guzzlord|nextnum=801|next=Magearna}}
+|}
+{{Pokémon Infobox
+|name=Necrozma
+|jname=ネクロズマ
+|jtranslit=Nekurozuma
+|tmname=Necrozma
+|forme=4
+|form1=Necrozma
+|form2=Dusk Mane Necrozma
+|form3=Dawn Wings Necrozma
+|form4=Ultra Necrozma
+|image2=800Necrozma-Dusk Mane.png
+|image3=800Necrozma-Dawn Wings.png
+|image4=800Necrozma-Ultra.png
+|ndex=800
+|type1=Psychic
+|form2type1=Psychic
+|form2type2=Steel
+|form3type1=Psychic
+|form3type2=Ghost
+|form4type1=Psychic
+|form4type2=Dragon
+|category=Prism
+|height-ftin=7'10"
+|height-m=2.4
+|height-ftin2=12'06"
+|height-m2=3.8
+|height-ftin3=13'09"
+|height-m3=4.2
+|height-ftin4=24'07"
+|height-m4=7.5
+|weight-lbs=507.1
+|weight-kg=230.0
+|weight-lbs2=1014.1
+|weight-kg2=460.0
+|weight-lbs3=771.6
+|weight-kg3=350.0
+|weight-lbs4=507.1
+|weight-kg4=230.0
+|adex=300
+|abilitylayout=1
+|ability1=Prism Armor
+|abilityold=Neuroforce
+|abilityoldcaption=Ultra Necrozma
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=120
+|evforms=4
+|evtotal=3
+|evat=1
+|evsa=2
+|evat2=3
+|evsa3=3
+|evat4=1
+|evsa4=1
+|evsp4=1
+|expyield=120
+|lv100exp=1,250,000
+|gendercode=255
+|color=Black
+|formcolors=yes
+|catchrate=255
+|body=04
+|body2=08
+|pokefordex=necrozma
+|generation=7
+|friendship=0
+}}
+'''Necrozma''' ([[List of Japanese Pokémon names|Japanese]]: '''ネクロズマ''' ''Necrozma'') is a {{type|Psychic}} [[Legendary Pokémon]] introduced in [[Generation VII]].
+
+While it is not known to [[Evolution|evolve]] into or from any Pokémon, it has [[List of Pokémon with form differences#Necrozma|three other forms]]. 
+
+* '''Dusk Mane Necrozma''', a fusion with {{p|Solgaleo}} using the [[N-Solarizer]]
+* '''Dawn Wings Necrozma''', a fusion with {{p|Lunala}} using the [[N-Lunarizer]]
+* '''Ultra Necrozma''', a form obtainable when either Dusk Mane Necrozma or Dawn Wings Necrozma uses [[Ultra Burst]]
+
+As both Dusk Mane Necrozma and Dawn Wings Necrozma, it is the [[game mascot]] of [[Pokémon Ultra Sun and Ultra Moon]], respectively.
+
+==Biology==
+Necrozma's body appears to be constructed out of black crystalline material; its disproportionately large arms have three claws jutting out of them, as well as a single large whitish crystal protruding backwards from each arm. Its small legs bend backwards like a bird's and have three toes each. A single small, hook-like wing grows out of each of its shoulders. The large protrusion attached to its head is its tail, which is white in the back with a dark gray symbol resembling a star in the center. This part of the tail glows while absorbing light that it converts to lasers. The sides of its head and the top of its tail are covered in spikes. Its face is actually a prism-like object known as the brain prism, which possesses a collection of multicolored shapes that resemble eyes. Despite being pitch-black, Necrozma's body constantly refracts light like a prism.
+
+Necrozma can take control of {{p|Solgaleo}} or {{p|Lunala}} by fusing with them, allowing it to assume its '''Dusk Mane Necrozma''' or '''Dawn Wings Necrozma''' forms, respectively. Because Necrozma is forcibly absorbing their light, Solgaleo and Lunala constantly glow in a manner similar to their Radiant Sun and Full Moon phases while fused. In both cases, the hosts' bodies are covered in parts of Necrozma's body, which are arranged like armor; in particular, Necrozma's large clawed arms are prominent in both forms, though they lack the large crystals jutting from them. Both forms have a triangular helmet with Necrozma's brain prism prominently visible, with bright glowing blue eyes for Dusk Mane Necrozma and pink eyes for Dawn Wings Necrozma. Using the split tail on Dusk Mane Necrozma's sides or Dawn Wings Necrozma's back, both of these forms can propel themselves forward using black light.<ref>https://www.pokemon-sunmoon.com/ultra/en-us/gallery-detail-8.html</ref>
+
+Once it absorbs enough light, Necrozma can undergo a process called [[Ultra Burst]] to reclaim its true form: '''Ultra Necrozma''', a colossal, shining dragon armored by pieces of Necrozma's original form. Most of its body is made of pure light energy, as indicated by its non-solid shape; this light is produced from the brain prism, which is no longer visible. Ultra Necrozma has two pairs of clawed wings, a long, spiked tail, and a head resembling a shining star with several long horns on the sides and top. Its face is armored and has multicolored heterochromic eyes, with primarily red on the left and blue on the right. In this form, Necrozma's large clawed arms and small legs have swapped places, respectively becoming Ultra Necrozma's feet and parts of its wings. As Ultra Necrozma, all of the pieces of Necrozma's base form have now become a shining golden color, though it will return to black if the light it has stolen escapes. Ultra Necrozma has a body temperature of 10,000 degrees Fahrenheit; anything that it touches will melt from the extreme heat. It can fire laser beams from every part of its body, and these lasers can reach over 18 miles away, burning through everything in their path.<ref>https://www.pokemon-sunmoon.com/ultra/en-us/gallery-detail-17.html</ref>
+
+Necrozma originates from [[Ultra Space]] and is capable of opening and traveling through [[Ultra Wormhole]]s. In [[Ultra Megalopolis]], it is known as the "Blinding One" (Japanese: '''かがやきさま''' ''Radiant One''). It once had the ability to give light, but lost this ability after being injured under unknown circumstances; [[Professor Kukui]] and [[Lillie]] theorize that the [[Sparkling Stone]]s used to perform Z-Moves are fragments of Necrozma's body that it lost upon this injury. In its incomplete state, Necrozma suffers constant pain and displays immense hostility. In an effort to restore itself to its original state, Necrozma steals light from other places and beings, including Solgaleo, Lunala, and Ultra Megalopolis; this behavior caused it to be known as the "pillager of light" in ancient Alola. When Necrozma absorbs light from a world, that world becomes shrouded in darkness until the stolen light is returned. While absorbing light, Necrozma's brain prism glows white.<ref>[[Pokémon Sun & Pokémon Moon: The Official Alola Region Pokédex & Postgame Adventure Guide]]</ref>
+
+Necrozma is the [[Signature move|only known Pokémon]] capable of learning the moves {{m|Prismatic Laser}} and {{m|Photon Geyser}}, the latter of which can be upgraded into the exclusive [[Z-Move]] {{m|Light That Burns the Sky}} while in its Ultra Necrozma form. Dusk Mane Necrozma and Dawn Wings Necrozma can also learn {{p|Solgaleo}} and {{p|Lunala}}'s signature moves {{m|Sunsteel Strike}} and {{m|Moongeist Beam}}, respectively, and upgrade them to their exclusive Z-Moves {{m|Searing Sunraze Smash}} and {{m|Menacing Moonraze Maelstrom}}.
+<!--
+==In the anime==
+===Major appearances===
+===Minor appearances===
+
+==In the manga==-->
+
+==In the TCG==
+{{main|Necrozma (TCG)}}
+
+==Game data==
+===Pokédex entries===
+====Necrozma====
+{{Dex/Header|type=Psychic}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Reminiscent of the Ultra Beasts, this life-form, apparently asleep underground, is thought to have come from another world in ancient times.}}
+{{Dex/Entry1|v=Moon|entry=Light is apparently the source of its energy. It has an extraordinarily vicious disposition and is constantly firing off laser beams.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It looks somehow pained as it rages around in search of light, which serves as its energy. It's apparently from another world.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Light is the source of its energy. If it isn't devouring light, impurities build up in it and on it, and Necrozma darkens and stops moving.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Dusk Mane Necrozma====
+{{Dex/Header|type=Psychic|type2=Steel}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=This is its form while it is devouring the light of Solgaleo. It pounces on foes and then slashes them with the claws on its four limbs and back.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This is Necrozma's form while it's absorbing the power of Solgaleo, making it extremely ferocious and impossible to control.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Dawn Wings Necrozma====
+{{Dex/Header|type=Psychic|type2=Ghost}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=Lunala no longer has a will of its own. Now under the control of Necrozma, it continuously expels all of its energy.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This is its form while it's devouring the light of Lunala. It grasps foes in its giant claws and rips them apart with brute force.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Ultra Necrozma====
+{{Dex/Header|type=Psychic|type2=Dragon}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=This is its form when it has absorbed overwhelming light energy. It fires laser beams from all over its body.}}
+{{Dex/Entry1|v=Ultra Moon|entry=The light pouring out from all over its body affects living things and nature, impacting them in various ways.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ten Carat Hill]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Mount Lanakila]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Ultra Challenge|Necrozma Appears]]''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=psychic
+|usum1=Ultranecrozium Z|usum1type=None|usum1rar=100
+}}
+
+===Stats===
+====Base stats====
+=====Necrozma=====
+{{Stats
+|type=Psychic
+|HP=97
+|Attack=107
+|Defense=101
+|SpAtk=127
+|SpDef=89
+|Speed=79}}
+
+=====Dusk Mane Necrozma=====
+{{Stats
+|type=Psychic
+|type2=Steel
+|HP=97
+|Attack=157
+|Defense=127
+|SpAtk=113
+|SpDef=109
+|Speed=77}}
+
+=====Dawn Wings Necrozma=====
+{{Stats
+|type=Psychic
+|type2=Ghost
+|HP=97
+|Attack=113
+|Defense=109
+|SpAtk=157
+|SpDef=127
+|Speed=77}}
+
+=====Ultra Necrozma=====
+{{Stats
+|type=Psychic
+|type2=Dragon
+|HP=97
+|Attack=167
+|Defense=97
+|SpAtk=167
+|SpDef=97
+|Speed=129}}
+
+===Type effectiveness===
+====Necrozma====
+{{TypeEffectiveness
+|type1=Psychic
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=150
+|Ghost=150
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=50
+|Ice=100
+|Dragon=100
+|Dark=150
+|Fairy=100}}
+
+====Dusk Mane Necrozma====
+{{TypeEffectiveness
+|type1=Psychic
+|type2=Steel
+|Normal=50
+|Fighting=100
+|Flying=50
+|Poison=0
+|Ground=150
+|Rock=50
+|Bug=100
+|Ghost=150
+|Steel=50
+|Fire=150
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=25
+|Ice=50
+|Dragon=50
+|Dark=150
+|Fairy=50}}
+
+====Dawn Wings Necrozma====
+{{TypeEffectiveness
+|type1=Psychic
+|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=400
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=50
+|Ice=100
+|Dragon=100
+|Dark=400
+|Fairy=100}}
+
+====Ultra Necrozma====
+{{TypeEffectiveness
+|type1=Psychic
+|type2=Dragon
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=200
+|Steel=100
+|Fire=50
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=50
+|Ice=200
+|Dragon=200
+|Dark=200
+|Fairy=200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Necrozma|Psychic|Psychic|7|SM|USUM}}
+{{learnlist/levelVII|1|1|Moonlight|Fairy|Status|—|—|5}}
+{{learnlist/levelVII|1|1|Morning Sun|Normal|Status|—|—|5}}
+{{learnlist/levelVII|1|1|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/levelVII|1|1|Mirror Shot|Steel|Special|65|85|10||''}}
+{{learnlist/levelVII|1|1|Metal Claw|Steel|Physical|50|95|35||''}}
+{{learnlist/levelVII|1|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/levelVII|7|7|Slash|Normal|Physical|70|100|20}}
+{{learnlist/levelVII|13|13|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/levelVII|19|19|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/levelVII|23|23|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/levelVII|31|31|Gravity|Psychic|Status|—|—|5}}
+{{learnlist/levelVII|37|37|Psycho Cut|Psychic|Physical|70|100|20||'''}}
+{{learnlist/levelVII|43|43|Power Gem|Rock|Special|80|100|20}}
+{{learnlist/levelVII|47|47|Autotomize|Steel|Status|—|—|15}}
+{{learnlist/levelVII|N/A|50|Photon Geyser|Psychic|Special|100|100|5||'''}}
+{{learnlist/levelVII|53|53|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/levelVII|59|59|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/levelVII|67|67|Wring Out|Normal|Special|—|100|5}}
+{{learnlist/levelVII|73|73|Prismatic Laser|Psychic|Special|160|100|10||'''}}
+{{learnlist/levelf/7|Necrozma|Psychic|Psychic|7|form=yes}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Necrozma|Psychic|Psychic|7}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15||''}}
+{{learnlist/tm7|TM67|Smart Strike|Steel|Physical|70|—|10||''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|—|100|5||''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||''}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Necrozma|Psychic|Psychic|7|form=yes}}
+
+====By {{pkmn|breeding}}====
+{{Learnlist/breedh/7|Necrozma|Psychic|Psychic|7}}
+{{Learnlist/breed7null}}
+{{Learnlist/breedf/7|Necrozma|Psychic|Psychic|7|form=yes}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Necrozma|Psychic|Psychic|7}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||''|no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||''|no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutorf/7|Necrozma|Psychic|Psychic|7|form=yes}}
+
+====Form change====
+When Necrozma is fused, it tries to learn a new move in the same way that other Pokémon may learn new moves upon evolving. If Necrozma changes to its normal form, it immediately forgets the special move of the form it was in (if it still knows it); if the only move that Necrozma knows is the form's special move, then that move will be replaced with {{m|Confusion}}.
+{{learnlist/eventh/7|Necrozma|Psychic|Psychic|7}}
+{{learnlist/event7|{{DL|List of Pokémon with form differences|Necrozma|Form change: Normal Necrozma}}<br><small>(having no other moves)</small>|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/event7|{{DL|List of Pokémon with form differences|Necrozma|Form change: Dusk Mane}}|Sunsteel Strike|Steel|Physical|100|100|5||'''}}
+{{learnlist/event7|{{DL|List of Pokémon with form differences|Necrozma|Form change: Dawn Wings}}|Moongeist Beam|Ghost|Special|100|100|5||'''}}
+{{learnlist/eventf/7|Necrozma|Psychic|Psychic|7|form=yes}}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/Shuffle|col=6|type=Psychic|ndex=800|num=781
+|min=80
+|max=145
+|raisemaxlevel=20
+|skill=Destruction
+|skilldesc=Erases one unbreakable-block disruption and deals a lot more damage.
+}}
+|}
+
+===Evolution===
+{{Evobox/Necrozma}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7/4Forms/USUM|ndex=800|form2=DM|form3=DW|form4=U}}
+{{Spritebox/Footer|800|Necrozma}}
+
+==Trivia==
+* Necrozma's base form shares its battle theme with {{p|Solgaleo}} and {{p|Lunala}}.
+* In [[Pokémon Sun and Moon]], Necrozma has a catch rate of 3.
+** Necrozma is the only Pokémon to have its catch rate change from the lowest of all Pokémon (3) to the highest (255) between games.
+** Necrozma has the highest catch rate of any Legendary Pokémon.
+* Ultra Necrozma is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 754.
+* Ultra Necrozma is the [[List of Pokémon by height|tallest]] {{type|Psychic}} Pokémon.
+* Necrozma has the [[List of Pokémon by body style|most body styles]] of all Pokémon with a total of four between its different forms.
+* Necrozma is fought three times in the main story of a core series game, more than any other Legendary Pokémon.
+* Necrozma has access to the most exclusive [[Z-Crystal]]s with a total of three.
+* As it is seen in the climax of Pokémon Ultra Sun and Ultra Moon, Necrozma is able to fuse with Solgaleo/Lunala without the need for N-Solarizer/N-Lunarizer.
+
+===Origin===
+Necrozma could be based off the concept of {{wp|prisms}} and {{wp|light refraction}}. It may also incorporate similarities, both literal and symbolic, to {{wp|black dwarf}}s, {{wp|black hole}}s, or {{wp|neutron star}}s. 
+
+Necrozma's Dusk Mane and Dawn Wings forms may be based on the concept of {{wp|Solar eclipse|solar}} and {{wp|lunar eclipse}}s. The forms' alternate names in Japanese, 日食 ''nisshoku'' (solar eclipse) and 月食 ''gesshoku'' (lunar eclipse) can also be literally translated as "eating the sun/moon", reflecting how Necrozma absorbs Solgaleo or Lunala to assume those forms. Its Ultra Necrozma form may be based on {{wp|giant star}}s or {{wp|supernova}}e. 
+
+====Name origin====
+Necrozma may be a combination of νεκρός ''nekrós'' (Ancient Greek for dead), 黒 ''kuro'' (black), and πρῖσμα ''prîsma'' (Ancient Greek for prism). It may also be based off of {{wp|Project Ozma}}, an experiment made to search for extraterrestrial life.
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Psychic
+|ja=ネクロズマ ''Necrozma''|jameaning=From {{tt|νεκρός ''nekrós''|Ancient Greek for dead}}, {{tt|黒 ''kuro''|black}}, and {{tt|πρῖσμα ''prîsma''|Ancient Greek for prism}}
+|fr=Necrozma|frmeaning=Same as English name
+|es=Necrozma|esmeaning=Same as English name
+|de=Necrozma|demeaning=Same as English name
+|it=Necrozma|itmeaning=Same as English name
+|ko=네크로즈마 ''Nekeurojeuma''|komeaning=Transliteration of Japanese name
+|zh_cmn=奈克洛茲瑪 / 奈克洛兹玛 ''Nàikèluòzīmǎ''|zh_cmnmeaning=Transliteration of Japanese name
+|zh_yue=奈克洛茲瑪 ''Noihhāklokjīmá''|zh_yuemeaning=Mandarin-based transliteration of Japanese name
+|ru=Некрозма ''Nekrozma''|rumeaning=Transcription of English name
+}}
+{|
+|- style="vertical-align:top" 
+|
+''Dusk Mane Necrozma''
+{{langtable|color={{psychic color}}|bordercolor={{steel color dark}}
+|ja=ネクロズマ（たそがれのたてがみ） ''Necrozma (Dusk Mane)''<br>日食ネクロズマ ''Solar Eclipse Necrozma''
+|zh_yue=奈克洛茲瑪（黃昏之鬃） ''{{tt|Noihhāklokjīmá (Wòhngfān-jī Jūng)|Necrozma (Dusk Mane)}}''<br>日蝕奈克洛茲瑪 ''{{tt|Yahtsihk Noihhāklokjīmá|Solar Eclipse Necrozma}}''
+|zh_cmn=奈克洛茲瑪（黃昏之鬃） / 奈克洛兹玛（黄昏之鬃） ''{{tt|Nàikèluòzīmǎ (Huánghūn-zhī Zōng)|Necrozma (Dusk Mane)}}''<br>日蝕奈克洛茲瑪 / 日食奈克洛兹玛 ''{{tt|Rìshí Nàikèluòzīmǎ|Solar Eclipse Necrozma}}''
+|fr=Necrozma Crinière du Couchant
+|de=Necrozma (Abendmähne)
+|it=Necrozma Criniera del Vespro
+|ko=네크로즈마(황혼의 갈기) ''{{tt|Necrozma (Hwanghon-ui Galgi)|Necrozma (Dusk Mane)}}''<br>일식 네크로즈마 ''{{tt|Ilsik Necrozma|Solar Eclipse Necrozma}}''
+|pt_br=Necrozma Juba Crepúsculo
+|ru=Некрозма-«Сумеречная Грива» ''Nekrozma-"Sumerechnaya Griva"''{{tt|*|Official site}}<br>Некрозма (Сумеречная Грива) ''Nekrozma (Sumerechnaya Griva)''{{tt|*|Trailer}}
+|es=Necrozma Melena Crepuscular
+}}
+|
+''Dawn Wings Necrozma''
+{{langtable|color={{psychic color}}|bordercolor={{ghost color dark}}
+|ja=ネクロズマ（あかつきのつばさ） ''Necrozma (Dawn Wings)''<br>月食ネクロズマ ''Lunar Eclipse Necrozma''
+|zh_yue=奈克洛茲瑪（拂曉之翼） ''{{tt|Noihhāklokjīmá (Fāthíu-jī Yihk)|Necrozma (Dawn Wings)}}''<br>月蝕奈克洛茲瑪 ''{{tt|Yuhtsihk Noihhāklokjīmá|Lunar Eclipse Necrozma}}''
+|zh_cmn=奈克洛茲瑪（拂曉之翼） / 奈克洛兹玛（拂晓之翼） ''{{tt|Nàikèluòzīmǎ (Fúxiǎo-zhī Yì)|Necrozma (Dawn Wings)}}''<br>月蝕奈克洛茲瑪 / 月食奈克洛兹玛  ''{{tt|Yuèshí Nàikèluòzīmǎ|Lunar Eclipse Necrozma}}''
+|fr=Necrozma Ailes de l'Aurore
+|de=Necrozma (Morgenschwingen)
+|it=Necrozma Ali dell'Aurora
+|ko=네크로즈마(새벽의 날개) ''{{tt|Necrozma (Saebyeog-ui Nalgae)|Necrozma (Dawn Wings)}}''<br>월식 네크로즈마 ''{{tt|Wolsik Necrozma|Lunar Eclipse Necrozma}}''
+|pt_br=Necrozma Asas Alvorada
+|ru=Некрозма-«Рассветные Крылья» ''Nekrozma-"Rassvetnyye Kryl'ya"''{{tt|*|Official site}}<br>Некрозма (Рассветные Крылья) ''Nekrozma (Rassvetnyye Kryl'ya)''{{tt|*|Trailer}}
+|es=Necrozma Alas del Alba
+}}
+|}
+''Ultra Necrozma''
+{{langtable|color={{psychic color}}|bordercolor={{dragon color dark}}
+|ja=ウルトラネクロズマ ''Ultra Necrozma''
+|zh_yue=究極奈克洛茲瑪 ''{{tt|Gaugihk Noihhāklokjīmá|Ultra Necrozma}}''
+|zh_cmn=究極奈克洛茲瑪 / 究极奈克洛兹玛 ''{{tt|Jiūjí Nàikèluòzīmǎ|Ultra Necrozma}}''
+|fr=Ultra-Necrozma
+|de=Ultra-Necrozma
+|it=UltraNecrozma
+|ko=울트라네크로즈마 ''Ultra Necrozma''
+|ru=Ультранекрозма ''Ul'tranekrozma''
+|es=Ultra-Necrozma
+}}
+{{-}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+{{Legendary Pokémon}}
+{{-}}
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=799|prev=Guzzlord|nextnum=801|next=Magearna}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Game mascots]]
+[[Category:Yellow-colored Pokémon]]<!--Dusk Mane and Ultra Necrozma-->
+[[Category:Blue-colored Pokémon]]<!--Dawn Wings Necrozma-->
+[[Category:Body style 08 Pokémon]]<!--Dusk Mane Necrozma-->
+[[Category:Body style 09 Pokémon]]<!--Dawn Wings Necrozma-->
+[[Category:Body style 13 Pokémon]]<!--Ultra Necrozma-->
+[[Category:Legendary Pokémon]]
+[[Category:Alola Legendary Pokémon]]
+[[Category:Legendary Pokémon obtainable before the Elite Four]]
+
+[[de:Necrozma]]
+[[fr:Necrozma]]
+[[it:Necrozma]]
+[[ja:ネクロズマ]]
+[[zh:奈克洛兹玛]]

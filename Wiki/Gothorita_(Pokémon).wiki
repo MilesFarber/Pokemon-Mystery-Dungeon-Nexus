@@ -1,0 +1,414 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=574|prev=Gothita|nextnum=576|next=Gothitelle}}
+|}
+{{Pokémon Infobox
+|name=Gothorita
+|jname=ゴチミル
+|jtranslit=Gochimiru
+|tmname=Gothimiru
+|category=Manipulate
+|typebox=1
+|type1=Psychic
+|abilityn=d
+|ability1=Frisk
+|ability2=Competitive
+|abilityd=Shadow Tag
+|ndex=575
+|udex=081
+|u2dex=137
+|karea=Mountain
+|kdex=127
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=39.7
+|weight-kg=18.0
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=20
+|expyield=137
+|lv100exp=1,059,860
+|gendercode=191
+|color=Purple
+|catchrate=100
+|evtotal=2
+|evsd=2
+|body=12
+|pokefordex=gothorita
+|generation=5
+|friendship=70
+}}
+'''Gothorita''' ([[List of Japanese Pokémon names|Japanese]]: '''ゴチミル''' ''Gothimiru'') is a {{type|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Gothita}} starting at [[level]] 32 and evolves into {{p|Gothitelle}} starting at level 41.
+
+==Biology==
+Gothorita is a black, humanoid Pokémon with slim arms and legs. There are two round black buns on each side of its head, with a smaller drop-shaped piece hanging from each. Adorning its hair are four white bows, two on each bun. It has a pale purple face with cyan eyes and red lips. It has two white bows on its body, which flares at the bottom to form a skirt shape. Gothorita uses starlight as the source of its power, and is able to use its psychic powers to arrange rocks to match the star. It can also use these powers to control people and Pokémon with hypnosis.
+
+==In the anime==
+[[File:Lewis Gothorita.png|thumb|250px|left|Gothorita in the {{pkmn|anime}}]]
+===Major appearances===
+Gothorita made its main series debut in ''[[BW059|Stopping the Rage of Legends! Part 1]]'', under the ownership of [[Lewis]]. In the episode, it helped summon {{p|Landorus}} to stop {{p|Tornadus}} and {{p|Thundurus}}. It reappeared in ''[[BW060|Stopping the Rage of Legends! Part 2]]''.
+
+A Gothorita appeared in ''[[BW070|The Clubsplosion Begins!]]'', under the ownership of [[Flora]]. It battled [[Cilan's Pansage]] during the [[Clubsplosion]], but it was soon defeated. By the time of ''[[BW106|Strong Strategy Steals the Show!]]'', Flora's Gothorita was revealed to have evolved into {{p|Gothitelle}}.
+
+A Gothorita appeared in ''[[PK25|Eevee & Friends]]'' alongside {{p|Gothita}} and Gothitelle, where they were friends with an {{p|Umbreon}} living with an {{p|Eevee}} and the rest of the [[Eeveelution]]s.
+
+===Minor appearances===
+Gothorita debuted as a {{pkmn|Trainer}}'s Pokémon in ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]''. It was used to mentally squeeze the juice from fruits for some of the festival-goers in [[Eindoak Town]].
+
+A Gothorita appeared in ''[[XY040|Day Three Blockbusters!]]''.
+
+A Gothorita appeared in ''[[XY073|A Fashionable Battle!]]'', under the ownership of a {{tc|Furisode Girl}}.
+
+A Trainer's Gothorita appeared in ''[[XY084|Adventures in Running Errands!]]''.
+
+Two Gothorita appeared in ''[[XY092|Cloudy Fate, Bright Future!]]''. One was under the ownership of a {{tc|Psychic}}, while the other was owned by a Trainer.
+
+A Gothorita appeared in ''[[XY105|Party Dancecapades!]]'', under the ownership of a [[Pokémon Performer]] attending [[Monsieur Pierre]]'s dance party.
+
+Two Gothorita appeared in ''[[XY138|The First Day of the Rest of Your Life!]]'', each belonging to a different Trainer.
+
+A Trainer's Gothorita appeared in ''[[M20|I Choose You!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW059|Gothorita|Ash's Pokédex|Gothorita, the Manipulate Pokémon and the [[evolution|evolved]] form of {{p|Gothita}}. Gothorita uses starlight as its power source. It arranges rocks in the same way as the stars, and can use its {{t|Psychic}} powers to control people and Pokémon.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Team Plasma Gothorita Adventures.png|thumb|Gothorita in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PS478|Big City Battles]]'', a Gothorita was briefly seen under the ownership of one of [[Castelia City]]'s residents.
+
+A Gothorita appeared in ''[[PS479|The Case of the Missing Pokémon]]'', where it was one of the Pokémon kidnapped by Team Plasma. It was later found in a stronghold and returned to its Trainer.
+
+Two Gothorita were seen under the ownership of some grunts from [[Team Plasma]] in ''[[PS480|At Liberty on Liberty Garden]]''.
+
+A Gothorita appeared in [[PAXY33]] as a Pokémon in the [[Pokémon Village]].
+
+===In the Pokémon Pocket Monsters manga===
+Gothorita appeared in {{OBP|Pocket Monsters BW|Kosaku Anakubo}}.
+
+==In the TCG==
+{{main|Gothorita (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Psychic}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=They use hypnosis to control people and Pokémon. Tales of Gothorita leading people astray are told in every corner.}}
+{{Dex/Entry1|v=White|entry=Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.}}
+{{Dex/Entry1|v=Y|entry=According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Black|t=fff|area={{rt|9|Unova}}}}
+{{Availability/Entry1/None|1|v=White}}
+{{Availability/Entry1|1|v=Black 2|t=fff|area={{rt|9|Unova}}, [[Strange House]]}}
+{{Availability/Entry1/None|1|v=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|20|Kalos}}, [[Pokémon Village]], [[Friend Safari]] ([[Friend Safari#Psychic-type Safari|Psychic]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Gothita}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Gothita}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Challenger's Ground]], [[Frozen Tundra]], [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Wish Park]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Illusio]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Ochre Quarry]] (1F-13F), [[Daybreak Ridge]] (1F-6F), [[Freezing Pillar]] (1F-14F), [[Windy Shoreline]] (1F-11F), [[Rusty Mountain]] (Golden Chamber), [[Jaws of the Abyss]] (B1-B28), [[Smoking Mountain]] (1F-24F), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Aquatic Hill#The Floors Are Hot!|Aquatic Hill: The Floors Are Hot!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 6|Island of Haste: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 216]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Ivory Pillar|White Ruins: Ivory Pillar]] <small>(All Areas)</small>, [[Legend Terrain#Bastion of Beginnings|Legend Terrain: Bastion of Beginnings]] <small>(Entrance, Center, Back)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====Pokémon Global Link promotions====
+{{eventAvail/h|type=Psychic}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Gothorita|Japanese|PGL|32|August 9, 2012 to July 31, 2013|link=List of Pokémon Global Link promotions/Pokémon#Gothorita}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Gothorita|Korean|PGL|32|November 11, 2012 to July 31, 2013|link=List of Pokémon Global Link promotions/Pokémon#Gothorita}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Gothorita|English|PGL|32|November 22, 2012 to July 25, 2013|link=List of Pokémon Global Link promotions/Pokémon#Gothorita}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Gothorita|French|PGL|32|November 22, 2012 to July 25, 2013|link=List of Pokémon Global Link promotions/Pokémon#Gothorita}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Gothorita|German|PGL|32|November 22, 2012 to July 25, 2013|link=List of Pokémon Global Link promotions/Pokémon#Gothorita}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Gothorita|Italian|PGL|32|November 22, 2012 to July 25, 2013|link=List of Pokémon Global Link promotions/Pokémon#Gothorita}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Gothorita|Spanish|PGL|32|November 22, 2012 to July 25, 2013|link=List of Pokémon Global Link promotions/Pokémon#Gothorita}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Gothorita|Japanese|PGL|32|December 14, 2012 to August 27, 2013|link=List of Pokémon Global Link promotions/Pokémon#Imprison Gothorita}}
+|}
+
+===Held items===
+{{HeldItems|type=Psychic
+|bl21=Persim Berry|bl21type=Berry|bl21rar=50
+|event1=Focus Band|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Psychic
+|HP=60
+|Attack=45
+|Defense=70
+|SpAtk=75
+|SpDef=85
+|Speed=55}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|Normal=100
+|Flying=100
+|Fighting=50
+|Ground=100
+|Rock=100
+|Bug=200
+|Poison=100
+|Ghost=200
+|Steel=100
+|Fire=100
+|Grass=100
+|Electric=100
+|Psychic=50
+|Water=100
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Gothorita|Psychic|Psychic|5}}
+{{learnlist/level7|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|1|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|1|Play Nice|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|3|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|7|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|10|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|14|Double Slap|Normal|Physical|15|85|10}}
+{{learnlist/level7|16|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level7|19|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|24|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/level7|25|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/level7|28|Flatter|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|31|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/level7|34|Heal Block|Psychic|Status|&mdash;|100|15}}
+{{learnlist/level7|39|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|43|Telekinesis|Psychic|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|50|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/level7|53|Magic Room|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/levelf/7|Gothorita|Psychic|Psychic|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Gothorita|Psychic|Psychic|5}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Gothorita|Psychic|Psychic|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Gothorita|Psychic|Psychic|5}}
+{{learnlist/breed7|{{MSP|063|Abra}}{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}<br>{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|106|Hitmonlee}}{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}<br>{{MSP|125|Electabuzz}}{{MSP|466|Electivire}}{{MSP|126|Magmar}}{{MSP|467|Magmortar}}{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}<br>{{MSP|302|Sableye}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|313|Volbeat}}{{MSP|327|Spinda}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}<br>{{MSP|448|Lucario}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Captivate|Normal|Status|&mdash;|100|20|‡}}
+{{learnlist/breed7|{{MSP|302|Sableye}}{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}{{MSP|448|Lucario}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}<br>{{MSP|605|Elgyem}}{{MSP|606|Beheeyem}}{{MSP|624|Pawniard}}{{MSP|625|Bisharp}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}<br>|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/breed7|{{MSP|448|Lucario}}|Heal Pulse|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|302|Sableye}}|Mean Look|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|605|Elgyem}}{{MSP|606|Beheeyem}}|Miracle Eye|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|428|Lopunny}}|Mirror Coat|Psychic|Special|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|327|Spinda}}|Uproar|Normal|Special|90|100|10}}
+{{learnlist/breedf/7|Gothorita|Psychic|Psychic|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Gothorita|Psychic|Psychic|5}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magic Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Gothorita|Psychic|Psychic|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Gothorita|Psychic|Psychic|5}}
+{{Learnlist/prevo7null}}
+{{learnlist/prevof/7|Gothorita|Psychic|Psychic|5}}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/RumbleBlast|col=6|type=Psychic
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Psychic|ndex=575
+|pad=He lived in the [[Tech Area]], but he used to live somewhere else. He's become strong to protect {{p|Gothitelle}} and {{p|Gothita}}
+}}
+|-
+{{Spindata/Conquest|col=6|type=Psychic|ndex=575
+|HP=2
+|atk=2
+|def=3
+|spd=2
+|range=3
+|move=Psybeam
+|ability1=Instinct
+|ability2=Perception
+|ability3=Calming
+|evo=Evolves from {{p|Gothita}} when its Defense is 70 or higher<br>Evolves into {{p|Gothitelle}} when its Defense is 106 or higher
+|link='''[[Gracia]]''', {{DL|List of Pokémon Conquest characters|Ise}}, and {{DL|List of Pokémon Conquest characters|Tadaoki}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=575
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=575|num=292
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Sleep Charm
+|skilldesc=Leaves the foe asleep.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Psychic
+|no1=574
+|name1=Gothita
+|type1-1=Psychic
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 32}}
+|no2=575
+|name2=Gothorita
+|type1-2=Psychic
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 41}}
+|no3=576
+|name3=Gothitelle
+|type1-3=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=575}}
+{{Spritebox/6|ndex=575}}
+{{Spritebox/7|ndex=575}}
+{{Spritebox/Footer|575|Gothorita}}
+
+==Trivia==
+* Gothorita shares its {{pkmn|category}} with {{p|Grumpig}}. They are both known as the Manipulate Pokémon.
+* Gothorita represents {{wp|September}} in the [[Unova]] [[horoscope]].
+
+===Origin===
+Gothorita is based on a young girl dressed in {{wp|Lolita fashion#Gothic Lolita|Gothic lolita}} fashion. Considering its connection to stars, Gothorita's body shape slightly resembles the common depiction of the {{wp|astrological sign}} {{wp|Libra (astrology)|Libra}}.
+
+====Name origin====
+Gothorita may be a combination of ''goth'' and ''señorita'' (Spanish for the title of ''miss'') or a corruption of ''gothic lolita''.
+
+Gothimiru may be a combination of ''gothic'' and 見る ''miru'' (to observe).
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Psychic
+|ja=ゴチミル ''Gothimiru''|jameaning=From ''gothic'' and {{tt|見る ''miru''|to observe}}
+|fr=Mesmérella|frmeaning=From ''{{tt|mesmériser|mesmerize, hypnotize}}'' and ''Cinderella''
+|es=Gothorita|esmeaning=Same as English name
+|de=Hypnomorba|demeaning=From ''{{tt|Hypnose|hypnosis}}'' and ''morbid''
+|it=Gothorita|itmeaning=Same as English name
+|ko=고디보미 ''Godibomi''|komeaning=From ''Gothic'' and {{tt|보다 ''boda''|to see}}
+|zh_cmn=哥德小童 ''Gēdéxiǎotóng''|zh_cmnmeaning=From {{tt|哥德 ''Gēdé''|gothic}} and {{tt|小童 ''xiǎotóng''|child}}
+|ru=Гофорита ''Goforita''|rumeaning=From English name
+}}
+{{left clear}}
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=574|prev=Gothita|nextnum=576|next=Gothitelle}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Hypnomorba]]
+[[fr:Mesmérella]]
+[[it:Gothorita]]
+[[ja:ゴチミル]]
+[[pl:Gothorita]]
+[[zh:哥德小童]]

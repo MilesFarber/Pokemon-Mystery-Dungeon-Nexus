@@ -1,0 +1,402 @@
+{{PokémonPrevNext/Head|type=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=609|prev=Chandelure|nextnum=611|next=Fraxure|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Axew}}
+|}
+{{Pokémon Infobox
+|name=Axew
+|jname=キバゴ
+|tmname=Kibago
+|category=Tusk
+|typebox=1
+|type1=Dragon
+|abilityn=d
+|ability1=Rivalry
+|ability2=Mold Breaker
+|abilityd=Unnerve
+|ndex=610
+|udex=116
+|u2dex=183
+|karea=Central
+|kdex=148
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=39.7
+|weight-kg=18.0
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Dragon
+|eggcycles=40
+|expyield=64
+|lv100exp=1,250,000
+|gendercode=127
+|color=Green
+|catchrate=75
+|evtotal=1
+|evat=1
+|body=06
+|pokefordex=axew
+|generation=5
+|friendship=35
+}}
+'''Axew''' ([[List of Japanese Pokémon names|Japanese]]: '''キバゴ''' ''Kibago'') is a {{type|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Fraxure}} starting at [[level]] 38, which evolves into {{p|Haxorus}} starting at level 48.
+
+==Biology==
+Axew is a bipedal, grayish-green Pokémon with pale, straight tusks protruding from the sides of its mouth. These tusks can regenerate if broken, and will regrow if they fall out. This repeated regrowth strengthens and sharpens its tusks. The tusks serve numerous purposes, from making territorial gashes in trees to crushing Berries for eating. The back of its head is dark grayish-green with a tall, slightly curved horn. Large, dark grayish-green ovals surround its red eyes, and it has a short, rounded snout with large nostrils. A forest green collar marking encircles its neck. Axew's limbs and tail are short, with its forelimbs having three digits and its feet having two digits. As shown in [[BW027|the anime]], Axew is skilled at climbing walls.
+
+==In the anime==
+[[File:Iris Axew.png|thumb|left|250px|Axew in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Iris's Axew]]====
+{{an|Iris}} owns an {{TP|Iris|Axew}}, which debuted with her in ''[[BW001|In The Shadow of Zekrom!]]''. She carries him with her, outside of a Poké Ball, in her hair. Axew's major goal is to evolve into a mighty {{p|Haxorus}}.
+
+====Other====
+A female Axew appeared in ''[[BW051|Lost at the Stamp Rally!]]'', under the ownership of [[Erina]]. It had become separated from its Trainer and tried to reunite with her. It reappeared in a flashback in ''[[BW065|Battling the Bully!]]''.
+
+===Minor appearances===
+Multiple Axew appeared in Iris's flashback in ''[[BW009|The Bloom Is on Axew!]]''.
+
+Multiple Axew appeared in ''[[BW053|A Maractus Musical!]]''.
+
+Multiple Axew appeared in [[Village of Dragons]] in ''[[BW100|A Village Homecoming!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW002|Axew|Ash's Pokédex|Axew, the Tusk Pokémon. Axew marks its territory by making scratch marks on trees with its tusks, which regrow if they fall out.}}
+{{Animedexbody|BW086|Axew|Dawn's Pokédex|Axew, the Tusk Pokémon. Axew eats berries that it crushes with its tusks. The tusks can sometimes break off, but they grow back.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Axew Adventures.png|thumb|200px|Axew in [[Pokémon Adventures]]]]
+===In the movie adaptations===
+{{main|Iris's Axew}}
+
+Iris's Axew appears in the manga adaptations of the movies he's in.
+
+===In the Pokémon Adventures manga===
+An Axew appeared as an {{a|illusion}} from [[N's Zorua]] while on the Driftveil Drawbridge in ''[[PS489|Drawing Bridges]]''.
+
+An Axew under the control of a virtual Trainer appeared in ''[[PS490|A Stormy Time in the Battle Subway]]'', where it managed to easily defeat {{adv|White}}'s {{p|Deerling|Darlene}}.
+
+An Axew appeared in ''[[PAXY01|An X-cuse to Come Out and Play]]'' with its Trainer as [[Vaniville Town]] was being destroyed from a battle between {{p|Yveltal}} and [[Xerxer|Xerneas]].
+
+==In the TCG==
+{{main|Axew (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Wii U]]===
+Axew appears in the background of the {{st|Kalos Pokémon League}} stage when the stage is in the {{DL|Pokémon League (Kalos)|Dragonmark Chamber}}. It appears alongside {{p|Dragonite}}, {{p|Garchomp}}, and {{p|Hydreigon}}.
+
+====Trophy information====
+'''NA:''' ''Axew may look like it's brought its dinner with it, but those things in its mouth are actually tusks! It can mark its territory with them or crush berries for a tasty meal. All that wear and tear on them can sometimes break them off, but don't worry! If Axew loses a tusk, it'll grow back quickly and even stronger than before.''
+
+'''PAL:''' ''No, that's not some delicious snack poking out either side of its mouth - those are tusks. Axew uses them to break through the hard outer shells of its favourite fruits and to carve territorial markings on trees. Occasionally, its tusks can break, but they just grow back stronger than before.''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dragon}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.}}
+{{Dex/Entry1|v=White|entry=They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its large tusks have a tendency to break, but each time they grow back, they grow in harder and sturdier.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.}}
+{{Dex/Entry1|v=Y|entry=They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dragon}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Mistralton Cave]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Mistralton Cave]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Icy Cave}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Connecting Cave]]}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Granite Cave]] ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Mount Hokulani]] ({{DL|QR Scanner|Island Scan}}){{dotw|Sa}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Mount Hokulani]] ({{DL|QR Scanner|Island Scan}}){{dotw|Sa}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dragon}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Cragspur]], [[Dragnor]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Starter Pokémon]], [[Jaws of the Abyss]] (B1-B28), [[Smoking Mountain]] (Mapless Street), [[Slumbering Cave]] (B1-B99), [[Axe Rock]] (1F-14F), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#Dangerous Rockets|Jungle Area: Dangerous Rockets]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 4|Sky-High Ruins: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Rainbow Park|Rainbow Park: Stage 49]]<br>[[Graucus Hall|Graucus Hall: Stage 488]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ruby Volcano#Smoldering Caldera|Ruby Volcano: Smoldering Caldera]] <small>(All Areas)</small>, [[Black Realm#Obsidian Shrine|Black Realm: Obsidian Shrine]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 05|Area 05: Stage 04]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Dragon}}
+{{eventAvail|{{gameabbrev5|BW}}|Mystery Egg Iris's Axew|Japanese|Japan<br>Wi-Fi|1|December 17, 2010 to January 11, 2011|link=List of Wi-Fi Japanese event Pokémon distributions in Generation V#Iris's Axew}}
+{{eventAvail|{{gameabbrev5|BW}}|Secret Egg Iris's Axew|English|United States|1|April 27 to May 31, 2011|link=List of local English event Pokémon distributions in Generation V#Iris's Axew}}
+{{eventAvail|{{gameabbrev5|BW}}|Secret Egg Iris's Axew|Korean|Wi-Fi|1|June 1 to 26, 2011|link=List of Wi-Fi Korean event Pokémon distributions in Generation V#Iris's Axew}}
+{{eventAvail|{{gameabbrev5|BW}}|Pokémon Searcher BW Axew|Japanese|Japan|10|March 19 to April 3, 2011{{sup/5|B}};<br>April 29 to May 8, 2011{{sup/5|W}}|link=List of local Japanese event Pokémon distributions in Generation V#Pokémon Searcher BW Axew}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Center Best Wishes Iris's Axew|Japanese|Japan|30|August 10 to September 6, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Iris's Axew}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Dragon
+|event1=Soothe Bell|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Dragon
+|HP=46
+|Attack=87
+|Defense=60
+|SpAtk=30
+|SpDef=40
+|Speed=57}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dragon
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=50
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon= 200
+|Dark=100
+|Fairy=200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Axew|Dragon|Dragon|5}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|4|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|7|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/level7|10|Dragon Rage|Dragon|Special|&mdash;|100|10}}
+{{learnlist/level7|13|Dual Chop|Dragon|Physical|40|90|15||'''}}
+{{learnlist/level7|16|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|20|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|24|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/level7|28|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/level7|32|Dragon Dance|Dragon|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|36|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|41|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level7|46|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|50|Guillotine|Normal|Physical|&mdash;|&mdash;|5}}
+{{learnlist/level7|56|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/level7|61|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/levelf/7|Axew|Dragon|Dragon|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Axew|Dragon|Dragon|5}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Axew|Dragon|Dragon|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Axew|Dragon|Dragon|5}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|111|Rhyhorn}}{{MSP|152|Chikorita}}{{MSP|559|Scraggy}}|Counter|Fighting|Physical|&mdash;|100|20|*}}
+{{learnlist/breed7|{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|181|Ampharos}}{{MSP|333|Swablu}}{{MSP|334|Altaria}}<br>{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}<br>{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}{{MSP|757|Salandit}}<br>{{MSP|776|Turtonator}}{{MSP|780|Drampa}}|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/breed7|{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|105A|Marowak}}{{MSP|252|Treecko}}{{MSP|258|Mudkip}}{{MSP|259|Marshtomp}}<br>{{MSP|260|Swampert}}{{MSP|409|Rampardos}}|Endeavor|Normal|Physical|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}{{MSP|776|Turtonator}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|034|Nidoking}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|116|Horsea}}<br>{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|371|Bagon}}{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|408|Cranidos}}<br>{{MSP|409|Rampardos}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Harden|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/breed7|{{MSP|254|Sceptile}}{{MSP|336|Seviper}}{{MSP|621|Druddigon}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|694|Helioptile}}{{MSP|695|Heliolisk}}|Razor Wind|Normal|Special|80|100|10}}
+{{learnlist/breed7|{{MSP|111|Rhyhorn}}|Reversal|Fighting|Physical|&mdash;|100|15|*}}
+{{learnlist/breedf/7|Axew|Dragon|Dragon|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Axew|Dragon|Dragon|5}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutorf/7|Axew|Dragon|Dragon|5}}
+
+====Special moves====
+{{learnlist/eventh/7|Axew|Dragon|Dragon|5}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|SM}}|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|USUM}}|Counter|Fighting|Physical|—|100|20}}
+{{learnlist/eventf/7|Axew|Dragon|Dragon|5}}
+
+===Side game data===
+{{Spindata/Head|type=Dragon}}
+{{Spindata/RumbleBlast|col=6|type=Dragon
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Dragon|ndex=610
+|pad=He is cheerful and energetic and wants to be strong like {{p|Fraxure}}. He is practicing Chase very hard to build up his physique first.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Dragon|ndex=610
+|HP=2
+|atk=3
+|def=2
+|spd=2
+|range=3
+|move=Dragon Rage
+|ability1=Mold Breaker
+|ability2=Instinct
+|ability3=Frighten
+|evo=Evolves into {{p|Fraxure}} when its Attack is 113 or higher
+|link={{DL|List of Pokémon Conquest characters|Kazumasu}}, {{DL|List of Pokémon Conquest characters|Motoharu}}, and {{DL|List of Pokémon Conquest characters|Tomonori}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Dragon|ndex=610
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Dragon|ndex=610|num=105
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Dragon Talon
+|skilldesc=Sometimes increases damage.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Dragon
+|no1=610
+|name1=Axew
+|type1-1=Dragon
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 38}}
+|no2=611
+|name2=Fraxure
+|type1-2=Dragon
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 48}}
+|no3=612
+|name3=Haxorus
+|type1-3=Dragon
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Dragon}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=610}}
+{{Spritebox/6|ndex=610}}
+{{Spritebox/7|ndex=610}}
+{{Spritebox/Footer|610|Axew}}
+
+==Trivia==
+* Axew was first seen on [[Media:BW anime.png|concept art]] from the {{series|Best Wishes}} along with {{p|Servine}}, {{p|Dewott}}, and {{p|Woobat}}.
+* Axew has the lowest {{stat|Special Attack}} base stat of all {{type|Dragon}} Pokémon.
+
+===Origin===
+Axew's tusks resemble that of ''{{wp|Scutosaurus}}'' or a {{wp|ceratopsia}}n. Its crest may be based on a {{wp|hadrosaurid}} (''{{wp|Saurolophus}}'', specifically), or perhaps a {{wp|Corytophanidae|Corytophanid}} such as the {{wp|brown basilisk}}.
+
+====Name origin====
+Axew may be a combination of ''axe'' and ''chew'' or ''hew'' (to chop a material with a tool).
+
+Kibago may be a combination of 牙 ''kiba'' (fang or tusk), 顎 ''ago'' (jaw), and ''dragon''.
+
+==In other languages==
+{{Other languages|type=Dragon|type2=Dragon
+|ja=キバゴ ''Kibago''|jameaning=From {{tt|牙 ''kiba''|tusk}}, {{tt|顎 ''ago''|jaw}}, and ''dragon''
+|fr=Coupenotte|frmeaning=From ''{{tt|couper|to cut}}'' and ''{{tt|quenotte|child's tooth}}''
+|es=Axew|esmeaning=Same as English name
+|de=Milza|demeaning=From ''{{tt|Milchzahn|milk tooth}}''
+|it=Axew|itmeaning=Same as English name
+|ko=터검니 ''Teogeomni''|komeaning=From {{tt|턱 ''teog''|jaw}} and {{tt|엄니 ''eomni''|tusk}}
+|bg=Аксю ''Aksyu''|bgmeaning=Transcription of English name
+|zh_cmn=牙牙 ''Yáyá''|zh_cmnmeaning={{tt|牙 ''yá''|tooth or ivory}} doubled
+|ru=Эксью ''Eks'yu''|rumeaning=Transcription of English name
+|sr=Aksju|srmeaning=From English name
+|vi=Kibago|vimeaning=From Japanese name
+}}
+{{left clear}}
+
+==Related articles==
+*[[Iris's Axew]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=609|prev=Chandelure|nextnum=611|next=Fraxure}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Mystery Dungeon starters|610]]
+
+[[de:Milza]]
+[[fr:Coupenotte]]
+[[it:Axew]]
+[[ja:キバゴ]]
+[[pl:Axew]]
+[[zh:牙牙]]

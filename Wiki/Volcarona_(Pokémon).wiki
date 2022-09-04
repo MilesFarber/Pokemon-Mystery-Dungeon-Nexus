@@ -1,0 +1,396 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=636|prev=Larvesta|nextnum=638|next=Cobalion}}
+|}
+{{Pokémon Infobox
+|name=Volcarona
+|jname=ウルガモス
+|jtranslit=Urugamosu
+|tmname=Ulgamoth
+|category=Sun
+|typebox=1
+|type1=Bug
+|type2=Fire
+|abilityn=d
+|ability1=Flame Body
+|abilityd=Swarm
+|ndex=637
+|udex=143
+|u2dex=172
+|height-ftin=5'03"
+|height-m=1.6
+|weight-lbs=101.4
+|weight-kg=46.0
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=40
+|expyield=248
+|lv100exp=1,250,000
+|gendercode=127
+|color=White
+|evtotal=3
+|evsa=3
+|catchrate=15
+|body=13
+|pokefordex=volcarona
+|generation=5
+|friendship=70
+}}
+'''Volcarona''' ([[List of Japanese Pokémon names|Japanese]]: '''ウルガモス''' ''Ulgamoth'') is a dual-type {{2t|Bug|Fire}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Larvesta}} starting at [[level]] 59.
+
+==Biology==
+Volcarona is a large, moth-like Pokémon with four small feet. It appears to have compound eyes that are two shades of blue, and there is a red horn-like structure on each side of its face. The fuzz on its upper body is smoky white and tangled. Its abdomen is black in the center and light blue with black dots on the outside. It has six leaf-like wings that are orange in color and have small black spots. Volcarona releases fiery scales from its wings to create a sea of fire. It is said that its fires can replace the sun when it is dark with ash, and it has been known to rescue freezing Pokémon. It can cloak itself with fire and dance to use its [[signature move]], {{m|Fiery Dance}}.
+
+==In the anime==
+===In the main series===
+[[File:Volcarona anime.png|thumb|220px|left|Volcarona in the {{pkmn|anime}}]]
+====Major appearances====
+Volcarona made its main series debut in ''[[BW078|Guarding the Guardian of the Mountain!]]'', in which a {{pkmn|poacher|Pokémon hunter}} named [[Rizzo]] attempted to capture it. {{Ash}}, {{ashfr}}, and [[Brycen]] tried to stop Rizzo from doing so. They had a battle, where Brycen defeated Rizzo's {{p|Jellicent}} with his {{p|Beartic}}, and then freed the Sun Pokémon.
+
+====Minor appearances====
+Volcarona debuted in ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]''.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW078|Volcarona|Ash's Pokédex|Volcarona, the Sun Pokémon and the evolved form of Larvesta. When ash from a volcanic eruption darkened the sky, it is said Volcarona's fire replaced the sun.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+[[File:Volcarona PG.png|thumb|200px|Volcarona in [[Pokémon Generations]]]]
+
+===In Pokémon Generations===
+A wild Volcarona appeared inside the [[Relic Castle]] in ''[[PG01|The Adventure]]''.
+{{-}}
+
+==In the manga==
+[[File:Ghetsis Volcarona Adventures.png|thumb|200px|Volcarona in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+[[Ghetsis]] owns a Volcarona that first appeared in ''[[PS523|The Power of Dreams]]''. Earlier in the {{chap|Black & White}}, it was being sought by [[Ryoku]].
+
+[[Benga]]'s Volcarona first appeared in [[PS541]].
+
+===In the Pokémon BW: The Heroes of Fire and Thunder manga===
+Volcarona is used by [[Alder]] to battle {{OBP|Shin|FAT}} for the ownership of the [[Dragon Stones|Light Stone]].
+
+==In the TCG==
+{{main|Volcarona (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=bug|type2=fire}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.}}
+{{Dex/Entry1|v=White|entry=A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Thought to be an embodiment of the sun, it appeared during a bitterly cold winter and saved Pokémon from freezing.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.}}
+{{Dex/Entry1|v=Y|entry=When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=When volcanic ash darkened the atmosphere, it is said that Volcarona's fire provided a replacement for the sun.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=As it flies, it scatters its flaming scales. It was feared by ancient people, who referred to it as "the rage of the sun."}}
+{{Dex/Entry1|v=Ultra Moon|entry=According to legends, it was hatched from a flaming cocoon to save people and Pokémon that were suffering from the cold.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=bug|type2=fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Relic Castle]] ([[List of in-game event Pokémon in Generation V#Volcarona|Only one]])}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Relic Castle]] ([[List of in-game event Pokémon in Generation V#Volcarona|Only one]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Larvesta}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Larvesta}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Lush Jungle]] ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Fire}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Larvesta}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Glacier Palace - Eastern Spire]] (1F-12F), [[Glacier Palace - Western Spire]] (1F-12F), [[Miragesands]] (1F-29F), [[Cape at the Edge]] (B1-B29)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#Guardians of the Flower Patch|Flower Garden: Guardians of the Flower Patch]] <small>(Reward)</small>,<br>[[Secret Warehouse#Walking a Thin Line|Secret Warehouse: Walking a Thin Line]], [[Challenge Battle#Open Entry Battle Royale|Challenge Battle: Open Entry Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 6|Dragon Hill: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Pedra Valley|Pedra Valley: Stage 206]]<br>[[Prasino Woods|Prasino Woods: Stage 599]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Everspring Valley|White Ruins: Everspring Valley]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 30|Area 30: Stage 10]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=bug|type2=fire}}
+{{eventAvail|{{gameabbrev5|BW}}|Korean Nationals 2012 Volcarona|Korean|South Korea|100|June 9 to 10, 2012|link=List of local Korean event Pokémon distributions in Generation V#Korean Nationals 2012 Volcarona}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Game Show Alder's Volcarona|Japanese|Japan|77|August 17 to 18, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Alder's Volcarona}}
+|}
+
+===Held items===
+{{HeldItems
+|type=bug|type2=fire
+|bw1=SilverPowder|bw1type=None|bw1rar=100
+|b2w21=SilverPowder|b2w21type=None|b2w21rar=100
+|usum1=SilverPowder|usum1type=None|usum1rar=100
+|event1=Focus Sash|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|type2=Fire
+|HP=85
+|Attack=60
+|Defense=65
+|SpAtk=135
+|SpDef=105
+|Speed=100}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Fire
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=100
+|Rock=400
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=200
+|Grass=25
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=50
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Volcarona|Bug|Fire|5}}
+{{learnlist/level7|1|Quiver Dance|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Fiery Dance|Fire|Special|80|100|10||'''}}
+{{learnlist/level7|1|Hurricane|Flying|Special|110|70|10}}
+{{learnlist/level7|1|Rage Powder|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/level7|1|Flare Blitz|Fire|Physical|120|100|15||'''}}
+{{learnlist/level7|1|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|1|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level7|1|Flame Wheel|Fire|Physical|60|100|25||'''}}
+{{learnlist/level7|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level7|1|String Shot|Bug|Status|&mdash;|95|40}}
+{{learnlist/level7|1|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level7|1|Gust|Flying|Special|40|100|35}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Quiver Dance|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|10|Absorb|Grass|Special|20|100|25}}
+{{learnlist/level7|20|Gust|Flying|Special|40|100|35}}
+{{learnlist/level7|30|Fire Spin|Fire|Special|35|85|15||'''}}
+{{learnlist/level7|40|Whirlwind|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|50|Silver Wind|Bug|Special|60|100|5||'''}}
+{{learnlist/level7|60|Heat Wave|Fire|Special|95|90|10||'''}}
+{{learnlist/level7|70|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level7|80|Rage Powder|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|90|Hurricane|Flying|Special|110|70|10}}
+{{learnlist/level7|100|Fiery Dance|Fire|Special|80|100|10||'''}}
+{{learnlist/levelf/7|Volcarona|Bug|Fire|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Volcarona|Bug|Fire|5}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM28|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Volcarona|Bug|Fire|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Volcarona|Bug|Fire|5}}
+{{learnlist/breed7|{{MSP|214|Heracross}}{{MSP|540|Sewaddle}}{{MSP|588|Karrablast}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|048|Venonat}}{{MSP|049|Venomoth}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|011|Metapod}}{{MSP|014|Kakuna}}{{MSP|127|Pinsir}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|266|Silcoon}}<br>{{MSP|268|Cascoon}}{{MSP|290|Nincada}}{{MSP|291|Ninjask}}{{MSP|665|Spewpa}}|Harden|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|205|Forretress}}|Magnet Rise|Electric|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|267|Beautifly}}|Morning Sun|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|010|Caterpie}}{{MSP|013|Weedle}}{{MSP|167|Spinarak}}{{MSP|168|Ariados}}{{MSP|265|Wurmple}}{{MSP|540|Sewaddle}}<br>
+{{MSP|541|Swadloon}}{{MSP|542|Leavanny}}{{MSP|595|Joltik}}{{MSP|596|Galvantula}}{{MSP|636|Larvesta}}{{MSP|637|Volcarona}}<br>{{MSP|664|Scatterbug}}{{MSP|736|Grubbin}}{{MSP|737|Charjabug}}{{MSP|738|Vikavolt}}|String Shot|Bug|Status|&mdash;|95|40}}
+{{learnlist/breed7|{{MSP|048|Venonat}}{{MSP|049|Venomoth}}{{MSP|313|Volbeat}}|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/breedf/7|Volcarona|Bug|Fire|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Volcarona|Bug|Fire|5}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Volcarona|Bug|Fire|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Volcarona|Bug|Fire|5}}
+{{learnlist/prevo7|636|Larvesta|||||Take Down|Normal|Physical|90|85|20}}
+{{learnlist/prevo7|636|Larvesta|||||Bug Bite|Bug|Physical|60|100|20|'''|{{sup/7|SM}}}}
+{{learnlist/prevo7|636|Larvesta|||||Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/prevof/7|Volcarona|Bug|Fire|5}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Fire}}
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=5
+|def=3
+|speed=4
+}}
+|-
+{{Spindata/Conquest|col=6|type=Bug|ndex=637
+|HP=4
+|atk=5
+|spd=4
+|def=3
+|range=3
+|move=Fiery Dance
+|ability1=Flame Body
+|ability2=Frighten
+|ability3=Sponge
+|evo=Evolves from {{p|Larvesta}} when its Attack is 131 or higher
+|link={{DL|List of Pokémon Conquest characters|Hidenaga}}, {{DL|List of Pokémon Conquest characters|Masayuki}}, '''[[Okuni]]''', and {{DL|List of Pokémon Conquest characters|Sessai}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=637
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=637|num=184
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Barrier Shot
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Bug
+|type2=Fire
+|no1=636
+|name1=Larvesta
+|type1-1=Bug
+|type2-1=Fire
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 59}}
+|no2=637
+|name2=Volcarona
+|type1-2=Bug
+|type2-2=Fire
+}}
+
+===Sprites===
+{{Spritebox/Header|type=bug|type2=fire}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=637}}
+{{Spritebox/6|ndex=637}}
+{{Spritebox/7|ndex=637}}
+{{Spritebox/Footer|637|Volcarona}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Volcarona and its {{p|Larvesta|pre-evolution}}.
+** Volcarona and its pre-evolution are also the only Pokémon with a double weakness to the {{type|Rock}} that are not {{type|Flying}}s.
+*** This makes them the Pokémon most vulnerable to [[List of moves that cause entry hazards|entry hazard]]s, taking maximum damage from {{m|Stealth Rock}} while also being affected by {{m|Spikes}}, {{m|Toxic Spikes}}, and {{m|Sticky Web}}.
+* Larvesta takes the longest to go through a single stage of evolution of all Pokémon, evolving at level 59.
+* Volcarona shares its {{pkmn|category}} with {{p|Espeon}} and {{p|Sunflora}}. They are all known as the Sun Pokémon.
+* Volcarona is the only Pokémon with a base stat total of 550.
+* Volcarona and its pre-evolution are the only Pokémon that are neither {{pkmn2|Legendary}} nor {{pkmn2|Mythical}} that learn a move upon reaching level 100.
+
+===Origin===
+Volcarona is based on a moth, particularly the {{wp|Attacus atlas|Atlas moth}} or {{wp|Hyalophora cecropia|cecropia moth}}. Conceptually, it seems to be derived from the phrase "like a moth to a flame", which refers to the observed positive {{wp|phototaxis}} demonstrated by moths. It may be based on a {{wp|solar deity}}. Its wings may be based on the petals of a {{wp|Lilium lancifolium|tiger lily}}, having the same number of extensions, black spots, and red-orange coloring. The black spots on its wings may also represent the {{wp|sunspot|dark spots on the sun}}. The head and antennae of Volcarona bear a resemblance to the headpiece of {{wp|Hathor}}, which depicts the horns of the goddess cradling a disk representing the sun in between. Volcarona's appearance may also be loosely based on a {{wp|seraph}}, a type of angel that is often associated with fire, as its name literally translates to "burning one". Like Volcarona, seraphim are often depicted with six red wings and no legs.
+
+====Name origin====
+Volcarona is a combination of ''volcano'' and ''{{wp|corona}}'', referring to its {{t|Fire}} type and status as the Sun Pokémon. It may also refer to ''{{wp|Vulcan (mythology)|Vulcan}}'', the {{wp|Religion in ancient Rome|Roman god}} of fire.
+
+Ulgamoth is a combination of ウルカヌス ''Urukanusu'' ({{wp|Vulcan (mythology)|Vulcan}}), 蛾 ''ga'' (moth), and ''moth''.
+
+==In other languages==
+{{Other languages|type=bug|type2=fire
+|ja=ウルガモス ''Ulgamoth''|jameaning=From {{tt|ウルカヌス ''Urukanusu''|Vulcan}}, {{tt|蛾 ''ga''|moth}} and the English word ''moth''
+|fr=Pyrax|frmeaning=From ''{{tt|Pyro|latin for fire}}'' and ''{{wp|Ra}}''
+|es=Volcarona|esmeaning=Same as English name
+|de=Ramoth|demeaning=From ''Ra'' and ''moth''. Might also be an allusion to ''{{wp|Mothra}}''
+|it=Volcarona|itmeaning=Same as English name
+|ko=불카모스 ''Bulkamos''|komeaning=From {{tt|불카누스 ''bulkaneuseu''|Vulcan}} and ''moth''. 불 also means "fire"
+|zh_cmn=火神蟲 / 火神虫 ''Huǒshénchóng''|zh_cmnmeaning=From {{tt|火神 ''huǒshén''|Fire god, a reference to Vulcan}} and {{tt|蟲 ''chóng''|bug}}
+|ru=Волкарона ''Volkarona''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Notes==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Fire}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=636|prev=Larvesta|nextnum=638|next=Cobalion}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[de:Ramoth]]
+[[fr:Pyrax]]
+[[it:Volcarona]]
+[[ja:ウルガモス]]
+[[pl:Volcarona]]
+[[zh:火神蛾]]

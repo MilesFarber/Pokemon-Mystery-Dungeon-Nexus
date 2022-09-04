@@ -1,0 +1,576 @@
+{{PokémonPrevNext/Head|type=Water|type2=Ground}}
+{{PokémonPrevNext/GO|species=Quagsire}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=194|prev=Wooper|nextnum=196|next=Espeon|round=none}}
+{{PokémonPrevNext/Disambig|species=Quagsire}}
+|}
+{{Pokémon Infobox
+|name=Quagsire
+|jname=ヌオー
+|jtranslit=Nuō
+|tmname=Nuoh
+|category=Water Fish
+|ndex=195
+|jdex=057
+|sdex=118
+|karea=Mountain
+|kdex=019
+|obrow=152
+|opbrow=127
+|typebox=1
+|type1=Water
+|type2=Ground
+|height-ftin=4'07"
+|height-m=1.4
+|weight-lbs=165.3
+|weight-kg=75.0
+|abilityn=d
+|ability1=Damp
+|ability2=Water Absorb
+|abilityd=Unaware
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Field
+|eggcycles=20
+|evtotal=2
+|evhp=2
+|expyield=151
+|oldexp=137
+|lv100exp=1,000,000
+|gendercode=127
+|color=Blue
+|catchrate=90
+|body=06
+|pokefordex=quagsire
+|generation=2
+|friendship=70
+}}
+'''Quagsire''' ([[List of Japanese Pokémon names|Japanese]]: '''ヌオー''' ''Nuoh'') is a dual-type {{2t|Water|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Wooper}} starting at [[level]] 20.
+
+==Biology==
+Quagsire is a light blue, bipedal, amphibious Pokémon. Its head is broad and round, having little neck to distinguish it from the rest of Quagsire's body. It has a wide mouth and tiny, black eyes. A wavy, purple stripe runs down its back. Along its spine is a dark blue fin, which is larger on the male than on the female. Quagsire's hands and feet both have three digits. Its outer layer of skin is slimy and slippery.
+
+Quagsire is carefree and sluggish by nature. An unintelligent Pokémon, it tends to bump its head inadvertently while swimming and seems not to care. It hunts for food by leaving its mouth wide open in water and waiting for its unaware prey to blunder in. Because Quagsire does not move, it does not get very hungry and can afford to wait for its food. Quagsire lives in clean bodies of {{DL|List of Pokémon by habitat|Water's-edge Pokémon|freshwater and muddy swamps}}.
+
+[[EP127|In the anime]], wild Quagsire are shown to have an annual celebration at [[Blue Moon Falls]] when the moon is full. There they attempt to shoot round objects they have collected to the top of a waterfall with their attacks to see who can launch their objects the highest, with the apparent target being the moon.
+
+==In the anime==
+[[File:Aether Paradise Quagsire.png|thumb|left|220px|Quagsire in the {{pkmn|anime}}]]
+===Major appearances===
+Quagsire debuted in ''[[EP127|Once in a Blue Moon]]'', where it stole the [[GS Ball]] from {{Ash}} for a festival.
+
+A Quagsire appeared in ''[[AG096|Training Wrecks]]'', under the ownership of [[Rocky]]. It was used in his battle against Ash. Quagsire battled {{AP|Pikachu}} and {{AP|Grovyle}}, alongside a {{p|Walrein}}. Before Pikachu could hit Walrein with its {{t|Electric}} Attacks, Quagsire would protect Walrein from being shocked, due to its immunity to electricity, while Walrein's {{m|Ice Ball}} hit Grovyle and Pikachu hard. However, after the Ice Ball went slower every turn, Pikachu and Grovyle defeated Walrein and Quagsire.
+
+A Quagsire appeared in ''[[DP007|Like It Or Lup It!]]''.
+
+[[Crasher Wake]] owns a Quagsire, which appeared in ''[[DP083|A Crasher Course in Power!]]''. It was used in the Gym battle against Ash, where it battled {{AP|Turtwig}} before losing to {{AP|Buizel}}.
+
+Multiple Quagsire appeared in ''[[DP139|A Faux Oak Finish!]]''.
+
+Multiple Quagsire appeared in ''[[XY069|Defending the Homeland!]]'' and ''[[XY070|Beyond the Rainbow!]]'' as Pokémon that lived in the wetlands that [[Ash's Goodra]] was from. One reappeared in ''[[XY112|Master Class is in Session!]]'' and ''[[XY113|Performing a Pathway to the Future!]]'' to watch {{an|Serena}}'s performance along with the rest of the wetland Pokémon. They appeared once again in ''[[XY123|A Diamond in the Rough!]]'' and ''[[XY139|Facing the Needs of the Many!]]'', when Ash and {{ashfr}} returned to the wetlands. Three of them appeared again in ''[[XY140|Till We Compete Again!]]''.
+
+===Minor appearances===
+A Quagsire was one of the Pokémon seen at the Pokémon Swap Meet in ''[[EP146|Tricks of the Trade]]''.
+
+Five Quagsire appeared in ''[[EP147|The Fire-ing Squad!]]'', where they were among the Pokémon competing in the [[Fire and Rescue Grand Prix]].
+
+A female Quagsire appeared in ''[[EP153|Love, Totodile Style]]'', where [[Ash's Totodile]] fell in love with her at the end of the episode.
+
+{{OBP|Lisa|M03}} had a Quagsire in ''[[M03|Spell of the Unown: Entei]]'', and used it to battle {{Ash}} against his {{AP|Pikachu}}. After Pikachu landed on the head of Lisa's Quagsire headfirst, both Pokémon fainted.
+
+A Quagsire appeared in ''[[EP192|The Wayward Wobbuffet]]'', where it was swimming in a river when it encountered [[Jessie's Wobbuffet]], which got lost, and gave it directions.
+
+A Quagsire appeared in ''[[EP194|Ring Masters]]'' as one of the Pokémon competing in the Pokémon Sumo Wrestling.
+
+A Quagsire appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+Three Quagsire were among the inhabitants of an oasis just for Pokémon in ''[[EP207|Got Miltank?]]''.
+
+A Quagsire appeared in ''[[EP216|Dueling Heroes]]''.
+
+A Quagsire appeared in ''[[EP225|Bulbasaur... the Ambassador!]]'' as one of the feuding Pokémon at [[Professor Oak's Laboratory]].
+
+A Quagsire was seen at a [[Pokémon Center]] in ''[[The Legend of Thunder!]]''.
+
+Multiple Quagsire appeared in ''[[M05|Pokémon Heroes: Latios & Latias]]'', with one of them being used by a competitor in the [[Tour de Alto Mare]].
+
+A Quagsire was seen training alongside its Trainer in ''[[EP262|You're a Star, Larvitar!]]''.
+
+A Quagsire appeared in ''[[EP268|Tie One On]]'', where [[Vincent|Jackson]] used it in his battle against [[Macy]].
+
+A Quagsire appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Quagsire appeared in ''[[DP149|Sticking With Who You Know!]]'', under the ownership of [[Professor Kodama]].
+
+Several {{p|Wooper}} and a Quagsire appeared in ''[[M10|The Rise of Darkrai]]''.
+
+A Quagsire appeared in ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Quagsire appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+Five Quagsire appeared in ''[[SM046|Deceiving Appearances!]]''. One of them reappeared in a video in ''[[SM049|A Masked Warning!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP127|Quagsire|Ash's Pokédex|Quagsire, the Water Fish Pokémon. The Quagsire makes its home in clean freshwater lakes. The Quagsire is covered by a slippery layer of skin, making this Pokémon especially difficult to handle.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP083|Quagsire|Dawn's Pokédex|Quagsire, the Water Fish Pokémon and the evolved form of {{p|Wooper}}. Known as quite dim-witted, it doesn't care when it crashes its head against rocks or the bottoms of boats.}}
+{{Animedexbody|DP139|Quagsire|Ash's Pokédex|Quagsire, the Water Fish Pokémon. Quagsire has an easy-going nature and doesn't care if it bumps its head on boats and boulders while swimming.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Wake Quagsire Adventures.png|thumb|120px|Quagsire in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Quagsire first appeared in ''[[PS121|Off Course with Corsola]]'' where it is seen as one of the Pokémon {{adv|Crystal}} captured and sent to {{adv|Professor Oak}} via the Portable Transfer System. She remarked that she found it on {{rt|32|Johto}} and was "a tad stronger than I expected."
+
+A wild Quagsire was seen swimming along [[Lt. Surge]]'s submarine in the "secret tunnel" in [[Union Cave]] in ''Off Course with Corsola''.
+
+A Quagsire was one of the Pokémon sent to help the fight in [[Ilex Forest]] in ''[[PS179|The Last Battle XIII]]''.
+
+In ''[[PS364|A Skuffle with Skorupi]]'', [[Crasher Wake]] is seen in possession of a Quagsire, and uses it to defeat [[Platinum's Empoleon]] before falling to a {{m|Giga Drain}} from {{adv|Diamond}}'s {{p|Torterra}}, [[Tru]] (which Platinum borrowed after she was unable to catch a single grass Pokémon in the [[Great Marsh]]). This won {{adv|Platinum}} the match.
+
+In ''[[PS442|Out-Odding Oddish]]'', a Quagsire appeared in the [[Pokéathlon]].
+
+A Quagsire appeared in a flashback as a Pokémon trained by the [[International Police]] in ''[[PS528|Innocent Scientist]]''.
+
+A Quagsire appeared in ''[[PAXY30|Pinsir Changes]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+[[Crasher Wake]] is seen in possession of a Quagsire in ''[[DPA22|Bonds Connect Across Space-Time...]]''.
+
+==In the TCG==
+{{main|Quagsire (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Gates to Infinity}}: Quagsire appears as the landlord of [[Pokémon Paradise|Paradise]] as well as an important character in the storyline. The player's partner buys land from him at the beginning of the game that would become the headquarters for the player's exploration team. He also runs an area similar to the [[Chimecho Assembly]] from the previous games. Like some members of [[Wigglytuff's Guild]], he has a catchphrase, which is "hmm". He is also responsible for dealing with captured outlaws, much like {{p|Magnezone}} before him. He is known to be a hard taskmaster to these Pokémon. Quagsire reappears in {{g|Super Mystery Dungeon}} where he is now a resident of [[Lively Town]].
+
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Ground}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.}}
+{{Dex/Entry1|v=Silver|entry=Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.}}
+{{Dex/Entry1|v=Crystal|entry=Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Quagsire hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn't move, it does not get very hungry.}}
+{{Dex/Entry1|v=FireRed|entry=Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.}}
+{{Dex/Entry1|v=LeafGreen|entry=This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It has a sluggish nature. It lies at the river's bottom, waiting for prey to stray into its mouth.}}
+{{Dex/Entry1|v=Pearl|entry=A dim-witted Pokémon. It doesn't care if it bumps its head into boats or rocks while swimming.}}
+{{Dex/Entry1|v=Platinum|entry=It has an easygoing nature. It doesn't care if it bumps its head on boats and rocks while swimming.}}
+{{Dex/Entry1|v=HeartGold|entry=This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.}}
+{{Dex/Entry1|v=SoulSilver|entry=Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It has an easygoing nature. It doesn't care if it bumps its head on boats and rocks while swimming.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It has a sluggish nature. It lies at the river's bottom, waiting for prey to stray into its mouth.}}
+{{Dex/Entry1|v=Y|entry=This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Ground}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Gold|area=[[Route]]s {{rtn|10|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|26|Kanto}}, and {{rtn|27|Kanto}} (tall grass){{sup/t|D}}{{sup/t|N}}<br/>[[Mt. Silver]] (2F and chambers)<br/>[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, and {{rtn|32|Johto}}, [[Ruins of Alph]], [[Union Cave]] ({{m|Surf}}ing)}}
+{{Availability/Entry1|1|v=Silver|area=[[Route]]s {{rtn|10|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, and {{rtn|15|Kanto}} (tall grass){{sup/t|D}}{{sup/t|N}}<br/>[[Route]]s {{rtn|26|Kanto}} and {{rtn|27|Kanto}} (tall grass){{sup/t|D}}<br/>[[Mt. Silver]] (2F and chambers)<br/>[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, and {{rtn|32|Johto}}, [[Ruins of Alph]], [[Union Cave]] ({{m|Surf}}ing)}}
+{{Availability/Entry1|1|v=Crystal|area=[[Route]]s {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|26|Kanto}}, and {{rtn|27|Kanto}}, [[Ruins of Alph]] (tall grass){{sup/t|N}}<br/>[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, and {{rtn|32|Johto}}, [[Ruins of Alph]], [[Union Cave]] ({{m|Surf}}ing)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{safari|Hoenn}} extension ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=FireRed|area=[[Evolution|Evolve]] {{p|Wooper}}}}
+{{Availability/Entry1/None|v=LeafGreen}}
+{{Availability/Entry1|v=Colosseum|area=[[Pyrite Town]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Wooper}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|212|Sinnoh}} and [[Great Marsh]] ({{m|Surf}}ing)<br/>[[Great Marsh]] (tall grass)}}
+{{Availability/Entry1|v=Platinum|area=[[Great Marsh]] ({{m|Surf}}ing)<br/>[[Great Marsh]] and {{rt|212|Sinnoh}} (tall grass)}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Cliff Cave]]{{Sup/t|M}}{{Sup/t|D}}<br/>[[Route]]s {{rtn|10|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|26|Kanto}}, and {{rtn|27|Kanto}}, [[Johto Safari Zone|Safari Zone]]{{sup/t|N}}<br/>[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, and {{rtn|32|Johto}}, [[Ruins of Alph]], [[Union Cave]], [[Cliff Edge Gate]] ({{m|Surf}}ing), [[Johto Safari Zone|Safari Zone]] ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Wooper}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|8|Unova}} ([[Pokémon outbreak|Swarm]]){{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Route]]s {{rtn|14|Kalos}} and {{rtn|19|Kalos}}, [[Friend Safari]] ([[Friend Safari#Water-type Safari|Water]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Space Wilds]] ({{DL|Ultra Space Wilds|Water World}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Ground}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 5, Endless Level 11, Forever Level 54, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Wooper}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=[[Evolution|Evolve]] {{p|Wooper}}}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Iceberg Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Old Mansion]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Sun-Dappled Bank]] (post-ending)}}
+{{Availability/Entry1|1|v=Conquest|color={{Silver color}}|area=[[Fontaine]], [[Terrera]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{Silver color}}|area=[[Silent Tundra]] (Golden Chamber), [[Dreamy Island]] (1F-25F), [[Moonlit Forest]] (Golden Chamber), [[Cape at the Edge]] (B1-B29), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Make a Big Splash!|Frenzy Square: Make a Big Splash!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 3|Safari Jungle: Stage 3]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Soothing Shore|Black Realm: Soothing Shore]] <small>(All Areas, Entrance Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 12|Area 12: Stage 04]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|type2=Ground
+|HP=95
+|Attack=85
+|Defense=85
+|SpAtk=65
+|SpDef=65
+|Speed=35}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Ground
+|Speed=1
+|SpeedMax=2
+|Power=3
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=5
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Ground
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=50
+|Ground=100
+|Rock=50
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=100
+|Grass=400
+|Electric=0
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|waterabsorb=maybe
+|ground=yes
+|newelectric=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Quagsire|Water|Ground|2}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|5|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|9|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/level7|15|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level7|19|Mud Bomb|Ground|Special|65|85|10||'''}}
+{{learnlist/level7|24|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|31|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|36|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|41|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|48|Mist|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|48|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|53|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/levelf/7|Quagsire|Water|Ground|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Quagsire|Water|Ground|2}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Quagsire|Water|Ground|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Quagsire|Water|Ground|2}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}|Acid Spray|Poison|Special|40|100|20}}
+{{learnlist/breed7|{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|572|Minccino}}{{MSP|765|Oranguru}}|After You|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|206|Dunsparce}}{{MSP|221|Piloswine}}<br>{{MSP|222|Corsola}}{{MSP|352|Kecleon}}{{MSP|369|Relicanth}}{{MSP|473|Mamoswine}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed7|{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|131|Lapras}}{{MSP|206|Dunsparce}}{{MSP|324|Torkoal}}{{MSP|363|Spheal}}<br>{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|422|Shellos}}{{MSP|422E|Shellos}}{{MSP|423|Gastrodon}}{{MSP|423E|Gastrodon}}<br>{{MSP|432|Purugly}}{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}{{MSP|771|Pyukumuku}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}<br>{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|771|Pyukumuku}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|034|Nidoking}}{{MSP|135|Jolteon}}{{MSP|256|Combusken}}{{MSP|257|Blaziken}}<br>{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|725|Litten}}{{MSP|726|Torracat}}<br>{{MSP|727|Incineroar}}{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed7|{{MSP|179|Mareep}}|Eerie Impulse|Electric|Status|&mdash;|100|15|*}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|363|Spheal}}<br>{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|572|Minccino}}<br>{{MSP|587|Emolga}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|197|Umbreon}}{{MSP|203|Girafarig}}|Guard Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|258|Mudkip}}<br>{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}{{MSP|369|Relicanth}}{{MSP|422|Shellos}}{{MSP|422E|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|423E|Gastrodon}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}{{MSP|618|Stunfisk}}{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}<br>{{MSP|771|Pyukumuku}}|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|448|Lucario}}|Power-Up Punch|Fighting|Physical|40|100|20|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|222|Corsola}}{{MSP|350|Milotic}}{{MSP|422|Shellos}}{{MSP|422E|Shellos}}{{MSP|423|Gastrodon}}{{MSP|423E|Gastrodon}}<br>{{MSP|747|Mareanie}}{{MSP|748|Toxapex}}{{MSP|771|Pyukumuku}}|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|279|Pelipper}}{{MSP|303|Mawile}}{{MSP|631|Heatmor}}{{MSP|775|Komala}}|Spit Up|Normal|Special|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|279|Pelipper}}{{MSP|303|Mawile}}{{MSP|631|Heatmor}}{{MSP|775|Komala}}|Stockpile|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|279|Pelipper}}{{MSP|303|Mawile}}{{MSP|631|Heatmor}}{{MSP|775|Komala}}|Swallow|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Quagsire|Water|Ground|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Quagsire|Water|Ground|2}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Quagsire|Water|Ground|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Quagsire|Water|Ground|2}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Quagsire|Water|Ground|2}}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{water color light}}; border: 3px solid #{{ground color}}"
+|-
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Hydro Pump}}
+| style="background:#fff" | {{typecolor|Water}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[XY123|A Diamond in the Rough!]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Ground}}
+{{Spindata/Trozei|col=6|type=Water|ndex=195|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=195
+|body=1
+|rate=Evolve
+|area=Peanut Swamp
+|P1=I'll be careful not to bonk my head while fighting.
+|P2=Hmmm... Is my HP down by about half?
+|P3=I'm out of it... I'm about to topple over...
+|PL=Leveled up, yay! Will it help me avoid bonking my head?
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=195
+|body=1
+|rate=0.5
+|IQ=G
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=3
+|browser=It attacks by spitting bubbles that make Pokémon Slowed.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Water|ndex=195
+|Pad=Quagsire often play in the [[Iceberg Zone]], on the other side of the Chairlift. Their favorite Attraction, {{DL|Attractions|Empoleon's Snow Slide}}, can be found nearby.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Water|ndex=195
+|HP=4
+|atk=3
+|def=3
+|spd=1
+|range=3
+|move=Mud Bomb
+|ability1=Shackle
+|ability2=Deep Sleep
+|ability3=Water Absorb
+|evo=Evolves from {{p|Wooper}} when its HP is 94 or higher
+|link={{DL|List of Pokémon Conquest characters|Chikamasa}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=195
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=195|stype=Ground|num=789
+|min=60
+|max=80
+|raisemaxlevel=0
+|skill=Ground Forces
+|skilldesc=Increases damage done by Ground types in the combo.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=195
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=190
+|attack=152
+|defense=152
+|fast={{m|Water Gun}}, {{m|Mud Shot}}
+|special={{m|Sludge Bomb}}, {{m|Earthquake}}, {{m|Stone Edge}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type=Water
+|type2=Ground
+|pictype=art
+|no1=194
+|name1=Wooper
+|type1-1=Water
+|type2-1=Ground
+|evotype1=Level
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 20}}
+|no2=195
+|name2=Quagsire
+|type1-2=Water
+|type2-2=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Ground}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=195}}
+{{Spritebox/3|ndex=195}}
+{{Spritebox/4/Gender|ndex=195}}
+{{Spritebox/5/Gender|ndex=195}}
+{{Spritebox/6/Gender|ndex=195}}
+{{Spritebox/7/Gender|ndex=195}}
+{{Spritebox/Footer|195|Quagsire}}
+
+==Trivia==
+===Origin===
+Quagsire appears to be based on a {{wp|giant salamander}}.
+
+====Name origin====
+Quagsire is a combination of ''{{wp|Mire|quagmire}}'' and the honorific ''sire'' or ''{{wp|Siren (genus)|Siren}}'' (a genus of salamander).
+
+Nuoh may be a combination of 沼 ''numa'' (swamp, marsh, pond, or lake) and 王 ''ō'' (king) or オオサンショウウオ ''ōsanshōuo'' ({{wp|Japanese giant salamander}}).
+
+==In other languages==
+{{Other languages|type=Water|type2=Ground
+|ja=ヌオー ''Nuoh''|jameaning=From {{tt|沼 ''numa''|swamp, marsh, pond, or lake}}, {{tt|王 ''ō''|king}}, and {{tt|大山椒魚 ''ōsanshōuo''|Japanese giant salamander}}
+|fr=Maraiste|frmeaning=From ''{{tt|marais|swamp}}'' and ''{{tt|reste|stay}}''
+|es=Quagsire|esmeaning=Same as English name
+|de=Morlord|demeaning=From ''{{tt|Moor|bog}}'' and ''Lord''
+|it=Quagsire|itmeaning=Same as English name
+|ko=누오 ''Nuo''|komeaning=Transliteration of its Japanese name
+|zh_cmn=沼王 ''Zhǎowáng''|zh_cmnmeaning=From {{tt|沼 ''zhǎo''|swamp, marsh, pond, or lake}} and {{tt|王 ''wáng''|king}}
+|hi=क्वांगसायर ''Quagsire''|himeaning=Transcription of English name
+|ru=Квагсайр ''Kvagsayr''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Quagsire (Gates to Infinity)]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Water|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=194|prev=Wooper|nextnum=196|next=Espeon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+[[Category:Pokémon that run from battle]]
+
+[[de:Morlord]]
+[[fr:Maraiste]]
+[[it:Quagsire]]
+[[ja:ヌオー]]
+[[pl:Quagsire]]
+[[zh:沼王]]

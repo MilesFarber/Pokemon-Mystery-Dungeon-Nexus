@@ -1,0 +1,779 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Exeggutor}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=102|prev=Exeggcute|nextnum=104|next=Cubone|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Exeggutor
+|jname=ナッシー
+|jtranslit=Nasshī
+|tmname=Nassy
+|forme=2
+|form1=Exeggutor
+|form2=Alolan Exeggutor
+|image2=103Exeggutor-Alola.png
+|ndex=103
+|oldjdex=105
+|jdex=106
+|karea=Coastal
+|kdex=137
+|adex=270
+|type1=Grass
+|type2=Psychic
+|form2type1=Grass
+|form2type2=Dragon
+|category=Coconut
+|height-ftin=6'07"
+|height-m=2.0
+|height-ftin2=35'09"
+|height-m2=10.9
+|weight-lbs=264.6
+|weight-kg=120.0
+|weight-lbs2=916.2
+|weight-kg2=415.6
+|abilityn=2d
+|abilitylayout=2+1
+|abilitycold=2
+|ability1=Chlorophyll
+|ability2-1=Frisk
+|abilityd=Harvest
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=186<!--182 in Gen V-VI-->
+|oldexp=212
+|lv100exp=1,250,000
+|gendercode=127
+|color=Yellow
+|catchrate=45
+|body=07
+|pokefordex=exeggutor
+|generation=1
+|friendship=70
+}}
+'''Exeggutor''' ([[List of Japanese Pokémon names|Japanese]]: '''ナッシー''' ''Nassy'') is a dual-type {{2t|Grass|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Exeggcute}} when exposed to a [[Leaf Stone]].
+
+In [[Alola]], Exeggutor has a [[regional variant]] that is {{2t|Grass|Dragon}}. It evolves from {{p|Exeggcute}} when exposed to a Leaf Stone. All Exeggcute in Alola evolve into this form regardless of their origin.
+
+==Biology==
+Exeggutor is a tall, bipedal Pokémon that strongly resembles a coconut palm or other palm tree. Its legs and body resemble a tree trunk, and its legs are thick with two-toed feet and a light yellow paw pad on each foot's underside. It has leaves sprouting from the top of its body, and Exeggutor has three to six round, light yellow heads that resemble coconuts, each with differing facial expressions. Each head thinks independently of the others, so it makes a lot of noise as each head speaks its mind. If one of these heads grows too large, it falls off and groups back together to become an {{p|Exeggcute}}. [[EP043|In the anime]], Exeggutor also has been seen in groups of its own kind, meaning that it is not a solitary Pokémon. It lives in {{DL|List of Pokémon by habitat|Forest Pokémon|forests and jungles}}.
+
+Due to the abundance of sunlight in the Alola region, Exeggutor grows over five times taller than in other regions. Its neck is thinner and much longer, causing it to resemble a {{wp|arecaceae|palm tree}}. This variant of Exeggutor has a long, tapering tail with two leaves and a fourth head on the tip. This extra head can act on its own and defend the rear. Its long neck can be used like a whip to attack enemies with its hard head. However, its neck can also be a weak point. The people of Alola claim that Alolan Exeggutor is this Pokémon's true form.<ref>[http://www.pokemon-sunmoon.com/en-us/pokemon/alolan-exeggutor/ Pokémon Sun and Moon]</ref>
+
+Exeggutor and its pre-evolved form are the [[Signature move|only known Pokémon]] that can learn {{m|Barrage}}. Alolan Exeggutor is also the only known Pokémon that can learn {{m|Dragon Hammer}}.
+
+==In the anime==
+===In the main series===
+====Major appearances====
+[[File:Exeggutor anime.png|thumb|left|250px|Exeggutor and Alolan Exeggutor in the {{pkmn|anime}}]]
+{{Ash}} was hypnotized by [[Melvin]]'s Exeggcute in ''[[EP043|The March of the Exeggutor Squad]]'', and was forced to capture several Exeggutor for Melvin. Unfortunately, all of the Exeggutor used {{m|Hypnosis}} on each other and they went on a rampage.
+
+Ash battled an Exeggutor in his first battle in the [[Indigo Plateau Conference]] in ''[[EP075|Round One - Begin!]]''. Despite the type disadvantage and the lack of experience, {{AP|Krabby}} defeated [[Mandi]]'s Exeggutor, evolving into Kingler in the process. It reappeared in a flashback in [[EP076|the following episode]] and in another flashback in ''[[EP080|Friends to the End]]''.
+
+An Exeggutor appeared in ''[[PK04|Pikachu's Rescue Adventure]]'' after evolving from Exeggcute.
+
+In ''[[EP103|Misty Meets Her Match]]'', [[Rudy]] used an Exeggutor in his match against Ash where it was used against {{AP|Bulbasaur}}. Bulbasaur managed to defeat it, but it also saved the Coconut Tree Pokémon from falling down a cliff.
+
+Eight Exeggutor were among the inhabitants of an oasis just for Pokémon in ''[[EP207|Got Miltank?]]''. They were the ones responsible for keeping the humans away by {{m|Hypnosis|hypnotizing}} them.
+
+An Exeggutor appeared in ''[[AG154|Reversing the Charges]]'' battling an {{p|Elekid}}.
+
+An [[Regional variant|Alolan]] Exeggutor appeared in ''[[SM002|The Guardian's Challenge!]]'' at the [[Pokémon School]] during [[Samson Oak]]'s lesson about [[regional variant]]s. Ash got excited by Exeggutor and went to examine its tail unaware that it has a head of its own which ended up wracking him.
+
+Multiple Alolan Exeggutor appeared in ''[[SM020|Partner Promises!]]''. One of them helped Ash free a trapped {{p|Wimpod}} from a crevice.
+
+====Minor appearances====
+Exeggutor debuted in ''[[EP040|The Battling Eevee Brothers]]''.
+
+Multiple {{DL|List of alternately colored Pokémon in the anime|Pink Pokémon|pink}} Exeggutor resided on the [[Pinkan Island]] in ''[[EP088|In the Pink]]''.
+
+Multiple Exeggutor appeared in ''[[M02|The Power of One]]''.
+
+An Exeggutor was one of the Pokémon seen at the [[Pokémon Swap Meet]] in ''[[EP146|Tricks of the Trade]]''.
+
+Three Exeggutor were among the Pokémon living in [[Len Town]] in ''[[EP156|The Psychic Sidekicks!]]''.
+
+An Exeggutor appeared in ''[[EP169|Beauty and the Breeder]]'', where it participated in [[Pokémon Beauty Contest|a Pokémon breeding competition]].
+
+A {{pkmn|Trainer}}'s Exeggutor appeared in ''[[EP178|The Grass Route]]'', where it was seen competing in the [[Grass Tournament]].
+
+An Exeggutor was part of a Pokémon street festival in ''[[EP201|Doin' What Comes Natu-rally]]''.
+
+An Exeggutor appeared with its Trainer in ''[[EP228|Extreme Pokémon!]]'', where they were participating in the [[Extreme Pokémon Race]].
+
+An Exeggutor was one of the Pokémon seen in a forest outside the [[Ice Path]] in [[EP250]].
+
+In ''[[EP266|A Claim to Flame!]]'', Ash and {{AP|Cyndaquil}} battled against a Trainer's Exeggutor in a qualifying match for the [[Silver Conference]] and won.
+
+A {{pkmn|Coordinator}}'s Exeggutor appeared in ''[[DP078|Pruning a Passel of Pals!]]'', where it was seen participating in the [[Contest Battle|Battle Stage]] of the [[Wallace Cup]].
+
+Two Exeggutor made cameo appearances in ''[[M11|Giratina and the Sky Warrior]]''.
+
+An Exeggutor appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+A {{pkmn|Trainer}}'s Exeggutor appeared in ''[[BW134|The Journalist from Another Region!]]'', where it was entered in the [[Pokémon Sumo Tournament]] on [[Harvest Island]].
+
+Multiple Exeggutor appeared in ''[[XY057|Thawing an Icy Panic!]]'' as residents of [[Ramos]]' ranch.
+
+An Alolan Exeggutor debuted in ''[[SM001|Alola to New Adventure!]]''.
+
+An image of a Alolan Exeggutor appeared in ''[[SM003|Loading the Dex!]]'', when {{an|Giovanni}} was telling {{TRT}} about the rare Pokémon that appear in the [[Alola]] region.
+
+An Alolan Exeggutor appeared in ''[[SM028|Pulling Out the Pokémon Base Pepper!]]'' on television, where it took part in a [[Baseball|Pokémon Base]] game.
+
+Multiple Alolan Exeggutor appeared in ''[[M20|I Choose You!]]''.
+
+Two Exeggutor appeared in ''[[SM042|Alola, Kanto!]]'', with one of them being an Alolan Exeggutor.
+
+An Alolan Exeggutor appeared in ''[[SM046|Deceiving Appearances!]]''.
+
+Multiple Alolan Exeggutor appeared in [[SM061]].
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP043|Exeggutor|Ash's Pokédex|Exeggutor, a Coconut Pokémon. Also known as "The Walking Tropical Rain Forest." Each coconut has a distinct face and its own character. Its special attack is {{m|Hypnosis}}.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+
+===In Pokémon Origins===
+[[File:Blue Exeggutor PO.png|thumb|220px|Exeggutor in [[Pokémon Origins]]]]
+{{OBP|Blue|Origins}} used an Exeggutor against {{OBP|Red|Origins}}'s {{p|Dodrio}} in the [[Indigo Plateau|Pokémon League]] in ''[[PO04|File 4: Charizard]]'' and won. It later lost to Red's {{p|Persian}}.
+{{-}}
+
+==In the manga==
+[[File:Bill Exeggutor.png|thumb|200px|Exeggutor in [[Pokémon Adventures]]]]
+===In the movie adaptations===
+Two Alolan Exeggutor appeared in [[Get Fired Up, Marshadow!]].
+
+===In the Pokémon Adventures manga===
+Exeggutor first appeared reuniting with its trainer in ''[[PS011|Buzz Off, Electabuzz!]]''.
+
+In ''[[PS063|Extricated from Exeggutor]]'', multiple Exeggutor were some of the Pokémon seen during the mass migration of Pokémon at the [[Seafoam Islands]]. They appeared again in a flashback in ''[[PS142|Really Remoraid]]''.
+
+In ''[[PS116|Rock, Paper...Scizor]]'', Exeggutor is one of the Pokémon {{adv|Blue}} captures outside the [[Viridian Gym]]. It is seen again in ''[[PS161|Entranced by Entei]]'' as a part of his squad in the [[Gym Leader]] faceoff, and again as a defender of Viridian Gym in ''[[PS287|Secrets from Sneasel]]''.
+
+Another Exeggutor was one of the Pokémon sent to help the fight in [[Ilex Forest]] in ''[[PS179|The Last Battle XIII]]''.
+
+Prior to ''[[PS276|My, My, My Mimic]]'', {{adv|Bill}}'s {{p|Exeggcute}} has evolved into Exeggutor. It was seen in [[Icefall Cave]] being targeted at by Blue, testing out the [[Vs. Seeker]].
+
+In ''[[PS442|Out-Odding Oddish]]'', an Exeggutor appeared in the [[Pokéathlon]].
+
+===In the Pokémon Pocket Monsters manga===
+{{OBP|Giovanni|Pocket Monsters}} sends out Exeggutor to prevent {{OBP|Red|Pocket Monsters}} from interfering with his plans on creating Mewtwo in ''[[PM025|Bring Down the Strongest Pokémon!!]]''.
+
+An Exeggutor is seen with Red during the curry cooking competition that went on in ''[[PM027|Curry Showdown! Which is the Most Delicious?]]''.
+
+[[Will]] has an Exeggutor which was used against Red in his challenge of the Johto Elite Four in ''[[PM106|A Challenge to the Elite Four!]]''.
+
+===In The Electric Tale of Pikachu manga===
+Rudy's Exeggutor was defeated by [[Ash's Bulbasaur]] when it was put to sleep by its {{m|Sleep Powder}}.
+
+==In the TCG==
+{{main|Exeggutor (TCG)}}
+
+==Game data==
+===Pokédex entries===
+====Exeggutor====
+{{Dex/Header|type=Grass|type2=Psychic}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Legend has it that on rare occasions, one of its heads will drop off and continue on as an {{p|Exeggcute}}.}}
+{{Dex/Entry1|v=Yellow|entry=Its cries are very noisy. This is because each of the three heads thinks about whatever it likes.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Each of the fruits is an independently-thinking head. It is said that if one drops off, it becomes an Exeggcute.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Its three heads think independently. However, they are friendly and never appear to squabble.}}
+{{Dex/Entry1|v=Silver|entry=If a head drops off, it emits a telepathic call in search of others to form an Exeggcute cluster.}}
+{{Dex/Entry1|v=Crystal|entry=Living in a good environment makes it grow lots of heads. A head that drops off becomes an Exeggcute.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Its three heads think independently. However, they are friendly and never appear to squabble.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Originally from the tropics, Exeggutor's heads grow larger from exposure to strong sunlight. It is said that when the heads fall, they group to form an Exeggcute.}}
+{{Dex/Entry1|v=FireRed|entry=It is called "The Walking Tropical Rainforest." Each of the nuts has a face and will of its own.}}
+{{Dex/Entry1|v=LeafGreen|entry=Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It is called "The Walking Jungle." If a head grows too big, it falls off and becomes an Exeggcute.}}
+{{Dex/Entry1|v=HeartGold|entry=Its three heads think independently. However, they are friendly and never appear to squabble.}}
+{{Dex/Entry1|v=SoulSilver|entry=If a head drops off, it emits a telepathic call in search of others to form an Exeggcute cluster.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It is called "The Walking Jungle." If a head grows too big, it falls off and becomes an Exeggcute.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It is called "The Walking Jungle." If a head grows too big, it falls off and becomes an Exeggcute.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its three heads think independently. However, they are friendly and never appear to squabble.}}
+{{Dex/Entry1|v=Y|entry=It is called "The Walking Jungle." If a head grows too big, it falls off and becomes an Exeggcute.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Each of its heads has its own will. They use telepathy to discuss their plans before coming to a joint decision.}}
+{{Dex/Entry1|v=Moon|entry=When the time comes, one of its three heads falls off. Before long, the fallen head grows into an Exeggcute.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It engages its enemies using psychic powers. Each of its three heads fires off psychokinetic energy, tripling its power.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Each of its three heads has its own thoughts. When they want to go in different directions, Exeggutor becomes unable to move.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Alolan Exeggutor====
+{{Dex/Header|type=Grass|type2=Dragon}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Alola is the best environment for this Pokémon. Local people take pride in its appearance, saying this is how Exeggutor ought to look.}}
+{{Dex/Entry1|v=Moon|entry=As it grew taller and taller, it outgrew its reliance on psychic powers, while within it awakened the power of the sleeping dragon.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Exeggutor is the pride of the Alolan people. Its image is carved into historical buildings and murals.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It swings its long neck like a whip and smacks its opponents. This makes Exeggutor itself dizzy, too.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Psychic}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+{{Availability/Entry1|v=Yellow|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Citadark Isle]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Exeggutor Island]] (Alola Form)<br> [[Trade]] (Normal Form)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Exeggutor Island]] (Alola Form)<br>[[Evolution|Evolve]] {{p|Exeggcute}} in [[Ultra Space]] (Normal Form)}}
+|}
+|}
+{{Availability/Footer}}
+
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Psychic}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Cobalt Coast]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 52, Endless Level 66, Forever Level 2, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Apple Woods]] (4F-12F), [[Happy Outlook]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Apple Woods]] (4F-12F), [[Happy Outlook]] (B1-B19)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie‎]] <small>(Normal Mode B & S)</small>}}
+{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=[[Evolution|Evolve]] {{p|Exeggcute}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#Guided by Pichu|Toy Collection: Guided by Pichu]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 3|Infinite Ruins: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 348]]<br>Event: ''[[Special Stages#Great Challenge|Exeggutor Appears]]'' <small>(Alola Form)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Surveillance Dunes|Starlight Islands: Surveillance Dunes]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====Alolan Exeggutor=====
+{{eventAvail/h|Region|type=Grass|type2=Dragon}}
+{{eventAvail|{{gameabbrev7|SM}}|2017 World Championships Alolan Exeggutor|All|United States|50|August 18 to 20, 2017|link=List of local event Pokémon distributions in Generation VII#2017 World Championships Alolan Exeggutor}}
+|}
+
+===Held items===
+====Exeggutor====
+{{HeldItems|type=Grass|type2=Psychic
+|rby1=Bitter Berry|rby1type=None|rby1rar=100|rby1image=no
+}}
+
+====Alolan Exeggutor====
+{{HeldItems|type=Grass|type2=Dragon
+|event1=Sitrus Berry|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+=====Generation I-VI=====
+{{Stats
+|type=Grass
+|type2=Psychic
+|HP=95
+|Attack=95
+|Defense=85
+|SpAtk=125
+|SpDef=65
+|Special=125
+|Speed=55}}
+
+=====Generation VII=====
+{{Stats
+|type=Grass
+|type2=Psychic
+|HP=95
+|Attack=95
+|Defense=85
+|SpAtk=125
+|SpDef=75
+|Speed=55}}
+
+=====Alolan Exeggutor=====
+{{Stats
+|type=Grass
+|type2=Dragon
+|HP=95
+|Attack=105
+|Defense=85
+|SpAtk=125
+|SpDef=75
+|Speed=45}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|type2=Psychic
+|Speed=2
+|SpeedMax=3
+|Power=3
+|PowerMax=4
+|Technique=3
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=4
+|Jump=2
+|JumpMax=3}}
+
+===Type effectiveness===
+====Exeggutor====
+{{TypeEffectiveness
+|type1=Grass
+|type2=Psychic
+|Normal=100
+|Flying=200
+|Fighting=50
+|Ground=50
+|Rock=100
+|Bug=400
+|Poison=200
+|Ghost=200
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=50
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|gen1psychic=yes
+|oldghost=0}}
+
+====Alolan Exeggutor====
+{{TypeEffectiveness
+|type1=Grass
+|type2=Dragon
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=25
+|Grass=25
+|Electric=25
+|Psychic=100
+|Ice=400
+|Dragon=200
+|Dark=100
+|Fairy=200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Exeggutor=====
+{{learnlist/levelh/7|Exeggutor|Grass|Psychic|1}}
+{{learnlist/level7|1|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level7|1|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level7|1|Barrage|Normal|Physical|15|85|20}}
+{{learnlist/level7|1|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/level7|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level7|17|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/level7|27|Egg Bomb|Normal|Physical|100|75|10}}
+{{learnlist/level7|37|Wood Hammer|Grass|Physical|120|100|15||'''}}
+{{learnlist/level7|47|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/7|Exeggutor|Grass|Psychic|1}}
+
+=====Alolan Exeggutor=====
+{{learnlist/levelh/7|Exeggutor|Grass|Dragon|7}}
+{{learnlist/level7|1|Dragon Hammer|Dragon|Physical|90|100|15||'''}}
+{{learnlist/level7|1|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level7|1|Barrage|Normal|Physical|15|85|20}}
+{{learnlist/level7|1|Hypnosis|Psychic|Status|—|60|20}}
+{{learnlist/level7|1|Confusion|Psychic|Special|50|100|25}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Dragon Hammer|Dragon|Physical|90|100|15||'''}}
+{{learnlist/level7|17|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/level7|27|Egg Bomb|Normal|Physical|100|75|10}}
+{{learnlist/level7|37|Wood Hammer|Grass|Physical|120|100|15||'''}}
+{{learnlist/level7|47|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/7|Exeggutor|Grass|Dragon|7}}
+
+====By [[TM]]/[[HM]]====
+=====Exeggutor=====
+{{learnlist/tmh/7|Exeggutor|Grass|Psychic|1}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Exeggutor|Grass|Psychic|1}}
+
+=====Alolan Exeggutor=====
+{{learnlist/tmh/7|Exeggutor|Grass|Dragon|7}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|—|—|5}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Exeggutor|Grass|Dragon|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Exeggutor|Grass|Psychic|2}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed7|{{MSP|465|Tangrowth}}|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|708|Phantump}}<br>{{MSP|709|Trevenant}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}<br>{{MSP|285|Shroomish}}{{MSP|315|Roselia}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|495|Snivy}}<br>{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|546|Cottonee}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}{{MSP|591|Amoonguss}}<br>{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|407|Roserade}}{{MSP|764|Comfey}}|Grassy Terrain|Grass|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|455|Carnivine}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|753|Fomantis}}<br>{{MSP|754|Lurantis}}{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Ingrain|Grass|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|071|Victreebel}}{{MSP|103|Exeggutor}}{{MSP|103A|Exeggutor}}{{MSP|182|Bellossom}}{{MSP|192|Sunflora}}{{MSP|275|Shiftry}}<br>{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|495|Snivy}}{{MSP|496|Servine}}<br>{{MSP|497|Serperior}}|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}|Lucky Chant|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Moonlight|Fairy|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}{{MSP|357|Tropius}}<br>{{MSP|764|Comfey}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|270|Lotad}}{{MSP|271|Lombre}}{{MSP|272|Ludicolo}}{{MSP|273|Seedot}}{{MSP|274|Nuzleaf}}|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|273|Seedot}}|Power Swap|Psychic|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|102|Exeggcute}}{{MSP|103|Exeggutor}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}|Skill Swap|Psychic|Status|&mdash;|&mdash;|10|‡}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|273|Seedot}}{{MSP|315|Roselia}}<br>{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}{{MSP|764|Comfey}}|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/breedf/7|Exeggutor|Grass|Psychic|2|form=yes}}
+
+====By [[Move Tutor|tutoring]]====
+=====Exeggutor=====
+{{learnlist/tutorh/7|Exeggutor|Grass|Psychic|2}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Exeggutor|Grass|Psychic|2}}
+
+=====Alolan Exeggutor=====
+{{learnlist/tutorh/7|Exeggutor|Grass|Dragon|7}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Exeggutor|Grass|Dragon|7}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Exeggutor|Grass|Psychic|1}}
+{{learnlist/prevo7|102|Exeggcute|||||Uproar|Normal|Special|90|100|10}}
+{{learnlist/prevo7|102|Exeggcute|||||Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/prevo7|102|Exeggcute|||||Bullet Seed|Grass|Physical|25|100|30|'''}}
+{{learnlist/prevo7|102|Exeggcute|||||Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/prevo7|102|Exeggcute|||||Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/prevo7|102|Exeggcute|||||Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/prevo7|102|Exeggcute|||||Worry Seed|Grass|Status|—|100|10||{{sup/7|SM}}}}
+{{learnlist/prevo7|102|Exeggcute|||||Natural Gift|Normal|Physical|—|100|15}}
+{{learnlist/prevo7|102|Exeggcute|||||Extrasensory|Psychic|Special|80|100|20|'''}}
+{{learnlist/prevo7|102|Exeggcute|||||Bestow|Normal|Status|—|—|15}}
+{{learnlist/prevof/7|Exeggutor|Grass|Psychic|1|form=yes}}
+
+====By {{pkmn2|event}}s====
+=====Alolan Exeggutor=====
+{{learnlist/eventh/7|Exeggutor|Grass|Dragon|7}}
+{{learnlist/event7|{{DL|List of local event Pokémon distributions in Generation VII|2017 World Championships Alolan Exeggutor}}|Power Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/event7|{{DL|List of local event Pokémon distributions in Generation VII|2017 World Championships Alolan Exeggutor}}|Celebrate|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/eventf/7|Exeggutor|Grass|Dragon|7}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Psychic}}
+{{Spindata/Pinball|col=3|type=Grass|ndex=103|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Grass|ndex=103|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=103
+|body=1
+|rate=Evolve
+|area=Jungle
+|P1=Let's go get 'em! I agree! I agree, too!
+|P2=Only half the HP is left! It's half! It's half!
+|P3=I can't anymore! Neither can I! Nor me!
+|PL=Leveled up! Leveled up! Leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=103
+|body=1
+|rate=0.5
+|IQ=B
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=4
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Grass|ndex=103
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Grass|ndex=103|num=429
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Cloud Clear+
+|skilldesc=Sometimes clears away three black-cloud disruptions.
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=103A|stype=Grass|num=429
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Full Power
+|skilldesc=Rarely deals a ton of damage when you make a match of four.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=103
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=190
+|attack=233
+|defense=158
+|fast={{m|Confusion}}{{tt|*|Prior to February 16, 2017}}, {{m|Bullet Seed}}{{tt|*|From February 16, 2017 onward}}, {{m|Zen Headbutt}}{{tt|*|Prior to February 16, 2017}}, {{m|Extrasensory}}{{tt|*|From February 16, 2017 onward}}
+|special={{m|Seed Bomb}}, {{m|Psychic}}, {{m|Solar Beam}}
+}}
+|}
+
+===Evolution===
+{{Evobox
+|family=Normal
+|nobranchcat=true
+|sprite1=102Exeggcute
+|name1=Exeggcute
+|type1-1=Grass
+|type2-1=Psychic
+|evotype1=Stone
+|evostone1=Leaf Stone
+|sprite2=103Exeggutor
+|name2=Exeggutor
+|type1-2=Grass
+|type2-2=Psychic
+|form2=
+|evotype1a=Stone
+|evostone1a=Leaf Stone
+|sprite2a=103Exeggutor-Alola
+|name2a=Exeggutor
+|form2a={{color2|000|Regional variant|Alola Form}}
+|type1-2a=Grass
+|type2-2a=Dragon
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Psychic}}
+{{Spritebox/1|ndex=103}}
+{{Spritebox/2|ndex=103}}
+{{Spritebox/3|ndex=103}}
+{{Spritebox/4|ndex=103}}
+{{Spritebox/5|ndex=103}}
+{{Spritebox/6|ndex=103}}
+{{Spritebox/7/2Forms|ndex=103|form1=A}}
+{{Spritebox/Footer|103|Exeggutor}}
+
+==Trivia==
+[[File:JPJungleBoosterbox.jpg|thumb|An elongated Exeggutor]]
+* Two of {{Ash}}'s Pokémon in the anime have evolved after fighting and defeating Exeggutor. [[Ash's Charmander]] evolved into {{p|Charmeleon}} after defeating several Exeggutor, with some help from [[Melvin]]'s fire power. Later on, [[Ash's Krabby]] evolved into Kingler after defeating [[Mandi]]'s Exeggutor in the first round of the [[Indigo Plateau Conference]].
+* Exeggutor is [[Tsunekazu Ishihara]]'s favorite Pokémon. He used it all throughout the debugging and testing of {{game|Red and Green|s}}.
+* The artwork for the Japanese [[Jungle (TCG)]] booster box depicts Exeggutor with an elongated body and no visible legs.
+* Alolan Exeggutor is the [[List of Pokémon by height|tallest]] {{type|Grass}} and {{type|Dragon}} Pokémon, as well as the [[List of Pokémon by weight|heaviest]] {{type|Grass}} Pokémon.
+* Aside from special badges, Alolan Exeggutor's is the only mega badge in the [[Nintendo Badge Arcade]].
+
+===Origin===
+It appears to be based on a {{wp|coconut}} tree and possibly the Japanese monster {{wp|Jinmenju}}, a tree that grows human heads (that are always smiling). It might also be inspired by a {{wp|Hura crepitans|sandbox tree}}.
+
+Exeggutor's Alola Form more closely resembles a coconut tree. Its type may be a reference to the ''{{wp|Dracaena}}'' genus. It may also be a pun inspired by the {{wp|Coco_(folklore)#Physical_representations|Coca}}, a dragon whose name shares the same origins as the word ''coconut''.
+
+====Name origin====
+Exeggutor may be a combination of ''egg'' and ''executor''.
+
+Nassy is derived from ココナッツ ''kokonattsu'' (coconuts) and 椰子 ''yashi'' (palm tree).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Psychic
+|ja=ナッシー ''Nassy''|jameaning=From {{tt|ココナッツ ''kokonattsu''|coconuts}} and {{tt|椰子 ''yashi''|palm tree}}
+|fr=Noadkoko|frmeaning=A corruption of ''{{tt|noix de coco|coconut}}''
+|es=Exeggutor|esmeaning=Same as English name
+|de=Kokowei|demeaning=From ''{{tt|Kokosnuss|coconut}}'' and ''{{tt|Owei|Exeggcute}}''
+|it=Exeggutor|itmeaning=Same as English name
+|ko=나시 ''Nasi''|komeaning=Transliteration of Japanese name
+|zh_yue=椰蛋樹 ''Yèhdáansyuh''{{tt|*|Games}}<br>椰樹獸 ''Yèhsyuhsau''{{tt|*|Anime, manga}}|zh_yuemeaning=From {{tt|椰子 ''yèhjí''|palm tree}}, {{tt|蛋 ''dáan''|egg}}, and {{tt|樹 ''syuh''|tree}}<br>From {{tt|椰子 ''yèhjí''|palm tree}}, {{tt|樹 ''syuh''|tree}}, and {{tt|怪獸 ''gwaaisau''|beast}}
+|zh_cmn=椰蛋樹 / 椰蛋树 ''Yédànshù / Yēdànshù''|zh_cmnmeaning=From {{tt|椰子 ''yézi / yēzi''|palm tree}}, {{tt|蛋 ''dàn''|egg}}, and {{tt|樹 / 树 ''shù''|tree}}
+|hi=एक्सएग्गुटोर ''Exeggutor''|himeaning=Transcription of English name
+|is=Böðull{{tt|*|in the sub of Pikachu's Rescue Adventure}}|ismeaning=Literally means Executioner
+|ru=Экзегкьютор ''Ekzegk'yutor''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Notes==
+<references />
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Grass|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=102|prev=Exeggcute|nextnum=104|next=Cubone}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+
+[[de:Kokowei]]
+[[fr:Noadkoko]]
+[[it:Exeggutor]]
+[[ja:ナッシー]]
+[[pl:Exeggutor]]
+[[zh:椰蛋树]]

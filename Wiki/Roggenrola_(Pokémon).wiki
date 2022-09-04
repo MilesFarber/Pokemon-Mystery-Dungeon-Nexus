@@ -1,0 +1,376 @@
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=523|prev=Zebstrika|nextnum=525|next=Boldore|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Roggenrola}}
+|}
+{{Pokémon Infobox
+|name=Roggenrola
+|jname=ダンゴロ
+|tmname=Dangoro
+|category=Mantle
+|type1=Rock
+|abilitylayout=2
+|ability1=Sturdy
+|ability2=Weak Armor
+|abilityd=Sand Force
+|ndex=524
+|udex=030
+|u2dex=068
+|karea=Coastal
+|kdex=120
+|adex=098
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=39.7
+|weight-kg=18.0
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=15
+|expyield=56
+|lv100exp=1,059,860
+|gendercode=127
+|color=Blue
+|catchrate=255
+|evtotal=1
+|evde=1
+|body=07
+|pokefordex=roggenrola
+|generation=5
+|friendship=70
+}}
+'''Roggenrola''' ([[List of Japanese Pokémon names|Japanese]]: '''ダンゴロ''' ''Dangoro'') is a {{type|Rock}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Boldore}} starting at [[level]] 25, which evolves into {{p|Gigalith}} when [[trade]]d.
+
+==Biology==
+Roggenrola is a roughly spherical Pokémon discovered a century ago in an earthquake fissure. Its body is blue and covered in large, smooth facets. It has a hexagonal, yellow artifice in the center of its body, leading to a hexagonal opening that functions as an ear. Roggenrola has a brown, rocky oblong atop its head, and similar brown rocks that serve as feet. Its body houses an energy core; due to compression underground, both this core and Roggenrola's body are as hard as steel. 
+
+Roggenrola is born deep underground, and compares its hard body with that of {{p|Geodude}} and {{p|Carbink}}. As stated by {{an|Cilan}} in ''[[BW035|Where Did You Go, Audino?]]'', Roggenrola has sensitive hearing and can hear sounds that are inaudible to humans. It tends to follow the sounds it picks up with its lone ear, panicking if these sounds cease.
+
+==In the anime==
+[[File:Ash Roggenrola.png|thumb|left|250px|Roggenrola in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Boldore|Ash's Roggenrola]]====
+Roggenrola debuted in ''[[BW034|Gotta Catch A Roggenrola!]]'', when it fell into Cilan's food and beat [[Ash's Tepig]] and {{AP|Oshawott}} in battle before being abandoned. {{Ash}} and {{ashfr}} later found it in a cave, where it was captured by {{TRT}}. They freed it and helped it rescue the other Roggenrola. They were all then healed at the [[Pokémon Center]], and afterwards, the Roggenrola that they met before had a rematch with [[Ash's Tepig]] and was captured by Ash. It later evolved into a Boldore in ''[[BW061|Battling the King of the Mines!]]''.
+
+===Minor appearances===
+A Roggenrola appeared in ''[[BW131|The Path That Leads to Goodbye!]]'' in a flashback.
+
+Multiple Roggenrola appeared in ''[[BW136|A Pokémon of a Different Color!]].''
+
+A Roggenrola appeared in ''[[BW138|Go, Go Gogoat!]].''
+
+Four Trainers' Roggenrola appeared in ''[[SM006|A Shocking Grocery Run!]]''.
+
+A Roggenrola appeared in ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', where it was among the Pokémon playing in {{an|Lillie}}'s garden.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW034|Roggenrola|Ash's Pokédex|Roggenrola, the Mantle Pokémon. Roggenrola's body contains an energy core which is hard as steel from being compressed underground.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Andy Roggenrola Adventures.png|thumb|200px|Roggenrola in [[Pokémon Adventures]]]]
+===In the Be the Best! Pokémon B+W manga===
+In ''[[PBW2|The Key to Triple Battles]]'', [[Monta]] uses a Roggenrola against [[Cheren]] in a [[Triple Battle]]. Its {{a|Sturdy}} [[Ability]] allowed it to withstand Monta's {{p|Panpour}}'s {{m|Surf}}, which allowed it to attack with {{m|Rock Slide}}, which took out Cheren's {{p|Pansage}} and {{p|Basculin}}.
+
+===In the Pokémon Adventures manga===
+A {{tc|Hiker}} named Andy uses a Roggenrola during his Triple Battle with {{adv|Black}} in ''[[PS464|Black's First Trainer Battle]]''. However, he was defeated after Andy became dehydrated.
+
+==In the TCG==
+{{main|Roggenrola (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.}}
+{{Dex/Entry1|v=White|entry=They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.}}
+{{Dex/Entry1|v=Y|entry=They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Born deep within the ground, it compares itself with similar species, such as {{p|Geodude}} and {{p|Carbink}}, to settle which has the hardest body.}}
+{{Dex/Entry1|v=Moon|entry=The hexagonal cavity is its ear. It walks in the direction of sounds it hears, but if the sounds cease, it panics and topples over.}}
+{{Dex/Entry1|v=Ultra Sun|entry=The hexagonal hole is its ear. Deep in that ear is an energy core, so if you stick your hand in there, Roggenrola will be very angry!}}
+{{Dex/Entry1|v=Ultra Moon|entry=It was found in a fissure in a layer of exposed rock. The material that makes up its body is dirt from several hundred years ago.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Wellspring Cave]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Relic Passage]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Reflection Cave]]}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Fiery Path]] ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ten Carat Hill]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ten Carat Hill]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lava: [[Volcanic Slope]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Cragspur]], [[Yaksha]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Holehills]] (1F-12F), [[Scorching Desert]] (1F-10F), [[Windy Shoreline]] (1F-11F), [[Canyon Foot]] (1F-9F), [[Moonlit Forest]] (Mapless Street), [[Rusty Mountain]] (1F-24F), [[Slumbering Cave]] (B1-B99), [[Path of No Return]] (B1-B99), [[Skill Treasury]] (1F-15F), [[Ultimate Wilds]] (B9), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Entranceway#The Hidden Basement|Entranceway: The Hidden Basement]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 1|Sacred Plains: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#Fifth release|''Pokémon Safari'']] <small>(Fifth release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Bewildering Cave|Silver Isles: Bewildering Cave]] <small>(All Areas)</small>, [[Legend Terrain#Mineral Crust Hollow|Legend Terrain: Mineral Crust Hollow]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Rock
+|bw1=Everstone|bw1type=None|bw1rar=50
+|bw2=Hard Stone|bw2type=None|bw2rar=5
+|b2w21=Everstone|b2w21type=None|b2w21rar=50
+|b2w22=Hard Stone|b2w22type=None|b2w22rar=5
+|xy1=Everstone|xy1type=None|xy1rar=50
+|xy2=Hard Stone|xy2type=None|xy2rar=5
+|oras1=Everstone|oras1type=None|oras1rar=50
+|oras2=Hard Stone|oras2type=None|oras2rar=5
+|sm1=Everstone|sm1type=None|sm1rar=50
+|sm2=Hard Stone|sm2type=None|sm2rar=5
+|usum1=Everstone|usum1type=None|usum1rar=50
+|usum2=Hard Stone|usum2type=None|usum2rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|HP=55
+|Attack=75
+|Defense=85
+|SpAtk=25
+|SpDef=25
+|Speed=15}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=200
+|Grass=200
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Roggenrola|Rock|Rock|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|50|100|35}}
+{{learnlist/level7|4|Harden|Normal|Status|—|—|30}}
+{{learnlist/level7|7|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level7|10|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|14|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/level7|17|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level7|20|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level7|23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level7|27|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level7|30|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level7|33|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level7|36|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level7|40|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/levelf/7|Roggenrola|Rock|Rock|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Roggenrola|Rock|Rock|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Roggenrola|Rock|Rock|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Roggenrola|Rock|Rock|5}}
+{{learnlist/breed7|{{MSP|208|Steelix}}{{MSP|679|Honedge}}{{MSP|680|Doublade}}{{MSP|681|Aegislash}}|Autotomize|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|095|Onix}}{{MSP|208|Steelix}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Gravity|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|076|Golem}}{{MSP|076A|Golem}}|Heavy Slam|Steel|Physical|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|299|Nosepass}}{{MSP|476|Probopass}}|Lock-On|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|075|Graveler}}{{MSP|076|Golem}}|Magnitude|Ground|Physical|&mdash;|100|30}}
+{{learnlist/breed7|{{MSP|095|Onix}}{{MSP|185|Sudowoodo}}{{MSP|208|Steelix}}|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/breed7|{{MSP|568|Trubbish}}|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Roggenrola|Rock|Rock|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Roggenrola|Rock|Rock|5}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutorf/7|Roggenrola|Rock|Rock|5}}
+
+===Side game data===
+{{Spindata/Head|type=Rock}}
+{{Spindata/RumbleBlast|col=6|type=Rock
+|att=2
+|def=2
+|speed=2
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Rock|ndex=524
+|strong=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|weak=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=It's hard to understand what he is saying, but you try your best to understand him. That is a friendship.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Rock|ndex=524
+|HP=2
+|atk=2
+|def=2
+|spd=1
+|range=3
+|move=Rock Blast
+|ability1=Sturdy
+|ability2=Bodyguard
+|ability3=Explode
+|evo=Evolves into {{p|Boldore}} when its Defense is 59 or higher |<!--Boldore's article says 50-->
+|link={{DL|List of Pokémon Conquest characters|Madoka}} and {{DL|List of Pokémon Conquest characters|Tsunashige}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Rock|ndex=524
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=524|num=376
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Last-Ditch Effort
+|skilldesc=Increases damage when things are looking desperate.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|pictype=art
+|type1=Rock
+|no1=524
+|name1=Roggenrola
+|type1-1=Rock
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 25}}
+|no2=525
+|name2=Boldore
+|type1-2=Rock
+|evo2={{bag|Pal Pad}}<br>{{color2|000|Trade}}
+|no3=526
+|name3=Gigalith
+|type1-3=Rock
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=524}}
+{{Spritebox/6|ndex=524}}
+{{Spritebox/7|ndex=524}}
+{{Spritebox/Footer|524|Roggenrola}}
+
+==Trivia==
+* Roggenrola is similar to {{p|Geodude}}: Both are {{type|Rock}}, have {{a|Sturdy}} as one their Abilities, evolve at level 25 and reach their final forms when [[trade]]d.
+* Roggenrola is tied with {{p|Rockruff}} for the lowest base stat total of all {{type|Rock}} Pokémon, and has the lowest base {{stat|Special Defense}} stat of all Rock-type Pokémon.
+* In Unova, there is a televised version of bowling that uses Roggenrola as balls. There is a chance of explosion, depending on the Roggenrola.
+
+===Origin===
+Roggenrola is based on a {{wp|geode}}.
+
+====Name origin====
+Roggenrola is a corruption of ''{{wp|rock and roll}}''. It may, more specifically, be based on the pronunciation of "''rock-'n'-roller''" (a slang term for musicians who play rock and roll) in certain dialects of English.
+
+Dangoro may be a combination of 団子 ''dango'' (a Japanese dumpling) and ゴロ ''goro'' ({{wp|Batted ball|grounder}}). It may also derive from ゴロゴロ ''goro goro'' (onomatopoeia for the sound of a boulder rolling).
+
+==In other languages==
+{{Other languages|type=Rock|type2=Rock
+|ja=ダンゴロ ''Dangoro''|jameaning=From {{tt|団子 ''dango''|a Japanese dumpling}} and {{tt|ゴロ ''goro''|grounder}}. May also derive from {{tt|ゴロゴロ ''goro goro''|onomatopoeia for the sound of a boulder rolling}}.
+|de=Kiesling|demeaning=From ''{{tt|Kiesel|pebble}}'' and ''{{tt|Winzling|something/someone tiny}}''
+|fr=Nodulithe|frmeaning=From ''nodule'' and ''lith''
+|es=Roggenrola|esmeaning=Same as English name
+|it=Roggenrola|itmeaning=Same as English name
+|ko=단굴 ''Dangul''|komeaning=From {{tt|団子 ''Dango''|Japanese dumpling}} and {{tt|데굴데굴 ''deguldegul''|sound of rolling}}. May contain {{tt|굴 ''gul''|cave}}, a place where it can be found.
+|zh_cmn=石丸子 ''Shíwánzi''|zh_cmnmeaning=Literally "Stone ball".
+|ru=Роггенрола ''Roggenrola''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Roggenrola]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=523|prev=Zebstrika|nextnum=525|next=Boldore}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Kiesling]]
+[[fr:Nodulithe]]
+[[it:Roggenrola]]
+[[ja:ダンゴロ]]
+[[pl:Roggenrola]]
+[[zh:石丸子]]

@@ -1,0 +1,635 @@
+{{PokémonPrevNext/Head|type=Dragon|type2=Flying}}
+{{PokémonPrevNext/GO|species=Rayquaza}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=383|prev=Groudon|nextnum=385|next=Jirachi|round=none}}
+{{PokémonPrevNext/Disambig|species=Rayquaza}}
+|}
+{{Pokémon Infobox
+|name=Rayquaza
+|jname=レックウザ
+|jtranslit=Rekkūza
+|tmname=Rayquaza
+|category=Sky High
+|forme=2
+|form2=Mega Rayquaza
+|image2=384Rayquaza-Mega.png
+|mega=None
+|ndex=384
+|hdex=200
+|hdex6=209
+|fbrow=210
+|typebox=1
+|type1=Dragon
+|type2=Flying
+|height-ftin=23'00"
+|height-m=7.0
+|weight-lbs=455.2
+|weight-kg=206.5
+|height-ftin2=35'05"
+|height-m2=10.8
+|weight-lbs2=864.2
+|weight-kg2=392.0
+|abilityn=m
+|abilitylayout=2
+|ability1=Air Lock
+|abilitym=Delta Stream
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=120
+|evtotal=3
+|evat=2
+|evsa=1
+|expyield=306
+|oldexp=220
+|lv100exp=1,250,000
+|gendercode=255
+|color=Green
+|catchrate=45
+|body=02
+|pokefordex=rayquaza
+|generation=3
+|friendship=0
+}}
+'''Rayquaza''' ([[List of Japanese Pokémon names|Japanese]]: '''レックウザ''' ''Rayquaza'') is a dual-type {{2t|Dragon|Flying}} [[Legendary Pokémon]] introduced in [[Generation III]].
+
+While it is not known to [[evolution|evolve]] into or from any other Pokémon, it can [[Mega Evolution|Mega Evolve]] into '''Mega Rayquaza''', but only if it knows the move {{m|Dragon Ascent}} and is not holding a [[Z-Crystal]]. In {{g|Omega Ruby and Alpha Sapphire}}, the Rayquaza featured in the [[Delta Episode]] must be {{pkmn2|caught}} (which requires it to eat the [[Meteorite]]) before the player can Mega Evolve any Rayquaza.
+
+Rayquaza is the game mascot of {{game|Emerald}}, appearing on the boxart of the game. It serves to end the conflict between {{p|Kyogre}} and {{p|Groudon}} when [[Team Magma]]'s leader [[Maxie]] and [[Team Aqua]]'s leader [[Archie]] awakened them.
+
+Along with Kyogre and Groudon, Rayquaza is a part of the [[weather trio]], serving as its [[trio master]]. In Omega Ruby and Alpha Sapphire, it plays an important role during the Delta Episode and is required to be [[Caught Pokémon|caught]] there.
+
+==Biology==
+Rayquaza is a large, green, serpentine creature. It has red-tipped, rudder-like wings on its shoulders and down its body, and similarly patterned fins on the tip of its tail. Yellow ring-like symbols run across the length of Rayquaza's body and it has an additional yellow ring on top of its head. Rayquaza has two limbs with three-clawed hands, and two long, flat, horn-like structures on its head, with two shorter horns along its jawline. It has small, yellow eyes with black pupils, prominent pink gums, and two discernible fangs in its upper jaw.
+
+As Mega Rayquaza, its body becomes longer and gains more features. Its head becomes longer with the {{tt|Δ|Delta}} symbol appearing on its forehead. Its eyes now contain yellow pupils and red irises, and black, tree-like markings trail behind its eyes. Its red lips and teeth become gold, and the gold lines connect to those on its lower horns, which take on a broad, triangular shape. At the outer edges of its lower horns are long, golden, glowing tendrils that each extend to a green, fin-like structure; these tendrils have ring patterns that strongly resemble the yellow markings running along the length of Rayquaza's normal form. Its two upper horns become longer with a gold line running over them in a V shape, and each upper horn has another glowing tendril that ends in a circular shape with a spike. Along the length of its body are golden, glowing orbs placed where its ring patterns used to be. The chin, part of the neck, and parts of its serpentine body are changed to the color black. The fins running along its body are now marked with gold lines; the fins on its tail become entirely yellow and substantially longer. Particles stream from the long tendrils that extend from its jutting jaw; these particles can control the density and humidity of the air, allowing Mega Rayquaza to manipulate the weather. Its green hide sparkles with an emerald-like quality.<ref name="Mega">http://www.pokemonrubysapphire.com/en-us/pokemon/legendary-pokemon/mega-rayquaza</ref>
+
+Inside Rayquaza's body lies an organ that contains the same power as a [[Mega Stone]]. A [[Devon Corporation]] scientist named this organ the mikado organ (Japanese: '''ミカド{{tt|器官|きかん}}'''). By consuming meteoroids as it flies through the stratosphere, the mikado organ will be filled with enough energy to enable Rayquaza's Mega Evolution.
+
+It is able to soothe the other members of the weather trio, even in their [[Primal Reversion|Primal Forms]]. Rayquaza can live for hundreds of millions of years in the {{wp|ozone layer}}, where it feeds on water and other particles. Rayquaza is {{DL|List of Pokémon by habitat|Rare Pokémon|rarely}} seen by people; even in flight, its appearance is indistinguishable from that of a meteor. Rayquaza is the [[signature move|only known Pokémon]] capable of learning the move {{m|Dragon Ascent}}.
+
+==In the anime==
+===In the main series===
+[[File:Rayquaza M07.png|thumb|220px|left|Rayquaza in the {{pkmn|anime}}]]
+[[File:Hoopa Rayquaza.png|thumb|220px|Shiny Rayquaza in the anime]]
+[[File:Mega Rayquaza anime.png|thumb|220px|left|Mega Rayquaza in the anime]]
+[[File:Hoopa Mega Rayquaza.png|thumb|220px|Shiny Mega Rayquaza in the anime]]
+====Major appearances====
+=====[[Rayquaza (M07)]]=====
+{{OBP|Rayquaza|M07}} debuted in ''[[M07|Destiny Deoxys]]''. It fights against {{OBP|Deoxys|M07}}, believing it to be invading the Sky High Pokémon's territory when Deoxys was in fact looking for its friend, another Deoxys.
+
+=====[[Recurring wild Pokémon in the anime#Rayquaza|Rayquaza (anime)]]=====
+A Rayquaza appeared in ''[[SS031|Mega Evolution Special II]]'', where it [[Mega Evolution|Mega Evolved]]. [[Alain]] and {{Steven}} tried to battle it, but were quickly defeated by the Sky High Pokémon. It reappeared in ''[[SS032|Mega Evolution Special III]]''.
+
+=====Other=====
+In ''[[DP043|Malice In Wonderland!]]'', a Rayquaza appeared under ownership of [[Cynthia]], but as an illusion created by {{p|Mismagius}}. When Mismagius fuses with Rayquaza, it becomes the same color as the Mismagius, making it look like a Shiny Rayquaza.
+
+Rayquaza made its main series debut in outer space in ''[[DP142|Where No Togepi Has Gone Before!]]''. In the episode, it used {{m|Hyper Beam}} on the rocket ship {{Ash}}, {{ashfr}}, and {{TRT}} were on, presumably in order to protect its territory from them.
+
+A Rayquaza appeared in [[SS028]], where it was seen by {{an|Iris}}.
+
+A {{Shiny}} Rayquaza capable of Mega Evolving appeared in ''[[M18|Hoopa and the Clash of Ages]]'', summoned alongside {{p|Latios}} and {{p|Latias}} by {{an|Hoopa}} to protect it from the shadow [[List of Pokémon with form differences#Hoopa|Hoopa Unbound]]. The trio protected Hoopa from the shadow Hoopa and its reinforcements, [[Primal Reversion|Primal]] {{p|Groudon}}, Primal {{p|Kyogre}}, {{p|Dialga}}, {{p|Palkia}}, {{p|Giratina}}, and {{p|Kyurem}}, in [[Dahara City]]. Eventually, the battle ended after the shadow Hoopa was sealed in a [[Prison Bottle]], and Rayquaza departed for its home.
+
+====Minor appearances====
+A Rayquaza made a cameo appearance in the opening sequence of ''[[M09|Pokémon Ranger and the Temple of the Sea]]'', where it was captured by Team Rocket operatives.
+
+A Rayquaza made a cameo appearance in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Rayquaza made a cameo appearance in the opening sequence of ''[[M10|The Rise of Darkrai]]'', where it fired a {{m|Hyper Beam}} at a {{p|Lucario}}.
+
+A Rayquaza made a cameo appearance in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+===In the Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+A [[Mega Evolution|Mega]] Rayquaza appeared in the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]].
+
+===In Pokémon Generations===
+[[File:Mega Rayquaza PG.png|thumb|250px|Mega Rayquaza in [[Pokémon Generations]]]]
+A {{player|Trainer}}'s Rayquaza appeared in its [[Mega Evolution|Mega Evolved]] state in ''[[PG09|The Scoop]]''. It was seen destroying the [[Grand Meteor Delta]] while being ridden by the Trainer. It later battled a {{pkmn2|wild}} {{p|Deoxys}} that appeared from inside the Meteor, allowing its Trainer to {{pkmn2|caught|catch}} it.
+{{-}}
+
+==In the manga==
+[[File:Rayquaza Adventures.png|thumb|left|200px|Rayquaza in [[Pokémon Adventures]]]]
+[[File:Hoopa Rayquaza M18 manga.png|thumb|200px|A Shiny Rayquaza in the [[Hoopa and the Clash of Ages (manga)|movie adaptations]]]]
+[[File:Mega Rayquaza Adventures.png|thumb|left|200px|Mega Rayquaza in [[Pokémon Adventures]]]]
+[[File:Hoopa Mega Rayquaza M18 manga.png|thumb|200px|A Shiny Mega Rayquaza in the [[Hoopa and the Clash of Ages (manga)|movie adaptations]]]]
+===In the Let's Play the Pokémon Card Game XY! manga===
+[[Manabu Kadoo|Manabu]] was seen with a Rayquaza.
+
+===In the movie adaptations===
+{{main|Rayquaza (M07)}}
+Rayquaza plays a major role in the second {{series|Advanced Generation}} {{pkmn|movie}}, ''[[M07|Destiny Deoxys]]''. Likewise, it appears in the {{ma|Destiny Deoxys|manga adaptation}} of the film by [[Takashi Teshirogi]].
+
+A Shiny Rayquaza appears in ''{{ma|Hoopa and the Clash of Ages}}''.
+
+===In the Pokémon Adventures manga===
+{{main|Super-ancient Pokémon (Adventures)#Rayquaza|Rayquaza (Adventures)}}
+To stop the battle between Kyogre and Groudon, {{adv|Wally}} and [[Norman]] trained at the [[Sky Pillar]] and woke up Rayquaza. Five years earlier, {{adv|Ruby}}'s victory over a {{p|Salamence}} was the reason Norman was banned from the Gym Leader test as the wounded Salamence rampaged in a lab, accidentally letting Rayquaza, who was in captivity at that time, free. Having been ordered to recapture Rayquaza in the five years he was prohibited from attaining a Gym Leader position, Norman attended the [[Mossdeep Space Center]] and scrutinized its tracks, finally discovering that it slumbered atop the [[Sky Pillar]] when it wasn't scouring beyond Earth's atmosphere. With Wally's help, he was able to awaken and take command of Rayquaza, using it to calm {{p|Groudon}} and {{p|Kyogre}} in conjunction with Ruby's [[Red Orb|Red]] and [[Blue Orb]]s. When Norman fell under the strain of controlling Rayquaza without a proper medium, it escaped once again. It first appeared in ''[[PS258|Rayquaza Redemption I]]''.
+
+===In the Pokémon Ruby-Sapphire manga===
+A Rayquaza appears in ''[[PMRS34|Pokémon Task Force In Action!!]]'' where {{OBP|Red|Pocket Monsters}}, {{TP|Red|Clefairy}}, [[Red's Pikachu (Pocket Monsters)|Pikachu]] and {{TP|Red|Tyrogue}} as usual try to stop it from destroying the city.
+
+==In the TCG==
+{{main|Rayquaza (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Brawl]]===
+[[File:Rayquaza Brawl.png|thumb|left|200px|Rayquaza in Super Smash Bros. Brawl]]
+Rayquaza appears in [[The Subspace Emissary]] mode as a boss. After {{smw|Diddy Kong}} lands in {{sbw|The Lake}}, Rayquaza lunges out of the water and grabs him, angry at being disrupted. Before it can further attack, {{smw|Fox McCloud|Fox}} ejects out of his ship, which had crashed and been destroyed by Rayquaza earlier, and rescues Diddy Kong. Enraged, Rayquaza attacks Fox with {{m|Dragon Pulse}}, but Fox {{sbw|Reflector|reflects}} its attack back at it, sending it reeling back into the water. Rayquaza soon launches back out and engages in battle against Fox and Diddy Kong.
+
+Like all other Subspace Emissary bosses, Rayquaza is later battled again in {{sbw|The Great Maze}}, and can be fought in the {{sbw|Boss Battles}} mode after the latter is unlocked. Its attacks in battle include {{m|ExtremeSpeed}}, {{m|Thunder}}, {{m|Dig}}, {{m|Iron Tail}}, and {{m|Fly}}.
+
+====Trophy information====
+''A Sky High Pokémon. It normally resides high up in the ozone layer where it flies endlessly, so it is rarely seen. However, when {{p|Groudon}} and {{p|Kyogre}} began to fight, it appeared to calm them down. It has the ability {{a|Air Lock}}, which blocks all weather-condition effects. It has exceedingly strong abilities, and its attack power is especially remarkable.''
+
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Wii U]]===
+[[File:Kalos Pokémon League Dragonmark Chamber SSB4WU.png|thumb|250px|Rayquaza in Super Smash Bros. for Wii U]]
+Rayquaza appears as an occasional stage hazard in the {{DL|Pokémon League (Kalos)|Dragonmark Chamber}} of the {{st|Kalos Pokémon League}} stage. Appearing rarely, it flies across the stage at various angles, dealing damage to fighters. Its path is shown briefly by lightning before it appears, giving players time to avoid it.
+
+====Trophy information====
+''This Dragon- and Flying-type Pokemon usually dwells high in the ozone layer, so it can't be seen from the ground. In the Kalos Pokemon League stage, it occasionally flies at great speed through the Elite Four's Dragon-type chamber, where any fighters in its path will be damaged and launched with great force.''
+
+==Game data==
+===NPC appearances===
+* {{g|Pinball: Ruby & Sapphire}}: Rayquaza is the focus of the third and final Bonus Field. It can only be challenged after capturing {{p|Groudon}} or {{p|Kyogre}} and will then join the circuit of bonus fields. Rayquaza will bounce along from left to right, allowing the ball to roll under it if it is up. It will sometimes use {{m|Thunder}} to paralyze the ball if it is not moving fast enough, though it does stay still while it is unleashing the attack. Rayquaza will also sometimes use {{m|ExtremeSpeed}} to create two tornadoes that cause the ball to fly up into the air for several seconds if contact is made. Rayquaza must be hit 15 times in three minutes to win. After beating the round twice, Rayquaza will be captured.
+* [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|Pokémon Mystery Dungeon]]: Rayquaza acts as the final boss, living on the [[Sky Tower]]. After it is defeated, Rayquaza helps save the {{pkmn|world (Mystery Dungeon)|world}} from a meteor. After the credits roll, the player can re-battle Rayquaza to recruit it.
+* {{ga|Pokémon Ranger}}: Rayquaza can be captured in a bonus mission after the credits.
+* {{ga|Pokémon Mystery Dungeon: Explorers of Time and Darkness}}: Rayquaza is the guardian of the [[Seven Treasures|Sky Melodica]].
+
+===Pokédex entries===
+{{Dex/Header|type=Dragon|type2=Flying}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Rayquaza lived for hundreds of millions of years in the earth's ozone layer, never descending to the ground. This Pokémon appears to feed on water and particles in the atmosphere.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Rayquaza is said to have lived for hundreds of millions of years in the earth's ozone layer, above the clouds. Its existence had been completely unknown because it lived so high in the sky.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Pokémon that flies endlessly in the ozone layer. It is said it would descend to the ground if {{p|Kyogre}} and {{p|Groudon}} were to fight.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It has lived for hundreds of millions of years in the ozone layer. Its flying form looks like a meteor.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It cannot be seen from ground level since it lives far up above the clouds in the ozone layer.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It lives in the ozone layer far above the clouds and cannot be seen from the ground.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It lives in the ozone layer far above the clouds and cannot be seen from the ground.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It lives in the ozone layer far above the clouds and cannot be seen from the ground.}}
+{{Dex/Entry1|v=Y|entry=It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dragon|type2=Flying}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Sky Pillar]] ([[List of in-game event Pokémon in Generation III#Rayquaza|only one]])}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Sky Pillar]] ([[List of in-game event Pokémon in Generation III#Rayquaza|only one]])}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Embedded Tower]] <small>(requires [[Jade Orb]])</small> ([[List of in-game event Pokémon in Generation IV#Rayquaza|only one]])}}
+{{Availability/Entry1|v=Pal Park|link=Pal Park|color={{locationcolor/light|land}}|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]], {{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=fff|area=[[Sky Pillar]] ([[List of in-game event Pokémon in Generation VI#Rayquaza|only one]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Space Wilds]] ({{DL|Ultra Space Wilds|Cliff World}}) <small>(requires {{p|Groudon}} and {{p|Kyogre}} in party)</small> ([[List of in-game event Pokémon in Generation VII#Rayquaza|Only one]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dragon|type2=Flying}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Bonus Field ([[Ruby Field|Both]] [[Sapphire Field|Fields]])}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Random Agent Cards, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Sky Tower]] Summit (9F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Fiore Temple]] (during mission)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Sky Stairway]] (50F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Stairway]] (50F)}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Flower Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: All ([[Pokémon Rumble Blast#Legendary Boss Pokémon|Random Legendary Encounter]])}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Dragnor]] (special)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Conductor Room#King of the Sky|Conductor Room: King of the Sky]] <small>(Boss)</small>, [[Challenge Battle#The Final Battle Royale|Challenge Battle: The Final Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 4|Sky-High Ruins: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 290]]<br>[[Marron Trail|Marron Trail: Stage 685]] <small>(Shiny)</small><br>Event: ''[[Special Stages#Great Challenge|Rayquaza's Ascension]]''<br>Event: ''[[Special Stages#Great Challenge|Hoenn Legends Stage ③]]''<br>Event: [[Special Stages#14th release|''Pokémon Safari'']] <small>(14th release; Shiny)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Sky Crest Range|Legend Terrain: Sky Crest Range]] <small>(Special Boss)</small>}}
+{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=[[Dragon Gate]]}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 30|Area 30: Stage 04]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Dragon|type2=Flying}}
+{{eventAvail|{{gameabbrev4|DP}}|Nintendo of Korea Rayquaza|Korean|South Korea|50|May 31 to July 17, 2008|link=List of local Korean event Pokémon distributions in Generation IV#Nintendo of Korea Rayquaza}}
+{{eventAvail|{{gameabbrev5|BW}}|15th Anniversary Rayquaza|Japanese|Japan|100|February 10 to 27, 2012|link=List of local Japanese event Pokémon distributions in Generation V#15th Anniversary Rayquaza}}
+{{eventAvail|{{gameabbrev5|BW}}|Nobunaga's Black Rayquaza|Japanese|Japan<br>Wi-Fi|70[[File:ShinyVStar.png]]|March 17 to April 16, 2012|link=List of Wi-Fi Japanese event Pokémon distributions in Generation V#Nobunaga's Black Rayquaza}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Winter 2015 World Hobby Fair Rayquaza|All|Japan|70[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|January 18 to February 8, 2015|link=List of local event Pokémon distributions in Generation VI#Winter 2015 World Hobby Fair Rayquaza}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|CoroCoro Rayquaza|Japanese region|Online|70[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|March 14 to May 15, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#CoroCoro Rayquaza}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Spring Carnival 2015 Rayquaza|All|South Korea|70[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|May 2 to 5, 2015|link=List of local event Pokémon distributions in Generation VI#Pokémon Spring Carnival 2015 Rayquaza}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Singapore Summer 2015 Rayquaza|Japanese region|Online|70[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|May 6 to July 31, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Singapore Summer 2015 Rayquaza}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Singapore Summer 2015 Rayquaza|American region|Online|70[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|May 6 to July 31, 2015|link=List of American region serial code event Pokémon distributions in Generation VI#Singapore Summer 2015 Rayquaza}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Galileo Rayquaza|PAL region|Online|70[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|August 10, 2015 to January 27, 2016|link=List of PAL region serial code event Pokémon distributions in Generation VI#Galileo Rayquaza}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Galileo Rayquaza|American region|Online|70[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|August 12 to September 14, 2015|link=List of American region Nintendo Network event Pokémon distributions in Generation VI#Galileo Rayquaza}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Nintendo Hong Kong Rayquaza|Japanese region|Online|70[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|September 11 to October 31, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Nintendo Hong Kong Rayquaza}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Nintendo Hong Kong Rayquaza|PAL region|Online|70[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|September 11 to October 31, 2015|link=List of PAL region serial code event Pokémon distributions in Generation VI#Nintendo Hong Kong Rayquaza}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Nintendo Hong Kong Rayquaza|Taiwanese region|Online|70[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|September 11 to October 31, 2015|link=List of Taiwanese region serial code event Pokémon distributions in Generation VI#Nintendo Hong Kong Rayquaza}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Center Hiroshima Rayquaza|All|Japan|70[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|February 1 to 29, 2016|link=List of local event Pokémon distributions in Generation VI#Rayquaza}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Center Skytree Town Rayquaza|All|Japan|100[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|July 5, 2016<br>July 6 to September 4, 2016|link=List of local event Pokémon distributions in Generation VI#Pokémon Center Skytree Town Rayquaza}}
+|}
+
+====Pokémon Global Link promotions====
+{{eventAvail/h|type=Dragon|type2=Flying}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Rayquaza|Korean|PGL|50|August 25 to September 30, 2011|link=List of Pokémon Global Link promotions/Pokémon#Rayquaza}}
+|}
+
+===Held items===
+{{HeldItems|type=Dragon|type2=Flying
+|event1=Dragon Scale|event1type=None|event1rar=100
+|event2=Life Orb|event2type=None|event2rar=100
+|event3=Dragon Fang|event3type=None|event3rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Dragon
+|type2=Flying
+|HP=    105
+|Attack=150
+|Defense=90
+|SpAtk= 150
+|SpDef=  90
+|Speed=  95}}
+
+=====Mega Rayquaza=====
+{{Base Stats
+|type=Dragon
+|type2=Flying
+|HP=105
+|Attack=180
+|Defense=100
+|SpAtk=180
+|SpDef=100
+|Speed=115}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Dragon
+|type2=Flying
+|Speed=4
+|SpeedMax=5
+|Power=4
+|PowerMax=5
+|Technique=3
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dragon
+|type2=Flying
+|Normal=  100
+|Flying=  100
+|Fighting= 50
+|Ground=    0
+|Rock=    200
+|Bug=      50
+|Poison=  100
+|Ghost=   100
+|Steel=   100
+|Fire=     50
+|Grass=    25
+|Electric=100
+|Psychic= 100
+|Water=    50
+|Ice=     400
+|Dragon=  200
+|Dark=    100
+|Fairy=   200
+|notes=yes
+|flying=yes
+|newground=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Rayquaza|Dragon|Flying|3}}
+{{learnlist/level7|1|Twister|Dragon|Special|40|100|20||'''}}
+{{learnlist/level7|5|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|15|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level7|20|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|30|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|35|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|45|Extreme Speed|Normal|Physical|80|100|5}}
+{{learnlist/level7|50|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level7|60|Dragon Dance|Dragon|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|65|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/level7|75|Hyper Voice|Normal|Special|90|100|10}}
+{{learnlist/level7|80|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/level7|90|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/levelf/7|Rayquaza|Dragon|Flying|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Rayquaza|Dragon|Flying|3}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM58|Sky Drop|Flying|Physical|60|100|10||'''}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Rayquaza|Dragon|Flying|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Rayquaza|Dragon|Flying|3}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Rayquaza|Dragon|Flying|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Rayquaza|Dragon|Flying|3}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}}
+{{learnlist/tutor7|Dragon Ascent|Flying|Physical|120|100|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Rayquaza|Dragon|Flying|3}}
+
+===Side game data===
+{{Spindata/Head|type=Dragon|type2=Flying}}
+{{Spindata/PinballRS|col=3|type=Dragon|ndex=384|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Dragon|ndex=384|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Dragon|ndex=384
+|body=4
+|rate=-10
+|area=Stratos Lookout
+|P1=Like a star blazing in the sky, I shall help you!
+|P2=How is this possible? My health is reduced to a mere half?
+|P3=I've had enough... The ozone layer calls for my return...
+|PL=I've leveled up! The vast power of the skies fills me!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Dragon|ndex=384
+|body=4
+|rate=-10
+|IQ=D
+}}
+|-
+{{Spindata/Ranger|col=6|type=Dragon
+|group=Dragon
+|assist=Flying
+|fieldpower=0
+|loop=13
+|MinEXP=600
+|MaxEXP=-
+|browser=Rayquaza {{m|Outrage|rampages}} while spitting energy. It is said to be impossible to capture.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Dragon
+|att=5
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Dragon|ndex=384
+|Pad=Rayquaza is a Zone Keeper. He protects the [[Granite Zone]] and the [[Flower Zone]]. He's also the Attraction Chief of {{DL|Attractions|Rayquaza's Balloon Panic}}. He values promises.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Dragon|ndex=384
+|HP=5
+|atk=5
+|def=4
+|spd=4
+|range=4
+|move=Dragon Pulse
+|ability1=Nomad
+|evo=Does not evolve into or from anything
+|link='''[[Nobunaga]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Dragon|ndex=384
+|power=5
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Dragon|ndex=384|num=162
+|mega=1
+|stone=Meteorite
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Dragon Talon
+|skilldesc=Sometimes increases damage.
+|swapper=Shot Out
+|megaspeedup=20
+|effectdesc=Erases a Pokémon of a different type than Mega Rayquaza (max 10).
+}}
+{{Spindata/Shuffle|col=3|type=Dragon|ndex=384S|stype=Flying|num=162
+|mega=1
+|stone=Meteorite
+|min=80
+|max=115
+|raisemaxlevel=5
+|skill=Dragon Talon
+|skilldesc=Sometimes increases damage.
+|megaspeedup=15
+|effectdesc=Erases Pokémon and disruptions around two spots you tap.
+}}
+|-
+{{Spindata/GO|col=6|type=Dragon|ndex=384
+|hatch=N/A
+|evolution=N/A
+|stamina=210
+|attack=312
+|defense=187
+|fast={{m|Air Slash}}, {{m|Dragon Tail}}
+|special={{m|Outrage}}, {{m|Aerial Ace}}, {{m|Ancient Power}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Dragon
+|pictype=art
+|no1=384
+|name1=Rayquaza
+|type1-1=Dragon
+|type2-1=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Dragon|type2=Flying}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=384}}
+{{Spritebox/4|ndex=384}}
+{{Spritebox/5|ndex=384}}
+{{Spritebox/6/2FormsORAS‎|ndex=384|form1=M}}
+{{Spritebox/7/2Forms‎|ndex=384|form1=M}}
+{{Spritebox/Footer|384|Rayquaza}}
+
+==Trivia==
+* Rayquaza has many differences from the other members of [[weather trio|its trio]]:
+** It is the only member without a [[Primal Reversion|Primal form]], instead having the ability to [[Mega Evolve]].
+** It is the only member not to be directly sought after by a specific crime syndicate.
+** It is the only member that cannot learn an [[One-hit knockout move|OHKO]] move.
+** It is the only member that cannot learn its [[signature move]] by level-up, as it must learn it by move tutor.
+** It is the only member that didn't appear in the episodes ''[[AG097|Gaining Groudon]]'' and ''[[AG098|The Scuffle of Legends]]''.
+* Mega Rayquaza has the highest {{stat|Attack}} and {{stat|Special Attack}} stats and the highest base stat total of all {{type|Dragon}} and {{type|Flying}} Pokémon.
+* Mega Rayquaza is the [[List of Pokémon by height|tallest]] {{type|Flying}} Pokémon, the tallest Mega Evolved Pokémon and the tallest [[Legendary Pokémon]].
+* Rayquaza's catch rate was raised from its original value of 3 to 45 in {{g|Omega Ruby and Alpha Sapphire}}.
+* Rayquaza is the only Legendary Pokémon that can be caught at a higher level than the [[Elite Four]]'s Pokémon before defeating the {{Ho|Elite Four}}. However, this is only possible in {{g|Emerald}}.
+* Rayquaza was the most voted Pokémon of all pre-[[Generation V]] Pokémon in the {{pmin|South Korea|Korean}} [[Pokémon Global Link]] [[List of Pokémon Global Link promotions/Pokémon#Rayquaza|promotion]] poll.
+** Rayquaza was also the most voted on the {{DL|List of local Japanese event Pokémon distributions in Generation V|15th Anniversary Rayquaza|15th anniversary poll}}, which was for the [[game mascot]]s of the [[core series]] Pokémon games, making it Japan's favorite game mascot.
+* Rayquaza is misspelled as "Rayquayza" in {{g|Team Turbo}} in every instance.
+* Rayquaza is the only Pokémon capable of Mega Evolving that does not require a [[Mega Stone]] to do so in the games.
+** It is therefore the only Pokémon that can have a different held item while Mega Evolved, since Mega Stones cannot be taken off their proper holder during battle.
+* Mega Rayquaza is tied with {{p|Mewtwo}}'s Mega Evolutions for the highest base stat total of all Pokémon, with 780.
+** This makes it the only Pokémon with a base stat total above 720 that doesn't require a specific held item.
+* When Mega Evolving Rayquaza, the game will state, "<player>'s fervent wish has reached Rayquaza", instead of the normal message.
+
+===Origin===
+Rayquaza may be based on the Hebrew legends of {{wp|Ziz}}, the unconquerable primal master of the sky. Its counterparts were {{wp|Behemoth}} and {{wp|Leviathan}}. Rayquaza's appearance also draws inspiration from other creatures of myth such as the {{wp|Asian dragon}} and ''{{wp|lindworm}}''. Alternatively, Rayquaza matches the description of the Aztec god {{wp|Quetzalcoatl}}, who was depicted as a flying serpent, and created the boundary between the earth (including the oceans) and the sky. Its trait of being capable of inhabiting the skies, and living there while subsisting on nothing but dew and particles for centuries, also bears aspects of the legendary Chinese xian hermit sages and East Asian dragons.
+
+====Name origin====
+Rayquaza most likely refers to ''{{wp|Raqiya}}'', the Hebrew word for "firmament". It also may be a combination of ''{{wp|ray (geometry)|ray}}'' and ''{{wp|quasar}}''. Alternatively, it may be a combination of 烈 ''retsu'' (violent or furious), 空 ''kū'' (sky), and 座 ''za'' (seat or location), which can be taken to mean "one that sits in the ferocious heavens".
+
+Rayquaza's mikado organ refers to 帝 ''mikado'' (emperor), another name for the {{wp|Emperor of Japan}} or 天皇 ''tennō'' in Japanese, which can be translated as either "heavenly sovereign" or "king of the heaven/sky".
+
+==In other languages==
+{{Other languages|type=Dragon|type2=Flying
+|ja=レックウザ ''Rayquaza''|jameaning=Possibly from ''ray'' and ''quasar''. Alternatively, it may be a combination of 烈 ''retsu'' (violent or furious), 空 ''kū'' (sky), and 座 ''za'' (seat or location), which can be taken to mean "one that sits in the ferocious heavens".
+|de=Rayquaza|demeaning=Same as Japanese name
+|fr=Rayquaza|frmeaning=Same as Japanese name
+|es=Rayquaza|esmeaning=Same as Japanese name
+|it=Rayquaza|itmeaning=Same as Japanese name
+|ko=레쿠쟈 ''Rayquaza''|komeaning=Transliteration of the Japanese name
+|zh_cmn=烈空坐 ''Lièkōngzuò''|zh_cmnmeaning=From its Japanese name. Can also be taken as "one who sits in the fierce heavens".
+|zh_yue=烈空坐 ''Lihthūngjoh''|zh_yuemeaning=Same as Mandarin name
+|ru=Райкваза ''Raikvaza''|rumeaning=Transcription of English/Japanese name
+|th=เร็คคูซ่า ''Rakquaza''|thmeaning=Transcription of Japanese name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Rayquaza (M07)]]
+* [[Recurring wild Pokémon in the anime#Rayquaza|Rayquaza (anime)]]
+* [[Super-ancient Pokémon (Adventures)#Rayquaza|Rayquaza (Adventures)]]
+* [[Weather trio]]
+
+==Notes==
+<references/>
+
+==External links==
+* {{wp|Rayquaza|Article on Wikipedia}}
+* [http://www.smashbros.com/wii/en_us/gamemode/modea/modea09.html Rayquaza's encounter in The Subspace Emissary]
+
+{{-}}
+{{Legendary Pokémon}}<br>
+{{PokémonPrevNext/Head|type=Dragon|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=383|prev=Groudon|nextnum=385|next=Jirachi}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that learn HM moves by level-up]]
+[[Category:Legendary Pokémon]]
+[[Category:Legendary Pokémon obtainable before the Elite Four]]
+[[Category:Hoenn Legendary Pokémon]]
+[[Category:Trio masters]]
+[[Category:Game mascots]]
+[[Category:Legendary trio Pokémon]]
+
+[[de:Rayquaza]]
+[[fr:Rayquaza]]
+[[it:Rayquaza]]
+[[ja:レックウザ]]
+[[pl:Rayquaza]]
+[[zh:烈空坐]]

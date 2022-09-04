@@ -1,0 +1,274 @@
+{{PokémonPrevNext/Head|type=Water|type2=Bug}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=750|prev=Mudsdale|nextnum=752|next=Araquanid}}
+|}
+{{Pokémon Infobox
+|name=Dewpider
+|jname=シズクモ
+|tmname=Shizukumo
+|ndex=751
+|type1=Water
+|type2=Bug
+|category=Water Bubble
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=8.8
+|weight-kg=4.0
+|adex=141
+|abilityn=d
+|ability1=Water Bubble
+|abilityd=Water Absorb
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Bug
+|eggcycles=15
+|evtotal=1
+|evsd=1
+|expyield=54
+|lv100exp=1,000,000
+|gendercode=127
+|color=Green
+|catchrate=200
+|body=07
+|pokefordex=dewpider
+|generation=7
+|friendship=70
+}}
+'''Dewpider''' ([[List of Japanese Pokémon names|Japanese]]: '''シズクモ''' ''Shizukumo'') is a dual-type {{2t|Water|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] into {{p|Araquanid}} starting at [[level]] 22.
+
+==Biology==
+Dewpider is a Pokémon resembling a spider. The most prominent feature of Dewpider is the water bubble that covers its head, which is anchored to the thorax by the means of three thin, green projections. Dewpider has a large, gray face with large blue oval-shaped eyes. It has two small blue spikes on its forehead and a yellow mouth. Dewpider's body is primarily light green with three thin, green legs, and a gray abdomen with a small stinger on the bottom.
+
+Dewpider can only breath oxygen dissolved in water. The bubble serves as a means of protection to Dewpider's soft head and allows it to breathe when on land. When this Pokémon comes across enemies or potential prey, it slams its bubble-covered head into them. When meeting another of its kind, the bubbles are compared and the one with the smaller bubble gets out of the other's way. 
+<!--
+==In the anime==
+===Major appearances===
+===Minor appearances===
+
+==In the manga==-->
+
+==In the TCG==
+{{main|Dewpider (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Bug}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It crawls onto the land in search of food. Its water bubble allows it to breathe and protects its soft head.}}
+{{Dex/Entry1|v=Moon|entry=When it comes across enemies or potential prey, this Pokémon smashes its water-bubble-covered head into them.}}
+{{Dex/Entry1|v=Ultra Sun|entry=When two Dewpider meet, they display their water bubbles to each other. Then the one with the smaller bubble gets out of the other's way.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It can only breathe oxygen that has dissolved in water, so it wears a water bubble on its head when it walks around on land.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Bug}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Brooklet Hill]]{{sup/t|Day}} ({{m|Surf}}ing and walking)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Brooklet Hill]]{{sup/t|Day}} ({{m|Surf}}ing and walking)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Grass}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|The Daily Pokémon (#8)}}''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Water|type2=Bug
+|sm1=Mystic Water|sm1type=None|sm1rar=5
+|usum1=Mystic Water|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Water
+|type2=Bug
+|HP=38
+|Attack=40
+|Defense=52
+|SpAtk=40
+|SpDef=72
+|Speed=27}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=50
+|Grass=100
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|waterabsorb=maybe
+|waterbubble=maybe
+|newfire=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Dewpider|Water|Bug|7}}
+{{learnlist/level7|1|Water Sport|Water|Status|—|—|15}}
+{{learnlist/level7|1|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/level7|5|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/level7|8|Spider Web|Bug|Status|—|—|10}}
+{{learnlist/level7|13|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|16|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level7|21|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|24|Aqua Ring|Water|Status|—|—|20}}
+{{learnlist/level7|29|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/level7|32|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|37|Lunge|Bug|Physical|80|100|15||'''}}
+{{learnlist/level7|40|Mirror Coat|Psychic|Special|—|100|20}}
+{{learnlist/level7|45|Liquidation|Water|Physical|85|100|10||'''}}
+{{learnlist/level7|48|Entrainment|Normal|Status|—|100|15}}
+{{learnlist/levelf/7|Dewpider|Water|Bug|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Dewpider|Water|Bug|7}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM28|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Dewpider|Water|Bug|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Dewpider|Water|Bug|7}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}|Aurora Beam|Ice|Special|65|100|20}}
+{{learnlist/breed7|{{MSP|213|Shuckle}}|Power Split|Psychic|Status|—|—|10}}
+{{learnlist/breed7|{{MSP|279|Pelipper}}|Spit Up|Normal|Special|—|100|10}}
+{{learnlist/breed7|{{MSP|167|Spinarak}}{{MSP|168|Ariados}}{{MSP|213|Shuckle}}{{MSP|283|Surskit}}{{MSP|402|Kricketune}}{{MSP|540|Sewaddle}}<br>{{MSP|596|Galvantula}}|Sticky Web|Bug|Status|—|—|20|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|279|Pelipper}}|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/breedf/7|Dewpider|Water|Bug|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Dewpider|Water|Bug|7}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Liquidation|Water|Physical|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magic Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutorf/7|Dewpider|Water|Bug|7}}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Bug}}
+{{Spindata/Shuffle|col=6|type=Water|ndex=751|num=727
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Barrier Bash
+|skilldesc=Removes one barrier-type disruption without fail.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Water
+|type2=Bug
+|pictype=art
+|no1=751
+|name1=Dewpider
+|type1-1=Water
+|type2-1=Bug
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 22}}
+|no2=752
+|name2=Araquanid
+|type1-2=Water
+|type2-2=Bug}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Bug}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=751}}
+{{Spritebox/Footer|751|Dewpider}}
+
+==Trivia==
+* Dewpider can be seen as a counterpart to {{p|Surskit}}. Both share the {{t|Water}} and {{t|Bug}} types and the same base stat totals, both evolve at the same level, and both can be found at [[Brooklet Hill]] in [[Pokémon Sun and Moon]], taking the place of the other depending on the [[time]], with Dewpider being found during the day and Surskit at night.
+
+===Origin===
+Dewpider may be based on the {{wp|diving bell spider}}, a spider that lives primarily under water, gathering air into a bubble around its abdomen to breathe and provide air supply to its nest.
+====Name origin====
+Dewpider may be a combination of ''dew'' and ''spider''.
+
+Shizukumo may be a combination of 滴 ''shizuku'' (drop) and 蜘蛛 ''kumo'' (spider).
+
+==In other languages==
+{{Other languages|type=Water|type2=Bug
+|ja=シズクモ ''Shizukumo''|jameaning=From {{tt|滴 ''shizuku''|drop}} and {{tt|蜘蛛 ''kumo''|spider}}
+|fr=Araqua|frmeaning=From ''{{wp|Arachnida}}'' and ''aqua''
+|es=Dewpider|esmeaning=Same as English name
+|de=Araqua|demeaning=From ''Arachnida'' and ''aqua''
+|it=Dewpider|itmeaning=Same as English name
+|ko=물거미 ''Mulgeomi''|komeaning=From {{tt|물 ''mul''|water}} and {{tt|거미 ''geomi''|spider}} or {{tt|물거미 ''mulgeomi''|diving bell spider}}
+|zh_cmn=滴蛛 ''Dīzhū''|zh_cmnmeaning=From {{tt|滴 ''dī''|drop}} and {{tt|蜘蛛 ''zhīzhū''|spider}}
+|zh_yue=滴蛛 ''Dīkjyū''|zh_yuemeaning=From {{tt|滴 ''dīk''|drop}} and {{tt|蜘蛛 ''jījyū''|spider}}
+|ru=Дупайдер ''Dupayder''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+{{PokémonPrevNext/Head|type=Water|type2=Bug}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=750|prev=Mudsdale|nextnum=752|next=Araquanid}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Araqua]]
+[[fr:Araqua]]
+[[it:Dewpider]]
+[[ja:シズクモ]]
+[[zh:滴蛛]]

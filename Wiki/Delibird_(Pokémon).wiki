@@ -1,0 +1,508 @@
+{{PokémonPrevNext/Head|type=Ice|type2=Flying}}
+{{PokémonPrevNext/GO|species=Delibird}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=224|prev=Octillery|nextnum=226|next=Mantine|round=none}}
+{{PokémonPrevNext/Disambig|species=Delibird}}
+|}
+{{Pokémon Infobox
+|name=Delibird
+|jname=デリバード
+|jtranslit=Deribādo
+|tmname=Delibird
+|ndex=225
+|oldjdex=190
+|jdex=194
+|u2dex=254
+|karea=Mountain
+|kdex=090
+|adex=081
+|abrow=209
+|obrow=256
+|opbrow=032
+|typebox=1
+|type1=Ice
+|type2=Flying
+|category=Delivery
+|height-ftin=2'11″
+|height-m=0.9
+|weight-lbs=35.3
+|weight-kg=16.0
+|abilityn=d
+|ability1=Vital Spirit
+|ability2=Hustle
+|abilityd=Insomnia
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Field
+|eggcycles=20
+|evtotal=1
+|evsp=1
+|expyield=116
+|oldexp=183
+|lv100exp=800,000
+|gendercode=127
+|color=Red
+|catchrate=45
+|body=09
+|pokefordex=delibird
+|generation=2
+|friendship=70
+}}
+'''Delibird''' ([[List of Japanese Pokémon names|Japanese]]: '''デリバード''' ''Delibird'') is a dual-type {{2t|Ice|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+Delibird is a red, penguin-like Pokémon with a white, hollow tail. Its face and chest are covered in white feathers with two, three-pointed crests above its eyes. Black markings surround its circular eyes, and it has a light yellow beak and feet. There is a single white spot on its stomach. Its feet have two digits each.
+
+Delibird is omnivorous. It carries food bundled up in its tail. It normally gives stored food to its chicks, but has been known to share its food with humans stranded on icy mountains. Delibird's [[signature move]], {{m|Present}}, allows it to carry special items in its tail that may cause damage or heal its opponent. In a flock, the Delibird with the largest tail is its leader. Delibird tends to live in {{DL|List of Pokémon by habitat|Mountain Pokémon|mountainous regions}}, making its nests over sharp cliffs; one notable area of the world is around Mt. Everest.
+
+==In the anime==
+[[File:Team Rocket Delibird.png|thumb|250px|left|Delibird in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Delibird (Team Rocket)]]====
+Delibird made its main series debut in ''[[EP231|Dues and Don'ts]]''. It was owned by an [[Rocket Scout|elderly talent scout]] from [[Team Rocket]]. Since that episode, the Delivery Pokémon kept following [[Jessie]], [[James]], and {{MTR}} to collect money that the three of them owe. Fortunately for the Rocket trio, Delibird was no longer able to tail them since the action moved to the [[Hoenn]] region. Delibird has also appeared in ''[[AG177|Grating Spaces]]'', ''[[DP080|The Thief That Keeps On Thieving]]'', and ''[[DP191|Memories are Made of Bliss!]]''.
+
+====Other====
+Delibird debuted in ''[[PK08|Delibird's Dilemma]]'', under the ownership of [[Santa Claus]]. [[Ash's Totodile]] shot a Delibird that was delivering presents clear out of the sky with a {{m|Water Gun}}-propelled snowball. {{AP|Pikachu}} and his friends had to help the Delivery Pokémon find the five presents before midnight.
+
+===Minor appearances===
+A {{pkmn|Coordinator}}'s Delibird appeared in ''[[DP095|Battling The Generation Gap!]]'', where it was seen competing in the {{to|Celestic}} {{pkmn|Contest}}.
+
+Multiple Delibird appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP231|Delibird|Ash's Pokédex|Delibird, the Delivery Pokémon. Delibird's most unique [[Move|attack]] is {{m|Present|giving presents}}. However, some of these presents have been known to explode. Sometimes, Delibird's presents can actually restore energy to its opponents.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+
+==In the manga==
+[[File:Masked Man Delibird.png|thumb|200px|Delibird in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Delibird debuted in ''[[PS103|You Ain't Nothin' but a Houndour]]'' under the ownership of the [[Masked Man]], where it, along with his other Pokémon, attacked Gold. It is one of his most commonly used Pokémon. It appears to be the same Pokémon used by him in his alias, and was strong enough that it allowed him to capture {{p|Ho-Oh}}. However, {{adv|Gold}} was able to knock it out with [[Polibo]]'s {{m|Perish Song}} attack.
+
+Delibird appears as one of the Pokémon used by [[Pryce]]. It first appeared with him in his Gym in ''[[PS143|Irked Igglybuff and Curmudgeonly Cleffa]]''. It is likely to be the same Delibird used by his alias.
+
+In ''[[PS387|Striking Out Snover]]'', a wild Delibird is shown near [[Snowpoint City]], being cared for by [[Candice]].
+
+==In the TCG==
+{{main|Delibird (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Stadium 2]]: Delibird stars in its own mini-game called "Delibird's Delivery." In this game, players collect presents from one side of the field to the other. The player must avoid {{p|Swinub}} that scurry around or they will trip the Delibird and cause the player to lose the present they were carrying.
+* [[Pokémon Channel]]: Delibird is the delivery boy for the "Shop 'n {{p|Squirtle}}."
+
+===Pokédex entries===
+{{Dex/Header|type=Ice|type2=Flying}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It carries food all day long. There are tales about lost people who were saved by the food it had.}}
+{{Dex/Entry1|v=Silver|entry=It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.}}
+{{Dex/Entry1|v=Crystal|entry=It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It carries food all day long. There are tales about lost people who were saved by the food it had.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of {{wp|Mount Everest|Mt. Everest}} thanks to one of these Pokémon sharing its food.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a Delibird sharing its food.}}
+{{Dex/Entry1|v=FireRed|entry=It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.}}
+{{Dex/Entry1|v=LeafGreen|entry=It carries food all day long. There are tales about lost people who were saved by the food it had.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.}}
+{{Dex/Entry1|v=HeartGold|entry=It carries food all day long. There are tales about lost people who were saved by the food it had.}}
+{{Dex/Entry1|v=SoulSilver|entry=It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It carries food all day long. When someone is lost in the mountains, it shares that food.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.}}
+{{Dex/Entry1|v=Y|entry=It carries food all day long. When someone is lost in the mountains, it shares that food.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=fff|entry=Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Although it naturally prefers colder locales, Delibird in [[Alola]] seem able to withstand the heat to a certain extent.}}
+{{Dex/Entry1|v=Moon|entry=It has a generous habit of sharing its food with people and Pokémon, so it's always scrounging around for more food.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It shares its food with people who are stranded. Because Delibird is omnivorous, sometimes it gives those people bug Pokémon.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It wraps food in its tail to carry it around. The Delibird with the biggest tail is the boss of the flock!}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ice|type2=Flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1/None|1|v=Gold|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|1|v=Silver|area=[[Ice Path]]}}
+{{Availability/Entry1|1|v=Crystal|area=[[Ice Path]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Emerald|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=FireRed|area=[[Icefall Cave]]}}
+{{Availability/Entry1/None|v=LeafGreen|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=Colosseum|area=[[Realgam Tower]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|216|Sinnoh}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1|v=Platinum|area={{rt|217|Sinnoh}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1/None|v=HeartGold}}
+{{Availability/Entry1|v=SoulSilver|area=[[Ice Path]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Giant Chasm]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|22|Unova}} and [[Giant Chasm]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Windswept Sky}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|17|Kalos}}, [[Friend Safari]] ([[Friend Safari#Ice-type Safari|Ice]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=fff|area=[[Shoal Cave]] ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|3|Alola}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Seaward Cave]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ice|type2=Flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=Upgrade binder}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 19]], Endless Level 30, Forever Level 5, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Northwind Field]] (17F-25F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Blizzard Island]] (1F-20F), [[Crevice Cave]] (B1-B10, Lower Crevice Cave B1-B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Blizzard Island]] (1F-20F), [[Crevice Cave]] (B1-B10, Lower Crevice Cave B1-B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Hia Valley]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Iceberg Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Mt. Sorbet]], [[Forest Temple]], [[Fire Temple]], [[Ice Temple]], [[Thunder Temple]], [[Dark Temple]], [[Light Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Glacier: [[Frozen Tundra]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Verdant Plaza#Four Seasons in the Forest|Verdant Plaza: Four Seasons in the Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 3|Safari Jungle: Stage 3]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Mt. Vinter|Mt. Vinter: Stage 106]]<br>Event: ''[[Special Stages|Rake In Some Items!]]''<br>Event: ''{{DL|Special Stages|A Great Chance a Day!}}'' <small>(Holiday)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Aurora Ice Field|Pearl Marsh: Aurora Ice Field]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Ice|type2=Flying}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Pay Day Delibird|English|United States|5|December 21 to 27, 2001|link=List of Gotta Catch 'Em All event Pokémon#Pay Day Delibird}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Spikes Delibird|English|United States|5|December 20 to 26, 2002|link=List of Gotta Catch 'Em All event Pokémon#Spikes Delibird}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Third Campaign Delibird|Japanese|Japan|10|January 14 to 29, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Delibird}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Delibird|Japanese region|Online|10|December 25, 2015 to February 29, 2016|link=List of Japanese region serial code event Pokémon distributions in Generation VI#PGL Delibird}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Delibird|American region|Online|10|December 25, 2015 to February 29, 2016|link=List of American region serial code event Pokémon distributions in Generation VI#PGL Delibird}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Delibird|PAL region|Online|10|December 25, 2015 to February 29, 2016|link=List of PAL region serial code event Pokémon distributions in Generation VI#PGL Delibird}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Delibird|Korean region|Online|10|December 25, 2015 to February 29, 2016|link=List of Korean region serial code event Pokémon distributions in Generation VI#PGL Delibird}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Delibird|Taiwanese region|Online|10|December 25, 2015 to February 29, 2016|link=List of Taiwanese region serial code event Pokémon distributions in Generation VI#PGL Delibird}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Ice|type2=Flying
+|colo1=NeverMeltIce|colo1type=None|colo1rar=100
+|event1=Relic Gold|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ice
+|type2=Flying
+|HP=     45
+|Attack= 55
+|Defense=45
+|SpAtk=  65
+|SpDef=  45
+|Speed=  75 }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ice
+|type2=Flying
+|Speed=3
+|SpeedMax=3
+|Power=3
+|PowerMax=3
+|Technique=3
+|TechniqueMax=4
+|Stamina=4
+|StaminaMax=5
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ice
+|type2=Flying
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=    0
+|Rock=    400
+|Bug=      50
+|Ghost=   100
+|Steel=   200
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=200
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|flying=yes
+|newground=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Delibird|Ice|Flying|2}}
+{{learnlist/level7|1|Present|Normal|Physical|&mdash;|90|15}}
+{{learnlist/level7|25|Drill Peck|Flying|Physical|80|100|20||'''}}
+{{learnlist/levelf/7|Delibird|Ice|Flying|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Delibird|Ice|Flying|2}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM70|Aurora Veil|Ice|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Delibird|Ice|Flying|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Delibird|Ice|Flying|2}}
+{{learnlist/breed7|{{MSP|037A|Vulpix}}{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|134|Vaporeon}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}<br>{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}|Aurora Beam|Ice|Special|65|100|20||'''}}
+{{learnlist/breed7|{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}{{MSP|766|Passimian}}|Bestow|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|745D|Lycanroc}}<br>{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}{{MSP|771|Pyukumuku}}|Counter|Fighting|Physical|—|100|20|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|228|Houndour}}{{MSP|686|Inkay}}|Destiny Bond|Ghost|Status|&mdash;|&mdash;|5|*}}
+{{learnlist/breed7|{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|271|Lombre}}{{MSP|274|Nuzleaf}}<br>{{MSP|300|Skitty}}{{MSP|301|Delcatty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}<br>{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed7|{{MSP|037A|Vulpix}}{{MSP|131|Lapras}}{{MSP|220|Swinub}}|Freeze-Dry|Ice|Special|70|100|20|*|'''}}
+{{learnlist/breed7|{{MSP|196|Espeon}}{{MSP|359|Absol}}{{MSP|517|Munna}}{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|655|Delphox}}<br>{{MSP|765|Oranguru}}|Future Sight|Psychic|Special|120|100|10}}
+{{learnlist/breed7|{{MSP|027A|Sandshrew}}{{MSP|028A|Sandslash}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}|Ice Ball|Ice|Physical|30|90|20||'''}}
+{{learnlist/breed7|{{MSP|158|Totodile}}{{MSP|215|Sneasel}}{{MSP|427|Buneary}}{{MSP|461|Weavile}}{{MSP|559|Scraggy}}{{MSP|613|Cubchoo}}<br>{{MSP|759|Stufful}}|Ice Punch|Ice|Physical|75|100|15|*|'''}}
+{{learnlist/breed7|{{MSP|037A|Vulpix}}{{MSP|038A|Ninetales}}{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|131|Lapras}}{{MSP|215|Sneasel}}<br>{{MSP|220|Swinub}}{{MSP|471|Glaceon}}|Ice Shard|Ice|Physical|40|100|30||'''}}
+{{learnlist/breed7|{{MSP|037A|Vulpix}}{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|215|Sneasel}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}<br>{{MSP|461|Weavile}}{{MSP|471|Glaceon}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}<br>{{MSP|730|Primarina}}|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|025|Pikachu}}{{MSP|026|Raichu}}<br>{{MSP|026A|Raichu}}{{MSP|037|Vulpix}}{{MSP|038|Ninetales}}{{MSP|078|Rapidash}}{{MSP|133|Eevee}}{{MSP|134|Vaporeon}}<br>{{MSP|135|Jolteon}}{{MSP|136|Flareon}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|161|Sentret}}<br>{{MSP|162|Furret}}{{MSP|196|Espeon}}{{MSP|197|Umbreon}}{{MSP|215|Sneasel}}{{MSP|255|Torchic}}{{MSP|256|Combusken}}<br>{{MSP|257|Blaziken}}{{MSP|278|Wingull}}{{MSP|283|Surskit}}{{MSP|284|Masquerain}}{{MSP|309|Electrike}}{{MSP|310|Manectric}}<br>{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|417|Pachirisu}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|427|Buneary}}<br>{{MSP|428|Lopunny}}{{MSP|448|Lucario}}{{MSP|461|Weavile}}{{MSP|470|Leafeon}}{{MSP|471|Glaceon}}{{MSP|522|Blitzle}}<br>{{MSP|523|Zebstrika}}{{MSP|587|Emolga}}{{MSP|656|Froakie}}{{MSP|657|Frogadier}}{{MSP|658|Greninja}}{{MSP|659|Bunnelby}}<br>{{MSP|660|Diggersby}}{{MSP|700|Sylveon}}{{MSP|745|Lycanroc}}|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}<br>{{MSP|028A|Sandslash}}{{MSP|232|Donphan}}{{MSP|324|Torkoal}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}{{MSP|775|Komala}}|Rapid Spin|Normal|Physical|20|100|40}}
+{{learnlist/breed7|{{MSP|658|Greninja}}|Spikes|Ground|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|325|Spoink}}{{MSP|326|Grumpig}}{{MSP|349|Feebas}}{{MSP|427|Buneary}}<br>{{MSP|428|Lopunny}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Splash|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breedf/7|Delibird|Ice|Flying|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Delibird|Ice|Flying|2}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5||'''|no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Delibird|Ice|Flying|2}}
+
+===Side game data===
+{{Spindata/Head|type=Ice|type2=Flying}}
+{{Spindata/Trozei|col=6|type=Ice|ndex=225|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Ice|ndex=225
+|body=1
+|rate=8.8
+|area=Frigid Cavern
+|P1=If you need anything delivered, I'm at your service!
+|P2=Wait a second... Only half my HP is left!
+|P3=I'm finished... I have no energy left at all...
+|PL=Oh, yippee! I leveled up! That makes me happy!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ice|ndex=225
+|body=1
+|rate=8.2
+|IQ=B
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ice
+|group=Ice
+|assist=Ice
+|field=Crush
+|fieldpower=1
+|browser=It hurls hunks of ice to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Ice
+|group=Ice
+|assist=Ice
+|field=Crush
+|fieldpower=3
+|browser=It causes blizzards around itself that make Pokémon Stopped.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Ice
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Ice|ndex=225
+|Pad=Delibird gave you the Ice Tree decorations as presents. His favorite Attraction is {{DL|Attractions|Empoleon's Snow Slide}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Ice|ndex=225
+|pad=Maybe because his tail is like a bag, but he is often asked to deliver things to other Pokémon. He can't say no, because he really likes to have others rely on him.
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Ice|ndex=225
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Ice|ndex=225|num=144
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Chill
+|skilldesc=Delays your opponent's disruptions.
+}}
+{{Spindata/Shuffle|col=3|type=Ice|ndex=225Holiday|num=144
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Stabilize++
+|skilldesc=Sometimes erases five of the foe's disruptions on the board.
+}}
+|-
+{{Spindata/GO|col=6|type=Ice|ndex=225
+|buddy=5
+|evolution=N/A
+|stamina=90
+|attack=128
+|defense=90
+|fast={{m|Ice Shard}}, {{m|Quick Attack}}, {{m|Present}}
+|special={{m|Ice Punch}}, {{m|Icy Wind}}, {{m|Aerial Ace}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Ice
+|type2=Flying
+|pictype=art
+|no1=225
+|name1=Delibird
+|type1-1=Ice
+|type2-1=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Ice|type2=Flying}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=225}}
+{{Spritebox/3|ndex=225}}
+{{Spritebox/4|ndex=225}}
+{{Spritebox/5|ndex=225}}
+{{Spritebox/6|ndex=225}}
+{{Spritebox/7|ndex=225}}
+{{Spritebox/Footer|225|Delibird}}
+
+==Trivia==
+* Delibird is one of the few Pokémon who can learn TM moves when it learns fewer than four moves by leveling up.
+* The [[Pokémon Ultimate Handbook]] incorrectly states that Delibird is a [[Legendary Pokémon]].
+* Delibird has {{a|Insomnia}} as its Hidden [[Ability]] although it already has access to {{a|Vital Spirit}}, another Ability with exactly the same in-battle effect.
+
+===Origin===
+Aspects of Delibird's appearance appear to come from the {{wp|rockhopper penguin}}. However, its red and white color scheme, its ability to give presents, and the appearance of carrying its sack-like tail is likely to have been derived from {{wp|Santa Claus}} and possibly the {{wp|white stork}}. Delibird may have also been inspired by {{wp|puffin}}s, which are penguin-like birds that still have the ability to fly.
+
+====Name origin====
+Delibird is a combination of ''delivery'' and ''bird''. ''Deli'' may have derived from the {{wp|Adélie penguin}}. Pronouncing ''Delibird'' with the same inflection as ''delivered'' yields a very similar sound, with the "b" and "v" being the only variation between the two words.
+
+==In other languages==
+{{Other languages|type=Ice|type2=Flying
+|ja=デリバード ''Delibird''|jameaning=From ''deliver'' and ''bird''
+|fr=Cadoizo|frmeaning=From ''{{tt|cadeau|present}}'' and ''{{tt|oiseau|bird}}''
+|es=Delibird|esmeaning=Same as English name
+|de=Botogel|demeaning=From ''{{tt|Bote|messenger}}'' and ''{{tt|Vogel|bird}}''
+|it=Delibird|itmeaning=Same as English name
+|ko=딜리버드 ''Delibird''|komeaning=Transliteration of its English name
+|zh_cmn=信使鳥 / 信使鸟 ''Xìnshǐniǎo''|zh_cmnmeaning=Literally "Messenger bird"
+|hi=डेलिबार्ड ''Delibird''|himeaning=Transcription of English name
+|ru=Делибёрд ''Delibyord''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Delibird (Team Rocket)]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ice|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=224|prev=Octillery|nextnum=226|next=Mantine}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+[[Category:Pokémon that run from battle]]
+
+[[de:Botogel]]
+[[fr:Cadoizo]]
+[[it:Delibird]]
+[[ja:デリバード]]
+[[pl:Delibird]]
+[[zh:信使鸟]]

@@ -1,0 +1,415 @@
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=613|prev=Cubchoo|nextnum=615|next=Cryogonal|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Beartic}}
+|}
+{{Pokémon Infobox
+|name=Beartic
+|jname=ツンベアー
+|jtranslit=Tsunbeā
+|tmname=Tunbear
+|category=Freezing
+|type1=Ice
+|abilityn=d
+|ability1=Snow Cloak
+|ability2=Slush Rush
+|abilityd=Swift Swim
+|ndex=614
+|udex=120
+|u2dex=196
+|karea=Mountain
+|kdex=082
+|height-ftin=8'06"
+|height-m=2.6
+|weight-lbs=573.2
+|weight-kg=260.0
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|expyield=177<!--170 in Gen V-VI-->
+|lv100exp=1,000,000
+|gendercode=127
+|color=White
+|catchrate=60
+|evtotal=2
+|evat=2
+|body=08
+|pokefordex=beartic
+|generation=5
+|friendship=70
+}}
+'''Beartic''' ([[List of Japanese Pokémon names|Japanese]]: '''ツンベアー''' ''Tunbear'') is an {{type|Ice}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[evolution|evolves]] from {{p|Cubchoo}} starting at [[level]] 37.
+
+==Biology==
+Beartic is an ursine, quadruped Pokémon capable of standing on its hind legs. It has bluish white fur with a shaggy tuft at its rear. Three spikes of ice hang from its lower jaw, forming a beard. Its face consists of a long snout, beady black eyes, and rounded ears. Its large forepaws have black claws and paw pads. Beartic is capable of freezing its own breath, and will create pathways across water using this technique. It inhabits northern areas where it catches prey in the cold waters.
+
+==In the anime==
+[[File:Morgan Beartic.png|thumb|250px|Beartic in the {{pkmn|anime}}]]
+===In the main series===
+====Major appearances====
+=====[[Georgia's Beartic]]=====
+Beartic debuted in ''[[BW033|Iris and Excadrill Against the Dragon Buster!]]'', under the ownership of [[Georgia]]. It was first used in Georgia's battle against {{an|Iris}}. It easily managed to defeat {{TP|Iris|Axew}}, as well as {{TP|Iris|Excadrill}}. It was later challenged to a rematch, where it tied against Excadrill.
+
+=====Other=====
+Multiple wild Beartic appeared in ''[[BW046|The Beartic Mountain Feud!]]''.
+
+A Beartic appeared in ''[[BW078|Guarding the Guardian of the Mountain!]]'', under the ownership of [[Brycen]].
+
+A wild Beartic appeared in ''[[BW088|The Mystery of the Missing Cubchoo!]]''. It was briefly mistaken as {{OBP|Chris|BW088}}'s {{p|Cubchoo}}, which they thought had evolved. However, this was proven wrong when Chris couldn't recall it into a Poké Ball.
+
+A Beartic appeared in ''[[BW112|Team Plasma's Pokémon Power Plot!]]'' as a test specimen of [[Colress]].
+
+A Beartic appeared in ''[[BW134|The Journalist from Another Region!]]'', under the ownership of {{OBP|Morgan|BW134}}. It was used in a battle against Iris, where it took on {{TP|Iris|Dragonite}} but won when Dragonite was disqualified. Another Beartic appeared during a flashback explaining the history of the [[Pokémon Sumo Tournament]] on [[Harvest Island]].
+
+====Minor appearances====
+A group of Beartic appeared in the prologue of ''[[M14|Black—Victini and Reshiram]]''. They lived on the frozen tundra where the village that [[Glacine]], [[Luis]], [[Donuke]], and other People of the Vale lived in was located. They were seen lingering on an ice shelf when a giant glacier collided with the ice, agitating them.
+
+A Beartic appeared in ''[[M15|Kyurem VS. The Sword of Justice]]'', during the {{OBP|Swords of Justice|M15}} legend.
+
+A Beartic appeared in a fantasy in ''[[BW120|Ash and N: A Clash of Ideals!]]''.
+
+A Beartic appeared in a fantasy or a flashback in ''[[BW134|The Journalist from Another Region!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW033|Beartic|Ash's Pokédex|Beartic, the Freezing Pokémon. Beartic's frozen breath can create fangs and claws made of ice. It lives in frigid northern areas.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+===In Pokémon Generations===
+[[File:Brycen Beartic PG.png|thumb|250px|Beartic in [[Pokémon Generations]]]]
+[[Brycen]]'s Beartic appeared in ''[[PG13|The Uprising]]''.
+{{-}}
+
+==In the manga==
+[[File:Brycen Beartic Adventures.png|thumb|200px|Beartic in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A {{tc|Team Plasma Grunt}} used a Beartic to battle {{adv|Black}} and {{adv|Cheren}} inside the [[Cold Storage]] in ''[[PS491|Fight in a Cold Climate]]''.
+
+A Trainer's Beartic appeared in ''[[PS489|Drawing Bridges]]''.
+
+In ''[[PS499|School of Hard Knocks]]'', [[Brycen]]'s Beartic was used in the Gym Battle against Black to conclude his training. It was defeated by Black's [[Costa]].
+
+A Beartic appeared in a flashback as a Pokémon trained by the [[International Police]] in ''[[PS528|Innocent Scientist]]''.
+
+===In the Pokémon RéBURST manga===
+A Beartic appears as the [[Burst]] form of Loren.
+
+==In the TCG==
+{{main|Beartic (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ice}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It can make its breath freeze at will. Very able in the water, it swims around in northern seas and catches prey.}}
+{{Dex/Entry1|v=White|entry=It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.}}
+{{Dex/Entry1|v=Y|entry=It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Dragonspiral Tower]] ({{DL|Tall grass|dark grass}}){{sup/s|W}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Twist Mountain]]<br>[[Dragonspiral Tower]]{{sup/s|W}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Frost Cavern]], [[Friend Safari]] ([[Friend Safari#Ice-type Safari|Ice]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Cubchoo}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ice}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Glacier: [[Frozen Tundra]], [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Nixtorm]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Tyrian Maze]] (B1-B11), [[Glacier Palace - Eastern Spire]] (1F-12F), [[Glacier Palace - Western Spire]] (1F-12F), [[Silent Tundra]] (B1-B26), [[Dreamy Island]] (1F-25F), [[Moonlit Forest]] (Golden Chamber), [[Cape at the Edge]] (B1-B29), high difficulty Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Verdant Plaza#Four Seasons in the Forest|Verdant Plaza: Four Seasons in the Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 1|Safari Jungle: Stage 1]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 548]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Aurora Ice Field|Pearl Marsh: Aurora Ice Field]] <small>(All Areas)</small>, [[Distortion Land#Outermost Snowfield|Distortion Land: Outermost Snowfield]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Ice
+|bw1=Aspear Berry|bw1type=Berry|bw1rar=50
+|b2w21=Aspear Berry|b2w21type=Berry|b2w21rar=50
+}}
+
+===Stats===
+====Base stats====
+=====Generation V-VI=====
+{{Stats
+|type=Ice
+|HP=95
+|Attack=110
+|Defense=80
+|SpAtk=70
+|SpDef=80
+|Speed=50}}
+
+=====Generation VII=====
+{{Stats
+|type=Ice
+|HP=95
+|Attack=130
+|Defense=80
+|SpAtk=70
+|SpDef=80
+|Speed=50}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ice
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=200
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Beartic|Ice|Ice|5}}
+{{learnlist/level7|1|Icicle Crash|Ice|Physical|85|90|10||'''}}
+{{learnlist/level7|1|Sheer Cold|Ice|Special|—|—|5}}
+{{learnlist/level7|1|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|1|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/level7|1|Aqua Jet|Water|Physical|40|100|20}}
+{{learnlist/level7|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level7|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level7|1|Bide|Normal|Physical|—|—|10}}
+{{learnlist/level7|1|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Icicle Crash|Ice|Physical|85|90|10||'''}}
+{{learnlist/level7|5|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level7|9|Bide|Normal|Physical|—|—|10}}
+{{learnlist/level7|13|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level7|15|Play Nice|Normal|Status|—|—|20}}
+{{learnlist/level7|17|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level7|21|Brine|Water|Special|65|100|10}}
+{{learnlist/level7|25|Endure|Normal|Status|—|—|10}}
+{{learnlist/level7|29|Swagger|Normal|Status|—|85|15}}
+{{learnlist/level7|33|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|36|Flail|Normal|Physical|—|100|15}}
+{{learnlist/level7|41|Rest|Psychic|Status|—|—|10}}
+{{learnlist/level7|45|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/level7|53|Hail|Ice|Status|—|—|10}}
+{{learnlist/level7|59|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|66|Sheer Cold|Ice|Special|—|—|5}}
+{{learnlist/levelf/7|Beartic|Ice|Ice|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Beartic|Ice|Ice|5}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Beartic|Ice|Ice|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Beartic|Ice|Ice|5}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}<br>{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|197|Umbreon}}{{MSP|203|Girafarig}}<br>{{MSP|232|Donphan}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|461|Weavile}}{{MSP|498|Tepig}}{{MSP|499|Pignite}}<br>{{MSP|500|Emboar}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|551|Sandile}}<br>{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP|034|Nidoking}}{{MSP|087|Dewgong}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}{{MSP|471|Glaceon}}{{MSP|215|Sneasel}}<br>{{MSP|461|Weavile}}{{MSP|217|Ursaring}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|225|Delibird}}{{MSP|295|Exploud}}<br>{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|365|Walrein}}{{MSP|395|Empoleon}}|Avalanche|Ice|Physical|60|100|10|‡|'''}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|363|Spheal}}<br>{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|572|Minccino}}<br>{{MSP|587|Emolga}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|288|Vigoroth}}{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}|Focus Punch|Fighting|Physical|150|100|20}}
+{{learnlist/breed7|{{MSP|427|Buneary}}|Ice Punch|Ice|Physical|75|100|15|*|'''}}
+{{learnlist/breed7|{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|083|Farfetch'd}}{{MSP|336|Seviper}}{{MSP|359|Absol}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|461|Weavile}}<br>{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|571|Zoroark}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|264|Linoone}}{{MSP|300|Skitty}}{{MSP|303|Mawile}}{{MSP|506|Lillipup}}<br>{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|702|Dedenne}}|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|206|Dunsparce}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|287|Slakoth}}<br>{{MSP|289|Slaking}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|369|Relicanth}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}<br>{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}{{MSP|513|Pansear}}{{MSP|517|Munna}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}<br>{{MSP|775|Komala}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Beartic|Ice|Ice|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Beartic|Ice|Ice|5}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Beartic|Ice|Ice|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Beartic|Ice|Ice|5}}
+{{learnlist/prevo7|613|Cubchoo|||||Charm|Fairy|Status|—|100|20}}
+{{learnlist/prevof/7|Beartic|Ice|Ice|5}}
+
+===Side game data===
+{{Spindata/Head|type=Ice}}
+{{Spindata/RumbleBlast|col=6|type=Ice
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Ice|ndex=614
+|strong=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=He is cool and doesn't worry too much unless {{p|Cubchoo}} is involved. Then he becomes very concerned.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Ice|ndex=614
+|HP=4
+|atk=4
+|def=3
+|spd=2
+|range=2
+|move=Icicle Crash
+|ability1=Stealth
+|ability2=Tenacity
+|ability3=Frighten
+|evo=Evolves from {{p|Cubchoo}} when its Attack is 73 or higher
+|link={{DL|List of Pokémon Conquest characters|Shigemoto}} and {{DL|List of Pokémon Conquest characters|Yoshikiyo}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ice|ndex=614
+|power=2
+|skill=True Strength
+|skilldesc=Increases damage dealt when energy levels are half or less.
+}}
+{{Spindata/Shuffle|col=3|type=Ice|ndex=614|num=651
+|min=60
+|max=120
+|raisemaxlevel=10
+|skill=Ice Dance
+|skilldesc=Increases damage done by Ice types in the combo.
+|swapper=Relentless
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Ice
+|no1=613
+|name1=Cubchoo
+|type1-1=Ice
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 37}}
+|no2=614
+|name2=Beartic
+|type1-2=Ice
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Ice}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=614}}
+{{Spritebox/6|ndex=614}}
+{{Spritebox/7|ndex=614}}
+{{Spritebox/Footer|614|Beartic}}
+
+==Trivia==
+===Origin===
+Beartic is based on a {{wp|polar bear}}.
+
+====Name origin====
+Beartic is a combination of ''bear'', or possibly ''beard'', and ''{{wp|arctic}}''. Notably, ''arctic'' itself derives from ἄρκτος ''arktos'', Ancient Greek for ''bear''.
+
+Tunbear may be a combination of ''{{wp|tundra}}'', 氷柱 ''tsurara'' (icicle), and ''bear''.
+
+==In other languages==
+{{Other languages|type=Ice|type2=Ice
+|ja=ツンベアー ''Tunbear''|jameaning=From ''tundra'', {{tt|氷柱 ''tsurara''|icicle}} and ''bear''
+|fr=Polagriffe|frmeaning=From ''{{tt|polaire|polar}}'' and ''{{tt|griffe|claw}}''
+|es=Beartic|esmeaning=Same as English name
+|de=Siberio|demeaning=From ''{{wp|Siberia}}'' and ''{{tt|Bär|bear}}''
+|it=Beartic|itmeaning=Same as English name
+|ko=툰베어 ''Tunbear''|komeaning=Transliteration of Japanese name
+|zh_cmn=凍原熊 / 冻原熊 ''Dòngyuánxióng''|zh_cmnmeaning=Literally "Tundra bear"
+|ru=Бертик ''Bertik''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Georgia's Beartic]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ice}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=613|prev=Cubchoo|nextnum=615|next=Cryogonal}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Siberio]]
+[[fr:Polagriffe]]
+[[it:Beartic]]
+[[ja:ツンベアー]]
+[[pl:Beartic]]
+[[zh:冻原熊]]

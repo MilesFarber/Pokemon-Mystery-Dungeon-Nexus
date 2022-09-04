@@ -1,0 +1,584 @@
+{{PokémonPrevNext/Head|type=Water|type2=Flying}}
+{{PokémonPrevNext/GO|species=Wingull}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=277|prev=Swellow|nextnum=279|next=Pelipper|round=none}}
+{{PokémonPrevNext/Disambig|species=Wingull}}
+|}
+{{Pokémon Infobox
+|name=Wingull
+|jname=キャモメ
+|jtranslit=Kyamome
+|tmname=Camome
+|ndex=278
+|hdex=027
+|fbrow=122
+|sdex=119
+|u2dex=212
+|karea=Coastal
+|kdex=017
+|adex=040
+|abrow=078
+|obrow=023
+|opbrow=138
+|type1=Water
+|type2=Flying
+|category=Seagull
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=20.9
+|weight-kg=9.5
+|abilityn=d
+|ability1=Keen Eye
+|ability2=Hydration
+|abilityd=Rain Dish
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Flying
+|eggcycles=20
+|evtotal=1
+|evsp=1
+|expyield=54
+|oldexp=64
+|lv100exp=1,000,000
+|gendercode=127
+|color=White
+|catchrate=190
+|body=09
+|pokefordex=wingull
+|generation=3
+|friendship=70
+}}
+'''Wingull''' ([[List of Japanese Pokémon names|Japanese]]: '''キャモメ''' ''Camome'') is a dual-type {{2t|Water|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolve]]s into {{p|Pelipper}} starting at [[level]] 25.
+
+==Biology==
+Wingull is a small, white Pokémon similar to a seagull. Its head makes up a large portion of its body, as it appears to lack a neck. It has thin, simplistic eyes, two triangular tufts on top its head, and an orange beak with a hooked, black tip. Three blue-tipped feathers give it a fan-like tail. Its small, orange feet have two webbed toes. Wingull has long, flat wings with light blue stripes near the tips. By extending its wings, it is able to catch updrafts and glide across the sky. 
+
+It builds its nests on {{DL|List of Pokémon by habitat|Sea Pokémon|steep cliffs by the sea,}} and habitually hides prey and valuables in various locations using its beak. In [[Alola]], Wingull's main predator is {{p|Talonflame}}, which attacks and catches them with powerful kicks. It circles above oceans looking for its favorite food - {{p|Wishiwashi}} - to eat. Fishermen use this skill to locate areas teeming with fish Pokémon. It also loves to eat {{p|Finneon}} who jump up on the sea surface.
+
+==In the anime==
+===In the main series===
+[[File:Wingull anime.png|thumb|250px|Wingull in the {{pkmn|anime}}]]
+====Major appearances====
+=====[[Peeko]]=====
+[[Mr. Briney]]'s Wingull, [[Peeko]], first appeared in ''[[AG018|On a Wingull and a Prayer!]]''.
+
+=====Other=====
+A Wingull appeared in ''[[AG056|Poetry Commotion!]]'', under the ownership of [[Mr. Moore]]. Wingull was used to pop a hole in Team Rocket's balloon as they attempted to escape with [[Flannery]]'s {{p|Torkoal}}.
+
+[[Holly]] owns a Wingull, which she used in the [[Hearthome City Tag Battle Competition]] in ''[[DP050|Tag! We're It...!]]''. It battled with [[Brock's Sudowoodo]] against a {{p|Bagon}} and a {{p|Yanma}}. With the help of advice from {{an|Brock}}, they eventually won the match.
+
+====Minor appearances====
+A Wingull appeared in ''[[EP274|Hoenn Alone!]]'', where it was seen flying above the ship which took {{Ash}} to [[Hoenn]].
+
+Multiple Wingull appeared in ''[[AG027|A Three Team Scheme!]]'', one of which pecks [[Professor Birch]] for disturbing its nest.
+
+Multiple Wingull appeared in ''[[AG032|Abandon Ship!]]''.
+
+A {{pkmn|Coordinator}}'s Wingull appeared in ''[[AG035|Win, Lose, or Drew!]]'', where it was participating in the {{ci|Slateport}} {{pkmn|Contest}}.
+
+Two Wingull appeared in the ending credits of ''[[M06|Jirachi: Wish Maker]]''.
+
+Multiple Wingull appeared in ''[[M07|Destiny Deoxys]]'' and ''[[M09|Pokémon Ranger and the Temple of the Sea]]''.
+
+A Wingull appeared in ''[[AG080|That's Just Swellow]]'', where it was used in the [[Crossgate Town]] [[PokéRinger]]. It competed against a {{p|Yanma}}, {{p|Swablu}}, and a {{p|Pelipper}}
+
+[[Juan]] has a Wingull that appeared in ''[[AG110|The Great Eight Fate!]]''.
+
+Multiple Wingull appeared in ''[[AG119|The Ribbon Cup Caper]]''.
+
+Several Wingull appeared in the opening sequence of ''[[M11|Giratina and the Sky Warrior]]''.
+
+A group of Wingull appeared in ''[[DP112|Cheers on Castaways Isle!]]''.
+
+A Wingull appeared in ''[[DP118|Pursuing a Lofty Goal!]]'', under the ownership of a participant in the [[Squallville]] [[PokéRinger]]. It was used against a {{p|Swellow}}.
+
+Multiple Wingull made a brief appearance in ''[[DP182|An Old Family Blend!]]''.
+
+A Wingull appeared in ''[[M13|Zoroark: Master of Illusions]]''.
+
+Multiple Wingull appeared in ''[[DP190|The Brockster Is In!]]'' and ''[[DP191|Memories are Made of Bliss!]]''.
+
+Multiple Wingull appeared in ''[[BW086|Piplup, Pansage, and a Meeting of the Times!]]''.
+
+Multiple Wingull appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A {{pkmn|Trainer}}'s Wingull appeared in ''[[XY041|Foggy Pokémon Orienteering!]]''.
+
+Multiple Wingull appeared in ''[[XY042|Battling Into the Hall of Fame!]]''.
+
+Multiple Wingull appeared in the Hoopa's Surprise Ring Adventures short ''{{DL|Hoopa's Surprise Ring Adventures|Flying in the Air}}''.
+
+Multiple Wingull appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+A family of Wingull appeared in ''[[SM012|The Sun, the Scare, the Secret Lair!]]'' when one of them swooped down on {{TRT}} and taking [[Jessie]]'s donut and feeding it to its chicks.
+
+Multiple wild Wingull appeared in ''[[SM016|They Might Not Be Giants!]]''.
+
+Four wild Wingull appeared in ''[[SM018|A Seasoned Search!]]'', where they were among the {{type|Flying}} attracted by {{TP|Mallow|Bounsweet}}'s {{m|Sweet Scent}} in their attempts to attract a {{p|Oricorio}}.
+
+Six wild Wingull appeared in ''[[SM021|One Journey Ends, Another Begins...]]''.
+
+Three wild Wingull appeared in ''[[SM025|A Team-on-Team Tussle!]]''.
+
+Multiple Wingull appeared in ''[[SM031|The Island Whisperer!]]''.
+
+Multiple Wingull appeared in ''[[M20|I Choose You!]]''.
+
+Four Trainers' Wingull and multiple wild Wingull appeared in ''[[SM040|Balloons, Brionne, and Belligerence!]]''.
+
+Three wild Wingull appeared in ''[[SM043|When Regions Collide!]]''.
+
+A Trainer's Wingull appeared in ''[[SM045|Now You See Them, Now You Don't!]]''.
+
+A Wingull appeared in a flashback in ''[[SM046|Deceiving Appearances!]]''.
+
+Six Wingull appeared in ''[[SM047|A Masked Warning!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG018|Wingull|May's Pokédex|Wingull, the Seagull Pokémon. Wingull will fly through the sky as though surfing waves. It normally carries food and other valuable items, then hides them here and there.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP050|Wingull|Dawn's Pokédex|Wingull, the Seagull Pokémon. It uses its long wings to catch the ocean wind and glide across the sky, and fold them when resting.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+===In the Pokémon Black 2 and White 2 Animated Trailer===
+A trio of Wingull appeared in the [[Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer]], where they were seen flying over the [[Plasma Frigate]].
+
+===In Pokémon Generations===
+[[File:Wingull PG.png|thumb|250px|Wingull in [[Pokémon Generations]]]]
+Multiple wild Wingull appeared in ''[[PG08|The Cavern]]'', where they were seen flying near the [[Mossdeep Space Center]] and around the waters above the [[Seafloor Cavern]]. They were some of the many Pokémon caught up in [[Primal Reversion|Primal]] {{p|Kyogre}}'s rampage.
+{{-}}
+
+==In the manga==
+[[File:Peeko Adventures.png|thumb|110px|Wingull in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Peeko}}
+Wingull first appeared in ''[[PS190| Blowing Past Nosepass I]]'' in the form of [[Peeko]], [[Mr. Briney]]'s pet bird. She eventually evolved into a Pelipper by the time of the {{DL|FireRed & LeafGreen chapter (Adventures)|next chapter}}.
+
+A Wingull appeared in ''[[PS365|Crafty Carnivine]]''.
+
+In ''[[PS383|Winning Over Wingull]]'', {{adv|Pearl}} fights a pack of Wingull on his way to [[Lake Valor]]. They continually switched out the weakened and healed themselves with {{m|Roost}}, but their hostility vanished when Pearl helped save their young from falling.
+
+A Trainer's Wingull appeared in ''[[PS421|Clobbering Claydol]]'' and [[PASM04]].
+
+In ''[[PS435|The Final Dimensional Duel V]]'', a Wingull appeared on [[Fullmoon Island]] in {{FB|Tower Tycoon|Palmer}}'s flashback.
+
+Two Wingull appeared in ''[[PS525|The Transfer Student]]''.
+
+Multiple wild Wingull appeared in the {{chap|Sun & Moon}}.
+
+A Wingull appeared in the {{chap|Sun & Moon}} inside the [[Aether Paradise]].
+
+===In the Pokémon Ruby-Sapphire manga===
+{{main|Peeko}}
+[[Mr. Briney]] owns a Wingull nicknamed Peeko.
+
+==In the TCG==
+{{main|Wingull (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Flying}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Wingull has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This Pokémon rides the winds and flies as if it were skating across the sky.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Wingull rides updrafts rising from the sea by extending its long and narrow wings to glide. This Pokémon's long beak is useful for catching prey.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It makes its nest on a sheer cliff at the edge of the sea. It has trouble keeping its wings flapping in flight. Instead, it soars on updrafts.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It makes its nest on steep sea cliffs. Riding updrafts, it soars to great heights.}}
+{{Dex/Entry1|v=Pearl|entry=Catching sea winds with its long wings, it soars as if it were a glider. It folds its wings to rest.}}
+{{Dex/Entry1|v=Platinum|entry=It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea’s edge.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Catching sea winds with its long wings, it soars as if it were a glider. It folds its wings to rest.}}
+{{Dex/Entry1|v=Y|entry=It makes its nest on steep sea cliffs. Riding updrafts, it soars to great heights.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Wingull has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This Pokémon rides the winds and flies as if it were skating across the sky.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Wingull rides updrafts rising from the sea by extending its long and narrow wings to glide. This Pokémon’s long beak is useful for catching prey.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Its hollow bones enhance its lightness. It spreads its wings to the wind and soars away into the sky.}}
+{{Dex/Entry1|v=Moon|entry=Fishermen keep an eye out for Wingull in the sky, because wherever they're circling, the ocean is sure to be teeming with fish Pokémon.}}
+{{Dex/Entry1|v=Ultra Sun|entry=With its long, thin wings, it catches updrafts and flies like a glider high up into the sky.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It builds nests in cliffs by the sea. It circles the skies above the ocean looking for its favorite food—Wishiwashi.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Flying}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|103|Hoenn}}, {{rtn|104|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|121|Hoenn}}, and {{rtn|123|Hoenn}}, outside [[Mt. Pyre]] ([[Tall grass|Grass]])<br>[[Route]]s {{rtn|103|Hoenn}}, {{rtn|104|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|121|Hoenn}}, {{rtn|123|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|128|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}}, [[Dewford Town]], [[Ever Grande City]], [[Lilycove City]], [[Mossdeep City]], [[Pacifidlog Town]], [[Slateport City]] ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Route]]s {{rtn|103|Hoenn}}, {{rtn|104|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|121|Hoenn}}, and {{rtn|123|Hoenn}}, outside [[Mt. Pyre]] ([[Tall grass|Grass]])<br>[[Route]]s {{rtn|103|Hoenn}}, {{rtn|104|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|121|Hoenn}}, {{rtn|123|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|128|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}}, [[Dewford Town]], [[Ever Grande City]], [[Lilycove City]], [[Mossdeep City]], [[Pacifidlog Town]], [[Slateport City]] ({{m|Surf}}ing)}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|213|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|221|Sinnoh}}, and {{rtn|222|Sinnoh}}, [[Fuego Ironworks]] ([[Tall grass|Grass]])<br>[[Route]]s {{rtn|213|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|219|Sinnoh}}, {{rtn|220|Sinnoh}}, {{rtn|221|Sinnoh}}, {{rtn|222|Sinnoh}}, and {{rtn|229|Sinnoh}}, [[Canalave City]], [[Fuego Ironworks]], [[Iron Island]], [[Pastoria City]], [[Valley Windworks]] ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|213|Sinnoh}}, {{rtn|222|Sinnoh}}, {{rtn|226|Sinnoh}}, and {{rtn|230|Sinnoh}}, [[Fuego Ironworks]] ([[Tall grass|Grass]])<br>[[Route]]s {{rtn|213|Sinnoh}}, {{rtn|219|Sinnoh}}, {{rtn|220|Sinnoh}}, {{rtn|221|Sinnoh}}, and {{rtn|222|Sinnoh}}, [[Sunyshore City]], [[Iron Island]], {{si|Pokémon League}} ({{m|Surf}}ing)}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Vermilion City]] ({{m|Surf}}ing during a [[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|ocean}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|13|Unova}}, [[Undella Town]], [[Undella Bay]] ({{m|Surf}}ing)}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{pkmn|breeding|Breed}} {{p|Pelipper}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Windswept Sky}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Route]]s {{rtn|8|Kalos}} and {{rtn|12|Kalos}}, [[Azure Bay]] ([[Horde Encounter]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|103|Hoenn}}, {{rtn|104|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, and {{rtn|118|Hoenn}}, [[Mt. Pyre]] exterior ([[tall grass|Grass]])<br>[[Route]]s {{rtn|103|Hoenn}}, {{rtn|104|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|122|Hoenn}}, and {{rtn|134|Hoenn}}, [[Dewford Town]], [[Slateport City]], [[Lilycove City]], [[Sea Mauville]] ({{m|Surf}}ing)<br>[[Route]]s {{rtn|103|Hoenn}}, {{rtn|121|Hoenn}}, and {{rtn|123|Hoenn}} ([[Horde Encounter]])<br>[[Soaring in the sky]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]] {{rtn|1|Alola}}, [[Akala Outskirts]], [[Poké Pelago]]<br/>[[Route]]s {{rtn|7|Alola}} and {{rtn|8|Alola}}, [[Melemele Sea]], [[Hano Beach]] ({{m|Surf}}ing)<br/>[[Hau'oli City]], [[Kala'e Bay]], [[Brooklet Hill]] ({{m|Surf}}ing and walking)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]] {{rtn|1|Alola}}, [[Akala Outskirts]], [[Poké Pelago]]<br/>[[Route]]s {{rtn|7|Alola}} and {{rtn|8|Alola}}, [[Melemele Sea]], [[Hano Beach]] ({{m|Surf}}ing)<br/>[[Hau'oli City]], [[Kala'e Bay]], [[Brooklet Hill]] ({{m|Surf}}ing and walking)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Flying}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Ocean ([[Ruby Field|Both]] [[Sapphire Field|Fields]])}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[SOL Laboratory 3]], Endless Level 7, Forever Level 7, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Stormy Sea]] (1F-5F), [[Silver Trench]] (1F-5F), [[Grand Sea]] (1F-5F), [[Remains Island]] (B7-B14), [[Marvelous Sea]] (B1-B5), [[Fantasy Strait]] (B1-B5)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Fall City]], [[Dusk Factory]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Craggy Coast]] (B1-B9), [[Marine Resort]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Craggy Coast]] (B1-B9), [[Marine Resort]] (B1-B19)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Pueltown]], [[Boyleland]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Beach Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Dolce Island]], [[Cocona Village]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Challenger's Ground]], [[Echo Valley]], [[Rugged Flats]], [[Seabreeze Trail]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Silent Tundra]] (Mapless Street), [[Dreamy Island]] (1F-25F),<br>[[Moonlit Forest]] (Golden Chamber), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#The Enemies Within|Secret Warehouse: The Enemies Within]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 1|Safari Jungle: Stage 1]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 232]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Quiet Inlet|Dewdrop Bay: Quiet Inlet]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 14|Area 14: Stage 01]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Water|type2=Flying
+|pokemon=Wingull
+|oras1=Pretty Wing|oras1type=None|oras1rar=50
+|sm1=Pretty Wing|sm1type=None|sm1rar=50
+|usum1=Pretty Wing|usum1type=None|usum1rar=50
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|type2=Flying
+|HP=40
+|Attack=30
+|Defense=30
+|SpAtk=55
+|SpDef=30
+|Speed=85}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Flying
+|Speed=3
+|SpeedMax=4
+|Power=1
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=4
+|Jump=5
+|JumpMax=5}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Flying
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=100
+|Electric=400
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Wingull|Water|Flying|3}}
+{{learnlist/level7|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|5|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level7|8|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/level7|12|Mist|Ice|Status|—|—|30}}
+{{learnlist/level7|15|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level7|19|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|22|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/level7|26|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|29|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/level7|33|Roost|Flying|Status|—|—|10}}
+{{learnlist/level7|36|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level7|40|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|43|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/levelf/7|Wingull|Water|Flying|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Wingull|Water|Flying|3}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|—|—|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Wingull|Water|Flying|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Wingull|Water|Flying|3}}
+{{learnlist/breed7|{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}<br>{{MSP|160|Feraligatr}}{{MSP|226|Mantine}}{{MSP|278|Wingull}}{{MSP|283|Surskit}}{{MSP|368|Gorebyss}}{{MSP|418|Buizel}}<br>{{MSP|419|Floatzel}}|Agility|Psychic|Status|—|—|30}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|222|Corsola}}{{MSP|226|Mantine}}<br>{{MSP|350|Milotic}}{{MSP|368|Gorebyss}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|580|Ducklett}}<br>{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Aqua Ring|Water|Status|—|—|20}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|131|Lapras}}<br>{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|222|Corsola}}{{MSP|279|Pelipper}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|367|Huntail}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|564|Tirtouga}}<br>{{MSP|565|Carracosta}}{{MSP|594|Alomomola}}|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|284|Masquerain}}{{MSP|519|Pidove}}{{MSP|520|Tranquill}}<br>{{MSP|521|Unfezant}}{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|561|Sigilyph}}{{MSP|629|Vullaby}}{{MSP|630|Mandibuzz}}<br>{{MSP|714|Noibat}}{{MSP|715|Noivern}}|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}{{MSP|271|Lombre}}{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|270|Lotad}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}<br>{{MSP|283|Surskit}}{{MSP|333|Swablu}}{{MSP|334|Altaria}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}|Mist|Ice|Status|—|—|30}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|149|Dragonite}}<br>{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|226|Mantine}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}{{MSP|441|Chatot}}<br>{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|661|Fletchling}}<br>{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}{{MSP|714|Noibat}}{{MSP|715|Noivern}}{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}<br>{{MSP|733|Toucannon}}{{MSP|741|Oricorio}}|Roost|Flying|Status|—|—|10}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|279|Pelipper}}{{MSP|594|Alomomola}}|Soak|Water|Status|—|100|20}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}<br>{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}{{MSP|350|Milotic}}{{MSP|691|Dragalge}}|Twister|Dragon|Special|40|100|20}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|086|Seel}}{{MSP|183|Marill}}<br>{{MSP|184|Azumarill}}{{MSP|271|Lombre}}{{MSP|279|Pelipper}}{{MSP|283|Surskit}}{{MSP|284|Masquerain}}{{MSP|350|Milotic}}<br>{{MSP|368|Gorebyss}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|580|Ducklett}}<br>{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}{{MSP|751|Dewpider}}{{MSP|771|Pyukumuku}}|Water Sport|Water|Status|—|—|15}}
+{{learnlist/breed7|{{MSP|226|Mantine}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|594|Alomomola}}{{MSP|747|Mareanie}}{{MSP|748|Toxapex}}<br>{{MSP|752|Araquanid}}|Wide Guard|Rock|Status|—|—|10}}
+{{learnlist/breedf/7|Wingull|Water|Flying|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Wingull|Water|Flying|3}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Liquidation|Water|Physical|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Wingull|Water|Flying|3}}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Flying}}
+{{Spindata/PinballRS|col=3|type=Water|ndex=278|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Water|ndex=278|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=278
+|body=1
+|rate=12.5
+|area=Shallow Beach
+|P1=I can fly forever as long as a wind is blowing.
+|P2=Uh-oh? I have only half my HP left.
+|P3=I can't anymore... I have no strength... I can't fly...
+|PL=Awesome! Leveled up! The wind feels great!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=278
+|body=1
+|rate=6.4
+|IQ=D
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=0
+|field=None
+|loop=3
+|MinEXP=20
+|MaxEXP=34
+|browser=Wingull flies with its wings spread out. It spits water to interfere with capture.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=1
+|browser=It rams to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Cut
+|fieldpower=1
+|browser=It causes twisters around itself.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Water|ndex=278
+|Pad=Wingull can often be found playing in the [[Beach Zone]]. They gossip about flying, and their favorite Attraction is {{DL|Attractions|Pelipper's Circle Circuit}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=278
+|pad=Wingull were very into Quizzes a while ago, but now they like to fly over the beach.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=278|bttype=Flying
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=278|stype=Flying|num=327
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Cloud Clear
+|skilldesc=Clears away one black-cloud disruption without fail.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=278
+|buddy=3
+|hatch=5 km
+|evocandy=50
+|stamina=80
+|attack=106
+|defense=61
+|fast={{m|Water Gun}}, {{m|Quick Attack}}
+|special={{m|Water Pulse}}, {{m|Air Cutter}}, {{m|Ice Beam}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Water
+|type2=Flying
+|pictype=art
+|no1=278
+|name1=Wingull
+|type1-1=Water
+|type2-1=Flying
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 25}}
+|no2=279
+|name2=Pelipper
+|type1-2=Water
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Flying}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=278}}
+{{Spritebox/4|ndex=278}}
+{{Spritebox/5|ndex=278}}
+{{Spritebox/6|ndex=278}}
+{{Spritebox/7|ndex=278}}
+{{Spritebox/Footer|278|Wingull}}
+
+==Trivia==
+* Wingull is one of fourteen Pokémon that one could collect [[foreign Pokédex entries]] for in {{game|Diamond and Pearl|s}}.
+* Wingull has the exact same base stats as {{p|Taillow}} with only their Attack and Special Attack swapped.
+
+===Origin===
+Wingull appears to be based on a {{wp|gull}}, but its method of floating on air currents more closely resembles an {{wp|albatross}}.
+
+====Name origin====
+Wingull is a combination of ''wing'' and ''{{wp|gull}}''.
+
+Camome is a corruption of カモメ ''kamome'' (gull).
+
+==In other languages==
+{{Other languages|type=Water|type2=Flying
+|ja=キャモメ ''Camome''|jameaning=Corruption of {{tt|鴎 ''kamome''|seagull}}
+|fr=Goélise|frmeaning=From {{tt|''goéland''|seagull}} and {{tt|''brise''|breeze}}
+|es=Wingull|esmeaning=Same as English name
+|de=Wingull|demeaning=Same as English name
+|it=Wingull|itmeaning=Same as English name
+|ko=갈모매 ''Galmomae''|komeaning=A combination of {{tt|갈매기 ''galmaegi''|gull}} and its Japanese name
+|zh_cmn=長翅鷗 / 长翅鸥 ''Chángchì'ōu''|zh_cmnmeaning=Literally "Long-winged gull"
+|hi=विनगाल ''Wingull''|himeaning=Transcription of English name
+|ru=Вингалл ''Vingall''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Peeko]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=277|prev=Swellow|nextnum=279|next=Pelipper}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appeared in the anime before their game debut]]
+
+[[de:Wingull]]
+[[fr:Goélise]]
+[[it:Wingull]]
+[[ja:キャモメ]]
+[[pl:Wingull]]
+[[zh:长翅鸥]]

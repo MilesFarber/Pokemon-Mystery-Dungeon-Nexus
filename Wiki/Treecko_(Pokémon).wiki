@@ -1,0 +1,596 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Treecko}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=251|prev=Celebi|nextnum=253|next=Grovyle|round=none}}
+{{PokémonPrevNext/Disambig|species=Treecko}}
+|}
+{{Pokémon Infobox
+|name=Treecko
+|jname=キモリ
+|tmname=Kimori
+|category=Wood Gecko
+|typebox=1
+|type1=Grass
+|abilityn=d
+|ability1=Overgrow
+|abilityd=Unburden
+|ndex=252
+|hdex=001
+|fbrow=129
+|obrow=142
+|opbrow=033
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=11.0
+|weight-kg=5.0
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Dragon
+|gendercode=31
+|eggcycles=20
+|evtotal=1
+|evsp=1
+|expyield=62
+|oldexp=65
+|lv100exp=1,059,860
+|color=Green
+|catchrate=45
+|body=06
+|pokefordex=treecko
+|generation=3
+|friendship=70
+}}
+'''Treecko''' ([[List of Japanese Pokémon names|Japanese]]: '''キモリ''' ''Kimori'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] into {{p|Grovyle}} starting at [[level]] 16, which evolves into {{p|Sceptile}} starting at [[level]] 36.
+
+Along with {{p|Torchic}} and {{p|Mudkip}}, Treecko is one of three [[starter Pokémon]] of [[Hoenn]] available at the beginning of [[Pokémon Ruby and Sapphire Versions|Pokémon Ruby, Sapphire]], {{v2|Emerald}}, [[Pokémon Omega Ruby and Alpha Sapphire|Omega Ruby, and Alpha Sapphire]].
+
+==Biology==
+Treecko is a small, green, bipedal reptilian Pokémon. It has yellow eyes with long, narrow pupils. Treecko's hands and feet each have three digits covered with tiny spikes. These spikes allow it to scale vertical walls with ease. Its stomach and throat are red. It also has a line across on its stomach resembling a pouch. Treecko has a large, dark green tail with two separate lobes that it uses to sense humidity. This ability allows it to predict the next day's weather.
+
+Treecko is a bit of a rarity in the wild, and is more common in captivity. However, when in the wild, Treecko lives inside {{DL|List of Pokémon by habitat|Forest Pokémon|overgrown forests}}. It makes its home in tall trees, and will attack anyone that comes near its nest. Because of its territorial nature, it is known to be the protector of the forest's trees. Treecko is known for its calm and collected personality. It will never panic under any circumstances, even when faced with a bigger foe.
+
+==In the anime==
+===In the main series===
+====Major appearances====
+[[File:Sawyer Treecko.png|thumb|left|250px|Treecko in the {{pkmn|anime}}]]
+=====[[Ash's Treecko]]=====
+[[Ash Ketchum]] has a {{AP|Sceptile}} that he caught as a Treecko in ''[[AG007|Tree's a Crowd]]''. It evolved into {{p|Grovyle}} in ''[[AG066|Exploud and Clear]]'', and in ''[[AG161|Odd Pokémon Out]]'', it reached its final form.
+
+=====[[Sawyer's Treecko]]=====
+A Treecko appeared in ''[[XY064|Battling with Elegance and a Big Smile!]]'', under the ownership of [[Sawyer]]. It also appeared in ''[[XY073|A Fashionable Battle!]]'' in a [[Double Battle]] against [[Ash's Frogadier]] and {{AP|Hawlucha}}. It evolved into a Grovyle in ''[[XY075|Rivals: Today and Tomorrow!]]'' and was later revealed to have evolved into a Sceptile before ''[[XY106|A Meeting of Two Journeys!]]''.
+
+=====Other=====
+Treecko debuted in ''[[AG001|Get the Show on the Road]]''. [[Professor Birch]] was showing {{an|May}} the three Hoenn [[starter Pokémon]]. She did not choose Treecko because it "creeped her out".
+
+A group of Treecko appeared in ''[[AG007|Tree's a Crowd]]''. Ash's Treecko was among this group that were protecting an old tree that appeared to be dying.
+
+In ''[[AG034|Having a Wailord of a Time]]'', a [[Nurse Joy]] was taking care of a female Treecko, {{p|Torchic}}, and {{p|Mudkip}} that a little girl named {{OBP|Stephanie|AG034}} was going to choose between as her first Pokémon. Stephanie chose Mudkip, and [[Stephanie's father]], seeing how sad Treecko looked after not being selected, decided to become a Pokémon Trainer with the Treecko as his first Pokémon.
+
+====Minor appearances====
+A Treecko appeared in ''[[AG119|The Ribbon Cup Caper]]'' at the S.S. St. Flower's [[Pokémon Center]].
+
+{{OBP|Mew|M08}} took the form of a Treecko in ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Treecko appeared in ''[[PK24|Meloetta's Moonlight Serenade]]''.
+
+A Treecko appeared in ''[[SS032|Mega Evolution Special III]]''.
+
+A Treecko appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''.
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG007|Treecko|Ash's Pokédex|Treecko, the Wood Gecko Pokémon. Treecko are able to climb smooth vertical walls and use their thick tail to attack opponents. Since Treecko build their nests in large trees it is said that those trees will live a very long life.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY073|Treecko|Ash's Pokédex|Treecko, the Wood Gecko Pokémon. Numerous tiny spikes cover the bottoms of Treecko's feet, allowing it to walk on ceilings and walls.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+===In the Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+[[File:Brendan Treecko ORAS Trailer.png|thumb|250px|Treecko in the animated trailer]]
+A Treecko appeared in the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]], under the ownership of {{ga|Brendan}}. It eventually evolved into {{p|Grovyle}}, which then evolved into {{p|Sceptile}}, which in turn was capable of [[Mega Evolution|Mega Evolving]]. As a Treecko, it briefly battled a {{tc|Youngster}}'s {{p|Zigzagoon}}.
+{{-}}
+
+==In the manga==
+[[File:Wally Treecko.png|thumb|200px|Treecko in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Emerald's Sceptile|Professor Birch's Treecko}}
+Treecko was the only [[starter Pokémon]] of [[Hoenn]] that was not recruited into a protagonist's team in ''[[PS183|Trying to Trounce Torchic]]'', instead being passed in favor of [[Mumu|Mudkip]] because he looked ugly to the beauty-obsessed {{adv|Ruby}}. When he was finally destined to meet his partner, the huge rainstorms caused by {{p|Kyogre}} sent him and the final Hoenn Pokédex drifting away, and after he had finally been recovered by {{adv|Wally}} and evolved, he was sent flying away and was lost again, even after the Pokédex was returned. Evolving again into a Sceptile, he was this time caught in the wild by [[Guile Hideout]] and stolen by his proper owner, {{adv|Emerald}}.
+
+===In the Pokémon Ruby-Sapphire manga===
+In the [[Pokémon Ruby-Sapphire]] manga, {{OBP|Ruby|Ruby-Sapphire}} owns a Treecko. It appears to be his starter Pokémon. In ''[[PMRS03|Something Happened!! Let's Go After Pikachu!!]]'', Ruby tries to switch his Treecko for {{OBP|Red's Pikachu|Pocket Monsters}}, but his plan is foiled by {{TP|Red|Clefairy}}.
+
+[[Professor Birch]] is also seen owning a Treecko in ''[[PMRS02|I Won't Let You Lead!!]]''.
+
+===In the Pokémon Chamo-Chamo ☆ Pretty ♪ manga===
+{{main|Treecko (CCP)}}
+Treecko is a Pokémon in the [[Pokémon Chamo-Chamo ☆ Pretty ♪]] series.
+
+==In the TCG==
+{{main|Treecko (TCG)}}
+
+==In the TFG==
+One Treecko figure has been released.
+
+* {{TFG|Next Quest}}: {{TFG ID|Next Quest|Treecko|22}}
+
+==Other appearances==
+
+===[[Super Smash Bros. Brawl]]===
+
+Treecko appears as a trophy.
+
+''"A Wood Gecko Pokémon. It's a calm and cool creature that is not easily upset. It's also bold enough to stare down Pokémon larger than itself. It makes its home in large trees in forests, and its habit of fiercely defending its territory has some people calling it the "protector of the forest." It uses its thick tail to attack. When it levels up, it evolves into Grovyle."''
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Pinball: Ruby & Sapphire]]: When an extra ball is earned, Treecko will pop up to add it to the ball number.
+
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=fff|entry=Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.}}
+{{Dex/Entry1|v=Sapphire|t=fff|entry=Treecko is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.}}
+{{Dex/Entry1|v=Emerald|t=fff|entry=It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the forest's trees.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It quickly scales even vertical walls. It senses humidity with its tail to predict the next day's weather.}}
+{{Dex/Entry1|v=Y|entry=Small hooks on the bottom of its feet catch on walls and ceilings. That is how it can hang from above.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Starter Pokémon]] from [[Professor Birch]] on {{rt|101|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[Starter Pokémon]] from [[Professor Birch]] on {{rt|101|Hoenn}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=Gift from [[Steven Stone]] inside [[Silph Co.]] after defeating {{ga|Red}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]], {{pkmn|Global Link}} {{pkmn2|event}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Starter Pokémon]] from [[Professor Birch]] on {{rt|101|Hoenn}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon breeding|Breed]] {{p|Grovyle}} or {{p|Sceptile}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Springleaf Field]], [[Viridian Forest (Channel)|Camp Starlight]]}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area= Forest ({{color2|{{ruby color}}|Ruby Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 18]], Endless Level 11, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Starter Pokémon]], [[Partner Pokémon]], [[Joyous Tower]] (1F-4F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Olive Jungle]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Starter Pokémon]], [[Partner Pokémon]], [[Mystery Jungle]] (B1-B29)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Starter Pokémon]], [[Partner Pokémon]], [[Mystery Jungle]] (B1-B29)}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Meadow Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Mitonga Road]], [[Forest Temple]], [[Odd Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Sun-Dappled Bank]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Greenleaf]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Verdant Plaza#Green Hide-and-Seek|Verdant Plaza: Green Hide-and-Seek]], [[Variety Battle#Get 1,000 Combos!|Variety Battle: Get 1,000 Combos!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 1|Sky-High Ruins: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Night Festival|Night Festival: Stage 22]]<br>[[Marron Trail|Marron Trail: Stage 654]]<br>Event: ''[[Special Stages#Special Daily Pokémon (Second release)|Special Daily Pokémon]]'' <small>(Second release; Winking)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Lookout Tree|Leafy Expanse: Lookout Tree]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 04|Area 04: Stage 05]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Grass}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! First Campaign Treecko|Japanese|Japan|10|November 26 to December 11, 2005|link=List of Gather More Pokémon! Campaign event Pokémon#Treecko}}
+|}
+
+====Pokémon Global Link promotions====
+{{eventAvail/h|type=Grass}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Treecko|Japanese|PGL|10|November 24, 2010 to August 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Treecko}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=40
+|Attack=45
+|Defense=35
+|SpAtk=65
+|SpDef=55
+|Speed=70}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|Speed=5
+|SpeedMax=5
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=2
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Treecko|Grass|Grass|3}}
+{{learnlist/level7|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|5|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level7|9|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|13|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level7|17|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|21|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level7|25|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|29|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level7|33|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|37|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/level7|41|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|45|Endeavor|Normal|Physical|&mdash;|100|5}}
+{{learnlist/level7|49|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/levelf/7|Treecko|Grass|Grass|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Treecko|Grass|Grass|3}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Treecko|Grass|Grass|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Treecko|Grass|Grass|3}}
+{{learnlist/breed7|{{MSP|357|Tropius}}{{MSP|459|Snover}}|Bullet Seed|Grass|Physical|25|100|30|*|'''}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|130|Gyarados}}{{MSP|143|Snorlax}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}<br>{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}{{MSP|295|Exploud}}{{MSP|336|Seviper}}{{MSP|371|Bagon}}<br>{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|445|Garchomp}}<br>{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|621|Druddigon}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}<br>{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}{{MSP|713|Avalugg}}|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/breed7|{{MSP|111|Rhyhorn}}{{MSP|621|Druddigon}}|Crush Claw|Normal|Physical|75|95|10|*}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|034|Nidoking}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed7|{{MSP|334|Altaria}}{{MSP|371|Bagon}}{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}<br>{{MSP|635|Hydreigon}}{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}{{MSP|780|Drampa}}|Dragon Breath|Dragon|Special|60|100|20||''}}
+{{learnlist/breed7|{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|105A|Marowak}}{{MSP|258|Mudkip}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}<br>{{MSP|409|Rampardos}}|Endeavor|Normal|Physical|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|459|Snover}}{{MSP|460|Abomasnow}}|Grass Whistle|Grass|Status|&mdash;|55|15}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|152|Chikorita}}{{MSP|387|Turtwig}}|Grassy Terrain|Grass|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|253|Grovyle}}{{MSP|254|Sceptile}}{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/breed7|{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|357|Tropius}}|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/breed7|{{MSP|258|Mudkip}}|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|333|Swablu}}{{MSP|334|Altaria}}{{MSP|357|Tropius}}<br>{{MSP|780|Drampa}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|694|Helioptile}}{{MSP|695|Heliolisk}}|Razor Wind|Normal|Special|80|100|10}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}|Worry Seed|Grass|Status|&mdash;|100|10}}
+{{learnlist/breedf/7|Treecko|Grass|Grass|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Treecko|Grass|Grass|3}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Grass Pledge|Grass|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Treecko|Grass|Grass|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Razor Leaf}}
+| [[Treecko (EX Ruby & Sapphire 76)]]
+|- style="background:#fff"
+| {{m|Scratch}}
+| [[Treecko (EX Crystal Guardians 67)]]
+|- style="background:#fff"
+| {{m|Tackle}}
+| [[Treecko ☆ (EX Team Rocket Returns 109)]]
+|- style="background:#fff"
+| {{m|Slash}}
+| [[Treecko (PCG-P Promo 37)]] <br> [[Treecko (Arceus 79)]]
+|}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{grass color light}}; border: 3px solid #{{grass color}}"
+|-
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Razor Leaf}}
+| style="background:#fff" | {{typecolor|Grass}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[XY064|Battling with Elegance and a Big Smile!]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/PinballRS|col=3|type=Grass|ndex=252|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Grass|ndex=252|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=252
+|body=1
+|rate=11.2
+|area=Overgrown Forest
+|P1=The weather tomorrow? Oh, you're not interested?
+|P2=Watch my health. It's down to half already.
+|P3=I'm bushed... I can't get any power going...
+|PL=My level went up! Woohoo!
+|Partner=yes
+|PP1=I'll do my best, <name>!
+|PP2=The going's getting tough...
+|PP3=I'm almost done... <name>, help, please...
+|PPL=I did it! Level up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=252
+|body=1
+|rate=8.2
+|IQ=D
+}}
+|-
+{{Spindata/Ranger|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|fieldpower=1
+|field=Cut
+|loop=4
+|MinEXP=20
+|MaxEXP=30
+|browser=Treecko can cut down grass and wooden fences with chops from its thin arms.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=1
+|browser=It launches leaf blades around itself.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Grass|ndex=252
+|Pad=He works for {{p|Venusaur}} in the [[Meadow Zone]]. He blocked the bridge to stop anyone playing, but really he loves the Attractions to be found there!
+}}
+|-
+{{Spindata/Conquest|col=6|type=Grass|ndex=252
+|HP=1
+|atk=2
+|def=1
+|spd=3
+|range=4
+|move=Absorb
+|ability1=Overgrow
+|ability2=Mountaineer
+|ability3=Instinct
+|evo=Evolves into {{p|Grovyle}} when its Speed is 58 or higher
+|link={{DL|List of Pokémon Conquest characters|Murashige}}, {{DL|List of Pokémon Conquest characters|Takakage}}, and {{DL|List of Pokémon Conquest characters|Yatarō}}
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Grass|ndex=252
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Grass|ndex=252|num=089
+|min=50
+|max=115
+|raisemaxlevel=10
+|skill=Sleep Charm
+|skilldesc=Leaves the foe asleep.
+|swapper=Flash Mob
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=252Winking|num=089
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Power of 4+
+|skilldesc=Deals even more damage when you make a match of four.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=252
+|hatch=5 km
+|buddy=3
+|evocandy=25
+|stamina=80
+|attack=124
+|defense=104
+|fast={{m|Pound}}, {{m|Bullet Seed}}
+|special={{m|Energy Ball}}, {{m|Aerial Ace}}, {{m|Grass Knot}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Grass
+|no1=252
+|name1=Treecko
+|type1-1=Grass
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 16}}
+|no2=253
+|name2=Grovyle
+|type1-2=Grass
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no3=254
+|name3=Sceptile
+|type1-3=Grass
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=252}}
+{{Spritebox/4|ndex=252}}
+{{Spritebox/5|ndex=252}}
+{{Spritebox/6|ndex=252}}
+{{Spritebox/7|ndex=252}}
+{{Spritebox/Footer|252|Treecko}}
+
+====Other sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{grass color dark}}; background: #{{grass color}}"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{grass color dark}}; background: #{{grass color light}}; width:160px"| [[File:Spr b 4d 252b.png]][[File:Spr b 4d 252b s.png]]
+|-
+| Diamond/Pearl [[Pokémon Diamond and Pearl beta|unused]] back sprites
+|}
+
+==Trivia==
+* Treecko has the lowest base {{stat|Defense}} of all unevolved [[starter Pokémon]].
+* Treecko and its evolutions are the only Grass-type Pokémon that belong in the {{egg3|Dragon}}.
+
+===Origin===
+{{bulbanews|On the Origin of Species: Treecko, Grovyle and Sceptile}}
+Treecko resembles a {{wp|gecko}} or {{wp|lizard}}. Its design shares some similarities with the {{wp|Uroplatus|leaf-tailed gecko}}, a species of lizard that blends in with plant-like appendages, and can also climb up flat surfaces.
+
+====Name origin====
+Treecko is a combination of ''tree'' and ''{{wp|gecko}}''.
+
+Kimori is a combination of 木 ''ki'' (tree) and 森 ''mori'' (forest) or ヤモリ ''yamori'' (gecko).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=キモリ ''Kimori''|jameaning=From {{tt|木 ''ki''|tree}}, {{tt|森 ''mori''|forest}} and {{tt|ヤモリ ''yamori''|gecko}}
+|fr=Arcko|frmeaning=From ''{{tt|arbre|tree}}'' and ''gecko''
+|es=Treecko|esmeaning=Same as English name
+|de=Geckarbor|demeaning=From ''Gecko'' and ''arbor''
+|it=Treecko|itmeaning=Same as English name
+|ko=나무지기 ''Namujigi''|komeaning=From {{tt|나무 ''namu''|tree}} and {{tt|지기 ''jigi''|holder, keeper, protector}}
+|zh_yue=木守宮 ''Muhksáugūng''|zh_yuemeaning=Means "Wood gecko"
+|zh_cmn=木守宮 ''Mùshǒugōng''|zh_cmnmeaning=Means "Wood gecko"
+|th=คิโมริ ''Kimori''|thmeaning=Same as Japanese name
+|hi=ट्रीको ''Treecko''|himeaning=Transcription of English name
+|ru=Трико ''Triko''|rumeaning=Transcription of English name
+}}
+
+<br clear="left">
+
+==Related articles==
+* [[Ash's Treecko]]
+* [[Sawyer's Treecko]]
+* [[Emerald's Sceptile|Professor Birch's Treecko]]
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+*{{wp|Treecko|Article on Wikipedia}}
+
+{{-}}
+{{Starter Pokémon|grass‎}}<br>
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=251|prev=Celebi|nextnum=253|next=Grovyle}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Starter Pokémon|252]]
+[[Category:Mystery Dungeon starters|252]]
+[[Category:Anime starter Pokémon|Treecko (default)]]
+[[Category:F.E.A.R.-compatible Pokémon]]
+
+[[de:Geckarbor]]
+[[fr:Arcko]]
+[[it:Treecko]]
+[[ja:キモリ]]
+[[pl:Treecko]]
+[[zh:木守宫]]

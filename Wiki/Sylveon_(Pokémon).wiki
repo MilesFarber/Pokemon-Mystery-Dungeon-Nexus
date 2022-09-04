@@ -1,0 +1,374 @@
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=699|prev=Aurorus|nextnum=701|next=Hawlucha|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Sylveon}}
+|}
+{{Pokémon Infobox
+|name=Sylveon
+|jname=ニンフィア
+|jtranslit=Ninfia
+|tmname=Nymphia
+|category=Intertwining
+|typebox=1
+|type1=Fairy
+|abilityn=d
+|ability1=Cute Charm
+|abilityd=Pixilate
+|ndex=700
+|karea=Coastal
+|kdex=085
+|adex=131
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=51.8
+|weight-kg=23.5
+|egggroupn=1
+|egggroup1=Field
+|gendercode=31
+|eggcycles=35
+|evtotal=2
+|evsd=2
+|expyield=184
+|lv100exp=1,000,000
+|color=Pink
+|catchrate=45
+|body=08
+|pokefordex=sylveon
+|generation=6
+|friendship=70
+}}
+'''Sylveon''' ([[List of Japanese Pokémon names|Japanese]]: '''ニンフィア''' ''Nymphia'') is a {{type|Fairy}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Eevee}} when [[level]]ed up knowing a {{type|Fairy}} move and having at least two levels of [[Affection]]. It is one of Eevee's [[Eeveelution|final forms]], the others being {{p|Vaporeon}}, {{p|Jolteon}}, {{p|Flareon}}, {{p|Espeon}}, {{p|Umbreon}}, {{p|Leafeon}}, and {{p|Glaceon}}.
+
+==Biology==
+Sylveon is a quadruped, mammalian Pokémon covered primarily in pale cream-colored fur with pinkish feet, ears, and tail. There are two bows on its body, one on its left ear and one around its neck, from which two feelers adorn it. The bows are pale cream with pinkish centers, while the feelers are pale cream with pinkish and blue tips. It sends a soothing aura from these feelers to calm fights, and will also use them to "hold hands" with its Trainer. It has short, slender legs and small paws with three visible toes on each foot. Its eyes are blue with white pupils and no visible sclera. When its mouth is open, two pointed teeth can be seen on its upper jaw. Its furry pinkish tail is slightly curved in a crescent shape. Sylveon uses its ribbons to distract cautious prey before it attacks.
+
+==In the anime==
+[[File:Serena Sylveon.png|thumb|left|250px|Sylveon in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Serena's Sylveon]]====
+Serena's Eevee evolved into Sylveon in ''[[XY105|Party Dancecapades!]]'' during a [[Multi Battle|Tag Battle]] alongside [[Ash's Pikachu]], where they faced off against [[Miette]]'s {{p|Slurpuff}} and [[James's Inkay]].
+
+====Other====
+Sylveon debuted in ''[[PK25|Eevee & Friends]]''.
+
+Sylveon made its main series debut in ''[[XY013|Kindergarten Chaos!]]'', under the ownership of {{OBP|Penelope|XY013}}. It was used in a battle against [[Ash's Froakie]] and defeated it with {{m|Attract}}. Later on, it was captured by {{TRT}}, but later rescued.
+
+A Sylveon appeared in ''[[XY073|A Fashionable Battle!]]'' and ''[[XY074|Fairy-Type Trickery!]]'', under the ownership of [[Valerie]]. It was used in a [[Gym]] {{pkmn|battle}} against {{Ash}}, but it was defeated by {{AP|Fletchinder}}.
+
+===Minor appearances===
+A {{pkmn|Performer}}'s Sylveon appeared in ''[[XY060|A Showcase Debut!]]'', where it participated in the {{ci|Coumarine}} {{pkmn|Showcase}} Rookie Class.
+
+A Sylveon appeared in a fantasy in ''[[XY090|Tag Team Battle Inspiration!]]'', where {{an|Serena}} imagined what her {{TP|Serena|Eevee}} could evolve into.
+
+An image of a Sylveon appeared in ''[[XY091|A Performance Pop Quiz!]]''.
+
+A Sylveon appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+A Sylveon will appear during a fantasy in [[SM065]].
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY013|Sylveon|Ash's Pokédex|Sylveon, the Intertwining Pokémon and an evolved form of Eevee. Sylveon affectionately wraps its ribbon-like feelers around its Trainer's arm as they walk together.}}
+{{Animedexbody|XY105|Sylveon|Serena's Pokédex|Sylveon, the Intertwining Pokémon. Sylveon affectionately wraps its ribbon-like feelers around its Trainer's arm as they walk together.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+===In the Pokémon Adventures manga===
+[[File:Y Veevee Sylveon.png|thumb|200px|Sylveon in [[Pokémon Adventures]]]]
+{{adv|Y}} owns a Sylveon named Veevee. She evolved during a battle against [[Team Flare]] in the {{chap|X & Y}}.
+
+==In the TCG==
+{{main|Sylveon (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+Sylveon appears as a trophy in the 3DS and Wii U versions of the game.
+
+====Trophy information====
+''Sylveon is one of Eevee's various final evolutions. It has a lot of great attacks to use in battle, but it actually seems to be a peace-loving sort of Pokémon. Case in point, it can completely stop the flow of battle by moving its ribbonlike feelers in a way that charms its opponents into not wanting to fight anymore. ''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=fairy}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It sends a soothing aura from its ribbonlike feelers to calm fights.}}
+{{Dex/Entry1|v=Y|entry=It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It sends a soothing aura from its ribbonlike feelers to calm fights.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Its ribbonlike feelers give off an aura that weakens hostility in its prey, causing them to let down their guard. Then it attacks.}}
+{{Dex/Entry1|v=Moon|entry=When this Pokémon sights its prey, it swirls its ribbonlike feelers as a distraction. A moment later, it pounces.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Once a fight breaks out, it will unflinchingly charge at dragon Pokémon that are many times larger than itself.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Sylveon wraps its ribbonlike feelers around its Trainer's arm because this touch enables it to read its Trainer's feelings.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 6|Blade-and-Shield Path: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Sweet Strasse|Sweet Strasse: Stage 79]]<br>[[Nacht Carnival|Nacht Carnival: Stage 536]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Pixie Glen|Fairy Land: Pixie Glen]] <small>(Back Boss)</small>, [[Legend Terrain#Bastion of Beginnings|Legend Terrain: Bastion of Beginnings]] <small>(Special)</small>}}
+{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=Complete [[Connection Orb]] request.}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 24|Area 24: Stage 09]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=fairy}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Center Birthday Sylveon|All|Japan|10|October 12, 2013 to December 31, 2016|link=List of local event Pokémon distributions in Generation VI#Sylveon}}
+{{eventAvail|{{gameabbrev6|XY}}|XY Sylveon|All|Taiwan and Hong Kong|10|January 4 to 19, 2014|link=List of local event Pokémon distributions in Generation VI#XY Sylveon}}
+{{eventAvail|{{gameabbrev6|XY}}|Eevee House Sylveon|All|South Korea|10|January 9 to 15, 2014|link=List of local event Pokémon distributions in Generation VI#Eevee House Sylveon}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Center Sylveon|All|Japan|50|May 13 to June 23, 2017|link=List of local event Pokémon distributions in Generation VII#Sylveon 2}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Store Sylveon|All|South Korea|50|July 15 to 23, 2017|link=List of local event Pokémon distributions in Generation VII#Sylveon}}
+|}
+
+===Held items===
+{{HeldItems|type=fairy
+|event1=Weakness Policy|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|HP=     95
+|Attack= 65
+|Defense=65
+|SpAtk=  110
+|SpDef=  130
+|Speed=  60
+|type=Fairy
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fairy
+|Normal=  100
+|Flying=  100
+|Fighting= 50
+|Ground=  100
+|Rock=    100
+|Bug=      50
+|Poison=  200
+|Ghost=   100
+|Steel=   200
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=    0
+|Dark=     50
+|Fairy=   100
+|notes=yes
+|fairy=yes
+|newdragon=1}}
+
+===Learnset===
+All damage-dealing {{type|Normal}} moves will get [[Same-type attack bonus|STAB]] if Sylveon has the Ability {{a|Pixilate}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Sylveon|Fairy|Fairy|6}}
+{{learnlist/level7|1|Fairy Wind|Fairy|Special|40|100|30||'''}}
+{{learnlist/level7|1|Disarming Voice|Fairy|Special|40|&mdash;|15||'''}}
+{{learnlist/level7|1|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Fairy Wind|Fairy|Special|40|100|30||'''}}
+{{learnlist/level7|5|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|9|Baby-Doll Eyes|Fairy|Status|&mdash;|100|30}}
+{{learnlist/level7|13|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|17|Swift|Normal|Special|60|&mdash;|20}}
+{{learnlist/level7|20|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/level7|25|Skill Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|29|Misty Terrain|Fairy|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|33|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|37|Moonblast|Fairy|Special|95|100|15||'''}}
+{{learnlist/level7|41|Last Resort|Normal|Physical|140|100|5}}
+{{learnlist/level7|45|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/levelf/7|Sylveon|Fairy|Fairy|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Sylveon|Fairy|Fairy|6}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Sylveon|Fairy|Fairy|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Sylveon|Fairy|Fairy|6}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}<br>{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|234|Stantler}}{{MSP|300|Skitty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}<br>{{MSP|509|Purrloin}}{{MSP|572|Minccino}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|133|Eevee}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|216|Teddiursa}}{{MSP|231|Phanpy}}{{MSP|300|Skitty}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|572|Minccino}}<br>{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|613|Cubchoo}}{{MSP|676|Furfrou}}{{MSP|678|Meowstic}}{{MSP|702|Dedenne}}|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|133|Eevee}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}<br>{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|300|Skitty}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Covet|Normal|Physical|60|100|25}}
+{{learnlist/breed7|{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|448|Lucario}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|231|Phanpy}}{{MSP|288|Vigoroth}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|303|Mawile}}{{MSP|570|Zorua}}|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|231|Phanpy}}{{MSP|263|Zigzagoon}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}<br>{{MSP|324|Torkoal}}{{MSP|327|Spinda}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}<br>{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|775|Komala}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|231|Phanpy}}{{MSP|511|Pansage}}{{MSP|513|Pansear}}{{MSP|515|Panpour}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|517|Munna}}{{MSP|765|Oranguru}}|Stored Power|Psychic|Special|20|100|10}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|352|Kecleon}}{{MSP|517|Munna}}|Synchronoise|Psychic|Special|120|100|10}}
+{{learnlist/breed7|{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|572|Minccino}}{{MSP|573|Cinccino}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|025|Pikachu}}{{MSP|203|Girafarig}}{{MSP|300|Skitty}}{{MSP|327|Spinda}}{{MSP|653|Fennekin}}{{MSP|775|Komala}}<br>{{MSP|777|Togedemaru}}|Wish|Normal|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|206|Dunsparce}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|287|Slakoth}}<br>{{MSP|289|Slaking}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}<br>{{MSP|450|Hippowdon}}{{MSP|513|Pansear}}{{MSP|517|Munna}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|775|Komala}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Sylveon|Fairy|Fairy|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Sylveon|Fairy|Fairy|6}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutorf/7|Sylveon|Fairy|Fairy|6}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Sylveon|Fairy|Fairy|6}}
+{{learnlist/prevo7|133|Eevee|||||Covet|Normal|Physical|60|100|25||{{sup/7|SM}}}}
+{{learnlist/prevo7|133|Eevee|||||Growl|Normal|Status|—|100|40}}
+{{learnlist/prevo7|133|Eevee|||||Bite|Dark|Physical|60|100|25}}
+{{learnlist/prevo7|133|Eevee|||||Refresh|Normal|Status|—|—|20}}
+{{learnlist/prevo7|133|Eevee|||||Take Down|Normal|Physical|90|85|20}}
+{{learnlist/prevo7|133|Eevee|||||Charm|Fairy|Status|—|100|20}}
+{{learnlist/prevo7|133|Eevee|||||Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/prevo7|133|Eevee|||||Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/prevo7|133|Eevee|||||Trump Card|Normal|Special|—|—|5}}
+{{learnlist/prevo7|133|Eevee|e||||Celebrate|Normal|Status|—|—|40}}
+{{learnlist/prevof/7|Sylveon|Fairy|Fairy|6}}
+
+===Side game data===
+{{Spindata/Head|type=Fairy}}
+{{Template:Spindata/Battle Trozei|col=6|type=Fairy|ndex=700
+|power=3
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Fairy|ndex=700|num=031
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Eject+, Hammering Streak
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=fairy
+|no1=133
+|name1=Eevee
+|type1-1=Normal
+|evo1=[[File:Heart Shuffle.png|24px|Affection]][[File:Heart Shuffle.png|24px|Affection]] + {{bag|TM Fairy}}<br>{{color2|000|Level|Level up}}<br><small>with level 2 {{color2|000|Affection}} and a<br>{{color2|000|Fairy (type)|Fairy-type}} move</small>
+|no2=700
+|name2=Sylveon
+|type1-2=Fairy}}
+
+===Sprites===
+{{Spritebox/Header|type=fairy}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=700}}
+{{Spritebox/7|ndex=700}}
+{{Spritebox/Footer|700|Sylveon}}
+
+==Trivia==
+* According to a [[Ken Sugimori]] interview with the ''Famitsu'' magazine, Sylveon was designed by [[Atsuko Nishida]].
+* Sylveon is the only [[List of Pokémon with cross-generational evolutions|cross-generational evolutionary relative]] introduced in [[Generation VI]].
+** It is also the only Pokémon introduced after [[Generation V]] that can be in a Dream Ball.
+* Sylveon is the only [[Eeveelution]] to be introduced alone in an individual [[generation]].
+
+===Origin===
+Like the other [[Eeveelution]]s, Sylveon displays several characteristics of various mammalian creatures.
+
+====Name origin====
+Sylveon may be a combination of ''{{wp|sylph}}'', a mythological creature described as invisible beings of the air, or ''sylvan'', a word referring to an association with woodlands or forests (where fairies are often depicted), and ''eon'' (an immeasurably long period of time, possibly referring to how long evolution takes naturally). ''Eon'' is a suffix all {{p|Eevee}} [[evolution]]s share and was Eevee's English prototype name.
+
+Nymphia is derived from ''{{wp|nymph}}'', a deity existing in Greek Mythology associated with a particular location or landform.
+
+==In other languages==
+{{Other languages|type=Fairy|type2=Fairy
+|ja=ニンフィア ''Nymphia''|jameaning=From ''{{wp|nymph}}''.
+|fr=Nymphali|frmeaning=From ''{{wp|nymph}}''. Ends with ''-li'' like every [[Eeveelution]] in French.
+|es=Sylveon|esmeaning=Same as English name
+|de=Feelinara|demeaning=From ''{{tt|Fee|fairy}}''. Ends with ''-a'' like every [[Eeveelution]] in German.
+|it=Sylveon|itmeaning=Same as English name
+|ko=님피아 ''Nymphia''|komeaning=From {{tt|''nymph''|님프}}
+|zh_cmn=仙子精靈 / 仙子精灵 ''Xiānzǐjīnglíng''|zh_cmnmeaning=Means "Fairy spirit". Ends with {{tt|-精靈 / -精灵|spirit, fairy, elf}} like every [[Eeveelution]] in Mandarin.
+|zh_yue=仙子伊貝 ''Sīnjíyībui''|zh_yuemeaning=Literally "Fairy Eevee". Ends with {{tt|-伊貝|Eevee}} like every [[Eeveelution]] in Cantonese.
+|hi=सिलवीओन ''Sylveon''|himeaning=Transcription of English name
+|ru=Сильвеон ''Sil'veon''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+*[[Serena's Sylveon]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=699|prev=Aurorus|nextnum=701|next=Hawlucha}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Pokémon that appeared in the anime before their game debut]]
+
+[[de:Feelinara]]
+[[fr:Nymphali]]
+[[it:Sylveon]]
+[[ja:ニンフィア]]
+[[pl:Sylveon]]
+[[zh:仙子伊布]]

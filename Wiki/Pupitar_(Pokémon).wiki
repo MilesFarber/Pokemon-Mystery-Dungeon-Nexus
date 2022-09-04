@@ -1,0 +1,544 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Ground}}
+{{PokémonPrevNext/GO|species=Pupitar}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=246|prev=Larvitar|nextnum=248|next=Tyranitar|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Pupitar
+|jname=サナギラス
+|jtranslit=Sanagirasu
+|tmname=Sanagiras
+|ndex=247
+|oldjdex=245
+|jdex=250
+|u2dex=293
+|karea=Mountain
+|kdex=103
+|fbrow=194
+|abrow=121
+|obrow=217
+|opbrow=088
+|typebox=1
+|type1=Rock
+|type2=Ground
+|category=Hard Shell
+|height-ftin=3'11″
+|height-m=1.2
+|weight-lbs=335.1
+|weight-kg=152.0
+|abilityn=1
+|abilitylayout=1
+|ability1=Shed Skin
+|egggroupn=1
+|egggroup1=Monster
+|eggcycles=40
+|evtotal=2
+|evat=2
+|expyield=144
+|oldexp=144
+|lv100exp=1,250,000
+|gendercode=127
+|color=Gray
+|catchrate=45
+|body=02
+|pokefordex=pupitar
+|generation=2
+|friendship=35
+}}
+'''Pupitar''' ([[List of Japanese Pokémon names|Japanese]]: '''サナギラス''' ''Sanagiras'') is a dual-type {{2t|Rock|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Larvitar}} starting at [[level]] 30 and evolves into {{p|Tyranitar}} starting at level 55.
+
+==Biology==
+Pupitar is encased inside a thick shell made of grayish-blue rock-its hardness comparable to that of bedrock. Its red eyes can be seen through two holes in the shell, and two more holes directly above resemble eyebrows. The upper portion of its body is covered by a mask-like plate with four large spikes on either side. Three additional spikes protrude from its forehead. While its arms and legs are developing inside the shell, Pupitar relieves itself by using vented gas to propel itself around, and can generate enough force to knock down mountains. Pupitar lives and moves freely around harsh {{DL|List of Pokémon by habitat|Mountain Pokémon|mountain}} ranges.
+
+==In the anime==
+[[File:Ritchie Cruise.png|thumb|220px|left|Pupitar in the {{pkmn|anime}}]]
+===Major appearances===
+[[Ritchie]] has a Pupitar nicknamed Cruise, which was seen from ''[[EP220|The Mystery is History!]]'' to ''[[EP222|A Promise is a Promise]]''.
+
+[[Rico]], a Pokémon Poacher, had a Pupitar that evolved into a {{p|Tyranitar}} in ''[[AG006|A Poached Ego!]]''.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP220|Pupitar|Ash's Pokédex|Pupitar, the Hard Shell Pokémon. Pupitar is encased in a nearly indestructible shell and has enough power to topple a mountain.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+
+==In the manga==
+[[File:Lance Pupitar Adventures.png|thumb|100px|Pupitar in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Pupitar first appeared in one of [[Lance]]'s flashbacks in ''[[PS159|Popular Pupitar]]'', where he first encountered {{adv|Silver}}. He switched out Pupitar to counter the {{m|Pursuit}} from [[Silver's Murkrow]]. He was later given to Silver and evolved into {{p|Tyranitar}} before being returned to Lance.
+
+Another Pupitar appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+A Pupitar appeared in ''[[PAXY30|Pinsir Changes]]''.
+
+===In the Pokémon Pocket Monsters manga===
+A Pupitar appeared in {{PPM|Red}}'s fantasy in ''[[PM104|The Great Helper!!]]''.
+
+==In the TCG==
+{{main|Pupitar (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{ga|Pokémon Ranger}}: [[Go-Rock Quads|Billy]] uses a Pupitar to back up his {{p|Tyranitar}}.
+
+===Pokédex entries===
+{{Dex/Header|type=Rock|type2=Ground}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Its shell is as hard as sheet rock, and it is also very strong. Its {{m|Thrash}}ing can topple a mountain.}}
+{{Dex/Entry1|v=Silver|entry=Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.}}
+{{Dex/Entry1|v=Crystal|entry=It will not stay still, even while it's a pupa. It already has arms and legs under its solid shell.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Pupitar creates a gas inside its body that it ejects under compression to propel itself like a jet. Its body can withstand a collision with solid steel.}}
+{{Dex/Entry1|v=FireRed|entry=Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.}}
+{{Dex/Entry1|v=LeafGreen|entry=Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.}}
+{{Dex/Entry1|v=HeartGold|entry=Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.}}
+{{Dex/Entry1|v=SoulSilver|entry=Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=This pupa flies around wildly by venting with great force the gas pressurized inside its body.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.}}
+{{Dex/Entry1|v=Y|entry=Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.}}
+{{Dex/Entry2|v=Omega Ruby|t=FFF|v2=Alpha Sapphire|t2=FFF|entry=Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable--it avoids damage even if it hits solid steel.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=This troublesome Pokémon can't wait to evolve, so it relieves its stress by wildly propelling itself around using compressed gas.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This dangerous pupa thrashes about. Its shell is as hard as bedrock, containing its gradually forming new body within.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Ground}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Larvitar}}}}
+{{Availability/Entry1|v=Crystal|area=[[Mt. Silver|Silver Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Larvitar}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Larvitar}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Larvitar}}}}
+{{Availability/Entry1/None|v=Pearl}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Larvitar}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Mt. Silver]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|15|Unova}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|15|Unova}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|2|v=X|t=fff|area=[[Friend Safari]] ([[Friend Safari#Rock-type Safari|Rock]])}}
+{{Availability/Entry1|2|v=Y|area={{rt|18|Kalos}}, [[Terminus Cave]], [[Friend Safari]] ([[Friend Safari#Rock-type Safari|Rock]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Larvitar}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Ground}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 63, Endless Level 70, Forever Level 13, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Mt. Freeze]] (3F-5F), [[Buried Relic]] (60F-70F), [[Southern Cavern]] (37F-45F), [[Joyous Tower]] (62F-66F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Sekra Range]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Quicksand Cave]] (B1-B10, Quicksand Pit B1)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Quicksand Cave]] (B1-B10, Quicksand Pit B1)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Chroma Ruins]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Faldera Island]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Terrera]], [[Cragspur]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#Walking a Thin Line|Secret Warehouse: Walking a Thin Line]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 5|Distortion Island: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Wacky Workshop|Wacky Workshop: Stage 179]]<br>[[Zaffiro Coast|Zaffiro Coast: Stage 636]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Sacred Blade Cliff|Plasma Tundra: Sacred Blade Cliff]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|type2=Ground
+|HP=     70
+|Attack= 84
+|Defense=70
+|SpAtk=  65
+|SpDef=  70
+|Speed=  51}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Rock
+|type2=Ground
+|Speed=3
+|SpeedMax=4
+|Power=4
+|PowerMax=4
+|Technique=1
+|TechniqueMax=1
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Ground
+|Normal=   50
+|Fighting=200
+|Flying=   50
+|Poison=   25
+|Ground=  200
+|Rock=     50
+|Bug=     100
+|Ghost=   100
+|Steel=   200
+|Fire=     50
+|Water=   400
+|Grass=   400
+|Electric=  0
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|ground=yes
+|newelectric=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Pupitar|Rock|Ground|2}}
+{{learnlist/level7|1|Bite|Dark|Physical|60|100|25||''}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|5|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|10|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|14|Chip Away|Normal|Physical|70|100|20}}
+{{learnlist/level7|19|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level7|23|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|28|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|34|Dark Pulse|Dark|Special|80|100|15||''}}
+{{learnlist/level7|41|Payback|Dark|Physical|50|100|10||''}}
+{{learnlist/level7|47|Crunch|Dark|Physical|80|100|15||''}}
+{{learnlist/level7|54|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|60|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level7|67|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/levelf/7|Pupitar|Rock|Ground|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Pupitar|Rock|Ground|2}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||''}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Pupitar|Rock|Ground|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Pupitar|Rock|Ground|2}}
+{{learnlist/breed7|{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}<br>{{MSP|698|Amaura}}{{MSP|699|Aurorus}}|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/breed7|{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}|Assurance|Dark|Physical|60|100|10||''}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}<br>{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}|Dragon Dance|Dragon|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|034|Nidoking}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|408|Cranidos}}<br>{{MSP|409|Rampardos}}|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}<br>{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}{{MSP|776|Turtonator}}|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/breed7|{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}{{MSP|621|Druddigon}}{{MSP|780|Drampa}}|Outrage|Dragon|Physical|120|100|10}}
+{{learnlist/breed7|{{MSP|252|Treecko}}{{MSP|253|Grovyle}}{{MSP|254|Sceptile}}{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}|Pursuit|Dark|Physical|40|100|20||''}}
+{{learnlist/breed7|{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}|Stealth Rock|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|108|Lickitung}}{{MSP|463|Lickilicky}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}{{MSP|293|Whismur}}<br>{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|357|Tropius}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/breedf/7|Pupitar|Rock|Ground|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Pupitar|Rock|Ground|2}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Pupitar|Rock|Ground|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Pupitar|Rock|Ground|2}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Pupitar|Rock|Ground|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fighting color light}}; border: 3px solid #{{tcg fighting color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Rage}}
+| [[Pupitar (Unleashed 38)]]
+|- style="background:#fff"
+| {{m|Rock Throw}}
+| [[Pupitar (EX Unseen Forces 70)]]
+|- style="background:#fff"
+| {{m|Skull Bash}}
+| [[Pupitar (Neo Discovery 45)]]
+|- style="background:#fff"
+| {{m|Slash}}
+| [[Pupitar (EX Unseen Forces 70)]]
+|}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{rock color light}}; border: 3px solid #{{ground color}}"
+|-
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Take Down}}
+| style="background:#fff" | {{typecolor|Normal}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[EP220|The Mystery is History]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Ground}}
+{{Spindata/Trozei|col=6|type=Rock|ndex=247|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Rock|ndex=247
+|body=1
+|rate=-19%
+|area=Mt. Cleft
+|P1=I'm in a pupal stage, but I can jump around. No problem!
+|P2=Listen, my HP is down about halfway now.
+|P3=I'm pooped. I can't even hop about anymore...
+|PL=I leveled up! My shell grew even harder, too!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Rock|ndex=247
+|body=1
+|rate=0.5%
+|IQ=C
+}}
+|-
+{{Spindata/Ranger|col=6|type=Rock
+|group=Ground
+|assist=Rock
+|fieldpower=0
+|field=None
+|loop=13
+|MinEXP=45
+|MaxEXP=59
+|browser=Pupitar tackles with its spiky body and makes numerous rocks tumble down.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Rock
+|group=Ground
+|assist=Ground
+|field=Crush
+|fieldpower=2
+|browser=It leaps around incredibly quickly while ramming to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Rock
+|group=Ground
+|assist=Ground
+|field=Crush
+|fieldpower=3
+|browser=It triggers tremors and opens fissures that make Pokémon Paused.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Rock
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Rock|ndex=247
+|HP=3
+|atk=3
+|def=3
+|spd=2
+|range=3
+|move=Rock Slide
+|ability1=Shed Skin
+|ability2=Jagged Edge
+|ability3=Shield
+|evo=Evolves from {{p|Larvitar}} when its Attack is 74 or higher<br>Evolves into {{p|Tyranitar}} when its Attack is 132 or higher
+|link={{DL|List of Pokémon Conquest characters|Kageie}}, {{DL|List of Pokémon Conquest characters|Katsuyori}}, and {{DL|List of Pokémon Conquest characters|Sōun}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Rock|ndex=247
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=247|num=209
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+}}
+|-
+{{Spindata/GO|col=6|type=Rock|ndex=247
+|hatch=N/A
+|buddy=5
+|evocandy=100
+|stamina=140
+|attack=155
+|defense=133
+|fast={{m|Bite}}, {{m|Rock Smash}}
+|special={{m|Dig}}, {{m|Crunch}}, {{m|Ancient Power}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Rock
+|type2=Ground
+|pictype=art
+|no1=246
+|name1=Larvitar
+|type1-1=Rock
+|type2-1=Ground
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no2=247
+|name2=Pupitar
+|type1-2=Rock
+|type2-2=Ground
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 55}}
+|no3=248
+|name3=Tyranitar
+|type1-3=Rock
+|type2-3=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock|type2=Ground}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=247}}
+{{Spritebox/3|ndex=247}}
+{{Spritebox/4|ndex=247}}
+{{Spritebox/5|ndex=247}}
+{{Spritebox/6|ndex=247}}
+{{Spritebox/7|ndex=247}}
+{{Spritebox/Footer|247|Pupitar}}
+
+====Japanese sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{ground color}}; background: #{{rock color}};"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{ground color}}; background: #{{rock color light}}; width:160px"| [[File:Spr b 2g 247 jp.png]]<br>[[File:Spr b 2g 247 s jp.png]]
+|-
+| Gold and Silver back sprites
+|}
+
+==Trivia==
+===Origin===
+Pupitar is based on a pupa, as it is between its evolutionary line's larval stage ({{p|Larvitar}}) and adulthood ({{p|Tyranitar}}).
+
+====Name origin====
+Pupitar is derived from ''{{wp|pupa}}'', the stage in some insects between the larval stage and adulthood.
+
+Sanagiras may be a combination of 蛹 ''sanagi'' (pupa) and 嫌い ''kirai'' (hate). ''Giras'' may derive from ''Gojira'', the Japanese name for the character {{wp|Godzilla}}, or ''Angiras'', the Japanese name for the character {{wp|Anguirus}}. Both are dinosaur-like ''{{wp|tokusatsu}}'' movie monsters ({{wp|kaiju}}) that share some characteristics with {{p|Tyranitar}}, its evolution.
+
+==In other languages==
+{{Other languages|type=Rock|type2=Ground
+|ja=サナギラス ''Sanagiras''|jameaning=From {{tt|蛹 ''sanagi''|pupa}}, {{tt|嫌い ''kirai''|hate}}, ''Godzilla'', and ''{{wp|Anguirus|Angiras}}''
+|fr=Ymphect|frmeaning=From ''{{wp|Nymph (biology)|nymph}}'' and ''{{tt|infecte|disgusting}}''. It may also have been named that way to resemble ''insecte''
+|es=Pupitar|esmeaning=Same as English name
+|de=Pupitar|demeaning=Same as English name
+|it=Pupitar|itmeaning=Same as English name
+|ko=데기라스 ''Degiras''|komeaning=From {{tt|번데기 ''beondegi''|cocoon, pupa}} and ''Angiras''.
+|zh_cmn=沙基拉 ''Shājīlā''|zh_cmnmeaning=Transliteration of its Japanese name. May also be from {{tt|安基拉斯 ''Ānjīlāsī''|Anguirus}}. Contains {{tt|沙 ''shā''|sand}}
+|hi=पिउपिटर ''Pupitar''|himeaning=Transcription of English name
+|ru=Пьюпитар ''P'yupitar''|rumeaning=Transcription of English name}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Rock|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=246|prev=Larvitar|nextnum=248|next=Tyranitar}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Pupitar]]
+[[fr:Ymphect]]
+[[it:Pupitar]]
+[[ja:サナギラス]]
+[[pl:Pupitar]]
+[[zh:沙基拉斯]]

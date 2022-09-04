@@ -1,0 +1,493 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Ice}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=459|prev=Snover|nextnum=461|next=Weavile}}
+|}
+{{Pokémon Infobox
+|name=Abomasnow
+|jname=ユキノオー
+|jtranslit=Yukino'ō
+|tmname=Yukinooh
+|forme=2
+|form2=Mega Abomasnow
+|image2=460Abomasnow-Mega.png
+|mega=Abomasite
+|ndex=460
+|sdex=143
+|karea=Mountain
+|kdex=089
+|abrow=212
+|obrow=258
+|opbrow=152
+|type1=Grass
+|type2=Ice
+|category=Frost Tree
+|height-ftin=7'03"
+|height-m=2.2
+|weight-lbs=298.7
+|weight-kg=135.5
+|height-ftin2=8'10"
+|height-m2=2.7
+|weight-lbs2=407.9
+|weight-kg2=185.0
+|abilityn=dm
+|abilitylayout=2+1
+|abilitycolm=2
+|ability1=Snow Warning
+|abilityd=Soundproof
+|abilitym=Snow Warning
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=2
+|evat=1
+|evsa=1
+|expyield=173
+|oldexp=214
+|lv100exp=1,250,000
+|gendercode=127
+|color=White
+|catchrate=60
+|body=06
+|pokefordex=abomasnow
+|generation=4
+|friendship=70
+}}
+'''Abomasnow''' ([[List of Japanese Pokémon names|Japanese:]] '''ユキノオー''' ''Yukinooh'') is a dual-type {{2t|Grass|Ice}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolve]]s from {{p|Snover}} starting at [[level]] 40. It can [[Mega Evolution|Mega Evolve]] into '''Mega Abomasnow''' using the [[Abomasite]].
+
+==Biology==
+Abomasnow is a large, bipedal creature covered in shaggy, white fur. It has pale purple eyes with bushy eyebrows and long strands of fur covering its mouth. Two tufts of longer fur grow on both its back and chest, with the chest fur being longer on the female. Its hands, feet, and tail are dark green and spiky, similar to the foliage of an evergreen tree. On its back are four green spikes that resemble pinecones. Abomasnow lives in snowy mountains and appears only when snow flowers bloom. Once the flowers die, it retreats to isolated areas. It is able to create blizzards to hide itself.
+
+The sprouts on its back grow into great shafts of ice when this Pokémon Mega Evolves into Mega Abomasnow<ref>http://www.pokemonxy.com/en-us/pokemon/mega_pokemon/#Abomasnow</ref>. Its fur becomes longer and shaggy over its entire body, particularly around its head. Green fur or sprout remnants surround the base of the large icicles on its back, while white fur covers the middle.
+
+==In the anime==
+===In the main series===
+[[File:Wulfric Abomasnow.png|thumb|250px|left|Abomasnow in the {{pkmn|anime}}]]
+[[File:Wulfric Mega Abomasnow.png|thumb|250px|left|Mega Abomasnow in the anime]]
+====Major appearances====
+Abomasnow appeared in ''[[PK19|Pikachu's Ice Adventure]]''.
+
+[[Candice]]'s female Abomasnow debuted in ''[[DP126|Classroom Training!]]''. She was one of the Pokémon that Candice used in [[DP127|the following episode]], during her battle against {{Ash}}. Abomasnow was able to [[Fainting|knock out]] {{AP|Staraptor}} and {{AP|Grotle}}, but then ended up losing to {{AP|Chimchar}}.
+
+A male Abomasnow appeared in ''[[BW140|Survival of the Striaton Gym!]]'', under the ownership of [[Morana]]. It had a battle against [[Cilan's Pansage]], but after a long and hard battle, it was defeated.
+
+A male Abomasnow appeared in ''[[XY083|Over the Mountain of Snow!]]'', where it was looking after a {{p|Snover}} that had become ill. With {{an|Clemont}}'s help, Snover became well again.
+
+[[Wulfric]]'s male Abomasnow debuted in ''[[XY120|All Hail the Ice Battlefield!]]'', in which he was used in a [[Gym]] battle against Ash. He battled {{AP|Hawlucha}}, but was soon defeated. He reappeared during the [[rematch]] in ''[[XY122|A Real Icebreaker!]]'', where he took on {{AP|Talonflame}} and won. While battling {{AP|Greninja}}, the latter transformed into [[Bond Phenomenon|Ash-Greninja]]. As a result, Wulfric [[Mega Evolution|Mega Evolved]] him into Mega Abomasnow, but despite this, it was eventually defeated. Wulfric's Abomasnow reappeared in ''[[XY135|Rocking Kalos Defenses!]]'' and ''[[XY136|Forming a More Perfect Union!]]'', where it participated in the fight against the [[Giant Rock]].
+
+====Minor appearances====
+Abomasnow debuted in ''[[M11|Giratina and the Sky Warrior]]'', where it helped [[Ash's friends]] to stop a sliding glacier.
+
+A {{pkmn|Coordinator}}'s Abomasnow appeared in ''[[DP171|Dawn of a Royal Day!]]'', where it was seen participating in the [[Contest Battle|Battle Stage]] of the [[Arrowroot Town]] [[Pokémon Contest]].
+
+An Abomasnow appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+An Abomasnow that can [[Mega Evolution|Mega Evolve]] into Mega Abomasnow appeared in ''[[SS029|Mega Evolution Special I]]''.
+
+An Abomasnow appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+====Pokédex entries====
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP126|Abomasnow|Dawn's Pokédex|Abomasnow, the Frost Tree Pokémon and the evolved form of {{p|Snover}}. Abomasnow appear when snow flowers bloom and return to places unknown when the petals fall.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW140|Abomasnow|Ash's Pokédex|Abomasnow, the Frost Tree Pokémon. Abomasnow live quietly on snow-covered mountains. They create snow storms to hide themselves.}}
+{{Animedexfooter/Pokémon|''Black & White''|Unova}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY083|Abomasnow|Serena's Pokédex|Abomasnow, the Frost Tree Pokémon. Abomasnow live quietly on mountains where it always snows. They make blizzards for camouflage.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+===In Pokémon Generations===
+[[File:Abomasnow Weavile Aggron Magnemite PG.png|thumb|250px|Abomasnow in [[Pokémon Generations]]]]
+An Abomasnow appeared during a flashback in ''[[PG18|The Redemption]]'' as one of the many Pokémon fighting in the great war of [[Kalos]], 3,000 years previously. Two were later seen petrified after the [[ultimate weapon]] was used by [[AZ]] to end the war.
+{{-}}
+
+==In the manga==
+[[File:Candice Abomasnow Adventures.png|thumb|150px|Abomasnow in [[Pokémon Adventures]]]]
+===In the Phantom Thief Pokémon 7 manga===
+Abomasnow is one of the Pokémon [[Team Galactic]] used while attacking [[Sun Sun]]. It was bested by [[Hiori]]'s {{TP|Hiori|Lucario}}'s {{m|Bone Rush}}.
+
+===In the Pokémon Adventures manga===
+An Abomasnow belonging to [[Candice]] was first seen in ''[[PS386|Disagreeable Graveler]]'', when she took it out of its ball to save {{adv|Platinum}} after she fainted from the cold on her way to [[Snowpoint City]]. Later, she used it in her Gym match against the same girl, where it lost to her {{DL|Platinum (Adventures)|Lopunny}}'s {{m|Jump Kick}} after Candice switched out {{p|Froslass}}.
+
+[[Wulfric]] uses an Abomasnow in ''[[PAXY24|Pyroar Breathes]]'', where it was used in an attempt to stop the [[Ultimate weapon]] from activating.
+
+Multiple Abomasnow appeared in a flashback in ''[[PAXY25|Flabébé Blooms]]''.
+
+==In the TCG==
+{{main|Abomasnow (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+Abomasnow appears as a Poké Ball summon in both versions of the game. When summoned, it will use {{m|Blizzard}} to draw in opponents, and can also attack with {{m|Ice Punch}}.
+
+====Trophy information====
+'''NA:''' ''A solitary Grass/Ice type, Abomasnow loves to live in the snowy mountains, though it occasionally mingles with people as well. In Smash Bros., it uses a combo of Blizzard and Ice Punch, punishing anyone who gets too close. It can change direction when attacking, so sneaking up on it from behind won't work!''
+
+'''PAL:''' ''Abomasnow is a Grass- and Ice-type Pokémon said to live the quiet life in snowy mountains, but it's been known to mingle with humans too. It can whip up blizzards to attack anyone who strays too close, and it can throw a powerful Ice Punch either straight in front of back over its shoulder, so there's nowhere to hide!''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Ice}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It whips up {{m|blizzard}}s in mountains that are always buried in snow. It is the {{wp|Yeti|abominable snowman}}.}}
+{{Dex/Entry1|v=Pearl|entry=It blankets wide areas in snow by whipping up blizzards. It is also known as "The Ice Monster."}}
+{{Dex/Entry1|v=Platinum|entry=They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It blankets wide areas in snow by whipping up blizzards. It is also known as "The Ice Monster."}}
+{{Dex/Entry1|v=Y|entry=It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It blankets wide areas in snow by whipping up blizzards. It is also known as "The Ice Monster."}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Ice}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Mt. Coronet]] peak}}
+{{Availability/Entry1|v=Platinum|area=[[Mt. Coronet]] peak}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] [[Pokéwalker]] {{p|Snover}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|17|Kalos}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Space Wilds]] ({{DL|Ultra Space Wilds|Cave World}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Ice}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Evolution|Evolve]] {{p|Snover}}}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Evolution|Evolve]] {{p|Snover}}}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Ice Lake]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Rocky Cave]]}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Mt. Sorbet]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Glacier: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Conductor Room#Frozen Runway|Conductor Room: Frozen Runway]] <small>(Boss)</small>, [[Challenge Battle#Open Entry Battle Royale|Challenge Battle: Open Entry Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 4|Pitch-Black Cavern: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 289]]<br>[[Zaffiro Coast|Zaffiro Coast: Stage 613]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Aurora Ice Field|Pearl Marsh: Aurora Ice Field]] <small>(Center Boss, Back, Special)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 29|Area 29: Stage 02]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=Grass|type2=Ice
+|dppt1=NeverMeltIce|dppt1type=None|dppt1rar=5
+|xy1=Never-Melt Ice|xy1type=None|xy1rar=5
+|usum1=Never-Melt Ice|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+=====Abomasnow=====
+{{BaseStats
+|type=Grass
+|type2=Ice
+|HP=     90
+|Attack= 92
+|Defense=75
+|SpAtk=  92
+|SpDef=  85
+|Speed=  60}}
+
+=====Mega Abomasnow=====
+{{BaseStats
+|type=Grass
+|type2=Ice
+|HP=     90
+|Attack= 132
+|Defense=105
+|SpAtk=  132
+|SpDef=  105
+|Speed=  30}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|type2=Ice
+|Speed=2
+|SpeedMax=2
+|Power=3
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Ice
+|Normal=  100
+|Fighting=200
+|Flying=  200
+|Poison=  200
+|Ground=   50
+|Rock=    200
+|Bug=     200
+|Ghost=   100
+|Steel=   200
+|Fire=    400
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Abomasnow|Grass|Ice|4}}
+{{learnlist/level7|1|Ice Punch|Ice|Physical|75|100|15||'''}}
+{{learnlist/level7|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level7|1|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level7|5|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level7|9|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level7|13|Grass Whistle|Grass|Status|&mdash;|55|15}}
+{{learnlist/level7|17|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|21|Mist|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|26|Ice Shard|Ice|Physical|40|100|30||'''}}
+{{learnlist/level7|31|Ingrain|Grass|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|36|Wood Hammer|Grass|Physical|120|100|15||'''}}
+{{learnlist/level7|47|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/level7|58|Sheer Cold|Ice|Special|&mdash;|&mdash;|5}}
+{{learnlist/levelf/7|Abomasnow|Grass|Ice|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Abomasnow|Grass|Ice|4}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Abomasnow|Grass|Ice|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Abomasnow|Grass|Ice|4}}
+{{learnlist/breed7|{{MSP|698|Amaura}}{{MSP|699|Aurorus}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/breed7|{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|192|Sunflora}}|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|191|Sunkern}}<br>{{MSP|192|Sunflora}}{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|046|Paras}}<br>{{MSP|047|Parasect}}{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|191|Sunkern}}<br>{{MSP|192|Sunflora}}{{MSP|273|Seedot}}{{MSP|274|Nuzleaf}}{{MSP|285|Shroomish}}{{MSP|315|Roselia}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|357|Tropius}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}{{MSP|455|Carnivine}}{{MSP|495|Snivy}}<br>{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|546|Cottonee}}{{MSP|547|Whimsicott}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}{{MSP|764|Comfey}}|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}<br>{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}{{MSP|315|Roselia}}<br>{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|420|Cherubi}}<br>{{MSP|421|Cherrim}}{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|546|Cottonee}}{{MSP|547|Whimsicott}}<br>{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|764|Comfey}}|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/breed7|{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|182|Bellossom}}{{MSP|315|Roselia}}{{MSP|407|Roserade}}<br>{{MSP|357|Tropius}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}{{MSP|764|Comfey}}|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|270|Lotad}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}{{MSP|698|Amaura}}{{MSP|699|Aurorus}}|Mist|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}{{MSP|357|Tropius}}<br>{{MSP|764|Comfey}}{{MSP|780|Drampa}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|103|Exeggutor}}{{MSP|103A|Exeggutor}}{{MSP|191|Sunkern}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Skull Bash|Normal|Physical|130|100|10}}
+{{learnlist/breed7|{{MSP|103|Exeggutor}}{{MSP|108|Lickitung}}{{MSP|463|Lickilicky}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}<br>{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|357|Tropius}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}|Stomp|Normal|Physical|65|100|20}}{{learnlist/breedf/7|Abomasnow|Grass|Ice|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Abomasnow|Grass|Ice|4}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Abomasnow|Grass|Ice|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Abomasnow|Grass|Ice|4}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Abomasnow|Grass|Ice|4}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Ice}}
+{{Spindata/MDTDS|col=6|type=Grass|ndex=460
+|body=1
+|rate=-10
+|IQ=E
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Ice
+|assist=Ice
+|field=Crush
+|fieldpower=3
+|browser=It {{m|Razor Leaf|throws leaves}} to attack. It also summons {{m|blizzard}}s.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Ice
+|assist=Ice
+|field=Crush
+|fieldpower=3
+|browser=It shoots hunks of ice that make Pokémon Slowed.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Grass|ndex=460
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Grass|ndex=460|stype=Ice|num=382
+|mega=1
+|stone=Abomasite
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Heavy Hitter
+|skilldesc=Sometimes increases damage.
+|megaspeedup=7
+|effectdesc=Erases all Pokémon five rows above and five rows below.
+|swapper=Mind Zap
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Grass
+|type2=Ice
+|pictype=art
+|no1=459
+|name1=Snover
+|type1-1=Grass
+|type2-1=Ice
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 40}}
+|no2=460
+|name2=Abomasnow
+|type1-2=Grass
+|type2-2=Ice}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Ice}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/Gender|ndex=460}}
+{{Spritebox/5/Gender|ndex=460}}
+{{Spritebox/6/2FormsGender|ndex=460|form1=M}}
+{{Spritebox/7/2FormsGender|ndex=460|form1=M}}
+{{Spritebox/Footer|460|Abomasnow}}
+
+==Trivia==
+* Mega Abomasnow is the only Pokémon with a base stat total of 594.
+* Abomasnow is the first [[List of Pokémon by name|Pokémon by alphabetical order]].
+* No other Pokémon share the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Abomasnow and its pre-evolution, {{p|Snover}}.
+
+===Origin===
+Abomasnow appears to be based on a cross between an {{wp|evergreen tree}} covered in {{wp|snow}} and a {{wp|yeti}}. It may also be based on ''juhyou'', trees completely covered in snow known as "snow monsters".
+
+====Name origin====
+Abomasnow is a shortening of the term ''Abominable Snowman'', another name for the {{wp|yeti}}.
+
+Yukinooh may come to mean 雪の王 ''yuki no ō'' (snow king).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Ice
+|ja=ユキノオー ''Yukinooh''|jameaning=From {{tt|雪の王 ''yuki no ō''|snow king}}
+|de=Rexblisar|demeaning=From ''Rex'' and ''blizzard''
+|fr=Blizzaroi|frmeaning=From ''blizzard'' and ''{{tt|roi|king}}''
+|es=Abomasnow|esmeaning=Same as English name
+|it=Abomasnow|itmeaning=Same as English name
+|ko=눈설왕 ''Nunseolwang''|komeaning=From {{tt|눈 ''nun''|snow}}, {{tt|설 (雪) ''seol''|snow}}, and {{tt|왕 (王) ''wang''|king}}
+|zh_yue=暴雪王 ''Bouhsyutwohng''|zh_yuemeaning=Same as Mandarin name
+|zh_cmn=暴雪王 ''Bàoxuěwáng''|zh_cmnmeaning=From {{tt|暴風雪 ''bào​fēng​xuě''|blizzard}} and {{tt|王 ''wáng''|king}}. Literally "Violent snow king"
+}}
+<br clear="left">
+
+==Notes==
+<references />
+
+==External links==
+
+{{-}}
+{{Smash Bros.}}<br>
+{{PokémonPrevNext/Head|type=Grass|type2=Ice}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=459|prev=Snover|nextnum=461|next=Weavile}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Rexblisar]]
+[[fr:Blizzaroi]]
+[[it:Abomasnow]]
+[[ja:ユキノオー]]
+[[pl:Abomasnow]]
+[[zh:暴雪王]]

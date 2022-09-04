@@ -1,0 +1,400 @@
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=524|prev=Roggenrola|nextnum=526|next=Gigalith|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Boldore}}
+|}
+{{Pokémon Infobox
+|name=Boldore
+|jname=ガントル
+|jtranslit=Gantoru
+|tmname=Gantle
+|category=Ore
+|type1=Rock
+|abilityn=d
+|ability1=Sturdy
+|ability2=Weak Armor
+|abilityd=Sand Force
+|ndex=525
+|udex=031
+|u2dex=069
+|karea=Coastal
+|kdex=121
+|adex=099
+|height-ftin=2'11"
+|height-m=0.9
+|weight-lbs=224.9
+|weight-kg=102.0
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=15
+|expyield=137
+|lv100exp=1,059,860
+|gendercode=127
+|color=Blue
+|catchrate=120
+|evtotal=2
+|evat=1
+|evde=1
+|body=10
+|pokefordex=boldore
+|generation=5
+|friendship=70
+}}
+'''Boldore''' ([[List of Japanese Pokémon names|Japanese]]: '''ガントル''' ''Gantle'') is a {{type|Rock}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Roggenrola}} starting at [[level]] 25 and evolves into {{p|Gigalith}} when [[trade]]d.
+
+==Biology==
+Boldore is a blue rock-like Pokémon with an array of red crystals on its back and front, and a spine protruding from between its yellow ears. Rocky chunks at its sides comprise pincer-like limbs, tipped with red crystals similar to the ones on its back. Its orange crystals are the hardened form of its endlessly leaking energy. 
+
+Its crystals shines brightly when its power rises. Because its crystals are valuable, a fragment being capable of powering a hundred dump trucks, Boldore are targeted for it. It searches for underground water in the caves where it lives. It always faces the same way, never moving in a diagonal direction.
+
+==In the anime==
+[[File:Boldore anime.png|250px|thumb|left|Boldore in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Boldore]]====
+{{Ash}}'s Roggenrola evolved into Boldore in ''[[BW061|Battling the King of the Mines!]]'' during his battle against [[Clay]].
+
+====Other====
+A Boldore appeared in ''[[SM041|Mounting an Electrifying Charge!]]'', where it was used to create obstacles during the [[Charjabug race]] over the rocky terrain.
+
+===Minor appearances===
+A Boldore made a cameo appearance in ''[[BW067|Cilan Takes Flight!]]''.
+
+A {{pkmn|Trainer}}'s Boldore appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+A Boldore appeared in ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', where it was among the Pokémon playing in {{an|Lillie}}'s garden.
+
+Two Boldore appeared in ''[[SM015|Rocking Clawmark Hill!]]'', as some of the Pokémon training up on [[Clawmark Hill]].
+
+Four Boldore appeared in ''[[SM046|Deceiving Appearances!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW061|Boldore|Ash's Pokédex|Boldore, the Ore Pokémon and the evolved form of Roggenrola. Because Boldore cannot contain its massive energy, orange crystals form on its body. They glow when Boldore's energy overflows.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Cheren Boldore Adventures.png|thumb|200px|Boldore in [[Pokémon Adventures]]]]
+===In the Be the Best! Pokémon B+W manga===
+In ''[[PBW4|Challenge the Battle Subway!]]'', it was revealed that [[Monta]]'s {{p|Roggenrola}} had evolved into a Boldore. He used his newly evolved Pokémon in the [[Battle Subway]].
+
+===In the Pokémon Adventures manga===
+A Trainer's Boldore appeared in ''[[PS489|Drawing Bridges]]''.
+
+{{adv|Cheren}} was shown to have a Boldore in the Unova Pokémon League where it evolved into a {{p|Gigalith}} in ''[[PS517|Something Suspicious]]''.
+
+===In the Pokémon RéBURST manga===
+[[Rend]] had a Boldore he can use as a [[Burst]] form, but he gave the Burst Heart to [[Ryouga]] after he finished his training.
+
+==In the TCG==
+{{main|Boldore (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon: Magikarp Jump]]: Boldore may appear during {{DL|Pokémon: Magikarp Jump|training}}. As part of the "Boldore Push" training session, the player's Magikarp pushes it to earn JP.
+
+===Pokédex entries===
+{{Dex/Header|type=Rock}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.}}
+{{Dex/Entry1|v=White|entry=Because its energy was too great to be contained, the energy leaked and formed orange crystals.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Because its energy was too great to be contained, the energy leaked and formed orange crystals.}}
+{{Dex/Entry1|v=Y|entry=When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Because its energy was too great to be contained, the energy leaked and formed orange crystals.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Its orange crystal is a mass of energy. Just one crystal fragment would provide enough fuel for a hundred dump trucks.}}
+{{Dex/Entry1|v=Moon|entry=It explores caves in search of underground water. It's not comfortable around water, so this Pokémon takes great care in lapping it up.}}
+{{Dex/Entry1|v=Ultra Sun|entry=The energy overflowing from its body has turned into orange crystals that are hard enough to smash diamonds.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its orange crystals are lumps of powerful energy. They're valuable, so Boldore is sometimes targeted for them.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Chargestone Cave]], [[Mistralton Cave]], [[Twist Mountain]], [[Challenger's Cave]], {{OBP|Victory Road|Black and White}}, [[Giant Chasm]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Relic Passage]], [[Wellspring Cave]], [[Chargestone Cave]], [[Mistralton Cave]], [[Clay Tunnel]], [[Twist Mountain]], [[Reversal Mountain]], [[Seaside Cave]], {{OBP|Victory Road|Black 2 and White 2}}<br>[[Chargestone Cave]] ([[N's Pokémon]])}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Icy Cave}}{{tt|*|Only obtainable when using an account connected to Pokémon Black 2 or White 2}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Friend Safari]] ([[Friend Safari#Rock-type Safari|Rock]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Mirage Caves]] (west of {{rt|115|Hoenn}}, north of [[Fortree City]], north of {{rt|124|Hoenn}}, southeast of {{rt|129|Hoenn}}; all by {{m|Rock Smash}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Vast Poni Canyon]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Vast Poni Canyon]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[World Axle - B2F]], Lava: [[Volcanic Slope]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Cragspur]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Glacier Palace - Eastern Spire]] (1F-12F), [[Glacier Palace - Western Spire]] (1F-12F), [[Moonlit Forest]] (Mapless Street), [[Rusty Mountain]] (1F-24F), [[Slumbering Cave]] (B1-B99), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Entranceway#The Hidden Basement|Entranceway: The Hidden Basement]], [[Toy Collection#The Sword for Justice|Toy Collection: The Sword for Justice]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 1|Sacred Plains: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#Fifth release|''Pokémon Safari'']] <small>(Fifth release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Bewildering Cave|Silver Isles: Bewildering Cave]] <small>(All Areas)</small>, [[Legend Terrain#Mineral Crust Hollow|Legend Terrain: Mineral Crust Hollow]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Rock
+|bw1=Everstone|bw1type=None|bw1rar=50
+|bw2=Hard Stone|bw2type=None|bw2rar=5
+|b2w21=Everstone|b2w21type=None|b2w21rar=50
+|b2w22=Hard Stone|b2w22type=None|b2w22rar=5
+|oras1=Everstone|oras1type=None|oras1rar=50
+|oras2=Hard Stone|oras2type=None|oras2rar=5
+|sm1=Everstone|sm1type=None|sm1rar=50
+|sm2=Hard Stone|sm2type=None|sm2rar=5
+|usum1=Everstone|usum1type=None|usum1rar=50
+|usum2=Hard Stone|usum2type=None|usum2rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|HP=70
+|Attack=105
+|Defense=105
+|SpAtk=50
+|SpDef=40
+|Speed=20}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=200
+|Grass=200
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Boldore|Rock|Rock|5}}
+{{learnlist/level7|1|Power Gem|Rock|Special|80|100|20||'''}}
+{{learnlist/level7|1|Tackle|Normal|Physical|50|100|35}}
+{{learnlist/level7|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level7|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level7|1|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Power Gem|Rock|Special|80|100|20||'''}}
+{{learnlist/level7|4|Harden|Normal|Status|—|—|30}}
+{{learnlist/level7|7|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level7|10|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|14|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/level7|17|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level7|20|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level7|23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level7|30|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level7|36|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level7|42|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level7|48|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level7|55|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/levelf/7|Boldore|Rock|Rock|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Boldore|Rock|Rock|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Boldore|Rock|Rock|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Boldore|Rock|Rock|5}}
+{{learnlist/breed7|{{MSP|208|Steelix}}{{MSP|679|Honedge}}{{MSP|680|Doublade}}{{MSP|681|Aegislash}}|Autotomize|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|095|Onix}}{{MSP|208|Steelix}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Gravity|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|076|Golem}}{{MSP|076A|Golem}}|Heavy Slam|Steel|Physical|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|299|Nosepass}}{{MSP|476|Probopass}}|Lock-On|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|075|Graveler}}{{MSP|076|Golem}}|Magnitude|Ground|Physical|&mdash;|100|30}}
+{{learnlist/breed7|{{MSP|095|Onix}}{{MSP|185|Sudowoodo}}{{MSP|208|Steelix}}|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/breed7|{{MSP|568|Trubbish}}|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Boldore|Rock|Rock|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Boldore|Rock|Rock|5}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutorf/7|Boldore|Rock|Rock|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Boldore|Rock|Rock|5}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Boldore|Rock|Rock|5}}
+
+===Side game data===
+{{Spindata/Head|type=Rock}}
+{{Spindata/RumbleBlast|col=6|type=Rock
+|att=3
+|def=3
+|speed=2
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Rock|ndex=525
+|strong=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|weak=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=He was scared of water, but he is getting used to it, thanks to you. He doesn't speak much, but he thinks a lot.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Rock|ndex=525
+|HP=3
+|atk=3
+|def=3
+|spd=1
+|range=2
+|move=Rock Slide
+|ability1=Sturdy
+|ability2=Bodyguard
+|ability3=Explode
+|evo=Evolves from {{p|Roggenrola}} when its Defense is 50 or higher<br><!--Roggenrola's article says 59-->Evolves into {{p|Gigalith}} when it has a link of 60% or higher, after knocking out a [[Warrior]]'s Pokémon in a manner that allows recruitment
+|link={{DL|List of Pokémon Conquest characters|Madoka}}, {{DL|List of Pokémon Conquest characters|Tsunashige}}, and '''[[Ujiyasu]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Rock|ndex=525
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=525|num=377
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Heavy Hitter
+|skilldesc=Sometimes increases damage.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|pictype=art
+|type1=Rock
+|no1=524
+|name1=Roggenrola
+|type1-1=Rock
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 25}}
+|no2=525
+|name2=Boldore
+|type1-2=Rock
+|evo2={{bag|Pal Pad}}<br>{{color2|000|Trade}}
+|no3=526
+|name3=Gigalith
+|type1-3=Rock
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=525}}
+{{Spritebox/6|ndex=525}}
+{{Spritebox/7|ndex=525}}
+{{Spritebox/Footer|525|Boldore}}
+
+==Trivia==
+* Boldore is very similar to {{p|Graveler}}. Both are Rock-type Pokémon introduced in an odd-numbered generation with a base stat total of 390 that evolved at level 25 and can evolve again by [[trade|trading]].
+
+===Origin===
+Boldore appears to be based on a {{wp|geode}}. It also has some aspects of a {{wp|crab}}.
+
+====Name origin====
+Boldore may be combination of ''boulder'' and ''ore''. It may also derive from ''bold'' (outstanding or large).
+
+Gantle may be a combination of 岩 ''gan'' (rock) and ''{{wp|mantle (geology)|mantle}}''.
+
+==In other languages==
+{{Other languages|type=Rock|type2=Rock
+|ja=ガントル ''Gantle''|jameaning=From {{tt|岩 ''gan''|rock}} and ''mantle''
+|de=Sedimantur|demeaning=From ''Sediment''
+|fr=Géolithe|frmeaning=From ''geo'' and ''lithe''
+|es=Boldore|esmeaning=Same as English name
+|it=Boldore|itmeaning=Same as English name
+|ko=암트르 ''Amtru''|komeaning=From {{tt|암(巖) ''am''|rock}} and ''mantle''
+|zh_cmn=地幔岩 ''Dìmànyán''|zh_cmnmeaning=From {{tt|地幔 ''dìmàn''|mantle}} and {{tt|岩 ''yán''|boulder}}.
+|ru=Болдор ''Boldor''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Boldore]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=524|prev=Roggenrola|nextnum=526|next=Gigalith}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve through trading]]
+
+[[de:Sedimantur]]
+[[fr:Géolithe]]
+[[it:Boldore]]
+[[ja:ガントル]]
+[[pl:Boldore]]
+[[zh:地幔岩]]

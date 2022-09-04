@@ -1,0 +1,309 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=671|prev=Florges|nextnum=673|next=Gogoat}}
+|}
+{{Pokémon Infobox
+|name=Skiddo
+|jname=メェークル
+|jtranslit=Me'ēkuru
+|tmname=Meecle
+|category=Mount
+|generation=6
+|ndex=672
+|karea=Central
+|kdex=089
+|typebox=1
+|type1=Grass
+|abilityn=d
+|ability1=Sap Sipper
+|abilityd=Grass Pelt
+|catchrate=200
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=1
+|evhp=1
+|height-ftin=2'11"
+|height-m=0.9
+|weight-lbs=68.3
+|weight-kg=31.0
+|expyield=70
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|body=08
+|pokefordex=skiddo
+|friendship=70
+}}
+'''Skiddo''' ([[List of Japanese Pokémon names|Japanese]]: '''メェークル''' ''Meecle'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] into {{p|Gogoat}} starting at [[level]] 32.
+
+==Biology==
+Skiddo is a quadrupedal, goat-like Pokémon. This Pokémon has a white face with a brown blaze going down its muzzle. The blaze ends at a round, black nose, and it has black, elliptical eyes. The back of its head and its ears are also brown, and it has a short, white beard. Skiddo has two short, black horns on its head. Both of these horns extend in opposite directions out to the sides, and they have dark rings around the middle. There is a leafy green mane around its neck that extends along its back. The mane ends at its tail, which is made up of three short leaves. Its body is primarily brown with white stockings on its legs. Each foot ends in a cloven, brownish-orange hoof.
+
+Due to its close relationship with humans, Skiddo has developed the ability to read the feelings of its riders through their grip on its horns. Skiddo typically has a gentle nature and is said to be the first Pokémon to live alongside humans. Because of this relationship, Skiddo doesn't mind carrying people or supplies on its back.
+
+==In the anime==
+[[File:Skiddo anime.png|thumb|250px|left|Skiddo in the {{pkmn|anime}}]]
+===Major appearances===
+Multiple wild Skiddo made their main series debut in ''[[XY053|A Race for Home!]]'', where they were used by Trainers for racing. Two of them reappeared during the flashbacks in ''[[XY060|A Showcase Debut!]]'', ''[[XY080|Performing with Fiery Charm!]]'', and ''[[XY140|Till We Compete Again!]]''.
+
+Multiple Skiddo appeared in ''[[XY063|A Fork in the Road! A Parting of the Ways!]]''.
+
+===Minor appearances===
+Multiple Skiddo debuted in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Skiddo appeared in ''[[XY039|Summer of Discovery!]]'' on a [[Pokévision]] video icon.
+
+A {{pkmn|Trainer}}'s Skiddo appeared in ''[[XY057|Thawing an Icy Panic!]]''.
+
+A Trainer's Skiddo appeared in a fantasy or a flashback in ''[[XY059|Under the Pledging Tree!]]''.
+
+Two Skiddo appeared in a flashback in ''[[XY060|A Showcase Debut!]]''.
+
+A Skiddo appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''.
+
+Two Skiddo appeared in a flashback in ''[[XY060|A Showcase Debut!]]''.
+
+A Skiddo appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+Two Skiddo appeared during a flashback in ''[[SS036|The Legend of X, Y, and Z!]]'', each under the ownership of a different Trainer.
+
+Two Skiddo appeared in ''[[M20|I Choose You!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY053|Skiddo|Ash's Pokédex|Skiddo, the Mount Pokémon. Because of Skiddo's mild temperament, they're thought to be one of the first Pokémon to live in harmony with people.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Skiddo Adventures.png|thumb|200px|Skiddo in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PAXY02|X-actly What They Wanted]]'', a Skiddo appeared with its trainer, running from the battle between {{p|Xerneas}} and {{p|Yveltal}} in [[Vaniville Town]].
+
+In ''[[PAXY08|What Does Charmander Do When It Dozes?]]'', a Skiddo appeared sleeping in [[Lumiose City]].
+
+Multiple Skiddo appeared in ''[[PAXY37|Zygarde Agitated]]''.
+
+==In the TCG==
+{{main|Skiddo (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=grass}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.}}
+{{Dex/Entry1|v=Y|entry=If it has sunshine and water, it doesn't need to eat, because it can generate energy from the leaves on its back.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=If it has sunshine and water, it doesn't need to eat, because it can generate energy from the leaves on its back.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=grass}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{rt|5|kalos}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 1|Renegade Meadow: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 253]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Castle Farm|Dewdrop Bay: Castle Farm]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=     66
+|Attack= 65
+|Defense=48
+|SpAtk=  62
+|SpDef=  57
+|Speed=  52}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=grass
+|Normal=100
+|Flying=200
+|Fighting=100
+|Ground=50
+|Rock=100
+|Bug=200
+|Poison=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|sapsipper=maybe
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Skiddo|Grass|Grass|6}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|7|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/level7|9|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|12|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|13|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level7|16|Worry Seed|Grass|Status|&mdash;|100|10}}
+{{learnlist/level7|20|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|22|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|26|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/level7|30|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/level7|34|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|38|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|42|Horn Leech|Grass|Physical|75|100|10||'''}}
+{{learnlist/level7|45|Leaf Blade|Grass|Physical|90|100|15||'''}}
+{{learnlist/level7|50|Milk Drink|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/levelf/7|Skiddo|Grass|Grass|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Skiddo|Grass|Grass|6}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Skiddo|Grass|Grass|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Skiddo|Grass|Grass|6}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|028A|Sandslash}}{{MSP|161|Sentret}}{{MSP|162|Furret}}<br>{{MSP|206|Dunsparce}}{{MSP|231|Phanpy}}{{MSP|232|Donphan}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}<br>{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|517|Munna}}{{MSP|518|Musharna}}{{MSP|775|Komala}}{{MSP|777|Togedemaru}}|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|273|Seedot}}{{MSP|495|Snivy}}|Grassy Terrain|Grass|Status|—|—|10|*{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|672|Skiddo}}{{MSP|673|Gogoat}}|Milk Drink|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|206|Dunsparce}}<br>{{MSP|231|Phanpy}}{{MSP|232|Donphan}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|498|Tepig}}{{MSP|499|Pignite}}{{MSP|500|Emboar}}<br>{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|775|Komala}}<br>{{MSP|777|Togedemaru}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/breedf/7|Skiddo|Grass|Grass|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Skiddo|Grass|Grass|6}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Skiddo|Grass|Grass|6}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Template:Spindata/Battle Trozei|col=6|type=Grass|ndex=672
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Grass|ndex=672|num=367
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Barrier Bash
+|skilldesc=Removes one barrier-type disruption without fail.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=grass
+|pictype=art
+|no1=672
+|name1=Skiddo
+|type1-1=Grass
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 32}}
+|no2=673
+|name2=Gogoat
+|type1-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=grass}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=672}}
+{{Spritebox/7|ndex=672}}
+{{Spritebox/Footer|672|Skiddo}}
+
+==Trivia==
+===Origin===
+Skiddo is based on a {{wp|goat}} kid, possibly a {{wp|bharal}} or {{wp|Dwarf blue sheep|dwarf bharal}} due to its horns. It is also based on a bike, as it can be ridden and has {{wp|Bicycle handlebar#Riser|riser bar}}-like horns. The grass that grows upon it may originate from {{wp|Pan (god)|Pan}} or {{wp|Faunus}}, gods of nature who are half-goat, half-human. The grass could also be a reference to the traditional {{wp|yule goat}} figures in northern Europe made of hay.
+
+====Name origin====
+Skiddo may be a combination of ''skid'' and ''kiddo'' (slang for ''kid'', which is also a term used for young goats.). However, the way it is pronounced in the [[Pokémon anime|anime]] implies it may be a corruption of the {{wp|Ski-Doo}} brand.
+
+Meecle may be a combination of メー ''mē'' (the sound of a goat bleating) and ''vehicle'' or ''bicycle''.
+
+==In other languages==
+{{Other languages|type=Grass
+|ja=メェークル ''Meecle''|jameaning=From {{tt|メー ''mē''|the sound of a goat bleating}} and ''vehicle''
+|fr=Cabriolaine|frmeaning=From ''{{tt|cabri|goat kid}}'', ''{{tt|cabriole|goat's leap}}'', ''{{tt|cabriolet|horse-drawn vehicle; convertible}}'', and ''{{tt|laine|wool}}''
+|es=Skiddo|esmeaning=Same as English name
+|de=Mähikel|demeaning=From ''{{tt|Mäh|the sound of a goat bleating}}'' and ''{{tt|Vehikel|vehicle}}''
+|it=Skiddo|itmeaning=Same as English name
+|ko=메이클 ''Meikeul''|komeaning=From {{tt|음메 ''eumme''|the sound of a goat bleating}} and ''vehicle''
+|zh_cmn=咩咩羊 ''Miēmiēyáng''|zh_cmnmeaning=From {{tt|咩 ''miē''|onomatopoeia for bleating}} and {{tt|羊 ''yáng''|goat}}
+|zh_yue=咩咩羊 ''Mēmēyèuhng''|zh_yuemeaning=From {{tt|咩 ''mē''|onomatopoeia for bleating}} and {{tt|羊 ''yèuhng''|goat}}
+|hi=स्कीद्ड़ो ''Skiddo''|himeaning=Transcription of English name
+|ru=Скиддо ''Skiddo''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=671|prev=Florges|nextnum=673|next=Gogoat}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Mähikel]]
+[[fr:Cabriolaine]]
+[[it:Skiddo]]
+[[ja:メェークル]]
+[[pl:Skiddo]]
+[[zh:坐骑小羊]]

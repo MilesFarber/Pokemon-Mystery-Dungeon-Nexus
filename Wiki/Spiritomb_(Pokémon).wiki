@@ -1,0 +1,417 @@
+{{PokémonPrevNext/Head|type=Ghost|type2=Dark}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=441|prev=Chatot|nextnum=443|next=Gible}}
+|}
+{{Pokémon Infobox
+|name=Spiritomb
+|jname=ミカルゲ
+|tmname=Mikaruge
+|ndex=442
+|sdex=108
+|abrow=196
+|typebox=1
+|type1=Ghost
+|type2=Dark
+|category=Forbidden
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=238.1
+|weight-kg=108.0
+|abilityn=d
+|ability1=Pressure
+|abilityd=Infiltrator
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=30
+|evtotal=2
+|evde=1
+|evsd=1
+|expyield=170
+|oldexp=168
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|catchrate=100
+|body=05
+|pokefordex=spiritomb
+|generation=4
+|friendship=70
+}}
+'''Spiritomb''' ([[List of Japanese Pokémon names|Japanese:]] '''ミカルゲ''' ''Mikaruge'') is a dual-type {{2t|Ghost|Dark}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+Although lacking a physical body, Spiritomb projects its appearance out of a small rock called the [[Odd Keystone]]. The rock is trapezoidal in shape and has two small dots. There is a crack running down the middle, splitting in two near the bottom. The crack in combination with the two dots appears to form a frowning face. Spiritomb's projected appearance is an ethereal composition of swirling purple fog. Its face is set in the middle of the fog and contains green, crescent eyes that are connected to its jagged mouth. Its pupils are composed of a spiral and it is sometimes only seen with one. Swirling around its face are green orbs with yellow centers.
+
+Spiritomb is formed by the collection of 108 spirits being trapped in an Odd Keystone due to misdeeds. Some Spiritomb are up to 500 years old. As seen in [[DP056|the anime]], Spiritomb can be just as aggressive and destructive as the spirits that it is composed of. It will lash out at anyone with little thought, often exercising short sightedness in its pursuit of vengeance.
+
+==In the anime==
+[[File:Spiritomb anime.png|left|thumb|250px|Spiritomb in the {{pkmn|anime}}]]
+===Major appearances===
+Spiritomb debuted in ''[[DP056|The Keystone Pops!]]''. {{Ash}} and {{AP|Buizel}} were having a training match with {{an|Dawn}} and {{TP|Dawn|Aipom}} when Buizel accidentally knocked down [[Hallowed Tower]], Spiritomb emerged from the tower's [[Odd Keystone|keystone]]. It then wreaked havoc on a nearby town.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP056|Spiritomb|Dawn's Pokédex|Spiritomb, the Forbidden Pokémon. As punishment for misdeeds 500 years ago, it was imprisoned in the fissure of an Odd Keystone.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Cynthia Spiritomb Adventures.png|thumb|130px|Spiritomb in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Spiritomb first appeared under the ownership of [[Cynthia]] in ''[[PS347|Ring Around the Roserade II]]'', and helped {{adv|Platinum}} train for her upcoming Gym challenge against [[Gardenia]]. With her psychic abilities, she was able to seal [[Tru]]'s {{m|Razor Leaf}} attack alongside [[Platinum's Empoleon|Prinplup]]'s water attack, and used them to save [[Rad Rickshaw]], inadvertently getting {{adv|Diamond}}, {{adv|Pearl}}, and Platinum a set of bicycles. Spiritomb was later used against [[Cyrus]], where she defeated his {{p|Honchkrow}}, but was then defeated by {{p|Weavile}}.
+
+==In the TCG==
+{{main|Spiritomb (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}: A Spiritomb is the boss of [[Sealed Ruin]]. He captures {{mdc|Grovyle|2}} and the player must battle the Spiritomb to free him.
+* {{g|Mystery Dungeon: Explorers of Sky}}: A Spiritomb was ordered by {{mdc|Dusknoir|2}} to hold {{mdc|Celebi|2}} hostage in the depths of [[Icicle Forest]] to lure {{mdc|Grovyle|2}} into the center of the electric field. This Spiritomb is likely to be the same one from Sealed Ruin.
+* {{g|Ranger: Shadows of Almia}}: A Spiritomb is the boss the first time the player goes through the [[Chroma Ruins]]. It also appears as the second boss of the Capture Arena.
+
+===Pokédex entries===
+{{Dex/Header|type=Ghost|type2=Dark}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=A Pokémon that was formed by 108 spirits. It is bound to a fissure in an Odd Keystone.}}
+{{Dex/Entry1|v=Pearl|entry=It was bound to a fissure in an Odd Keystone as punishment for misdeeds 500 years ago.}}
+{{Dex/Entry1|v=Platinum|entry=Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=A Pokémon that was formed by 108 spirits. It is bound to a fissure in an Odd Keystone.}}
+{{Dex/Entry1|v=Y|entry=It was bound to a fissure in an Odd Keystone as punishment for misdeeds 500 years ago.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=A Pokémon that was formed by 108 spirits. It is bound to a fissure in an Odd Keystone.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=It was bound to a fissure in an Odd Keystone as punishment for misdeeds 500 years ago.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ghost|type2=Dark}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Hallowed Tower]] on {{rt|209|Sinnoh}}}}
+{{Availability/Entry1|v=Platinum|area=[[Hallowed Tower]] on {{rt|209|Sinnoh}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=Transfer from [[Pokéwalker]]}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Quiet Cave}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area={{pkmn|Dream World}} or [[Trade]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Trade]] with [[Curtis]] or [[Yancy]] in [[Nimbasa City]] <br> [[Unova Link|Transfer]] from {{pkmn|Dream Radar}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Spooky Manor}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Ghost-type Safari|Ghost]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Sea Mauville]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ghost|type2=Dark}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=Deep [[Sealed Ruin]] (Interior), [[Spacial Rift]] (B15, Deep Spacial Rift B1-B5), [[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=Deep [[Sealed Ruin]] (Interior), [[Spacial Rift]] (B15, Deep Spacial Rift B1-B5), [[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Chroma Ruins]] (during mission), [[Capture Arena]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Eternal Tower]]}}
+{{Availability/Entry2/None|v=MD Blazing|v2=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|t={{fire color dark}}|color2={{electric color}}|t2={{electric color dark}}|area={{DL|Pokémon Mystery Dungeon (WiiWare)|Wonder Mail codes}}}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Hauntyard: [[Misty Edgewater]] (post ending)}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Yaksha]], [[Spectra]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Melodious Woodland#Major Clean-Up|Melodious Woodland: Major Clean-Up]] <small>(Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 4|Distortion Island: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#The Daily Pokémon (#3)|The Daily Pokémon (#3)]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Obsidian Shrine|Black Realm: Obsidian Shrine]] <small>(Center Boss, Back, Special)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 05|Area 05: Stage 05]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Ghost|type2=Dark}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Game Show Cynthia's Spiritomb|Japanese|Japan|61|August 17 to 18, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Cynthia's Spiritomb}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Ghost|type2=Dark
+|oras1=Smoke Ball|oras1type=None
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ghost
+|type2=Dark
+|HP=      50
+|Attack=  92
+|Defense=108
+|SpAtk=   92
+|SpDef=  108
+|Speed=   35}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ghost
+|type2=Dark
+|Speed=1
+|SpeedMax=2
+|Power=3
+|PowerMax=4
+|Technique=2
+|TechniqueMax=2
+|Stamina=5
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|type2=Dark
+|Normal=    0
+|Fighting=  0
+|Flying=  100
+|Poison=   50
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic=   0
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   200
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=2
+|dark=yes
+|newpsychic=1}}
+
+===Learnset===
+====By [[level|leveling up]]====
+{{learnlist/levelh/7|Spiritomb|Ghost|Dark|4}}
+{{learnlist/level7|1|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Pursuit|Dark|Physical|40|100|20||'''}}
+{{learnlist/level7|1|Confuse Ray|Ghost|Status|&mdash;|100|10}}
+{{learnlist/level7|1|Spite|Ghost|Status|&mdash;|100|10}}
+{{learnlist/level7|1|Shadow Sneak|Ghost|Physical|40|100|30||'''}}
+{{learnlist/level7|7|Feint Attack|Dark|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|13|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/level7|19|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/level7|25|Ominous Wind|Ghost|Special|60|100|5||'''}}
+{{learnlist/level7|31|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/level7|37|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|43|Memento|Dark|Status|&mdash;|100|10}}
+{{learnlist/level7|49|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/levelf/7|Spiritomb|Ghost|Dark|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Spiritomb|Ghost|Dark|4}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Spiritomb|Ghost|Dark|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Spiritomb|Ghost|Dark|4}}
+{{learnlist/breed7|{{MSP|282|Gardevoir}}|Captivate|Normal|Status|&mdash;|100|20|||Cute|4|0}}
+{{learnlist/breed7|{{MSP|092|Gastly}}{{MSP|093|Haunter}}{{MSP|094|Gengar}}{{MSP|109|Koffing}}{{MSP|110|Weezing}}{{MSP|202|Wobbuffet}}<br>{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}|Destiny Bond|Ghost|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|088|Grimer}}{{MSP|088A|Grimer}}{{MSP|089|Muk}}{{MSP|089A|Muk}}{{MSP|355|Duskull}}{{MSP|356|Dusclops}}<br>{{MSP|477|Dusknoir}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Disable|Normal|Status|—|100|20|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|092|Gastly}}{{MSP|093|Haunter}}{{MSP|094|Gengar}}{{MSP|200|Misdreavus}}{{MSP|429|Mismagius}}{{MSP|353|Shuppet}}<br>{{MSP|354|Banette}}{{MSP|442|Spiritomb}}{{MSP|618|Stunfisk}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|710|Pumpkaboo}}<br>{{MSP|711|Gourgeist}}|Foul Play|Dark|Physical|95|100|15|‡|'''}}
+{{learnlist/breed7|{{MSP|200|Misdreavus}}{{MSP|353|Shuppet}}{{MSP|354|Banette}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Grudge|Ghost|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|280|Ralts}}{{MSP|281|Kirlia}}{{MSP|282|Gardevoir}}{{MSP|607|Litwick}}{{MSP|608|Lampent}}|Imprison|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|092|Gastly}}{{MSP|093|Haunter}}{{MSP|094|Gengar}}|Nightmare|Ghost|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|200|Misdreavus}}{{MSP|577|Solosis}}{{MSP|578|Duosion}}{{MSP|579|Reuniclus}}{{MSP|607|Litwick}}{{MSP|608|Lampent}}<br>{{MSP|609|Chandelure}}{{MSP|710|Pumpkaboo}}{{MSP|711|Gourgeist}}{{MSP|778|Mimikyu}}|Pain Split|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|353|Shuppet}}{{MSP|354|Banette}}{{MSP|355|Duskull}}{{MSP|356|Dusclops}}{{MSP|477|Dusknoir}}{{MSP|442|Spiritomb}}<br>{{MSP|710|Pumpkaboo}}{{MSP|711|Gourgeist}}{{MSP|778|Mimikyu}}|Shadow Sneak|Ghost|Physical|40|100|30||'''}}
+{{learnlist/breed7|{{MSP|109|Koffing}}{{MSP|110|Weezing}}|Smokescreen|Normal|Status|&mdash;|100|20}}
+{{learnlist/breedf/7|Spiritomb|Ghost|Dark|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Spiritomb|Ghost|Dark|4}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutorf/7|Spiritomb|Ghost|Dark|4}}
+
+===Side game data===
+{{Spindata/Head|type=Ghost|type2=Dark}}
+{{Spindata/MDTDS|col=6|type=Ghost|ndex=442
+|body=1
+|rate=-10
+|IQ=G
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ghost
+|group=Ghost
+|assist=Ghost
+|fieldpower=-
+|browser=It warps from rock to rock. It uses a variety of attacks.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Ghost
+|att=3
+|def=5
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Ghost
+|att=3
+|def=5
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Ghost|ndex=442
+|HP=2
+|atk=3
+|def=5
+|spd=1
+|range=3
+|move=Shadow Sneak
+|ability1=Interference
+|ability2=Frighten
+|ability3=Black Hole
+|evo=Does not evolve into or from anything
+|link={{DL|List of Pokémon Conquest characters|Chiyome}} and {{DL|List of Pokémon Conquest characters|Danzō}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ghost|ndex=442
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Ghost|ndex=442|num=243
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Spookify
+|skilldesc=Leaves the foe spooked.
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Ghost
+|type2=Dark
+|pictype=art
+|no1=442
+|name1=Spiritomb
+|type1-1=Ghost
+|type2-1=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Ghost|type2=Dark}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=442}}
+{{Spritebox/5|ndex=442}}
+{{Spritebox/6|ndex=442}}
+{{Spritebox/7|ndex=442}}
+{{Spritebox/Footer|442|Spiritomb}}
+
+==Trivia==
+* Its {{game|Diamond and Pearl|s|Diamond}}, {{game|HeartGold and SoulSilver|s|HeartGold, and SoulSilver}} Pokédex entries states that it was formed from 108 spirits. Spiritomb's number in the [[List of Pokémon by Sinnoh Pokédex number|Sinnoh Pokédex]] is 108, its Defense and Special Defense base values are 108, and it weighs exactly 108.0&nbsp;kg. In {{pkmn|Omega Ruby and Alpha Sapphire}} it can be found at [[Sea Mauville]], which lies on {{rt|108|hoenn}}. All this is based on the number of temptations a person must overcome to reach Nirvana in Buddhism.
+* Prior to the introduction of the {{t|Fairy}} type in [[Generation VI]], Spiritomb was one of the only two {{OBP|Pokémon|species}} that had no weakness (without the aid of an Ability) along with {{p|Sableye}}.
+
+===Origin===
+Spiritomb is based on a Jibakurei, a spirit bound to a single place. It is also based on a {{wp|Buddhist}} tradition performed on {{wp|New Year's Eve}} in Japan. A bell is rung 108 times to chase away the 108 temptations in order to achieve Nirvana. The wisps of spirits surrounding its face also resemble a set of prayer beads, a possible reference to {{wp|Japa}}. It may also be based on a crystal ball.
+
+Spiritomb may also be based on {{wp|Water Margin}}, one of China's {{wp|Four Great Classical Novels}}, which is also very well known in Japan. In the first chapter of the novel, a foolish army marshal orders the removal of a stone monument which had been guarded by monks for generations. Doing so releases the spirits of 108 demons sealed therein. These 108 souls, having atoned for their sins, become the {{wp|108 Stars of Destiny}}. They are reincarnated centuries later as 108 outlaws, the heroes of the novel.
+
+===Name origin===
+Spiritomb is a combination of ''spirit'' and ''tomb''.
+
+Mikaruge may be a combination of 甕 ''mika'' (jar or urn, referring to it being a container of souls) and 軽石 ''karuishi'' ({{wp|pumice}}) or 御影石 ''mikageishi'' ({{wp|granite}}; both refer to its base, the Odd Keystone).
+
+==In other languages==
+{{Other languages|type=Ghost|type2=Dark
+|ja=ミカルゲ ''Mikaruge''|jameaning=From 甕 ''mika'' (jar or urn, referring to it being a container of souls) and 軽石 ''karuishi'' (pumice) or 御影石 ''mikageishi'' (granite)
+|de=Kryppuk|demeaning=From ''{{tt|kryptisch|cryptic}}'' and ''{{tt|Spuk|apparition}}''
+|fr=Spiritomb|frmeaning=Same as English name
+|es=Spiritomb|esmeaning=Same as English name
+|it=Spiritomb|itmeaning=Same as English name
+|ko=화강돌 ''Hwagangdol''|komeaning=From {{tt|화강암 ''Hwagangam''|granite}} and {{tt|돌 ''dol''|stone}}
+|zh_cmn=花岩怪 ''Huā Yán Guài''|zh_cmnmeaning=From {{tt|花崗岩|granite}} and {{tt|怪物|monster}}. 花岩 can also mean "flower-patterned rock".
+}}
+{{left clear}}
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ghost|type2=Dark}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=441|prev=Chatot|nextnum=443|next=Gible}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Kryppuk]]
+[[fr:Spiritomb]]
+[[it:Spiritomb]]
+[[ja:ミカルゲ]]
+[[pl:Spiritomb]]
+[[zh:花岩怪]]

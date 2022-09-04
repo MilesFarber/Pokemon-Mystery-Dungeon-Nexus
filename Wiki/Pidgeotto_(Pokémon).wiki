@@ -1,0 +1,572 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/GO|species=Pidgeotto}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=016|prev=Pidgey|nextnum=018|next=Pidgeot|round=none}}
+{{PokémonPrevNext/Disambig|species=Pidgeotto}}
+|}
+{{Pokémon Infobox
+|name=Pidgeotto
+|jname=ピジョン
+|jtranslit=Pijon
+|tmname=Pigeon
+|ndex=017
+|jdex=011
+|karea=Central
+|kdex=018
+|odex=002
+|opbrow=008
+|typebox=1
+|type1=Normal
+|type2=Flying
+|category=Bird
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=66.1
+|weight-kg=30.0
+|abilityn=d
+|ability1=Keen Eye
+|ability2=Tangled Feet
+|abilityd=Big Pecks
+|egggroupn=1
+|egggroup1=Flying
+|egggroup2=
+|eggcycles=15
+|evtotal=2
+|evsp=2
+|expyield=122
+|oldexp=113
+|lv100exp=1,059,860
+|gendercode=127
+|color=Brown
+|catchrate=120
+|body=09
+|pokefordex=pidgeotto
+|generation=1
+|friendship=70
+}}
+'''Pidgeotto''' ([[List of Japanese Pokémon names|Japanese]]: '''ピジョン''' ''Pigeon'') is a dual-type {{2t|Normal|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Pidgey}} starting at [[level]] 18 and evolves into {{p|Pidgeot}} starting at level 36.
+
+==Biology==
+Pidgeotto is a raptor-like avian Pokémon. It is covered with brown feathers, and has a cream-colored face, underside, and flight feathers. It has a crest of pinkish-red feathers on its head and black, angular markings behind its eyes. The plumage of its tail has alternating red and yellow feathers with ragged tips. Its beak and legs are pink. Two of its toes point forward, while one points backward. Additionally, it has powerful, sharp talons that it uses to grasp prey.
+
+Pidgeotto is a powerful flier capable of carrying prey several miles to its nest. It has amazing vision, which helps it locate preferred prey Pokémon such as {{p|Exeggcute}} and {{p|Magikarp}}. [[EP003|The anime]] has also shown it preying on {{p|Caterpie}}. Pidgeotto claims a sprawling territory of more than 60 miles, which it defends fiercely. Its nest is usually in the center of its territory and it circles its territory throughout the day, looking out for food and intruders. It is most often found in {{DL|List of Pokémon by habitat|Forest Pokémon|forests}}. {{m|Gust}} and {{m|Feather Dance}} are its former [[signature move]]s.
+
+==In the anime==
+[[File:Pidgeotto anime.png|thumb|300px|Pidgeotto in the {{pkmn| anime}}]]
+===Major appearances===
+====[[Ash's Pidgeotto]]====
+In the anime, Ash caught a {{AP|Pidgeotto}} in ''[[EP003|Ash Catches a Pokémon]]''. Since then, it played a role as one of Ash's main Pokémon. It participated in the [[Gym]] battles against {{TRT}}, {{an|Brock}}, and {{an|Misty}}, and was frequently used for breaking Team Rocket's {{p|Meowth}}-shaped balloon. However, it was the only one of Ash's Pokémon at the time, save some of his numerous {{AP|Tauros}}, not to participate in the [[Indigo Plateau Conference]]. It eventually evolved into {{p|Pidgeot}} and left Ash's party to guard other {{p|Pidgey}} and Pidgeotto.
+
+====Other====
+A flock of Pidgeotto appeared in ''[[EP081|Pallet Party Panic]]'', where they were attacked by a flock of {{p|Spearow}} and a {{p|Fearow}}. The flock reappeared in a flashback in ''[[EP131|Fighting Flyer with Fire]]''.
+
+[[Benji's father]] has a Pidgeotto, which is part of his patrol helping people stranded in the mountains as seen in ''[[EP172|Mountain Time]]''.
+
+[[Vladimir]] owns a Pidgeotto, which knows {{m|Aerial Ace}} as seen in ''[[AG090|Pokéblock, Stock and Berry]]''. He uses it to demonstrate to other Trainers, like Ash and his {{AP|Swellow}}, how to use the {{type|Flying}} attack.
+
+===Minor appearances===
+Pidgeotto briefly appeared in a fantasy in ''[[EP009|The School of Hard Knocks]]''.
+
+Multiple Pidgeotto appeared in ''[[EP015|Battle Aboard the St. Anne]]''.
+
+A Pidgeotto appeared in ''[[EP028|Pokémon Fashion Flash]]'' and ''[[EP057|The Breeding Center Secret]]''.
+
+Multiple Pidgeotto were among the Pokémon seen at [[Professor Oak's Laboratory]] in ''[[EP065|Showdown at the Po-ké Corral]]''.
+
+A Pidgeotto appeared in ''[[EP075|Round One - Begin!]]'', under the ownership of a Trainer participating in the Indigo Plateau Conference.
+
+A Pidgeotto belonging to an unknown Trainer appeared in ''[[EP080|Friends to the End]]'', during the closing ceremonies of the Indigo Plateau Conference.
+
+A {{DL|List of alternately colored Pokémon in the anime|Pink Pokémon|pink}} Pidgeotto appeared in {{TRT}}'s fantasy in ''[[EP088|In the Pink]]''.
+
+Multiple Pidgeotto appeared in ''[[M02|The Power of One]]''.
+
+A Pidgeotto was part of an exhibition in ''[[EP122|Flower Power]]''.
+
+A Pidgeotto appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+Two Pidgeotto were among the inhabitants of an oasis just for Pokémon in ''[[EP207|Got Miltank?]]''.
+
+Multiple Pidgeotto appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+A Pidgeotto appeared in ''[[DP071|Pokémon Ranger and the Kidnapped Riolu! Part One]]''.
+
+Multiple Pidgeotto appeared in ''[[M08|Lucario and the Mystery of Mew]]''. One also appeared in the opening sequence of the movie.
+
+A Pidgeotto briefly appeared in ''[[M10|The Rise of Darkrai]]''.
+
+A Pidgeotto made a brief appearance in ''[[M12|Arceus and the Jewel of Life]]''.
+
+Multiple Pidgeotto made cameo appearances in ''[[M11|Giratina and the Sky Warrior]]'' and ''[[M13|Zoroark: Master of Illusions]]''.
+
+Multiple Pidgeotto appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]'' and ''[[XY007|Giving Chase at the Rhyhorn Race!]]''.
+
+Multiple Pidgeotto briefly appeared in ''[[XY035|The Forest Champion!]]''.
+
+A {{pkmn|Trainer}}'s Pidgeotto appeared in ''[[XY039|Summer of Discovery!]]'', ''[[XY041|Foggy Pokémon Orienteering!]]'', and ''[[XY042|Battling Into the Hall of Fame!]]''.
+
+A Trainer's Pidgeotto appeared in ''[[XY066|Confronting the Darkness!]]''.
+
+A Trainer's Pidgeotto appeared in ''[[XY077|A Relay in the Sky!]]'', where it participated in the [[Pokémon Sky Relay]].
+
+A Trainer's Pidgeotto appeared in ''[[XY091|A Performance Pop Quiz!]]''.
+
+A wild Pidgeotto appeared in ''[[M19|Volcanion and the Mechanical Marvel]]'', where it was among the Pokémon living at the [[Nebel Plateau]].
+
+A Pidgeotto appeared in ''[[SM003|Loading the Dex!]]'' as a silhouette that [[Rotom Pokédex]] brought up.
+
+Multiple Pidgeotto appeared in ''[[M20|I Choose You!]]'', one of which was under the ownership of a Trainer. The others were among the Pokémon that were under the control of {{OBP|Marshadow|M20}}.
+
+A Pidgeotto appeared in a photo taken by {{Rotom}} in ''[[SM042|Alola, Kanto!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP003|Pidgeotto|Ash's Pokédex|Pidgeotto, an evolved form of the {{p|Pidgey}}. It is armed with sharp claws and dives from the sky to capture its prey. Unlike the more gentle Pidgey, Pidgeotto can be dangerous. Approach with extreme caution.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+
+==In the manga==
+[[File:Ash Pidgeotto EToP.png|thumb|200px|Pidgeotto in [[The Electric Tale of Pikachu]]]]
+===In The Electric Tale of Pikachu manga===
+{{main|Ash's Pidgeotto}}
+{{OBP|Ash Ketchum|EToP|Ash}}'s Pidgeotto appears in the {{pkmn|manga}} series [[The Electric Tale of Pikachu]]. It is the fourth Pokémon that Ash captures in the manga.
+
+In the chapter ''[[ET02|Play Misty For Me]]'', Ash tries to use his Pidgeotto to battle {{an|Misty}}, but all there is inside its [[Poké Ball]] is a note that reads "I'm beat! Off to get some R&R. Don't forget to write! -Pidgeotto". It is unknown if Pidgeotto permanently left Ash's party after this, but it never appeared in the manga again.
+
+===In the [[Pokémon Adventures]] manga===
+In ''[[PS054|Pidgeotto Pick-Me-Up]]'', a Pidgeotto along with two Pidgey kidnaps {{adv|Yellow}}'s [[Kitty|Caterpie]], but escaped after [[Pika]] had defeated them.
+
+[[Falkner]] owns a Pidgeotto which first appeared in ''[[PS099|Sunkern Treasure]]'', flying above Gold and trying to catch a Skarmory.
+
+[[File:Falkner Pidgeotto Adventures.png|thumb|left|200px|Pidgeotto in [[Pokémon Adventures]]]]
+
+===In the Pokémon Gold & Silver: The Golden Boys manga===
+{{main|Gold's Pidgeotto}}
+{{GnB|Gold}}'s first capture on his journey was a Pidgey that later evolved into a Pidgeotto.
+
+===In the Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon manga===
+[[Takashi]] owns a Pidgeotto in Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon.
+
+===In the Pokémon Pocket Monsters manga===
+In the [[PMHGSS05|fifth chapter]] of the {{OBP|Pocket Monsters HGSS|Kosaku Anakubo}}, [[Falkner]]'s Pidgeotto battles [[Red's Clefairy]].
+
+==In the TCG==
+{{main|Pidgeotto (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon: Magikarp Jump]]: A Pidgeotto may appear as part of several {{DL|Pokémon: Magikarp Jump|Random encounter events|events}}, where it will carry away the player's Magikarp when it jumps (and thereby force it to retire). Several Pidgeotto are also seen flying in the background of Magikarp's 100m and higher jumps.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Flying}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.}}
+{{Dex/Entry1|v=Yellow|entry=This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=It builds its nest in the center of its large territory. It uses its powerfully-developed talons to swiftly snatch prey.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.}}
+{{Dex/Entry1|v=Silver|entry=It immobilizes its prey using well-developed claws, then carries the prey more than {{tt|60 miles|100 km}} to its nest.}}
+{{Dex/Entry1|v=Crystal|entry=It slowly flies in a circular pattern, all the while keeping a sharp lookout for prey.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=This Pokémon flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.}}
+{{Dex/Entry1|v=FireRed|entry=The claws on its feet are well developed. It can carry prey such as an {{p|Exeggcute}} to its nest over {{tt|60 miles|100 km}} away.}}
+{{Dex/Entry1|v=LeafGreen|entry=Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It flies over its wide territory in search of prey, downing it with its highly developed claws.}}
+{{Dex/Entry1|v=HeartGold|entry=It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.}}
+{{Dex/Entry1|v=SoulSilver|entry=It renders its prey immobile using well-developed claws, then carries the prey more than {{tt|60 miles|100 km}} to its nest.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It flies over its wide territory in search of prey, downing it with its highly developed claws.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It flies over its wide territory in search of prey, downing it with its highly developed claws.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.}}
+{{Dex/Entry1|v=Y|entry=Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Route]]s {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, and {{rtn|21|Kanto}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, and {{rtn|21|Kanto}}}}
+{{Availability/Entry1|v=Yellow|area=[[Route]]s {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|7|Kanto}}, {{rtn|8|Kanto}}, {{rtn|11|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|21|Kanto}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Viridian Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|8|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|25|Kanto}}, {{rtn|37|Johto}}, and {{rtn|43|Johto}}{{sup/t|M}}{{sup/t|D}}}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|5|Kanto}}, {{rtn|8|Kanto}}, {{rtn|11|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|25|Kanto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, {{rtn|39|Johto}}, and {{rtn|43|Johto}}{{sup/t|M}}{{sup/t|D}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|2|area=[[Route]]s {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, and {{rtn|15|Kanto}}, [[Bond Bridge]], [[Berry Forest]], [[Five Isle Meadow]] }}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cipher Key Lair]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Pidgey}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Pidgey}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|8|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, {{rtn|25|Kanto}}, {{rtn|37|Johto}}, and {{rtn|43|Johto}}, [[Viridian Forest]]}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Pidgey}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Pidgey}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{safari|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Pidgey}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Pidgey}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 11]], [[Secret Storage 17]], Endless Level 21, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Mt. Thunder]] (2F-5F), [[Oddity Cave]] (B5)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Concealed Ruins]] (B10-B20), [[World Abyss]] (B1-B20), [[Mt. Mistral]] (1F-19F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Concealed Ruins]] (B10-B20), [[World Abyss]] (B1-B20), [[Mt. Mistral]] (1F-19F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie‎]] <small>(Normal Mode B)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Beach Zone]]}}
+{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=[[Evolution|Evolve]] {{p|Pidgey}}}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area={{ra|Sky}}, [[Forest Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Challenger's Ground]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Conductor Room#King of the Sky|Conductor Room: King of the Sky]], [[Chill Battle#The Forest of Memories|Chill Battle: The Forest of Memories]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 5|Mountain of Order: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Isla Asul|Isla Asul: Stage 44]]<br>[[Blau Salon|Blau Salon: Stage 443]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Fledgling Field|Diamond Crater: Fledgling Field]] <small>(All Areas)</small>}}
+<!--{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=}}-->
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=Normal|type2=Flying
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1rar=100|rby1image=no
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|type=Normal
+|type2=Flying
+|HP=     63
+|Attack= 60
+|Defense=55
+|SpAtk=  50
+|SpDef=  50
+|Special=50
+|Speed=  71 }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|type2=Flying
+|Speed=3
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=2
+|StaminaMax=4
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Flying
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Pidgeotto|Normal|Flying|1}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|1|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level7|5|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|9|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level7|13|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level7|17|Whirlwind|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|22|Twister|Dragon|Special|40|100|20}}
+{{learnlist/level7|27|Feather Dance|Flying|Status|&mdash;|100|15}}
+{{learnlist/level7|32|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|37|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/level7|42|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|47|Tailwind|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|52|Mirror Move|Flying|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|57|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|62|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/levelf/7|Pidgeotto|Normal|Flying|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Pidgeotto|Normal|Flying|1}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Pidgeotto|Normal|Flying|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Pidgeotto|Normal|Flying|2}}
+{{learnlist/breed7|{{MSP|041|Zubat}}{{MSP|042|Golbat}}{{MSP|169|Crobat}}{{MSP|083|Farfetch'd}}{{MSP|227|Skarmory}}{{MSP|278|Wingull}}<br>{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|561|Sigilyph}}<br>{{MSP|714|Noibat}}{{MSP|715|Noivern}}{{MSP|741|Oricorio}}|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|041|Zubat}}{{MSP|042|Golbat}}{{MSP|169|Crobat}}<br>{{MSP|083|Farfetch'd}}{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|178|Xatu}}{{MSP|227|Skarmory}}{{MSP|276|Taillow}}<br>{{MSP|277|Swellow}}{{MSP|278|Wingull}}{{MSP|468|Togekiss}}{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}<br>{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|561|Sigilyph}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|627|Rufflet}}<br>{{MSP|628|Braviary}}{{MSP|714|Noibat}}{{MSP|715|Noivern}}{{MSP|741|Oricorio}}|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}{{MSP|276|Taillow}}{{MSP|277|Swellow}}{{MSP|396|Starly}}{{MSP|397|Staravia}}{{MSP|398|Staraptor}}<br>{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|627|Rufflet}}{{MSP|628|Braviary}}{{MSP|663|Talonflame}}{{MSP|722|Rowlet}}<br>{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/breed7|{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|627|Rufflet}}{{MSP|628|Braviary}}|Defog|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|198|Murkrow}}|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|722|Rowlet}}{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|198|Murkrow}}{{MSP|430|Honchkrow}}<br>{{MSP|278|Wingull}}|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/breed7|{{MSP|227|Skarmory}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/breed7|{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|441|Chatot}}|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/breedf/7|Pidgeotto|Normal|Flying|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Pidgeotto|Normal|Flying|2}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutorf/7|Pidgeotto|Normal|Flying|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Pidgeotto|Normal|Flying|1}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Pidgeotto|Normal|Flying|1}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Flying}}
+{{Spindata/Pinball|col=3|type=Normal|ndex=017|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=017|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=017
+|body=1
+|rate=-19
+|area=Flyaway Forest
+|P1=I'll drop foes with my sharp claws!
+|P2=My HP's been halved. This is a bit rough.
+|P3=I'm nearly done... It hurts to fly...
+|PL=Leveled up! My claws have grown sharper!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=017
+|body=1
+|rate=-4.5
+|IQ=D
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Normal
+|group=Flying
+|assist=Flying
+|field=Cut
+|fieldpower=2
+|browser=It launches {{m|twister}}s.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Normal
+|att=2
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Normal
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Normal|ndex=017
+|Pad=Pidgeotto came to play in the [[Beach Zone]]. He enjoys {{DL|Attractions|Pelipper's Circle Circuit}} and {{DL|Attractions|Salamence's Air Ace}} the most!
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=017|bttype=Flying
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=017|stype=Flying|num=011
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Flap
+|skilldesc=Delays your opponent's disruptions.
+|swapper=Sky Blast
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=017
+|hatch=N/A
+|buddy=1
+|evocandy=50
+|stamina=126
+|attack=117
+|defense=108
+|fast={{m|Wing Attack}}, {{m|Steel Wing}}
+|special={{m|Twister}}, {{m|Aerial Ace}}, {{m|Air Cutter}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Normal
+|type2=Flying
+|pictype=art
+|no1=016
+|name1=Pidgey
+|type1-1=Normal
+|type2-1=Flying
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 18}}
+|no2=017
+|name2=Pidgeotto
+|type1-2=Normal
+|type2-2=Flying
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no3=018
+|name3=Pidgeot
+|type1-3=Normal
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Flying}}
+{{Spritebox/1|ndex=017}}
+{{Spritebox/2|ndex=017}}
+{{Spritebox/3|ndex=017}}
+{{Spritebox/4|ndex=017}}
+{{Spritebox/5|ndex=017}}
+{{Spritebox/6|ndex=017}}
+{{Spritebox/7|ndex=017}}
+{{Spritebox/Footer|017|Pidgeotto}}
+
+==Trivia==
+* Pidgeotto is the only Pokémon with a base stat total of 349.
+
+===Origin===
+Despite its name, its design appears to be less of a pigeon and more of an {{wp|osprey}} or other {{wp|bird of prey}}.
+
+====Name origin====
+Pidgeotto may be a combination of the corruptions of ''{{wp|Columbidae|pigeon}}'' and ''[[wiktionary:diciotto|diciotto]]'', which is Italian for 18, the level {{p|Pidgey}} evolves into Pidgeotto. Its name may also refer to {{wp|Otto Lilienthal}}, a pioneer of unpowered heavier-than-air flight.
+
+Pigeon is literally ''pigeon''.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Flying
+|ja=ピジョン ''Pigeon''|jameaning=From {{tt|ピジョン ''pijon''|pigeon}}
+|fr=Roucoups|frmeaning=From {{tt|''roucoule''|coo}} and {{tt|''coups''|strikes}}
+|es=Pidgeotto|esmeaning=Same as English name
+|de=Tauboga|demeaning=From {{tt|''Taube''|pigeon}}
+|it=Pidgeotto|itmeaning=Same as English name
+|ko=피죤 ''Pijon''|komeaning=From {{tt|피전 ''pijeon''|pigeon}}
+|zh_yue=比比鳥 ''Beihbeihníuh''|zh_yuemeaning=Repetition of the first syllable of the Japanese name. The last character means ''bird''
+|zh_cmn=比比鳥 / 比比鸟 ''Bǐbǐniǎo''|zh_cmnmeaning=Repetition of the first syllable of the Japanese name. The last character means ''bird''
+|hi=पीगीओट्टो ''Pidgeotto''|himeaning=Transcription of English name
+|lt=Pidžeototas|ltmeaning=From English name
+|ru=Пиджеотто ''Pidzheotto''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Pidgeotto]]
+* [[Gold's Pidgeotto]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+* {{wp|Pidgey, Pidgeotto, and Pidgeot|Article on Wikipedia}}
+
+{{-}}
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=016|prev=Pidgey|nextnum=018|next=Pidgeot|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+
+[[de:Tauboga]]
+[[fr:Roucoups]]
+[[it:Pidgeotto]]
+[[ja:ピジョン]]
+[[pl:Pidgeotto]]
+[[zh:比比鸟]]

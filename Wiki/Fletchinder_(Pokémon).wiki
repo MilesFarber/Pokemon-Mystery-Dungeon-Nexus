@@ -1,0 +1,330 @@
+{{PokémonPrevNext/Head|type=Fire |type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Fire |prevnum=661|prev=Fletchling|nextnum=663|next=Talonflame|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Fletchinder}}
+|}
+{{Pokémon Infobox
+|name=Fletchinder
+|jname=ヒノヤコマ
+|tmname=Hinoyakoma
+|category=Ember
+|typebox=1
+|type1=Fire
+|type2=Flying
+|abilityn=d
+|ability1=Flame Body
+|abilityd=Gale Wings
+|ndex=662
+|karea=Central
+|kdex=015
+|adex=159
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=35.3
+|weight-kg=16.0
+|egggroupn=1
+|egggroup1=Flying
+|gendercode=127
+|eggcycles=15
+|expyield=134
+|lv100exp=1,059,860
+|color=Red
+|catchrate=120
+|evtotal=2
+|evsp=2
+|body=09
+|pokefordex=fletchinder
+|generation=6
+|friendship=70
+}}
+'''Fletchinder''' ([[List of Japanese Pokémon names|Japanese]]: '''ヒノヤコマ''' ''Hinoyakoma'') is a dual-type {{2t|Fire|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Fletchling}} starting at [[level]] 17 and evolves into {{p|Talonflame}} starting at level 35.
+
+==Biology==
+Fletchinder is an avian Pokémon with predominantly orange and black plumage. It has a sharp, black beak and a small, pointed crest atop its head. Its black eyes have yellow, mask-like marks extending from the back. It upperside is reddish-orange and its belly is gray, with a flame pattern marking the boundary on the breast. Its pointed wings are black with yellow tips and undersides. Its legs are also black, with sharp talons with two toes forward and one back. Its long black tailfeathers are marked with two white "v"-shapes. The tail ends in two points and has another feather sticking out of the base on each side, giving the impression of the fletching on the end of an arrow.
+
+Fletchinder has a flame sac in its belly. As its internal fire gradually heats up, it can fly at increasingly faster speeds. Fletchinder is known to hunt by igniting tall grass and swooping down on prey that attempt to escape the blaze. It is territorial, even against its own kind.
+
+==In the anime==
+[[File:Ash Fletchinder.png|thumb|left|250px|Fletchinder in the {{pkmn|anime}}]]
+
+===Major appearances===
+====[[Ash's Fletchinder]]====
+Ash's {{p|Fletchling}} [[Evolution|evolved]] into a {{AP|Fletchinder}} in ''[[XY036|Battles in the Sky!]]''. It later evolved into a {{AP|Talonflame}} in ''[[XY086|A Legendary Photo Op!]]''.
+
+====Other====
+Fletchinder debuted in ''[[XY020|Breaking Titles at the Chateau!]]'' at the [[Battle Chateau]], under the ownership of a Trainer named [[Nico]]. Nico used Fletchinder in a battle against [[Farrell]]'s {{p|Dusknoir}} and defeated it after a hard battle.
+
+===Minor appearances===
+Multiple Fletchinder appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A wild Fletchinder appeared during a flashback in ''[[SS036|The Legend of X, Y, and Z!]]''.
+
+A Trainer's Fletchinder appeared in ''[[SM034|A Crowning Moment of Truth!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY020|Fletchinder|Ash's Pokédex|Fletchinder, the Ember Pokémon, and the evolved form of Fletchling. Fletchinder flies faster and faster as the flame sac on its stomach gradually heats up.}}
+{{Animedexbody|XY036|Fletchinder|Ash's Pokédex|Fletchinder, the Ember Pokémon. Once in flight, Fletchinder can reach its top speed extremely quickly, giving it the edge in battle by attacking is opponents before they can get prepared.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Y Fletchy Fletchinder.png|thumb|200px|Fletchinder in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Fletchy}}
+A Fletchinder appears with its Trainer at the Mini-game Corner in the {{chap|X & Y}}.
+
+{{adv|Y}} owns a Fletchinder nicknamed Fletchy that evolved from her {{p|Fletchling}} during a battle with some {{tc|Sky Trainer}}s that were controlled by [[Celosia]]'s {{p|Aegislash}} in ''[[PAXY16|Burning Fletchinder]]''.
+
+==In the TCG==
+{{main|Fletchinder (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=fire|type2=flying}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.}}
+{{Dex/Entry1|v=Y|entry=The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=From its beak, it expels embers that set the tall grass on fire. Then it pounces on the bewildered prey that pop out of the grass.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The hotter the flame sac on its belly, the faster it can fly, but it takes some time to get the fire going.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=From its beak, it fires embers at its prey. Once it has caught them, it grills them at high heat before feasting upon them.}}
+{{Dex/Entry1|v=Moon|entry=It will not tolerate other Fletchinder entering its territory, which has a radius of several miles.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It scatters embers in the tall grass. Then bug Pokémon, frightened by the flames, come flying out, and Fletchinder gobbles them up.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its speed right after takeoff already puts it in the top speed class of all bird Pokémon.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=fire|type2=flying}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Friend Safari]] ([[Friend Safari#Fire-type Safari|Fire]] and [[Friend Safari#Flying-type Safari|Flying]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|8|Alola}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|8|Alola}}, [[Wela Volcano Park]] ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fire|type2=Flying}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 3|Island of Haste: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#Fifth release|''Pokémon Safari'']] <small>(Fifth release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ember Mountains#Fireweed Field|Ember Mountains: Fireweed Field]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+
+====Base stats====
+{{BaseStats
+|type=Fire
+|type2=Flying
+|HP=     62
+|Attack= 73
+|Defense=55
+|SpAtk=  56
+|SpDef=  52
+|Speed=  84}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=fire
+|type2=flying
+|Normal=  100
+|Fighting=50
+|Flying=  100
+|Poison=  100
+|Ground=    0
+|Rock=    400
+|Bug=      25
+|Ghost=    100
+|Steel=   50
+|Fire=    50
+|Water=   200
+|Grass=    25
+|Electric=200
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy = 50
+|notes=yes
+|flying=ironball
+|newground=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Fletchinder|Fire|Flying|6}}
+{{learnlist/level7|1|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Ember|Fire|Special|40|100|25||'''}}
+{{learnlist/level7|6|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|10|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level7|13|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|16|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|25|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|27|Razor Wind|Normal|Special|80|100|10}}
+{{learnlist/level7|31|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|38|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/level7|42|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/level7|46|Me First|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|51|Tailwind|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|55|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/levelf/7|Fletchinder|Fire|Flying|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Fletchinder|Fire|Flying|6}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||'''}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||'''}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Fletchinder|Fire|Flying|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Fletchinder|Fire|Flying|6}}
+{{learnlist/breed7|{{MSP|041|Zubat}}{{MSP|042|Golbat}}{{MSP|169|Crobat}}{{MSP|276|Taillow}}{{MSP|277|Swellow}}{{MSP|566|Archen}}<br>{{MSP|567|Archeops}}|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|041|Zubat}}{{MSP|042|Golbat}}{{MSP|169|Crobat}}{{MSP|198|Murkrow}}{{MSP|430|Honchkrow}}{{MSP|661|Fletchling}}<br>{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}{{MSP|714|Noibat}}{{MSP|715|Noivern}}|Snatch|Dark|Status|&mdash;|&mdash;|10|‡}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|178|Xatu}}{{MSP|198|Murkrow}}{{MSP|279|Pelipper}}<br>{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|561|Sigilyph}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}<br>{{MSP|627|Rufflet}}{{MSP|628|Braviary}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}{{MSP|714|Noibat}}<br>{{MSP|715|Noivern}}|Tailwind|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/breedf/7|Fletchinder|Fire|Flying|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Fletchinder|Fire|Flying|6}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||'''|no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{Learnlist/tutorf/7|Fletchinder|Fire|Flying|6}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Fletchinder|Fire|Flying|6}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Fletchinder|Fire|Flying|6}}
+
+===Side game data===
+{{Spindata/Head|type=Fire|type2=Flying}}
+{{Template:Spindata/Battle Trozei|col=6|type=Fire|ndex=662
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Fire|ndex=662|num=372
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Swap+
+|skilldesc=Sometimes replaces three disruptions with this Pokémon.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=fire
+|type2=flying
+|pictype=art
+|no1=661
+|name1=Fletchling
+|type1-1=Normal
+|type2-1=Flying
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 17}}
+|no2=662
+|name2=Fletchinder
+|type1-2=Fire
+|type2-2=Flying
+|evo2={{bag|Rare Candy}} <br>{{color2|000|Level|Level 35}}
+|no3=663
+|name3=Talonflame
+|type1-3=Fire
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=fire|type2=flying}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=662}}
+{{Spritebox/7|ndex=662}}
+{{Spritebox/Footer|662|Fletchinder}}
+
+==Trivia==
+<!--Fletchinder does NOT have the longest name. Crabominable has the longest name and its trivia already says so.-->
+* Fletchinder is the [[List of Pokémon with unique base stat totals|only Pokémon]] with a base stat total of 382.
+* Fletchinder shares its {{pkmn|category}} with {{p|Simisear}}. They are both known as the Ember Pokémon.
+* Fletchinder was designed by [[Saya Tsuruta]].
+
+===Origin===
+Fletchinder is based on a {{wp|Japanese robin}}. Its {{t|Fire}} type may be a reference to the {{wp|flame robin}}.
+====Name origin====
+Fletchinder may be a combination of ''{{wp|fletching}}'' and ''tinder,'' or possibly ''cinder''.
+
+Hinoyakoma may be a combination of 火の粉 ''hinoko'' (sparks), 矢 ''ya'' (arrow), and 駒鳥 ''komadori'' ({{wp|Japanese Robin}}).
+
+==In other languages==
+{{Other languages|type=fire|type2=flying
+|ja=ヒノヤコマ ''Hinoyakoma''|jameaning=From {{tt|火の粉 ''hinoko''|sparks}}, {{tt|矢 ''ya''|arrow}}, and {{tt|駒鳥 ''komadori''|Japanese Robin}}
+|fr=Braisillon|frmeaning=From ''{{tt|braise|ember}}'' and ''{{tt|oisillon|young bird}}''
+|es=Fletchinder|esmeaning=Same as English name
+|de=Dartignis|demeaning=From ''Dart'' and ''{{tt|ignis|Latin for flame}}''
+|it=Fletchinder|itmeaning=Same as English name
+|ko=불화살빈 ''Bulhwasalbin''|komeaning=From {{tt|불 ''bul''|fire}}, {{tt|화살 ''hwasal''|arrow}}, and ''robin''
+|zh_cmn=火箭雀 ''Huǒjiànquè''|zh_cmnmeaning=From {{tt|火 ''huǒ''|fire}}, {{tt|箭 ''jiàn''|arrow}}, {{tt|火箭 ''huǒjiàn''|rocket}}, and {{tt|雀 ''què''|sparrow}}
+|zh_yue=火箭雀 ''Fójinjeuk''|zh_yuemeaning=From {{tt|火 ''fó''|fire}}, {{tt|箭 ''jin''|arrow}}, {{tt|火箭 ''fójin''|rocket}}, and {{tt|雀 ''jeuk''|sparrow}}
+|hi=फ्लेत्चइंडर ''Fletchinder''|himeaning=Transcription of English name
+|ru=Флетчлиндер ''Fletchlinder|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+* [[Ash's Fletchinder]]
+* [[Fletchy]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Fire |type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Fire |prevnum=661|prev=Fletchling|nextnum=663|next=Talonflame}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Dartignis]]
+[[fr:Braisillon]]
+[[it:Fletchinder]]
+[[ja:ヒノヤコマ]]
+[[pl:Fletchinder]]
+[[zh:火箭雀]]

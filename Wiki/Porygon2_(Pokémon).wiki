@@ -1,0 +1,487 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Porygon2}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=232|prev=Donphan|nextnum=234|next=Stantler|round=none}}
+{{PokémonPrevNext/Disambig|species=Porygon2}}
+|}
+{{Pokémon Infobox
+|name=Porygon2
+|jname=ポリゴン２
+|jtranslit=Porigon2
+|tmname=Porygon2
+|category=Virtual
+|ndex=233
+|oldjdex=216
+|jdex=221
+|sdex=193
+|adex=218
+|obrow=118
+|type1=Normal
+|height-ftin=2′00″
+|height-m=0.6
+|weight-lbs=71.6
+|weight-kg=32.5
+|abilitylayout=2
+|ability1=Trace
+|ability2=Download
+|abilityd=Analytic
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=180
+|oldexp=180
+|lv100exp=1,000,000
+|gendercode=255
+|female=0
+|male=0
+|color=Red
+|catchrate=45
+|body=07
+|pokefordex=porygon2
+|generation=2
+|friendship=70
+}}
+'''Porygon2''' ([[List of Japanese Pokémon names|Japanese]]: '''ポリゴン２''' ''Porygon2'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Porygon}} when [[trade]]d holding an [[Up-Grade]] and evolves into {{p|Porygon-Z}} when traded holding a [[Dubious Disc]].
+
+==Biology==
+Porygon2 is a rounded, pink, digital Pokémon that shows similarities to a {{wp|drinking bird}}. It has a relatively flat bill and large, round eyes. Its legs are simple ovoid growths along its sides, and its tail widens towards the middle. Its bill, legs, tail, and underside are blue. 
+
+It was upgraded to work in space, although its inability to fly limits this ability. It is artificially intelligent, and is capable of learning new behaviors on its own, including information it does not need to know. As a result, it will sometimes perform motions or abilities that are not in its programming. It is generally found in computers or in labs and {{DL|List of Pokémon by habitat|Urban Pokémon|other buildings}} working with people. It can survive in a space vacuum, though cannot move very well in zero-gravity. Porygon2 and its evolutionary family, {{p|Porygon}} and {{p|Porygon-Z}}, are the [[Signature move|only known Pokémon]] that learn {{m|Conversion}} and {{m|Conversion 2}}.
+
+==In the anime==
+[[File:Porygon2 M15.png|200px|thumb|left|Porygon2 in "World of Pokemon"]]
+Porygon2 appeared in the English dub as stockart in the [[Pokérap GS|Johto Pokérap]]. Porygon2's second appearance in the anime has been a cameo in the "World of Pokémon" opening of [[M15|''Kyurem VS. The Sword of Justice'']], in which every Pokémon from the first five [[generation]]s (apart from {{p|Genesect}}) appeared. Due to [[EP038|the EP038 incident]], Porygon2 has not appeared in an episode of the anime, and it is the only [[Generation II]] Pokémon not to appear. Along with its evolved form, {{p|Porygon-Z}}, it is also the only Pokémon from prior to [[Generation VII]] that is neither Legendary nor Mythical to not appear in an episode of the anime.
+
+==In the manga==
+[[File:Blue Porygon2.png|thumb|left|150px|Porygon2 in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Blue's Porygon2}}
+Porygon2 first appeared in ''[[PS115|Forretress of Solitude]]'' under the ownership of the [[Pokémon Association]] used to test Red to become Viridian City's Gym Leader.
+
+{{adv|Blue}} bought a {{p|Porygon}} in [[Celadon City]], which was quite disobedient to its new Trainer, but became an integral part of his team later. Prior to ''[[PS160|Playful Porygon2]]'', it evolved into Porygon2 and battled with [[Silver's Weavile|Silver's Sneasel]]. It again appeared in the {{chap|FireRed & LeafGreen}}, where its ability to integrate itself into any electronic network proved handy in freeing {{adv|Professor Oak}} and {{adv|Green}}'s parents.
+
+In ''[[PS446|Weavile Wobbles But It Won't Fall Down]]'', a Trainer at the [[Johto Safari Zone|Safari Zone]] owns one.
+
+==In the TCG==
+{{main|Porygon2 (TCG)}}
+
+==Other appearances==
+[[File:Porygon2 Trophy Melee.png|150px|thumb|Porygon2 in Melee]]
+===[[Super Smash Bros. Melee]]===
+When released from a Poké Ball, Porygon2 will immediately use a powerful {{m|Tackle}} attack that sends opponents flying. The attack cannot be escaped due to the speed in which it happens but Porygon2 is harmless once the attack has finished.
+
+====Trophy information====
+''Representing the next step in technological progress, this Virtual Pokémon is a higher-powered version of the man-made Pokémon, Porygon. Compared to the sharp edges of its relative, Porygon2's body is extremely smooth and rounded. In battle, it utilizes a special move called {{m|Conversion 2}} to alter its type.''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=This upgraded version of {{p|Porygon}} is designed for space exploration. It can't fly, though.}}
+{{Dex/Entry1|v=Silver|entry=Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.}}
+{{Dex/Entry1|v=Crystal|entry=This manmade Pokémon evolved from the latest technology. It may have unprogrammed reactions.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=This upgraded version of Porygon is designed for space exploration. It can't fly, though.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own.}}
+{{Dex/Entry1|v=FireRed|entry=Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.}}
+{{Dex/Entry1|v=LeafGreen|entry=This upgraded version of Porygon is designed for space exploration. However, it can't even fly.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=With planetary development software installed, it became capable of working in space.}}
+{{Dex/Entry1|v=Platinum|entry=It was upgraded to enable the exploration of other planets. However, it failed to measure up.}}
+{{Dex/Entry1|v=HeartGold|entry=This upgraded version of Porygon is designed for space exploration. It can't fly, though.}}
+{{Dex/Entry1|v=SoulSilver|entry=Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It was upgraded to enable the exploration of other planets. However, it failed to measure up.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It was upgraded to enable the exploration of other planets. However, it failed to measure up.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.}}
+{{Dex/Entry1|v=Y|entry=With planetary development software installed, it became capable of working in space.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=For the purposes of planetary development, Porygon was updated with the most cutting-edge technology available.}}
+{{Dex/Entry1|v=Moon|entry=Porygon was updated to a new version in readiness for planetary development. But that dream remains unrealized as yet.}}
+{{Dex/Entry1|v=Ultra Sun|entry=AI has been installed in it. It learns various things all on its own, but it even remembers things it doesn't need to know.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Even though it doesn't die in the vacuum of space, it can't move around very well in zero gravity.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Porygon}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Porygon}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Porygon}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Porygon}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Porygon}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Porygon}}}}
+{{Availability/Entry1|v=Pal Park|color=A2E0A3|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Porygon}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Porygon}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Porygon}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Porygon}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 1]], [[Mr. Who's Den]]}}
+{{Availability/Entry1|1|v=MD Red|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Porygon}}<br>[[Wonder Mail]] code}}
+{{Availability/Entry1|1|v=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Buried Relic]] (10F-18F), [[Wish Cave]] (79F-84F), [[Joyous Tower]] (80F-84F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Evolution|Evolve]] {{p|Porygon}}}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Evolution|Evolve]] {{p|Porygon}}}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry2/None|v=MD Stormy|v2=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|t={{water color dark}}|color2={{electric color}}|t2={{electric color dark}}|area=[[Evolution|Evolve]] [[Wonder Mail]] unlocked {{p|Porygon}}}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Wireless Tower]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Conductor Room#Rumbling Magnetic Motors|Conductor Room: Rumbling Magnetic Motors]], [[Entranceway#Battle Royale - Cage Match|Entranceway: Battle Royale - Cage Match]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 4|Mysterious Fountain: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 297]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Tricky Factory|Gold Plateau: Tricky Factory]] <small>(Center Boss, Back)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+Porygon2 will not appear in the wild in Pokémon Mystery Dungeon: Red Rescue Team until a rescue mission involving it has been completed, using a Wonder Mail code such as the following:
+:F ? 5 N - Q F ? ? + 6 !
+:? H ? ? F ? 6 R 6 9 ? W
+:Objective: Rescue Porygon2 on floor 2 of [[Tiny Woods]].
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|HP=85
+|Attack=80
+|Defense=90
+|SpAtk=105
+|SpDef=95
+|Speed=60}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=4
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=  100
+|Fighting=200
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=     0
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Porygon2|Normal|Normal|2}}
+{{learnlist/level7|1|Zap Cannon|Electric|Special|120|50|5}}
+{{learnlist/level7|1|Magic Coat|Psychic|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|1|Conversion 2|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Conversion|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|1|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|7|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level7|12|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|18|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|23|Magnet Rise|Electric|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|29|Signal Beam|Bug|Special|75|100|15}}
+{{learnlist/level7|34|Recycle|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|40|Discharge|Electric|Special|80|100|15}}
+{{learnlist/level7|45|Lock-On|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|50|Tri Attack|Normal|Special|80|100|10||'''}}
+{{learnlist/level7|56|Magic Coat|Psychic|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|62|Zap Cannon|Electric|Special|120|50|5}}
+{{learnlist/level7|67|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/levelf/7|Porygon2|Normal|Normal|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Porygon2|Normal|Normal|2}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Porygon2|Normal|Normal|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Porygon2|Normal|Normal|2}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Porygon2|Normal|Normal|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Porygon2|Normal|Normal|2}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Porygon2|Normal|Normal|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Porygon2|Normal|Normal|2}}
+{{learnlist/prevo7|137|Porygon|||||Sharpen|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/prevof/7|Porygon2|Normal|Normal|2}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/Trozei|col=6|type=Normal|ndex=233|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=233
+|body=1
+|rate=10
+|area=Decrepit Lab
+|P1=I can perform actions beyond my programmed parameters.
+|P2=My energy level has been reduced to approximately 50 percent.
+|P3=System overload... My system is on the verge of crashing...
+|PL=Leveled up! All programs operating error free.
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=233
+|body=1
+|rate=5
+|IQ=E
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Normal
+|group=Normal
+|assist=Normal
+|field=Crush
+|fieldpower=2
+|past=NA
+|browser=It lets loose shock waves to attack.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=233
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=233|num=399
+|min=70
+|max=125
+|raisemaxlevel=10
+|skill=Crowd Power
+|skilldesc=Increases damage when there are more Porygon2 in the puzzle area.
+|swapper=Cross Attack+
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=233
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=170
+|attack=198
+|defense=183
+|fast={{m|Hidden Power}}, {{m|Charge Beam}}
+|special={{m|Solar Beam}}, {{m|Hyper Beam}}, {{m|Zap Cannon}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Normal
+|pictype=art
+|no1=137
+|name1=Porygon
+|type1-1=Normal
+|evo1={{bag|Up-Grade}}<br>{{color2|000|Trade}}<br>holding {{color2|000|Up-Grade}}
+|no2=233
+|name2=Porygon2
+|type1-2=Normal
+|evo2={{bag|Dubious Disc}}<br>{{color2|000|Trade}}<br>holding {{color2|000|Dubious Disc}}
+|no3=474
+|name3=Porygon-Z
+|type1-3=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=233}}
+{{Spritebox/3|ndex=233}}
+{{Spritebox/4|ndex=233}}
+{{Spritebox/5|ndex=233}}
+{{Spritebox/6|ndex=233}}
+{{Spritebox/7|ndex=233}}
+{{Spritebox/Footer|233|Porygon2}}
+
+==Trivia==
+* Porygon2 is the only Pokémon with a numeral in its name.
+** In the [[Generation II]] games, it is impossible to return a nicknamed Porygon2 to its species name, because the character 2 is not available as a character for nicknames.
+* Porygon2 is the only non-fully [[Evolution|evolved]] Pokémon that:
+** Has evolved by trading.
+** Was introduced after the generation of its pre-evolution.
+
+===Origin===
+Like Porygon, it is based on a bird (possibly an {{wp|Orizuru|origami crane}}) made with more advanced 3D computer graphics than the first Porygon. The head looks like a {{wp|duck}}. It also resembles a {{wp|drinking bird}}, especially in the 3D games, where it makes the same movement as one. The change in form by evolution from Porygon to Porygon2 represents the concept of {{wp|Subdivision surface|subdivision}} in 3D computer graphics.
+
+====Name origin====
+Porygon2 is a combination of ''{{wp|polygon}}'' and ''2''. It may also reflect the stereotype that Japanese people pronounce their 'L' sounds as 'R' sounds, Porygon being a mispronunciation of polygon. ''2'' may be a reference to {{wp|software versioning}}, as it is the second "stable release"—an upgraded version—of {{p|Porygon}}.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ポリゴン２ ''Porygon2''|jameaning=From ''{{wp|polygon}}'' and 2
+|fr=Porygon2|frmeaning=Same as English/Japanese name
+|es=Porygon2|esmeaning=Same as English/Japanese name
+|de=Porygon2|demeaning=Same as English/Japanese name
+|it=Porygon2|itmeaning=Same as English/Japanese name
+|ko=폴리곤2 ''Porygon2''|komeaning=Transliteration of Japanese name
+|zh_yue=立方獸II ''Laahpfōngsau II''|zh_yuemeaning=Literally "Cube monster II"
+|zh_cmn=3D龍II / 3D龙II ''3D Lóng II''|zh_cmnmeaning=Literally "3D Dragon II"
+|hi=परीगोन2 ''Porygon2''|himeaning=Transcription of English name
+|ru=Поригон-2 ''Porigon-2''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Blue's Porygon2]]
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+
+{{-}}
+{{Smash Bros.}}
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=232|prev=Donphan|nextnum=234|next=Stantler}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Pokémon that evolve through trading]]
+[[Category:Pokémon that evolve through held items]]
+[[Category:Pokémon that evolve by trading with a held item]]
+[[Category:Pokémon that evolve by trading holding Dubious Disc]]
+[[Category:Artificial Pokémon]]
+
+[[de:Porygon2]]
+[[fr:Porygon2]]
+[[it:Porygon2]]
+[[ja:ポリゴン2]]
+[[pl:Porygon2]]
+[[zh:多边兽Ⅱ]]

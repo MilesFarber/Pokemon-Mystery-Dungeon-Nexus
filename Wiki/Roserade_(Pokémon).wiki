@@ -1,0 +1,493 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=406|prev=Budew|nextnum=408|next=Cranidos|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Roserade}}
+|}
+{{Pokémon Infobox
+|name=Roserade
+|jname=ロズレイド
+|jtranslit=Rozureido
+|tmname=Roserade
+|ndex=407
+|hdex6=099
+|sdex=027
+|u2dex=135
+|karea=Central
+|kdex=073
+|abrow=010
+|obrow=147
+|type1=Grass
+|type2=Poison
+|category=Bouquet
+|height-ftin=2'11"
+|height-m=0.9
+|weight-lbs=32.0
+|weight-kg=14.5
+|abilitylayout=2
+|ability1=Natural Cure
+|ability2=Poison Point
+|abilityd=Technician
+|egggroupn=2
+|egggroup1=Fairy
+|egggroup2=Grass
+|eggcycles=20
+|evtotal=3
+|evsa=3
+|expyield=232<!--227 in Gen V-VI-->
+|oldexp=204
+|lv100exp=1,059,860
+|gendercode=127
+|color=Green
+|catchrate=75
+|body=12
+|pokefordex=roserade
+|generation=4
+|friendship=70
+}}
+'''Roserade''' ([[List of Japanese Pokémon names|Japanese]]: '''ロズレイド''' ''Roserade'') is a dual-type {{2t|Grass|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Roselia}} when exposed to a [[Shiny Stone]]. It is the final form of {{p|Budew}}.
+
+==Biology==
+Roserade is a bipedal Pokémon with an appearance that incorporates features of roses and {{wp|masquerade ball|masquerade}} attire. It has hair made of white rose petals, and a leafy, green cape with a yellow, collar-like bangle on its neck. The cape pattern reaches toward the back of its head, in spiky, sepal-like extensions on the hair. A male will have a shorter cape than a female. It has a dark-green mask over its red, yellow-lidded eyes. The lower portion of its face is light green, and it holds a bouquet in each hand. It has a red in its right hand and blue in its left. Its limbs and underside are light green. Its feet end with yellow tips.
+
+Roserade lures prey with a sweet aroma. The more toxic its poison, the sweeter its aroma becomes. Each hand has different toxins, but both hands can jab with near-deadly power. It attacks with a dancer-like elegance, and uses hidden whips covered with poisonous thorns.
+
+==In the anime==
+[[File:Cher Roserade.png|thumb|250px|left|Roserade in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Nando's Roserade]]====
+In ''[[DP176|Coming Full-Festival Circle!]]'', [[Nando]] was revealed to have evolved his {{p|Roselia}} into a Roserade. It appeared briefly alongside his {{p|Sunflora}} in the [[Sinnoh Grand Festival]]. It was also used in the [[Lily of the Valley Conference]] in ''[[DP183|League Unleashed!]]'', where it battled against [[Ash's Staraptor]] and was defeated.
+
+====[[Drew's Roserade]]====
+In ''[[DP076|A Full Course Tag Battle!]]'', {{an|May}} revealed that [[Drew]] had evolved his Roselia into a Roserade. It was first seen physically in ''[[DP079|Strategy With a Smile!]]'', where it was watching the [[Wallace Cup]] along with its Trainer.
+
+====Other====
+Roserade debuted in ''[[DP025|Oh Do You Know The Poffin Plan!]]'', under the ownership of [[Forsythia]]. Forsythia first met her Roserade when it was a Budew, where she befriended it and gave it a red scarf. This Roserade, however, was very shy and timid. Roserade also protects Forsythia's garden from being ravaged by Team Rocket. Forsythia's Roserade also made a brief appearance in ''[[DP150|Unlocking the Red Chain of Events!]]'' alongside Forsythia and her {{p|Lotad}}.
+
+A Roserade appeared in ''[[DP037|The Grass Menagerie!]]'', when Ash was battling [[Gardenia]] for his {{badge|Forest}}. Roserade was able to beat Ash's {{AP|Turtwig}} with a {{m|Weather Ball}} before being beaten by his {{AP|Aipom}}.
+
+A Roserade appeared in ''[[DP101|Barry's Busting Out All Over!]]'', under the ownership of {{an|Barry}}. It was used in his {{pkmn|battle}} against Ash. It defeated {{AP|Chimchar}} with a barrage of {{m|Poison Jab}}s but tied with {{AP|Gliscor}} from one of Gliscor's {{m|X-Scissor}}s. It appeared again in ''[[DP110|Steeling Peace of Mind!]]''.
+
+A Roserade was seen in ''[[BW098|Beauties Battling for Pride and Prestige!]]'', under the ownership of [[Cher]]. She was often referred to as "Roseradette" by her Trainer. Roserade was used in a battle against [[Cilan's Pansage]] and won before losing against [[Iris's Emolga]].
+
+===Minor appearances===
+A Roserade appeared in ''[[M10|The Rise of Darkrai]]''. It was one of the Pokémon attacked by {{OBP|Darkrai|M10}} and being treated by [[Alicia]] in [[Alice]]'s flashback of her grandmother. It was put to sleep by Darkrai's {{m|Dark Void}} and later seen listening to Alicia play [[Oración]] alongside the other Pokémon Darkrai had attacked.
+
+A Roserade appeared in the opening sequence of ''[[M12|Arceus and the Jewel of Life]]''.
+
+A {{pkmn|Coordinator}}'s Roserade appeared in ''[[DP161|Yes in Dee Dee, It's Dawn!]]'', where it was seen participating in a [[Double Performance]] along with a {{p|Purugly}} in the [[Daybreak Town]] [[Pokémon Contest]].
+
+A Roserade appeared in ''[[M16|Genesect and the Legend Awakened]]'' at [[Pokémon Hills]].
+
+A {{pkmn|Trainer}}'s Roserade appeared in ''[[XY059|Under the Pledging Tree!]]''.
+
+[[Elma]] has a Roserade, which first appeared in ''[[XY060|A Showcase Debut!]]''. In the episode, it was seen competing in the [[Coumarine City]] [[Pokémon Showcase]]. Roserade later reappeared during the Master Class Pokémon Showcase in ''[[XY112|Master Class Is in Session!]]''.
+
+A Trainer's Roserade appeared in ''[[SS032|Mega Evolution Special III]]''.
+
+A Roserade appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''.
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP025|Roserade|Ash's Pokédex|Roserade, the Bouquet Pokémon. Roserade is the evolved form of Roselia. It lures enemies with its sweet aroma, and attacks with dancer-like elegance.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW098|Roserade|Ash's Pokédex|Roserade, the Bouquet Pokémon. Roserade uses its sweet aroma to attract prey then strikes with thorny whips to defeat it.}}
+{{Animedexfooter/Pokémon|''Black & White''|Unova}}
+
+==In the manga==
+[[File:Gardenia Roserade Adventures.png|thumb|150px|Roserade in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Roserade appears in ''[[PS346|Ring Around the Roserade I]]''. [[Gardenia]] used a Roserade alongside her {{p|Cherubi}} in a [[Double Battle]] against [[Platinum's Prinplup]] and {{TP|Platinum|Ponyta}}. Although it quickly gained the upper hand by knocking out the latter using its poison whips and badly beat the former using combinations of {{m|Grass Knot}} and the aforementioned move, both ultimately became her downfall when {{adv|Platinum}} took advantage of the cover that the knots gave and the holes that the whips created to deliver a finishing {{m|Blizzard}} that defeated both her Pokémon.
+
+A Roserade liberated by [[Team Plasma]] appeared in a flashback in ''[[PS529|Pokédex Lecture]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+A Roserade appeared in a fantasy in ''[[DPA03|The Mystery Boy, Jun!!]]''.
+
+[[Gardenia]]'s Roserade also appears in [[Pokémon Diamond and Pearl Adventure!]], where it defeated [[Hareta]]'s {{p|Misdreavus}} during his [[Gym]] battle in ''[[DPA04|Win with Teamwork!!]]''. However, before it [[fainting|fainted]], Misdreavus used {{m|Spite}}, lowering the [[Power Points]] of Roserade's {{m|Magical Leaf}}. While at a disadvantage, [[Hareta's Piplup]] endured the rest of Roserade's Magical Leaf onslaught until it ran out, leaving it open to Piplup's {{m|Peck}} attack, winning the battle.
+
+==In the TCG==
+{{main|Roserade (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]]: Roserade is a member of the legendary Exploration Team, {{DL|List of Pokémon Mystery Dungeon: Explorers of Time, Darkness, and Sky characters|Team Raider}}, alongside {{p|Gallade}} and {{p|Rhyperior}}.
+
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Poison}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It attracts prey with a {{m|Sweet Scent|sweet aroma}}, then downs it with thorny whips hidden in its arms.}}
+{{Dex/Entry1|v=Pearl|entry=With the movements of a dancer, it strikes with whips that are densely lined with {{m|Poison Sting|poison thorns}}.}}
+{{Dex/Entry1|v=Platinum|entry=Each of its hands contains different toxins, but both hands can {{m|Poison Jab|jab}} with near-fatal power.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Its sweet aroma attracts prey. Then it spews poison. The more toxic it is, the sweeter its aroma.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Each of its hands contains different toxins, but both hands can jab with near-fatal power.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.}}
+{{Dex/Entry1|v=Y|entry=With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Poison}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Roselia}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Roselia}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Roselia}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Roselia}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|12|Unova}}, [[Lostlorn Forest]], {{OBP|Victory Road|Black 2 and White 2}} ({{DL|Phenomenon|rustling grass}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Roselia}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Roselia}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Roselia}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Poison}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystery Jungle]] (B1-B29)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystery Jungle]] (B1-B29)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Vien Forest]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]]}}
+{{Availability/Entry2/None|v=MD Blazing|v2=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|t={{fire color dark}}|color2={{electric color}}|t2={{electric color dark}}|area={{DL|Pokémon Mystery Dungeon (WiiWare)|Wonder Mail codes}}}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Sky Fortress]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[World Axle - B2F]]<br>Forest: All{{tt|*|Virizion encounter}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#The Garden at the End of Time|Flower Garden: The Garden at the End of Time]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 1|Infinite Ruins: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 250]]<br>[[Marron Trail|Marron Trail: Stage 698]]<br>Event: ''[[Special Stages#Great Challenge|Roserade Appears]]'' <small>(Winking)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Thorny Heath|Diamond Crater: Thorny Heath]] <small>(Back Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Grass|type2=Poison
+|b2w21=Poison Barb|b2w21type=None|b2w21rar=5
+|b2w22=Absorb Bulb|b2w22type=None|b2w22rar=1
+}}
+
+===Stats===
+====Base stats====
+=====Generation IV-V=====
+{{BaseStats
+|type=Grass
+|type2=Poison
+|HP=     60
+|Attack= 70
+|Defense=55
+|SpAtk= 125
+|SpDef= 105
+|Speed=  90}}
+
+=====Generation VI onward=====
+{{BaseStats
+|type=Grass
+|type2=Poison
+|HP=     60
+|Attack= 70
+|Defense=65
+|SpAtk= 125
+|SpDef= 105
+|Speed=  90}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|type2=Poison
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=5
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Poison
+|Normal= 100
+|Fighting=50
+|Flying= 200
+|Poison= 100
+|Ground= 100
+|Rock=   100
+|Bug=    100
+|Ghost=  100
+|Steel=  100
+|Fire=   200
+|Water=   50
+|Grass=   25
+|Electric=50
+|Psychic=200
+|Ice=    200
+|Dragon= 100
+|Dark=   100
+|Fairy=   50}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Roserade|Grass|Poison|4}}
+{{learnlist/level7|1|Venom Drench|Poison|Status|&mdash;|100|20}}
+{{learnlist/level7|1|Grassy Terrain|Grass|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/level7|1|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level7|1|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level7|1|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/level7|1|Sweet Scent|Normal|Status|&mdash;|100|20}}
+{{learnlist/levelf/7|Roserade|Grass|Poison|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Roserade|Grass|Poison|4}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Roserade|Grass|Poison|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Roserade|Grass|Poison|4}}
+{{learnlist/breed7|{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|192|Sunflora}}|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/breed7|{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}{{MSP|546|Cottonee}}<br>{{MSP|547|Whimsicott}}{{MSP|556|Maractus}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}|Cotton Spore|Grass|Status|&mdash;|100|40}}
+{{learnlist/breed7|{{MSP|102|Exeggcute}}{{MSP|274|Nuzleaf}}|Extrasensory|Psychic|Special|80|100|20|†}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|285|Shroomish}}<br>{{MSP|315|Roselia}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|495|Snivy}}{{MSP|496|Servine}}<br>{{MSP|497|Serperior}}{{MSP|546|Cottonee}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}{{MSP|591|Amoonguss}}{{MSP|755|Morelull}}<br>{{MSP|756|Shiinotic}}|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/breed7|{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}|Grass Whistle|Grass|Status|&mdash;|55|15}}
+{{learnlist/breed7|{{MSP|071|Victreebel}}{{MSP|103|Exeggutor}}{{MSP|103A|Exeggutor}}{{MSP|182|Bellossom}}{{MSP|192|Sunflora}}{{MSP|275|Shiftry}}<br>{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|495|Snivy}}{{MSP|496|Servine}}<br>{{MSP|497|Serperior}}|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/breed7|{{MSP|286|Breloom}}|Mind Reader|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}{{MSP|357|Tropius}}<br>{{MSP|764|Comfey}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}{{MSP|556|Maractus}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|777|Togedemaru}}|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|455|Carnivine}}{{MSP|598|Ferrothorn}}|Power Whip|Grass|Physical|120|85|10|{{sup/7|USUM}}|'''}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}<br>{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|274|Nuzleaf}}<br>{{MSP|275|Shiftry}}{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|459|Snover}}<br>{{MSP|460|Abomasnow}}{{MSP|546|Cottonee}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|103|Exeggutor}}{{MSP|103A|Exeggutor}}{{MSP|191|Sunkern}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|045|Vileplume}}<br>{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Sleep Powder|Grass|Status|&mdash;|75|15}}
+{{learnlist/breed7|{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}|Spikes|Ground|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|273|Seedot}}{{MSP|315|Roselia}}<br>{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}{{MSP|764|Comfey}}|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/breedf/7|Roserade|Grass|Poison|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Roserade|Grass|Poison|4}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Roserade|Grass|Poison|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Roserade|Grass|Poison|4}}
+{{learnlist/prevo7|406|Budew|||||Water Sport|Water|Status|—|—|15}}
+{{learnlist/prevo7|406|Budew|||||Worry Seed|Grass|Status|—|100|10||{{sup/7|SM}}}}
+{{learnlist/prevo7|406|Budew||315|Roselia||Absorb|Grass|Special|20|100|25|'''}}
+{{learnlist/prevo7|406|Budew||315|Roselia||Growth|Normal|Status|—|—|20}}
+{{learnlist/prevo7|406|Budew||315|Roselia||Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/prevo7|315|Roselia|||||Leech Seed|Grass|Status|—|90|10}}
+{{learnlist/prevo7|315|Roselia|||||Grass Whistle|Grass|Status|—|55|15}}
+{{learnlist/prevo7|315|Roselia|||||Giga Drain|Grass|Special|75|100|10|'''|{{sup/7|SM}}}}
+{{learnlist/prevo7|315|Roselia|||||Toxic Spikes|Poison|Status|—|—|20}}
+{{learnlist/prevo7|315|Roselia|||||Ingrain|Grass|Status|—|—|20}}
+{{learnlist/prevo7|315|Roselia|||||Petal Blizzard|Grass|Physical|90|100|15|'''}}
+{{learnlist/prevo7|315|Roselia|||||Aromatherapy|Grass|Status|—|—|5}}
+{{learnlist/prevo7|315|Roselia|||||Synthesis|Grass|Status|—|—|5||{{sup/7|SM}}}}
+{{learnlist/prevo7|315|Roselia|||||Petal Dance|Grass|Special|120|100|10|'''}}
+{{learnlist/prevof/7|Roserade|Grass|Poison|4}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Poison}}
+{{Spindata/MDTDS|col=6|type=Grass|ndex=407
+|body=1
+|rate=-12
+|IQ=H
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=3
+|browser=It shoots leaves and needles. It also scatters pollen to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=3
+|past=NA
+|browser=It launches leaf blades around itself.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=5
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=5
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Grass|ndex=407
+|power=3
+|skill=Power of Six
+|skilldesc=Increases the damage dealt by matching six Pokémon.
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Grass|ndex=407|num=342
+|min=70
+|max=125
+|raisemaxlevel=10
+|skill=Stabilize+
+|skilldesc=Sometimes erases two of the foe's disruptions on the board.
+|swapper=Flash Mob
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=407Winking|num=342
+|min=70
+|max=125
+|raisemaxlevel=10
+|skill=Hammering Streak
+|skilldesc=Increases damage when it is triggered in a row.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Grass
+|type2=Poison
+|pictype=art
+|no1=406
+|name1=Budew
+|type1-1=Grass
+|type2-1=Poison
+|breed={{bag|Rose Incense}}<br>{{color2|000|Breed}}<br>holding {{color2|000|Rose Incense}}
+|evo1={{bag|Soothe Bell}}<br>{{color2|000|Friendship}}<br>(daytime)
+|no2=315
+|name2=Roselia
+|type1-2=Grass
+|type2-2=Poison
+|evo2={{bag|Shiny Stone}}<br>{{color2|000|Shiny Stone}}
+|no3=407
+|name3=Roserade
+|type1-3=Grass
+|type2-3=Poison
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Poison}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/Gender|ndex=407}}
+{{Spritebox/5/Gender|ndex=407}}
+{{Spritebox/6/Gender|ndex=407}}
+{{Spritebox/7/Gender|ndex=407}}
+{{Spritebox/Footer|407|Roserade}}
+
+==Trivia==
+[[File:Rosie.png|thumb|Rosie's Roserade Costume (English Version)]]
+* A Roserade costume is worn by [[Rosie]] in [[Pokémon Battle Revolution]].
+* Roserade and its pre-evolution are the only Poison-type Pokémon in the {{egg3|Fairy}}.
+
+===Origin===
+Roserade appears to be based on a combination of a bouquet of {{wp|roses}}, and a mysterious patron of a {{wp|masquerade ball}}, in which masks would be worn to hide the identity of the participants. Its mask, cape and the mention of its 'movements of a dancer' in its Pokédex entry seem to confirm this.
+
+It is also possible that, instead of roses, its design was based on {{wp|hellebores}}, a genus in which many species are poisonous and deceptively similar to roses, tying in once again to the theme of disguises. Finally, Roserade's humanoid design, connection to flowers, and one of its Egg Groups suggest that it is also based on {{wp|fairy|fairies}}.
+
+====Name origin====
+Roserade may be a combination of ''rose'' and ''masquerade'' (due to the appearance of wearing a mask).
+
+==In other languages==
+{{Other languages|type=Grass|type2=Poison
+|ja=ロズレイド ''Roserade''|jameaning=From ''rose'' and ''masquerade''
+|fr=Roserade|frmeaning=Same as English/Japanese name
+|es=Roserade|esmeaning=Same as English/Japanese name
+|de=Roserade|demeaning=Same as English/Japanese name
+|it=Roserade|itmeaning=Same as English/Japanese name
+|ko=로즈레이드 ''Rozureid''|komeaning=Transliteration of Japanese name
+|zh_cmn=羅絲雷朵 / 罗丝雷朵 ''Luósīléiduǒ''|zh_cmnmeaning=Transliteration of its Japanese name. The last character 朵 is also a {{wp|classifier_(linguistics)|classifier}} for flowers.
+|ru=Роузрейд ''Rouzreid''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+*[[Drew's Roserade]]
+*[[Nando's Roserade]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=406|prev=Budew|nextnum=408|next=Cranidos}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon whose base stats changed in Generation VI]]
+[[Category:Pokémon with cross-generational evolutions]]
+
+[[de:Roserade]]
+[[fr:Roserade]]
+[[it:Roserade]]
+[[ja:ロズレイド]]
+[[pl:Roserade]]
+[[zh:罗丝雷朵]]

@@ -1,0 +1,423 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=546|prev=Cottonee|nextnum=548|next=Petilil}}
+|}
+{{Pokémon Infobox
+|name=Whimsicott
+|jname=エルフーン
+|jtranslit=Erufūn
+|tmname=Elfuun
+|category=Windveiled
+|ndex=547
+|udex=053
+|u2dex=083
+|adex=088
+|typebox=1
+|type1=Grass
+|type2=Fairy
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=14.6
+|weight-kg=6.6
+|abilityn=d
+|ability1=Prankster
+|ability2=Infiltrator
+|abilityd=Chlorophyll
+|egggroupn=2
+|egggroup1=Grass
+|egggroup2=Fairy
+|eggcycles=20
+|expyield=168
+|lv100exp=1,000,000
+|gendercode=127
+|color=Green
+|catchrate=75
+|evtotal=2
+|evsp=2
+|body=12
+|pokefordex=whimsicott
+|generation=5
+|friendship=70
+}}
+'''Whimsicott''' ([[List of Japanese Pokémon names|Japanese]]: '''エルフーン''' ''Elfuun'') is a dual {{t|Grass}}/{{t|Fairy}} {{OBP|Pokémon|species}} introduced in [[Generation V]]. Prior to [[Generation VI]], it was a pure {{type|Grass}} Pokémon.
+
+It [[Evolution|evolves]] from {{p|Cottonee}} when it is exposed to a [[Sun Stone]].
+
+==Biology==
+Whimsicott is a small, brown bipedal Pokémon. There is a cotton-like substance covering its back, neck, and forehead. Behind it is a green, star shaped section similar to the area where a plant connects to its produce. It has orange, oval-shaped eyes and green, curled horns or ears. Whimsicott can manipulate its body to pass through cracks, no matter how narrow. Because of this, Whimsicott is a notorious prankster, moving things and leaving cotton balls behind. It also can ride through whirlwinds.
+
+==In the anime==
+[[File:Hatterly Whimsicott Petilil.png|thumb|250px|left|Whimsicott in the {{pkmn|anime}}]]
+===Major appearances===
+A Whimsicott appeared in ''[[BW095|Unrest at the Nursery!]]'', where it was among the Pokemon that {{OBP|Layla|BW095}} was taking care of.
+
+===Minor appearances===
+Whimsicott debuted in ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]''.
+
+Whimsicott made its main series debut in ''[[BW080|Clash of the Connoisseurs!]]'' as one of the Pokémon [[Burgundy]], disguised as Fauxgundy, reviewed as a possible Pokémon for [[Marigold]].
+
+Multiple Whimsicott appeared in ''[[M15|Kyurem VS. The Sword of Justice]]''.
+
+A group of Whimsicott appeared in ''[[M16|Genesect and the Legend Awakened]]'' at [[Pokémon Hills]].
+
+Three Trainers' Whimsicott appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+A Trainer's Whimsicott appeared in ''[[SM006|A Shocking Grocery Run!]]''.
+
+A Whimsicott appeared in ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', where it was among the Pokémon playing in {{an|Lillie}}'s garden. It appeared again in ''[[SM030|The Ol' Raise and Switch!]]''.
+
+A Trainer's Whimsicott appeared in ''[[SM040|Balloons, Brionne, and Belligerence!]]''.
+
+Three Whimsicott appeared in ''[[SM046|Deceiving Appearances!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW080|Whimsicott|Ash's Pokédex|Whimsicott, the Windveiled Pokémon. Whimsicott can pass through the tiniest cracks like the wind, leaving fluffy white puffs in its wake.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Lumiose Gang Adventures.png|thumb|150px|Whimsicott in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Whimsicott was first seen in ''[[PS466|An Odd Speech]]'', being released by its Trainer after [[Ghetsis]]'s speech in [[Accumula Town]] and holding the leg of its Trainer, wanting to stay.
+
+A Whimsicott appeared in ''[[PS467|Letting Go]]''.
+
+A Trainer's Whimsicott appeared in ''[[PS511|Dream a Little Dream]]''.
+
+A Whimsicott appeared in a flashback as a Pokémon trained by the [[International Police]] in ''[[PS528|Innocent Scientist]]''.
+
+In ''[[PAXY23|Gyarados Changes]]'', a Whimsicott was seen under the ownership of the Lumiose Gang when [[Emma]] was part of their group.
+
+==In the TCG==
+{{main|Whimsicott (TCG)}}
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Nintendo 3DS]]===
+Whimsicott appears in the background of the {{st|Unova Pokémon League}} stage of the 3DS version. However, it does not interact with the stage like {{p|Reshiram}} or {{p|Zekrom}} would. {{p|Milotic}} and {{p|Shaymin}} might also appear.
+
+====Trophy information====
+''Ever found a white ball of fluff you couldn't quite explain? That was likely the work of a Whimsicott. Slipping through the tiniest of cracks like the wind, they like to move furniture around and leave little fluff balls all over the place. Though they look like sheep, they're actually Grass types, and their fluff is more like cotton than wool.''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Fairy}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.}}
+{{Dex/Entry1|v=White|entry=Riding whirlwinds, they appear. These Pokémon sneak through gaps into houses and cause all sorts of mischief.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.}}
+{{Dex/Entry1|v=Y|entry=Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It rides on the wind and slips into people’s homes. After it has turned a room into a cotton-filled mess, it giggles to itself and takes off.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon appears, riding upon the wind. But if the wind gusts up, it'll blow the cotton on this Pokémon's head clean off.}}
+{{Dex/Entry1|v=Ultra Sun|entry=This nuisance sneaks into people's homes, where it hides important things and scatters cotton all over the place.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Whimsicott doesn't live in a fixed location. It floats around on whirling winds, appearing all over the place to perform its mischief.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Fairy}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Black|t=FFF|area=[[Pinwheel Forest]] (inner), [[Lostlorn Forest]], [[Abundant Shrine]] ({{DL|Phenomenon|rustling grass}})}}
+{{Availability/Entry1|1|v=White|area=[[Evolution|Evolve]] {{p|Cottonee}}}}
+{{Availability/Entry1|1|v=Black 2|t=FFF|area=[[Pinwheel Forest]] (inner), [[Lostlorn Forest]], [[Castelia City]], [[Abundant Shrine]], {{OBP|Victory Road|Black 2 and White 2}} ({{DL|Phenomenon|rustling grass}})}}
+{{Availability/Entry1|1|v=White 2|area=[[Evolution|Evolve]] {{p|Cottonee}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Cottonee}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Sun|area=[[Evolution|Evolve]] {{p|Cottonee}}}}
+{{Availability/Entry1/None|1|v=Moon}}
+{{Availability/Entry1|1|v=Ultra Sun|area=[[Evolution|Evolve]] {{p|Cottonee}}}}
+{{Availability/Entry1/None|1|v=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Fairy}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Misty Edgewater]], [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Greenleaf]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Hazy Pass]] (Golden Chamber), [[Stompstump Peak]] (Golden Chamber), [[Desolate Canyon]] (Golden Chamber), [[Forest Grotto]] (Golden Chamber), [[Breezy Meadow]] (1F-8F), [[Tempting Path]] (1F-9F), [[Crags of Lament]] (1F-9F), [[Telluric Path]] (B1-B10), [[Redland Reaches]] (1F-10F), [[Daybreak Ridge]] (Golden Chamber), [[Grove of Whispers]] (Golden Chamber), [[Silent Tundra]] (Golden Chamber), [[Dreamy Island]] (Golden Chamber), [[Moonlit Forest]] (1F-28F), [[Rusty Mountain]] (Mapless Street), [[Cape at the Edge]] (B1-B29), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#Serperior Jungle|Jungle Area: Serperior Jungle]], [[Adventure Area#Sweet, Light, and Fluffy|Adventure Area: Sweet, Light, and Fluffy]],<br>[[Challenge Battle#Open Entry Battle Royale|Challenge Battle: Open Entry Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 4|Sacred Plains: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Jungle Verde|Jungle Verde: Stage 138]]<br>Event: [[Special Stages#11th release|''Pokémon Safari'']] <small>(11th release; Winking)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Gracious Woodlands|Distortion Land: Gracious Woodlands]] <small>(Special)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 04|Area 04: Stage 01]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Grass|type2=Fairy}}
+{{eventAvail|{{gameabbrev5|BW}}|Powerful Tag Whimsicott|Japanese|Japan|50|June 1 to 22, 2012|link=List of local Japanese event Pokémon distributions in Generation V#Whimsicott}}
+|}
+
+===Held items===
+{{HeldItems|type=Grass|type2=Fairy
+|event1=Cheri Berry|event1type=Berry|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{Base stats
+|HP=60
+|Attack=67
+|Defense=85
+|SpAtk=77
+|SpDef=75
+|Speed=116
+|type=Grass
+|type2=Fairy
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Fairy
+|Normal=100
+|Flying=200
+|Fighting=50
+|Ground=50
+|Rock=100
+|Bug=100
+|Poison=400
+|Ghost=100
+|Steel=200
+|Fairy=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=0
+|Dark=50
+|notes=yes
+|fairy=yes
+|newdragon=1
+|newfairy=yes
+|newfairyeffect={{typecolor2|Dragon}} was 1×, {{typecolor2|Poison}} was 2×, {{typecolor2|Steel}} was 1×, {{typecolor2|Dark}} was 1×, {{typecolor2|Fighting}} was 1×, and {{typecolor2|Bug}} was 2×
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Whimsicott|Grass|Fairy|5}}
+{{learnlist/level7|1|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|1|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level7|1|Cotton Spore|Grass|Status|&mdash;|100|40}}
+{{learnlist/level7|10|Gust|Flying|Special|40|100|35}}
+{{learnlist/level7|28|Tailwind|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|46|Hurricane|Flying|Special|110|70|10}}
+{{learnlist/level7|50|Moonblast|Fairy|Special|95|100|15||'''}}
+{{learnlist/levelf/7|Whimsicott|Grass|Fairy|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Whimsicott|Grass|Fairy|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Whimsicott|Grass|Fairy|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Whimsicott|Grass|Fairy|5}}
+{{learnlist/breed7|{{MSP|273|Seedot}}|Beat Up|Dark|Physical|&mdash;|100|10|*}}
+{{learnlist/breed7|{{MSP|300|Skitty}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|036|Clefable}}{{MSP|176|Togetic}}{{MSP|311|Plusle}}{{MSP|312|Minun}}|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|303|Mawile}}{{MSP|312|Minun}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}|Grass Whistle|Grass|Status|&mdash;|55|15}}
+{{learnlist/breed7|{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}|Memento|Dark|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|531|Audino}}{{MSP|682|Spritzee}}{{MSP|683|Aromatisse}}|Misty Terrain|Fairy|Status|—|—|10|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}{{MSP|357|Tropius}}<br>{{MSP|764|Comfey}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|312|Minun}}|Switcheroo|Dark|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}<br>{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}{{MSP|420|Cherubi}}<br>{{MSP|421|Cherrim}}|Worry Seed|Grass|Status|&mdash;|100|10}}
+{{learnlist/breedf/7|Whimsicott|Grass|Fairy|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Whimsicott|Grass|Fairy|5}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Whimsicott|Grass|Fairy|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Whimsicott|Grass|Fairy|5}}
+{{learnlist/prevo7|546|Cottonee|||||Absorb|Grass|Special|20|100|25|'''}}
+{{learnlist/prevo7|546|Cottonee|||||Fairy Wind|Fairy|Special|40|100|30|'''}}
+{{learnlist/prevo7|546|Cottonee|||||Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/prevo7|546|Cottonee|||||Razor Leaf|Grass|Physical|55|95|25|'''}}
+{{learnlist/prevo7|546|Cottonee|||||Poison Powder|Poison|Status|—|75|35}}
+{{learnlist/prevo7|546|Cottonee|||||Giga Drain|Grass|Special|75|100|10|'''|{{sup/7|SM}}}}
+{{learnlist/prevo7|546|Cottonee|||||Charm|Fairy|Status|—|100|20}}
+{{learnlist/prevo7|546|Cottonee|||||Helping Hand|Normal|Status|—|—|20||{{sup/7|SM}}}}
+{{learnlist/prevo7|546|Cottonee|||||Cotton Guard|Grass|Status|—|—|10}}
+{{learnlist/prevo7|546|Cottonee|||||Endeavor|Normal|Physical|—|100|5||{{sup/7|SM}}}}
+{{learnlist/prevof/7|Whimsicott|Grass|Fairy|5}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Fairy}}
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=3
+|def=3
+|speed=4
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=547
+|pad=She does things her own way, with a free mind and independent spirit. She tore up the Poster Portal to make an invitation card.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Grass|ndex=547
+|HP=2
+|atk=2
+|def=3
+|spd=5
+|range=4
+|move=Razor Leaf
+|ability1=Melee
+|ability2=Mountaineer
+|ability3=Dodge
+|evo=Evolves from {{p|Cottonee}} when its [[link]] is improved while its [[Warrior]] is equipped with a [[Sun Stone]]
+|link={{DL|List of Pokémon Conquest characters|Sadatoshi}}
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Grass|ndex=547
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Grass|ndex=547|num=132
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Swap
+|skilldesc=Sometimes replaces a disruption with this Pokémon.
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=547Winking|num=132
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Eject+
+|skilldesc=Sometimes removes three non-Support Pokémon icons.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Grass
+|type2=Fairy
+|pictype=art
+|no1=546
+|name1=Cottonee
+|type1-1=Grass
+|type2-1=Fairy
+|evo1={{bag|Sun Stone}}<br>{{color2|000|Sun Stone}}
+|no2=547
+|name2=Whimsicott
+|type1-2=Grass
+|type2-2=Fairy}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Fairy}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=547}}
+{{Spritebox/6|ndex=547}}
+{{Spritebox/7|ndex=547}}
+{{Spritebox/Footer|547|Whimsicott}}
+
+==Trivia==
+* Whimsicott represents {{wp|April}} in the [[Unova]] [[horoscope]].
+
+===Origin===
+Whimsicott appears to be based on a fully bloomed ball of {{wp|cotton}}. It also may draw some origin from the {{wp|Vegetable Lamb of Tartary}}, which was a type of sheep-growing plant that was used to explain the production of cotton in the Middle Ages. It may also have been based on the Brazilian folklore creature known as the {{wp|Saci (Brazilian folklore)|Saci}}; both are brown creatures that live in forests, ride on winds, and play pranks. It also appears to be based on a {{wp|sheep}}.
+
+====Name origin====
+Whimsicott may be a combination of ''whimsical'' or ''whimsy'' and ''cotton''.
+
+Elfuun may be a combination of ''elf'' and 風 ''fū'' (wind) or ''typhoon''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Fairy
+|ja=エルフーン ''Elfuun''|jameaning=From ''elf'' and {{tt|風 ''fū''|wind}} or ''typhoon''
+|de=Elfun|demeaning=From ''{{tt|Elfe|elf}}'' and ''{{tt|Taifun|typhoon}}''
+|fr=Farfaduvet|frmeaning=From ''{{tt|farfadet|leprechaun}}'' and ''{{tt|duvet|fluff}}''
+|es=Whimsicott|esmeaning=Same as English name
+|it=Whimsicott|itmeaning=Same as English name
+|ko=엘풍 ''Elfuun''|komeaning=From ''elf'' and {{tt|풍 (風) ''pung''|wind}}
+|zh_cmn=風妖精 / 风妖精 ''Fēngyāojing''|zh_cmnmeaning=From {{tt|風 / 风 ''fēng''|wind}} and {{tt|妖精 ''yāojing''|elf, fairy, pixie}}
+|zh_yue=風妖精 ''Fūngyíujīng''|zh_yuemeaning=From {{tt|風 ''fūng''|wind}} and {{tt|妖精 ''yíujīng''|elf, fairy, pixie}}
+|ru=Вимсикотт ''Vimsikott''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Grass|type2=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=546|prev=Cottonee|nextnum=548|next=Petilil}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Single-type Pokémon|547]]<!--Prior to Gen VI-->
+[[Category:Pokémon that have had their type changed]]
+
+[[de:Elfun]]
+[[fr:Farfaduvet]]
+[[it:Whimsicott]]
+[[ja:エルフーン]]
+[[pl:Whimsicott]]
+[[zh:风妖精]]

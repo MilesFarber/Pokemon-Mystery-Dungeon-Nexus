@@ -1,0 +1,359 @@
+{{PokémonPrevNext/Head|type=Poison}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=567|prev=Archeops|nextnum=569|next=Garbodor}}
+|}
+{{Pokémon Infobox
+|name=Trubbish
+|jname=ヤブクロン
+|tmname=Yabukuron
+|category=Trash Bag
+|typebox=1
+|type1=Poison
+|abilityn=d
+|ability1=Stench
+|ability2=Sticky Hold
+|abilityd=Aftermath
+|ndex=568
+|udex=074
+|u2dex=105
+|karea=Mountain
+|kdex=074
+|adex=206
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=68.3
+|weight-kg=31.0
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|expyield=66
+|lv100exp=1,000,000
+|gendercode=127
+|color=Green
+|catchrate=190
+|evtotal=1
+|evsp=1
+|body=12
+|pokefordex=trubbish
+|generation=5
+|friendship=70
+}}
+'''Trubbish''' ([[List of Japanese Pokémon names|Japanese]]: '''ヤブクロン''' ''Yabukuron'') is a {{type|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Garbodor}} starting at [[level]] 36.
+
+==Biology==
+Trubbish resembles a full, dark green garbage bag that with a knot at the top that acts like ears. Trubbish has oval-shaped eyes and large triangular teeth that resemble broken glass. Its arms that look like trash spilling out of small tears in the bag with pink and blue objects protruding out of them. Its feet are dark green and stubby.
+
+This Pokémon was created when a mixture of domestic and industrial waste underwent a chemical reaction of some sort. Trubbish emits noxious, burp-like gases which, when inhaled, will render the victim bedridden for a week. This gas can also prove fatal when inhaled by young Pokémon and children. As evidenced [[BW012|in the anime]], Trubbish's ear-like tufts stand straight up when startled, are lifted if happy, and lowered if it is feeling down. Furthermore, in the same episode, it is also explained that once Trubbish befriends a person, it will cease expelling foul odors. It prefers unsanitary places, such as garbage dumps. {{alo|Grimer}} is a common enemy of Trubbish, and {{alo|Muk}} preys on it.
+
+==In the anime==
+===Major appearances===
+[[File:Daniela Trubbish.png|thumb|250px|left|Trubbish in the {{pkmn|anime}}]]
+Trubbish appeared in ''[[BW012|Here Comes the Trubbish Squad!]]'', where a bunch of {{tc|Preschooler|kindergartners}} befriended it. However, their {{tc|Nursery Aide|kindergarten teacher}}, [[Daniela]], thought it would spread an awful stench through the school. In the end, Trubbish saved the kindergartners' lives, and was adopted by Daniela and the Kindergartners after finding out that Trubbish's stench fades when it is with people it trusts.
+
+A group of Trubbish appeared in ''[[BW105|Lost at the League!]]'' alongside a Garbodor. They became angry when [[Ash's Oshawott]] ate from a box of apples, not knowing that it belonged to them.
+
+A Trubbish appeared in a flashback in ''[[XY088|A Trip Down Memory Train!]]'', where it was among the group of Pokémon that befriended [[Clemont's Bunnelby]] when it was still a wild Pokémon.
+
+===Minor appearances===
+A Trubbish appeared in ''[[BW080|Clash of the Connoisseurs!]]'' in a fantasy.
+
+A Trubbish appeared in ''[[M15|Kyurem VS. The Sword of Justice]]'', during the {{OBP|Swords of Justice|M15}} legend.
+
+Three Trainers' Trubbish appeared in ''[[SM006|A Shocking Grocery Run!]]''.
+
+A Trainer's Trubbish appeared in ''[[SM017|Crystal-Clear Sleuthing!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW012|Trubbish|Ash's Pokédex|Trubbish, the Trash Bag Pokémon. Trubbish prefer to live in dirty places like garbage dumps. It is said they were born when a chemical reaction occurred between an abandoned trash bag and industrial waste.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Geoff Trubbish Adventures.png|thumb|Trubbish in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{tc|Janitor}} Geoff owns a Trubbish that he used to battle {{adv|Black}} in ''[[PS476|A Direct Attack and a Daunting Defense]]''. It used its {{a|Stench|terrible smell}} to prevent Black's Pokémon from getting close to it; [[Tep]] needed to cover his nose to defeat it.
+
+A Trubbish appeared in ''[[PS526|Mr. Perfect]]'' and [[PS541]].
+
+A Trubbish appeared in a flashback in [[PS536]].
+
+{{tc|Team Skull Grunt}}s were seen with a Trubbish in the {{chap|Sun & Moon}}.
+
+==In the TCG==
+{{main|Trubbish (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Poison}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.}}
+{{Dex/Entry1|v=White|entry=The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Wanting more garbage, they follow people who litter. They always belch poison gas.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.}}
+{{Dex/Entry1|v=Y|entry=Inhaling the gas they {{m|belch}} will make you sleep for a week. They prefer unsanitary places.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Unsanitary places are what they like best. They can be spotted in [[Alola]], often with {{p|Grimer}} in hot pursuit.}}
+{{Dex/Entry1|v=Moon|entry=It gorges on trash until its stomach is full. Then it belches toxic gas. An unlucky whiff of gas will put a person in the hospital.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Poisonous gas leaks out of it when it breathes. Muk that catch a whiff of that stench will come drooling.}}
+{{Dex/Entry1|v=Ultra Moon|entry=If a young Pokémon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Poison}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Route]]s {{rtn|5|Unova}} and {{rtn|16|Unova}}}}
+{{Availability/Entry1|v=Black 2|t=fff|area=[[Route]]s {{rtn|4|Unova}}, {{rtn|5|Unova}}, and {{rtn|16|Unova}}}}
+{{Availability/Entry1|v=White 2|area=[[Route]]s {{rtn|5|Unova}} and {{rtn|16|Unova}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Lost Hotel]] (trash cans)}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Route]] {{rtn|110|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Malie City]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Malie City]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Poison}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Firebreathing Mountain]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Great Glacier]] (1F-14F), [[Glacial Underpass]] (B1-B9), [[Redland Reaches]] (1F-10F), [[Eastern Savanna]] (1F-14F), [[Grove of Whispers]] (1F-9F), [[Silent Tundra]] (Golden Chamber), [[Dreamy Island]] (Golden Chamber), [[Moonlit Forest]] (1F-28F), [[Rusty Mountain]] (Mapless Street), [[Skill Treasury]] (1F-15F), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Melodious Woodland#Major Clean-Up|Melodious Woodland: Major Clean-Up]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 1|Dragon Hill: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Wacky Workshop|Wacky Workshop: Stage 160]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Abundant Orchard|Plasma Tundra: Abundant Orchard]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Poison
+|bw1=Black Sludge|bw1type=None|bw1rar=5
+|bw2=Nugget|bw2type=None|bw2rar=1
+|b2w21=Black Sludge|b2w21type=None|b2w21rar=5
+|b2w22=Nugget|b2w22type=None|b2w22rar=1
+|xy1=Black Sludge|xy1type=None|xy1rar=5
+|sm1=Silk Scarf|sm1type=None|sm1rar=5
+|usum1=Silk Scarf|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Poison
+|HP=50
+|Attack=50
+|Defense=62
+|SpAtk=40
+|SpDef=62
+|Speed=65}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Poison
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=200
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Trubbish|Poison|Poison|5}}
+{{learnlist/level7|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Poison Gas|Poison|Status|&mdash;|90|40}}
+{{learnlist/level7|3|Recycle|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|7|Toxic Spikes|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|12|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/level7|14|Double Slap|Normal|Physical|15|85|10}}
+{{learnlist/level7|18|Sludge|Poison|Special|65|100|20||'''}}
+{{learnlist/level7|23|Stockpile|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|23|Swallow|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|25|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|29|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/level7|34|Clear Smog|Poison|Special|50|&mdash;|15||'''}}
+{{learnlist/level7|36|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/level7|40|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|42|Belch|Poison|Special|120|90|10||'''}}
+{{learnlist/level7|45|Gunk Shot|Poison|Physical|120|80|5||'''}}
+{{learnlist/level7|47|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/levelf/7|Trubbish|Poison|Poison|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Trubbish|Poison|Poison|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Trubbish|Poison|Poison|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Trubbish|Poison|Poison|5}}
+{{learnlist/breed7|{{MSP|208|Steelix}}{{MSP|679|Honedge}}{{MSP|680|Doublade}}{{MSP|681|Aegislash}}|Autotomize|Steel|Status|—|—|15|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|095|Onix}}{{MSP|208|Steelix}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|075|Graveler}}{{MSP|076|Golem}}{{MSP|095|Onix}}{{MSP|208|Steelix}}|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|075|Graveler}}{{MSP|075A|Graveler}}{{MSP|076|Golem}}{{MSP|076A|Golem}}<br>{{MSP|299|Nosepass}}{{MSP|476|Probopass}}{{MSP|524|Roggenrola}}{{MSP|525|Boldore}}{{MSP|526|Gigalith}}{{MSP|557|Dwebble}}<br>{{MSP|558|Crustle}}|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|075|Graveler}}{{MSP|075A|Graveler}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/breed7|{{MSP|524|Roggenrola}}{{MSP|525|Boldore}}{{MSP|526|Gigalith}}{{MSP|557|Dwebble}}{{MSP|558|Crustle}}|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|074A|Geodude}}{{MSP|075|Graveler}}{{MSP|075A|Graveler}}{{MSP|076|Golem}}{{MSP|076A|Golem}}<br>{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/breed7|{{MSP|707|Klefki}}|Spikes|Ground|Status|&mdash;|&mdash;|20}}
+{{learnlist/breedf/7|Trubbish|Poison|Poison|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Trubbish|Poison|Poison|5}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5||'''|no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Trubbish|Poison|Poison|5}}
+
+===Side game data===
+{{Spindata/Head|type=Poison}}
+{{Spindata/RumbleBlast|col=6|type=Poison
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Poison|ndex=568
+|pad=Even though they are scared of the big eater, {{P|Munchlax}}, they still sort of like him.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Poison|ndex=568
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Poison|ndex=568|num=189
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Mind Zap
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Poison
+|no1=568
+|name1=Trubbish
+|type1-1=Poison
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no2=569
+|name2=Garbodor
+|type1-2=Poison}}
+
+===Sprites===
+{{Spritebox/Header|type=Poison}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=568}}
+{{Spritebox/6|ndex=568}}
+{{Spritebox/7|ndex=568}}
+{{Spritebox/Footer|568|Trubbish}}
+
+==Trivia==
+* Trubbish was revealed internationally in the {{so|Black and White|opening}} for [[S14|Pokémon: Black & White]].
+* Trubbish shares similar traits to {{p|Grimer}} and {{p|Koffing}}. All three Pokémon are pure Poison-types with a single evolution, roughly the same base stat totals, and themed around pollution.
+
+===Origin===
+Physically, Trubbish is modeled after a plastic bag stuffed with garbage, its tied-off top somewhat resembling long, rabbit-like ears. This may draw from the fact that in both English and Japanese slang, a clump of lint and dirt can be called a "dust bunny". This is further evidenced by how the name of its evolved form is derived from "dust" as well.
+
+====Name origin====
+Trubbish is a combination of ''trash'' and ''rubbish''.
+
+Yabukuron may be a combination of 破く ''yabuku'' (to tear) or 破ける ''yabukeru'' (to get torn) and 袋 ''fukuro'' (bag) or ぶくぶく ''bukubuku'' (loose-fitting/baggy).
+<!--Its sounding can also be referred to いや ''iya'' (unpleasant), standing for an unpleasant bag.-->
+
+==In other languages==
+{{Other languages|type=Poison|type2=Poison
+|ja=ヤブクロン ''Yabukuron''|jameaning=From {{tt|破く ''yabuku''|to tear}} and {{tt|袋 ''fukuro''|bag}}
+|fr=Miamiasme|frmeaning=From the eating sound ''Miam'' and ''{{tt|miasme|miasma}}''
+|es=Trubbish|esmeaning=Same as English name
+|de=Unratütox|demeaning=From ''{{tt|Unrat|garbage}}'', ''{{tt|Tüte|bag}}'', and ''Toxin''
+|it=Trubbish|itmeaning=Same as English name
+|ko=깨봉이 ''Kkaebongi''|komeaning=From {{tt|깨다 ''kkaeda''|to break, to smash}}, {{tt|봉지 ''bongji''|bag}}, and suffix {{tt|-이 ''i''|-er}}
+|zh_cmn=破破袋 ''Pòpòdài''|zh_cmnmeaning=Possibly derived from the Japanese name. 破 means "damaged" or "worn out". 袋 means "bag".
+|ru=Траббиш ''Trabbish''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Poison}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=567|prev=Archeops|nextnum=569|next=Garbodor}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Artificial Pokémon]]
+
+[[de:Unratütox]]
+[[fr:Miamiasme]]
+[[it:Trubbish]]
+[[ja:ヤブクロン]]
+[[pl:Trubbish]]
+[[zh:破破袋]]

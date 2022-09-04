@@ -1,0 +1,496 @@
+{{PokémonPrevNext/Head|type=Ghost|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=425|prev=Drifloon|nextnum=427|next=Buneary |roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Drifblim}}
+|}
+{{Pokémon Infobox
+|name=Drifblim
+|jname=フワライド
+|jtranslit=Fuwaraido
+|tmname=Fuwaride
+|ndex=426
+|sdex=066
+|u2dex=209
+|karea=Coastal
+|kdex=002
+|adex=065
+|abrow=143
+|obrow=233
+|opbrow=220
+|typebox=1
+|type1=Ghost
+|type2=Flying
+|category=Blimp
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=33.1
+|weight-kg=15.0
+|abilityn=d
+|ability1=Aftermath
+|ability2=Unburden
+|abilityd=Flare Boost
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=30
+|evtotal=2
+|evhp=2
+|expyield=174
+|oldexp=204
+|lv100exp=1,640,000
+|gendercode=127
+|color=Purple
+|catchrate=60
+|body=04
+|pokefordex=drifblim
+|generation=4
+|friendship=70
+}}
+'''Drifblim''' ([[List of Japanese Pokémon names|Japanese]]: '''フワライド''' ''Fuwaride'') is a dual-type {{2t|Ghost|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Drifloon}} starting at [[level]] 28.
+
+==Biology==
+Driftblim has a large, spherical, purple body with the lower quarter of its body being a lighter purple. The colors are separated by a repeated semicircle pattern all around its body. On the top of its head is a puffy, white mass, which closely resembles a cloud. In the center of its body is a large yellow "X" and on either side, just above the "X" are its small, red eyes. On the lower portion of its body are four long, thin arms that diagonally in four different directions. Its arms are tipped with yellow and have three short points each. The bottom of its body narrows into a short, red extrusion that fans slightly outward.
+
+Driftblim is strong enough to lift Pokémon or people, but has no control over its flight. This causes it to drift with the wind and end up anywhere. It can, however, inflate and deflate itself with gas to control its altitude. It is rarely active during the day, but usually gathers in groups during evenings. When noticed, the groups will suddenly vanish to unknown locations.
+
+==In the anime==
+[[File:Fantina Drifblim.png|left|thumb|250px|Drifblim in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Fantina's Drifblim]]====
+{{TP|Fantina|Drifblim}} made its main series debut in ''[[DP093|Playing The Leveling Field!]]'', where it was under the ownership of [[Fantina]]. It [[Evolution|evolved]] from {{p|Drifloon}} in the episode during its {{pkmn|battle}} with [[Ash's Pikachu]]. It appeared again in ''[[DP102|A Shield with a Twist!]]'', where it defeated Ash's Pikachu and {{AP|Buizel}}, but lost to {{AP|Chimchar}}.
+
+====Other====
+{{DL|Tonio|Drifblim}} debuted in ''[[M10|The Rise of Darkrai]]'', where it floated around [[Alamos Town]], serving as a scout for [[Tonio]].
+
+A Drifblim appeared in ''[[PK24|Meloetta's Moonlight Serenade]]''.
+
+Multiple Drifblim appeared in ''[[XY041|Foggy Pokémon Orienteering!]]''.
+
+===Minor appearances===
+Three Drifblim appeared in ''[[M20|I Choose You!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP093|Drifblim|Dawn's Pokédex|Drifblim, the Blimp Pokémon and the evolved form of {{p|Drifloon}}. Because it travels on wind currents, Drifblim's movements are unusual and unpredictable.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Fantina Drifblim Adventures.png|thumb|200px|Drifblim in [[Pokémon Adventures]]]]
+===In the Phantom Thief Pokémon 7 manga===
+The titular Phantom Thief, [[Hiori]], uses a Drifblim primarily for aerial transportation. It is not seen battling much, but can hold its own when it needs to.
+
+===In the Pokémon Adventures manga===
+{{main|Fantina's Drifblim}}
+When {{adv|Diamond}}, {{adv|Pearl}} and {{adv|Platinum}} were in [[Hearthome City]], [[Fantina]] used her {{TP|Fantina|Drifblim}} to throw off some women who were obstructing the trio for being rookies in Contests who didn't deserve to compete, an attitude that carried over even after Platinum won the Contest, to which Fantina responded by dropping them in a trash chute. She was later used in a Gym match against Platinum. Her {{m|Ominous Wind}} seemed to give her the upper hand at first against [[Platinum's Empoleon]], but the girl then revealed that she took advantage of this gust of wind to send off her {{m|Blizzard}}, fainting her. She first appeared in ''[[PS351|Perturbed by Pachirisu]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+{{main|Fantina's Drifblim}}
+[[Fantina]]'s {{TP|Fantina|Drifblim}} also makes a minor appearance in [[Pokémon Diamond and Pearl Adventure!]], fighting alongside its Trainer and the other [[Gym Leader]]s against an army of {{tc|Galactic Grunt}}s in ''[[DPA11|The Legendary Pokémon, Captured]]''.
+
+Drifblim also appeared as a member of {{EF|Flint}}'s team in ''[[DPA24|Hareta's Heart's Desire]]''. Drifblim was used to finish off [[Hareta]]'s {{p|Misdreavus}}, but was surprised when Misdreavus used {{m|Skill Swap}} to acquire Drifblim's {{a|Aftermath}} [[Ability]], causing Drifblim to be taken down with the other {{type|Ghost}} Pokémon.
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS370]]|Drifblim, the Blimp Pokémon. It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere.
+}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Drifblim (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Ghost|type2=Flying}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.}}
+{{Dex/Entry1|v=Pearl|entry=It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere.}}
+{{Dex/Entry1|v=Platinum|entry=At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It can generate and release gas within its body. That's how it can control the altitude of its drift.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=They carry people and Pokémon, but the wind can catch them, so there can't be a fixed destination.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere.}}
+{{Dex/Entry1|v=Y|entry=It's drowsy in daytime, but flies off in the evening in big groups. No one knows where they go.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It's drowsy in daytime, but flies off in the evening in big groups. No one knows where they go.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=There was once an incident in which a man took a trip riding a Drifblim, only to go missing.}}
+{{Dex/Entry1|v=Moon|entry=Even while under careful observation, large flocks of Drifblim flying at dusk will inexplicably disappear from view.}}
+{{Dex/Entry1|v=Ultra Sun|entry=There's a rumor that if you catch a Drifblim floating on the wind at dusk, you'll be carried away to the afterlife.}}
+{{Dex/Entry1|v=Ultra Moon|entry=The raw material for the gas inside its body is souls. When its body starts to deflate, it's thought to carry away people and Pokémon.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Ghost|type2=Flying}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Drifloon}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Drifloon}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Route]]s {{rtn|13|Unova}} and {{rtn|14|Unova}}, [[Giant Chasm]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Route]]s {{rtn|13|Unova}} and {{rtn|14|Unova}}, [[Reversal Mountain]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Ghost-type Safari|Ghost]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Drifloon}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Drifloon}}, [[Poké Pelago]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Drifloon}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ghost|type2=Flying}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mt. Mistral]] (1F-19F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mt. Mistral]] (1F-19F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Volcano Cave]], [[Chroma Ruins]], [[Hippowdon Temple]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie‎]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Meeting Place]], [[Meadow Zone]], [[Beach Zone]], [[Iceberg Zone]], [[Cavern Zone]], [[Lava Zone]], [[Haunted Zone]], [[Granite Zone]], [[Flower Zone]]{{tt|*|Befriended after usage regardless of Zone}}}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area={{ra|Sky}}, [[Light Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Hauntyard: [[Everspring Valley]], [[World Axle - B1F]], All{{tt|*|Origin Forme Giratina encounter}}}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]], [[Arbor Area]], [[Crag Area]], [[Tech Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Drifloon}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Wonder Area#Haunted Playland|Wonder Area: Haunted Playland]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Wednesday Stage 3|Safari Jungle: Stage 3]]{{dotw|We}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|High-Speed Challenge|Drifblim Appears}}''<br>Event: ''[[Special Stages#Great Daily (Third release)|Great Daily Pokémon]]'' <small>(Third release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Pixie Glen|Fairy Land: Pixie Glen]] <small>(Center Boss, Back, Special)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 28|Area 28: Stage 05]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Ghost|type2=Flying
+|b2w21=Air Balloon|b2w21type=None|b2w21rar=1
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ghost
+|type2=Flying
+|HP=    150
+|Attack= 80
+|Defense=44
+|SpAtk=  90
+|SpDef=  54
+|Speed=  80}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ghost
+|type2=Flying
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=3
+|Technique=2
+|TechniqueMax=2
+|Stamina=4
+|StaminaMax=5
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|type2=Flying
+|Normal=    0
+|Fighting=  0
+|Flying=  100
+|Poison=   50
+|Ground=    0
+|Rock=    200
+|Bug=      25
+|Ghost=   200
+|Steel=   100
+|Fairy=   100
+|Fire=    100
+|Water=   100
+|Grass=    50
+|Electric=200
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    200
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=½
+|flying=yes
+|newground=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Drifblim|Ghost|Flying|4}}
+{{learnlist/level7|1|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/level7|1|Constrict|Normal|Physical|10|100|35}}
+{{learnlist/level7|1|Minimize|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level7|1|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level7|4|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level7|8|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level7|13|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|16|Payback|Dark|Physical|50|100|10}}
+{{learnlist/level7|20|Ominous Wind|Ghost|Special|60|100|5||'''}}
+{{learnlist/level7|25|Stockpile|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|27|Hex|Ghost|Special|65|100|10||'''}}
+{{learnlist/level7|34|Swallow|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|34|Spit Up|Normal|Special|&mdash;|100|10}}
+{{learnlist/level7|40|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/level7|46|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|52|Baton Pass|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|60|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/level7|65|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/levelf/7|Drifblim|Ghost|Flying|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Drifblim|Ghost|Flying|4}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Drifblim|Ghost|Flying|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Drifblim|Ghost|Flying|4}}
+{{learnlist/breed7|{{MSP|218|Slugma}}{{MSP|219|Magcargo}}{{MSP|317|Swalot}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|109|Koffing}}{{MSP|110|Weezing}}{{MSP|218|Slugma}}{{MSP|219|Magcargo}}|Clear Smog|Poison|Special|50|&mdash;|15}}
+{{learnlist/breed7|{{MSP|425|Drifloon}}{{MSP|426|Drifblim}}|Defog|Flying|Status|&mdash;|&mdash;|15|‡}}
+{{learnlist/breed7|{{MSP|092|Gastly}}{{MSP|093|Haunter}}{{MSP|094|Gengar}}{{MSP|109|Koffing}}{{MSP|110|Weezing}}{{MSP|202|Wobbuffet}}<br>{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}|Destiny Bond|Ghost|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|088|Grimer}}{{MSP|088A|Grimer}}{{MSP|089|Muk}}{{MSP|089A|Muk}}{{MSP|355|Duskull}}{{MSP|356|Dusclops}}<br>{{MSP|477|Dusknoir}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|109|Koffing}}{{MSP|110|Weezing}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|092|Gastly}}{{MSP|093|Haunter}}{{MSP|094|Gengar}}{{MSP|280|Ralts}}{{MSP|281|Kirlia}}{{MSP|282|Gardevoir}}<br>{{MSP|442|Spiritomb}}{{MSP|769|Palossand}}{{MSP|770|Sandygast}}|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/breed7|{{MSP|088|Grimer}}{{MSP|088A|Grimer}}{{MSP|089|Muk}}{{MSP|089A|Muk}}{{MSP|109|Koffing}}{{MSP|110|Weezing}}<br>{{MSP|442|Spiritomb}}{{MSP|607|Litwick}}{{MSP|608|Lampent}}|Memento|Dark|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|351|Castform}}{{MSP|425|Drifloon}}{{MSP|426|Drifblim}}|Tailwind|Flying|Status|&mdash;|&mdash;|15|‡}}
+{{learnlist/breed7|{{MSP|351|Castform}}|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/breedf/7|Drifblim|Ghost|Flying|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Drifblim|Ghost|Flying|4}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Drifblim|Ghost|Flying|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Drifblim|Ghost|Flying|4}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Drifblim|Ghost|Flying|4}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg psychic color light}}; border: 3px solid #{{tcg psychic color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Whirlwind}}
+| style="background:#fff; {{roundybr|5px}}" | [[Drifblim (Legends Awakened 53)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Ghost|type2=Flying}}
+{{Spindata/MDTDS|col=6|type=Ghost|ndex=426
+|body=1
+|rate=2.5
+|IQ=G
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ghost
+|group=Ghost
+|assist=Ghost
+|field=Elevate
+|fieldpower=-
+|browser=It launches {{M|Shadow Ball|eerie orbs}} to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Ghost
+|group=Ghost
+|assist=Ghost
+|field=Psy Power
+|fieldpower=1
+|browser=To attack, it spits out orbs imbued with loathsome emotions that make Pokémon Tired.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Ghost
+|att=3
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Ghost
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Ghost|ndex=426
+|Pad=Drifblim can carry you to many Zones. Drifloon are taken care of in the [[Haunted Zone]] and the [[Granite Zone]].
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Ghost|ndex=426
+|pad=Drifblim have a network all over PokéPark. They can take {{P|Pikachu}} and his Pals anywhere.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Ghost|ndex=426
+|HP=5
+|atk=2
+|def=2
+|spd=3
+|range=3
+|move=Shadow Ball
+|ability1=Dodge
+|ability2=Explode
+|ability3=Decoy
+|evo=Evolves from {{p|Drifloon}} when its HP is 146 or higher
+|link={{DL|List of Pokémon Conquest characters|Asa}} and {{DL|List of Pokémon Conquest characters|Otsū}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ghost|ndex=426
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Ghost|ndex=426|num=643
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Cross Attack
+|skilldesc=Increases damage when making a + shaped match.
+|swapper=Barrier Shot
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Ghost
+|type2=Flying
+|pictype=art
+|no1=425
+|name1=Drifloon
+|type1-1=Ghost
+|type2-1=Flying
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 28}}
+|no2=426
+|name2=Drifblim
+|type1-2=Ghost
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Ghost|type2=Flying}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=426}}
+{{Spritebox/5|ndex=426}}
+{{Spritebox/6|ndex=426}}
+{{Spritebox/7|ndex=426}}
+{{Spritebox/Footer|426|Drifblim}}
+
+==Trivia==
+* Drifblim has the highest {{stat|HP}} base stat of all {{t|Flying}} types and is tied with {{p|Giratina}} for the highest {{stat|HP}} base stat of all {{type|Ghost}} Pokémon.
+* Drifblim and {{p|Drifloon}} are the only Pokémon not introduced in [[Generation III]] to be found in the Fluctuating Experience Group.
+
+===Origin===
+Drifblim is based on a {{wp|hot air balloon}}.
+
+====Name origin====
+Drifblim is a combination of ''drift'' and ''{{wp|blimp}}''.
+
+Fuwaride may be any combination of ふわふわ ''fuwa fuwa'' (''soft'', ''airy'' and ''light'', or an {{wp|onomatopoeia}} for ''floating''), ''fuga'' (Latin for ''flight''), 風船 ''fūsen'' (balloon), and ''ride''. It may also involve 付和雷同 ''fuwaraidō'', meaning to follow others blindly.
+
+==In other languages==
+{{Other languages|type=Ghost|type2=Flying
+|ja=フワライド ''Fuwaride''|jameaning=From {{tt|ふわふわ ''fuwafuwa''|soft, airy and light, or an onomatopoeia for floating}}, ''{{tt|fuga|Latin for flight}}'', {{tt|風船 ''fūsen''|balloon}}, ''ride'', and possibly a pun of {{tt|付和雷同 ''fuwaraidō''|follow others blindly}}
+|de=Drifzepeli|demeaning=From ''Drift'' and ''{{wp|Zeppelin}}''
+|fr=Grodrive|frmeaning=From ''{{tt|gros|big}}'' and ''{{tt|dérive|drift}}''
+|es=Drifblim|esmeaning=Same as English name
+|it=Drifblim|itmeaning=Same as English name
+|ko=둥실라이드 ''Dungsilraid''|komeaning=From {{tt|둥실둥실 ''dungsil-dungsil''|floating lightly}} and ''ride''
+|zh_cmn=隨風球 / 随风球 ''Suífēngqiú'' {{tt|*|Games}}<br>附和氣球 / 附和气球 ''Fùhèqìqiú'' {{tt|*|Pre-Gen VII　Media}}|zh_cmnmeaning=From {{tt|隨風 / 随风 ''suífēng''|drift}} and {{tt|氣球 / 气球 ''qìqiú''|balloon}}<br>From {{tt|附和 ''fùhè''|to go along}} and {{tt|氣球 / 气球 ''qìqiú''|balloon}}
+|zh_yue=隨風球 ''Chèuihfūngkàuh'' {{tt|*|Games}}<br>附和氣球 ''Fuhwohheikàuh'' {{tt|*|Pre-Gen VII　Media}}|zh_yuemeaning=From {{tt|隨風 ''chèuihfūng''|drift}} and {{tt|氣球 ''heikàuh''|balloon}}<br>From {{tt|附和 ''fuhwoh''|to go along}} and {{tt|氣球 ''heikàuh''|balloon}}
+}}
+<br clear="left">
+
+==Related articles==
+* [[Fantina's Drifblim]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Ghost|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=425|prev=Drifloon|nextnum=427|next=Buneary}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Drifzepeli]]
+[[fr:Grodrive]]
+[[it:Drifblim]]
+[[ja:フワライド]]
+[[pl:Drifblim]]
+[[zh:随风球]]

@@ -1,0 +1,623 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Jolteon}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=134|prev=Vaporeon|nextnum=136|next=Flareon|round=none}}
+{{PokémonPrevNext/Disambig|species=Jolteon}}
+|}
+{{Pokémon Infobox
+|name=Jolteon
+|jname=サンダース
+|jtranslit=Sandāsu
+|tmname=Thunders
+|ndex=135
+|oldjdex=182
+|jdex=186
+|sdex=165
+|u2dex=093
+|karea=Coastal
+|kdex=079
+|adex=125
+|fbrow=185
+|abrow=099
+|obrow=077
+|opbrow=056
+|type1=Electric
+|category=Lightning
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=54.0
+|weight-kg=24.5
+|ability1=Volt Absorb
+|abilityd=Quick Feet
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=35
+|evtotal=2
+|evsp=2
+|expyield=184
+|oldexp=197
+|lv100exp=1,000,000
+|gendercode=31
+|color=Yellow
+|catchrate=45
+|body=08
+|pokefordex=jolteon
+|generation=1
+|friendship=70
+}}
+'''Jolteon''' ([[List of Japanese Pokémon names|Japanese]]: '''サンダース''' ''Thunders'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Eevee}} when exposed to a [[Thunder Stone]]. It is one of Eevee's [[Eeveelution|final forms]], the others being {{p|Vaporeon}}, {{p|Flareon}}, {{p|Espeon}}, {{p|Umbreon}}, {{p|Leafeon}}, {{p|Glaceon}}, and {{p|Sylveon}}.
+
+==Biology==
+Jolteon is a quadruped, mammalian Pokémon. It is covered in yellow fur with a spiky fringe around its tail and a white ruff around its neck. Its ears are large and pointed, and its eyes and small nose are black. It has slender legs and small paws, each with three toes and a pink paw pad. In addition to the ability to become sharp like needles, Jolteon's fur also amplifies the electrical charges produced by its cells. It can also store and generate negative ions in its fur, which create a sparking noise. This Pokémon is most often found in {{DL|List of Pokémon by habitat|Urban Pokémon|cities and towns}} under the ownership of {{pkmn|Trainer}}s.
+
+==In the anime==
+===In the main series===
+[[File:Jolteon_BW135.png|thumb|250px|left|Jolteon in the {{pkmn|anime}}]]
+====Major appearances====
+Jolteon debuted in ''[[EP040|The Battling Eevee Brothers]]'', under the ownership of {{DL|Eevee brothers|Sparky}}.
+
+{{Ash}} {{pkmn|battle}}d against a Jolteon during the [[Pokémon League]] Entrance Exam in ''[[EP056|The Ultimate Test]]''.
+
+In ''[[EP101|Get Along, Little Pokémon]]'', {{OBP|Ethan|EP101}} used a Jolteon as a "sheep dog" of sorts. Whenever any of Ethan's {{p|Magnemite}} tried to escape, Jolteon would use {{m|Thunder Wave}} to lure them back.
+
+A Jolteon appeared in ''[[EP183|Trouble's Brewing]]'' and ''[[EP226|Espeon, Not Included]]'', under the ownership of one of the [[Kimono Girl|Kimono Sisters]].
+
+[[Volkner]] used a Jolteon in ''[[DP179|The Eighth Wonder of the Sinnoh World!]]'' during his [[Gym]] battle with Ash. It was defeated by {{AP|Infernape}}.
+
+A Jolteon appeared in ''[[BW102|Team Eevee and the Pokémon Rescue Squad!]]'', along with an Eevee and its other evolutions, under the ownership of [[Virgil]].
+
+A Jolteon appeared in ''[[PK25|Eevee & Friends]]'' with an {{p|Eevee}} and its other evolutions, including the newly introduced {{p|Sylveon}}.
+
+A Jolteon appeared in ''[[BW135|Mystery on a Deserted Island!]]'', where it evolved from one of three {{p|Eevee}}.
+
+====Minor appearances====
+A Jolteon was among the Pokémon controlled by [[Cassidy]] and [[Butch]] in ''[[EP086|Pikachu Re-Volts]]''.
+
+A Jolteon was one of the Electric-type Pokémon seen in the lake with crystal in ''[[EP242|As Clear As Crystal]]''.
+
+A Jolteon appeared in {{Gary}}'s explanation in ''[[EP272|Johto Photo Finish]]''.
+
+Multiple Jolteon appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+Jolteon made a small cameo appearance in the opening sequence of ''[[M11|Giratina and the Sky Warrior]]'' together with an {{p|Eevee}} and the other six [[Eeveelution]]s at the time.
+
+A Jolteon appeared in ''[[XY048|A Campus Reunion!]]''.
+
+A Jolteon appeared in a fantasy in ''[[XY090|Tag Team Battle Inspiration!]]'', where {{an|Serena}} imagined what her {{TP|Serena|Eevee}} could evolve into.
+
+A Jolteon appeared in a flashback in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+A Trainer's Jolteon appeared in ''[[M20|I Choose You!]]''.
+
+A Jolteon will appear during a fantasy in [[SM065]].
+
+====Pokédex entries====
+{{Animedexheader|Orange}}
+{{Animedexbody|EP101|Jolteon|Ash's Pokédex|Jolteon, the Lightning Pokémon. When angered or frightened, the hairs on Jolteon's body become like {{m|Pin Missile|needles that are fired at its opponents}}. It absorbs charged atoms and can produce 10,000 volts of electricity.}}
+{{Animedexfooter/Pokémon|original|Orange}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW102|Jolteon|Ash's Pokédex|Jolteon, the Lightning Pokémon. Jolteon becomes enveloped in lightning when angered.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+===In Pokémon Origins===
+[[File:Red Jolteon PO.png|thumb|220px|Jolteon in Pokémon Origins]]
+{{OBP|Red|Origins}}'s Jolteon debuted in ''[[PO02|File 2: Cubone]]'', battling a {{tc|Team Rocket Grunt}}'s {{p|Koffing}}.
+{{-}}
+
+==In the manga==
+[[File:Sparky Jolteon EToP.png|thumb|200px|right|Jolteon in [[The Electric Tale of Pikachu]]]]
+===In the Pokémon Adventures manga===
+{{main|Vee}}
+In ''[[PS019|Blame it on Eevee]]'', a mutated Eevee could switch between his evolved forms, one of which is a Jolteon. {{adv|Red}} catches him and adds him to his team and names him Vee. Later using the [[Evolutionary stone|Fire, Water and Thunder stones]] of [[Vermilion City|Vermilion Harbor]], which were given to him by {{adv|Giovanni}}, to evolve and [[Devolution|devolve]] him freely and faster. Eventually, he lost the ability to devolve after permanently becoming an {{p|Espeon}}, but Red felt more content now that he'd been freed from the pain that [[Team Rocket]]'s experiments had dealt.
+
+A Jolteon appeared when Yellow fantasized about Pokémon that could evolve via [[Evolutionary stone|stone]] along with an Eevee, Vaporeon and Flareon in ''[[PS058|The Kindest Tentacruel]]''.
+
+A Jolteon appeared in ''[[PS448|Pleased as Punch With Parasect]]'', owned by a [[Kimono Girl]].
+
+A Jolteon appeared in a fantasy in the {{chap|X & Y}}.
+
+===In the Pokémon Pocket Monsters manga===
+A Jolteon is seen with {{OBP|Green|Pocket Monsters}} during the curry cooking competition that went on in ''[[PM027|Curry Showdown! Which is the Most Delicious?]]''.
+
+{{OBP|Giovanni|Pocket Monsters}} sent out a Jolteon when he was about to destroy [[Pallet Town]] with a missile in [[PM047]].
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|The Electric Tale of Pikachu|[[ET06]]|Evolved with the Thunder Stone. ...You know the rest.}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Jolteon (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=electric}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=It accumulates negative ions in the atmosphere to blast out 10000-volt lightning bolts.}}
+{{Dex/Entry1|v=Yellow|entry=A sensitive Pokémon that easily becomes sad or angry. Every time its mood changes, it charges power.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Its weapons are its 10,000-volt electric attacks and its spiky fur. Its sharp hair can pierce enemies when it bristles.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.}}
+{{Dex/Entry1|v=Silver|entry=Every hair on its body starts to stand sharply on end if it becomes charged with electricity.}}
+{{Dex/Entry1|v=Crystal|entry=The negatively charged ions generated in its fur create a constant sparking noise.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Every hair on its body starts to stand sharply on end if it becomes charged with electricity.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its cells generate weak power that is amplified by its fur's static electricity to drop thunderbolts. The bristling fur is made of electrically charged needles.}}
+{{Dex/Entry1|v=FireRed|entry=If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes.}}
+{{Dex/Entry1|v=LeafGreen|entry=It accumulates negative ions in the atmosphere to blast out 10000-volt lightning bolts.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=It controls 10,000-volt power and can raise all the fur on its body as if it were sharp needles.}}
+{{Dex/Entry1|v=Platinum|entry=If agitated, it uses electricity to straighten out its fur and launch it in small bunches.}}
+{{Dex/Entry1|v=HeartGold|entry=It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.}}
+{{Dex/Entry1|v=SoulSilver|entry=Every hair on its body starts to stand sharply on end if it becomes charged with electricity.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=If agitated, it uses electricity to straighten out its fur and launch it in small bunches.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=By storing electricity in its body, it can shoot its bristlelike fur like a barrage of missiles.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Every hair on its body starts to stand sharply on end if it becomes charged with electricity.}}
+{{Dex/Entry1|v=Y|entry=It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Jolteon's cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the Pokémon to drop thunderbolts. The bristling fur is made of electrically charged needles.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=They send out electrical charges of about 10,000 volts. Because they are high-strung, it can be difficult to grow close to them.}}
+{{Dex/Entry1|v=Moon|entry=When its fur stands on end, that's a sign it's about to give off a jolt of electricity. Take care, as sometimes lightning strikes next to it, too.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Its lungs contain an organ that creates electricity. The crackling sound of electricity can be heard when it exhales.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its fur stands on end, becoming like needles it fires at enemies. Once they're weakened, it finishes them off with a 10,000 volt shock.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=electric}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Yellow|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Trade]]<br>{{pkmn|Global Link}} event}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 5]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Fiore Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Spacial Rift]] (B1-B15, Deep Spacial Rift B1-B9)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Spacial Rift]] (B1-B15, Deep Spacial Rift B1-B9)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Haruba Desert]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Eternal Tower]] <small>(Both Modes S)</small>}}
+{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Granite Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Wireless Tower]], [[Thunder Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[Firebreathing Mountain]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Eevee}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Holehills]] (1F-12F), [[Windy Shoreline]] (1F-11F), [[Canyon Foot]] (1F-9F), [[Silent Tundra]] (1F-24F), [[Dreamy Island]] (Mapless Street and Golden Chamber), [[Moonlit Forest]] (Golden Chamber), [[Cape at the Edge]] (B1-B29), [[Pika Land]] (6F-14F), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Aquatic Hill#The Colorful Park|Aquatic Hill: The Colorful Park]], [[Challenge Battle#The Battle for Sky and Land|Challenge Battle: The Battle for Sky and Land]],<br>[[Challenge Battle#The Final Battle Royale|Challenge Battle: The Final Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 6|Colossal Forest: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Mt. Vinter|Mt. Vinter: Stage 112]]<br>[[Graucus Hall|Graucus Hall: Stage 467]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Fix-Up Factory|Diamond Crater: Fix-Up Factory]] <small>(Back Boss)</small>, [[Legend Terrain#Bastion of Beginnings|Legend Terrain: Bastion of Beginnings]] <small>(Special)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 20|Area 20: Stage 07]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=electric}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Center Birthday Jolteon|All|Japan|10|October 12, 2013 to December 31, 2016|link=List of local event Pokémon distributions in Generation VI#Jolteon}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Center Jolteon|All|Japan|50|May 13 to June 23, 2017|link=List of local event Pokémon distributions in Generation VII#Jolteon 2}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Store Jolteon|All|South Korea|50|July 15 to 23, 2017|link=List of local event Pokémon distributions in Generation VII#Jolteon}}
+|}
+
+====Pokémon Global Link promotions====
+{{eventAvail/h|type=electric}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Jolteon|Japanese|PGL|10|October 20, 2010 to January 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Jolteon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Jolteon|Korean|PGL|10|May 18 to August 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Jolteon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Jolteon|English|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Jolteon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Jolteon|French|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Jolteon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Jolteon|German|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Jolteon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Jolteon|Italian|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Jolteon}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Jolteon|Spanish|PGL|10|May 19 to July 19, 2011|link=List of Pokémon Global Link promotions/Pokémon#Jolteon}}
+|}
+
+===Held items===
+{{HeldItems|type=electric
+|rby1=Bitter Berry|rby1type=None|rby1rar=100|rby1image=no
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=      65
+|Attack=  65
+|Defense= 60
+|SpAtk=  110
+|SpDef=   95
+|Special=110
+|Speed=  130
+|type=Electric }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Electric
+|Speed=4
+|SpeedMax=5
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=2
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=electric
+|Normal=  100
+|Fighting=100
+|Flying=   50
+|Poison=  100
+|Ground=  200
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric= 50
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=100
+|notes=yes
+|voltabsorb=maybe
+|newelectric=0}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Jolteon|Electric|Electric|1}}
+{{learnlist/level7|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level7|1|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level7|5|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|9|Baby-Doll Eyes|Fairy|Status|&mdash;|100|30}}
+{{learnlist/level7|13|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|17|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/level7|20|Thunder Fang|Electric|Physical|65|95|15||'''}}
+{{learnlist/level7|25|Pin Missile|Bug|Physical|25|95|20}}
+{{learnlist/level7|29|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|33|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/level7|37|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level7|41|Last Resort|Normal|Physical|140|100|5}}
+{{learnlist/level7|45|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/levelf/7|Jolteon|Electric|Electric|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Jolteon|Electric|Electric|1}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Jolteon|Electric|Electric|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Jolteon|Electric|Electric|2}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}<br>{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|234|Stantler}}{{MSP|300|Skitty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}<br>{{MSP|509|Purrloin}}{{MSP|572|Minccino}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|133|Eevee}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|216|Teddiursa}}{{MSP|231|Phanpy}}{{MSP|300|Skitty}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|572|Minccino}}<br>{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|613|Cubchoo}}{{MSP|676|Furfrou}}{{MSP|678|Meowstic}}{{MSP|702|Dedenne}}|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|133|Eevee}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}<br>{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|300|Skitty}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Covet|Normal|Physical|60|100|25}}
+{{learnlist/breed7|{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|448|Lucario}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|231|Phanpy}}{{MSP|288|Vigoroth}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|303|Mawile}}{{MSP|570|Zorua}}|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|231|Phanpy}}{{MSP|263|Zigzagoon}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}<br>{{MSP|324|Torkoal}}{{MSP|327|Spinda}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}<br>{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|775|Komala}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|231|Phanpy}}{{MSP|511|Pansage}}{{MSP|513|Pansear}}{{MSP|515|Panpour}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|517|Munna}}{{MSP|765|Oranguru}}|Stored Power|Psychic|Special|20|100|10}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|352|Kecleon}}{{MSP|517|Munna}}|Synchronoise|Psychic|Special|120|100|10}}
+{{learnlist/breed7|{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|572|Minccino}}{{MSP|573|Cinccino}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|025|Pikachu}}{{MSP|203|Girafarig}}{{MSP|300|Skitty}}{{MSP|327|Spinda}}{{MSP|653|Fennekin}}{{MSP|775|Komala}}<br>{{MSP|777|Togedemaru}}|Wish|Normal|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|206|Dunsparce}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|287|Slakoth}}<br>{{MSP|289|Slaking}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}<br>{{MSP|450|Hippowdon}}{{MSP|513|Pansear}}{{MSP|517|Munna}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|775|Komala}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Jolteon|Electric|Electric|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Jolteon|Electric|Electric|2}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutorf/7|Jolteon|Electric|Electric|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Jolteon|Electric|Electric|1}}
+{{learnlist/prevo7|133|Eevee|||||Covet|Normal|Physical|60|100|25||{{sup/7|SM}}}}
+{{learnlist/prevo7|133|Eevee|||||Growl|Normal|Status|—|100|40}}
+{{learnlist/prevo7|133|Eevee|||||Bite|Dark|Physical|60|100|25}}
+{{learnlist/prevo7|133|Eevee|||||Swift|Normal|Special|60|—|20}}
+{{learnlist/prevo7|133|Eevee|||||Refresh|Normal|Status|—|—|20}}
+{{learnlist/prevo7|133|Eevee|||||Take Down|Normal|Physical|90|85|20}}
+{{learnlist/prevo7|133|Eevee|||||Charm|Fairy|Status|—|100|20}}
+{{learnlist/prevo7|133|Eevee|||||Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/prevo7|133|Eevee|||||Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/prevo7|133|Eevee|||||Trump Card|Normal|Special|—|—|5}}
+{{learnlist/prevo7|133|Eevee|e||||Celebrate|Normal|Status|—|—|40}}
+{{learnlist/prevof/7|Jolteon|Electric|Electric|1}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/Pinball|col=3|type=Electric|ndex=135|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Electric|ndex=135|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Electric|ndex=135
+|body=1
+|rate=Evolve
+|area=Transform Forest
+|P1=I turn negative ions into electricity!
+|P2=My HP is down to half. My negative-ion supply is running down.
+|P3=It's all over... I'm out of negative ions.
+|PL=I leveled up! I'm brimming with negative ions!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Electric|ndex=135
+|body=1
+|rate=-12
+|IQ=F
+}}
+|-
+{{Spindata/Ranger|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|fieldpower=3
+|field=Recharge
+|loop=8
+|MinEXP=25
+|MaxEXP=25
+|browser=Jolteon is a key to the [[Fiore Temple]]'s mystery. It attacks with thunderbolts.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|field=Electrify
+|fieldpower=3
+|browser=It attacks by discharging bolts of electricity from all over its body.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|field=Electrify
+|fieldpower=3
+|browser=It causes thunderbolts to strike that make Pokémon Paused.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Electric
+|att=4
+|def=4
+|speed=5
+}}
+{{Spindata/RumbleBlast|col=3|type=Electric
+|att=4
+|def=4
+|speed=5
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Electric|ndex=135
+|Pad=Jolteon lives in the [[Granite Zone]]. He's a specialist at {{DL|Attractions|Bulbasaur's Daring Dash}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Electric|ndex=135
+|pad=He likes cool stuff that makes his heart flutter. He had a fight with {{p|Flareon}} and came to the [[Arcane Area]] to cool down.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Electric|ndex=135
+|HP=3
+|atk=4
+|def=3
+|spd=5
+|range=4
+|move=Thunderbolt
+|ability1=Sprint
+|ability2=Vanguard
+|ability3=Volt Absorb
+|evo=Evolves from {{p|Eevee}} when its [[link]] is improved while its [[Warrior]] is equipped with a [[Thunder Stone|Thunderstone]]
+|link='''[[Hero]]'''/'''[[Heroine]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=135
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=135|num=25
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|swapper=Eject+, Hammering Streak
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=135
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=130
+|attack=232
+|defense=201
+|fast={{m|Thunder Shock}}, {{m|Volt Switch}}{{tt|*|From February 16, 2017 onward}}
+|special={{m|Discharge}}, {{m|Thunderbolt}}, {{m|Thunder}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Electric
+|pictype=art
+|no1=133
+|name1=Eevee
+|type1-1=Normal
+|evo1={{bag|Thunder Stone}}<br>{{color2|000|Thunder Stone}}
+|no2=135
+|name2=Jolteon
+|type1-2=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/1|ndex=135}}
+{{Spritebox/2|ndex=135}}
+{{Spritebox/3|ndex=135}}
+{{Spritebox/4|ndex=135}}
+{{Spritebox/5|ndex=135}}
+{{Spritebox/6|ndex=135}}
+{{Spritebox/7|ndex=135}}
+{{Spritebox/Footer|135|Jolteon}}
+
+==Trivia==
+* Jolteon shares its {{pkmn|category}} name with {{p|Electrike}}. They are both known as the Lightning Pokémon.
+* Jolteon and {{p|Zapdos}}'s Japanese names (サンダース ''Thunders'' and サンダー ''Thunder'', respectively) are almost exactly the same as each others', with a final ''s'' being the only difference.
+* Jolteon was designed by [[Motofumi Fujiwara]].<ref>https://twitter.com/atsuko_nishida/status/783643367523557376</ref>
+
+===Origin===
+Its physical anatomy seems to be primarily based on a {{wp|herding dog}} or possibly a {{wp|fennec fox}}, with several traits of {{wp|coyote}}s. It is also feline-like; its extremely high speed resembles that of a {{wp|cheetah}}'s. It may also be inspired by the {{wp|raijū}}, a beast from Japanese mythology whose body is made of lightning, and may take the form of a cat.
+
+====Name origin====
+Jolteon is a combination of ''jolt'' and ''eon'' (an immeasurably long period of time, possibly referring to how long evolution takes naturally). ''Eon'' is a suffix all {{p|Eevee}} [[evolution]]s share and was Eevee's English prototype name.
+
+Thunders is literally ''thunders'' (present tense of the verb ''to thunder'').
+
+==In other languages==
+{{Other languages|type=electric|type2=electric
+|ja=サンダース ''Thunders''|jameaning=From ''{{tt|thunders|verb; singular present tense of &quot;thunder&quot;}}''
+|fr=Voltali|frmeaning=From ''{{wp|volt}}''. Ends with ''-li'' like every [[Eeveelution]] in French.
+|es=Jolteon|esmeaning=Same as English name
+|de=Blitza|demeaning=From ''{{tt|Blitz|lightning}}''. Ends with ''-a'' like every [[Eeveelution]] in German.
+|it=Jolteon|itmeaning=Same as English name
+|ko=쥬피썬더 ''Jupithunder''|komeaning=From ''Jupiter'' and ''thunder''
+|zh_cmn=雷精靈 / 雷精灵 ''Léijīnglíng''|zh_cmnmeaning=Means "Thunder spirit". Ends with {{tt|-精靈 / -精灵|spirit, fairy, elf}} like every [[Eeveelution]] in Mandarin
+|zh_yue=雷伊貝 ''Lèuihyībui''|zh_yuemeaning=Literally "Thunder Eevee". Ends with {{tt|-伊貝|Eevee}} like every [[Eeveelution]] in Cantonese
+|hi=जोलटेओं ''Jolteon''|himeaning=Transcription of English name
+|ru=Джолтеон ''Dzholteon''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Vee]]
+
+==Notes==
+<references />
+
+==External links==
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=134|prev=Vaporeon|nextnum=136|next=Flareon}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+
+[[de:Blitza]]
+[[fr:Voltali]]
+[[it:Jolteon]]
+[[ja:サンダース]]
+[[pl:Jolteon]]
+[[zh:雷伊布]]

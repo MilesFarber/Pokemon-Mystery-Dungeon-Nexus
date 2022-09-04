@@ -1,0 +1,296 @@
+{{PokémonPrevNext/Head|type=Dark|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=798|prev=Kartana|nextnum=800|next=Necrozma}}
+|}
+{{Pokémon Infobox
+|name=Guzzlord
+|jname=アクジキング
+|tmname=Akuziking
+|jtranslit=Akujikingu
+|ndex=799
+|type1=Dark
+|type2=Dragon
+|category=Junkivore
+|height-ftin=18'01"
+|height-m=5.5
+|weight-lbs=1957.7
+|weight-kg=888.0
+|adex=299
+|abilityn=1
+|abilitylayout=1
+|ability1=Beast Boost
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=120
+|evtotal=3
+|evhp=3
+|expyield=114
+|lv100exp=1,250,000
+|gendercode=255
+|color=Black
+|catchrate=45
+|body=06
+|pokefordex=guzzlord
+|generation=7
+|friendship=0
+}}
+'''Guzzlord''' ([[List of Japanese Pokémon names|Japanese]]: '''アクジキング''' ''Akuziking'') is a dual-type {{2t|Dark|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+It is one of the [[Ultra Beast]]s and is known by the code name '''UB-05 Glutton''' (Japanese: '''{{tt|ＵＢ０５　Ｇｌｕｔｔｏｎｙ|ユービーゼロゴ　グラトニー}}''').
+
+==Biology==
+Guzzlord is a large, dangerous Pokémon and is one of the Ultra Beasts. It has a large mouth right at the center of its belly, with several sharp fangs on the top and bottom jaw. Its insides are blue and within is a black tongue, along with several spikes. It has a small opening to the rest of its innards. It has two small arms located on the top of its head and has three digits with yellow claws. What appear to be a pair of large pincers are in fact extensions of its tongue, used to grab and consume anything or anyone nearby. Two small openings at the ends of its mouth allow these tongue-pincers to remain extended even when its mouth is closed.
+
+It has a pair of thick legs that have a yellow zigzag pattern on its knees. It has several wing-like protrusions around its body, with a tail which resembles a medieval mace. It has blue eyes. On the top of its head appears to be a smaller head, which also has blue eyes, with several yellow tipped spikes. In order to eat, Guzzlord's tongue moves in a wave-like motion that pulls food towards its mouth. Its texture is said to feel like hard rubber. <ref>[[Pokémon Sun & Pokémon Moon: The Official Alola Region Pokédex & Postgame Adventure Guide]]</ref> According to reports, this Pokémon has gobbled up mountains and swallowed buildings whole and will eat absolutely anything else it can reach, including the very land and sea. Although it constantly eats, its droppings have never been found. It is speculated that the entirety of the matter it consumes is converted into energy, with no waste products left over. Guzzlord originates from the [[Ultra Ruin]] dimension in [[Ultra Space]].
+<!--==In the anime==
+===Major appearances===
+===Minor appearances===
+==In the manga==-->
+
+==In the TCG==
+{{main|Guzzlord (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Dark|type2=Dragon}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It has gobbled mountains and swallowed whole buildings, according to reports. It's one of the Ultra Beasts.}}
+{{Dex/Entry1|v=Moon|entry=A dangerous Ultra Beast, it appears to be eating constantly, but for some reason its droppings have never been found.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.}}
+{{Dex/Entry1|v=Ultra Moon|entry=An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dark|type2=Dragon}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Resolution Cave]] (only one)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Ruin]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dark|type2=Dragon}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|UB Challenge|Ultra Beasts appear}}''}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Dark
+|type2=Dragon
+|HP=223
+|Attack=101
+|Defense=53
+|SpAtk=97
+|SpDef=53
+|Speed=43}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|type2=Dragon
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=50
+|Steel=100
+|Fire=50
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=0
+|Ice=200
+|Dragon=200
+|Dark=50
+|Fairy=400
+|notes=yes
+|dark=yes
+|newpsychic=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Guzzlord|Dark|Dragon|7}}
+{{learnlist/level7|1|Belch|Poison|Special|120|90|10}}
+{{learnlist/level7|1|Wide Guard|Rock|Status|—|—|10}}
+{{learnlist/level7|1|Swallow|Normal|Status|—|—|10}}
+{{learnlist/level7|1|Stockpile|Normal|Status|—|—|20}}
+{{learnlist/level7|1|Dragon Rage|Dragon|Special|—|100|10}}
+{{learnlist/level7|1|Bite|Dark|Physical|60|100|25||'''}}
+{{learnlist/level7|7|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level7|13|Brutal Swing|Dark|Physical|60|100|20||'''}}
+{{learnlist/level7|19|Steamroller|Bug|Physical|65|100|20}}
+{{learnlist/level7|23|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/level7|29|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/level7|31|Stomping Tantrum|Ground|Physical|75|100|10}}
+{{learnlist/level7|37|Crunch|Dark|Physical|80|100|15||'''}}
+{{learnlist/level7|43|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/level7|47|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|53|Gastro Acid|Poison|Status|—|100|10}}
+{{learnlist/level7|59|Heavy Slam|Steel|Physical|—|100|10}}
+{{learnlist/level7|67|Wring Out|Normal|Special|—|100|5}}
+{{learnlist/level7|73|Dragon Rush|Dragon|Physical|100|75|10||'''}}
+{{learnlist/levelf/7|Guzzlord|Dark|Dragon|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Guzzlord|Dark|Dragon|7}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10||'''}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|—|100|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tmf/7|Guzzlord|Dark|Dragon|7}}
+
+====By {{pkmn|breeding}}====
+{{Learnlist/breedh/7|Guzzlord|Dark|Dragon|7}}
+{{Learnlist/breed7null}}
+{{Learnlist/breedf/7|Guzzlord|Dark|Dragon|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Guzzlord|Dark|Dragon|7}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15||'''|no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||'''|no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutorf/7|Guzzlord|Dark|Dragon|7}}
+
+===Side game data===
+{{Spindata/Head|type=Dark|type2=Dragon}}
+{{Spindata/Shuffle|col=6|type=Dark|ndex=799|num=774
+|min=70
+|max=116
+|raisemaxlevel=7
+|skill=Big Eater
+|skilldesc=Damage varies depending on the opponent's remaining HP.
+|swapper=Beast Power
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Dark
+|type2=Dragon
+|pictype=art
+|no1=799
+|name1=Guzzlord
+|type1-1=Dark
+|type2-1=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=Dark|type2=Dragon}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=799}}
+{{Spritebox/Footer|799|Guzzlord}}
+
+==Trivia==
+* Guzzlord has the highest base {{stat|HP}} of all {{type|Dark}} and {{type|Dragon}} Pokémon.
+* Guzzlord is the [[List of Pokémon by weight|heaviest]] {{type|Dark}} Pokémon and the heaviest {{type|Dragon}} Pokémon.
+* In [[Pokémon Sun and Moon]], Guzzlord has a catch rate of 15.
+* Guzzlord was designed by [[James Turner]].
+
+===Origin===
+Due to its habit of eating almost anything but not excreting anything out, Guzzlord may be based off a {{wp|black hole}}. It also resembles a {{wp|crab}}.
+====Name origin====
+Guzzlord may be a combination of ''guzzle'' (to eat or drink in a greedy manner) and ''lord''.
+
+Akuziking may be a combination of 悪食 ''akujiki'' (consumption of repulsive things), 悪 ''aku'' (evil), and ''king''.
+
+==In other languages==
+{{Other languages|type=Dark|type2=Dragon
+|ja=アクジキング ''Akuziking''|jameaning=From {{tt|悪食 ''akujiki''|consumption of repulsive things}}, {{tt|悪 ''aku''|evil}}, and ''king''
+|fr=Engloutyran|frmeaning=From ''{{tt|engloutir|engorge}}'', ''{{tt|glouton|glutton}}'', and ''{{tt|tyran|tyrant}}''
+|es=Guzzlord|esmeaning=Same as English name
+|de=Schlingking|demeaning=From ''{{tt|schlingen|gobble}}'' and ''king''
+|it=Guzzlord|itmeaning=Same as English name
+|ko=악식킹 ''Aksikking''|komeaning=From {{tt|악 (惡) ''ak''|evil}}, {{tt|식 (食) ''sik''|eat}}, and ''king''
+|zh_cmn=惡食大王 / 恶食大王 ''Èshídàwáng''|zh_cmnmeaning=From {{tt|惡 / 恶 ''è''|evil}}, {{tt|食 ''shí''|eat}}, and {{tt|大王 ''dàwáng''|king}}
+|zh_yue=惡食大王 ''Oksihkdaaihwòhng''|zh_yuemeaning=From {{tt|惡 ''ok''|evil}}, {{tt|食 ''sihk''|eat}}, and {{tt|大王 ''daaihwòhng''|king}}
+|ru=Газзлорд ''Gazzlord''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+''UB-05 Glutton''
+{{Langtable|color={{dark color}}|bordercolor={{dragon color dark}}
+|zh_yue=ＵＢ０５：大胃王 ''{{tt|UB05: Daaihwaihwòhng|UB05: Glutton}}''
+|zh_cmn=ＵＢ０５：大胃王 ''{{tt|UB05: Dàwèiwáng|UB05: Glutton}}''
+|fr=UC-05 Gourmandise
+|de=UB-05 Vielfraß
+|hu=UB-05 Falánk
+|it=UC 05 Voracitas
+|ko=UB05 글러터니 ''UB05 Gluttony''
+|ru=УЧ-05 Несыть ''UCH-05 Nesyt'''{{tt|*|Official site}}<br>UB-05 Обжора ''UB-05 Obzhora''{{tt|*|Press release}}
+|es=UE-05 Voracidad
+}}
+{{-}}
+
+==Related articles==
+* [[Ultra Beast]]
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Dark|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=798|prev=Kartana|nextnum=800|next=Necrozma}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Schlingking]]
+[[fr:Engloutyran]]
+[[it:Guzzlord]]
+[[ja:アクジキング]]
+[[zh:恶食大王]]

@@ -1,0 +1,379 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=400|prev=Bibarel|nextnum=402|next=Kricketune}}
+|}
+{{Pokémon Infobox
+|name=Kricketot
+|jname=コロボーシ
+|jtranslit=Korobōshi
+|tmname=Koroboshi
+|ndex=401
+|sdex=015
+|abrow=082
+|obrow=029
+|opbrow=041
+|typebox=1
+|type1=Bug
+|category=Cricket
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=4.9
+|weight-kg=2.2
+|abilityn=d
+|ability1=Shed Skin
+|abilityd=Run Away
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=1
+|evde=1
+|expyield=39
+|oldexp=54
+|lv100exp=1,059,860
+|gendercode=127
+|color=Red
+|catchrate=255
+|body=12
+|pokefordex=kricketot
+|generation=4
+|friendship=70
+}}
+'''Kricketot''' ([[List of Japanese Pokémon names|Japanese]]: '''コロボーシ''' ''Koroboshi'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolve]]s into {{p|Kricketune}} starting at [[level]] 10.
+
+==Biology==
+Kricketot is a bipedal, bug-like Pokémon. The majority of its body is red with a streak down its front and black cape-like marking on its back. Its head is encircled with a flat, white structure similar to a {{wp|collar (clothing)|collar}}. A female has a bigger collar than a male. Two hard, black antennae with curled tips are connected to the head by a dark red segment. A similar dark red segment forms this Pokémon's nose, and it has small, black hands and feet. By shaking its head and rubbing its antennae together, it is able to create a {{wp|xylophone|xylophonic}} sound that it uses to communicate.
+
+==In the anime==
+[[File:Nando Kricketot.png|thumb|left|220px|Kricketot in the {{pkmn|anime}}]]
+===Major appearances===
+A Kricketot appeared in ''[[DP174|Last Call — First Round!]]'', under the ownership of [[Nando]]. It was used during the [[Appeal|Performance Stage]] of the [[Sinnoh Grand Festival]], where it performed alongside an {{p|Altaria}} and helped Nando advance to the [[Contest Battle]]s.
+
+===Minor appearances===
+Kricketot appeared fairly often in the anime, though these were mostly fleeting cameos. Kricketot debuted in ''[[DP004|Dawn Of A New Era!]]''; and later made appearances in ''[[DP099|A Trainer and Child Reunion!]]'', ''[[DP121|The Lonely Snover!]]'', and ''[[DP125|Battling a Cute Drama!]]''.
+
+Two Kricketot were seen under [[Reggie]]'s care in ''[[DP066|Lost Leader Strategy!]]''. They reappeared in ''[[DP111|Saving the World from Ruins!]]''.
+
+Several Kricketot appeared in ''[[M10|The Rise of Darkrai]]'', playing in the garden amongst the other Pokémon.
+
+A Kricketot made a brief cameo in [[SS024]], where it was seen outside of [[Professor Rowan]]'s lab.
+
+Multiple Kricketot appeared in ''[[M13|Zoroark: Master of Illusions]]''.
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP174|Kricketot|Ash's Pokédex|Kricketot, the Cricket Pokémon. Its legs are short and if it stumbles, is hard antennae can make a xylophone-like sound when they rub together.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Kricketot Adventures.png|thumb|200px|Kricketot in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{adv|Platinum}} was attacked by a swarm of Kricketot and {{p|Kricketune}} in ''[[PS341|Putting a Crimp in Kricketot]]''.
+
+Two wild Kricketot were seen near [[Mt. Coronet]] in ''[[PS349|Passing by Probopass and Maneuvering around Magnezone]]''.
+
+A Trainer's two Kricketot appeared in ''[[PS365|Crafty Carnivine]]''.
+
+In ''[[PS435|The Final Dimensional Duel V]]'', a Kricketot appeared on [[Fullmoon Island]] in {{FB|Tower Tycoon|Palmer}}'s flashback.
+
+Multiple Kricketot appeared in a picture in ''[[PAORAS04|Omega Alpha Adventure 4]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+Kricketot debuted in ''[[DPA03|The Mystery Boy, Jun!!]]'' when [[Hareta]] tried to catch one.
+
+A Kricketot appeared in a flashback in ''[[DPAS1|Deoxys, The Phantom Pokémon! (Part 1)]]''.
+
+==In the TCG==
+{{main|Kricketot (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It shakes its head back to front, causing its antennae to hit each other and sound like a {{wp|xylophone}}.}}
+{{Dex/Entry1|v=Pearl|entry=It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.}}
+{{Dex/Entry1|v=Platinum|entry=Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=When its antennae hit each other, it sounds like the music of a xylophone.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.}}
+{{Dex/Entry1|v=Y|entry=When its antennae hit each other, it sounds like the music of a xylophone.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=When its antennae hit each other, it sounds like the music of a xylophone.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|202|Sinnoh}}, {{rtn|203|Sinnoh}}, {{rtn|204|Sinnoh}}, and {{rtn|207|Sinnoh}}{{sup/t|M}}{{sup/t|N}}}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|201|Sinnoh}}, {{rtn|202|Sinnoh}}, {{rtn|203|Sinnoh}}, {{rtn|204|Sinnoh}}, {{rtn|205|Sinnoh}}, and {{rtn|207|Sinnoh}}{{sup/t|M}}{{sup/t|N}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Th}}{{dotw|Sa}}<br>[[Viridian Forest]] ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Sinnoh Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{pkmn|breeding|Breed}} {{p|Kricketune}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{pkmn|breeding|Breed}} {{p|Kricketune}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (B1-B13)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] (B1-B13)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area={{DL|Chicole Village|Partner Farm}}}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Teakwood Forest]], [[Forest Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Autumnwood: [[Volcanic Slope]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#Festival on Mount Moon|Flower Garden: Festival on Mount Moon]], [[Magical Lake#Let's Sing a Song|Magical Lake: Let's Sing a Song]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 1|Safari Jungle: Stage 1]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Zaffiro Coast|Zaffiro Coast: Stage 601]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Blustery Grove|Black Realm: Blustery Grove]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Bug
+|dppt1=Metronome|dppt1type=In-battle effect item|dppt1rar=5
+|hgss1=Metronome|hgss1type=In-battle effect item|hgss1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|HP=     37
+|Attack= 25
+|Defense=41
+|SpAtk=  25
+|SpDef=  41
+|Speed=  25}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|SpeedMax=4
+|Speed=2
+|PowerMax=3
+|Technique=3
+|TechniqueMax=4
+|Stamina=2
+|StaminaMax=3
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=  100
+|Fighting= 50
+|Flying=  200
+|Poison=  100
+|Ground=   50
+|Rock=    200
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Kricketot|Bug|Bug|4}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|6|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/level7|16|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/levelf/7|Kricketot|Bug|Bug|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Kricketot|Bug|Bug|4}}
+{{learnlist/tm7null}}
+{{learnlist/tmf/7|Kricketot|Bug|Bug|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Kricketot|Bug|Bug|4}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Kricketot|Bug|Bug|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Kricketot|Bug|Bug|4}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Kricketot|Bug|Bug|4}}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{bug color light}}; border: 3px solid #{{bug color}}"
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Sing}}
+| style="background:#fff" | {{typecolor|Normal}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[DP174|Last Call — First Round!]]''
+|}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Headbutt}}
+| [[Kricketot (Supreme Victors 109)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Rollout}}
+| style="background:#fff; {{roundybr|5px}}" | [[Kricketot (Platinum 78)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/MDTDS|col=6|type=Bug|ndex=401
+|body=1
+|rate=8.2
+|IQ=G
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Bug
+|group=Bug
+|assist=Bug
+|fieldpower=-
+|browser=It attacks using sounds while hopping around.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Bug
+|group=Bug
+|assist=Bug
+|field=Tackle
+|fieldpower=1
+|browser=It flings gooey blobs that make Pokémon Slowed.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=1
+|def=1
+|speed=2
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=1
+|def=1
+|speed=2
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Bug|ndex=401
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Bug|ndex=401|num=761
+|min=30
+|max=55
+|raisemaxlevel=0
+|skill=Daunt
+|skilldesc=Can delay your opponent's disruptions for a turn and also increases damage.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Bug
+|pictype=art
+|no1=401
+|name1=Kricketot
+|type1-1=Bug
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 10}}
+|no2=402
+|name2=Kricketune
+|type1-2=Bug}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/Gender|ndex=401}}
+{{Spritebox/5/Gender|ndex=401}}
+{{Spritebox/6/Gender|ndex=401}}
+{{Spritebox/7/Gender|ndex=401}}
+{{Spritebox/Footer|401|Kricketot}}
+
+==Trivia==
+* Kricketot has the lowest base stat total of all {{type|Bug}} Pokémon.
+* Kricketot is the only Pokémon with a base stat total of 194.
+
+===Origin===
+Kricketot is based on a {{wp|cricket (insect)|cricket}} and a music conductor.
+
+====Name origin====
+Kricketot is a combination of ''cricket'' and ''tot''.
+
+Koroboshi may be derived from ''kuroboshi tsutsuhamushi'' (the black-spotted {{wp|leaf beetle}}) or a combination of 蟋蟀 ''koorogi'' (cricket) and 黒星 ''kuroboshi'' (black-spot).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=コロボーシ ''Koroboshi''|jameaning=From ''kuroboshi tsutsuhamushi'' (the black-spotted leaf beetle) or 蟋蟀 ''koorogi'' (cricket) and 黒星 ''kuroboshi'' (black-spot)
+|de=Zirpurze|demeaning=From ''{{tt|zirpen|to chirp}}'' and ''{{tt|Purzel|little guy}}''
+|fr=Crikzik|frmeaning=From ''{{tt|criquet|cricket}}'' and ''{{tt|zik|slang for 'music'}}''
+|es=Kricketot|esmeaning=Same as English name
+|it=Kricketot|itmeaning=Same as English name
+|ko=귀뚤뚜기 ''Gwittulttugi''|komeaning=From {{tt|귀뚤귀뚤 ''gwittul-gwittul''|onomatopoeia for cricking}} and {{tt|오뚝이 ''ottug'i''|a toy that will always stand back up when knocked down}}
+|zh_cmn=圓法師 ''Yuán Fǎ Shī''|zh_cmnmeaning=Literally "Round master". {{tt|法師|master of law/Buddhist or Taoist priest}} may be derived from {{tt|つくつく法師 ''tsukutsuku-bōshi''|a type of cicada}}.
+|hi=क्रिकेटट ''Kricketot''|himeaning=Transliteration of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=400|prev=Bibarel|nextnum=402|next=Kricketune}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Ranger Partner Pokémon]]
+
+[[de:Zirpurze]]
+[[fr:Crikzik]]
+[[it:Kricketot]]
+[[ja:コロボーシ]]
+[[pl:Kricketot]]
+[[zh:圆法师]]

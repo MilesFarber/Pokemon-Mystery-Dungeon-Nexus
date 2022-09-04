@@ -1,0 +1,810 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Raticate}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=019|prev=Rattata|nextnum=021|next=Spearow|round=none}}
+{{PokémonPrevNext/Disambig|species=Raticate}}
+|}
+{{Pokémon Infobox
+|name=Raticate
+|jname=ラッタ
+|tmname=Ratta
+|forme=2
+|form1=Raticate
+|form2=Alolan Raticate
+|image2=020Raticate-Alola.png
+|ndex=020
+|jdex=018
+|u2dex=060
+|adex=016
+|fbrow=102
+|abrow=068
+|type1=Normal
+|form2type1=Dark
+|form2type2=Normal
+|category={{tt|Mouse|RAT before Generation III}}
+|height-ftin=2'04"
+|height-m=0.7
+|height-ftin2=2'04"
+|height-m2=0.7
+|weight-lbs=40.8
+|weight-kg=18.5
+|weight-lbs2=56.2
+|weight-kg2=25.5
+|abilitylayout=2+2
+|ability1=Run Away
+|ability2=Guts
+|abilityd=Hustle
+|abilitydcaption=Raticate
+|ability2-1=Gluttony
+|ability2-2=Hustle
+|abilityd2=Thick Fat
+|abilityd2caption=Alolan Raticate
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=2
+|evsp=2
+|expyield=145
+|oldexp=116
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|formcolors=yes
+|catchrate=127
+|body=08
+|pokefordex=raticate
+|generation=1
+|friendship=70
+}}
+'''Raticate''' ([[List of Japanese Pokémon names|Japanese]]: '''ラッタ''' ''Ratta'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Rattata}} starting at [[level]] 20.
+
+In [[Alola]], Raticate has a [[regional variant]] that is {{2t|Dark|Normal}}. It evolves from Alolan Rattata when leveled up at [[Time|night]] starting at level 20.
+
+==Biology==
+Raticate is a large rodent Pokémon. Although it is often depicted on its hind legs, it is a quadruped. It is mostly tawny colored with a cream underside. It has large incisors that grow constantly. There are three whiskers on each side of its face, which it uses to maintain balance. It has webbed feet with three toes that allow it to swim. Its tail is long and scaly, and its ears have a ragged appearance. Females will have shorter whiskers and lighter fur.
+
+If attacked, Raticate stands up on its hind legs, bares its fangs and shrieks in an intimidating manner at its enemy. These teeth are strong enough to gnaw through steel. It is willing to take on larger foes if provoked enough. It often needs to gnaw on something, like rocks and logs. It may even chew on the wall of houses, and is capable of chewing cinder walls and toppling concrete buildings. Its large incisors are also used for its former [[signature move]]s, {{m|Hyper Fang}} and {{m|Super Fang}}. This Pokémon typically lives in {{DL|List of Pokémon by habitat|Grassland Pokémon|plains and savannas}}.
+
+In Alola, Raticate has become heavier and darker due to its urban environment and higher calorie diet. Its fur is mostly black with a brown, leaf-shaped patch on its belly and brown inside its ears. Its hands, feet, cheeks, and tail are a whitish-cream color, and its hands are much smaller. It has large, puffy cheeks with four whiskers under its chin and two sprouting sideways from the top of each cheek. Its large incisors are still visible, but its eyes are now red. This variant uses its nest as a food stockpile, and generally prefers to have the Alolan {{p|Rattata}} it commands collect food while it remains in its nest and eats. It is selective in what it eats, however, only eating fresh, high quality foods. Rumor has it that a certain high-class restaurant even exploits this selectivity, bringing Raticate along to buy ingredients and letting it taste test new dishes.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/alolan-raticate/</ref>
+
+==In the anime==
+[[File:Ash Raticate.png|thumb|250px|Raticate in the {{pkmn|anime}}]]
+[[File:Totem Alola Raticate.png|thumb|250px|Alolan Raticate in the anime]]
+===In the main series===
+====Major appearances====
+=====[[Ash's Raticate]]=====
+On the [[S.S. Anne]], {{Ash}} [[trade]]d his {{AP|Butterfree}} for a Raticate in ''[[EP015|Battle Aboard the St. Anne]]'' but traded it back in the same episode as the boat was still sinking.
+
+=====Other=====
+[[Cassidy]] has a Raticate that for a time served in her and [[Butch]]'s [[Team Rocket mottos#Butch and Cassidy|motto]] the role that {{MTR}} serves in the {{motto}} of [[Jessie]] and [[James]]. It has appeared in ''[[EP057|The Breeding Center Secret]]'', ''[[EP157|The Fortune Hunters]]'', and ''[[AG176|The Ole' Berate and Switch]]''.
+
+A differently colored Raticate appeared in ''[[EP083|Poké Ball Peril]]'', although it is not Shiny.
+
+[[Mollie]] has a Raticate, which she used during the [[Appeal|Appeals Round]] of the [[Gardenia Town]] [[Pokémon Contest]] in ''[[AG167|What I Did for Love]]''.
+
+Multiple [[Regional variant|Alolan]] Raticate debuted in ''[[SM009|To Top a Totem!]]''.
+
+Multiple Alolan {{DL|Totem Pokémon|Ally Raticate}} appeared in ''[[SM025|A Team-on-Team Tussle!]]'', where they were helping the {{DL|Totem Pokémon|Totem Raticate}} to protect a [[Darkinium Z]] from {{TRT}}, [[Tupp]], [[Zipp]], and [[Rapp]].
+
+A {{tc|Team Skull Grunt}}'s Raticate will appear in [[SM065]].
+
+====Minor appearances====
+A Raticate was seen in a [[Pokémon Center]] in ''[[EP030|Sparks Fly for Magnemite]]''.
+
+A Raticate was used in a Pokémon Race during ''[[EP033|The Flame Pokémon-athon!]]''.
+
+In ''[[EP042|Showdown at Dark City]]'', Raticate is one of the Pokémon belonging to one of the {{pkmn|Trainer}}s at [[Kas Gym]].
+
+A Raticate appeared in ''[[EP047|A Chansey Operation]]'', where it was one of the injured Pokémon brought to the clinic.
+
+A Raticate appeared in ''[[EP052|Princess vs. Princess]]'', where it was seen competing in the {{DL|Princess Festival|Queen of the Princess Festival contest}}.
+
+A Raticate appeared in ''[[M01|Mewtwo Strikes Back]]''.
+
+A few Raticate were seen in ''[[EP065|Showdown at the Po-ké Corral]]'', living at [[Professor Oak's Laboratory]], along with many other Pokémon.
+
+A Raticate appeared in ''[[EP069|Lights, Camera, Quack-tion]]'', as part of the cast for the movie "{{DL|Movies in the Pokémon world|Pokémon in Love}}".
+
+A Raticate appeared in ''[[EP075|Round One - Begin!]]'', under the ownership of a Trainer competing in the [[Indigo Plateau Conference]].
+
+A Trainer's Raticate appeared in ''[[EP080|Friends to the End]]'', during the closing ceremonies of the Indigo Plateau Conference.
+
+{{OBP|Ralph|EP100}} and {{OBP|Emily|EP100}} were both shown in a flashback to have once owned one Raticate each in ''[[EP100|Wherefore Art Thou, Pokémon?]]''.
+
+A Raticate appeared in ''[[M02|The Power of One]]''.
+
+In ''[[EP136|Chikorita's Big Upset]]'', a Trainer used a Raticate to {{pkmn|battle|fight}} against [[Ash's Chikorita]].
+
+Two Raticate were among the Pokémon seen at the [[Pokémon Swap Meet]] in ''[[EP146|Tricks of the Trade]]''.
+
+A Raticate appeared in a flashback in ''[[EP185|The Light Fantastic]]''.
+
+A Raticate was one of the Pokémon living at [[Temacu's father]]'s lab in ''[[EP198|The Heartbreak of Brock]]''.
+
+A Raticate appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+In ''[[EP228|Extreme Pokémon!]]'', a Raticate appeared with its Trainer, participating in the [[Extreme Pokémon Race]].
+
+A Raticate appeared in ''[[The Legend of Thunder!]]''.
+
+Multiple Raticate appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+A Raticate appeared in ''[[M08|Lucario and the Mystery of Mew]]'', where it was one of the Pokémon living in the [[Tree of Beginning]].
+
+A Raticate appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Raticate appeared in ''[[SM003|Loading the Dex!]]'' as a silhouette that [[Rotom Pokédex]] brought up.
+
+An Alolan Raticate appeared in ''[[SM013|Racing to a Big Event!]]'', where it participated in the Pancake Race.
+
+Two Alolan Raticate appeared in ''[[SM015|Rocking Clawmark Hill!]]'', as some of the Pokémon training up on [[Clawmark Hill]].
+
+A Trainer's Alolan Raticate appeared in ''[[SM040|Balloons, Brionne, and Belligerence!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Alola}}
+{{Animedexbody|SM009|Rattata and Raticate|Rotom Pokédex|{{p|Rattata}} and its evolved form, Raticate. The Mouse Pokémon. A {{t|Dark}} and {{t|Normal}} type. When they band together, they steal food from people's homes. Long ago, they came here to the Alolan islands aboard cargo ships, and eventually grew into the Pokémon we see today. The numbers of Rattata and Raticate eventually grew so large that {{p|Yungoos}} and {{p|Gumshoos}} were brought in from a different [[region]] to chase them off.}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+
+[[File:Raticate Mankey PO.png|thumb|left|220px|Raticate in [[Pokémon Origins]]]]
+[[File:Team Rocket Raticate PG.png|thumb|220px|Raticate in [[Pokémon Generations]]]]
+
+===In Pokémon Origins===
+A Raticate appeared in a flashback in ''[[PO02|File 2: Cubone]]''.
+
+===In Pokémon Generations===
+A Raticate made an appearance in ''[[PG04|The Lake of Rage]]'', under the ownership of a {{tc|Team Rocket Grunt}}. Along with {{p|Grimer}}, {{p|Magnemite}}, {{p|Golbat}}, and {{p|Houndoom}}, it was defeated by [[Lance's Dragonite]].
+{{-}}
+
+==In the manga==
+[[File:Ratty.png|thumb|200px|Raticate in [[Pokémon Adventures]]]]
+===In the movie adaptations===
+Two Alolan Raticate appeared in [[Get Fired Up, Marshadow!]], with one appearing as a silhouette.
+
+===In the Pokémon Adventures manga===
+{{main|Ratty}}
+A {{p|Rattata}} was {{adv|Yellow}}'s first Pokémon that first premiered in ''[[PS036|Drat That Dratini!]]''. He later [[Evolution|evolved]] into a Raticate in ''[[PS053|Can't Catch Caterpie!]]''.
+
+Another Raticate appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+==In the TCG==
+{{main|Raticate (TCG)}}
+
+==In the TFG==
+One Raticate figure has been released.
+* {{TFG|Groundbreakers}}: {{TFG ID|Groundbreakers|Raticate|27}}
+
+==Game data==
+===Pokédex entries===
+====Raticate====
+{{Dex/Header|type=Normal}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.}}
+{{Dex/Entry1|v=Yellow|entry=Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=If attacked, it stands up on its hind legs, bares its fangs and shrieks in an intimidating manner at its enemy.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.}}
+{{Dex/Entry1|v=Silver|entry=Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.}}
+{{Dex/Entry1|v=Crystal|entry=The webs on its hind legs enable it to cross rivers. It searches wide areas for food.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.}}
+{{Dex/Entry1|v=FireRed|entry=Its rear feet have three toes each. They are webbed, enabling it to swim across rivers.}}
+{{Dex/Entry1|v=LeafGreen|entry=It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.}}
+{{Dex/Entry1|v=HeartGold|entry=Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=With its long fangs, this surprisingly violent Pokémon can gnaw away even thick concrete with ease.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.}}
+{{Dex/Entry1|v=Y|entry=The webs on its hind legs enable it to cross rivers. It searches wide areas for food.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Raticate’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Its hind feet are webbed, so it's a strong swimmer. It can cross rivers and sometimes even oceans.}}
+{{Dex/Entry1|v=Moon|entry=Its disposition is far more violent than its looks would suggest. Don't let your hand get too close to its face, as it could bite your hand clean off.}}
+{{Dex/Entry1|v=Ultra Sun|entry=People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Alolan Raticate====
+{{Dex/Header|type=Dark|type2=Normal}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It forms a group of Rattata, which it assumes command of. Each group has its own territory, and disputes over food happen often.}}
+{{Dex/Entry1|v=Moon|entry=This gourmet Pokémon is particular about the taste and freshness of its food. Restaurants where Raticate live have a good reputation.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It has an incredibly greedy personality. Its nest is filled with so much food gathered by Rattata at its direction, it can't possibly eat it all.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It commands a nest of Rattata. Different nests don't get along, whipping up severe fights over feeding grounds.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Route]]s {{rtn|16|Kanto}}, {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, and {{rtn|21|Kanto}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|16|Kanto}}, {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, and {{rtn|21|Kanto}}, [[Cerulean Cave]]}}
+{{Availability/Entry1|v=Yellow|area=[[Route]]s {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|11|Kanto}}, {{rtn|16|Kanto}}, {{rtn|18|Kanto}}, and {{rtn|21|Kanto}}, {{ka|Pokémon Mansion}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|7|Kanto}}, {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}, [[Mt. Mortar]], [[Union Cave]], [[Tohjo Falls]], [[Burned Tower]]}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|1|Kanto}}, {{rtn|3|Kanto}}, {{rtn|4|Kanto}}, {{rtn|6|Kanto}}, {{rtn|7|Kanto}}, {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|11|Kanto}}, {{rtn|21|Kanto}}, {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|38|Johto}}, {{rtn|39|Johto}}, {{rtn|42|Johto}}, and {{rtn|43|Johto}}, [[Mt. Mortar]], [[Union Cave]], [[Tohjo Falls]], [[Burned Tower]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|2|area=[[Route]]s {{rtn|16|Kanto}}, {{rtn|17|Kanto}}, and {{rtn|18|Kanto}}, {{ka|Pokémon Mansion}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Citadark Isle]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|225|Sinnoh}} and {{rtn|226|Sinnoh}}}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|225|Sinnoh}} and {{rtn|226|Sinnoh}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|7|Kanto}}, {{rtn|9|Kanto}}, {{rtn|10|Kanto}}, {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|38|Johto}}, {{rtn|39|Johto}}, and {{rtn|47|Johto}}, [[Mt. Mortar]], [[Union Cave]], [[Burned Tower]], [[Tohjo Falls]], {{safari|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Dreamyard]] ({{DL|Tall grass|dark grass}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Dreamyard]], [[Strange House]], and [[Relic Passage]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y|area=[[Trade]]}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{rt|118|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|10|Alola}}, {{rtn|11|Alola}}, {{rtn|15|Alola}}, {{rtn|16|Alola}}, {{rtn|17|Alola}}, [[Akala Outskirts]], [[Ancient Poni Path]], [[Malie City]], [[Poni Gauntlet]], [[Poni Grove]], [[Poni Plains]], [[Poni Wilds]], [[Tapu Village]]{{sup/t|N}}}}
+{{Availability/Entry1|v=Ultra Sun|area=[[Route]]s {{rtn|10|Alola}}, {{rtn|15|Alola}}, {{rtn|16|Alola}}, {{rtn|17|Alola}}, [[Akala Outskirts]], [[Tapu Village]], [[Mount Lanakila]], [[Poni Plains]]{{Sup/t|N}}<br/>{{rt|8|Alola}}{{Sup/t|N}} ([[SOS Battle]])}}
+{{Availability/Entry1|v=Ultra Moon|area=[[Route]]s {{rtn|10|Alola}}, {{rtn|15|Alola}}, {{rtn|16|Alola}}, {{rtn|17|Alola}}, [[Akala Outskirts]], [[Tapu Village]], [[Mount Lanakila]], [[Poni Plains]]{{Sup/t|N}}<br/>{{rt|8|Alola}}{{Sup/t|N}} ([[SOS Battle]])<br/>[[List of in-game event Pokémon in Generation VII|Received]] from [[Samson Oak]] at [[Heahea Beach]]{{tt|*|Requires 20 Totem Stickers}} ([[Totem Pokémon|Totem]]-sized)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Rattata}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 16, Endless Level 42, Forever Level 1, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Rattata}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Waterworks]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (B1-B13), [[Mystery Jungle]] (B1-B29), [[Midnight Forest]] (B1-B21)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] (B1-B13), [[Mystery Jungle]] (B1-B29), [[Midnight Forest]] (B1-B21)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Pueltown]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie‎]] <small>(Normal Mode C & A)</small>}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Trailhead Field]] (post-ending), [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#In Trouble? Tap Away!|Jungle Area: In Trouble? Tap Away!]], [[Chill Battle#The Forest of Memories|Chill Battle: The Forest of Memories]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Monday Stage 2|Safari Jungle: Stage 2]]{{dotw|Mo}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 281]]<br>Event: [[Special Stages#17th release|''Pokémon Safari'']] <small>(17th release; Alola Form)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Rock Chasm|Diamond Crater: Rock Chasm]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 25|Area 25: Stage 01]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+====Raticate====
+{{HeldItems
+|type=Normal
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1rar=100|rby1image=no
+|frlg1=Oran Berry|frlg1type=Berry|frlg1rar=50
+|frlg2=Sitrus Berry|frlg2type=Berry|frlg2rar=5
+|dppt1=Chilan Berry|dppt1type=Berry|dppt1rar=5
+|hgss1=Chilan Berry|hgss1type=Berry|hgss1rar=5
+|bw1=Chilan Berry|bw1type=Berry|bw1rar=5
+}}
+
+====Alolan Raticate====
+{{HeldItems
+|type=Dark|type2=Normal
+|sm1=Pecha Berry|sm1type=Berry|sm1rar=5
+|usum1=Pecha Berry|usum1type=Berry|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+=====Raticate=====
+{{Stats
+|type=Normal
+|HP=55
+|Attack=81
+|Defense=60
+|SpAtk=50
+|SpDef=70
+|Special=50
+|Speed=97}}
+
+=====Alolan Raticate=====
+{{Stats
+|type=Dark
+|type2=Normal
+|HP=75
+|Attack=71
+|Defense=70
+|SpAtk=40
+|SpDef=80
+|Speed=77}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=4
+|SpeedMax=5
+|Power=3
+|PowerMax=4
+|Technique=3
+|TechniqueMax=3
+|Stamina=2
+|StaminaMax=3
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+====Raticate====
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+====Alolan Raticate====
+{{TypeEffectiveness
+|type1=Dark
+|type2=Normal
+|Normal=100
+|Fighting=400
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1
+|normal=yes
+|newghost=½
+|thickfat=maybe
+|newfire=½
+|newice=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Raticate|Normal|Normal|1}}
+{{learnlist/level7|1|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level7|1|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level7|1|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Scary Face|Normal|Status|—|100|10}}
+{{learnlist/level7|4|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level7|7|Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/level7|10|Bite|Dark|Physical|60|100|25||''}}
+{{learnlist/level7|13|Pursuit|Dark|Physical|40|100|20||''}}
+{{learnlist/level7|16|Hyper Fang|Normal|Physical|80|90|15||'''}}
+{{learnlist/level7|19|Assurance|Dark|Physical|60|100|10||''}}
+{{learnlist/level7|24|Crunch|Dark|Physical|80|100|15||''}}
+{{learnlist/level7|29|Sucker Punch|Dark|Physical|70|100|5||''}}
+{{learnlist/level7|34|Super Fang|Normal|Physical|—|90|10}}
+{{learnlist/level7|39|Double-Edge|Normal|Physical|120|100|15||'''}}
+{{learnlist/level7|44|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/levelf/7|Raticate|Normal|Normal|1|form=yes}}
+
+====By [[TM]]/[[HM]]====
+=====Raticate=====
+{{learnlist/tmh/7|Raticate|Normal|Normal|1}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Raticate|Normal|Normal|1}}
+
+=====Alolan Raticate=====
+{{learnlist/tmh/7|Raticate|Dark|Normal|7}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|—|—|20}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Raticate|Dark|Normal|7}}
+
+====By {{pkmn|breeding}}====
+=====Raticate=====
+{{learnlist/breedh/7|Raticate|Normal|Normal|2}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|023|Ekans}}{{MSP|024|Arbok}}<br>{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|058|Growlithe}}{{MSP|059|Arcanine}}<br>{{MSP|133|Eevee}}{{MSP|136|Flareon}}{{MSP|471|Glaceon}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|228|Houndour}}<br>{{MSP|229|Houndoom}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|303|Mawile}}<br>{{MSP|309|Electrike}}{{MSP|310|Manectric}}{{MSP|336|Seviper}}{{MSP|359|Absol}}{{MSP|403|Shinx}}{{MSP|404|Luxio}}<br>{{MSP|405|Luxray}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|506|Lillipup}}<br>{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|511|Pansage}}{{MSP|513|Pansear}}{{MSP|515|Panpour}}{{MSP|551|Sandile}}<br>{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|676|Furfrou}}<br>{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|744|Rockruff}}<br>{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Bite|Dark|Physical|60|100|25}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|057|Primeape}}|Final Gambit|Fighting|Special|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|077|Ponyta}}{{MSP|078|Rapidash}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}<br>{{MSP|324|Torkoal}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}|Flame Wheel|Fire|Physical|60|100|25}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}<br>{{MSP|053A|Persian}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|161|Sentret}}<br>{{MSP|162|Furret}}{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|216|Teddiursa}}<br>{{MSP|217|Ursaring}}{{MSP|264|Linoone}}{{MSP|288|Vigoroth}}{{MSP|352|Kecleon}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}<br>{{MSP|392|Infernape}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|509|Purrloin}}<br>{{MSP|510|Liepard}}{{MSP|511|Pansage}}{{MSP|512|Simisage}}{{MSP|513|Pansear}}{{MSP|514|Simisear}}{{MSP|515|Panpour}}<br>{{MSP|516|Simipour}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}{{MSP|570|Zorua}}{{MSP|571|Zoroark}}{{MSP|613|Cubchoo}}<br>{{MSP|614|Beartic}}{{MSP|631|Heatmor}}{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}|Fury Swipes|Normal|Physical|18|80|15||'''}}
+{{learnlist/breed7|{{MSP|133|Eevee}}{{MSP|134|Vaporeon}}{{MSP|135|Jolteon}}{{MSP|136|Flareon}}{{MSP|196|Espeon}}{{MSP|197|Umbreon}}<br>{{MSP|470|Leafeon}}{{MSP|471|Glaceon}}{{MSP|700|Sylveon}}{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|231|Phanpy}}<br>{{MSP|417|Pachirisu}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|572|Minccino}}|Last Resort|Normal|Physical|140|100|5||'''}}
+{{learnlist/breed7|{{MSP|055|Golduck}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|234|Stantler}}{{MSP|359|Absol}}{{MSP|448|Lucario}}|Me First|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|461|Weavile}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|626|Bouffalant}}|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|288|Vigoroth}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|626|Bouffalant}}{{MSP|745Mn|Lycanroc}}{{MSP|766|Passimian}}|Reversal|Fighting|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|190|Aipom}}{{MSP|424|Ambipom}}<br>{{MSP|197|Umbreon}}{{MSP|206|Dunsparce}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}<br>{{MSP|295|Exploud}}{{MSP|336|Seviper}}{{MSP|352|Kecleon}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/breed7|{{MSP|288|Vigoroth}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|327|Spinda}}{{MSP|554|Darumaka}}|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/breedf/7|Raticate|Normal|Normal|2}}
+
+=====Alolan Raticate=====
+{{learnlist/breedh/7|Raticate|Dark|Normal|7}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|057|Primeape}}|Final Gambit|Fighting|Special|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}<br>{{MSP|053A|Persian}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|161|Sentret}}<br>{{MSP|162|Furret}}{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|216|Teddiursa}}<br>{{MSP|217|Ursaring}}{{MSP|264|Linoone}}{{MSP|288|Vigoroth}}{{MSP|352|Kecleon}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}<br>{{MSP|392|Infernape}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|509|Purrloin}}<br>{{MSP|510|Liepard}}{{MSP|511|Pansage}}{{MSP|512|Simisage}}{{MSP|513|Pansear}}{{MSP|514|Simisear}}{{MSP|515|Panpour}}<br>{{MSP|516|Simipour}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}{{MSP|570|Zorua}}{{MSP|571|Zoroark}}{{MSP|613|Cubchoo}}<br>{{MSP|614|Beartic}}{{MSP|631|Heatmor}}{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}|Fury Swipes|Normal|Physical|18|80|15||'''}}
+{{learnlist/breed7|{{MSP|055|Golduck}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|234|Stantler}}{{MSP|359|Absol}}{{MSP|448|Lucario}}|Me First|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|461|Weavile}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|626|Bouffalant}}|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|288|Vigoroth}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|626|Bouffalant}}{{MSP|745Mn|Lycanroc}}{{MSP|766|Passimian}}|Reversal|Fighting|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|631|Heatmor}}|Snatch|Dark|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|303|Mawile}}{{MSP|631|Heatmor}}{{MSP|775|Komala}}|Stockpile|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|303|Mawile}}{{MSP|631|Heatmor}}{{MSP|775|Komala}}|Swallow|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|264|Linoone}}{{MSP|655|Delphox}}|Switcheroo|Dark|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|288|Vigoroth}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|327|Spinda}}{{MSP|554|Darumaka}}|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/breedf/7|Raticate|Dark|Normal|7}}
+
+====By [[Move Tutor|tutoring]]====
+=====Raticate=====
+{{learnlist/tutorh/7|Raticate|Normal|Normal|2}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Raticate|Normal|Normal|2}}
+{{-}}
+
+=====Alolan Raticate=====
+{{learnlist/tutorh/7|Raticate|Dark|Normal|7}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||'''|no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Raticate|Dark|Normal|7}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Raticate|Normal|Normal|1}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Raticate|Normal|Normal|1|form=yes}}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{normal color light}}; border: 3px solid #{{normal color}}"
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Jump Kick}}
+| style="background:#fff" | {{typecolor|Fighting}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[EP015|Battle Aboard the St.Anne]]''
+|}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg colorless color light}}; border: 3px solid #{{tcg colorless color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Scratch}}
+| style="background:#fff; {{roundybr|5px}}" | [[Raticate (Skyridge 89)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/Pinball|col=3|type=Normal|ndex=020|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=020|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=020
+|body=1
+|rate=Evolve
+|area=Wild Plains
+|P1=I'll gnaw and gnaw until the foe goes down!
+|P2=I'm hurting... My health is cut in half...
+|P3=I can't keep this going...
+|PL=I leveled! I'll gnaw and gnaw some more!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=020
+|body=1
+|rate=-4.5
+|IQ=F
+}}
+|-
+{{Spindata/Ranger|col=6|type=Normal
+|group=Normal
+|assist=None
+|fieldpower=2
+|field=Cut
+|loop=5
+|MinEXP=25
+|MaxEXP=30
+|browser=Raticate chomps with its sharp fangs. These fangs can rip apart a Metal Fence.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Normal
+|group=Normal
+|assist=Normal
+|field=Cut
+|fieldpower=2
+|browser=It attacks by chomping with its powerful front teeth.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Normal
+|att=3
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Normal
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Normal|ndex=020
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Normal|ndex=020|num=380
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Counterattack
+|skilldesc=Deals even more damage the more disruptions there are.
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=020A|stype=Dark|num=380
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Barrier Bash+
+|skilldesc=Sometimes removes three barrier-type disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=020
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=110
+|attack=161
+|defense=144
+|fast={{m|Bite}}, {{m|Quick Attack}}
+|special={{m|Dig}}, {{m|Hyper Fang}}, {{m|Hyper Beam}}
+}}
+|}
+
+===Evolution===
+====Raticate====
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=019
+|name1=Rattata
+|type1-1=Normal
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 20}}
+|no2=020
+|name2=Raticate
+|type1-2=Normal}}
+
+====Alolan Raticate====
+{{Evobox-2
+|type1=Dark
+|type2=Normal
+|pictype=sprite
+|no1=019Rattata-Alola
+|name1=Rattata
+|type1-1=Dark
+|type2-1=Normal
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 20}}<br><small>at {{color2|000|Time|night}}</small>
+|no2=020Raticate-Alola
+|name2=Raticate
+|type1-2=Dark
+|type2-2=Normal
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/1|ndex=020}}
+{{Spritebox/2|ndex=020}}
+{{Spritebox/3|ndex=020}}
+{{Spritebox/4/Gender|ndex=020}}
+{{Spritebox/5/Gender|ndex=020}}
+{{Spritebox/6/Gender|ndex=020}}
+{{Spritebox/7/2FormsGender|ndex=020|form1=A}}
+{{Spritebox/Footer|020|Raticate}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Alolan Raticate and its Alolan {{p|Rattata|pre-evolution}}.
+** They are also the only Normal-type Pokémon with a double weakness.
+* Raticate's [[catch rate]] was 90 in [[Generation I]] and {{Gen|II}}, but this was changed to 127 in [[Generation III]].
+* Raticate is the only Pokémon that shares its [[National Pokédex]] number with the level at which it evolves from its pre-evolution.
+* Raticate and its {{p|Rattata|pre-evolution}} share their {{pkmn|category}} with {{p|Pikachu}}, {{p|Raichu}}, {{p|Sandshrew}}, and {{p|Sandslash}}. They are all known as the Mouse Pokémon.
+** They all have at least one family member with a [[regional variant]] in Alola.
+
+===Origin===
+Raticate most resembles a {{wp|muskrat}}, a semi-aquatic rodent, due to the large teeth, whiskers, fur, and body shape. Its scruffy ears look like those of a {{wp|guinea pig}}. Its webbed feet may be inspired by the {{wp|coypu}}, a South American rodent.
+
+Alolan Raticate may be based off the {{wp|Polynesian rat}}.
+
+====Name origin====
+Raticate seems to be a combination of ''{{wp|rat}}'' and ''eradicate'' (to destroy or exterminate) or ''masticate'' (to chew), relating to its mouth and teeth.
+
+Ratta is likely derived from ''rat''.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ラッタ ''Ratta''|jameaning=From {{tt|ラット ''ratto''|rat}}
+|fr=Rattatac|frmeaning=From ''rat'' and ''{{tt|attaque|attack}}''
+|es=Raticate|esmeaning=Same as English name
+|de=Rattikarl|demeaning=From ''{{tt|Ratte|rat}}'' and ''{{tt|radikal|radical}}''
+|it=Raticate|itmeaning=Same as English name
+|ko=레트라 ''Retra''|komeaning=From ''rat'' and ''ultra''.
+|zh_yue=哥達 ''Gōdaaht''|zh_yuemeaning=Same as its {{p|Rattata|pre-evolved form's}} name with 'little' (小) removed
+|zh_cmn=拉達 / 拉达 ''Lādá''|zh_cmnmeaning=Transliteration of Japanese name
+|lt=Ratikeitas|ltmeaning=From English name
+|ru=Ратикейт ''Ratikeyt''|rumeaning=Transcription of English name
+|hi=रेतीकेट ''Raticate''|himeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Raticate]]
+* [[Ratty]]
+
+==Notes==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=019|prev=Rattata|nextnum=021|next=Spearow|round=yes}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Black-colored Pokémon]]<!--Alolan Raticate-->
+
+[[de:Rattikarl]]
+[[fr:Rattatac]]
+[[it:Raticate]]
+[[ja:ラッタ]]
+[[pl:Raticate]]
+[[zh:拉达]]

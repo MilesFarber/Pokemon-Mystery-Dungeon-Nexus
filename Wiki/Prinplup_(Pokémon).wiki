@@ -1,0 +1,438 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=393|prev=Piplup|nextnum=395|next=Empoleon|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Prinplup}}
+|}
+{{Pokémon Infobox
+|name=Prinplup
+|jname=ポッタイシ
+|tmname=Pottaishi
+|ndex=394
+|sdex=008
+|abrow=207
+|obrow=084
+|opbrow=002
+|typebox=1
+|type1=Water
+|category=Penguin
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=50.7
+|weight-kg=23.0
+|abilityn=d
+|ability1=Torrent
+|abilityd=Defiant
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Field
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=142
+|oldexp=143
+|lv100exp=1,059,860
+|gendercode=31
+|color=Blue
+|catchrate=45
+|body=06
+|pokefordex=prinplup
+|generation=4
+|friendship=70
+}}
+'''Prinplup''' ([[List of Japanese Pokémon names|Japanese]]: '''ポッタイシ''' ''Pottaishi'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Piplup}} starting at [[level]] 16 and evolves into {{p|Empoleon}} starting at level 36.
+
+==Biology==
+Prinplup is a blue, penguin-like Pokémon. It is mostly dark blue with light blue facial markings, wing tips, and lower body. Its eyes are blue and it has a short yellow beak with a small point above it. Two large, yellow ridges extend from its beak over the back of its head and meet just above the nape of its neck. On its body are four large, white spots that resemble buttons. Instead of arms, it has long, flipper-like wings that are capable of knocking over and snapping trees. It has short legs with yellow, three-toed feet. Prinplup has a high sense of self-pride, which prevents it from forming groups of its own kind. This Pokémon can be found in icy waters, where it hunts for prey.
+
+==In the anime==
+[[File:Kenny Prinplup.png|thumb|250px|left|Prinplup in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Kenny's Prinplup]]====
+A Prinplup appeared in ''[[DP026|Getting the Pre-Contest Titters]]'' [[Kenny's Empoleon|under the ownership of]] {{si|Kenny}}. In [[DP027|the following episode]], it battled against [[Dawn's Piplup]]. It was later revealed to have evolved by the time of the [[Sinnoh Grand Festival]] in ''[[DP174|Last Call — First Round!]]''.
+
+====Other====
+In ''[[DP004|Dawn Of A New Era!]]'', three young {{pkmn|Trainer}}s stopped by with their [[starter Pokémon]]. However, the girl that was in this group had a Prinplup.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP004|Prinplup|Dawn's Pokédex|Prinplup, the Penguin Pokémon, and the evolved form of Piplup. A strike of its wings can be harmful as it searches the oceans for prey.}}
+{{Animedexbody|DP026|Prinplup|Ash's Pokédex|Prinplup, the Penguin Pokémon, and the evolved form of Piplup. One blow from its wings is strong enough to knock down trees.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Platinum Prinplup Adventures.png|thumb|200px|Prinplup in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Platinum's Prinplup}}
+{{adv|Platinum}} had a Prinplup after her {{p|Piplup}} evolved in [[Eterna City]] in ''[[PS346|Ring Around the Roserade I]]''. She has since evolved into an Empoleon.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+{{main|Hareta's Prinplup}}
+Prinplup makes a brief appearance after [[Hareta's Piplup]] evolves after its [[Everstone]] is removed in ''[[DPA19|(Violent) Earthquake! Cyrus's Consuming Ambition]]''. It then quickly evolves into {{p|Empoleon}}.
+
+==In the TCG==
+{{main|Prinplup (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It lives alone, away from others. Apparently, every one of them believes it is the most important.}}
+{{Dex/Entry1|v=Pearl|entry=Its wings deliver wicked blows that snap even the thickest of trees. It searches for prey in icy seas.}}
+{{Dex/Entry1|v=Platinum|entry=Because every Prinplup considers itself to be the most important, they can never form a group.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Because every Prinplup considers itself to be the most important, they can never form a group.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Because every Prinplup considers itself to be the most important, they can never form a group.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It lives alone, away from others. Apparently, every one of them believes it is the most important.}}
+{{Dex/Entry1|v=Y|entry=It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=It lives alone, away from others. Apparently, every one of them believes it is the most important.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Piplup}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Piplup}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Evolution|Evolve]] [[List of Pokémon Global Link promotions/Pokémon#Piplup|Global Link event]] {{p|Piplup}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Evolution|Evolve]] [[List of Pokémon Global Link promotions/Pokémon#Piplup|Global Link event]] {{p|Piplup}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Piplup}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|16|Alola}} ({{DL|QR Scanner|Island Scan}}){{dotw|Tu}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Crevice Cave]] (B1-B10, Lower Crevice Cave B2-B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Crevice Cave]] (B1-B10, Lower Crevice Cave B2-B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Hia Valley]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]]}}
+{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=[[Evolution|Evolve]] {{p|Piplup}}}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Iceberg Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Mt. Sorbet]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Fontaine]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Dream Gate#Wet and Wild Battle|Dream Gate: Wet and Wild Battle]], [[Variety Battle#Empoleon the Great|Variety Battle: Empoleon the Great]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 1|Mysterious Fountain: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Zaffiro Coast|Zaffiro Coast: Stage 637]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dewdrop Bay#Quiet Inlet|Dewdrop Bay: Quiet Inlet]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|HP=     64
+|Attack= 66
+|Defense=68
+|SpAtk=  81
+|SpDef=  76
+|Speed=  50}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=5
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   200
+|Electric=200
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Prinplup|Water|Water|4}}
+{{learnlist/level7|1|Metal Claw|Steel|Physical|50|95|35||''}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Metal Claw|Steel|Physical|50|95|35||''}}
+{{learnlist/level7|4|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|8|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/level7|11|Water Sport|Water|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|15|Peck|Flying|Physical|35|100|35}}
+{{learnlist/level7|19|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level7|24|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|28|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/level7|33|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/level7|37|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/level7|42|Mist|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|46|Drill Peck|Flying|Physical|80|100|20}}
+{{learnlist/level7|50|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/7|Prinplup|Water|Water|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Prinplup|Water|Water|4}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Prinplup|Water|Water|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Prinplup|Water|Water|4}}
+{{learnlist/breed7|{{MSP|025|Pikachu}}{{MSP|058|Growlithe}}{{MSP|077|Ponyta}}{{MSP|078|Rapidash}}{{MSP|083|Farfetch'd}}{{MSP|116|Horsea}}<br>{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|135|Jolteon}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}<br>{{MSP|160|Feraligatr}}{{MSP|162|Furret}}{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|203|Girafarig}}{{MSP|215|Sneasel}}<br>{{MSP|226|Mantine}}{{MSP|278|Wingull}}{{MSP|283|Surskit}}{{MSP|368|Gorebyss}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}<br>{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|570|Zorua}}{{MSP|571|Zoroark}}<br>{{MSP|587|Emolga}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|134|Vaporeon}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|222|Corsola}}<br>{{MSP|226|Mantine}}{{MSP|350|Milotic}}{{MSP|368|Gorebyss}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}<br>{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Aqua Ring|Water|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|027A|Sandshrew}}{{MSP|258|Mudkip}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|273|Seedot}}{{MSP|393|Piplup}}<br>{{MSP|394|Prinplup}}{{MSP|417|Pachirisu}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}<br>{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|618|Stunfisk}}{{MSP|771|Pyukumuku}}|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|203|Girafarig}}{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}{{MSP|418|Buizel}}<br>{{MSP|419|Floatzel}}{{MSP|473|Mamoswine}}|Double Hit|Normal|Physical|35|90|10}}
+{{learnlist/breed7|{{MSP|580|Ducklett}}{{MSP|581|Swanna}}|Feather Dance|Flying|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|222|Corsola}}<br>{{MSP|231|Phanpy}}{{MSP|263|Zigzagoon}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|324|Torkoal}}{{MSP|327|Spinda}}<br>{{MSP|349|Feebas}}{{MSP|369|Relicanth}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|613|Cubchoo}}<br>{{MSP|614|Beartic}}{{MSP|618|Stunfisk}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}<br>{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|775|Komala}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|060|Poliwag}}<br>{{MSP|061|Poliwhirl}}{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|131|Lapras}}{{MSP|138|Omanyte}}<br>{{MSP|139|Omastar}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}<br>{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|226|Mantine}}{{MSP|258|Mudkip}}{{MSP|271|Lombre}}{{MSP|279|Pelipper}}<br>{{MSP|350|Milotic}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}{{MSP|369|Relicanth}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}<br>{{MSP|395|Empoleon}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}<br>{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|594|Alomomola}}{{MSP|656|Froakie}}{{MSP|657|Frogadier}}{{MSP|658|Greninja}}<br>{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/breed7|{{MSP|037A|Vulpix}}{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|215|Sneasel}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}<br>{{MSP|461|Weavile}}{{MSP|471|Glaceon}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}<br>{{MSP|730|Primarina}}|Icy Wind|Ice|Special|55|95|15}}
+{{learnlist/breed7|{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}<br>{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|258|Mudkip}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|422|Shellos}}<br>{{MSP|423|Gastrodon}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}<br>{{MSP|618|Stunfisk}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|258|Mudkip}}{{MSP|263|Zigzagoon}}<br>{{MSP|264|Linoone}}{{MSP|369|Relicanth}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}{{MSP|473|Mamoswine}}{{MSP|529|Drilbur}}<br>{{MSP|530|Excadrill}}{{MSP|618|Stunfisk}}{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}{{MSP|771|Pyukumuku}}|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|553|Krookodile}}|Power Trip|Dark|Physical|20|100|10|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|325|Spoink}}{{MSP|326|Grumpig}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|702|Dedenne}}|Snore|Normal|Special|50|100|15}}
+{{learnlist/breed7|{{MSP|226|Mantine}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}<br>{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}|Supersonic|Normal|Status|&mdash;|55|20}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|206|Dunsparce}}<br>{{MSP|230|Kingdra}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|322|Numel}}<br>{{MSP|323|Camerupt}}{{MSP|369|Relicanth}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}<br>{{MSP|513|Pansear}}{{MSP|517|Munna}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|775|Komala}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Prinplup|Water|Water|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Prinplup|Water|Water|4}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Water Pledge|Water|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Prinplup|Water|Water|4}}
+
+====Special moves====
+{{learnlist/eventh/7|Prinplup|Water|Water|4}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|USUM}}|Power Trip|Dark|Physical|20|100|10}}
+{{learnlist/eventf/7|Prinplup|Water|Water|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Prinplup|Water|Water|4}}
+{{learnlist/prevo7|393|Piplup|||||Pound|Normal|Physical|40|100|35}}
+{{learnlist/prevof/7|Prinplup|Water|Water|4}}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/MDTDS|col=6|type=Water|ndex=394
+|body=1
+|rate=-10
+|IQ=F
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Cut
+|fieldpower=2
+|browser=It hurls blobs of water. It also attacks by ramming.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Cut
+|fieldpower=2
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=2
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Water|ndex=394
+|Pad=Prinplup guards the Chairlift in the [[Iceberg Zone]]. His favorite Attractions are {{DL|Attractions|Gyarados's Aqua Dash}} and {{DL|Attractions|Empoleon's Snow Slide}}.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Water|ndex=394
+|HP=3
+|atk=2
+|def=3
+|spd=2
+|range=3
+|move=BubbleBeam
+|ability1=Torrent
+|ability2=Wave Rider
+|ability3=Pride
+|evo=Evolves from {{p|Piplup}} when its Attack is 51 or higher<br>Evolves into {{p|Empoleon}} when its Attack is 102 or higher |
+|link={{DL|List of Pokémon Conquest characters|Gō}} and '''[[Ina]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=394
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=394|num=363
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Three Force
+|skilldesc=Increases damage when you make a match of three.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Water
+|pictype=art
+|no1=393
+|name1=Piplup
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 16}}
+|no2=394
+|name2=Prinplup
+|type1-2=Water
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no3=395
+|name3=Empoleon
+|type1-3=Water
+|type2-3=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=394}}
+{{Spritebox/5|ndex=394}}
+{{Spritebox/6|ndex=394}}
+{{Spritebox/7|ndex=394}}
+{{Spritebox/Footer|394|Prinplup}}
+
+====Other sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{water color dark}}; background: #{{water color}};"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{water color dark}}; background: #{{water color light}}; width:160px"| [[File:Spr 4p Prinplup intro.png]]
+|-
+| Platinum intro's sprite
+|}
+
+==Trivia==
+===Origin===
+Prinplup is based on a {{wp|penguin}}. The crests on its head suggest it may be based on a species of {{wp|crested penguin}}.
+
+====Name origin====
+Prinplup is a combination of ''prince'' and ''plup'' (sound of hitting the water).
+
+Pottaishi is a combination of ぽちゃぽちゃ ''pochapocha'' (''splashing in water'' or ''having a plump appearance'') and 皇太子 ''kōtaishi'' (crown prince).
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=ポッタイシ ''Pottaishi''|jameaning=From {{tt|ぽちゃぽちゃ ''pochapocha''|splashing in water or having a plump appearance}} and {{tt|皇太子 ''kōtaishi''|crown prince}}
+|fr=Prinplouf|frmeaning=From ''prince'' and {{tt|''plouf''|the sound of something falling into the water}}
+|es=Prinplup|esmeaning=Same as English name
+|de=Pliprin|demeaning=From ''{{tt|plip|the sound of something small hitting a water surface}}'' and {{tt|''Prinz''|prince}}
+|it=Prinplup|itmeaning=Same as English name
+|ko=팽태자 ''Pengtaiza''|komeaning=From ''penguin'' and {{tt|황태자 ''hwangtaeja''|crown prince}}
+|zh_cmn=波皇子 ''Bōhuángzǐ''|zh_cmnmeaning=From {{tt|波 ''bō''|wave}}, {{tt|皇子 ''huángzǐ''|prince}}, and {{tt|皇太子 ''huángtàizǐ''|crown prince}}
+<!--|zh_yue=皇子 ''Bōgwòhngjí''|zh_yuemeaning=Same as Mandarin name-->
+}}
+<br clear="left">
+
+==Related articles==
+* [[Kenny's Prinplup]]
+* [[Platinum's Prinplup]]
+* [[Hareta's Prinplup]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=393|prev=Piplup|nextnum=395|next=Empoleon}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Pliprin]]
+[[fr:Prinplouf]]
+[[it:Prinplup]]
+[[ja:ポッタイシ]]
+[[pl:Prinplup]]
+[[zh:波皇子]]

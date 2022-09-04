@@ -1,0 +1,522 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Flying}}
+{{PokémonPrevNext/GO|species=Yanma}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=192|prev=Sunflora|nextnum=194|next=Wooper|round=none}}
+{{PokémonPrevNext/Disambig|species=Yanma}}
+|}
+{{Pokémon Infobox
+|name=Yanma
+|jname=ヤンヤンマ
+|tmname=Yanyanma
+|ndex=193
+|jdex=101
+|sdex=183
+|u2dex=286
+|karea=Coastal
+|kdex=087
+|abrow=118
+|obrow=204
+|typebox=1
+|type1=Bug
+|type2=Flying
+|category=Clear Wing
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=83.8
+|weight-kg=38.0
+|abilityn=d
+|ability1=Speed Boost
+|ability2=Compound Eyes
+|abilityd=Frisk
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=20
+|evtotal=1
+|evsp=1
+|expyield=78
+|oldexp=147
+|lv100exp=1,000,000
+|gendercode=127
+|color=Red
+|catchrate=75
+|body=13
+|pokefordex=yanma
+|generation=2
+|friendship=70
+}}
+'''Yanma''' ([[List of Japanese Pokémon names|Japanese]]: '''ヤンヤンマ''' ''Yanyanma'') is a dual-type {{2t|Bug|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolve]]s into {{p|Yanmega}} when [[level]]ed up while knowing {{m|Ancient Power}}.
+
+==Biology==
+Yanma is a large, red dragonfly Pokémon. Compared to its long, thin abdomen, its thorax is short and wide. It has three pairs of two-toed legs and two pairs of wings with red bands on them. A bright green mask marking covers most of its face, and it has two spikes on top of its head. Its blue eyes can see all around its body allowing it to have a high evasiveness. The end of Yanma's tail has two flat extensions from the sides and two gray spikes in the center.
+
+Yanma is a skillful flier. It can make sudden stops, turn in midair and hover in place by flapping its wings at a high speed. It can also generate shock waves capable of breaking glass by flapping its wings very fast. Yanma is often found in {{DL|List of Pokémon by habitat|Forest Pokémon|wooded and swampy areas}}. It hunts insects for food, using its eyesight to spot and its flight abilities to pursue prey. Yanma is also territorial, flitting around to guard its territory.
+
+==In the anime==
+[[File:Jessie Yanma.png|thumb|left|220px|Yanma in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Jessie's Yanma]]====
+In ''[[DP080|The Thief That Keeps on Thieving!]]'', a rookie {{pkmn|Trainer}} named [[Tyler]] was about to capture a Yanma that his {{p|Piplup}} had weakened, when Team Rocket showed up and [[Jessie]] captured it instead. They sent it to {{an|Giovanni}}; however, {{TRT}} already had obtained a large number of Yanma and so Giovanni returned it to them. When Jessie used Yanma in battle, it used {{m|AncientPower}} and evolved into a Yanmega. During this time, another weakened Yanma got away. A third Yanma appeared afterwards, and Tyler finally captured that one.
+
+====Other====
+Yanma debuted in ''[[EP177|Wings n' Things]]'', under the ownership of [[Zachary Evans]]. It was carelessly breaking glass in a town.
+
+A Yanma appeared in ''[[AG014|All in a Day's Wurmple]]'', under the ownership of [[Forrester Franklin]].
+
+===Minor appearances===
+A Yanma made a cameo in ''[[PK10|Pikachu's PikaBoo]]''.
+
+A Yanma appeared in ''[[M05|Pokémon Heroes: Latios & Latias]]'' as one of the Pokémon residing in Latios and Latias' garden. Multiple Yanma also appeared in the same movie, where they flew over the [[Tour de Alto Mare]] competitors.
+
+Multiple Yanma appeared in ''[[M08|Lucario and the Mystery of Mew]]'' as some of the Pokémon living in the [[Tree of Beginning]]. Also, one appeared in the opening sequence of the movie.
+
+A Yanma appeared in ''[[AG080|That's Just Swellow]]'', where it was used in the [[Crossgate Town]] [[PokéRinger]] where it competed against a {{p|Wingull}}, {{p|Swablu}}, and {{p|Pelipper}}
+
+A group of Yanma appeared in ''[[M10|The Rise of Darkrai]]''.
+
+A Yanma appeared in ''[[DP071|Pokémon Ranger and the Kidnapped Riolu! Part One]]''.
+
+Multiple Yanma made a cameo in ''[[M12|Arceus and the Jewel of Life]]''.
+
+Multiple Yanma appeared in ''[[M13|Zoroark: Master of Illusions]]'' as some of the many local Pokémon living in [[Crown City]]. Three of them surrounded {{OBP|Zorua|M13}} in the park alongside several other Pokémon, with the intent of attacking him in retribution for what {{OBP|Zoroark|M13}} did to the city. Before a fight could break out, the Yanma, along with the other Pokémon, were calmed down by {{OBP|Celebi|M13}}.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP177|Yanma|Ash's Pokédex|Yanma, the Clear Wing Pokémon. Through the use of its two large eyes, Yanma can see in all directions at once. Yanma is capable of beating its wings at a high rate of speed, generating a {{m|Sonic Boom|powerful shockwave}} strong enough to shatter glass.}}
+{{Animedexbody|EP177|Yanma|James's book|Yanma can flap its wings fast enough to generate a shockwave capable of shattering windows.}}
+{{Animedexbody|EP177|None|po=Yanma's attacks|Ash's Pokédex|Two of Yanma's strongest attacks are the {{m|Tackle}}, {{m|Double Team}}, and the {{m|Sonic Boom}}.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP080|Yanma|Dawn's Pokédex|Yanma, the Clear Wing Pokémon. Its eyes can see a full 360 degrees around without moving its head.}}
+{{Animedexbody|DP080|Yanma|Giovanni's computer|[[Poké Ball]] contents: Yanma. Its usable moves: {{m|Wing Attack}}, {{m|Quick Attack}}, Sonic Boom, and {{m|Ancient Power}}.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+===In the Pokémon Adventures manga===
+[[File:Indigo Plateau Adventures.png|thumb|Yanma in [[Pokémon Adventures]]]]
+A Trainer's Yanma was seen in ''[[PS153|Butterfly Butterfree]]''.
+
+A trio of Yanma were accidentally let loose in ''[[PS154|Yikes, It's Yanma!]]'', causing minor chaos at the [[Indigo Plateau]] by taking an infant hostage. {{adv|Gold}} quelled them by taking advantage of their near-360-degree vision with {{DL|Gold (Adventures)|Sudobo}}'s Poké Ball, and then successfully rescued the child.
+
+A Yanma was one of the Pokémon sent to help the fight in [[Ilex Forest]] in ''[[PS179|The Last Battle XIII]]''.
+
+===In the Pokémon Gotta Catch 'Em All manga===
+[[Shu]] has a Yanma in the [[Pokémon Gotta Catch 'Em All]] manga.
+{{-}}
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS154]]|Its two big eyes can turn 360 degrees, observing the surroundings, in search of insects for food.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Yanma (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Flying}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.}}
+{{Dex/Entry1|v=Silver|entry=Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.}}
+{{Dex/Entry1|v=Crystal|entry=It can see in all directions without moving its big eyes, helping it spot attackers and food right away.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.}}
+{{Dex/Entry1|v=FireRed|entry=Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.}}
+{{Dex/Entry1|v=LeafGreen|entry=If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=Its eyes can see 360 degrees without moving its head. It won't miss prey, even those behind it.}}
+{{Dex/Entry1|v=Platinum|entry=It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.}}
+{{Dex/Entry1|v=HeartGold|entry=If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=By flapping its wings at high speed, it can fly freely through the air. Even sudden stops are no problem.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its eyes can see 360 degrees without moving its head. It won't miss prey--even those behind it.}}
+{{Dex/Entry1|v=Y|entry=If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{rt|35|Johto}}}}
+{{Availability/Entry1|v=Crystal|area={{rt|35|Johto}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Ruin Valley]]}}
+{{Availability/Entry1|v=Colosseum|area=[[Pyrite Bldg]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Great Marsh]]}}
+{{Availability/Entry1|v=Platinum|area=[[Great Marsh]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|35|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color=A2E0A3|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|14|Unova}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|3|Unova}}, [[Pinwheel Forest]] (outer)}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Windswept Sky}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|10|Kalos}} ([[Horde Encounter]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{pkmn|breeding|Breed}} {{p|Yanmega}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Springleaf Field|Back Yard]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 18, Endless Level 38, Forever Level 18, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Silent Chasm]] (1F-8F), [[Pitfall Valley]] (9F-15F), [[Remains Island]] (B9-B15)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Steam Cave]] (1F-8F, Upper Steam Cave 1F), [[Lush Prairie]] (1F-5F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Steam Cave]] (1F-8F, Upper Steam Cave 1F), [[Lush Prairie]] (1F-5F)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Union Road]]}}
+{{Availability/Entry1|v=Ranch|color={{Diamond color}}|link=My Pokémon Ranch|area=[[Hayley's trades]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area={{ra|Submarine}}, [[Sophian Road]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Everspring Valley]], [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Challenge Battle#Lord of the Bugs|Challenge Battle: Lord of the Bugs]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 5|Island of Haste: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 354]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Fragrant Tree|Silver Isles: Fragrant Tree]] <small>(All Areas)</small>, [[Plasma Tundra#Abundant Orchard|Plasma Tundra: Abundant Orchard]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Bug|type2=Flying}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Steel Wing Yanma|English|United States|5|February 22 to March 14, 2002|link=List of Gotta Catch 'Em All event Pokémon#Steel Wing Yanma}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Sweet Kiss Yanma|English|United States|5|February 28 to March 6, 2003|link=List of Gotta Catch 'Em All event Pokémon#Sweet Kiss Yanma}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Bug|type2=Flying
+|dppt1=Wide Lens|dppt1type=None|dppt1rar=5
+|ranch1=Charti Berry|ranch1type=Berry|ranch1rar=100
+|hgss1=Wide Lens|hgss1type=None|hgss1rar=5
+|bw1=Wide Lens|bw1type=None|bw1rar=5
+|b2w21=Wide Lens|b2w21type=None|b2w21rar=5
+|xy1=Wide Lens|xy1type=None|xy1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|type2=Flying
+|HP=     65
+|Attack= 65
+|Defense=45
+|SpAtk=  75
+|SpDef=  45
+|Speed=  95 }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|type2=Flying
+|Speed=3
+|SpeedMax=5
+|Power=2
+|PowerMax=2
+|Technique=1
+|TechniqueMax=1
+|Stamina=2
+|StaminaMax=3
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Flying
+|Normal=  100
+|Fighting= 25
+|Flying=  200
+|Poison=  100
+|Ground=    0
+|Rock=    400
+|Bug=      50
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    25
+|Electric=200
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|flying=ironballiv
+|newground=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Yanma|Bug|Flying|2}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|6|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|11|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|14|Sonic Boom|Normal|Special|&mdash;|90|20}}
+{{learnlist/level7|17|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|22|Supersonic|Normal|Status|&mdash;|55|20}}
+{{learnlist/level7|27|Uproar|Normal|Special|90|100|10}}
+{{learnlist/level7|30|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|33|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level7|38|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/level7|43|Wing Attack|Flying|Physical|60|100|35||'''}}
+{{learnlist/level7|46|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|49|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/level7|54|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|57|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/levelf/7|Yanma|Bug|Flying|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Yanma|Bug|Flying|2}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Yanma|Bug|Flying|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Yanma|Bug|Flying|2}}
+{{learnlist/breed7|{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|204|Pineco}}{{MSP|205|Forretress}}{{MSP|313|Volbeat}}{{MSP|543|Venipede}}<br>{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}{{MSP|588|Karrablast}}{{MSP|589|Escavalier}}{{MSP|636|Larvesta}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|214|Heracross}}{{MSP|328|Trapinch}}{{MSP|469|Yanmega}}|Feint|Normal|Physical|30|100|10}}
+{{learnlist/breed7|{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|328|Trapinch}}{{MSP|329|Vibrava}}{{MSP|330|Flygon}}{{MSP|557|Dwebble}}<br>{{MSP|558|Crustle}}|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|048|Venonat}}{{MSP|049|Venomoth}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Leech Life|Bug|Physical|80|100|10||'''}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}{{MSP|451|Skorupi}}<br>{{MSP|452|Drapion}}{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/breed7|{{MSP|214|Heracross}}{{MSP|589|Escavalier}}|Reversal|Fighting|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|015|Beedrill}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|048|Venonat}}{{MSP|049|Venomoth}}<br>{{MSP|123|Scyther}}{{MSP|212|Scizor}}{{MSP|127|Pinsir}}{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|167|Spinarak}}<br>{{MSP|168|Ariados}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}{{MSP|204|Pineco}}{{MSP|205|Forretress}}{{MSP|207|Gligar}}<br>{{MSP|472|Gliscor}}{{MSP|213|Shuckle}}{{MSP|214|Heracross}}{{MSP|267|Beautifly}}{{MSP|269|Dustox}}{{MSP|283|Surskit}}<br>{{MSP|284|Masquerain}}{{MSP|290|Nincada}}{{MSP|291|Ninjask}}{{MSP|313|Volbeat}}{{MSP|328|Trapinch}}{{MSP|329|Vibrava}}<br>{{MSP|330|Flygon}}{{MSP|402|Kricketune}}{{MSP|414|Mothim}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}{{MSP|540|Sewaddle}}<br>{{MSP|541|Swadloon}}{{MSP|542|Leavanny}}{{MSP|543|Venipede}}{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}{{MSP|557|Dwebble}}<br>{{MSP|558|Crustle}}{{MSP|588|Karrablast}}{{MSP|589|Escavalier}}{{MSP|595|Joltik}}{{MSP|596|Galvantula}}{{MSP|616|Shelmet}}<br>{{MSP|617|Accelgor}}{{MSP|632|Durant}}{{MSP|636|Larvesta}}{{MSP|637|Volcarona}}{{MSP|666|Vivillon}}|Secret Power|Normal|Physical|70|100|20|‡}}
+{{learnlist/breed7|{{MSP|048|Venonat}}{{MSP|049|Venomoth}}{{MSP|313|Volbeat}}{{MSP|595|Joltik}}{{MSP|596|Galvantula}}|Signal Beam|Bug|Special|75|100|15||'''}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|049|Venomoth}}{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|267|Beautifly}}{{MSP|269|Dustox}}<br>{{MSP|284|Masquerain}}{{MSP|414|Mothim}}{{MSP|637|Volcarona}}{{MSP|742|Cutiefly}}{{MSP|743|Ribombee}}|Silver Wind|Bug|Special|60|100|5||'''}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|267|Beautifly}}{{MSP|269|Dustox}}{{MSP|284|Masquerain}}{{MSP|637|Volcarona}}|Whirlwind|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breedf/7|Yanma|Bug|Flying|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Yanma|Bug|Flying|2}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Yanma|Bug|Flying|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Agility}}
+| [[Yanma (Legends Awakened 128)]]
+|- style="background:#fff"
+| {{m|Baton Pass}}
+| [[Yanma (Supreme Victors SH9)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Flying}}
+{{Spindata/Trozei|col=6|type=Bug|ndex=193|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=193
+|body=1
+|rate=7.4
+|area=Mist-Rise Forest
+|P1=Front, sides, and to the back--there's nothing my eyes don't see.
+|P2=Urf... My health is reduced to half.
+|P3=I'm crashing down... My wings are barely moving...
+|PL=There! My level's gone up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=193
+|body=1
+|rate=8.2
+|IQ=D
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Bug
+|group=Flying
+|assist=Flying
+|field=Cut
+|fieldpower=2
+|browser=It flits around while launching supersonic waves and shock waves.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Bug
+|group=Bug
+|assist=Bug
+|field=Cut
+|fieldpower=2
+|past=NA
+|browser=It flings gooey blobs that make Pokémon Slowed.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=3
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=193
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=193|num=506
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Hitting Streak
+|skilldesc=Increases damage when it is triggered in a row.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=193
+|egg=5
+|buddy=3
+|evolution=N/A
+|stamina=130
+|attack=154
+|defense=94
+|fast={{m|Quick Attack}}, {{m|Wing Attack}}
+|special={{m|Ancient Power}}, {{m|Aerial Ace}}, {{m|Silver Wind}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Bug
+|type2=Flying
+|pictype=art
+|no1=193
+|name1=Yanma
+|type1-1=Bug
+|type2-1=Flying
+|evo1={{bag|TM Rock VI}}<br>{{color2|000|Level|Level up}}<br>knowing {{color2|000|Ancient Power (move)|Ancient Power}}
+|no2=469
+|name2=Yanmega
+|type1-2=Bug
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Flying}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=193}}
+{{Spritebox/3|ndex=193}}
+{{Spritebox/4|ndex=193}}
+{{Spritebox/5|ndex=193}}
+{{Spritebox/6|ndex=193}}
+{{Spritebox/7|ndex=193}}
+{{Spritebox/Footer|193|Yanma}}
+
+==Trivia==
+* Yanma weighs exactly the same as {{ga|Lucas}}. It shares this characteristic with {{p|Sudowoodo}}, {{p|Skuntank}}, {{p|Togekiss}}, and {{p|Fearow}}.
+* Yanma shares the same base {{stat|Speed}} stat with its evolved form, {{p|Yanmega}}.
+
+===Origin===
+Yanma is based on a {{wp|dragonfly}}, possibly the {{wp|red-veined darter}}. Because of its size and weight, it might have been inspired by extinct giant dragonflies in the ''{{wp|Meganeura}}'' genus.
+
+====Name origin====
+Yanma and Yanyanma derive from 蜻蜓 ''yanma'' (large dragonfly).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Flying
+|ja=ヤンヤンマ ''Yanyanma''|jameaning=From {{tt|蜻蜓 ''yanma''|large dragonfly}}
+|fr=Yanma|frmeaning=Same as English name
+|es=Yanma|esmeaning=Same as English name
+|de=Yanma|demeaning=Same as English name
+|it=Yanma|itmeaning=Same as English name
+|ko=왕자리 ''Wangjari''|komeaning=From {{tt|왕 ''wang''|king}} and {{tt|잠자리 ''jamjari''|dragonfly}}
+|zh_cmn=陽陽瑪 / 阳阳玛 ''Yángyángmǎ''|zh_cmnmeaning=Transliteration of its Japanese name
+|hi=यानमाँ ''Yanma''|himeaning=Transcription of English name
+|ru=Янма ''Yanma''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+*[[Jessie's Yanmega|Jessie's Yanma]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Bug|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=192|prev=Sunflora|nextnum=194|next=Wooper}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Pokémon that evolve with certain moves]]
+[[Category:Pokémon that evolve with AncientPower]]
+
+[[de:Yanma]]
+[[fr:Yanma]]
+[[it:Yanma]]
+[[ja:ヤンヤンマ]]
+[[pl:Yanma]]
+[[zh:蜻蜻蜓]]

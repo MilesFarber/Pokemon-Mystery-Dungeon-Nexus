@@ -1,0 +1,312 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=730|prev=Primarina|nextnum=732|next=Trumbeak}}
+{{PokémonPrevNext/Disambig|species=Pikipek}}
+|}
+{{Pokémon Infobox
+|name=Pikipek
+|jname=ツツケラ
+|tmname=Tsutsukera
+|ndex=731
+|type1=Normal
+|type2=Flying
+|category=Woodpecker
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=2.6
+|weight-kg=1.2
+|adex=010
+|abilitylayout=2
+|ability1=Keen Eye
+|ability2=Skill Link
+|abilityd=Pickup
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=15
+|evtotal=1
+|evat=1
+|expyield=53
+|lv100exp=1,000,000
+|gendercode=127
+|color=Black
+|catchrate=255
+|body=09
+|pokefordex=pikipek
+|generation=7
+|friendship=70
+}}
+'''Pikipek''' ([[List of Japanese Pokémon names|Japanese]]: '''ツツケラ''' ''Tsutsukera'') is a dual-type {{2t|Normal|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] into {{p|Trumbeak}} starting at [[level]] 14, which evolves into {{p|Toucannon}} starting at level 28.
+
+==Biology==
+Pikipek is an avian Pokémon with black plumage. Its gray beak is long with a pointed, black tip, and it has large blue eyes. There is a white, mask-like marking on its face. This marking extends down its neck before ending in a tuft of feathers on its chest. A large crest sweeps upward from the back of its head with a red stripe along the top that ends at its beak. The undersides of its wings are white, and it has thin gray legs and feet. It has a flat tail.
+
+Pikipek has strong leg muscles and is able to strike 16 times per second with its beak. This allows it to not only drill through wood, but shatter stone as well. The holes it drills in trees are used to store both food and small, glittering objects. The noise of this Pokémon pecking can be used to communicate with others. This Pokémon feeds on Berries, and is able to attack opponents by zipping the leftover seeds at them. These shots have enough force to embed the seeds in trees.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/pikipek/</ref> {{p|Talonflame}} is a natural predator of Pikipek.
+
+==In the anime==
+[[File:Pikipek anime.png|thumb|left|220px|Pikipek in the {{pkmn|anime}}]]
+[[File:Pikipek Egg.png|220px|thumb|A group of Pikipek {{pkmn|Egg}}s in the anime]]
+===Major appearances===
+====[[Recurring wild Pokémon in the anime#Pikipek|Pikipek (anime)]]====
+A flock of {{pkmn2|wild}} Pikipek, alongside a {{AP|Rowlet}}, debuted in ''[[SM004|First Catch in Alola, Ketchum-Style!]]''. Raised by {{p|Trumbeak}} and {{p|Toucannon}}, they would search for food on [[Melemele Island]]. Three of them reappeared in ''[[SM018|A Seasoned Search!]]''; they briefly reunited with Rowlet when Ash and {{an|Mallow}} visited its nest to see if its flock knew where to find {{DL|Nectar|Yellow Nectar}}.
+
+===Minor appearances===
+A wild Pikipek appeared in ''[[SM006|A Shocking Grocery Run!]]''.
+
+Two wild Pikipek appeared in ''[[SM016|They Might Not Be Giants!]]''.
+
+Three wild Pikipek appeared in ''[[SM018|A Seasoned Search!]]''.
+
+Four wild Pikipek appeared in ''[[SM030|The Ol' Raise and Switch!]]''.
+
+Three wild Pikipek appeared in ''[[SM039|Mallow and the Forest Teacher!]]''.
+
+A {{pkmn|Trainer}}'s Pikipek appeared in ''[[SM040|Balloons, Brionne, and Belligerence!]]''.
+
+A Pikipek appeared in ''[[SM044|A Dream Encounter!]]'', in a video advertising [[Aether Paradise]].
+
+Multiple Pikipek appeared in ''[[SM046|Deceiving Appearances!]]'', with one appearing in a fantasy.
+
+A Pikipek appeared in [[SM059]] in a flashback.
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM004|Pikipek|Rotom Pokédex|Pikipek, the Woodpecker Pokémon. A {{t|Normal}} and {{t|Flying}} type. It can unleash sixteen pecks per second to drill a hole into a tree where it stores food.}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+
+==In the manga==
+===In the Pokémon Adventures manga===
+[[File:Pikipek Adventures.png|thumb|right|200px|Pikipek in [[Pokémon Adventures]]]]
+Pikipek debuted in [[PASM02]]. A group of wild Pikipek flocked around a [[Figy Berry]] tree that {{adv|Moon}} needed to heal {{adv|Sun}}'s injured ankle. With her archery skills, Moon distracted the Pikipek long enough to knock a Berry out of the tree.
+
+A Pikipek appeared in [[PASM13]].
+
+Two Pikipek appeared in the {{chap|Sun & Moon}} inside the [[Aether Paradise]].
+
+==In the TCG==
+{{main|Pikipek (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Flying}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It can peck at a rate of 16 times a second to drill holes in trees. It uses the holes for food storage and for nesting.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon feeds on berries, whose leftover seeds become the ammunition for the attacks it fires off from its mouth.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|1|Alola}}, {{rtn|4|Alola}}, {{rtn|5|Alola}}, {{rtn|6|Alola}}, [[Poké Pelago]]<br>[[Route]]s {{rtn|5|Alola}}, {{rtn|8|Alola}}, {{rtn|11|Alola}}, [[Lush Jungle]], [[Poni Grove]], [[Poni Plains]] ([[SOS Battle]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]]s {{rtn|1|Alola}}, {{rtn|4|Alola}}, {{rtn|5|Alola}}, {{rtn|6|Alola}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#22nd release|''Pokémon Safari'']] <small>(22nd release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=normal|type2=flying
+|sm1=Oran Berry|sm1type=Berry|sm1rar=5
+|usum1=Oran Berry|usum1type=Berry|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Normal
+|type2=Flying
+|HP=35
+|Attack=75
+|Defense=30
+|SpAtk=30
+|SpDef=30
+|Speed=65}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Flying
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Pikipek|Normal|Flying|7}}
+{{learnlist/level7|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level7|3|Growl|Normal|Status|—|100|40}}
+{{learnlist/level7|7|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/level7|9|Rock Smash|Fighting|Physical|40|100|15}}
+{{learnlist/level7|13|Supersonic|Normal|Status|—|55|20}}
+{{learnlist/level7|15|Pluck|Flying|Physical|60|100|20||'''}}
+{{learnlist/level7|19|Roost|Flying|Status|—|—|10}}
+{{learnlist/level7|21|Fury Attack|Normal|Physical|15|85|20||'''}}
+{{learnlist/level7|25|Screech|Normal|Status|—|85|40}}
+{{learnlist/level7|27|Drill Peck|Flying|Physical|80|100|20||'''}}
+{{learnlist/level7|31|Bullet Seed|Grass|Physical|25|100|30}}
+{{learnlist/level7|33|Feather Dance|Flying|Status|—|100|15}}
+{{learnlist/level7|37|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/levelf/7|Pikipek|Normal|Flying|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Pikipek|Normal|Flying|7}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm7|TM43|Flame Charge|Fire|Physical|50|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Pikipek|Normal|Flying|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Pikipek|Normal|Flying|7}}
+{{learnlist/breed7|{{MSP|715|Noivern}}|Boomburst|Normal|Special|140|100|10||'''}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}{{MSP|276|Taillow}}{{MSP|277|Swellow}}{{MSP|396|Starly}}{{MSP|397|Staravia}}{{MSP|398|Staraptor}}<br>{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|627|Rufflet}}{{MSP|628|Braviary}}{{MSP|663|Talonflame}}{{MSP|722|Rowlet}}<br>{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|333|Swablu}}<br>{{MSP|441|Chatot}}{{MSP|561|Sigilyph}}{{MSP|741|Oricorio}}|Mirror Move|Flying|Status|—|—|20}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|178|Xatu}}{{MSP|198|Murkrow}}{{MSP|279|Pelipper}}<br>{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|561|Sigilyph}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}<br>{{MSP|627|Rufflet}}{{MSP|628|Braviary}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}{{MSP|714|Noibat}}<br>{{MSP|715|Noivern}}<br>|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/breed7|{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|441|Chatot}}|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/breedf/7|Pikipek|Normal|Flying|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Pikipek|Normal|Flying|7}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutorf/7|Pikipek|Normal|Flying|7}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Flying}}
+{{Spindata/Shuffle|col=6|type=Normal|ndex=731|stype=Flying|num=764
+|min=40
+|max=60
+|raisemaxlevel=0
+|skill=Hitting Streak+
+|skilldesc=Does even more damage the more times in a row it is triggered.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Normal
+|type2=Flying
+|pictype=art
+|no1=731
+|name1=Pikipek
+|type1-1=Normal
+|type2-1=Flying
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 14}}
+|no2=732
+|name2=Trumbeak
+|type1-2=Normal
+|type2-2=Flying
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 28}}
+|no3=733
+|name3=Toucannon
+|type1-3=Normal
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Flying}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=731}}
+{{Spritebox/Footer|731|Pikipek}}
+
+==Trivia==
+
+===Origin===
+Pikipek appears to be based on a {{wp|pileated woodpecker}}.
+
+====Name origin====
+Pikipek may be a combination of ''picus'' (Latin for woodpecker) and ''peck''.
+
+Tsutsukera may be a combination of 突き ''tsutsuki'' (pecking) and 啄木鳥 ''keratsutsuki'' (woodpecker).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Flying
+|ja=ツツケラ ''Tsutsukera''|jameaning=From {{tt|突き ''tsutsuki''|pecking}} and {{tt|啄木鳥 ''keratsutsuki''|woodpecker}}
+|fr=Picassaut|frmeaning=From {{tt|''pic''|woodpecker}} and {{tt|''assaut''|assault}}
+|es=Pikipek|esmeaning=Same as English name
+|de=Peppeck|demeaning=From ''peck''
+|it=Pikipek|itmeaning=Same as English name
+|ko=콕코구리 ''Kokkoguri|komeaning=From {{tt|콕 ''kok''|onomatopoeia for pecking sound}}, {{tt|꼬마 ''kkoma''|small thing}} and {{tt|딱따구리 ''ttakttaguri''|woodpecker}}
+|zh_cmn=小篤兒 / 小笃儿 ''Xiǎodǔ'ér''|zh_cmnmeaning=From {{tt|小兒 ''xiǎo'ér''|child}} and {{tt|篤篤 ''dǔdǔ''|onomatopoeia for pecking sound}}
+|zh_yue=小篤兒 ''Síudūkyìh''|zh_yuemeaning=From {{tt|小兒 ''síuyìh''|child}} and {{tt|篤篤 ''dūkdūk''|onomatopoeia for pecking sound}}
+|ru=Пикипек ''Pikipek''|rumeaning=Transcription of English name}}
+{{-}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=730|prev=Primarina|nextnum=732|next=Trumbeak}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Peppeck]]
+[[fr:Picassaut]]
+[[it:Pikipek]]
+[[ja:ツツケラ]]
+[[pl:Pikipek]]
+[[zh:小笃儿]]

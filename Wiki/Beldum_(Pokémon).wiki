@@ -1,0 +1,455 @@
+{{PokémonPrevNext/Head|type=Steel|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Beldum}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=373|prev=Salamence|nextnum=375|next=Metang|round=none}}
+{{PokémonPrevNext/Disambig|species=Beldum}}
+|}
+{{Pokémon Infobox
+|name=Beldum
+|jname=ダンバル
+|jtranslit=Danbaru
+|tmname=Dumbber
+|category=Iron Ball
+|typebox=1
+|type1=Steel
+|type2=Psychic
+|abilityn=d
+|ability1=Clear Body
+|abilityd=Light Metal
+|ndex=374
+|hdex=190
+|hdex6=199
+|u2dex=262
+|adex=214
+|fbrow=190
+|obrow=224
+|opbrow=167
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=209.9
+|weight-kg=95.2
+|egggroupn=1
+|egggroup1=Mineral
+|gendercode=255
+|eggcycles=40
+|evtotal=1
+|evde=1
+|expyield=60
+|oldexp=103
+|lv100exp=1,250,000
+|color=Blue
+|catchrate=3
+|body=05
+|pokefordex=beldum
+|generation=3
+|friendship=35
+}}
+'''Beldum''' ([[List of Japanese Pokémon names|Japanese]]: '''ダンバル''' ''Dumbber'') is a dual-type {{2t|Steel|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] into {{p|Metang}} starting at [[level]] 20, which evolves into {{p|Metagross}} starting at level 45.
+
+==Biology==
+Beldum is a robotic Pokémon that has a long body with a set of claws sticking out of its rear end. It has one large, red eye in the center of its nearly spherical head, which is set into a ball-and-socket joint at its front end. A short crest projects from its body and extends over its head. 
+
+Even though Beldum is a mechanical creature, it still has emotions, the need to eat, and a way of reproducing. Beldum's body lacks blood, and is instead made of cells that are all magnets. It uses magnetism to move, communicate, and control its attacks. Beldum sometimes gathers in swarms, communicating with each other telepathically and magnetically and moving in sync. Beldum is scarce in the wild, but it does tend to inhabit areas with {{DL|List of Pokémon by habitat|Rough-terrain Pokémon|rugged terrain}}. It anchors itself to a cliff using its hooks when it sleeps.
+
+==In the anime==
+[[File:Morrison Beldum.png|thumb|left|250px|Beldum in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Morrison's Beldum]]====
+{{TP|Morrison|Beldum}} debuted in ''[[AG118|Less is Morrison]]'', under the ownership of [[Morrison]]. It evolved into {{p|Metang}} in ''[[AG126|Saved by the Beldum]]''.
+
+===Minor appearances===
+A Beldum appeared in ''[[M13|Zoroark: Master of Illusions]]'' alongside a {{p|Metang}} and {{p|Metagross}}, all under the ownership of a [[Pokémon Baccer World Cup]] participant.
+{{-}}
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG118|Beldum|May's Pokédex|Beldum, the Iron Ball Pokémon. Beldum floats by emitting magnetic waves from its body to repel the Earth's magnetic field. They launch their claws into cliffs where they sleep.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+==In the manga==
+[[File:Steven Beldum Adventures.png|thumb|175px|Beldum in [[Pokémon Adventures]]]]
+===In the Ash & Pikachu manga===
+{{main|Morrison's Beldum}}
+Similar to the anime, Morrison was also seen with a Beldum which debuted in ''[[SP31|A Clash Of Wills!! Eternal Rivals?!]]''.
+
+===In the Pokémon Adventures manga===
+{{Steven}} owns a large amount of Beldum that serve, along with a {{p|Metang}} and {{p|Metagross}}, as miners that help him unearth rare stones in various caves around Hoenn. They first appeared in ''[[PS196|Ring Ring Goes Beldum]]''. These same Beldum were called upon to defeat the {{p|Mawile}} herd in [[Granite Cave]] when both {{adv|Ruby}} and Steven were attacked by them. Four of Steven's Beldum later formed the party that would unseal the [[legendary titans]], which included {{adv|Sapphire}}'s [[Lorry]] and [[Relly]].
+
+===In the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga===
+Steven owns a Beldum in [[Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom]].
+
+==In the TCG==
+{{main|Beldum (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Steel|type2=Psychic}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Instead of blood, a powerful magnetic force courses throughout Beldum's body. This Pokémon communicates with others by sending controlled pulses of magnetism.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Beldum keeps itself floating by generating a magnetic force that repels earth's natural magnetism. When it sleeps, this Pokémon anchors itself to a cliff using the hooks on its rear.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=When Beldum gather in a swarm, they move in perfect unison as if they were but one Pokémon. They communicate with each other using brain waves.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It uses magnetic waves to converse with its kind. All the cells in its body are magnetic.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=The magnetic force generated by its body repels the ground's natural magnetism, letting it float.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its cells are all magnetic, and it communicates with others by using magnetic pulses.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The magnetic force generated by its body repels the ground's natural magnetism, letting it float.}}
+{{Dex/Entry1|v=Y|entry=It converses with others by magnetic pulses. In a swarm, they move in perfect unison.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Instead of blood, a powerful magnetic force courses through Beldum's body. This Pokémon communicates with others by sending controlled pulses of magnetism.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Beldum keeps itself floating by generating a magnetic force that repels earth's natural magnetism. When it sleeps, this Pokémon anchors itself to a cliff using the hooks on its rear.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Its cells are all magnets. It uses magnetism to communicate with others of its kind.}}
+{{Dex/Entry1|v=Moon|entry=With magnetic traction, it pulls its opponents in close. When they're in range, it slashes them with its rear claws.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Instead of blood, magnetism flows through its body. When it's feeling bad, try giving it a magnet.}}
+{{Dex/Entry1|v=Ultra Moon|entry=If you anger it, it will do more than rampage. It will also burst out strong magnetism, causing nearby machines to break.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Steel|type2=Psychic}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area={{Steven}}'s house in [[Mossdeep City]]}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{Steven}}'s house in [[Mossdeep City]]}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|228|Sinnoh}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1|v=Platinum|area={{rt|228|Sinnoh}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Trade]] {{p|Forretress}} to {{Steven}} at [[Silph Co.]]<br>{{safari|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+{{Availability/Entry1|v=Pokéwalker|link=Pokéwalker|color=ff3333|area={{pw|Winner's Path}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{pkmn|breeding|Breed}} {{p|Metang}} or {{p|Metagross}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{pkmn|breeding|Breed}} {{p|Metang}} or {{p|Metagross}} <br> [[Unova Link|Transfer]] from {{pkmn|Dream Radar}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Rugged Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{pkmn|breeding|Breed}} {{p|Metang}} or {{p|Metagross}}}}
+{{Availability/Entry2|v=Omega Ruby|t=FFF|v2=Alpha Sapphire|t2=FFF|area={{Steven}}'s house in [[Mossdeep City]] after completing the [[Delta Episode]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Mount Hokulani]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Mount Hokulani]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Steel|type2=Psychic}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Ruins ([[Ruby Field|Both]] [[Sapphire Field|Fields]])}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Phobos Secret Fort: Phobosphere|Phobosphere]], Endless Level 46, Forever Level 46, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Mt. Steel]] (6F-8F), [[Wish Cave]] (15F-17F), [[Solar Cave]] (15F-17F), [[Joyous Tower]] (14F-16F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Jungle Relic]], [[Go-Rock Squad Base]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Crystal Cave]] (B1-B7)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Crystal Cave]] (B1-B7)}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Wireless Tower]], [[Thunder Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Factory: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Illusio]] (special), [[Valora]] (special)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#A Very Chaotic Battle!|Toy Collection: A Very Chaotic Battle!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 6|Pitch-Black Cavern: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Graucus Hall|Graucus Hall: Stage 462]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Electromagnetic Plant|Distortion Land: Electromagnetic Plant]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Steel|type2=Psychic}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Steven's Beldum|Japanese region|Nintendo Network|5[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|November 21, 2014 to January 14, 2015|link=List of Japanese region Nintendo Network event Pokémon distributions in Generation VI#Steven's Beldum}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Steven's Beldum|American region|Nintendo Network|5[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|November 21, 2014 to January 14, 2015|link=List of American region Nintendo Network event Pokémon distributions in Generation VI#Steven's Beldum}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Steven's Beldum|PAL region|Nintendo Network|5[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|November 21, 2014 to January 14, 2015|link=List of PAL region Nintendo Network event Pokémon distributions in Generation VI#Steven's Beldum}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Steven's Beldum|Korean region|Nintendo Network|5[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|November 21, 2014 to January 14, 2015|link=List of Korean region Nintendo Network event Pokémon distributions in Generation VI#Steven's Beldum}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Steven's Beldum|Taiwanese region|Nintendo Network|5[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|November 21, 2014 to January 14, 2015|link=List of Taiwanese region Nintendo Network event Pokémon distributions in Generation VI#Steven's Beldum}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Steel|type2=Psychic
+|dppt1=Metal Coat|dppt1type=None|dppt1rar=5
+|hgss1=Metal Coat|hgss1type=None|hgss1rar=5
+|walk1=Shuca Berry|walk1type=Berry|walk1rar=100
+|event1=Metagrossite|event1type=Mega Stone|event1rar=100
+|sm1=Metal Coat|sm1type=None|sm1rar=5
+|usum1=Metal Coat|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Steel
+|type2=Psychic
+|HP=     40
+|Attack= 55
+|Defense=80
+|SpAtk=  35
+|SpDef=  60
+|Speed=  30}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Steel
+|type2=Psychic
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=1
+|TechniqueMax=1
+|Stamina=3
+|StaminaMax=3
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Steel
+|type2=Psychic
+|Normal=   50
+|Fighting=100
+|Flying=   50
+|Poison=    0
+|Ground=  200
+|Rock=     50
+|Bug=     100
+|Ghost=   200
+|Steel=    50
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic=  25
+|Ice=      50
+|Dragon=   50
+|Dark=    200
+|Fairy=    50
+|notes=yes
+|steel=yes
+|newpoison=1
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=1
+|oldghost2=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Beldum|Steel|Psychic|3}}
+{{learnlist/level7|1|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/levelf/7|Beldum|Steel|Psychic|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Beldum|Steel|Psychic|3}}
+{{learnlist/tm7null}}
+{{learnlist/tmf/7|Beldum|Steel|Psychic|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Beldum|Steel|Psychic|3}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Beldum|Steel|Psychic|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Beldum|Steel|Psychic|3}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Beldum|Steel|Psychic|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg metal color light}}; border: 3px solid #{{tcg metal color}}"
+|-
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Tackle}}
+| [[Beldum (Legends Awakened 84)]]<br>[[Beldum (EX Hidden Legends 28)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Steel|type2=Psychic}}
+{{Spindata/PinballRS|col=3|type=Steel|ndex=374|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Steel|ndex=374|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Steel|ndex=374
+|body=1
+|rate=7.8
+|area=Magnetic Quarry
+|P1=I converse with others using magnetism. +++-+--+
+|P2=My HP has declined to approximately half.
+|P3=I can't do this... My magnetism is weakening...
+|PL=My level's gone up! My magnetism has too!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Steel|ndex=374
+|body=1
+|rate=6.4
+|IQ=E
+}}
+|-
+{{Spindata/Ranger|col=6|type=Steel
+|group=Steel
+|assist=Psychic
+|fieldpower=1
+|field=Tackle
+|loop=5
+|MinEXP=32
+|MaxEXP=62
+|browser=Beldum throws {{m|Take Down|full-body charges}}. It can easily shunt aside a small obstacle.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Steel
+|group=Steel
+|assist=Steel
+|field=Crush
+|fieldpower=1
+|browser=It launches an iron ball to attack.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Steel
+|att=1
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Steel|ndex=374
+|HP=1
+|atk=1
+|def=3
+|spd=1
+|range=3
+|move=Iron Head
+|ability1=Clear Body
+|ability2=Bodyguard
+|ability3=Run Up
+|evo=Evolves into {{p|Metang}} when its Defense is 64 or higher
+|link={{DL|List of Pokémon Conquest characters|Nobutsuna}} and {{DL|List of Pokémon Conquest characters|Yoshiteru}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Steel|ndex=374
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Steel|ndex=374|num=639
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Blockify
+|skilldesc=Sometimes turns two non-Support Pokémon into blocks.
+}}
+|-
+{{Spindata/GO|col=6|type=Steel|ndex=374
+|buddy=5
+|hatch=10 km
+|evocandy=25
+|stamina=80
+|attack=96
+|defense=141
+|fast={{m|Take Down}}
+|special={{m|Struggle}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Steel
+|pictype=art
+|no1=374
+|name1=Beldum
+|type1-1=Steel
+|type2-1=Psychic
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 20}}
+|no2=375
+|name2=Metang
+|type1-2=Steel
+|type2-2=Psychic
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 45}}
+|no3=376
+|name3=Metagross
+|type1-3=Steel
+|type2-3=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Steel|type2=Psychic}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=374}}
+{{Spritebox/4|ndex=374}}
+{{Spritebox/5|ndex=374}}
+{{Spritebox/6|ndex=374}}
+{{Spritebox/7|ndex=374}}
+{{Spritebox/Footer|374|Beldum}}
+
+==Trivia==
+[[File:374Beldum-Shiny.png|thumb|175px|Promotional artwork of a {{shiny}} Beldum for the {{pkmn|Omega Ruby and Alpha Sapphire}} [[List of American region Nintendo Network event Pokémon distributions in Generation VI#Shiny Metagrossite Beldum|release event]]]]
+* Beldum's number in the [[List of Pokémon by Hoenn Pokédex number (Generation III)|Hoenn Pokédex]] in Generation III and the [[List of Pokémon by Fiore Browser number|Fiore Browser]] are the same: 190.
+* Beldum, along with its evolved forms, are the only non-Legendary Pokémon to have a catch rate of 3, which is the lowest in existence.
+* Beldum's evolutionary family evolves into their next-stage forms the earliest of all the [[pseudo-legendary Pokémon]]—Beldum into {{p|Metang}} at level 20, and {{p|Metang}} into {{p|Metagross}} at level 45.
+* Beldum is the only member of a pseudo-legendary Pokémon evolutionary line that only learns one move by level up.
+
+===Origin===
+Beldum seems to be a magnetic robot based on a {{wp|dumbbell}}. It also resembles a limb of a {{p|Metang}} or {{p|Metagross}}, a reference to how it evolves.
+
+===Name origin===
+Beldum and Dumbber are derived from ''{{wp|dumbbell}}'', a small weight used in weight training.
+
+==In other languages==
+{{Other languages|type=Steel|type2=Psychic
+|ja=ダンバル ''Dumbber''|jameaning=From ''dumbbell''
+|de=Tanhel|demeaning=From ''{{tt|Hantel|dumbbell}}''
+|fr=Terhal|frmeaning=From ''{{tt|haltère|dumbbell}}''
+|es=Beldum|esmeaning=Same as English name
+|it=Beldum|itmeaning=Same as English name
+|ko=메탕 ''Metan''|komeaning=Same as {{p|Metang}}'s name
+|zh_cmn=鐵啞鈴 ''Tié Yǎ Líng''|zh_cmnmeaning=Literally "Iron dumbbell".
+|hi=बेलडाम ''Beldum''|himeaning=Transliteration of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Morrison's Beldum]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Steel|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=373|prev=Salamence|nextnum=375|next=Metang}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Tanhel]]
+[[fr:Terhal]]
+[[it:Beldum]]
+[[ja:ダンバル]]
+[[pl:Beldum]]
+[[zh:铁哑铃]]

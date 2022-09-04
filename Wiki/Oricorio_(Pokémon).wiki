@@ -1,0 +1,557 @@
+{{PokémonPrevNext/Head|type=Fire|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=740|prev=Crabominable|nextnum=742|next=Cutiefly}}
+|}
+{{Pokémon Infobox
+|name=Oricorio
+|jname=オドリドリ
+|tmname=Odoridori
+|forme=4
+|form1=Baile Style
+|form2=Pom-Pom Style
+|form3=Pa'u Style
+|form4=Sensu Style
+|image=Oricorio-Baile.png
+|image2=Oricorio-Pom-Pom.png
+|image3=Oricorio-Pa'u.png
+|image4=Oricorio-Sensu.png
+|ndex=741
+|type1=Fire
+|type2=Flying
+|form2type1=Electric
+|form2type2=Flying
+|form3type1=Psychic
+|form3type2=Flying
+|form4type1=Ghost
+|form4type2=Flying
+|category=Dancing
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=7.5
+|weight-kg=3.4
+|adex=082
+|abilitylayout=1
+|ability1=Dancer
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=20
+|evtotal=2
+|evsa=2
+|expyield=167
+|lv100exp=1,000,000
+|gendercode=191
+|color=Red
+|formcolors=yes
+|catchrate=45
+|body=09
+|pokefordex=oricorio
+|generation=7
+|friendship=70
+}}
+'''Oricorio''' ([[List of Japanese Pokémon names|Japanese]]: '''オドリドリ''' ''Odoridori'') is a {{type|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+While it is not known to [[Evolution|evolve]] into or from any other Pokémon, it can change {{DL|List of Pokémon with form differences|Oricorio|forms}} by sipping the [[nectar]] of certain flowers.
+* If [[Red Nectar]] is used on Oricorio, it will change into '''Baile Style''', where it becomes {{2t|Fire|Flying}}-type.
+* If [[Yellow Nectar]] is used on Oricorio, it will change into '''Pom-Pom Style''', where it becomes {{2t|Electric|Flying}}-type.
+* If [[Pink Nectar]] is used on Oricorio, it will change into '''Pa'u Style''', where it becomes {{2t|Psychic|Flying}}-type.
+* If [[Purple Nectar]] is used on Oricorio, it will change into '''Sensu Style''', where it becomes {{2t|Ghost|Flying}}-type.
+
+==Biology==
+Oricorio is an avian Pokémon that can change between four markedly different forms. The form it takes on depends on the kind of nectar it consumes. All forms have a light pink beak, thin legs, and dark eyes with white pupils. The feet have three toes in front and one in back, and the beak curves downward.
+
+In its Baile Style, which is native to [[Ula'ula Island]], Oricorio is covered in red feathers with two lines of black feathers across each of its wings and tail. Its plumage resembles a frilly {{wp|flamenco}} dress. On the back of its head is a white ball with thin, spiraled extensions on either side that resemble earrings. Its eyelids are purple, and it has a long tail. Baile Style Oricorio is very passionate and exudes power when it dances, and can get fiercely angry if it is given the wrong orders. It throws off downy fluff when it dances that it can ignite to perform a fiery dance attack.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/oricorio-(baile-style)/</ref> 
+
+In its Pom-Pom Style, native to [[Melemele Island]], Oricorio is primarily yellow. Most of its body is pale yellow with a line of longer feathers around its waist like a skirt. Its lower body and short stubby tail are covered with short, white feathers. Fluffy balls of darker yellow feathers cover the end of its wings like {{wp|pom-pom}}s, and similar, smaller puffs cover its ankles. In the center of its chest is a yellow, v-shaped marking, and there are fan-shaped markings on the sides of its eyes. The markings around its eyes are echoed by three large, pale yellow feathers on each side of its head, which are tipped with bright yellow. Pom-Pom Style Oricorio's dancing charges its feathers with static electricity. While charged, its feathers can be used to attack and unleash electric shocks. A friendly Pokémon, it will also use its dancing to cheer up people who are feeling glum,<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/oricorio-(pom-pom-style)/</ref> but will also use this as an opening to shock unsuspecting foes. 
+
+In its Pa'u Style, native to [[Akala Island]], Oricorio has pink feathers. Its main body is a dark pink, while most of its other feathers are varying shades of pink. A fan of three feathers tips each wing: two light pink with a whitish-pink on in the center. On the top of its head is an arrangement of feathers resembling a headdress: a ring of fluffy, light pink feathers with larger, paler feathers standing up from the center. There is a larger, similar group of feathers around its waist like a skirt. Pa'u Style Oricorio can be difficult to deal with due to its laid-back nature. It uses its dance to focus its mind and increase its psychic power. The dance is also said to be an offering of thanks to its [[Guardian deities|guardian deity]].<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/oricorio-(pa'u-style)/</ref> It gets caught up in dancing that it sometimes ignores its Trainer's orders.
+
+In its Sensu Style, native to [[Poni Island]], Oricorio's feathers are mainly purple. The tips of its wings broaden into a fan shape, and it has a fan-shaped crest on top of its head. At the base of its crest are four feathers with light blue tips. There are two of these feathers on each side, resembling ornamental {{wp|hairsticks}}. On the side of each eye are small, light blue markings that resemble eyelashes. The edges of its wings, fans, head crest, and long tail all have a double border of pale purple with a light blue on the outer edge. Sensu Style Oricorio is a calm and collected Pokémon. Through its dance, it draws in nearby spirits and borrows their power to fight. Its dance reminds people who migrated from [[Kanto]] of their homeland.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/oricorio-(sensu-style)/</ref>
+
+Oricorio is the [[Signature move|only known Pokémon]] that can learn {{m|Revelation Dance}}, which changes its type according to Oricorio's style.
+
+==In the anime==
+[[File:Hobbes Oricorio.png|thumb|left|250px|A Pom-Pom Style Oricorio in the {{pkmn|anime}}]]
+[[File:Poké Problem SM018.png|thumb|250px|A Baile Style Oricorio in the {{pkmn|anime}}]]
+===Major appearances===
+A Pom-Pom Style Oricorio debuted in ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', under the ownership of [[Hobbes]]. Hobbes used his Oricorio in a battle against Ash and {{AP|Rowlet}}, where it was able to defeat Rowlet owing to Rowlet's lack of battle experience. Hobbes's Oricorio reappeared in ''[[SM030|The Ol' Raise and Switch!]]'', where it was used in a battle against {{AP|Pikachu}} under Lillie's command and lost.
+
+A Baile Style Oricorio debuted in ''[[SM018|A Seasoned Search!]]'', alongside another Pom-Pom Style Oricorio. It soon changed into Pom-Pom Style by sipping Yellow Nectar.
+
+===Minor appearances===
+Three Pom-Pom Style Oricorio appeared in ''[[SM028|Pulling Out the Pokémon Base Pepper!]]'', where they acted as cheerleaders in the [[Baseball|Pokémon Base]] that {{Ash}} and {{ashfr|his classmates}} took part in.
+
+===Pokédex entries===
+{{Animedexheader|Alola}}
+{{Animedexbody|SM008|Oricorio|Rotom Pokédex|Oricorio, Pom-Pom Style. The Dancing Pokémon. An {{t|Electric}} and {{t|Flying}} type. It creates electricity by rubbing its pom-poms together. Then it dances as it approaches its opponent before attacking. When it drinks different special [[nectar]]s found only in [[Alola]], it can change its type.}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+
+==In the manga==
+===In the Pokémon Adventures manga===
+[[File:Kahili Oricorio Adventures.png|thumb|150px|right|Baile Style Oricorio in [[Pokémon Adventures]]]]
+[[File:Pom-Pom Style Oricorio Adventures.png|thumb|150px|left|Pom-Pom Style Oricorio in [[Pokémon Adventures]]]]
+Baile Style Oricorio debuted in [[PASM11]]. One was seen under the ownership of [[Kahili]].
+
+Pom-Pom Style Oricorio first appeared in [[PASM11]]. Two were seen in a flashback witnessing Kahili battle a {{p|Buzzwole}} and {{p|Kartana}} at [[Melemele Meadow]].
+{{-}}
+==In the TCG==
+{{main|Oricorio (TCG)}}
+
+==Game data==
+===Pokédex entries===
+====Baile Style====
+{{Dex/Header|type=Fire|type2=Flying}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It beats its wings together to create fire. As it moves in the steps of its beautiful dance, it bathes opponents in intense flames.}}
+{{Dex/Entry1|v=Moon|entry=This Oricorio has sipped red nectar. Its passionate dance moves cause its enemies to combust in both body and mind.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It wins the hearts of its enemies with its passionate dancing and then uses the opening it creates to burn them up with blazing flames.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Pom-Pom Style====
+{{Dex/Header|type=Electric|type2=Flying}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=This Oricorio has sipped bright yellow nectar. Its bright, cheerful dance melts the hearts of its enemies.}}
+{{Dex/Entry1|v=Moon|entry=It creates an electric charge by rubbing its feathers together. It dances over to its enemies and delivers shocking electrical punches.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It lifts its opponents' spirits with its cheerful dance moves. When they let their guard down, it electrocutes them with a jolt.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This Oricorio has drunk bright yellow nectar. When it sees someone looking glum, it will try to cheer them up with a dance.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Pa'u Style====
+{{Dex/Header|type=Psychic|type2=Flying}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=This Oricorio relaxes by swaying gently. This increases its psychic energy, which it then fires at its enemies.}}
+{{Dex/Entry1|v=Moon|entry=This Oricorio has sipped pink nectar. Its enemies' hearts melt at the sight of its gently swaying hips.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It relaxes its opponents with its elegant dancing. When they let their guard down, it showers them with psychic energy.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This Oricorio has sipped pink nectar. It gets so caught up in its dancing that it sometimes doesn't hear its Trainer's orders.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Sensu Style====
+{{Dex/Header|type=Ghost|type2=Flying}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=This Oricorio has sipped purple nectar. Its elegant, attractive dance will send the minds and hearts of its enemies to another world.}}
+{{Dex/Entry1|v=Moon|entry=It summons the dead with its dreamy dancing. From their malice, it draws power with which to curse its enemies.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It charms its opponents with its refined dancing. When they let their guard down, it places a curse on them that will bring on their demise.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This Oricorio has sipped purple nectar. Some dancers use its graceful, elegant dancing as inspiration.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fire|type2=Flying}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Melemele Meadow]] (Pom-Pom Style)<br>{{rt|6|Alola}} (Pa'u Style)<br>[[Ula'ula Meadow]] (Baile Style)<br>[[Poni Meadow]] (Sensu Style)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Melemele Meadow]] (Pom-Pom Style)<br>{{rt|6|Alola}} (Pa'u Style)<br>[[Ula'ula Meadow]] (Baile Style)<br>[[Poni Meadow]] (Sensu Style)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fire|type2=Flying}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''{{DL|Special Stages|The Daily Pokémon (#7)}}'' <small>(Pom-Pom Style)</small><br>Event: ''{{DL|Special Stages|The Daily Pokémon (#8)}}'' <small>(Pa'u Style)</small><br>Event: ''{{DL|Special Stages|The Daily Pokémon (#9)}}'' <small>(Sensu Style and Baile Style)</small>
+}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Fire|type2=Flying
+|sm1=Honey|sm1type=None|sm1rar=5
+|usum1=Honey|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Fire
+|type2=Flying
+|HP=75
+|Attack=70
+|Defense=70
+|SpAtk=98
+|SpDef=70
+|Speed=93}}
+
+===Type effectiveness===
+====Baile Style====
+{{TypeEffectiveness
+|type1=Fire
+|type2=Flying
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=400
+|Bug=25
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=200
+|Grass=25
+|Electric=200
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=50
+|notes=yes
+|flying=yes
+|newground=2}}
+
+====Pom-Pom Style====
+{{TypeEffectiveness
+|type1=Electric
+|type2=Flying
+|Normal=100
+|Fighting=50
+|Flying=50
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=2}}
+
+====Pa'u Style====
+{{TypeEffectiveness
+|type1=Psychic
+|type2=Flying
+|Normal=100
+|Fighting=25
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=100
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=50
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1}}
+
+====Sensu Style====
+{{TypeEffectiveness
+|type1=Ghost
+|type2=Flying
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=50
+|Ground=0
+|Rock=200
+|Bug=25
+|Ghost=200
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=½
+|flying=yes
+|newground=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Oricorio|Fire|Flying|7}}
+{{learnlist/level7|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level7|4|Growl|Normal|Status|—|100|40}}
+{{learnlist/level7|6|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level7|10|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/level7|13|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/level7|16|Baton Pass|Normal|Status|—|—|40}}
+{{learnlist/level7|20|Feather Dance|Flying|Status|—|100|15}}
+{{learnlist/level7|23|Double Slap|Normal|Physical|15|85|10}}
+{{learnlist/level7|26|Teeter Dance|Normal|Status|—|100|20}}
+{{learnlist/level7|30|Roost|Flying|Status|—|—|10}}
+{{learnlist/level7|33|Captivate|Normal|Status|—|100|20}}
+{{learnlist/level7|36|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|40|Revelation Dance|Normal|Special|90|100|15||'''}}
+{{learnlist/level7|43|Mirror Move|Flying|Status|—|—|20}}
+{{learnlist/level7|46|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level7|50|Hurricane|Flying|Special|110|70|10||'''}}
+{{learnlist/levelf/7|Oricorio|Fire|Flying|7|form=yes}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Oricorio|Fire|Flying|7}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|—|—|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Oricorio|Fire|Flying|7|form=yes}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Oricorio|Fire|Flying|7}}
+{{learnlist/breed7|{{MSP|741|Oricorio}}|Captivate|Normal|Status|—|100|20}}
+{{learnlist/breed7|{{MSP|022|Fearow}}{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|277|Swellow}}{{MSP|334|Altaria}}{{MSP|566|Archen}}<br>{{MSP|567|Archeops}}{{MSP|722|Rowlet}}{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}<br>{{MSP|733|Toucannon}}|Pluck|Flying|Physical|60|100|20||'''}}
+{{learnlist/breed7|{{MSP|176|Togetic}}{{MSP|333|Swablu}}{{MSP|334|Altaria}}|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|178|Xatu}}{{MSP|198|Murkrow}}{{MSP|279|Pelipper}}<br>{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|561|Sigilyph}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}<br>{{MSP|627|Rufflet}}{{MSP|628|Braviary}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}{{MSP|714|Noibat}}<br>{{MSP|715|Noivern}}<br>|Tailwind|Flying|Status|—|—|15}}
+{{learnlist/breedf/7|Oricorio|Fire|Flying|7|form=yes}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Oricorio|Fire|Flying|7|form=yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutorf/7|Oricorio|Fire|Flying|7|form=yes}}
+
+===Side game data===
+{{Spindata/Head|type=Fire|type2=Flying}}
+{{Spindata/Shuffle|col=3|type=Fire|ndex=741|num=716
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Three Force
+|skilldesc=Increases damage when you make a match of three.
+}}
+{{Spindata/Shuffle|col=3|type=Fire|ndex=741Po|stype=Electric|num=716
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Three Force
+|skilldesc=Increases damage when you make a match of three.
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Fire|ndex=741Pa|stype=Psychic|num=716
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Three Force
+|skilldesc=Increases damage when you make a match of three.
+}}
+{{Spindata/Shuffle|col=3|type=Fire|ndex=741Se|stype=Ghost|num=716
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Three Force
+|skilldesc=Increases damage when you make a match of three.
+}}
+|}
+
+===Evolution===
+{{Evobox/Formes
+|sprite1=741Oricorio-Baile
+|type1-disp=Fire
+|type2-disp=Flying
+|name1=Oricorio
+|type1-1=Fire
+|type2-1=Flying
+|forme1=Baile Style
+|loc1=
+|sprite2=741Oricorio-Pom-Pom
+|type1-2=Electric
+|type2-2=Flying
+|forme2=Pom-Pom Style
+|loc2=
+|sprite3=741Oricorio-Pa'u
+|type1-3=Psychic
+|type2-3=Flying
+|forme3=Pa'u Style
+|loc3=
+|sprite4=741Oricorio-Sensu
+|type1-4=Ghost
+|type2-4=Flying
+|forme4=Sensu Style
+|loc4=}}
+
+===Sprites===
+{{Spritebox/Header|type=Fire|type2=Flying}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7/4Forms|ndex=741|form1=Po|form2=Pa|form3=Se}}
+{{Spritebox/Footer|741|Oricorio}}
+
+==Trivia==
+* The color for each Oricorio form corresponds to the Hawaiian word from which the name of its native island is derived.
+* When opening up [[Pokémon Refresh]], all four forms of Oricorio use Baile Style's cry.
+
+===Origin===
+Oricorio may be inspired by {{wp|Hawaiian honeycreeper}}s, small passerine birds native to Hawaii. Hawaiian honeycreepers feed on nectar of various plants, but each species favors a specific flower that its beak is adapted to. Oricorio's dancing may also derive from the {{wp|Courtship display|mating dances}} of some birds.
+
+Its dancing styles are inspired by different forms of dance. The Baile Style refers to {{wp|flamenco}}, the Pom-Pom Style refers to {{wp|cheerleading}}, the Pa'u Style refers to {{wp|hula}} (pāʻū being a Hawaiian word for skirt, especially ones that may be used in hula), and the Sensu Style refers to {{wp|Buyō|Japanese dance}} (扇子 ''sensu'' being the Japanese word for a folding fan as may be used in such dances).
+
+====Name origin====
+Oricorio may be a combination of ''{{wp|Old World oriole|oriole}}'' and ''choreography''. It may also incorporate ''{{wp|oratorio}}''.
+
+Odoridori may be a combination of 踊り ''odori'' (dance), 鳥 ''tori'' (bird), and 色とりどり ''irotoridori'' (varicolored).
+
+==In other languages==
+{{Other languages|type=Fire|type2=Flying
+|ja=オドリドリ ''Odoridori''|jameaning=From {{tt|踊り ''odori''|dance}}, {{tt|鳥 ''tori''|bird}}, and {{tt|色とりどり ''irotoridori''|varicolored}}
+|fr=Plumeline|frmeaning=From ''plume''
+|es=Oricorio|esmeaning=Same as English name
+|de=Choreogel|demeaning=From {{tt|Choreografie|choreography}} and {{tt|Vogel|bird}}
+|it=Oricorio|itmeaning=Same as English name
+|ko=춤추새 ''Chumchusae''|komeaning=From {{tt|춤추다 ''chumchuda''|dance}} and {{tt|새 ''sae''|bird}}
+|zh_cmn=花舞鳥 / 花舞鸟 ''Huāwǔniǎo''|zh_cmnmeaning=From {{tt|花舞 ''huāwǔ''|fancy dance}} and {{tt|鳥 ''niǎo''|bird}}
+|zh_yue=花舞鳥 ''Fāmóuhníuh''|zh_yuemeaning=From {{tt|花舞 ''fāmóuh''|fancy dance}} and {{tt|鳥 ''níuh''|bird}}
+|ru=Орикорио ''Orikorio''|rumeaning=Transcription of English name}}
+{{-}}
+
+{|
+|- style="vertical-align:top"
+|
+''Baile Style''
+{{langtable|color={{fire color}}|bordercolor={{flying color dark}}
+|ja=めらめらスタイル ''Mera-Mera Style''
+|zh_cmn=熱辣熱辣風格 / 热辣热辣风格 ''Rèlà-Rèlà Fēnggé''
+|zh_yue=熱辣熱辣風格 ''Yihtlaaht-Yihtlaaht Fūnggaak''
+|da=Flamenco-stil
+|nl=Flamenco-stijl{{tt|*|anime}}<br>Baile-stijl{{tt|*|Sun and Moon material}}
+|fi=Tanssityyli
+|fr=Style Flamenco
+|de=Flamenco-Stil
+|it=Stile Flamenco
+|ko=이글이글스타일 ''Igeur-Igeul Style''
+|no=Flamenco-stil
+|pl=Styl Baile
+|ru=Бальный стиль ''Bal'nyy stil'''
+|es=Estilo Apasionado
+|sv=Dans-stil
+|vi=Hình thái Vũ điệu Lửa Bập Bùng
+}}
+|
+''Pom-Pom Style''
+{{langtable|color={{electric color}}|bordercolor={{flying color dark}}
+|ja=ぱちぱちスタイル ''Pachi-Pachi Style''
+|zh_cmn=啪滋啪滋風格 / 啪滋啪滋风格 ''Pāzī-Pāzī Fēnggé''
+|zh_yue=啪滋啪滋風格 ''Pāakjī-Pāakjī Fūnggaak''
+|da=Pom-Pom-stil
+|nl=Pom-Pom-stijl
+|fi=Pom-Pom-tyyli
+|fr=Style Pom-Pom
+|de=Cheerleading-Stil
+|it=Stile Cheerdance
+|ko=파칙파칙스타일 ''Pachik-Pachik Style''
+|no=Pom-Pom-stil
+|pl=Styl Pomponowy
+|pt_br=Estilo Animado
+|ru=Стиль Пом-Пом ''Stil' Pom-Pom''
+|es=Estilo Animado
+|sv=Pom-Pom-stil
+|vi=Hình thái Vũ điệu Nổ Lép Bép
+}}
+|- style="vertical-align:top"
+|
+''Pa'u Style''
+{{langtable|color={{psychic color}}|bordercolor={{flying color dark}}
+|ja=ふらふらスタイル ''Fura-Fura Style''
+|zh_cmn=呼拉呼拉風格 / 呼拉呼拉风格 ''Hūlā-Hūlā Fēnggé''
+|zh_yue=呼拉呼拉風格 ''Fūlāai-Fūlāai Fūnggaak''
+|nl=Pa'u-stijl
+|fr=Style Hula
+|de=Hula-Stil
+|it=Stile Hula
+|ko=훌라훌라스타일 ''Hula-Hula Style''
+|pl=Styl Pa'u
+|ru=Стиль Пау ''Stil' Pau''
+|es=Estilo Plácido
+|vi=Hình thái Vũ điệu Hula
+}}
+|
+''Sensu Style''
+{{langtable|color={{ghost color}}|bordercolor={{flying color dark}}
+|ja=まいまいスタイル ''Mai-Mai Style''
+|zh_cmn=輕盈輕盈風格 / 轻盈轻盈风格 ''Qīngyíng-Qīngyíng Fēnggé''
+|zh_yue=輕盈輕盈風格 ''Hīngyìhng-Hīngyìhng Fūnggaak''
+|nl=Sensu-stijl
+|fr=Style Buyō
+|de=Buyo-Stil
+|it=Stile Buyō
+|ko=하늘하늘스타일 ''Haneul-Haneul Style''
+|pl=Styl Sensu
+|ru=Чувственный стиль ''Chuvstvennyy stil'''
+|es=Estilo Refinado
+|vi=Hình thái Vũ điệu Nhật Bản
+}}
+|}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Fire|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Fire|prevnum=740|prev=Crabominable|nextnum=742|next=Cutiefly}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Yellow-colored Pokémon]]<!--Pom-Pom Style-->
+[[Category:Pink-colored Pokémon]]<!--Pa'u Style-->
+[[Category:Purple-colored Pokémon]]<!--Sensu Style-->
+
+[[de:Choreogel]]
+[[fr:Plumeline]]
+[[it:Oricorio]]
+[[ja:オドリドリ]]
+[[zh:花舞鸟]]

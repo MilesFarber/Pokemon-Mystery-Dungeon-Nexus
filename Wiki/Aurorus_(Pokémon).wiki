@@ -1,0 +1,335 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Ice}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=698|prev=Amaura|nextnum=700|next=Sylveon}}
+|}
+{{Pokémon Infobox
+|name=Aurorus
+|jname=アマルルガ
+|tmname=Amaruruga
+|category=Tundra
+|ndex=699
+|karea=Coastal
+|kdex=067
+|typebox=1
+|type1=Rock
+|type2=Ice
+|height-ftin=8'10"
+|height-m=2.7
+|weight-lbs=496.0
+|weight-kg=225.0
+|abilityn=d
+|ability1=Refrigerate
+|abilityd=Snow Warning
+|egggroupn=1
+|egggroup1=Monster
+|gendercode=31
+|eggcycles=30
+|evtotal=2
+|evhp=2
+|expyield=104
+|lv100exp=1,000,000
+|color=Blue
+|catchrate=45
+|body=08
+|pokefordex=aurorus
+|generation=6
+|friendship=70
+}}
+'''Aurorus''' ([[List of Japanese Pokémon names|Japanese]]: '''アマルルガ''' ''Amaruruga'') is a dual-type {{2t|Rock|Ice}} [[Fossil]] {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Amaura}} when [[level]]ed up at [[Time|night]] starting at level 39, after it is revived from a [[Jaw and Sail Fossils|Sail Fossil]].
+
+==Biology==
+Aurorus is a quadruped, dinosaurian Pokémon that is similar to {{wp|sauropoda|sauropods}}. It is primarily blue with a lighter underside. There are two lines of small ice crystals running the length of its body, one line on each side. These crystals produce freezing air reaching temperatures of -240 degrees Fahrenheit. A white, V-shaped mark covers the top of its head with another ice crystal in the center, giving it the appearance of wearing a tiara or a headress. Two large, flowing sails extend from the top of its head and run down its long neck. The sails are pale whitish-yellow at the base, and fade into a pale bluish-purple at the edges. There are three clawed toes on its hind legs, but one large nail and a single claw on its forelegs. The tip of its long, tapering tail is teardrop-shaped and curls inward.
+
+Aurorus are usually timid and kindly in nature, but can use its abilities to create ice walls and encase opponents for its protection.
+
+==In the anime==
+[[File:Aurorus anime.png|thumb|250px|left|Aurorus in the {{pkmn|anime}}]]
+===Major appearances===
+Aurorus debuted in ''[[XY023|Coming Back into the Cold!]]'' alongside its pre-evolution, {{p|Amaura}}. It reappeared in the newspaper in ''[[XY027|To Find a Fairy Flower!]]''.
+
+===Minor appearances===
+A fossil of an Aurorus appeared in ''[[SM001|Alola to New Adventure!]]'', in the [[Pokémon School]].
+
+==In the manga==
+[[File:Grant Aurorus Adventures.png|thumb|left|150px|Aurorus in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PAXY17|Shooting Frogadier]]'', [[Grant]] was shown with an Aurorus. After several minor appearances, it was used in the attempt to stop the [[ultimate weapon]] from activating.
+
+==In the TCG==
+{{main|Aurorus (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=rock|type2=ice}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The diamond-shaped crystals on its body expel air as cold as {{tt|-240 degrees Fahrenheit|-150 degrees Celsius}}, surrounding its enemies and encasing them in ice.}}
+{{Dex/Entry1|v=Y|entry=Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent's attack.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=The diamond-shaped crystals on its body expel air as cold as {{tt|-240 degrees Fahrenheit|-150 degrees Celsius}}, surrounding its enemies and encasing them in ice.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Using its diamond-shaped crystals, it can instantly create a wall of ice to block an opponent's attack.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=An Aurorus was found frozen solid within a glacier, just as it appeared long ago, which became quite a big event in the news.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This usually quiet and kindly Pokémon has a surface temperature of around –240 degrees Fahrenheit.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=rock|type2=ice}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Amaura}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Amaura}}}}
+
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Ice}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 3|Mountain of Order: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Mt. Vinter|Mt. Vinter: Stage 116]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Ice Floe Island|Dark Land: Ice Floe Island]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|type2=Ice
+|HP=     123
+|Attack= 77
+|Defense=72
+|SpAtk=  99
+|SpDef=  92
+|Speed=  58}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type2=Ice
+|type1=Rock
+|Normal=   50
+|Flying=   50
+|Fighting=400
+|Ground=  200
+|Rock=    200
+|Bug=      100
+|Poison=   50
+|Ghost=   100
+|Steel=   400
+|Fire=    100
+|Water=   200
+|Grass=   200
+|Electric=100
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=no
+}}
+
+===Learnset===
+All damage-dealing {{type|Normal}} moves will get STAB if Aurorus has the Ability {{a|Refrigerate}}.
+
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Aurorus|Rock|Ice|6}}
+{{learnlist/level7|1|Freeze-Dry|Ice|Special|70|100|20||'''}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level7|1|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/level7|1|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Freeze-Dry|Ice|Special|70|100|20||'''}}
+{{learnlist/level7|5|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/level7|10|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level7|13|Icy Wind|Ice|Special|55|95|15||'''}}
+{{learnlist/level7|15|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|18|Mist|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|20|Aurora Beam|Ice|Special|65|100|20||'''}}
+{{learnlist/level7|26|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level7|30|Round|Normal|Special|60|100|15}}
+{{learnlist/level7|34|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/level7|38|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|43|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|46|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/level7|50|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|56|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/level7|63|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/level7|74|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/levelf/7|Aurorus|Rock|Ice|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Aurorus|Rock|Ice|6}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Aurorus|Rock|Ice|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Aurorus|Rock|Ice|6}}
+{{learnlist/breed7|{{MSP|258|Mudkip}}|Barrier|Psychic|Status|&mdash;|&mdash;|20|*}}
+{{learnlist/breed7|{{MSP|179|Mareep}}{{MSP|180|Flaaffy}}{{MSP|181|Ampharos}}|Discharge|Electric|Special|80|100|15}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}|Haze|Ice|Status|&mdash;|&mdash;|30|*}}
+{{learnlist/breed7|{{MSP|179|Mareep}}{{MSP|180|Flaaffy}}{{MSP|181|Ampharos}}{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}<br>{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}{{MSP|694|Helioptile}}{{MSP|695|Heliolisk}}{{MSP|698|Amaura}}{{MSP|699|Aurorus}}|Magnet Rise|Electric|Status|&mdash;|&mdash;|10|‡}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}|Mirror Coat|Psychic|Special|&mdash;|100|20|*}}
+{{learnlist/breedf/7|Aurorus|Rock|Ice|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Aurorus|Rock|Ice|6}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Aurorus|Rock|Ice|6}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Aurorus|Rock|Ice|6}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Aurorus|Rock|Ice|6}}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Ice}}
+{{Template:Spindata/Battle Trozei|col=6|type=Rock|ndex=699
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Rock|ndex=699|num=121
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Damage Streak
+|skilldesc=Increases damage when it is triggered in a row.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=rock
+|type2=ice
+|no1=698
+|name1=Amaura
+|type1-1=Rock
+|type2-1=Ice
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 39}}<br><small>at {{color2|000|Time|night}}</small>
+|no2=699
+|name2=Aurorus
+|type1-2=Rock
+|type2-2=Ice}}
+
+===Sprites===
+{{Spritebox/Header|type=rock|type2=ice}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=699}}
+{{Spritebox/7|ndex=699}}
+{{Spritebox/Footer|699|Aurorus}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Aurorus and {{p|Amaura|its pre-evolution}}.
+* Aurorus has the highest base {{stat|HP}} of all Rock-type Pokémon.
+* Aurorus and its {{p|Amaura|pre-evolution}} were designed by [[Hitoshi Ariga]].<ref>[http://hitoshiariga.deviantart.com/art/Pocket-Monsters-XY-413536751 Pocket Monsters XY by HitoshiAriga on deviantART]</ref>
+*Aurorus is the [[List of Pokémon by height|tallest]] [[Fossil]] Pokémon.
+
+===Origin===
+Aurorus is based on an ''{{wp|Amargasaurus}}'', which were speculated to have possible skin sail extensions on their vertebral spines. It also shares traits with various species of {{wp|Diplodocoidea}}. The color-changing sails are also based on {{wp|Aurora (astronomy)|aurora}}s, most likely aurora borealis due to its partial Ice typing, and the fact it only evolves at night, when the aurora borealis is most often seen. Similar to Tyrantrum, considering its white, V-shaped mark with an ice crystal covering the top of its head and two flowing extended sails running down its neck, it may have also been based upon a {{wp|queen}}, with the mark and the two flowing sails acting as a tiara or a headress worn by queens from medieval times while its body with small ice crystals resembles a dress.
+
+====Name origin====
+Aurorus may be a combination of ''aurora'' and ''Amargasaurus''.
+
+Amaruruga is from ''Amargasaurus''.
+
+==In other languages==
+{{Other languages|type=Rock|type2=Ice
+|ja=アマルルガ ''Amaruruga''|jameaning=From ''{{wp|Amargasaurus}}''
+|fr=Dragmara|frmeaning=From ''dragon'' and ''Amargasaurus''
+|es=Aurorus|esmeaning=Same as English name
+|de=Amagarga|demeaning=From ''Amargasaurus'' and possibly ''{{wp|Caves of Gargas|Gargas}}''
+|it=Aurorus|itmeaning=Same as English name
+|ko=아마루르가 ''Amarureuga''|komeaning=From its Japanese name
+|zh_cmn=冰雪巨龍 ''Bīngxuějùlóng''|zh_cmnmeaning=From {{tt|冰雪 ''bīngxuě''|snow and ice}}, {{tt|巨 ''jù''|gigantic}}, and {{tt|恐龍 ''kǒnglóng''|dinosaur}}
+|zh_yue=冰雪巨龍 ''Bīngsyutgeuihlùhng''|zh_yuemeaning=From {{tt|冰雪 ''bīngsyut''|snow and ice}}, {{tt|巨 ''geuih''|gigantic}}, and {{tt|恐龍 ''húnglùhng''|dinosaur}}
+|hi=औरोरस ''Aurorus''|himeaning=Transcription of English name
+|ru=Аврорус ''Avrorus''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Rock|type2=Ice}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=698|prev=Amaura|nextnum=700|next=Sylveon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Fossil Pokémon]]
+
+[[de:Amagarga]]
+[[fr:Dragmara]]
+[[it:Aurorus]]
+[[ja:アマルルガ]]
+[[pl:Aurorus]]
+[[zh:冰雪巨龙]]

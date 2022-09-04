@@ -1,0 +1,504 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Corphish}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=340|prev=Whiscash|nextnum=342|next=Crawdaunt|round=none}}
+{{PokémonPrevNext/Disambig|species=Corphish}}
+|}
+{{Pokémon Infobox
+|name=Corphish
+|jname=ヘイガニ
+|tmname=Heigani
+|ndex=341
+|hdex=129
+|hdex6=134
+|u2dex=279
+|karea=Central
+|kdex=051
+|fbrow=071
+|typebox=1
+|type1=Water
+|category=Ruffian
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=25.4
+|weight-kg=11.5
+|abilityn=d
+|ability1=Hyper Cutter
+|ability2=Shell Armor
+|abilityd=Adaptability
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Water 3
+|eggcycles=15
+|evtotal=1
+|evat=1
+|expyield=62
+|oldexp=111
+|lv100exp=1,640,000
+|gendercode=127
+|color=Red
+|catchrate=205
+|body=14
+|pokefordex=corphish
+|generation=3
+|friendship=70
+}}
+'''Corphish''' ([[List of Japanese Pokémon names|Japanese]]: '''ヘイガニ''' ''Heigani'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolve]]s into {{p|Crawdaunt}} starting at [[level]] 30.
+
+==Biology==
+Corphish is a red-shelled, crustacean Pokémon with a short tail similar to a lobster. Its eyes are saucer-like with small pupils, and it has three spikes on top of its head. It possesses four pairs of limbs in total: two large pincers used for gripping prey, and three pairs of legs used for walking. The upper segments of its legs, underside of its body and lower halves of its pincers are cream-colored. 
+
+A hardy creature, Corphish is able to live in {{DL|List of Pokémon by habitat|Water's-edge Pokémon|polluted water}} and eat nearly anything. Though not native to [[Alola]], Corphish set free by Trainers here have easily adapted and thrived in the region. {{p|Feebas}} and Corphish are the only Pokémon known to be able to live in stagnant ditches.
+
+==In the anime==
+[[File:Ash Corphish.png|250px|left|thumb|Corphish in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Corphish]]====
+A Corphish appeared in ''[[AG023|Gone Corphishin']]''. {{Ash}} battled and captured this Ruffian Pokémon at the end of the episode. [[Ash's Corphish]] serves as the main comic relief of Ash's [[party|team]] and the only Pokémon that Ash captured in [[Hoenn]] that hasn't evolved.
+
+====Other====
+Corphish debuted in ''[[AG021|Which Wurmple's Which?]]''. Ash caught it on his fishing line and it subsequently attacked him and {{ashfr}}.
+
+A Corphish appeared in the ''[[SS020|Pokémon Mystery Dungeon: Explorers of Time & Darkness]]'' and ''[[SS021|Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness]]''. He was one of the two Pokémon (the other being {{mdc|Chatot|2}}) who kicked Team Razor Wind out of their guild.
+
+A Corphish appeared in ''[[DP112|Cheers on Castaways Isle!]]'', where it was shown stacking the rocks around a glowing jewel which turns out to be a {{p|Deoxys}}.
+
+A Corphish appeared in ''[[PK24|Meloetta's Moonlight Serenade]]''.
+
+A Corphish was caught by [[Soren and Rocko|Rocko]] in ''[[BW099|A Surface to Air Tag Battle Team!]]''.
+
+===Minor appearances===
+A Corphish appeared in ''[[DP147|Bagged Then Tagged!]]''.
+
+A Corphish appeared in a flashback in ''[[XY040|Day Three Blockbusters!]]''.
+
+A Corphish appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG021|Corphish|Ash's Pokédex|Corphish, the Ruffian Pokémon. Corphish uses its sharp pincers to capture prey. It can happily live even in very polluted waters.}}
+{{Animedexbody|AG023|Corphish|Ash's Pokédex|Corphish, the Ruffian Pokémon. Corphish is exceptional in its ability to survive. It adapts to any environment, will drive out its inhabitants, and claim the territory for its own.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+{{Animedexheader|Unova}}
+{{Animedexbody|BW099|Corphish|Ash's Pokédex|Corphish, the Ruffian Pokémon. Corphish lives anywhere, adapting to its surroundings, its pincers hold on tightly when it catches prey.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Tierno Corphish Adventures.png|thumb|200px|Corphish in [[Pokémon Adventures]]]]
+===In the Ash & Pikachu manga===
+{{main|Ash's Corphish}}
+{{Ash}} owns a Corphish in the [[Ash & Pikachu]] manga.
+
+===In the Pokémon Adventures manga===
+A Corphish was first seen being used by [[Team Aqua]] to attack {{adv|Ruby}} and {{adv|Sapphire}} at the [[Seafloor Cavern]] in ''[[PS243|No Armaldo Is an Island]]''.
+
+The Battle Factory rented a Corphish which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''.
+
+In ''[[PS526|Mr. Perfect]]'', the {{adv|Magician}} was seen with a Corphish that helps delivers equipment to {{adv|Blake}}.
+
+{{Adv|Tierno}} owns a Corphish. It first appeared in ''[[PAXY01|An X-cuse to Come Out and Play]]''.
+
+===In the Pokémon Mystery Dungeon: Blazing Exploration Team manga===
+Corphish appeared in [[BET2]] as part of [[List of Wigglytuff's Guild members|Wigglytuff's Guild members]].
+
+===In the Pokémon Pocket Monsters manga===
+A Corphish appeared in ''[[PMRS39|Pokémon New Year]]'' of the [[Pokémon Ruby-Sapphire]] manga.
+
+==In the TCG==
+{{main|Corphish (TCG)}}
+
+==Game data==
+===NPC appearances===
+[[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]]: Corphish is a member of the [[Wigglytuff's Guild]]. His catchphrase is "Hey, hey, hey!"
+
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Corphish were originally foreign Pokémon that were imported as pets. They eventually turned up in the wild. This Pokémon is very hardy and has greatly increased its population.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Corphish catches prey with its sharp claws. It has no likes or dislikes when it comes to food - it will eat anything. This Pokémon has no trouble living in filthy water.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Once it grips prey with its large pincers, it will never let go, no matter what. It is a hardy Pokémon that can thrive in any environment.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It came from overseas. It is a very hardy creature that will quickly proliferate, even in polluted streams.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It was originally a Pokémon from afar that escaped to the wild. It can adapt to the dirtiest river.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=No matter how dirty the water in the river, it will adapt and thrive. It has a strong will to survive.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=No matter how dirty the water in the river, it will adapt and thrive. It has a strong will to survive.}}
+{{Dex/Entry1|v=Y|entry=Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Corphish were originally foreign Pokémon that were imported as pets. They eventually turned up in the wild. This Pokémon is very hardy and has greatly increased its population.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Corphish catches prey with its sharp claws. It has no likes or dislikes when it comes to food—it will eat anything. This Pokémon has no trouble living in filthy water.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=Individuals that have been set free by Trainers who could no longer raise them have become common, and they can now be found in Alola.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It can adapt very well to its environment. Feebas and Corphish are about the only Pokémon to live in stagnant ditches.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|102|Hoenn}} and {{rtn|117|Hoenn}}, [[Petalburg City]] ({{DL|Fishing|Good Rod}} or {{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Route]]s {{rtn|102|Hoenn}} and {{rtn|117|Hoenn}}, [[Petalburg City]] ({{DL|Fishing|Good Rod}} or {{DL|Fishing|Super Rod}})}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Celestic Town]] ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|v=Platinum|area=[[Celestic Town]] ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}} ({{DL|Fishing|Good Rod}} or {{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[White Forest]] ({{m|Surf}}ing)}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{rt|3|Unova}} and [[Striaton City]] ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Sparkling Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{rt|3|Kalos}} and [[Parfum Palace]] ({{DL|Fishing|Good Rod}})}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|102|Hoenn}}, {{rtn|117|Hoenn}}, and {{rtn|123|Hoenn}}, [[Petalburg City]] ({{DL|Fishing|Good Rod}} or {{DL|Fishing|Super Rod}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Vast Poni Canyon]] ([[Fishing]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Lake ({{color2|{{sapphire color}}|Sapphire Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 2]], [[Huge Storage 3]], Endless Level 4, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Waterfall Pond]] (6F-12F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Waterworks]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Lake Afar]] (B1-B24)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Beach Zone]], [[Meeting Place]]{{tt|*|cannot be befriended in the Meeting Place}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Challenger's Ground]], Desert: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=PokéPark 2|color={{grass color}}|link=PokéPark 2: Wonders Beyond|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#The Electrifying Tynamo|Vehicle Gallery: The Electrifying Tynamo]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Wednesday Stage 1|Safari Jungle: Stage 1]]{{dotw|We}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 522]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Sea of Origin|Sapphire Sea: Sea of Origin]] <small>(All Areas)</small>, [[Fairy Land#Rippling Shoal|Fairy Land: Rippling Shoal]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Water}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|PokéPark Egg Corphish|Japanese|Japan|5|March 12 to May 8, 2005|link=List of Japanese event Pokémon distributions in Generation III#Corphish}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|HP=     43
+|Attack= 80
+|Defense=65
+|SpAtk=  50
+|SpDef=  35
+|Speed=  35}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=4
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=  100
+|Flying=  100
+|Fighting=100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Poison=  100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Grass=   200
+|Electric=200
+|Psychic= 100
+|Water=    50
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Corphish|Water|Water|3}}
+{{learnlist/level7|1|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/level7|5|Harden|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|7|Vice Grip|Normal|Physical|55|100|30}}
+{{learnlist/level7|10|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|14|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level7|17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|20|Double Hit|Normal|Physical|35|90|10}}
+{{learnlist/level7|23|Knock Off|Dark|Physical|65|100|20||''}}
+{{learnlist/level7|26|Night Slash|Dark|Physical|70|100|15||''}}
+{{learnlist/level7|31|Razor Shell|Water|Physical|75|95|10||'''}}
+{{learnlist/level7|34|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|37|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|39|Crunch|Dark|Physical|80|100|15||''}}
+{{learnlist/level7|43|Crabhammer|Water|Physical|100|90|10||'''}}
+{{learnlist/level7|48|Guillotine|Normal|Physical|&mdash;|&mdash;|5}}
+{{learnlist/levelf/7|Corphish|Water|Water|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Corphish|Water|Water|3}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10||''}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Corphish|Water|Water|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Corphish|Water|Water|3}}
+{{learnlist/breed7|{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|222|Corsola}}{{MSP|345|Lileep}}<br>{{MSP|346|Cradily}}{{MSP|347|Anorith}}{{MSP|348|Armaldo}}{{MSP|369|Relicanth}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}<br>{{MSP|566|Archen}}{{MSP|567|Archeops}}{{MSP|688|Binacle}}{{MSP|689|Barbaracle}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed7|{{MSP|055|Golduck}}{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|283|Surskit}}<br>{{MSP|395|Empoleon}}{{MSP|400|Bibarel}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}<br>{{MSP|594|Alomomola}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Aqua Jet|Water|Physical|40|100|20||'''}}
+{{learnlist/breed7|{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|131|Lapras}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}<br>{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}|Chip Away|Normal|Physical|70|100|20}}
+{{learnlist/breed7|{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|369|Relicanth}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}|Dragon Dance|Dragon|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|258|Mudkip}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|566|Archen}}{{MSP|567|Archeops}}|Endeavor|Normal|Physical|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|271|Lombre}}{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}|Knock Off|Dark|Physical|65|100|20||''}}
+{{learnlist/breed7|{{MSP|098|Krabby}}{{MSP|099|Kingler}}{{MSP|347|Anorith}}{{MSP|348|Armaldo}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/breed7|{{MSP|098|Krabby}}{{MSP|099|Kingler}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|258|Mudkip}}{{MSP|347|Anorith}}<br>{{MSP|348|Armaldo}}{{MSP|369|Relicanth}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}{{MSP|618|Stunfisk}}{{MSP|771|Pyukumuku}}|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|399|Bidoof}}<br>{{MSP|400|Bibarel}}{{MSP|686|Inkay}}{{MSP|687|Malamar}}|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/breed7|{{MSP|686|Inkay}}{{MSP|687|Malamar}}|Switcheroo|Dark|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|199|Slowking}}|Trump Card|Normal|Special|&mdash;|&mdash;|5}}
+{{learnlist/breedf/7|Corphish|Water|Water|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Corphish|Water|Water|3}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Corphish|Water|Water|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background:#{{tcg grass color light}}; border:3px solid #{{tcg grass color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Slash}}
+| [[Corphish (EX Dragon 53)]]
+|- style="background:#fff"
+| {{m|Flail}}
+| [[Corphish (EX Holon Phantoms 63)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/PinballRS|col=3|type=Water|ndex=341|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Water|ndex=341|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=341
+|body=1
+|rate=8.8
+|area=Turtleshell Pond
+|P1=Hey, you don't have a clue how hardy my kind can be!
+|P2=Hey, there. My HP's down halfway.
+|P3=Hey, I've had it. My pincers lost their grip...
+|PL=Hey, I leveled up! That's happy news!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=341
+|body=1
+|rate=8.2
+|IQ=B
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=1
+|field=Soak
+|loop=6
+|MinEXP=16
+|MaxEXP=19
+|browser=Corphish blows {{m|bubble}}s from its mouth. It stops moving, then scurries about.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Water|ndex=341
+|Pad=Corphish often play in the [[Beach Zone]]. They say "Hey hey!" a lot and really love to {{pkmn|battle}}!
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=341
+|strong=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|weak=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=They came to [[Cove Town]] in search of freedom. Team Corphish's bonds are very strong.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=341
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=341|num=664
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Final Effort
+|skilldesc=Deals a ton of damage when there are no more moves left.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=341
+|hatch=5 km
+|buddy=3
+|evocandy=50
+|stamina=86
+|attack=141
+|defense=113
+|fast={{m|Bubble}}, {{m|Rock Smash}}
+|special={{m|Vice Grip}}, {{m|Bubble Beam}}, {{m|Aqua Jet}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Water
+|pictype=art
+|no1=341
+|name1=Corphish
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no2=342
+|name2=Crawdaunt
+|type1-2=Water
+|type2-2=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=341}}
+{{Spritebox/4|ndex=341}}
+{{Spritebox/5|ndex=341}}
+{{Spritebox/6|ndex=341}}
+{{Spritebox/7|ndex=341}}
+{{Spritebox/Footer|341|Corphish}}
+
+==Trivia==
+*Corphish is the only Pokémon to date with a [[catch rate]] of 205.
+*Corphish can be found in the Hoenn region, but it says in its Pokédex entries that it came from another region overseas. This would make it the first exotic species in the Pokémon world.
+*Corphish's tendency to say "Hey, hey!" in such games as [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]] and [[PokéPark Wii: Pikachu's Adventure]] is a reference to its Japanese name, "Heigani".
+
+===Origin===
+Based on its {{game|Ruby and Sapphire|s|Ruby}} Pokédex entry, Corphish is probably based on the {{wp|red swamp crayfish}}.
+
+====Name origin====
+Corphish may be a combination of ''{{wp|corps}}'' (a branch of military servicemen; pronounced as ''core'') or ''{{wp|corporal}}'' (a member of the military or police force) and ''{{wp|crayfish}}'' (the species it is based on). Alternatively, it could derive from the archaic Newfoundland fishing term ''corfish'', which are a type of dried fish.
+
+Heigani is a combination of 弊 ''hei'' (''a bad habit'' or ''to harm'') or 兵 ''hei'' (army/troops) and ''ebigani'' (crayfish).
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=ヘイガニ ''Heigani''|jameaning=From {{tt|弊 ''hei''|a bad habit/to harm}}, {{tt|兵 ''hei''|army/troops}}, and {{tt|''ebigani''|crayfish}}
+|fr=Écrapince|frmeaning=From {{tt|''écrase''|crush}} and {{tt|''pince''|pincer}}. May contain a corruption of {{tt|''écrevisse''|crayfish}}
+|es=Corphish|esmeaning=Same as English name
+|de=Krebscorps|demeaning=From ''{{tt|Krebs|crayfish}}'' and ''corps''
+|it=Corphish|itmeaning=Same as English name
+|ko=가재군 ''Gazegun''|komeaning= From {{tt|가재 ''gajae''|lobster}} and {{tt|군 (軍) ''gun''|army}}
+|zh_cmn=龍蝦小兵 / 龙虾小兵 ''Lóngxiāxiǎobīng''|zh_cmnmeaning=From {{tt|龍蝦 ''lóngxiā''|lobster}}, {{tt|小龍蝦 ''xiǎo​lóng​xiā''|crayfish}}, and {{tt|小兵 ''xiǎobīng''|foot soldier}}
+|hi=करफिश ''Corphish''|himeaning=Transliteration of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Corphish]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=340|prev=Whiscash|nextnum=342|next=Crawdaunt}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Krebscorps]]
+[[fr:Écrapince]]
+[[it:Corphish]]
+[[ja:ヘイガニ]]
+[[pl:Corphish]]
+[[zh:龙虾小兵]]

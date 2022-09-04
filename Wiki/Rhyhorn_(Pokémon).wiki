@@ -1,0 +1,617 @@
+{{PokémonPrevNext/Head|type=Ground|type2=Rock}}
+{{PokémonPrevNext/GO|species=Rhyhorn}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=110|prev=Weezing|nextnum=112|next=Rhydon|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Rhyhorn
+|jname=サイホーン
+|jtranslit=Saihōn
+|tmname=Sihorn
+|ndex=111
+|oldjdex=206
+|jdex=211
+|hdex=169
+|hdex6=176
+|sdex=186
+|karea=Coastal
+|kdex=050
+|abrow=149
+|typebox=1
+|type1=Ground
+|type2=Rock
+|category=Spikes
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=253.5
+|weight-kg=115.0
+|abilityn=d
+|ability1=Lightning Rod
+|ability2=Rock Head
+|abilityd=Reckless
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Field
+|eggcycles=20
+|evtotal=1
+|evde=1
+|expyield=69
+|oldexp=135
+|lv100exp=1,250,000
+|gendercode=127
+|color=Gray
+|catchrate=120
+|body=08
+|pokefordex=rhyhorn
+|generation=1
+|friendship=70
+}}
+'''Rhyhorn''' ([[List of Japanese Pokémon names|Japanese]]: '''サイホーン''' ''Sihorn'') is a dual-type {{2t|Ground|Rock}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] into {{p|Rhydon}} starting at [[level]] 42, which evolves into {{p|Rhyperior}} when [[trade]]d holding a [[Protector]].
+
+==Biology==
+Rhyhorn is a rhinoceros-like creature with a body covered in gray, rocky plates. Its underside and rear are smooth, and it has four short legs with two claws on each foot. It has a triangular head with narrow, red eyes, two fangs protruding from its upper jaw, and small, triangular openings on the upper sides. A spiked ridge runs along its back, and it has a single short horn on the tip of its snout. The female has a shorter horn than the male. In addition to its rocky hide, its bones are a thousand times harder than human bones.
+
+Rhyhorn's brain is very small, giving it a one-track mind. When it runs, it forgets why it started and continues until it falls asleep. However, it may recall the reason upon demolishing something. Rhyhorn runs in a straight line due to its short legs making it inept at turning. It does not care if obstacles get in the way, merely smashing through them or sending them flying. Sometimes it may feel pain the day after a collision. Rhyhorn lives in {{DL|List of Pokémon by habitat|Rough-terrain Pokémon|rough terrain}}.
+
+==In the anime==
+===In the main series===
+[[File:Grace Rhyhorn.png|thumb|250px|Rhyhorn in the {{pkmn|anime}}]]
+====Major appearances====
+A Rhyhorn appeared in ''[[EP051|Bulbasaur's Mysterious Garden]]'', under the ownership of a {{an|Hiker}}. [[Ash's Bulbasaur]] defeated it in battle.
+
+A Rhyhorn owned by [[Corey]] was one of the Pokémon that was captured and cloned by {{OBP|Mewtwo|original series}} in ''[[M01|Mewtwo Strikes Back]]''. The Rhyhorn clone reappeared in ''[[Mewtwo Returns]]'', having by this point [[Pokémon breeding|bred]] a baby Rhyhorn with the clone of [[Fergus]]'s {{p|Nidoqueen}}.
+
+The first Pokémon that {{Ash}} and {{ashfr}} saw at [[Pinkan Island]] in ''[[EP088|In the Pink]]'' was a Rhyhorn, which was {{DL|List of alternately colored Pokémon in the anime|Pink Rhyhorn|pink}} in color. Although it was initially unaware of the trio, Ash rushed up to it and antagonized it. It then cornered the gang at the edge of a cliff, and attempted to charge at them, but the group was saved by {{TP|Misty|Togepi}} using {{m|Teleport}} via {{m|Metronome}}, causing Rhyhorn to charge over the cliff. It was then rescued by Ash and his friends with the help of the resident [[Officer Jenny]].
+
+A Rhyhorn charged at [[Ash's Donphan]] after it had angered it by accident in ''[[AG161|Odd Pokémon Out]]''.
+
+{{kal|Grace}} has a Rhyhorn, which debuted in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''. It was used in many races when Grace was younger. Rhyhorn was used by {{an|Serena}} as part of her Rhyhorn training before she left home. Rhyhorn later reappeared in ''[[XY053|A Race for Home!]]'' alongside Grace before reappearing in a flashback in ''[[XY060|A Showcase Debut!]]''. Rhyhorn was later seen watching Serena's performances in ''[[XY080|Performing with Fiery Charm!]]'' and ''[[XY112|Master Class is in Session!]]''.
+
+Multiple Rhyhorn appeared in ''[[XY007|Giving Chase at the Rhyhorn Race!]]'', including one that belongs to {{OBP|Ian|XY007}}.
+
+A Rhyhorn appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''. It was borrowed from the Rhyhorn racing track of [[Orsay City]] by Serena, {{an|Clemont}}, {{an|Bonnie}}, and {{an|Diancie}}, who used it to escape from [[Merilyn]] and [[Riot]]. Rhyhorn quickly ran past the racers on the track, before going off-track and riding inside a forest. After the group got to safety, Serena thanked Rhyhorn for its help and it went back to the racing track.
+
+A Rhyhorn appeared in ''[[XY053|A Race for Home!]]'', where Serena hijacked it to chase after {{TRT}}, who stole cheese.
+
+Multiple Rhyhorn appeared in ''[[XY109|Master Class Choices!]]'', where they were used as part of the Theme Performance of the [[Fleurrh City]] [[Pokémon Showcase]]. The {{pkmn|Performer}}s had to attract the most Rhyhorn is a certain period of time. Serena found that most of the Rhyhorn were attracted to her, allowing her to advance to the next performance. {{OBP|Amelia|XY109}} had her {{Shiny}} {{p|Dragonair}} and {{p|Espeon}} use {{m|Attract}} to bring them over.
+
+====Minor appearances====
+Rhyhorn debuted in ''[[EP033|The Flame Pokémon-athon!]]'', where it entered a race with its Trainer. Rhyhorn jumped onto a stone but they sank due to Rhyhorn's weight, and both were eliminated from the race.
+
+A Rhyhorn appeared in the [[banned episodes|banned episode]] [[EP035]]. {{Ash}} attempted to capture it in the {{Safari|Kanto}}, but it got away.
+
+A Rhyhorn appeared in ''[[EP047|A Chansey Operation]]'', where it was one of the injured Pokémon brought to the clinic.
+
+Multiple Rhyhorn were among the Pokémon seen at [[Professor Oak's Laboratory]] in ''[[EP065|Showdown at the Po-ké Corral]]'' and ''[[EP116|The Rivalry Revival]]''.
+
+A Rhyhorn appeared in ''[[M02|The Power of One]]''.
+
+Two Rhyhorn were seen at [[Professor Oak's Laboratory]] in ''[[EP115|A Tent Situation]]''.
+
+A Rhyhorn was one of the Pokémon seen at the [[Pokémon Swap Meet]] in ''[[EP146|Tricks of the Trade]]''.
+
+A Rhyhorn appeared in ''[[The Legend of Thunder!]]''.
+
+Multiple Rhyhorn appeared in ''[[M04|Celebi: The Voice of the Forest]]'', ''[[M05|Pokémon Heroes: Latios & Latias]]'', and ''[[M07|Destiny Deoxys]]''.
+
+A Rhyhorn appeared in ''[[EP272|Johto Photo Finish]]'', under the ownership of [[Jon Dickson]]. It defeated [[Harrison's Houndoom]] and knocked [[Harrison]] out of the [[Silver Conference]].
+
+A Rhyhorn appeared in ''[[AG135|Numero Uno Articuno]]'', under the ownership of {{FB|Factory Head|Noland}}.
+
+Multiple Rhyhorn appeared in ''[[M08|Lucario and the Mystery of Mew]]'' as part of the feuding armies.
+
+A Rhyhorn was used by the henchmen of {{OBP|J's client|DP071}} was amongst the group of Pokémon used to attack {{an|Dawn}}, {{an|Brock}}, [[Officer Jenny]], and [[Solana]] in ''[[DP072|Pokémon Ranger and the Kidnapped Riolu! Part Two]]''.
+
+A Rhyhorn appeared in ''[[DP088|Camping It Up!]]''.
+
+Multiple Rhyhorn were caught by the [[Pokémon Pinchers]] in ''[[SS022|Pokémon Ranger: Guardian Signs (Part One)]]''.
+
+A Rhyhorn appeared in the opening sequences of ''[[M11|Giratina and the Sky Warrior]]'' and ''[[M13|Zoroark: Master of Illusions]]''.
+
+Multiple Rhyhorn appeared in a flashback in ''[[XY060|A Showcase Debut!]]''.
+
+A Rhyhorn appeared in ''[[M20|I Choose You!]]'', where it was among the Pokémon that were under the control of {{OBP|Marshadow|M20}}.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP035|Rhyhorn|Ash's Pokédex|{{tt|Rhyhorn, the Spikes Pokémon. It's covered in a tough armor, giving its {{m|Tackle}} attack an extraordinarily destructive power.|Translated from the Japanese version}}}}
+|}
+{| width="100%" style="background: #{{colorschemedark|Kanto}}"
+|-
+| width="100%" style="text-align:right; background: #{{colorschemelight|Kanto}}; {{roundybottom|10px}}" | <small>''' Original series entries continue below.'''</small>
+|}
+|}
+{{Animedexheader|Orange}}
+{{Animedexbody|EP088|Rhyhorn|Ash's Pokédex|Rhyhorn, the {{tt|Spiked Pokémon|Incorrect; should have said Spikes Pokémon}}. Rhyhorn is known for its physical power and its considerable offensive and defensive battle skills.}}
+{{Animedexfooter/Pokémon|original|Orange}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY007|Rhyhorn|Ash's Pokédex|Rhyhorn, the Spikes Pokémon. Rhyhorn recklessly charges straight ahead, trampling over anything that gets in its way.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+===In Pokémon Origins===
+[[File:Giovanni Rhyhorn PO.png|thumb|220px|Rhyhorn in [[Pokémon Origins]]]]
+A Rhyhorn appeared in ''[[PO03|File 3: Giovanni]]'', where [[Giovanni]] sent it out for his Gym battle against {{OBP|Red|Origins}}. It took out most of his team and tied against his {{p|Hitmonlee}}.
+{{-}}
+
+==In the manga==
+[[File:Y Rhyrhy.png|thumb|180px|Rhyhorn in [[Pokémon Adventures]]]]
+===In The Electric Tale of Pikachu manga===
+{{OBP|Drake|Orange League}}'s Rhyhorn was only seen in a flashback. It is currently unknown whether or not he still has it.
+
+===In the movie adaptations===
+Rhyhorn appeared in ''{{ma|Celebi: a Timeless Encounter}}''. It was only seen in a Pokémon hunter's camp.
+
+===In the Pokémon Adventures manga===
+Rhyhorn debuts in ''[[PS007|Raging Rhydon]]'' as [[Koga]]'s Pokémon. After getting defeated by {{adv|Red}}'s {{p|Pikachu}}, [[Pika]], it's forced to evolve with a mysterious injection, and knocks out [[Misty]] with its increased power.
+
+In ''[[PS038|Long Live the Nidoqueen!?]]'', another Rhyhorn is seen in possession of {{adv|Giovanni}}, and is one of his main fighters, who knocked out {{DL|Red (Adventures)|Aero|Red's Aerodactyl}} with a simple {{m|Tail Whip}}. He also later uses him in the battle with [[Lance]] to generate a {{m|sandstorm}} by crushing rocks.
+
+In ''[[PS179|The Last Battle XIII]]'' a Rhyhorn was one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+In ''[[PS305|Interesting Interactions Involving Illumise]]'', Rhyhorn was one of the rental Pokémon used by {{adv|Emerald}} in his [[Battle Factory|Factory]] challenge. A Rhyhorn appeared in ''[[PS315|Skirting Around Surskit I]]'' as a rental Pokémon that [[Guile Hideout]] stole.
+
+A Rhyhorn belonging to {{adv|Y}} debuted in ''[[PAXY01|An X-cuse to Come Out and Play]]''. He was originally owned by {{kal|Grace}}. He often carries {{adv|X}} around while he sits inside a tent attached to his back. Much later, Y decides to officially keep Rhyhorn on her team, and nicknames him Rhyrhy.
+
+Multiple Rhyhorn appeared in ''[[PAXY17|Shooting Frogadier]]''. A Rhyhorn racer's Rhyhorn appeared in the [[PAXY18|next chapter]].
+
+===In the Pokémon Zensho manga===
+{{Zensho|Shigeru}} has a Rhyhorn which he caught in the Safari Zone.
+
+==In the TCG==
+{{main|Rhyhorn (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|X and Y}}: In X and Y, the {{player}}'s [[mother]], {{kal|Grace}}, is a retired Rhyhorn racer. Her Rhyhorn partner lounges outside her house. The player can ride it, but cannot take it outside the small front lawn. The player can ride another Rhyhorn on {{rt|9|Kalos}}, which is the only way to cross the jagged, rocky terrain to [[Glittering Cave]].
+
+===Pokédex entries===
+{{Dex/Header|type=ground|type2=rock}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.}}
+{{Dex/Entry1|v=Yellow|entry=A Pokémon with a one-track mind. Once it charges, it won't stop running until it falls asleep.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Its bones are 1,000 times harder than human bones. Using its durability and strength, it can destroy tall buildings.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It is inept at turning because of its four short legs. It can only charge and run in one direction.}}
+{{Dex/Entry1|v=Silver|entry=It doesn't care if there is anything in its way. It just charges and destroys all obstacles.}}
+{{Dex/Entry1|v=Crystal|entry=It can remember only one thing at a time. Once it starts rushing, it forgets why it started.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It is inept at turning because of its four short legs. It can only charge and run in one direction.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Rhyhorn's brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Once it starts running, it doesn't stop. Its tiny brain makes it so stupid that it can't remember why it started running in the first place.}}
+{{Dex/Entry1|v=FireRed|entry=Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.}}
+{{Dex/Entry1|v=LeafGreen|entry=Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=Its body is clad in a thick hide, and its tackles topple buildings. Unfortunately, it is not smart.}}
+{{Dex/Entry1|v=Platinum|entry=Its powerful tackles can destroy anything. However, it is too slow witted to help people work.}}
+{{Dex/Entry1|v=HeartGold|entry=It is inept at turning because of its four short legs. It can only charge and run in one direction.}}
+{{Dex/Entry1|v=SoulSilver|entry=It doesn't care if there is anything in its way. It just charges and destroys all obstacles.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its powerful tackles can destroy anything. However, it is too slow witted to help people work.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its powerful tackles can destroy anything. However, it is too slow witted to help people work.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging Tackles.}}
+{{Dex/Entry1|v=Y|entry=It is inept at turning because of its four short legs. It can only charge and run in one direction.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Rhyhorn runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This Pokémon may feel some pain from the collision the next day, however.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=Rhyhorn's brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=ground|type2=rock}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area={{safari|Kanto}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{safari|Kanto}}}}
+{{Availability/Entry1|v=Yellow|area={{safari|Kanto}}, [[Cerulean Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{ka|Victory Road}}}}
+{{Availability/Entry1|v=Crystal|area={{ka|Victory Road}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area={{safari|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=fff|area={{safari|Hoenn}}}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{safari|Kanto}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|227|Sinnoh}}, [[Stark Mountain]]}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|214|Sinnoh}} and {{rtn|227|Sinnoh}}, {{si|Victory Road}}, [[Stark Mountain]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{ka|Victory Road}}, {{safari|Johto}}<br>[[In-game trade#HeartGold and SoulSilver|Trade]] {{p|Bonsly}} with [[Brock]] in [[Diglett's Cave]]{{dotw|Mo}}{{dotw|Sa}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Volcano Path}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[White Forest]]{{tt|*|Appears only in the presence of School Kid Shane}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[In-game trade#Black 2 and White 2|Trade]] with [[Curtis]] or [[Yancy]] in [[Nimbasa City]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Rugged Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Glittering Cave]]}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{safari|Hoenn}} (Zone 3, [[tall grass]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Blush Mountain]] ({{DL|QR Scanner|Island Scan}}){{dotw|Su}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Blush Mountain]] ({{DL|QR Scanner|Island Scan}}){{dotw|Su}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground|type2=Rock}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Kanto Safari Zone|Safari Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Safari Zone ({{color2|{{ruby color}}|Ruby Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|5|Phobos Walker}}, Endless Level 39, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Frosty Forest|Frosty Grotto]] (1F-4F), [[Buried Relic]] (61F-73F), [[Wish Cave]] (58F-61F), [[Southern Cavern]] (31F-39F), [[Joyous Tower]] (58F-61F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Northern Desert]] (8F-15F), [[Shimmer Hill]] (1F-17F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Northern Desert]] (8F-15F), [[Shimmer Hill]] (1F-17F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Volcano Cave]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Rocky Cave]] <small>(Both Modes C, Advanced Mode A)</small>}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Terrera]], [[Cragspur]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#It's Drill Time!|Variety Battle: It's Drill Time!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 2|Infinite Ruins: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 377]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Rock Chasm|Diamond Crater: Rock Chasm]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=ground|type2=rock
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1rar=100|rby1image=no
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=80
+|Attack=85
+|Defense=95
+|SpAtk=30
+|SpDef=30
+|Special=30
+|Speed=25
+|type=Ground
+|type2=Rock}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ground
+|type2=Rock
+|Speed=2
+|SpeedMax=5
+|Power=3
+|PowerMax=5
+|Technique=1
+|TechniqueMax=2
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=ground
+|type2=rock
+|Normal=50
+|Flying=50
+|Fighting=200
+|Ground=200
+|Rock=50
+|Bug=100
+|Poison=25
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=400
+|Grass=400
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=lightningrod
+|newelectric=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Rhyhorn|Ground|Rock|1}}
+{{learnlist/level7|1|Horn Attack|Normal|Physical|65|100|25}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/level7|1|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|5|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/level7|9|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|13|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level7|17|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level7|21|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level7|25|Chip Away|Normal|Physical|70|100|20}}
+{{learnlist/level7|29|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/level7|33|Drill Run|Ground|Physical|80|95|10||'''}}
+{{learnlist/level7|37|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|41|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level7|45|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|49|Megahorn|Bug|Physical|120|85|10}}
+{{learnlist/level7|53|Horn Drill|Normal|Physical|&mdash;|30|5}}
+{{learnlist/levelf/7|Rhyhorn|Ground|Rock|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Rhyhorn|Ground|Rock|1}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM67|Smart Strike|Steel|Physical|70|&mdash;|10}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Rhyhorn|Ground|Rock|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Rhyhorn|Ground|Rock|2}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|024|Arbok}}{{MSP|058|Growlithe}}<br>{{MSP|143|Snorlax}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|203|Girafarig}}{{MSP|209|Snubbull}}<br>{{MSP|210|Granbull}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}<br>{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|303|Mawile}}{{MSP|336|Seviper}}{{MSP|365|Walrein}}<br>{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|403|Shinx}}<br>{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|419|Floatzel}}{{MSP|445|Garchomp}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}<br>{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|511|Pansage}}<br>{{MSP|513|Pansear}}{{MSP|515|Panpour}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}{{MSP|559|Scraggy}}<br>{{MSP|560|Scrafty}}{{MSP|621|Druddigon}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}<br>{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}{{MSP|713|Avalugg}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|744|Rockruff}}<br>{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/breed7|{{MSP|028|Sandslash}}{{MSP|335|Zangoose}}|Crush Claw|Normal|Physical|75|95|10}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}<br>{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|712|Bergmite}}<br>{{MSP|713|Avalugg}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|443|Gible}}{{MSP|444|Gabite}}{{MSP|445|Garchomp}}|Dragon Rush|Dragon|Physical|100|75|10}}
+{{learnlist/breed7|{{MSP|004|Charmander}}{{MSP|005|Charmeleon}}{{MSP|006|Charizard}}{{MSP|024|Arbok}}{{MSP|058|Growlithe}}{{MSP|059|Arcanine}}<br>{{MSP|136|Flareon}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|232|Donphan}}<br>{{MSP|248|Tyranitar}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|310|Manectric}}{{MSP|445|Garchomp}}{{MSP|450|Hippowdon}}<br>{{MSP|508|Stoutland}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}{{MSP|725|Litten}}<br>{{MSP|726|Torracat}}{{MSP|727|Incineroar}}|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/breed7|{{MSP|327|Spinda}}{{MSP|410|Shieldon}}|Guard Split|Psychic|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}<br>{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|248|Tyranitar}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|365|Walrein}}<br>{{MSP|419|Floatzel}}{{MSP|450|Hippowdon}}{{MSP|471|Glaceon}}{{MSP|508|Stoutland}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}<br>{{MSP|232|Donphan}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}|Magnitude|Ground|Physical|&mdash;|100|30||'''}}
+{{learnlist/breed7|{{MSP|028A|Sandslash}}{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}|Metal Burst|Steel|Physical|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|288|Vigoroth}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|626|Bouffalant}}{{MSP|745Mn|Lycanroc}}{{MSP|766|Passimian}}|Reversal|Fighting|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|621|Druddigon}}{{MSP|744|Rockruff}}{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Rock Climb|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|264|Linoone}}{{MSP|400|Bibarel}}{{MSP|428|Lopunny}}{{MSP|505|Watchog}}<br>{{MSP|530|Excadrill}}{{MSP|660|Diggersby}}{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}|Rototiller|Ground|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|713|Avalugg}}|Skull Bash|Normal|Physical|130|100|10}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|059|Arcanine}}{{MSP|135|Jolteon}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|229|Houndoom}}<br>{{MSP|232|Donphan}}{{MSP|248|Tyranitar}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|309|Electrike}}{{MSP|310|Manectric}}<br>{{MSP|403|Shinx}}{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|450|Hippowdon}}{{MSP|508|Stoutland}}|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/breedf/7|Rhyhorn|Ground|Rock|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Rhyhorn|Ground|Rock|2}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10|||no|yes}}
+{{learnlist/tutor7|Drill Run|Ground|Physical|80|95|10||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Rhyhorn|Ground|Rock|2}}
+
+====Special moves====
+{{learnlist/eventh/7|Rhyhorn|Ground|Rock|1}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|SM}}|Skull Bash|Normal|Physical|130|100|10}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|SM}}|Guard Split|Psychic|Status|—|—|10}}
+{{learnlist/eventf/7|Rhyhorn|Ground|Rock|1}}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{rock color light}}; border: 3px solid #{{ground color}}"
+|-
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Tackle}}
+| style="background:#fff" | {{typecolor|Normal}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[XY053|A Race for Home!]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Ground|type2=Rock}}
+{{Spindata/Pinball|col=2|type=Ground|ndex=111|acquisition=Catch}}
+{{Spindata/PinballRS|col=2|type=Ground|ndex=111|acquisition=Catch}}
+{{Spindata/Trozei|col=2|type=Ground|ndex=111|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Ground|ndex=111
+|body=1
+|rate=7.7
+|area=Safari
+|P1=I'm kinda very hard.
+|P2=My HP went down to half...
+|P3=Can't keep going... No power to fight...
+|PL=I did it. Leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ground|ndex=111
+|body=1
+|rate=6.4
+|IQ=E
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ground
+|group=Ground
+|assist=Ground
+|field=Tackle
+|fieldpower=2
+|browser=It opens up fissures in the ground to attack.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Ground|ndex=111
+|HP=3
+|atk=3
+|spd=1
+|def=2
+|range=3
+|move=Bulldoze
+|ability1=Lightningrod
+|ability2=Bodyguard
+|ability3=Jagged Edge
+|evo=Evolves into {{p|Rhydon}} when its Attack is 108 or higher
+|link={{DL|List of Pokémon Conquest characters|Masatoyo}} and {{DL|List of Pokémon Conquest characters|Shizuka}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ground|ndex=111
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=111|num=534
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Brute Force
+|skilldesc=Increases damage for attacks that are not very effective.
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=111
+|egg=5
+|buddy=3
+|evocandy=50
+|stamina=160
+|attack=140
+|defense=157
+|fast={{m|Mud-Slap}}, {{m|Rock Smash}}
+|special={{m|Bulldoze}}, {{m|Horn Attack}}, {{m|Stomp}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Ground
+|type2=Rock
+|pictype=art
+|no1=111
+|name1=Rhyhorn
+|type1-1=Ground
+|type2-1=Rock
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 42}}
+|no2=112
+|name2=Rhydon
+|type1-2=Ground
+|type2-2=Rock
+|evo2={{bag|Protector}}<br>{{color2|000|Trade}}<br>holding {{color2|000|Protector}}
+|no3=464
+|name3=Rhyperior
+|type1-3=Ground
+|type2-3=Rock}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground|type2=Rock}}
+{{Spritebox/1|ndex=111}}
+{{Spritebox/2|ndex=111}}
+{{Spritebox/3|ndex=111}}
+{{Spritebox/4/Gender|ndex=111}}
+{{Spritebox/5/Gender|ndex=111}}
+{{Spritebox/6/Gender|ndex=111}}
+{{Spritebox/7/Gender|ndex=111}}
+{{Spritebox/Footer|111|Rhyhorn}}
+
+==Trivia==
+* Prior to [[Generation VI]], Rhyhorn and {{p|Charizard}} had a nearly identical [[cry]].
+
+===Origin===
+Its design appears to be inspired by an {{wp|Indian rhinoceros}}, with similar plated armor, and an ''{{wp|Uintatherium}}'' from whom it may have taken its flat head and horn, with elements of {{wp|ceratopsids}}.
+
+====Name origin====
+Rhyhorn may be a combination of ''{{wp|rhinoceros}}'' and ''horn''. ''Rhy'' may also derive from the {{wp|igneous rock}} called ''{{wp|rhyolite}}'', alluding to Rhyhorn's Ground/Rock type combination.
+
+Sihorn is a combination of 犀 ''sai'' (rhinoceros) and ''horn''.
+
+==In other languages==
+{{Other languages|type=ground|type2=rock
+|ja=サイホーン ''Sihorn''|jameaning=From {{tt|犀 ''sai''|rhinoceros}} and ''horn''
+|fr=Rhinocorne|frmeaning=Combination of ''{{tt|rhinocéros|rhinoceros}}'' and ''{{tt|corne|horn}}''
+|es=Rhyhorn|esmeaning=Same as English name
+|de=Rihorn|demeaning=Similar to English name
+|it=Rhyhorn|itmeaning=Same as English name
+|ko=뿔카노 ''Ppulkano''|komeaning=From {{tt|뿔 ''Ppul''|horn}}, possibly from {{tt|캐논|kanon}}
+|zh_yue=鐵甲犀牛 ''Titgaapsāingàuh''|zh_yuemeaning=Means "Armored rhinoceros"
+|zh_cmn=鐵甲犀牛 / 铁甲犀牛 ''Tiějiǎxīniú''|zh_cmnmeaning=Means "Armored rhinoceros"
+|ru=Райхорн ''Raykhorn''|rumeaning=Transcription of English name
+|hi= रएहॉर्न ''Rhyhorn'' |himeaning=Same as English name
+|he=ראיהורן ''Riihorn''|hemeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Notes==
+<references />
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Ground|type2=Rock}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=110|prev=Weezing|nextnum=112|next=Rhydon}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[de:Rihorn]]
+[[fr:Rhinocorne]]
+[[it:Rhyhorn]]
+[[ja:サイホーン]]
+[[pl:Rhyhorn]]
+[[zh:独角犀牛]]

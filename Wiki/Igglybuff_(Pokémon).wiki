@@ -1,0 +1,557 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Fairy}}
+{{PokémonPrevNext/GO|species=Igglybuff}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=173|prev=Cleffa|nextnum=175|next=Togepi|round=none}}
+{{PokémonPrevNext/Disambig|species=Igglybuff}}
+|}
+{{Pokémon Infobox
+|name=Igglybuff
+|jname=ププリン
+|tmname=Pupurin
+|ndex=174
+|jdex=043
+|hdex=137
+|hdex6=142
+|u2dex=281
+|karea=Mountain
+|kdex=119
+|adex=134
+|obrow=073
+|typebox=1
+|type1=Normal
+|type2=Fairy
+|category=Balloon
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=2.2
+|weight-kg=1.0
+|abilityn=d
+|ability1=Cute Charm
+|ability2=Competitive
+|abilityd=Friend Guard
+|egggroupn=1
+|egggroup1=Undiscovered
+|eggcycles=10
+|evtotal=1
+|evhp=1
+|expyield=42
+|oldexp=39
+|lv100exp=800,000
+|gendercode=191
+|color=Pink
+|catchrate=170
+|body=12
+|pokefordex=igglybuff
+|generation=2
+|friendship=70
+}}
+'''Igglybuff''' ([[List of Japanese Pokémon names|Japanese]]: '''ププリン''' ''Pupurin'') is a dual-type {{t|Normal}}/{{t|Fairy}} [[baby Pokémon|baby]] {{OBP|Pokémon|species}} introduced in [[Generation II]]. Prior to [[Generation VI]], it was a pure Normal-type.
+
+It [[Evolution|evolves]] into {{p|Jigglypuff}} when [[level]]ed up with high [[friendship]], which evolves into {{p|Wigglytuff}} when exposed to a [[Moon Stone]].
+
+==Biology==
+Igglybuff is a small, bipedal balloon-like animal that is completely pink. It has a rounded tuft of hair on top of its head, a small swirl-like pattern on its forehead, and red eyes. Igglybuff has small, stubby limbs. This small Pokémon is extremely elastic and can bounce like a ball, although it may not be able to stop if it does this.
+
+It smells sweet to calm the emotions of its foes. Although it has singing abilities, it is not able to sing for long periods due to its underdeveloped vocal cords. It often gets a sore throat from singing too frequently. Igglybuff tend to live in the {{DL|List of Pokémon by habitat|Grassland Pokémon|grasslands}} close by freshwater streams. It uses water from the streams to gargle in its sore throat.
+
+==In the anime==
+[[File:Gigglybiff Gigglybuff.png|thumb|left|200px||Igglybuff in the {{pkmn|anime}}]]
+[[File:Igglybuff Egg.png|thumb|left|150px|An Igglybuff {{pkmn|Egg}} in the anime]]
+===Major appearances===
+Igglybuff twins appeared in ''[[EP243|Same Old Song and Dance]]''. They were owned by a girl named {{OBP|Brittany|EP243}} and were practicing for a concert. {{an|Jigglypuff}} was jealous towards the Igglybuff twins as they were stealing its audience.
+
+An Igglybuff appeared in ''[[DP190|The Brockster Is In!]]'', under the ownership of [[Normajean]]. It was among the Pokémon poisoned by a group of wild {{p|Tentacruel}}. They were all saved thanks to [[Brock's Chansey]] and {{m|Softboiled}}.
+
+===Minor appearances===
+Igglybuff was first seen as one of the Pokémon in the [[Pichu Brothers]]' Possé in ''[[PK07|Pikachu & Pichu]]''.
+
+An Igglybuff was one of the Pokémon {{DL|Recurring wild Pokémon in the anime|Spoink}} mistook for its lost pearl in ''[[AG079|Pearls are a Spoink's Best Friend]]''.
+
+Two Igglybuff appeared in ''[[DP084|Hungry For the Good Life!]]''.
+
+An Igglybuff briefly appeared in ''[[M12|Arceus and the Jewel of Life]]''.
+
+A Trainer's Igglybuff appeared in ''[[XY125|A League of His Own!]]''.
+
+Three Trainers each owned an Igglybuff, which appeared in ''[[XY138|The First Day of the Rest of Your Life!]]''.
+
+An Igglybuff appeared in ''[[M20|I Choose You!]]'', where it was playfully chasing a {{p|Chikorita}}.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP243|Igglybuff|Ash's Pokédex|Igglybuff, the Balloon Pokémon. Igglybuff's resilient body allows it to bounce endlessly once it's been put in motion.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+
+==In the manga==
+[[File:Whitney Buff Buff Adventures.png|thumb|130px|Igglybuff in [[Pokémon Adventures]]]]
+[[File:Day-Care Couple Azurill Wynaut Adventures.png|thumb|left|150px|A Igglybuff {{pkmn|Egg}} in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+An Igglybuff was one of the baby Pokémon that escaped from the Daycare Center near [[Goldenrod City]] in ''[[PS107|Gligar Glide]]''.
+
+[[Whitney]] owns an Igglybuff, which she used to battle (what she thought was) {{p|Suicune}} when she visited the [[Mahogany Gym]]. Her {{m|Sweet Kiss}} provided an opening for her {{p|Miltank}} to attack the creature, but failed when the moving ice sculpture felled Miltank and forced her to team up with [[Pryce]]'s {{p|Swinub}}.
+
+An Igglybuff appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+In ''[[PS446|Weavile Wobbles But It Won't Fall Down]]'', a Trainer at the [[Johto Safari Zone|Safari Zone]] owns one.
+
+A Trainer's Igglybuff appeared in [[PASM04]].
+
+==In the TCG==
+{{main|Igglybuff (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Melee]]===
+Igglybuff only appears as a random trophy.
+
+====Trophy information====
+''Igglybuff, which evolve into Jigglypuff, are so incredibly elastic that they always seem to be bouncing. They have stubby legs, so for these Pokémon, bounding from place to place is much faster than walking. Unlike its equally adorable relatives, Jigglypuff and Wigglytuff, Igglybuff has red eyes.''
+
+===[[Pokémon Mystery Dungeon: Explorers of Sky]]===
+An Igglybuff stars as the {{player}} character in the special episode Igglybuff the Prodigy. This Igglybuff is the unevolved Guildmaster {{p|Wigglytuff}} from the main story.
+
+==Game data==
+===NPC appearances===
+*[[Pokémon Stadium 2]]: Igglybuff appears in a quiz-show styled mini-game alongside {{p|Cleffa}}. A series of Pokémon parade across the screen and the player has to count how many of the Pokémon species the player is instructed to count parade across the screen. The score is based how close the player is to the right number.
+*{{g|Mystery Dungeon: Explorers of Sky}}: The Special Episode ''[[Igglybuff the Prodigy]]'' features the adventures of Guildmaster {{mdc|Wigglytuff|2}} as an Igglybuff when he was younger.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Fairy}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.}}
+{{Dex/Entry1|v=Silver|entry=Its extremely flexible and elastic body makes it bounce continuously—anytime, anywhere.}}
+{{Dex/Entry1|v=Crystal|entry=Instead of walking with its short legs, it moves around by bouncing on its soft, tender body.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Igglybuff's vocal chords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokémon gargles with freshwater from a clean stream.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Igglybuff has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.}}
+{{Dex/Entry1|v=FireRed|entry=Its extremely flexible and elastic body makes it bounce continuously—anytime, anywhere.}}
+{{Dex/Entry1|v=LeafGreen|entry=It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.}}
+{{Dex/Entry1|v=HeartGold|entry=It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its extremely flexible and elastic body makes it bounce continuously—anytime, anywhere.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|t=FFF|v2=White|entry=It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.}}
+{{Dex/Entry2|v=Black 2|t=FFF|v2=White 2|entry=Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Instead of walking with its short legs, it moves around by bouncing on its soft, tender body.}}
+{{Dex/Entry1|v=Y|entry=It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Igglybuff's vocal cords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokémon gargles with freshwater from a clean stream.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Igglybuff has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It likes to sing but is not yet good at it. With praise and encouragement, it will get better little by little.}}
+{{Dex/Entry1|v=Moon|entry=It moves by bouncing along. As it moves a lot, it sweats, and its body gives off a sweet aroma.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It's always practicing its singing because it wants to improve. Even when it's asleep, it keeps singing in its dreams!}}
+{{Dex/Entry1|v=Ultra Moon|entry=Left to its own devices, it will constantly practice singing. You should make it take a break so it doesn't hurt its throat.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Fairy}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{pkmn|breeding|Breed}} {{p|Jigglypuff}} or {{p|Wigglytuff}}}}
+{{Availability/Entry1|v=Crystal|area={{pkmn|breeding|Breed}} {{p|Jigglypuff}} or {{p|Wigglytuff}}<br>Hatch the [[Odd Egg]]{{tt|*|The Pokémon in the Egg is random}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area={{pkmn|breeding|Breed}} {{p|Jigglypuff}} or {{p|Wigglytuff}}}}
+{{Availability/Entry1|v=Emerald|t=fff|area={{pkmn|breeding|Breed}} {{p|Jigglypuff}} or {{p|Wigglytuff}}}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area={{pkmn|breeding|Breed}} {{p|Jigglypuff}} or {{p|Wigglytuff}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Trophy Garden]]}}
+{{Availability/Entry1|v=Platinum|area=[[Trophy Garden]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{pkmn|breeding|Breed}} {{p|Jigglypuff}} or {{p|Wigglytuff}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Amity Meadow}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{pkmn|breeding|Breed}} {{p|Jigglypuff}} or {{p|Wigglytuff}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{pkmn|breeding|Breed}} {{p|Jigglypuff}} or {{p|Wigglytuff}} <br> [[Unova Link|Transfer]] from {{pkmn|Dream Radar}}}}
+{{Availability/Entry1|v=Dream World|link=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{pkmn|breeding|Breed}} {{p|Jigglypuff}} or {{p|Wigglytuff}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{pkmn|breeding|Breed}} {{p|Jigglypuff}} or {{p|Wigglytuff}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|4|Alola}} and {{rtn|6|Alola}}{{sup/t|Day}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]]s {{rtn|4|Alola}} and {{rtn|6|Alola}}{{sup/t|Day}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Fairy}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Puzzle Challenge|color={{gold color}}|area=Hatch the Normal Circle Egg}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Cobalt Coast]]}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Hatch from {{pkmn|Egg}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 67, Forever Level 17, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Western Cave]] (10F-13F), [[Joyous Tower]] (40F-46F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Marine Resort]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Marine Resort]] (B1-B19)}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Lapras Beach]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Challenger's Ground]]}}
+{{Availability/Entry1|1|v=Conquest|color={{Silver color}}|area=[[Aurora]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Magical Lake#Let's Sing a Song|Magical Lake: Let's Sing a Song]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 6|Blade-and-Shield Path: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 285]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Super Gene Laboratorium|Origin Hideaway: Super Gene Laboratorium]] <small>(All Areas)</small>,<br>[[Plasma Tundra#Waltzing Glade|Plasma Tundra: Waltzing Glade]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Normal|type2=Fairy}}
+{{eventAvail|{{gameabbrev2|GSC}}|Pokémon Center Mystery Egg #2 Petal Dance Igglybuff|Japanese|Japan|5|March 16 to April 7, 2002|link=List of Japanese event Pokémon distributions in Generation II#Igglybuff}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Mimic Igglybuff|English|United States|5|March 22 to April 11, 2002|link=List of Gotta Catch 'Em All event Pokémon#Mimic Igglybuff}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Petal Dance Igglybuff|English|United States|5|April 12 to May 4, 2002|link=List of Gotta Catch 'Em All event Pokémon#Petal Dance Igglybuff}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Scary Face Igglybuff|English|United States|5|October 25 to 31, 2002|link=List of Gotta Catch 'Em All event Pokémon#Scary Face Igglybuff}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|PokéPark Egg Igglybuff|Japanese|Japan|5|March 12 to May 8, 2005|link=List of Japanese event Pokémon distributions in Generation III#Igglybuff}}
+|}
+
+===Held items===
+{{HeldItems|type=Normal|type2=Fairy
+|walk1=Grepa Berry|walk1type=Berry|walk1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|type2=Fairy
+|HP=90
+|Attack=30
+|Defense=15
+|SpAtk=40
+|SpDef=20
+|Speed=15 }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=3
+|SpeedMax=4
+|Power=1
+|PowerMax=3
+|Technique=2
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=4
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Fairy
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=200
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=0
+|Steel=200
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=0
+|Dark=50
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+|fairy=yes
+|newdragon=1
+|newfairy=yes
+|newfairyeffect={{typecolor2|Dragon}}, {{typecolor2|Dark}}, {{typecolor2|Steel}}, {{typecolor2|Bug}} and {{typecolor2|Poison}} moves were 1× and {{typecolor2|Fighting}} moves was 2×}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Igglybuff|Normal|Fairy|2}}
+{{learnlist/level7|1|Sing|Normal|Status|&mdash;|55|15}}
+{{learnlist/level7|1|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/level7|3|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|5|Pound|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|9|Sweet Kiss|Fairy|Status|&mdash;|75|10}}
+{{learnlist/level7|11|Copycat|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/levelf/7|Igglybuff|Normal|Fairy|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Igglybuff|Normal|Fairy|2}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Igglybuff|Normal|Fairy|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Igglybuff|Normal|Fairy|2}}
+{{learnlist/breed7|{{MSP|300|Skitty}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|300|Skitty}}|Covet|Normal|Physical|60|100|25||'''}}
+{{learnlist/breed7|{{MSP|303|Mawile}}{{MSP|312|Minun}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|300|Skitty}}{{MSP|303|Mawile}}|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}|Gravity|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|531|Audino}}{{MSP|683|Aromatisse}}|Heal Pulse|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|176|Togetic}}{{MSP|311|Plusle}}{{MSP|417|Pachirisu}}{{MSP|531|Audino}}|Last Resort|Normal|Physical|140|100|5||'''}}
+{{learnlist/breed7|{{MSP|531|Audino}}{{MSP|682|Spritzee}}{{MSP|683|Aromatisse}}|Misty Terrain|Fairy|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|183|Marill}}|Perish Song|Normal|Status|&mdash;|&mdash;|5|*}}
+{{learnlist/breed7|{{MSP|025|Pikachu}}{{MSP|035|Clefairy}}{{MSP|113|Chansey}}{{MSP|176|Togetic}}{{MSP|183|Marill}}{{MSP|209|Snubbull}}<br>{{MSP|777|Togedemaru}}|Present|Normal|Physical|&mdash;|90|15|*|'''}}
+{{learnlist/breed7|{{MSP|303|Mawile}}|Punishment|Dark|Physical|&mdash;|100|5|*}}
+{{learnlist/breed7|{{MSP|531|Audino}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|176|Togetic}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}|Wish|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Igglybuff|Normal|Fairy|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Igglybuff|Normal|Fairy|2|7}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Igglybuff|Normal|Fairy|2|7}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Fairy}}
+{{Spindata/PinballRS|col=3|type=Normal|ndex=174|acquisition=Hatch}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=174|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=174
+|body=1
+|rate=11.3
+|area=Sky Blue Plains
+|P1=If I start rolling, I can't stop! Please, help me if I do!
+|P2=Aww! Half my HP is lost already?
+|P3=Can't take any more... I can't even roll...
+|PL=Oh, yay! My level went up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=174
+|body=1
+|rate=8.2
+|IQ=B
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Normal
+|group=Normal
+|assist=Normal
+|field=Crush
+|fieldpower=1
+|past=NA
+|browser=It creates hearts around itself that make Pokémon Tired.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=1
+|def=1
+|speed=2
+}}
+|-
+{{Spindata/Conquest|col=6|type=Normal|ndex=174
+|HP=4
+|atk=1
+|spd=1
+|def=1
+|range=3
+|move=Pound
+|ability1=Lullaby
+|ability2=Mood Maker
+|ability3=Confidence
+|evo=Evolves into {{p|Jigglypuff}} when it has a link of 50% or higher
+|link={{DL|List of Pokémon Conquest characters|Chiyo}} and {{DL|List of Pokémon Conquest characters|Hatsu}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=174|bttype=Fairy
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=174|stype=Fairy|num=410
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Sleep Charm
+|skilldesc=Leaves the foe asleep.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=174
+|egg=2
+|buddy=1
+|evocandy=25
+|stamina=180
+|attack=69
+|defense=34
+|fast={{m|Pound}}, {{m|Feint Attack}}
+|special={{m|Body Slam}}{{tt|*|Prior to February 16, 2017}}, {{m|Wild Charge}}{{tt|*|From February 16, 2017 onward}}, {{m|Shadow Ball}}, {{m|Psychic}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Normal
+|type2=Fairy
+|pictype=art
+|no1=174
+|name1=Igglybuff
+|type1-1=Normal
+|type2-1=Fairy
+|breed={{MS|Egg|Pokémon Egg}}<br>Breed
+|evo1={{bag|Soothe Bell}}<br>{{color2|000|Friendship}}
+|no2=039
+|name2=Jigglypuff
+|type1-2=Normal
+|type2-2=Fairy
+|evo2={{bag|Moon Stone}}<br>{{color2|000|Moon Stone}}
+|no3=040
+|name3=Wigglytuff
+|type1-3=Normal
+|type2-3=Fairy
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Fairy}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=174}}
+{{Spritebox/3|ndex=174}}
+{{Spritebox/4|ndex=174}}
+{{Spritebox/5|ndex=174}}
+{{Spritebox/6|ndex=174}}
+{{Spritebox/7|ndex=174}}
+{{Spritebox/Footer|174|Igglybuff}}
+
+====Other sprites====
+{| style="margin:auto; text-align:center; font-size:80%; {{roundy|20px}} border:2px solid #{{fairy color dark}}; background:#{{normal color}}"
+|-
+| style="{{roundy|80px}} border:2px solid #{{fairy color dark}}; background:#{{normal color light}}"| [[File:Spr 2c Igglybuff credits.png]]
+|-
+| Crystal credits' sprite
+|}
+
+==Trivia==
+* Igglybuff is tied with five other Pokémon for having the lowest {{stat|Special Defense}} stat of all Pokémon.
+** Igglybuff also has the lowest Special Defense stat of all {{type|Fairy}} and {{type|Normal}} Pokémon.
+* Igglybuff has the lowest base {{stat|Defense}} of all {{type|Fairy}} Pokémon.
+* Igglybuff is tied with {{p|Cleffa}} for having the lowest base {{stat|Speed}} stat of all {{type|Fairy}} Pokémon.
+* A {{DL|List of unused Pokémon and character designs|Dragon4|pre-alpha sketch}} depicts an unused Pokémon with the same Pokédex number as Igglybuff.
+* Igglybuff and its {{p|Jigglypuff|evolutionary}} {{p|Wigglytuff|relatives}} share their {{pkmn|category}} with {{p|Qwilfish}} and {{p|Drifloon}}. They are all known as the Balloon Pokémon.
+
+====Origin====
+It is based on a {{wp|balloon}}, like its evolutions.
+
+====Name origin====
+Igglybuff rhymes with {{p|Jigglypuff}} and {{p|Wigglytuff}}. ''Iggly'' is a shortening of ''jiggly'' and ''wiggly'', indicating it is less than either of its evolutionary line.
+
+Pupurin may be a combination of プチ puchi (petit), 風船 ''fūsen'' (balloon), and 膨れる ''fukureru'' (to expand or inflate), as well as a pun on プリン ''purin'' (pudding).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Fairy
+|ja=ププリン ''Pupurin''|jameaning=From プチ ''puchi'' (petit), 風船 ''fūsen'' (balloon), 膨れる ''fukureru'' (to expand or inflate), and a pun on プリン ''purin'' (pudding)
+|fr=Toudoudou|frmeaning=From ''{{tt|tout|all}}'' and ''{{tt|doux|soft}}'' doubled
+|es=Igglybuff|esmeaning=Same as English name
+|de=Fluffeluff|demeaning=From ''fluff''
+|it=Igglybuff|itmeaning=Same as English name
+|ko=푸푸린 ''Pupurin''|komeaning=Transliteration of its Japanese name
+|zh_cmn=寶寶丁 / 宝宝丁 ''Băobăodīng''|zh_cmnmeaning=From {{tt|寶寶 ''băobăo''|baby}}, {{tt|布丁 ''bùdīng''|pudding}} and {{tt|丁 ''dīng''|A reference to 胖丁 (Jigglypuff) and 胖可丁 (Wigglytuff)}}
+|zh_yue=小波球 ''Síubōkàuh''|zh_yuemeaning=From {{tt|小 ''síu''|small or young}} and {{tt|波波球 ''Bōbōkàuh''|Jigglypuff}}
+|hi=इगलीबाफ़ ''Igglybuff''|himeaning=Transcription of English name
+|ru=Игглибуф ''Igglibuf''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Normal|type2=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=173|prev=Cleffa|nextnum=175|next=Togepi|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Baby Pokémon]]
+[[Category:Pokémon that evolve by friendship]]
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Single-type Pokémon|174]]<!--Prior to Gen VI-->
+[[Category:Pokémon that have had their type changed]]
+
+[[de:Fluffeluff]]
+[[fr:Toudoudou]]
+[[it:Igglybuff]]
+[[ja:ププリン]]
+[[pl:Igglybuff]]
+[[zh:宝宝丁]]

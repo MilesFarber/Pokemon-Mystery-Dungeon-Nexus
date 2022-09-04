@@ -1,0 +1,315 @@
+{{PokémonPrevNext/Head|type=Poison|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=690|prev=Skrelp|nextnum=692|next=Clauncher}}
+|}
+{{Pokémon Infobox
+|name=Dragalge
+|jname=ドラミドロ
+|jtranslit=Doramidoro
+|tmname=Dramidoro
+|category=Mock Kelp
+|typebox=1
+|type1=Poison
+|type2=Dragon
+|abilityn=d
+|ability1=Poison Point
+|ability2=Poison Touch
+|abilityd=Adaptability
+|ndex=691
+|karea=Coastal
+|kdex=031
+|height-ftin=5'11"
+|height-m=1.8
+|weight-lbs=179.7	
+|weight-kg=81.5
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Dragon
+|gendercode=127
+|eggcycles=20
+|evtotal=2
+|evsd=2
+|expyield=173
+|lv100exp=1,000,000
+|color=Brown
+|catchrate=55
+|body=05
+|pokefordex=dragalge
+|generation=6
+|friendship=70
+}}
+'''Dragalge''' ([[List of Japanese Pokémon names|Japanese]]: '''ドラミドロ''' ''Dramidoro'') is a dual-type {{2t|Poison|Dragon}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[evolution|evolves]] from {{p|Skrelp}} starting at [[level]] 48.
+
+==Biology==
+Dragalge is a brown aquatic Pokémon that resembles a sea dragon. Its main body is curved in way that resembles the number three. Its sides are a dull shade of purple with slender vertical lines. Its pectoral fins and tail fin resemble dried up kelp. It has a straightened brown snout. Dragalge has a red leaf-like crest and brown-green antenna on top of its head.
+
+Dragalge can spit poison strong enough to melt metal, hulls of tankers being a specific example. This territorial Pokémon will spit this poison at whatever trespasses its territory. As a result, it is said that ships sailing through the seas where it lives never return. Like its pre-evolution {{p|Skrelp}}, it blends in seaweed to ambush its prey. Dragalge and Skrelp coexist well with {{p|Dhelmise}}.
+
+==In the anime==
+[[File:Dragalge anime.png|thumb|250px|left|Dragalge in the {{pkmn|anime}}]]
+===Major appearances===
+Two wild Dragalge appeared in ''[[XY024|An Undersea Place to Call Home!]]''. They were among the Pokémon who made their home in the wreck of the [[S.S. Cussler]] and were responsible for welding the wreck together to make a home.
+
+===Minor appearances===
+Multiple Dragalge appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+{{-}}
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY024|Dragalge|Ash's Pokédex|Dragalge, the Mock Kelp Pokémon, and the evolved form of Skrelp. Dragalge look very much like drifting kelp when they're swimming with the current.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Chalmers Adventures.png|thumb|right|200px|Dragalge in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Dragalge owned by {{tc|Team Flare Admin}} Chalmers, along with multiple {{p|Skrelp}}, attacked [[Gurkinn]] in the {{chap|X & Y}}.
+
+==In the TCG==
+{{main|Dragalge (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=poison|type2=dragon}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.}}
+{{Dex/Entry1|v=Y|entry=Tales are told of ships that wander into seas where Dragalge live, never to return.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Tales are told of ships that wander into seas where Dragalge live, never to return.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=This vicious Pokémon sprays a poisonous liquid on opponents that come near. For whatever reason, it gets along really well with Dhelmise.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It blends in with seaweed to ambush its prey and then takes them down with a poisonous liquid strong enough to melt metal.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=poison|type2=dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1/None|1|v=X}}
+{{Availability/Entry1|1|v=Y|area={{rt|8|Kalos}}, [[Ambrette Town]], [[Cyllage City]] ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|1|v=Omega Ruby|t=FFF|area=[[Evolution|Evolve]] {{p|Skrelp}}}}
+{{Availability/Entry1/None|1|v=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry1/None|v=Ultra Sun}}
+{{Availability/Entry1|v=Ultra Moon|area=[[Poni Breaker Coast]] ([[Ambush encounter]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Poison|type2=Dragon}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 3|Mountain of Order: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 370]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Upside-Down Island|Starlight Islands: Upside-Down Island]] <small>(Center Boss, Back)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Poison
+|type2=Dragon
+|HP=65
+|Attack=75
+|Defense=90
+|SpAtk=97
+|SpDef=123
+|Speed=44}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Poison
+|type2=Dragon
+|Normal=100
+|Flying=100
+|Fighting=50
+|Ground=200
+|Rock=100
+|Bug=50
+|Poison=50
+|Ghost=100
+|Steel=100
+|Fire=50
+|Grass=25
+|Electric=50
+|Psychic=200
+|Water=50
+|Ice=200
+|Dragon=200
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Dragalge|Poison|Dragon|6}}
+{{learnlist/level7|1|Twister|Dragon|Special|40|100|20||'''}}
+{{learnlist/level7|1|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Smokescreen|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25}}
+{{learnlist/level7|1|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Twister|Dragon|Special|40|100|20||'''}}
+{{learnlist/level7|5|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/level7|9|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|12|Bubble|Water|Special|40|100|30}}
+{{learnlist/level7|15|Acid|Poison|Special|40|100|30||'''}}
+{{learnlist/level7|19|Camouflage|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|23|Poison Tail|Poison|Physical|50|100|25||'''}}
+{{learnlist/level7|25|Water Pulse|Water|Special|60|100|20}}
+{{learnlist/level7|28|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|32|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/level7|35|Aqua Tail|Water|Physical|90|90|10}}
+{{learnlist/level7|38|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/level7|42|Hydro Pump|Water|Special|110|80|5}}
+{{learnlist/level7|53|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level7|59|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/levelf/7|Dragalge|Poison|Dragon|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Dragalge|Poison|Dragon|6}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Dragalge|Poison|Dragon|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Dragalge|Poison|Dragon|6}}
+{{learnlist/breed7|{{MSP|422|Shellos}}|Acid Armor|Poison|Status|&mdash;|&mdash;|20|*}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|283|Surskit}}{{MSP|336|Seviper}}<br>{{MSP|658|Greninja}}|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|183|Marill}}{{MSP|184|Azumarill}}|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/breed7|{{MSP|747|Mareanie}}{{MSP|748|Toxapex}}|Toxic Spikes|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|336|Seviper}}{{MSP|747|Mareanie}}{{MSP|748|Toxapex}}{{MSP|757|Salandit}}|Venom Drench|Poison|Status|&mdash;|100|20}}
+{{learnlist/breedf/7|Dragalge|Poison|Dragon|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Dragalge|Poison|Dragon|6}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Dragalge|Poison|Dragon|6}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Dragalge|Poison|Dragon|6}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Dragalge|Poison|Dragon|6}}
+
+===Side game data===
+{{Spindata/Head|type=Poison|type2=Dragon}}
+{{Template:Spindata/Battle Trozei|col=6|type=Poison|ndex=691
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Poison|ndex=691|num=533
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Dragon Talon
+|skilldesc=Sometimes increases damage.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=poison
+|type2=dragon
+|pictype=art
+|no1=690
+|name1=Skrelp
+|type1-1=Poison
+|type2-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 48}}
+|no2=691
+|name2=Dragalge
+|type1-2=Poison
+|type2-2=Dragon}}
+
+===Sprites===
+{{Spritebox/Header|type=poison|type2=dragon}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=691}}
+{{Spritebox/7|ndex=691}}
+{{Spritebox/Footer|691|Dragalge}}
+
+==Trivia==
+* Dragalge and its {{p|Skrelp|pre-evolution}} are the only {{type|Poison}} Pokémon introduced in [[Generation VI]].
+
+===Origin===
+Dragalge appears to be based on a {{wp|leafy seadragon}}, but bears resemblance in shape and body appendages to the {{wp|Phyllopteryx|weedy seadragon}}.
+
+====Name origin====
+Dragalge is a combination of ''dragon'' and ''{{wp|algae}}''.
+
+Dramidoro may be a combination of ''dragon'' and 水綿 ''aomidoro'' (''{{wp|Spirogyra}})''.
+
+==In other languages==
+{{Other languages|type=poison|type2=dragon
+|ja=ドラミドロ ''Dramidoro''|jameaning=From ''dragon'' and {{tt|水綿 ''aomidoro'' |Spirogyra}}
+|fr=Kravarech|frmeaning=From ''{{wp|Kraken}}'' and ''{{tt|varech|kelp}}
+|es=Dragalge|esmeaning=Same as English name
+|de=Tandrak|demeaning=From ''{{tt|Tang|seaweed}}'' and ''{{tt|Drache|dragon}}''
+|it=Dragalge|itmeaning=Same as English name
+|ko=드래캄 ''Deuraekam''|komeaning=From ''dragon'' and {{tt|해캄 ''haekam''|Spirogyra}}
+|zh_cmn=毒拉蜜妮 ''Dúlāmìnī''|zh_cmnmeaning=Partial transliteration of its Japanese name. Contains {{tt|毒 ''dú''|poison}} and {{tt|泥 ''nī''|mud}}
+|zh_yue=毒拉蜜妮 ''Duhklāmahtnèih''|zh_yuemeaning=Partial transliteration of its Japanese name. Contains {{tt|毒 ''duhk''|poison}} and {{tt|泥 ''neih''|mud}}
+|hi=ड्रागलग ''Dragalge''|himeaning=Transcription of English name
+|ru=Драгалдж ''Dragaldzh''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Poison|type2=Dragon}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=690|prev=Skrelp|nextnum=692|next=Clauncher}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Tandrak]]
+[[fr:Kravarech]]
+[[it:Dragalge]]
+[[ja:ドラミドロ]]
+[[pl:Dragalge]]
+[[zh:毒藻龙]]

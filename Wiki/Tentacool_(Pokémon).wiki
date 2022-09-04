@@ -1,0 +1,576 @@
+{{PokémonPrevNext/Head|type=Water|type2=Poison}}
+{{PokémonPrevNext/GO|species=Tentacool}}
+{{PokémonPrevNext/Pokémon|type=Water|type2=Poison|prevnum=071|prev=Victreebel|nextnum=073|next=Tentacruel|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Tentacool
+|jname=メノクラゲ
+|tmname=Menokurage
+|ndex=072
+|oldjdex=162
+|jdex=164
+|hdex=066
+|hdex6=068
+|sdex=136
+|karea=Coastal
+|kdex=025
+|adex=106
+|obrow=276
+|typebox=1
+|type1=Water
+|type2=Poison
+|category=Jellyfish
+|height-ftin=2'11"
+|height-m=0.9
+|weight-lbs=100.3
+|weight-kg=45.5
+|abilityn=d
+|ability1=Clear Body
+|ability2=Liquid Ooze
+|abilityd=Rain Dish
+|egggroupn=1
+|egggroup1=Water 3
+|eggcycles=20
+|evtotal=1
+|evsd=1
+|expyield=67
+|oldexp=105
+|lv100exp=1,250,000
+|gendercode=127
+|color=Blue
+|catchrate=190
+|body=10
+|pokefordex=tentacool
+|generation=1
+|friendship=70
+}}
+'''Tentacool''' ([[List of Japanese Pokémon names|Japanese]]: '''メノクラゲ''' ''Menokurage'') is a dual-type {{2t|Water|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s into {{p|Tentacruel}} starting at [[level]] 30.
+
+==Biology==
+[[File:Tentacool possession.png|thumb|220px|left|Tentacool possessing a {{MTR}}]]
+Tentacool resembles a {{wp|box jellyfish}}. It has a light blue, clear body with two large, transparent, red crystals on each side of its body, and one small one in the middle. It has two small eyes with black pupils and no visible irises near the base of its body. It has two tentacles laced with stinging cells. The tentacles extend from beneath its round, blue lower body, which has a cape-like formation in the back. Its entire body is made of 99% water - the remaining 1% containing the organ that makes its poison.
+
+Tentacool absorbs sunlight and refracts it using water inside its body to convert it into beam energy, as seen in [[EP019|the anime]]. It is also able to control Pokémon it touches with its tentacles, which can regenerate. Tentacool can be found throughout the {{DL|List of Pokémon by habitat|Sea Pokémon|ocean}}. It will sometimes wash ashore and become shriveled and dehydrated, but may be revived if it is thrown back into the ocean.
+{{left clear}}
+
+==In the anime==
+===In the main series===
+[[File:Tentacool anime.png|thumb|250px|left|Tentacool in the {{pkmn|anime}}]]
+====Major appearances====
+Tentacool debuted in ''[[EP019|Tentacool and Tentacruel]]''. A group of the Pokémon had been attacking [[Nastina]]'s construction site, so she made a public announcement offering one million dollars to anyone who could exterminate them. {{TRT}} took up her offer but were surrounded by a huge group of angry Tentacool, one of which evolved into a giant Tentacruel that subsequently went on a rampage before being stopped by {{an|Misty}}.
+
+====Minor appearances====
+A Tentacool appeared in ''[[EP080|Friends to the End]]'', during [[Ritchie]] and [[Assunta]]'s battle. However, it is unknown who it belonged to. In the same episode, another Trainer's Tentacool appeared during the closing ceremonies of the [[Indigo Plateau Conference]].
+
+Multiple Tentacool appeared in ''[[EP091|Bye Bye Psyduck]]'', ''[[M02|The Power of One]]'', ''[[M07|Destiny Deoxys]]'', and ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Trainer used a Tentacool in ''[[EP168|Hook, Line, and Stinker]]'' to aid him in the annual {{p|Seaking}} [[Seaking Catching Day|Catching Competition]].
+
+A Tentacool appeared in ''[[EP206|The Joy of Water Pokémon]]'' as an inhabitant of [[Lake Lucid]].
+
+A Tentacool appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+Two Tentacool appeared in ''[[EP214|Mantine Overboard!]]''.
+
+A Tentacool was seen at a [[Pokémon Center]] in ''[[The Legend of Thunder!]]''.
+
+A Tentacool appeared in the opening sequence of ''[[M05|Pokémon Heroes: Latios & Latias]]''. Another Tentacool was used by a competitor in the [[Tour de Alto Mare]].
+
+A school of Tentacool appeared in a flashback in ''[[AG103|A Cacturne for the Worse]]''. {{an|May}} became scared of them due to being surrounded by them at one point in her childhood, and her mother attempted to catch her, thinking that ''she'' was a Tentacool.
+
+A Tentacool appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Tentacool appeared in ''[[DP089|Up Close and Personable!]]''.
+
+Multiple Tentacool appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+Two Tentacool appeared in ''[[XY022|Going for the Gold!]]''.
+
+Multiple Tentacool appeared in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Tentacool appeared in a flashback in ''[[XY040|Day Three Blockbusters!]]''.
+
+A Tentacool appeared in ''[[SM031|The Island Whisperer!]]''.
+
+Multiple Tentacool appeared in ''[[M20|I Choose You!]]''.
+
+A wild Tentacool appeared in ''[[SM042|Alola, Kanto!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP019|Tentacool|Ash's Pokédex|Tentacool, a Jellyfish Pokémon. 99% of its body is made up of water.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+
+===In Pokémon Origins===
+[[File:Red Tentacool PO.png|thumb|220px|Tentacool in [[Pokémon Origins]]]]
+[[File:Tentacool Huntail Carvanha Clamperl PG.png|thumb|left|220px|Tentacool in [[Pokémon Generations]]]]
+A Tentacool appeared in ''[[PO04|File 4: Charizard]]''. {{OBP|Red|Origins}} caught one after passing by it.
+
+===In Pokémon Generations===
+A wild Tentacool appeared in the waters that surrounded the [[Seafloor Cavern]] in ''[[PG08|The Cavern]]''.
+{{-}}
+
+==In the manga==
+[[File:Tentacool Adventures.png|thumb|200px|Tentacool in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Tentacool's first appearance is a cameo in ''[[PS002|Bulbasaur, Come Home!]]'' as one of the Pokémon that escapes from [[Professor Oak's Laboratory]].
+
+In ''[[PS024|What a Dragonite]]'' multiple wild Tentacool were escaping from a Dragonite.
+
+In ''[[PS058|The Kindest Tentacruel]]'' a herd of Tentacool appeared along with a Tentacruel where a baby Tentacool got its tentacle stuck under a boulder where it later helped rescue {{adv|Yellow}}.
+
+A herd of Tentacool appeared in ''[[PS060|Breath of the Dragonair Part 1]]'' when Yellow was trying to find a {{type|Water}} Pokémon to surf across the ocean.
+
+One of the members of the [[Pokémon Fan Club]] in [[Vermilion City]] apparently bathes with her Tentacool on a regular basis. She is seen again with her Tentacool in ''[[PS179|The Last Battle XIII]]'' during the Chairman's call out to all {{pkmn|Trainer}}s to send their Pokémon to help the fight in [[Ilex Forest]].
+
+In ''[[PS332|The Final Battle V]]'', during the [[Trick Master]]'s story of the homeland soil, a Tentacool appeared in the flashback when it was one of the Pokémon calmed down by it.
+
+In ''[[PS442|Out-Odding Oddish]]'', a Tentacool appeared in the [[Pokéathlon]].
+
+A Tentacool appeared in ''[[PAORAS05|Omega Alpha Adventure 5]]''.
+
+==In the TCG==
+{{main|Tentacool (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Poison}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging {{m|acid}}.}}
+{{Dex/Entry1|v=Yellow|entry=It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Fires beams of light from its clear eyes. Floats around in shallow waters and may sting unwary anglers.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=When the tide goes out, dehydrated Tentacool remains can be found washed up on the shore.}}
+{{Dex/Entry1|v=Silver|entry=It drifts aimlessly in waves. Very difficult to see in water, it may not be noticed until it stings.}}
+{{Dex/Entry1|v=Crystal|entry=As it floats along on the waves, it uses its toxic feelers to stab anything it touches.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=When the tide goes out, dehydrated Tentacool remains can be found washed up on the shore.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Tentacool's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Tentacool absorbs sunlight and refracts it using water inside its body to convert it into beam energy. This Pokémon shoots beams from its crystal-like eyes.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its body is almost entirely composed of water. It ensnares its foe with its two long tentacles, then stabs with the poison stingers at their tips.}}
+{{Dex/Entry1|v=FireRed|entry=Its eyes are as transparent as crystals. From them, it shoots mysterious beams of light.}}
+{{Dex/Entry1|v=LeafGreen|entry=Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=Its body is virtually composed of water. It shoots strange beams from its crystal-like eyes.}}
+{{Dex/Entry1|v=Pearl|entry=It drifts in sea currents. Countless fishermen are hurt by its poison stingers.}}
+{{Dex/Entry1|v=Platinum|entry=Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.}}
+{{Dex/Entry1|v=HeartGold|entry=When the tide goes out, dehydrated Tentacool remains can be found washed up on the shore.}}
+{{Dex/Entry1|v=SoulSilver|entry=It drifts aimlessly in waves. Very difficult to see in water, it may not be noticed until it stings.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its body is virtually composed of water. It shoots strange beams from its crystal-like eyes.}}
+{{Dex/Entry1|v=Y|entry=Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Tentacool's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Tentacool absorbs sunlight and refracts it using water inside its body to convert it into beam energy. This Pokémon shoots beams from the small round organ above its eyes.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=They can be found lying dehydrated on beaches, but they are often still alive. When soaked in water, they will revive.}}
+{{Dex/Entry1|v=Moon|entry=It drifts in shallow seas, such as the areas near beaches. If you get bitten or stabbed by its toxic tentacles, rush to the hospital.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It drifts through the sea searching for prey. Its poisonous tentacles break off sometimes, but after a while, they grow back.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its body is 99% water. The remaining 1% contains the organ that makes its poison.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Route]]s {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, and {{rtn|21|Kanto}} ({{m|Surf}}ing)<br>[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|17|Kanto}}, and {{rtn|18|Kanto}}, [[Pallet Town]], [[Viridian City]] ([[Fishing#In the games|Super Rod]])}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, and {{rtn|21|Kanto}} ({{m|Surf}}ing)<br>[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|17|Kanto}}, and {{rtn|18|Kanto}}, [[Pallet Town]], [[Viridian City]] ([[Fishing#In the games|Super Rod]])}}
+{{Availability/Entry1|v=Yellow|area=[[Route]]s {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, and {{rtn|21|Kanto}}, [[Seafoam Islands]] ({{m|Surf}}ing)<br>[[Route]]s {{rtn|11|Kanto}}, {{rtn|13|Kanto}}, {{rtn|17|Kanto}}, {{rtn|18|Kanto}}, {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, and {{rtn|21|Kanto}}, [[Pallet Town]], [[Vermilion City]], [[Vermilion Harbor]], [[Cinnabar Island]] ([[Fishing#In the games|Super Rod]])}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, {{rtn|26|Kanto}}, {{rtn|27|Kanto}} and {{rtn|41|Johto}}, [[New Bark Town]], [[Pallet Town]], [[Vermilion City]], [[Olivine City]]{{tt|*|Bay}}, [[Cinnabar Island]] ({{m|Surf}}ing, [[Fishing#In the games|Old/Good Rod]])<br>[[Route]]s {{rtn|19|Kanto}}, {{rtn|34|Johto}} and {{rtn|40|Johto}}, [[Olivine City]]{{tt|*|City}}, [[Cherrygrove City]], [[Cianwood City]], [[Whirl Islands]]{{tt|*|1F}}, [[Union Cave]]{{tt|*|B2F}} ({{m|Surf}}ing)<br>[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}} and {{rtn|32|Johto}} ({{m|Surf}}ing or [[Fishing]])}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, {{rtn|26|Kanto}}, {{rtn|27|Kanto}} and {{rtn|41|Johto}}, [[New Bark Town]], [[Pallet Town]], [[Vermilion City]], [[Olivine City]]{{tt|*|Bay}}, [[Cinnabar Island]] ({{m|Surf}}ing, [[Fishing#In the games|Old/Good Rod]])<br>[[Route]]s {{rtn|19|Kanto}}, {{rtn|34|Johto}} and {{rtn|40|Johto}}, [[Olivine City]]{{tt|*|City}}, [[Cherrygrove City]], [[Cianwood City]], [[Whirl Islands]]{{tt|*|1F}}, [[Union Cave]]{{tt|*|B2F}} ({{m|Surf}}ing)<br>[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}} and {{rtn|32|Johto}} ({{m|Surf}}ing or [[Fishing]])}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area={{rt|128|Hoenn}}, [[Ever Grande City]] ({{m|Surf}}ing, [[Fishing#In the games|Old Rod]])<br>[[Sootopolis City]] ([[Fishing#In the games|Old Rod]])<br>[[Abandoned Ship]] ({{m|Surf}}ing or [[Fishing]])<br>[[Route]]s {{rtn|103|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|121|Hoenn}}, {{rtn|122|Hoenn}}, {{rtn|123|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}}, [[Slateport City]], [[Pacifidlog Town]], [[Mossdeep City]], [[Lilycove City]], [[Dewford Town]], [[Shoal Cave]], [[Seafloor Cavern]] ({{m|Surf}}ing, [[Fishing#In the games|Old/Good Rod]])}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{rt|128|Hoenn}}, [[Ever Grande City]] ({{m|Surf}}ing, [[Fishing#In the games|Old Rod]])<br>[[Sootopolis City]] ([[Fishing#In the games|Old Rod]])<br>[[Abandoned Ship]] ({{m|Surf}}ing or [[Fishing]])<br>[[Route]]s {{rtn|103|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|119|Hoenn}}, {{rtn|121|Hoenn}}, {{rtn|122|Hoenn}}, {{rtn|123|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}}, [[Slateport City]], [[Pacifidlog Town]], [[Mossdeep City]], [[Lilycove City]], [[Dewford Town]], [[Shoal Cave]], [[Seafloor Cavern]] ({{m|Surf}}ing, [[Fishing#In the games|Old/Good Rod]])}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Route]]s {{rtn|4|Kanto}}, {{rtn|10|Kanto}}, {{rtn|11|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, and {{rtn|24|Kanto}}, [[Treasure Beach]], [[Kindle Road]], [[Bond Bridge]], [[Five Isle Meadow]], [[Memorial Pillar]], [[Water Labyrinth]], [[Resort Gorgeous]], [[Water Path]], [[Green Path]], [[Outcast Island]], [[Tanoby Ruins]], [[Pallet Town]], [[Cerulean City]], [[Vermilion City]], [[One Island (town)|One Island]], [[Five Island (town)|Five Island]], [[Icefall Cave]], [[Trainer Tower]] ({{m|Surf}}ing)}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|205|Sinnoh}}, {{rtn|213|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|219|Sinnoh}}, {{rtn|220|Sinnoh}}, {{rtn|221|Sinnoh}}, and {{rtn|222|Sinnoh}}, [[Canalave City]], [[Pastoria City]], [[Fuego Ironworks]], [[Valley Windworks]], [[Iron Island]], {{si|Pokémon League}} ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|205|Sinnoh}}, {{rtn|212|Sinnoh}}, {{rtn|213|Sinnoh}}, {{rtn|218|Sinnoh}}, {{rtn|219|Sinnoh}}, {{rtn|220|Sinnoh}}, {{rtn|221|Sinnoh}}, and {{rtn|222|Sinnoh}}, [[Canalave City]], [[Pastoria City]], [[Sunyshore City]], [[Fuego Ironworks]], [[Valley Windworks]], [[Iron Island]], {{si|Pokémon League}} ({{m|Surf}}ing)}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|41|Johto}}, and {{rtn|47|Johto}}, [[New Bark Town]], [[Vermilion City]], [[Cinnabar Island]], [[Pallet Town]] ({{m|Surf}}ing, [[Fishing#In the games|Old/Good Rod]])<br>[[Route]]s {{rtn|19|Kanto}}, {{rtn|34|Johto}}, and {{rtn|40|Johto}}, [[Cherrygrove City]], [[Olivine City]], [[Cianwood City]], [[Union Cave]]{{tt|*|3F}}, [[Whirl Islands]]{{tt|*|1F-B2F}} ({{m|Surf}}ing)<br>[[Route]]s {{rtn|13|Kanto}} and {{rtn|32|Johto}} ({{m|Surf}}ing or [[Fishing]])<br>{{rt|12|Kanto}} ([[Fishing]])}}
+{{Availability/Entry1|v=Pal Park|color=5A98F5|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Sea}}}}
+{{Availability/Entry1|v=Pokéwalker|link=Pokéwalker|color=FF3333|area={{pw|Blue Lake}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{Dwa|Sparkling Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Route]]s {{rtn|8|Kalos}} and {{rtn|12|Kalos}}, [[Ambrette Town]], [[Cyllage City]], [[Shalour City]], [[Azure Bay]] ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Omega Ruby|t=fff|area={{rt|120|Hoenn}}, [[Seafloor Cavern]], [[Battle Resort]] ({{DL|Fishing|Old Rod}} or {{DL|Fishing|Good Rod}})<br>[[Route]]s {{rtn|119|Hoenn}} and {{rtn|128|Hoenn}}, {{ho|Victory Road}}, [[Ever Grande City]] ({{DL|Fishing|Old Rod}} or {{m|Surf}}ing)<br>[[Route]]s {{rtn|103|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|122|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}}, [[Sea Mauville]], [[Dewford Town]], [[Slateport City]], [[Lilycove City]], [[Mossdeep City]], [[Shoal Cave]], [[Pacifidlog Town]], [[Sealed Chamber]], [[Team Magma Hideout]] ({{DL|Fishing|Old Rod}}, {{DL|Fishing|Good Rod}}, or {{m|Surf}}ing)}}
+{{Availability/Entry1|v=Alpha Sapphire|t=fff|area={{rt|120|Hoenn}}, [[Seafloor Cavern]], [[Battle Resort]] ({{DL|Fishing|Old Rod}} or {{DL|Fishing|Good Rod}})<br>[[Route]]s {{rtn|119|Hoenn}} and {{rtn|128|Hoenn}}, {{ho|Victory Road}}, [[Ever Grande City]] ({{DL|Fishing|Old Rod}} or {{m|Surf}}ing)<br>[[Route]]s {{rtn|103|Hoenn}}, {{rtn|105|Hoenn}}, {{rtn|106|Hoenn}}, {{rtn|107|Hoenn}}, {{rtn|108|Hoenn}}, {{rtn|109|Hoenn}}, {{rtn|110|Hoenn}}, {{rtn|115|Hoenn}}, {{rtn|118|Hoenn}}, {{rtn|122|Hoenn}}, {{rtn|124|Hoenn}}, {{rtn|125|Hoenn}}, {{rtn|126|Hoenn}}, {{rtn|127|Hoenn}}, {{rtn|129|Hoenn}}, {{rtn|130|Hoenn}}, {{rtn|131|Hoenn}}, {{rtn|132|Hoenn}}, {{rtn|133|Hoenn}}, and {{rtn|134|Hoenn}}, [[Sea Mauville]], [[Dewford Town]], [[Slateport City]], [[Lilycove City]], [[Mossdeep City]], [[Shoal Cave]], [[Pacifidlog Town]], [[Sealed Chamber]], [[Team Aqua Hideout]] ({{DL|Fishing|Old Rod}}, {{DL|Fishing|Good Rod}}, or {{m|Surf}}ing)}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|1|Alola}}, {{rtn|7|Alola}}, {{rtn|8|Alola}}, {{rtn|14|Alola}}, {{rtn|15|Alola}}, [[Hau'oli City]], [[Melemele Sea]], [[Kala'e Bay]], [[Brooklet Hill]], [[Hano Beach]], [[Secluded Shore]] ({{m|Surf}}ing)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]]s {{rtn|7|Alola}}, {{rtn|8|Alola}}, [[Hau'oli City]], [[Melemele Sea]], [[Kala'e Bay]], [[Brooklet Hill]], [[Hano Beach]] ({{m|Surf}}ing)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Pallet Town]], [[Viridian City]], [[Kanto Route 17|Cycling Road]], [[Seafoam Islands]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Ocean ({{color2|{{sapphire color}}|Sapphire Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 1]], [[Secret Storage 13]], Endless Level 8, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Stormy Sea]] (1F-8F), [[Silver Trench]] (1F-9F), [[Grand Sea]] (1F-9F), [[Marvelous Sea]] (B1-B9), [[Fantasy Strait]] (B1-B9)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Brine Cave]] (B6-B9, Lower Brine Cave B1-B5)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Brine Cave]] (B6-B9, Lower Brine Cave B1-B5)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]] <small>(Both Modes C)</small>}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area={{ra|Eastern Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Echo Valley]], [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Chill Battle#Chill Battle|Unidentified Flying Objects]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 4|Island of Haste: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 541]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Moonlit Island|Pearl Marsh: Moonlit Island]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Water|type2=Poison}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Confuse Ray Tentacool|English|United States|5|July 12 to August 8, 2002|link=List of Gotta Catch 'Em All event Pokémon#Confuse Ray Tentacool}}
+|}
+
+===Held items===
+{{HeldItems|type=Water|type2=Poison
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1rar=100|rby1image=no
+|dppt1=Poison Barb|dppt1type=None|dppt1rar=5
+|hgss1=Poison Barb|hgss1type=None|hgss1rar=5
+|xy1=Poison Barb|xy1type=None|xy1rar=5
+|oras1=Poison Barb|oras1type=None|oras1rar=5
+|sm1=Poison Barb|sm1type=None|sm1rar=5
+|usum1=Poison Barb|usum1type=None|usum1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|type=Water
+|type2=Poison
+|HP=      40
+|Attack=  40
+|Defense= 35
+|SpAtk=   50
+|SpDef=  100
+|Special=100
+|Speed=   70}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Poison
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=3
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Poison
+|Normal=  100
+|Flying=  100
+|Fighting= 50
+|Ground=  200
+|Rock=    100
+|Bug=      50
+|Poison=   50
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   100
+|Electric=200
+|Psychic= 200
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=50
+|notes=yes
+|gen1poison=yes
+|oldbug=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Tentacool|Water|Poison|1}}
+{{learnlist/level7|1|Poison Sting|Poison|Physical|15|100|35||'''}}
+{{learnlist/level7|4|Supersonic|Normal|Status|&mdash;|55|20}}
+{{learnlist/level7|7|Constrict|Normal|Physical|10|100|35}}
+{{learnlist/level7|10|Acid|Poison|Special|40|100|30||'''}}
+{{learnlist/level7|13|Toxic Spikes|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|16|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level7|19|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level7|22|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/level7|25|Bubble Beam|Water|Special|65|100|20||'''}}
+{{learnlist/level7|28|Barrier|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|31|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/level7|34|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/level7|37|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|40|Hex|Ghost|Special|65|100|10}}
+{{learnlist/level7|43|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/level7|46|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|49|Wring Out|Normal|Special|&mdash;|100|5}}
+{{learnlist/levelf/7|Tentacool|Water|Poison|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Tentacool|Water|Poison|1}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10||'''}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Tentacool|Water|Poison|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Tentacool|Water|Poison|2}}
+{{learnlist/breed7|{{MSP|451|Skorupi}}{{MSP|452|Drapion}}|Acupressure|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|222|Corsola}}|Aqua Ring|Water|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|090|Shellder}}{{MSP|091|Cloyster}}|Aurora Beam|Ice|Special|65|100|20}}
+{{learnlist/breed7|{{MSP|098|Krabby}}{{MSP|099|Kingler}}{{MSP|222|Corsola}}{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}{{MSP|692|Clauncher}}<br>{{MSP|693|Clawitzer}}{{MSP|739|Crabrawler}}{{MSP|740|Crabominable}}|Bubble|Water|Special|40|100|30||'''}}
+{{learnlist/breed7|{{MSP|345|Lileep}}{{MSP|346|Cradily}}|Confuse Ray|Ghost|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|098|Krabby}}{{MSP|138|Omanyte}}|Haze|Ice|Status|&mdash;|&mdash;|30|*}}
+{{learnlist/breed7|{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed7|{{MSP|222|Corsola}}|Mirror Coat|Psychic|Special|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/breed7|{{MSP|090|Shellder}}{{MSP|140|Kabuto}}{{MSP|347|Anorith}}|Rapid Spin|Normal|Physical|20|100|40|*}}
+{{learnlist/breed7|{{MSP|138|Omanyte}}{{MSP|139|Omastar}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breedf/7|Tentacool|Water|Poison|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Tentacool|Water|Poison|2}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Tentacool|Water|Poison|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" align="center" style="background: #{{tcg water color light}}; border: 3px solid #{{tcg water color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Recover}}
+| style="background:#fff; {{roundybr|5px}}" | [[Tentacool (Aquapolis 113)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Poison}}
+{{Spindata/Pinball|col=2|type=Water|ndex=072|acquisition=Catch}}
+{{Spindata/PinballRS|col=2|type=Water|ndex=072|acquisition=Catch}}
+{{Spindata/Trozei|col=2|type=Water|ndex=072|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=072
+|body=1
+|rate=8.3
+|area=Bountiful Sea
+|P1=I shoot weird beams! They're really weird!
+|P2=Uh, you'd better see this. My health isn't looking half good.
+|P3=Uh, listen. I'm ready to go belly-up.
+|PL=Woohoo, leveled up! Time to shine!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=072
+|body=1
+|rate=8.2
+|IQ=C
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Crush
+|fieldpower=1
+|past=NA
+|browser=It spits bubbles around itself that make Pokémon Slowed.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=1
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=1
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=072|bttype=Poison
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=072|num=676|stype=Poison
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Toxic Stress
+|skilldesc=Increases damage when it is triggered in a row.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=072
+|egg=5
+|buddy=3
+|evocandy=50
+|stamina=80
+|attack=97
+|defense=182
+|fast={{m|Bubble}}, {{m|Poison Sting}}
+|special={{m|Bubble Beam}}, {{m|Water Pulse}}, {{m|Wrap}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Water
+|type2=Poison
+|pictype=art
+|no1=072
+|name1=Tentacool
+|type1-1=Water
+|type2-1=Poison
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no2=073
+|name2=Tentacruel
+|type1-2=Water
+|type2-2=Poison}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Poison}}
+{{Spritebox/1|ndex=072}}
+{{Spritebox/2|ndex=072}}
+{{Spritebox/3|ndex=072}}
+{{Spritebox/4|ndex=072}}
+{{Spritebox/5|ndex=072}}
+{{Spritebox/6|ndex=072}}
+{{Spritebox/7|ndex=072}}
+{{Spritebox/Footer|072|Tentacool}}
+
+==Trivia==
+* In the [[Pokémon Red and Green beta|Pokémon Red and Blue beta]], Tentacool was originally known as "Jilly".
+* Tentacool was the first [[Generation IV hybrid]] [[glitch Pokémon]] discovered.
+* Tentacool and Tentacruel are the only non-[[gender]]less Pokémon to have access to the Ability {{a|Clear Body}}.
+
+===Origin===
+Tentacool is based on a {{wp|jellyfish}}, possibly a species of {{wp|box jellyfish}} such as ''{{wp|Chironex fleckeri}}'' or ''{{wp|Carukia barnesi}}''. The fact that it has only two tentacles may be based on {{wp|squid}}.
+
+====Name origin====
+Tentacool is a combination of ''{{wp|tentacle}}'' and ''cool''. 
+
+Menokurage may be a combination of 目の敵 ''menokataki'' (enemy) and 水母 ''kurage'' ({{wp|jellyfish}}). Alternatively, it may be a pun on the expression 目の毒 ''menodoku'' ("poison to the eye", referring to a tempting thing but one that must not be looked at), considering that its {{p|Tentacruel|evolution's}} name is ドククラゲ ''dokukurage''.
+
+==In other languages==
+{{incomplete|section|needs Icelandic meaning}}
+{{Other languages|type=Water|type2=Poison
+|ja=メノクラゲ ''Menokurage''|jameaning=From {{tt|目の敵 ''menokataki''|enemy}} and {{tt|水母 ''kurage''|jellyfish}}
+|fr=Tentacool|frmeaning=Same as English name
+|es=Tentacool|esmeaning=Same as English name
+|de=Tentacha|demeaning=From ''tentacle''
+|it=Tentacool|itmeaning=Same as English name
+|ko=왕눈해 ''Wangnunhe''|komeaning=From {{tt|왕 ''wang''|king}}, {{tt|눈 ''noon''|eye}}, and {{tt|해파리 ''haepari''|jellyfish}} or {{tt|해 (海) ''hae''|sea}}
+|ar=تينتاكول ''Tintakul''|armeaning=Same as English name
+|zh_yue=大眼水母 ''Daaihngáahnséuimóuh''|zh_yuemeaning=Literally "Big eyed jellyfish"
+|zh_cmn=瑪瑙水母 / 玛瑙水母 ''Mǎnǎoshuǐmǔ''|zh_cmnmeaning=Literally "{{wp|Agate}} jellyfish"
+|hi=तेँटाकूल ''Tentacool'' |himeaning= Transcription of English name
+|is=Ofsasvalt{{tt|*|in the sub of Pikachu's Rescue Adventure}}|ismeaning=
+|ru=Тентакул ''Tentakul''|rumeaning=Same as English name
+|vi=Menokurage|vimeaning=Same as Japanese name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Water|typ2=Poison}}
+{{PokémonPrevNext/Pokémon|type=water|type2=poison|prevnum=071|prev=Victreebel|nextnum=073|next=Tentacruel|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Tentacha]]
+[[fr:Tentacool]]
+[[ja:メノクラゲ]]
+[[it:Tentacool]]
+[[pl:Tentacool]]
+[[zh:玛瑙水母]]

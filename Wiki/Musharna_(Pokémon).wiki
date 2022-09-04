@@ -1,0 +1,359 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=517|prev=Munna|nextnum=519|next=Pidove|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Musharna}}
+|}
+{{Pokémon Infobox
+|name=Musharna
+|jname=ムシャーナ
+|jtranslit=Mushāna
+|tmname=Musharna
+|category=Drowsing
+|typebox=1
+|type1=Psychic
+|abilityn=d
+|ability1=Forewarn
+|ability2=Synchronize
+|abilityd=Telepathy
+|ndex=518
+|udex=024
+|u2dex=087
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=133.4
+|weight-kg=60.5
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=10
+|expyield=170
+|lv100exp=800,000
+|gendercode=127
+|color=Pink
+|catchrate=75
+|body=12
+|evtotal=2
+|evhp=2
+|pokefordex=musharna
+|generation=5
+|friendship=70
+}}
+'''Musharna''' ([[List of Japanese Pokémon names|Japanese]]: '''ムシャーナ''' ''Musharna'') is a {{type|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolve]]s from {{p|Munna}} when exposed to a [[Moon Stone]].
+
+==Biology==
+Musharna is rounded, bipedal Pokémon that has a tapir-like trunk. Its body is light purple, while its head is a pale pink. It has oval, red eyes with three eyelashes and dark pink ovals on its forehead and cheeks. The tips of its four stubby limbs are dark pink. [[Dream Mist]] seeps out of the mark on its forehead. This mist has various colors depending on what kind of dreams Musharna has eaten; it is most often a dark pink. Shapes and forms of the dreams Musharna has eaten can appear in the mist as well.
+
+==In the anime==
+[[File:Fennel Musharna.png|250px|left|thumb|Musharna in the {{pkmn|anime}}]]
+===Major appearances===
+Musharna appeared in ''[[BW006|Dreams by the Yard Full!]]'', under the ownership of [[Fennel]]. Musharna was used in the [[Dreamyard]] for research on its [[Dream Mist]] for a cleaner energy source. However, due to people's evil thoughts and desires on the project, Musharna's Dream Mist was corrupted, which caused an energy overload and destroyed the whole facility in a powerful explosion. It later reappeared in ''[[BW036|Archeops In The Modern World!]]'', where its Dream Mist to revive a fossilized {{p|Archen}}.
+
+===Minor appearances===
+Multiple Musharna appeared in ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]''. They were inside the [[Sword of the Vale]] in the past, as depicted in a flashback.
+
+A Musharna appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW006|Musharna|Ash's Pokédex|Musharna, the Drowsing Pokémon and the evolved form of {{p|Munna}}. The mist from its forehead takes the form of things present in the dreams it has eaten.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Black Musha.png|thumb|150px|Musharna in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Musha}}
+{{adv|Black}}'s Munna, Musha, returns to him in ''[[PS518|True Friends]]'', where he was revealed to have evolved into a Musharna.
+
+==In the TCG==
+{{main|Musharna (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Psychic}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=The mist emanating from their foreheads is packed with the dreams of people and Pokémon.}}
+{{Dex/Entry1|v=White|entry=With the mist from its forehead, it can create shapes of things from dreams it has eaten.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The mist emanating from their foreheads is packed with the dreams of people and Pokémon.}}
+{{Dex/Entry1|v=Y|entry=The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=The mist emanating from their foreheads is packed with the dreams of people and Pokémon.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Dreamyard]] (Ruins, {{DL|Phenomenon|rustling grass}})<br>[[Dreamyard]] (Basement){{tt|*|always has Telepathy, respawns weekly}}{{dotw|Fr}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Dreamyard]] ({{DL|Phenomenon|rustling grass}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Munna}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Munna}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Illusio]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Rusty Mountain]] (Golden Chamber), [[Jaws of the Abyss]] (B1-B28), [[Smoking Mountain]] (1F-24F), [[Cape at the Edge]] (B1-B29), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#Rush Hour|Model Train Room: Rush Hour]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 2|Safari Jungle: Stage 2]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 267]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Blue Tower|Sapphire Sea: Blue Tower]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Psychic
+|HP=116
+|Attack=55
+|Defense=85
+|SpAtk=107
+|SpDef=95
+|Speed=29}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|Normal=100
+|Flying=100
+|Fighting=50
+|Ground=100
+|Rock=100
+|Bug=200
+|Poison=100
+|Ghost=200
+|Steel=100
+|Fire=100
+|Grass=100
+|Electric=100
+|Psychic=50
+|Water=100
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Musharna|Psychic|Psychic|5}}
+{{learnlist/level7|1|Psychic Terrain|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|1|Lucky Chant|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|1|Psybeam|Psychic|Special|65|100|20||'''}}
+{{learnlist/level7|1|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/levelf/7|Musharna|Psychic|Psychic|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Musharna|Psychic|Psychic|5}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Musharna|Psychic|Psychic|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Musharna|Psychic|Psychic|5}}
+{{learnlist/breed7|{{MSP|471|Glaceon}}|Barrier|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|133|Eevee}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|203|Girafarig}}<br>{{MSP|303|Mawile}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}|Baton Pass|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|427|Buneary}}{{MSP|428|Lopunny}}|Healing Wish|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|058|Growlithe}}{{MSP|133|Eevee}}{{MSP|134|Vaporeon}}{{MSP|135|Jolteon}}<br>{{MSP|136|Flareon}}{{MSP|196|Espeon}}{{MSP|197|Umbreon}}{{MSP|470|Leafeon}}{{MSP|471|Glaceon}}{{MSP|700|Sylveon}}<br>{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|572|Minccino}}<br>{{MSP|573|Cinccino}}{{MSP|678|Meowstic}}|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|325|Spoink}}{{MSP|326|Grumpig}}{{MSP|428|Lopunny}}|Magic Coat|Psychic|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|020|Raticate}}{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|025|Pikachu}}{{MSP|026|Raichu}}<br>{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|034|Nidoking}}{{MSP|037|Vulpix}}<br>{{MSP|038|Ninetales}}{{MSP|050|Diglett}}{{MSP|051|Dugtrio}}{{MSP|052|Meowth}}{{MSP|053|Persian}}{{MSP|054|Psyduck}}<br>{{MSP|055|Golduck}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|058|Growlithe}}{{MSP|059|Arcanine}}{{MSP|077|Ponyta}}<br>{{MSP|078|Rapidash}}{{MSP|083|Farfetch'd}}{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}<br>{{MSP|464|Rhyperior}}{{MSP|128|Tauros}}{{MSP|133|Eevee}}{{MSP|134|Vaporeon}}{{MSP|135|Jolteon}}{{MSP|136|Flareon}}<br>{{MSP|196|Espeon}}{{MSP|197|Umbreon}}{{MSP|470|Leafeon}}{{MSP|471|Glaceon}}{{MSP|700|Sylveon}}{{MSP|155|Cyndaquil}}<br>{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|179|Mareep}}{{MSP|180|Flaaffy}}<br>{{MSP|181|Ampharos}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|203|Girafarig}}<br>{{MSP|206|Dunsparce}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|216|Teddiursa}}<br>{{MSP|217|Ursaring}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|225|Delibird}}{{MSP|228|Houndour}}<br>{{MSP|229|Houndoom}}{{MSP|231|Phanpy}}{{MSP|232|Donphan}}{{MSP|234|Stantler}}{{MSP|255|Torchic}}{{MSP|256|Combusken}}<br>{{MSP|257|Blaziken}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}{{MSP|273|Seedot}}<br>{{MSP|274|Nuzleaf}}{{MSP|275|Shiftry}}{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|293|Whismur}}<br>{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|300|Skitty}}{{MSP|301|Delcatty}}{{MSP|303|Mawile}}{{MSP|309|Electrike}}<br>{{MSP|310|Manectric}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}<br>{{MSP|325|Spoink}}{{MSP|326|Grumpig}}{{MSP|327|Spinda}}{{MSP|335|Zangoose}}{{MSP|336|Seviper}}{{MSP|352|Kecleon}}<br>{{MSP|359|Absol}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}<br>{{MSP|392|Infernape}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}<br>{{MSP|403|Shinx}}{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|417|Pachirisu}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}<br>{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}<br>{{MSP|448|Lucario}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}<br>{{MSP|498|Tepig}}{{MSP|499|Pignite}}{{MSP|500|Emboar}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}<br>{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|509|Purrloin}}<br>{{MSP|510|Liepard}}{{MSP|511|Pansage}}{{MSP|512|Simisage}}{{MSP|513|Pansear}}{{MSP|514|Simisear}}{{MSP|515|Panpour}}<br>{{MSP|516|Simipour}}{{MSP|517|Munna}}{{MSP|518|Musharna}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|527|Woobat}}<br>{{MSP|528|Swoobat}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}<br>{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|570|Zorua}}{{MSP|571|Zoroark}}{{MSP|572|Minccino}}{{MSP|573|Cinccino}}<br>{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|587|Emolga}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|626|Bouffalant}}{{MSP|631|Heatmor}}{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}<br>{{MSP|653|Fennekin}}{{MSP|654|Braixen}}{{MSP|655|Delphox}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|667|Litleo}}<br>{{MSP|668|Pyroar}}{{MSP|672|Skiddo}}{{MSP|673|Gogoat}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}{{MSP|676|Furfrou}}<br>{{MSP|677|Espurr}}{{MSP|678|Meowstic}}{{MSP|702|Dedenne}}|Secret Power|Normal|Physical|70|100|20|‡}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|418|Buizel}}{{MSP|419|Floatzel}}|Sonic Boom|Normal|Special|&mdash;|90|20}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|133|Eevee}}<br>{{MSP|196|Espeon}}{{MSP|700|Sylveon}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|190|Aipom}}<br>{{MSP|424|Ambipom}}{{MSP|417|Pachirisu}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|572|Minccino}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}|Swift|Normal|Special|60|&mdash;|20}}
+{{learnlist/breedf/7|Musharna|Psychic|Psychic|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Musharna|Psychic|Psychic|5}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Musharna|Psychic|Psychic|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Musharna|Psychic|Psychic|5}}
+{{learnlist/prevo7|517|Munna|||||Psywave|Psychic|Special|—|100|15}}
+{{learnlist/prevo7|517|Munna|||||Yawn|Normal|Status|—|—|10}}
+{{learnlist/prevo7|517|Munna|||||Imprison|Psychic|Status|—|—|10}}
+{{learnlist/prevo7|517|Munna|||||Moonlight|Fairy|Status|—|—|5}}
+{{learnlist/prevo7|517|Munna|||||Zen Headbutt|Psychic|Physical|80|90|15|'''|{{sup/7|SM}}}}
+{{learnlist/prevo7|517|Munna|||||Synchronoise|Psychic|Special|120|100|10|'''}}
+{{learnlist/prevo7|517|Munna|||||Nightmare|Ghost|Status|—|100|15}}
+{{learnlist/prevo7|517|Munna|||||Future Sight|Psychic|Special|120|100|10|'''}}
+{{learnlist/prevo7|517|Munna|||||Telekinesis|Psychic|Status|—|—|15||{{sup/7|SM}}}}
+{{learnlist/prevo7|517|Munna|||||Stored Power|Psychic|Special|20|100|10|'''}}
+{{learnlist/prevof/7|Musharna|Psychic|Psychic|5}}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/RumbleBlast|col=6|type=Psychic
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Psychic|ndex=518
+|pad=She peeks at [[Wish Park]] while sleeping. She tells you a lot of things in her sleep.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Psychic|ndex=518
+|HP=5
+|atk=3
+|def=4
+|spd=1
+|range=3
+|move=Dream Eater
+|ability1=Calming
+|ability2=Daze
+|evo=Evolves from {{p|Munna}} when its [[link]] is improved while its [[Warrior]] is equipped with a [[Moon Stone]]
+|link={{DL|List of Pokémon Conquest characters|Hana}} and {{DL|List of Pokémon Conquest characters|Sadamitsu}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=518
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=518|num=387
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Mind Zap
+|skilldesc=Delays your opponent's disruptions.
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|pictype=art
+|type1=Psychic
+|no1=517
+|name1=Munna
+|type1-1=Psychic
+|evo1={{bag|Moon Stone}}<br>{{color2|000|Moon Stone}}
+|no2=518
+|name2=Musharna
+|type1-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=518}}
+{{Spritebox/6|ndex=518}}
+{{Spritebox/7|ndex=518}}
+{{Spritebox/Footer|518|Musharna}}
+
+==Trivia==
+[[File:Musharna concept art.png|thumb|150px|Concept art]]
+* Musharna shares its {{pkmn|category}} with {{p|Komala}}. They are both known as the Drowsing Pokémon.
+
+===Origin===
+Musharna appears to be based on traditional Japanese incense burners called ''{{wp|Koro (incense burner)|koro}}''. These are used in traditional tea ceremonies, but many styles of ''koro'' have been developed to be used with insect repellent incense. These insect repellent ''koro'' are popularly shaped like a pig. Musharna, like {{p|Drowzee}}, also seems to share some inspiration from the myth of the {{wp|Baku (spirit)|baku}}, {{wp|tapir}}-like creatures that eat dreams. Its curled up appearance is similar to that of a {{wp|fetus}}.
+
+====Name origin====
+Musharna may be a combination of ムシャムシャ ''mushamusha'' (onomatopoeia for eating, as it eats dreams), 夢 ''mu'' [''{{wp|Kanji#On'yomi (Sino-Japanese reading)|on'yomi}}''] (dream), and ''luna'' (Latin for ''moon'').
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Psychic
+|ja=ムシャーナ ''Musharna''|jameaning=From {{tt|ムシャムシャ ''mushamusha''|onomatopoeia for eating, as it eats dreams}}, {{tt|夢 ''mu''|dream}} [''{{wp|Kanji#On'yomi (Sino-Japanese reading)|on'yomi}}''], and {{tt|''luna''|Latin for moon}}
+|de=Somnivora|demeaning=From {{tt|''somnium''|Latin for 'dream'}} and {{tt|''vorare''|Latin for 'to devour'}}
+|fr=Mushana|frmeaning=From its English/Japanese name
+|es=Musharna|esmeaning=Same as English/Japanese name
+|it=Musharna|itmeaning=Same as English/Japanese name
+|ko=몽얌나 ''Mongyamna''|komeaning=From {{tt|몽 (夢)|dream}}, {{tt|얌|yum}}, and ''luna''
+|zh_cmn=夢夢蝕 / 梦梦蚀 ''Mèngmèngshí''|zh_cmnmeaning=Similar to {{p|Munna}}'s Chinese name 食夢夢 ''Shímèngmèng''. {{tt|蝕 ''shí''|erode}} can also refer to "{{wp|eclipse}}".
+|ru=Мушарна ''Musharna''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Musha]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=517|prev=Munna|nextnum=519|next=Pidove}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Somnivora]]
+[[fr:Mushana]]
+[[it:Musharna]]
+[[ja:ムシャーナ]]
+[[pl:Musharna]]
+[[zh:梦梦蚀]]

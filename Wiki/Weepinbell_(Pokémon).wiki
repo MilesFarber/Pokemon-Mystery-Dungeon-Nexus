@@ -1,0 +1,544 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/GO|species=Weepinbell}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=069|prev=Bellsprout|nextnum=071|next=Victreebel|round=none}}
+{{PokémonPrevNext/Disambig|species=Weepinbell}}
+|}
+{{Pokémon Infobox
+|name=Weepinbell
+|jname=ウツドン
+|tmname=Utsudon
+|ndex=070
+|jdex=065
+|karea=Mountain
+|kdex=027
+|fbrow=005
+|typebox=1
+|type1=Grass
+|type2=Poison
+|category=Flycatcher
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=14.1
+|weight-kg=6.4
+|abilityn=d
+|ability1=Chlorophyll
+|abilityd=Gluttony
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|evtotal=2
+|evat=2
+|expyield=137
+|oldexp=151
+|lv100exp=1,059,860
+|gendercode=127
+|color=Green
+|catchrate=120
+|body=05
+|pokefordex=weepinbell
+|generation=1
+|friendship=70
+}}
+'''Weepinbell''' ([[List of Japanese Pokémon names|Japanese]]: '''ウツドン''' ''Utsudon'') is a dual-type {{2t|Grass|Poison}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Bellsprout}} starting at [[level]] 21 and evolves into {{p|Victreebel}} when exposed to a [[Leaf Stone]].
+
+==Biology==
+Weepinbell has a yellow, bell-shaped body with a single green leaf on either side. It uses these razor-sharp leaves to slice up prey. It has a wide, gaping mouth with pink lips. Above Weepinbell's circular eyes is a pattern of three small green spots and a small hook-shaped stem.
+
+Weepinbell camouflages itself as a plant in the forest whilst awaiting an unwary victim. When its prey draws near it sprays poison powder to immobilize the target before melting it with its internal acids. It oozes a neutralizing fluid that prevents these internal acids from melting its own body. Weepinbell live in {{DL|List of Pokémon by habitat|Forest Pokémon|forests}} where it hangs from tree branches by its stem to sleep. If it moves around during sleep, Weepinbell may slip and awaken to find itself on the ground.
+
+==In the anime==
+[[File:Ramos_Weepinbell.png|thumb|left|250px|Weepinbell in the {{pkmn|anime}}]]
+===Major appearances===
+====[[James's Weepinbell]]====
+[[James]] had two separate Weepinbell, both of which evolved into {{TP|James|Victreebel}}.
+
+====Other====
+A Weepinbell appeared in ''[[EP026|Pokémon Scent-sation!]]'', under the ownership of [[Erika]]. She sent it out against {{Ash}} during his [[Gym]] {{pkmn|battle}} against her. It battled against {{AP|Charmander}} but was soon defeated.
+
+A Weepinbell appeared in ''[[XY058|The Green, Green Grass Types of Home!]]'', under the ownership of [[Ramos]]. It was used in a Gym Battle against Ash and easily defeated {{AP|Fletchinder}} and {{AP|Hawlucha}} despite being at a type disadvantage against both. However, it lost to {{AP|Frogadier}} despite having a type advantage.
+
+===Minor appearances===
+Weepinbell debuted in ''[[EP009|The School of Hard Knocks]]'', under the ownership of {{OBP|Joe|EP009}}. Joe used Weepinbell against [[Misty's Starmie]] and lost despite a type advantage.
+
+A Weepinbell appeared in ''[[EP010|Bulbasaur and the Hidden Village]]''. It was one of the Pokémon in [[Melanie]]'s care. It reappeared in a flashback in ''[[EP225|Bulbasaur... the Ambassador!]]''.
+
+A Weepinbell appeared in ''[[EP015|Battle Aboard the St. Anne]]'', ''[[EP028|Pokémon Fashion Flash]]'', ''[[EP057|The Breeding Center Secret]]'', and ''[[M02|The Power of One]]''.
+
+A Weepinbell appeared in ''[[EP047|A Chansey Operation]]'', where it was one of the injured Pokémon brought to the clinic.
+
+A differently patterned Weepinbell appeared in ''[[EP083|Poké Ball Peril]]''.
+
+A Weepinbell was used in [[Bonitaville]] {{pkmn|Beauty Contest}} in ''[[EP169|Beauty and the Breeder]]''.
+
+A Weepinbell appeared in ''[[EP178|The Grass Route]]'', under the ownership of an unnamed Trainer competing in the [[Grass Tournament]].
+
+Two Weepinbell were among the Pokémon seen at [[Wings Alexander]]'s barn in ''[[EP223|Throwing in the Noctowl]]''.
+
+A Weepinbell was one of the Pokémon seen in a forest outside the [[Ice Path]] in [[EP250]].
+
+A Weepinbell was used by one of the students of the [[Pokémon Trainers' School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+A Weepinbell was seen in the greenhouse in ''[[AG147|Sweet Baby James]]'', where it was being looked after by [[Nanny and Pop-Pop]].
+
+A Weepinbell appeared in ''[[DP033|All Dressed Up With Somewhere To Go!]]'' during the [[Pokémon Dress-Up Contest]].
+
+A Weepinbell appeared in a flashback or a fantasy in ''[[XY035|The Forest Champion!]]''.
+
+A {{pkmn|Trainer}}'s Weepinbell appeared in ''[[XY057|Thawing an Icy Panic!]]'' and ''[[XY059|Under the Pledging Tree!]]''.
+
+A Weepinbell appeared in ''[[XY073|A Fashionable Battle!]]''.
+
+A Weepinbell appeared in ''[[M20|I Choose You!]]''.
+
+A Weepinbell appeared in ''[[SM042|Alola, Kanto!]]'', where it and a {{p|Victreebel}} got into a fight with some {{p|Gloom}} and a {{p|Vileplume}}, which {{AP|Bulbasaur}} had to break up.
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY058|Weepinbell|Serena's Pokédex|Weepinbell, the Flycatcher Pokémon. Weepinbell looks like a plant and covers opponents with a poisonous powder in order to catch them.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Sebastian Weepinbell Adventures.png|200px|thumb|Weepinbell in [[Pokémon Adventures]]]]
+===In the Magical Pokémon Journey manga===
+In ''[[PPP45|Pikachu and Clefairy's Heroic Tales]]'', {{p|Sudowoodo|Prince Sudowoodo}} of the Stone Kingdom has a group of Weepinbell which he uses as henchmen. He commands these Weepinbell to kidnap a {{p|Bellossom}}, who he intends to marry. However, they are stopped by {{MPJ|Pikachu}} and {{MPJ|Clefairy}}.
+
+===In the Pokémon Adventures manga===
+In ''[[PS022|A Hollow Victreebel]]'', {{adv|Red}} gets dragged into an evolutionary ceremony by a wild Victreebel to serve as food in the [[Kanto Safari Zone]]. With the help of {{p|Pidgey|Pidgebot 1}} that was assigned to him, and a few good items he carried around, the Weepinbell that were about to eat him for their evolution were distracted, and he was able to flee. By morning Red had captured multiple Safari Zone Pokémon including several Weepinbell.
+
+Multiple Weepinbell appeared in {{adv|Gold}}'s imagination when he asked one of the monks if the third floor had Weepinbell there in ''[[PS097|Bellsprout Rout]]''.
+
+In ''[[PS179|The Last Battle XIII]]'' a Weepinbell was one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+{{adv|Sebastian}}, {{adv|Platinum}}'s resident butler, has a Weepinbell that he uses to drive burglars out of the Berlitz mansion. When {{adv|Diamond}} accidentally sneaked in thinking that he walked into a large park, all the Pokémon accomplished was getting his clothes wet, though it proved to be an adept battler. It first appeared in ''[[PS392|Well Met, Weepinbell]]''.
+
+A Weepinbell appeared in ''[[PAXY30|Pinsir Changes]]''.
+
+===In the Pokémon Pocket Monsters manga===
+A Weepinbell is seen with {{OBP|Green|Pocket Monsters}} during the baseball match that took place in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]''.
+
+==In the TCG==
+{{main|Weepinbell (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=grass|type2=poison}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=It spits out <sc>{{m|PoisonPowder|PoisonPowder}}</sc> to immobilize the enemy and then finishes it with a spray of <sc>{{m|Acid}}</sc>.}}
+{{Dex/Entry1|v=Yellow|entry=When hungry, it swallows anything that moves. Its hapless prey is melted inside by strong acids.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Armed with razor-sharp leaves, it uses toxic pollen to immobilize its enemy and melts the helpless foe with <sc>Acid</sc>.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Even though it is filled with acid, it does not melt because it also oozes a neutralizing fluid.}}
+{{Dex/Entry1|v=Silver|entry=If its prey is bigger than its mouth, it slices up the victim with sharp leaves, then eats every morsel.}}
+{{Dex/Entry1|v=Crystal|entry=When its hungry, it swings its razor-sharp leaves, slicing up any unlucky object nearby for food.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Even though it is filled with acid, it does not melt because it also oozes a neutralizing fluid.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=At night, a Weepinbell hangs on to a tree branch with its hooked rear and sleeps. If it moves around in its sleep, it may wake up to find itself on the ground.}}
+{{Dex/Entry1|v=FireRed|entry=The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.}}
+{{Dex/Entry1|v=LeafGreen|entry=It spits out poisonpowder to immobilize the enemy and then finishes it with a spray of acid.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.}}
+{{Dex/Entry1|v=HeartGold|entry=Even though it is filled with acid, it does not melt because it also oozes a protective fluid.}}
+{{Dex/Entry1|v=SoulSilver|entry=If its prey is bigger than its mouth, it slices up the victim with sharp leaves, then eats every morsel.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.}}
+{{Dex/Entry1|v=Y|entry=It spits out poisonpowder to immobilize the enemy and then finishes it with a spray of acid.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=grass|type2=poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1/None|1|v=Red}}
+{{Availability/Entry1|1|v=Blue|t=fff|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, and {{rtn|15|Kanto}}}}
+{{Availability/Entry1/None|1|v=Blue|ex=(Japan)|link=Pokémon Blue Version (Japanese)}}
+{{Availability/Entry1|1|v=Yellow|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}}, [[Cerulean Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|24|Kanto}}, {{rtn|25|Kanto}}, and {{rtn|44|Johto}}}}
+{{Availability/Entry1|v=Crystal|area=[[Route]] {{rtn|44|Johto}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry1/None|v=FireRed}}
+{{Availability/Entry1|v=LeafGreen|area=[[Route]]s {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, and {{rtn|15|Kanto}}, [[Berry Forest]], [[Bond Bridge]], [[Cape Brink]], [[Water Path]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cipher Key Lair]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|224|Sinnoh}}, {{rtn|229|Sinnoh}}, and {{rtn|230|Sinnoh}}}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|224|Sinnoh}} and {{rtn|230|Sinnoh}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|24|Kanto}}, {{rtn|25|Kanto}}, and {{rtn|44|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Treehouse}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Bellsprout}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Route]]s {{rtn|14|Kalos}}, {{rtn|16|Kalos}}, and {{rtn|19|Kalos}} (Purple Flowers)<br>{{rt|19|Kalos}} (Yellow Flowers; [[Horde Encounter]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Bellsprout}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=grass|type2=poison}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Pokémon Island Cave|Cave]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Bellsprout}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 2]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Bellsprout}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Lyra Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (B1F-B13F), [[Mystery Jungle]] (B1F-B29F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] (B1F-B13F), [[Mystery Jungle]] (B1F-B29F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie‎]] <small>(Normal Mode B & A)</small>}}
+{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=[[Evolution|Evolve]] {{p|Bellsprout}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Sun-Dappled Bank]], [[Soothing Shore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Chill Battle#Garden Keepers|Chill Battle: Garden Keepers]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 2|Safari Jungle: Stage 2]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Nacht Carnival|Nacht Carnival: Stage 504]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Lookout Tree|Leafy Expanse: Lookout Tree]] <small>(All Areas)</small>, [[Distortion Land#Breezy Grasslands|Distortion Land: Breezy Grasslands]] <small>(All Areas)</small>}}
+<!--{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=}}-->
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=grass|type2=poison
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1rar=100|rby1image=no
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=     65
+|Attack= 90
+|Defense=50
+|SpAtk=  85
+|SpDef=  45
+|Special=85
+|Speed=  55
+|type=Grass
+|type2=Poison }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=grass
+|type2=poison
+|Speed=1
+|SpeedMax=2
+|Power=3
+|PowerMax=3
+|Technique=2
+|TechniqueMax=2
+|Stamina=4
+|StaminaMax=4
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=grass
+|type2=poison
+|Normal= 100
+|Flying= 200
+|Fighting=50
+|Ground= 100
+|Rock=   100
+|Bug=    100
+|Poison= 100
+|Ghost=  100
+|Steel=  100
+|Fire=   200
+|Water=   50
+|Grass=   25
+|Electric=50
+|Psychic=200
+|Ice=    200
+|Dragon= 100
+|Dark=   100
+|Fairy=50
+|notes=yes
+|gen1poison=yes
+|oldbug=4}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Weepinbell|Grass|Poison|1}}
+{{learnlist/level7|1|Vine Whip|Grass|Physical|45|100|25||'''}}
+{{learnlist/level7|1|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level7|7|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|11|Wrap|Normal|Physical|15|90|20}}
+{{learnlist/level7|13|Sleep Powder|Grass|Status|&mdash;|75|15}}
+{{learnlist/level7|15|Poison Powder|Poison|Status|&mdash;|75|35}}
+{{learnlist/level7|17|Stun Spore|Grass|Status|&mdash;|75|30}}
+{{learnlist/level7|24|Acid|Poison|Special|40|100|30||'''}}
+{{learnlist/level7|29|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/level7|32|Sweet Scent|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|39|Gastro Acid|Poison|Status|&mdash;|100|10}}
+{{learnlist/level7|44|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level7|47|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/level7|54|Slam|Normal|Physical|80|75|20}}
+{{learnlist/level7|58|Wring Out|Normal|Special|&mdash;|100|5}}
+{{learnlist/levelf/7|Weepinbell|Grass|Poison|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Weepinbell|Grass|Poison|1}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Weepinbell|Grass|Poison|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Weepinbell|Grass|Poison|2}}
+{{learnlist/breed7|{{MSP|597|Ferroseed}}|Acid Spray|Poison|Special|40|100|20|*|'''}}
+{{learnlist/breed7|{{MSP|331|Cacnea}}|Belch|Poison|Special|120|90|10|*|'''}}
+{{learnlist/breed7|{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|192|Sunflora}}|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/breed7|{{MSP|590|Foongus}}{{MSP|591|Amoonguss}}|Clear Smog|Poison|Special|50|&mdash;|15||'''}}
+{{learnlist/breed7|{{MSP|187|Hoppip}}{{MSP|191|Sunkern}}{{MSP|546|Cottonee}}|Encore|Normal|Status|&mdash;|100|5|*}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}<br>{{MSP|285|Shroomish}}{{MSP|315|Roselia}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|495|Snivy}}<br>{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|546|Cottonee}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}{{MSP|591|Amoonguss}}<br>{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|455|Carnivine}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|753|Fomantis}}<br>{{MSP|754|Lurantis}}{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Ingrain|Grass|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}|Leech Life|Bug|Physical|80|100|10|‡}}
+{{learnlist/breed7|{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|182|Bellossom}}{{MSP|315|Roselia}}{{MSP|407|Roserade}}<br>{{MSP|357|Tropius}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}{{MSP|764|Comfey}}|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|045|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}<br>{{MSP|357|Tropius}}{{MSP|764|Comfey}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|455|Carnivine}}{{MSP|598|Ferrothorn}}|Power Whip|Grass|Physical|120|85|10||'''}}
+{{learnlist/breed7|{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Strength Sap|Grass|Status|—|100|10|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|273|Seedot}}{{MSP|315|Roselia}}<br>{{MSP|357|Tropius}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}{{MSP|764|Comfey}}|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|407|Roserade}}|Weather Ball|Normal|Special|50|100|10}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}<br>{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|285|Shroomish}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}|Worry Seed|Grass|Status|&mdash;|100|10}}
+{{learnlist/breedf/7|Weepinbell|Grass|Poison|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Weepinbell|Grass|Poison|2}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Weepinbell|Grass|Poison|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Weepinbell|Grass|Poison|1}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Weepinbell|Grass|Poison|1}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Poison}}
+{{Spindata/Pinball|col=3|type=Grass|ndex=070|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Grass|ndex=070|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=070
+|body=1
+|rate=-19
+|area=Jungle
+|P1=I can melt anything with the fluid in my mouth!
+|P2=Watch out--my health is down to half.
+|P3=I can't... My mouth has dried...
+|PL=There we go! I leveled up!
+|Partner=no
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=070
+|body=1
+|rate=-10
+|IQ=G
+}}
+|-
+{{Spindata/Ranger|col=6|type=Grass
+|group=Grass
+|assist=Poison
+|fieldpower=0
+|field=None
+|loop=6
+|MinEXP=42
+|MaxEXP=56
+|browser=Weepinbell swallows unwary people and spits them back from where they came.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Grass
+|att=3
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Grass
+|att=3
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=070
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=070|num=653
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=L-Boost
+|skilldesc=Increases damage when making an L-shaped match.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=070
+|hatch=N/A
+|buddy=3
+|evocandy=100
+|stamina=130
+|attack=172
+|defense=95
+|fast={{m|Razor Leaf}}{{tt|*|Prior to February 16, 2017}}, {{m|Bullet Seed}}{{tt|*|From February 16, 2017 onward}}, {{m|Acid}}
+|special={{m|Power Whip}}, {{m|Sludge Bomb}}, {{m|Seed Bomb}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Grass
+|type2=Poison
+|pictype=art
+|no1=069
+|name1=Bellsprout
+|type1-1=Grass
+|type2-1=Poison
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 21}}
+|no2=070
+|name2=Weepinbell
+|type1-2=Grass
+|type2-2=Poison
+|evo2={{bag|Leaf Stone}}<br>{{color2|000|Leaf Stone}}
+|no3=071
+|name3=Victreebel
+|type1-3=Grass
+|type2-3=Poison}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Poison}}
+{{Spritebox/1|ndex=070}}
+{{Spritebox/2|ndex=070}}
+{{Spritebox/3|ndex=070}}
+{{Spritebox/4|ndex=070}}
+{{Spritebox/5|ndex=070}}
+{{Spritebox/6|ndex=070}}
+{{Spritebox/7|ndex=070}}
+{{Spritebox/Footer|070|Weepinbell}}
+
+==Trivia==
+* Despite learning {{m|Leech Life}} through breeding, Weepinbell and its {{p|Bellsprout|evolutionary}} {{p|Victreebel|relatives}} cannot learn it through [[TM28]].
+
+===Origin===
+Weepinbell and the others in its evolutionary line may be based upon carnivorous {{wp|pitcher plant}}s.
+
+====Name origin====
+Weepinbell may be a combination of ''weeping'' and ''bell'' (referring to its bell-like shape). A {{wp|Weeping tree|weeping plant}} is one that droops.
+
+Utsudon is derived from 靫葛 ''utsubokazura'' (pitcher plant).
+
+==In other languages==
+{{Other languages|type=grass|type2=poison
+|ja=ウツドン ''Utsudon''|jameaning=From {{tt|靫葛 ''utsubokazura''|pitcher plant}}
+|fr=Boustiflor|frmeaning=From ''{{tt|boustifaille|grub}}'' and ''{{wp|flora}}''
+|es=Weepinbell|esmeaning=Same as English name
+|de=Ultrigaria|demeaning=From ''ultra'' and ''{{wp|Geraniaceae}}''
+|it=Weepinbell|itmeaning=Same as English name
+|ko=우츠동 ''Uchudon''|komeaning=Transliteration of Japanese name
+|zh_yue=口呆花 ''Háudāaifā''|zh_yuemeaning=Literally means "Vacant-looking mouth flower"
+|zh_cmn=口呆花 ''Kǒudāihuā''|zh_cmnmeaning=Literally means "Vacant-looking mouth flower"
+|hi=वीपिनबेल ''Weepinbell''|himeaning=Transcription of English name
+|ru=Випинбелл ''Vipinbell''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[James's Weepinbell]]
+
+==External links==
+{{PokémonPrevNext/Head|type=Grass|type2=Poison}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=069|prev=Bellsprout|nextnum=071|next=Victreebel}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon that evolve by evolutionary stone]]
+[[Category:Pokémon that evolve using Leaf Stone]]
+
+[[de:Ultrigaria]]
+[[fr:Boustiflor]]
+[[it:Weepinbell]]
+[[ja:ウツドン]]
+[[pl:Weepinbell]]
+[[zh:口呆花]]

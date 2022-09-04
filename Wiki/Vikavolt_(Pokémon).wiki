@@ -1,0 +1,290 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Electric}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=737|prev=Charjabug|nextnum=739|next=Crabrawler}}
+|}
+{{Pokémon Infobox
+|name=Vikavolt
+|jname=クワガノン
+|tmname=Kuwagannon
+|jtranslit=Kuwaganon
+|ndex=738
+|type1=Bug
+|type2=Electric
+|category=Stag Beetle
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=99.2
+|weight-kg=45.0
+|adex=029
+|abilityn=1
+|abilitylayout=1
+|ability1=Levitate
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=3
+|evsa=3
+|expyield=225
+|lv100exp=1,000,000
+|gendercode=127
+|color=Blue
+|catchrate=45
+|body=14
+|pokefordex=vikavolt
+|generation=7
+|friendship=70
+}}
+'''Vikavolt''' ([[List of Japanese Pokémon names|Japanese]]: '''クワガノン''' ''Kuwagannon'') is a dual-type {{2t|Bug|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation VII]].
+
+It [[Evolution|evolves]] from {{p|Charjabug}} when [[level]]ed up in a [[special magnetic field]]. It is the final form of {{p|Grubbin}}.
+
+==Biology==
+Vikavolt is a beetle-like Pokémon with a large pair of mandibles. Its small orange face has robotic, yellow eyes and is covered by a blue carapace. The mandibles extend from this helmet. They are blue on the inner surface and yellow on the outer surface. At the base of each mandible is a large spike and the inside is lined with short spikes. Its body is black and divided into three sections by yellow rings. The last two sections have a yellow spot on each side. On its back is a pair of wide, flat wings that are transparent with blue wing covers. It has four legs. The front pair of legs has two claws, while the back pair has only one.
+
+Vikavolt produces electricity with an organ in its abdomen, and controlled by its huge jaws to fire powerful electric beams. When it clasps a {{p|Charjabug}} in its legs, it is able to utilize it as an extra battery. This allows it to continue firing powerful attacks. However, in fierce aerial fights, it will release Charjabug to make itself lighter and more mobile. It is an adept flier, capable of acrobatic maneuvers such as tailspins and sharp turns. Even as it weaves through complicated tangles of branches in the forest, it is able to maintain high-speed flight.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/vikavolt/</ref> It is known to have a rivalry with {{p|Pinsir}} and {{p|Heracross}}.
+<!--
+==In the anime==
+===Major appearances===
+===Minor appearances===
+
+==In the manga==-->
+
+==In the TCG==
+{{main|Vikavolt (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Electric}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It zips around, on sharp lookout for an opening. It concentrates electrical energy within its large jaws and uses it to zap its enemies.}}
+{{Dex/Entry1|v=Moon|entry=It produces electricity via an electrical organ in its abdomen. It overwhelms bird Pokémon with shocking beams of electrical energy.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It has an organ that generates electricity in its abdomen. It concentrates energy in its strong jaws and fires off powerful jolts of electricity.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Vikavolt flusters opponents with acrobatic flying maneuvers. This creates an opening for it to deliver an electric beam attack.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Electric}}
+{{Availability/NA|gen=VII}}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Charjabug}}}}
+{{Availability/Entry1|v=Ultra Sun|area=[[Blush Mountain]]{{sup/t|D}} ([[SOS Battle]])<br/>[[List of in-game event Pokémon in Generation VII|Received]] from [[Samson Oak]] at [[Heahea Beach]]{{tt|*|Requires 70 Totem Stickers}} ([[Totem Pokémon|Totem]]-sized)}}
+{{Availability/Entry1|v=Ultra Moon|area=[[Blush Mountain]]{{sup/t|D}} ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Electric}}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#18th release|''Pokémon Safari'']] <small>(18th release)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|type2=Electric
+|HP=77
+|Attack=70
+|Defense=90
+|SpAtk=145
+|SpDef=75
+|Speed=43}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|type2=Electric
+|Normal=100
+|Fighting=50
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|levitate=yes
+|newground=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Vikavolt|Bug|Electric|7}}
+{{learnlist/level7|1|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/level7|1|Air Slash|Flying|Special|75|95|15}}
+{{learnlist/level7|1|Charge|Electric|Status|—|—|20}}
+{{learnlist/level7|1|Vice Grip|Normal|Physical|55|100|30}}
+{{learnlist/level7|1|String Shot|Bug|Status|—|95|40}}
+{{learnlist/level7|1|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level7|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/level7|4|String Shot|Bug|Status|—|95|40}}
+{{learnlist/level7|7|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level7|10|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|13|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|16|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level7|19|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/level7|25|Guillotine|Normal|Physical|—|—|5}}
+{{learnlist/level7|31|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level7|37|Dig|Ground|Physical|80|100|10}}
+{{learnlist/level7|41|Zap Cannon|Electric|Special|120|50|5||'''}}
+{{learnlist/level7|49|Agility|Psychic|Status|—|—|30}}
+{{learnlist/levelf/7|Vikavolt|Bug|Electric|7}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Vikavolt|Bug|Electric|7}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM58|Sky Drop|Flying|Physical|60|100|10}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Vikavolt|Bug|Electric|7}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Vikavolt|Bug|Electric|7}}
+{{learnlist/breed7|{{MSP|595|Joltik}}{{MSP|596|Galvantula}}|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/breed7|{{MSP|214|Heracross}}{{MSP|540|Sewaddle}}{{MSP|588|Karrablast}}|Endure|Normal|Status|—|—|10}}
+{{learnlist/breed7|{{MSP|011|Metapod}}{{MSP|014|Kakuna}}{{MSP|127|Pinsir}}{{MSP|207|Gligar}}{{MSP|472|Gliscor}}{{MSP|266|Silcoon}}<br>{{MSP|268|Cascoon}}{{MSP|290|Nincada}}{{MSP|291|Ninjask}}{{MSP|665|Spewpa}}|Harden|Normal|Status|—|—|30}}
+{{learnlist/breed7|{{MSP|283|Surskit}}{{MSP|328|Trapinch}}|Mud Shot|Ground|Special|55|95|15|*}}
+{{learnlist/breedf/7|Vikavolt|Bug|Electric|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Vikavolt|Bug|Electric|7}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutorf/7|Vikavolt|Bug|Electric|7}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Vikavolt|Bug|Electric|7}}
+{{learnlist/prevo7|736|Grubbin||737|Charjabug||Crunch|Dark|Physical|80|100|15}}
+{{learnlist/prevo7|737|Charjabug|||||Discharge|Electric|Special|80|100|15|'''}}
+{{learnlist/prevo7|737|Charjabug|||||Iron Defense|Steel|Status|—|—|15||{{sup/7|SM}}}}
+{{learnlist/prevof/7|Vikavolt|Bug|Electric|7}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Electric}}
+{{Spindata/Shuffle|col=6|type=Bug|ndex=738|num=741
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Cross Attack+
+|skilldesc=Deals even more damage when making a + shaped match.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Bug
+|type2=Electric
+|pictype=art
+|no1=736
+|name1=Grubbin
+|type1-1=Bug
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 20}}
+|no2=737
+|name2=Charjabug
+|type1-2=Bug
+|type2-2=Electric
+|evo2={{bag|Town Map}}<br>{{color2|000|Level|Level up}}<br>in areas with a<br>{{color2|000|special magnetic field}}
+|no3=738
+|name3=Vikavolt
+|type1-3=Bug
+|type2-3=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Electric}}
+{{Spritebox/NA|gen=VII}}
+{{Spritebox/7|ndex=738}}
+{{Spritebox/Footer|738|Vikavolt}}
+
+==Trivia==
+* Vikavolt shares its category with {{p|Pinsir}}. They are both known as the Stag Beetle Pokémon.
+* Vikavolt has the highest base {{stat|Special Attack}} stat of all {{type|Bug}} Pokémon.
+* Vikavolt, along with its evolutionary relatives, were designed by [[Hitoshi Ariga]].
+
+===Origin===
+Vikavolt appears to be based on a {{wp|stag beetle}} and a {{wp|railgun}}. Its straight, scissor-like mandibles resemble those of ''Lucanus hayashii'' and some ''{{wp|Cyclommatus}}'' species of beetles.
+
+====Name origin====
+Vikavolt may come from ''vice grip'' or ''wicga'' ({{wp|Old English}} for insect) and ''{{wp|volt}}''.
+
+Kuwagannon may be a combination of 鍬形虫 ''kuwagatamushi'' (stag beetle) and ''cannon''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Electric
+|ja=クワガノン ''Kuwagannon''|jameaning=From {{tt|鍬形虫 ''kuwagatamushi''|stag beetle}} and ''cannon''
+|fr=Lucanon|frmeaning=From {{tt|''lucane''|stag beetle}} and {{tt|''canon''|cannon}}
+|es=Vikavolt|esmeaning=Same as English name
+|de=Donarion|demeaning=From {{tt|''Donner''|thunder}} and ''Ion''
+|it=Vikavolt|itmeaning=Same as English name
+|ko=투구뿌논 ''Tuguppunon''|komeaning=From {{tt|투구풍뎅이 ''tugupungdeng-i''|Japanese rhinoceros beetle}} and ''cannon''
+|zh_cmn=鍬農炮蟲 / 锹农炮虫 ''Qiāonóngpàochóng''|zh_cmnmeaning=From {{tt|鍬形蟲 / 锹形虫 ''qiāoxíngchóng''|stag beetle}} and {{tt|加農炮 / 加农炮 ''jiānóngpào''|cannon}}
+|zh_yue=鍬農炮蟲 ''Chīunùhngpàauhchùhng''|zh_yuemeaning=From {{tt|鍬形蟲 ''chīuyìhngchùhng''|stag beetle}} and {{tt|加農炮 ''gānùhngpàauh''|cannon}}
+|ru=Викаволт ''Vikavolt''|rumeaning=Transcription of English name}}
+{{-}}
+
+==Related articles==
+
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Bug|type2=Electric}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=737|prev=Charjabug|nextnum=739|next=Crabrawler}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Donarion]]
+[[fr:Lucanon]]
+[[it:Vikavolt]]
+[[ja:クワガノン]]
+[[pl:Vikavolt]]
+[[zh:锹农炮虫]]

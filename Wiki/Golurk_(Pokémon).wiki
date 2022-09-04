@@ -1,0 +1,411 @@
+{{PokémonPrevNext/Head|type=Ground|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=622|prev=Golett|nextnum=624|next=Pawniard}}
+|}
+{{Pokémon Infobox
+|name=Golurk
+|jname=ゴルーグ
+|jtranslit=Gorūgu
+|tmname=Goloog
+|category=Automaton
+|typebox=1
+|type1=Ground
+|type2=Ghost
+|abilityn=d
+|ability1=Iron Fist
+|ability2=Klutz
+|abilityd=No Guard
+|ndex=623
+|udex=129
+|u2dex=272
+|karea=Coastal
+|kdex=092
+|height-ftin=9'02"
+|height-m=2.8
+|weight-lbs=727.5
+|weight-kg=330.0
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=25
+|expyield=169
+|lv100exp=1,000,000
+|evtotal=2
+|evat=2
+|gendercode=255
+|color=Green
+|catchrate=90
+|body=12
+|pokefordex=golurk
+|generation=5
+|friendship=70
+}}
+'''Golurk''' ([[List of Japanese Pokémon names|Japanese]]: '''ゴルーグ''' ''Goloog'') is a dual-type {{2t|Ground|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[evolution|evolves]] from {{p|Golett}} starting at [[level]] 43.
+
+==Biology==
+[[File:Juanita Golurk {{#switch: {{#expr: {{#time: H}} mod 2}}|0=Black|1=White}} Fly.png|thumb|left|250px|{{#switch: {{#expr: {{#time: H}} mod 2}}|0=Golurk|1={{Shiny}} Golurk}} flying]]
+Golurk is a bipedal automaton Pokémon resembling a suit of armor. It said to have been invented by ancient people to serve as a laborer. It is mainly teal in color with yellow swirls on its shoulders and hands. It has a small head compared to its body, and pale yellow eyes, one of which turns to its left at the bottom, unlike {{p|Golett}}'s eye, which turns right. There is a crack across the chest of the armor, which is patched diagonally with a brown seal resembling a belt. It has a crystal-like formation on each shoulder, and there are large bangles on its wrists and ankles. It has a Roman armor-like "skirt" and flat feet beneath.
+
+Despite its large size, Golurk is capable of flying by inserting its hands in its arms and its legs and feet in its body, then taking off like a rocket. If the seal on its chest is removed, its energy runs wild. This causes it to rage and fly around uncontrollably without being able to land itself. It is also capable of forming a cannon by pulling its legs into its body and standing on its hands, as seen in [[PokéPark 2: Wonders Beyond]]. Golurk was created by an ancient civilization to protect people and Pokémon.
+
+==In the anime==
+
+===In the main series===
+[[File:Rodney Golurk.png|thumb|left|250px|Golurk in the {{pkmn|anime}}]]
+[[File:Juanita Golurk Black.png|thumb|left|250px|A {{Shiny}} Golurk in the anime]]
+
+====Major appearances====
+A Golurk appeared in ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]'', under the ownership of [[Juanita]]. It is {{Shiny}} in the latter movie.
+
+A Golurk appeared in ''[[BW082|An Epic Defense Force!]]'' as an {{a|illusion}} in a movie directed by [[Luke]].
+
+A Golurk appeared in ''[[BW096|Meloetta and the Undersea Temple!]]'' an ''[[BW097|Unova's Survival Crisis!]]'', under the ownership of [[Ridley]]. He used Golurk to fly with him, and it was also used to defend {{an|Meloetta}} from {{TRT}}. It was also used to battle two {{tc|Team Rocket Grunt}}s' {{p|Golem}} and {{p|Rhydon}}. After that, it battled against the members of the [[Forces of Nature]] in their Therian Formes.
+
+Multiple Golurk appeared in ''[[BW120|Ash and N: A Clash of Ideals!]]'', ''[[BW121|Team Plasma and the Awakening Ceremony!]]'', and ''[[BW122|What Lies Beyond Truth and Ideals!]]''. They were owned by [[Cedric Juniper's assistants]] at the {{an|White Ruins}}, but they were later turned against their owners by [[Colress]].
+
+A {{pkmn|Trainer}} named [[Rodney]] used a Golurk in the [[Pokémon Sumo Tournament]] in ''[[BW134|The Journalist from Another Region!]]''. Golurk made it through to the final round and faced {{Ash}} and {{AP|Pignite}}, but it ended up losing against them.
+
+====Minor appearances====
+Golurk debuted in ''[[BW038|Movie Time! Zorua in "The Legend of the Pokémon Knight"!]]''. It appeared as an actor in a movie based around the [[Wonder Launcher]].
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW096|Golurk|Ash's Pokédex|Golurk, the Automaton Pokémon and the evolved form of {{p|Golett}}. {{m|Fly}}ing faster than the speed of sound, Golurk loses control when the seal on its chest is removed.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+===In Pokémon Generations===
+[[File:AZ Golurk PG.png|thumb|250px|Golurk in [[Pokémon Generations]]]]
+[[AZ]]'s Golurk appeared in ''[[PG18|The Redemption]]''. It battled {{ga|Calem}} and his {{p|Chesnaught}}, and lost. Another Golurk was seen during a flashback as one of the many Pokémon fighting in the great war of [[Kalos]], 3,000 years previously.
+{{-}}
+
+==In the manga==
+===In the Pokémon Adventures manga===
+[[File:Shauntal Golurk Adventures.png|thumb|200px|Golurk in [[Pokémon Adventures]]]]
+[[Shauntal]] has a Golurk which first appeared in ''[[PS511|Dream a Little Dream]]''.
+
+A Golurk appeared in a flashback in ''[[PAXY25|Flabébé Blooms]]''.
+
+[[AZ]]'s Golurk appeared in ''[[PAXY39|Epilogue]]''.
+
+===In the Victini and the Black Hero: Zekrom manga===
+Juanita's Golurk appears in the manga adaptation of [[M14]].
+
+===In the Pokémon RéBURST manga===
+A Golurk appears as the [[Burst]] form of Battsu.
+
+In [[RB73]], [[Fraud]] uses a Golurk Burst as one of his forms after receiving the power of Arcades.
+
+==In the TCG==
+{{main|Golurk (TCG)}}
+
+==Game data==
+
+===Pokédex entries===
+{{Dex/Header|type=ground|type2=ghost}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.}}
+{{Dex/Entry1|v=White|entry=It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Golurk were created to protect people and Pokémon. They run on a mysterious energy.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.}}
+{{Dex/Entry1|v=Y|entry=It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=Some say that ancient people invented Golurk to serve as a laborer. It follows its master's orders faithfully.}}
+{{Dex/Entry1|v=Ultra Moon|entry=When the seal on its chest is removed, it rages indiscriminately, turning the whole town around it into a mountain of rubble.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=ground|type2=ghost}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Golett}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Dragonspiral Tower]] (inside), {{OBP|Victory Road|Black 2 and White 2}} (entrance)}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Ghost-type Safari|Ghost]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry1|v=Ultra Sun|area=[[Evolution|Evolve]] {{p|Golett}}}}
+{{Availability/Entry1/None|v=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ground|type2=Ghost}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Frozen Tundra]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Glacier Palace - Western Spire]] (1F-12F), [[Rusty Mountain]] (Golden Chamber), [[Jaws of the Abyss]] (Golden Chamber), [[Smoking Mountain]] (1F-24F), [[Cape at the Edge]] (B1-B29), [[Poké Forest]] (6F-10F), high difficulty Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Melodious Woodland#A Colossal Throwdown|Melodious Woodland: A Colossal Throwdown]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 3|Dragon Hill: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 340]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Sacred Blade Cliff|Plasma Tundra: Sacred Blade Cliff]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=ground|type2=ghost}}
+{{eventAvail|{{gameabbrev5|W}}|Juanita's Golurk|Japanese|Japan<br>Wi-Fi|70|June 17 to September 8, 2011|link=List of Wi-Fi Japanese event Pokémon distributions in Generation V#Juanita's Golurk}}
+{{eventAvail|{{gameabbrev5|W}}|Juanita's Golurk|Korean|Wi-Fi|70|November 3, 2011 to January 31, 2012|link=List of Wi-Fi Korean event Pokémon distributions in Generation V#Juanita's Golurk}}
+|}
+
+===Held items===
+{{HeldItems
+|type=ground|type2=ghost
+|b2w21=Light Clay|b2w21type=None|b2w21rar=5
+|xy1=Light Clay|xy1type=None|xy1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Ground
+|type2=Ghost
+|HP=89
+|Attack=124
+|Defense=80
+|SpAtk=55
+|SpDef=80
+|Speed=55}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ground
+|type2=Ghost
+|Normal=0
+|Fighting=0
+|Flying=100
+|Poison=25
+|Ground=100
+|Rock=50
+|Bug=50
+|Ghost=200
+|Steel=100
+|Fairy=100
+|Fire=100
+|Water=200
+|Grass=200
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=200
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1
+|ground=yes
+|newelectric=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Golurk|Ground|Ghost|5}}
+{{learnlist/level7|1|Heavy Slam|Steel|Physical|&mdash;|100|10}}
+{{learnlist/level7|1|High Horsepower|Ground|Physical|95|95|10||'''}}
+{{learnlist/level7|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level7|1|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|1|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Heavy Slam|Steel|Physical|&mdash;|100|10}}
+{{learnlist/level7|5|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level7|9|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/level7|13|Shadow Punch|Ghost|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|17|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|21|Stomping Tantrum|Ground|Physical|75|100|10||'''}}
+{{learnlist/level7|25|Mega Punch|Normal|Physical|80|85|20}}
+{{learnlist/level7|30|Magnitude|Ground|Physical|&mdash;|100|30||'''}}
+{{learnlist/level7|35|Dynamic Punch|Fighting|Physical|100|50|5}}
+{{learnlist/level7|40|Night Shade|Ghost|Special|&mdash;|100|15}}
+{{learnlist/level7|47|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|54|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|61|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/level7|69|Focus Punch|Fighting|Physical|150|100|20}}
+{{learnlist/level7|76|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/levelf/7|Golurk|Ground|Ghost|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Golurk|Ground|Ghost|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Golurk|Ground|Ghost|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Golurk|Ground|Ghost|5}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Golurk|Ground|Ghost|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Golurk|Ground|Ghost|5}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Golurk|Ground|Ghost|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Golurk|Ground|Ghost|5}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Golurk|Ground|Ghost|5}}
+
+===Side game data===
+{{Spindata/Head|type=Ground|type2=Ghost}}
+{{Spindata/RumbleBlast|col=6|type=Ground
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Ground|ndex=623
+|strong=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|weak=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]]
+|pad=He was watching the entrance of the warehouse. He is powerful and acts without thinking, but he means no harm.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ground|ndex=623
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=623|num=451
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Block Smash+
+|skilldesc=Sometimes clears three unbreakable-block disruptions.
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Ground
+|type2=Ghost
+|no1=622
+|name1=Golett
+|type1-1=Ground
+|type2-1=Ghost
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 43}}
+|no2=623
+|name2=Golurk
+|type1-2=Ground
+|type2-2=Ghost}}
+
+===Sprites===
+{{Spritebox/Header|type=ground|type2=ghost}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=623}}
+{{Spritebox/6|ndex=623}}
+{{Spritebox/7|ndex=623}}
+{{Spritebox/Footer|623|Golurk}}
+
+==Trivia==
+* According to Game Freak, Golurk and its {{p|Golett|pre-evolution}} were created by [[James Turner]].<ref>http://web.archive.org/web/20130115083652/http://www.gamefreak.co.jp/blog/staff/?p=204</ref>
+
+===Origin===
+Golurk and its pre-evolution appear to be based on {{wp|golem}}s and, considering its body structure and ability to learn {{m|Fly}}, {{wp|Super Robot|giant robots}}. The crack and strap on its chest may be a reference to the golem in the Hebrew story ''{{wp|The Golem of Prague}}''.
+
+====Name origin====
+Golurk is a combination of ''golem'' and ''lurk'' (referring to its {{t|Ghost}} type).
+
+Goloog is a combination of ''golem'' and サイボーグ ''saibōgu'' (cyborg).
+
+==In other languages==
+{{Other languages|type=ground|type2=ghost
+|ja=ゴルーグ ''Goloog''|jameaning=From {{tt|ゴーレム ''gōremu''|golem}} and {{tt|サイボーグ ''saibōgu''|cyborg}}
+|fr=Golemastoc|frmeaning=From ''golem'' and ''{{tt|mastoc|massive}}''
+|es=Golurk|esmeaning=Same as English name
+|de=Golgantes|demeaning=From ''Golem'' and ''{{tt|gigante|Italian for 'giant'}}''
+|it=Golurk|itmeaning=Same as English name
+|ko=골루그 ''Goloog''|komeaning=Transliteration of Japanese name
+|zh_cmn=泥偶巨人 ''Ní'ǒujùrén''|zh_cmnmeaning=From {{tt|泥人 ''nírén''|clay figurine}}, {{tt|偶人 ''ǒurén''|idol}}, and {{tt|巨人 ''jùrén''|giant}}
+|ru=Голарк ''Golark''|rumeaning=Transcription of English name
+}}
+
+<br clear="left">
+
+==Notes==
+<references/>
+
+==External links==
+{{PokémonPrevNext/Head|type=Ground|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=622|prev=Golett|nextnum=624|next=Pawniard}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Artificial Pokémon]]
+
+[[de:Golgantes]]
+[[fr:Golemastoc]]
+[[it:Golurk]]
+[[ja:ゴルーグ]]
+[[pl:Golurk]]
+[[zh:泥偶巨人]]

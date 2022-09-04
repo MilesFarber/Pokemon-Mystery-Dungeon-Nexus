@@ -1,0 +1,464 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=410|prev=Shieldon|nextnum=412|next=Burmy|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Bastiodon}}
+|}
+{{Pokémon Infobox
+|name=Bastiodon
+|jname=トリデプス
+|jtranslit=Toridepusu
+|tmname=Torideps
+|ndex=411
+|sdex=039
+|adex=191
+|abrow=182
+|obrow=179
+|opbrow=100
+|type1=Rock
+|type2=Steel
+|category=Shield
+|height-ftin=4'03"
+|height-m=1.3
+|weight-lbs=329.6
+|weight-kg=149.5
+|ability1=Sturdy
+|abilityd=Soundproof
+|egggroupn=1
+|egggroup1=Monster
+|eggcycles=30
+|evtotal=2
+|evde=2
+|expyield=173
+|oldexp=199
+|lv100exp=600,000
+|gendercode=31
+|color=Gray
+|catchrate=45
+|body=08
+|pokefordex=bastiodon
+|generation=4
+|friendship=70
+}}
+'''Bastiodon''' ([[List of Japanese Pokémon names|Japanese]]: '''トリデプス''' ''Torideps'') is a dual-type {{2t|Rock|Steel}} [[Fossil]] {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Shieldon}} starting at [[level]] 30, after it is revived from an [[Skull and Armor Fossils|Armor Fossil]].
+
+==Biology==
+Bastiodon appears to be a cross between a ''{{wp|Zuniceratops}}'' and a {{wp|bulldozer}}. Its dark gray, square head resembles a castle wall, complete with four cream yellow, window-like spots with a black outline, three dark gray spikes on the top, and two larger gray spikes in the upper corners. Bastiodon's triangular nose extends from the middle of its shield-like head down over its lips and appears to be pierced by a gray, horizontal spike. Four spikes jut downward and four large, blunt tusks protrude upward from its dark gray lower jaw. Bastiodon's cream yellow eyes are partially obscured by the nasal spike and spaced-out tusks. Its thick, cream yellow body is further protected by a gray ridge and dark gray plates on its back, jagged growths on its legs, and a plated tail.
+
+It is from roughly 100 million years ago. Despite its rough, intimidating appearance, Bastiodon is actually a docile, caring Pokémon that feeds on grass and Berries. Its steel-hard, shield-like face is capable of repelling any attack. When multiple Bastiodon line up, their faces form a wall that nothing can break through; this was how they protected their young. In stark contrast to its impenetrable frontal defense, it is vulnerable from behind. It seems to have lived in the same habitats as {{p|Rampardos}}, as evidenced by their fossils often being found together.
+
+==In the anime==
+[[File:Byron Bastiodon.png|thumb|left|220px|Bastiodon in the {{pkmn|anime}}]]
+===Major appearances===
+Bastiodon debuted in ''[[DP107|Ancient Family Matters!]]'', under the ownership of [[Byron]]. It reappeared in ''[[DP108|Dealing With Defensive Types!]]'', where it was used in a [[Gym]] battle against {{Ash}}. Bastiodon battled against {{AP|Chimchar}} and managed to defeat it, but it then lost to {{AP|Gliscor}}.
+
+===Minor appearances===
+{{-}}
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP107|Bastiodon|Dawn's Pokédex|Bastiodon, the Shield Pokémon and the evolved form of {{p|Shieldon}}. Its massively powerful shield-like face can deflect even the strongest of attacks.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Diamond Don.png|150px|thumb|Bastiodon in [[Pokémon Adventures]]]]
+===In the Phantom Thief Pokémon 7 manga===
+Bastiodon made a minor appearance in [[Phantom Thief Pokémon 7]] under the ownership of [[Mako]]. The reporter used the large Shield Pokémon to block [[Hiori|the titular thief]]'s progress, but didn't actually battle him.
+
+===In the Pokémon Adventures manga===
+{{main|Don}}
+
+{{Adv|Diamond}}'s Shieldon, nicknamed "{{DL|Diamond (Adventures)|Don}}," evolved into a Bastiodon fighting several opponents at the [[Team Galactic HQ|Galactic Veilstone Building]] in ''[[PS408|High-tailing It from Haunter]]''. Already a sturdy Pokémon prior to evolving, this solidified his strong defenses even more.
+
+===In the Pokémon Diamond and Pearl Adventure!===
+Like in the games, Bastiodon appears alongside [[Byron]]. He used it during his training sessions with [[Hareta]] in ''[[DPA09|Challenge! The Fortress Of Steel!!]]''.
+
+An Officer's Bastiodon appeared in ''[[DPA32|Charon Must Be Stopped!]]''.
+
+==In the TCG==
+{{main|Bastiodon (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Rock|type2=Steel}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.}}
+{{Dex/Entry1|v=Pearl|entry=When attacked, they form a wall with their shield like faces to protect their young.}}
+{{Dex/Entry1|v=Platinum|entry=When they lined up side by side, no foe could break through. They shielded their young in that way.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=When attacked, they form a wall. Their rock-hard faces serve to protect them from the attacks.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=When they lined up side by side, no foe could break through. They shielded their young in that way.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When they lined up side by side, no foe could break through. They shielded their young in that way.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=When they lined up side by side, no foe could break through. They shielded their young in that way.}}
+{{Dex/Entry1|v=Y|entry=Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=When they lined up side by side, no foe could break through. They shielded their young in that way.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=While it can guard against any sort of attack from the front, it is left without recourse when attacked from behind.}}
+{{Dex/Entry1|v=Moon|entry=It lived in the same environments as {{p|Rampardos}}. Their fossils have been found together—seemingly from after they'd fought to the finish.}}
+{{Dex/Entry1|v=Ultra Sun|entry=The bones of its face are huge and hard, so they were mistaken for its spine until after this Pokémon was successfully restored.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This Pokémon is from roughly 100 million years ago. Its terrifyingly tough face is harder than steel.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Steel}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1/None|v=Diamond}}
+{{Availability/Entry1|v=Pearl|area=[[Evolution|Evolve]] {{p|Shieldon}}}}
+{{Availability/Entry1|v=Platinum|area=[[Trade]]<br/>[[Evolution|Evolve]] {{p|Shieldon}}{{tt|*|If the player's Trainer ID is an even number}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Shieldon}}{{tt|*|Fossil cannot be found in HGSS; must be transferred in a trade}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Evolution|Evolve]] {{p|Shieldon}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Shieldon}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Shieldon}}}}
+{{Availability/Entry1|2|v=Omega Ruby|t=fff|area=[[Evolution|Evolve]] {{p|Shieldon}}}}
+{{Availability/Entry1/None|2|v=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1/None|2|v=Sun}}
+{{Availability/Entry1|2|v=Moon|area=[[Evolution|Evolve]] {{p|Shieldon}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Shieldon}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Steel}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Evolution|Evolve]] {{p|Shieldon}}}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Evolution|Evolve]] {{p|Shieldon}}}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Chroma Highlands]], [[Chroma Ruins]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Fiery Furnace]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Cavern Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Oblivia Ruins]], [[Fire Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Shieldon}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Spike Ball Alert!|Vehicle Gallery: Spike Ball Alert!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 4|Distortion Island: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 380]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Rock Chasm|Diamond Crater: Rock Chasm]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Rock
+|type2=Steel
+|HP=      60
+|Attack=  52
+|Defense=168
+|SpAtk=   47
+|SpDef=  138
+|Speed=   30}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Rock
+|type2=Steel
+|Speed=2
+|SpeedMax=2
+|Power=3
+|PowerMax=5
+|Technique=1
+|TechniqueMax=3
+|Stamina=5
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Steel
+|Normal=   25
+|Fighting=400
+|Flying=   25
+|Poison=    0
+|Ground=  400
+|Rock=     50
+|Bug=      50
+|Ghost=   100
+|Steel=   100
+|Fire=    100
+|Water=   200
+|Grass=   100
+|Electric=100
+|Psychic=  50
+|Ice=      50
+|Dragon=   50
+|Dark=    100
+|Fairy=    50
+|notes=yes
+|steel=yes
+|newpoison=½
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Bastiodon|Rock|Steel|4}}
+{{learnlist/level7|1|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|1|Metal Sound|Steel|Status|&mdash;|85|40}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|6|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|10|Metal Sound|Steel|Status|&mdash;|85|40}}
+{{learnlist/level7|15|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|19|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|24|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|28|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level7|36|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|43|Metal Burst|Steel|Physical|&mdash;|100|10}}
+{{learnlist/level7|51|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level7|58|Heavy Slam|Steel|Physical|&mdash;|100|10||'''}}
+{{learnlist/levelf/7|Bastiodon|Rock|Steel|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Bastiodon|Rock|Steel|4}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Bastiodon|Rock|Steel|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Bastiodon|Rock|Steel|4}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|143|Snorlax}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|357|Tropius}}<br>{{MSP|776|Turtonator}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|111|Rhyhorn}}{{MSP|152|Chikorita}}|Counter|Fighting|Physical|&mdash;|100|20|*}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}<br>{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|304|Aron}}<br>{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|131|Lapras}}|Fissure|Ground|Physical|&mdash;|&mdash;|5|*}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|034|Nidoking}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|408|Cranidos}}<br>{{MSP|409|Rampardos}}|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|111|Rhyhorn}}|Guard Split|Psychic|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|304|Aron}}<br>{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/breed7|{{MSP|004|Charmander}}{{MSP|005|Charmeleon}}{{MSP|006|Charizard}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}<br>{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}<br>{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}{{MSP|621|Druddigon}}|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|108|Lickitung}}{{MSP|463|Lickilicky}}{{MSP|143|Snorlax}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}<br>{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}{{MSP|252|Treecko}}{{MSP|253|Grovyle}}{{MSP|254|Sceptile}}<br>{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/breed7|{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}|Stealth Rock|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|713|Avalugg}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Bastiodon|Rock|Steel|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Bastiodon|Rock|Steel|4}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15||'''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutorf/7|Bastiodon|Rock|Steel|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Bastiodon|Rock|Steel|4}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Bastiodon|Rock|Steel|4}}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Steel}}
+{{Spindata/MDTDS|col=6|type=Rock|ndex=411
+|body=1
+|rate=1.5
+|IQ=C
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Rock
+|group=Steel
+|assist=Steel
+|field=Tackle
+|fieldpower=3
+|browser=It rams with its rock-hard head. It also makes {{M|Rock Slide|stones drop}} to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Rock
+|group=Steel
+|assist=Steel
+|field=Tackle
+|fieldpower=4
+|browser=It attacks by making iron balls fall.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Rock
+|att=1
+|def=5
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Rock
+|att=1
+|def=5
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Rock|ndex=411
+|Pad=He likes tough words, Bastiodon does. He's also the Attraction Chief of {{DL|Attractions|Bastiodon's Block Barrage}} in the [[Cavern Zone]]!
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Rock|ndex=411
+|strong=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]]
+|pad=He works as a Gatekeeper in the [[Crag Area]]. He is proud of his hard face.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Rock|ndex=411
+|HP=2
+|atk=1
+|def=5
+|spd=1
+|range=2
+|move=Rock Slide
+|ability1=Shield
+|ability2=Last Bastion
+|ability3=Sturdy
+|evo=Evolves from {{p|Shieldon}} when its Defense is 113 or higher
+|link={{DL|List of Pokémon Conquest characters|Bokuden}}, {{DL|List of Pokémon Conquest characters|Kazumasa}}, '''[[Keiji]]''', and {{DL|List of Pokémon Conquest characters|Ujiteru}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Rock|ndex=411
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=411|num=544
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Last-Ditch Effort
+|skilldesc=Increases damage when things are looking desperate.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Rock
+|type2=Steel
+|pictype=art
+|no1=410
+|name1=Shieldon
+|type1-1=Rock
+|type2-1=Steel
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no2=411
+|name2=Bastiodon
+|type1-2=Rock
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock|type2=Steel}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=411}}
+{{Spritebox/5|ndex=411}}
+{{Spritebox/6|ndex=411}}
+{{Spritebox/7|ndex=411}}
+{{Spritebox/Footer|411|Bastiodon}}
+
+==Trivia==
+* The wall of the castle in [[Courtyard Colosseum]] resembles a Bastiodon's head.
+* Bastiodon has the highest base {{stat|Defense}} and {{stat|Special Defense}} stats and the highest single base stat of all [[Fossil]] Pokémon.
+
+===Origin===
+Bastiodon is based on a {{wp|ceratopsia}}n {{wp|dinosaur}}. Its protective growth resembles a castle wall. Its head resembles that of ''{{wp|Chasmosaurus}}''. The spike through its nose is reminiscent of the {{wp|Body piercing#Nose piercing|nose bones}} from various indigenous tribes.
+
+====Name origin====
+Bastiodon is a combination of ''{{wp|bastion}}'' or the ''{{wp|Bastille}}'' and ''don'' (from δόντι ''dónti'', Greek for ''tooth''; a suffix in various dinosaur names).
+
+Torideps is a combination of 砦 ''toride'' (fortress) and ''{{wp|Triceratops}}''.
+
+==In other languages==
+{{Other languages|type=Rock|type2=Steel
+|ja=トリデプス ''Torideps''|jameaning=From {{tt|砦 ''toride''|fortress}} and ''Triceratops''
+|de=Bollterus|demeaning=From ''{{tt|Bollwerk|fortress}}'' and ''Schilterus'' ({{p|Shieldon}})
+|fr=Bastiodon|frmeaning=Same as English name
+|es=Bastiodon|esmeaning=Same as English name
+|it=Bastiodon|itmeaning=Same as English name
+|ko=바리톱스 ''Baritops''|komeaning=From 바리아 ''barrier'' or 바리케이드 ''barricade'', and 트리케라톱스 ''Triceratops''
+|zh_cmn=護城龍 / 护城龙 ''Hùchénglóng''|zh_cmnmeaning=From {{tt|護 ''hù''|to protect}}, {{tt|城 ''chéng''|city, castle}}, and {{tt|龍 ''lóng''|dragon, a common suffix for dinosaur names}}
+|zh_yue=護城龍 ''Wuhsèhnglùhng''|zh_yuemeaning=Same as Mandarin name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Don]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Rock|type2=Steel}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=410|prev=Shieldon|nextnum=412|next=Burmy}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Fossil Pokémon]]
+
+[[de:Bollterus]]
+[[fr:Bastiodon]]
+[[it:Bastiodon]]
+[[ja:トリデプス]]
+[[pl:Bastiodon]]
+[[zh:护城龙]]

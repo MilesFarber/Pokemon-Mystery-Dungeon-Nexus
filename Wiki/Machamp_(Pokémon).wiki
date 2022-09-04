@@ -1,0 +1,671 @@
+{{PokémonPrevNext/Head|type=Fighting}}
+{{PokémonPrevNext/GO|species=Machamp}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=067|prev=Machoke|nextnum=069|next=Bellsprout|round=none}}
+{{PokémonPrevNext/Disambig|species=Machamp}}
+|}
+{{Pokémon Infobox
+|name=Machamp
+|jname=カイリキー
+|jtranslit=Kairikī
+|tmname=Kairiky
+|ndex=068
+|oldjdex=142
+|jdex=144
+|hdex=075
+|hdex6=077
+|fbrow=082
+|sdex=042
+|karea=Coastal
+|kdex=059
+|adex=097
+|abrow=163
+|type1=Fighting
+|category=Superpower
+|height-ftin=5'03"
+|height-m=1.6
+|weight-lbs=286.6
+|weight-kg=130.0
+|ability1=Guts
+|ability2=No Guard
+|abilityd=Steadfast
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=20
+|evtotal=3
+|evat=3
+|expyield=227
+|oldexp=193
+|lv100exp=1,059,860
+|gendercode=63
+|color=Gray
+|catchrate=45
+|body=12
+|pokefordex=machamp
+|generation=1
+|friendship=70
+}}
+'''Machamp''' ([[List of Japanese Pokémon names|Japanese]]: '''カイリキー''' ''Kairiky'') is a {{type|Fighting}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Machoke}} when [[trade]]d. It is the final form of {{p|Machop}}.
+
+==Biology==
+Machamp is a large, humanoid Pokémon with four well-muscled arms. Its skin is bluish gray, and it has red eyes and pale yellow lips. On its head, there are three, brown ridges right above its eyes. It has two arms on each side of its body: a pair located in the normal position, and another pair directly above that attaches on the top of the shoulders. It has black markings that resemble briefs along with a golden power-save belt. Its legs have considerable muscle tone, and its feet have two toes.
+
+Machamp punches extremely fast, throwing five hundred punches a second. With only one hand, it can move a mountain. Because of its four arms, it can hit from a multitude of angles and pin all of its foe's limbs at once. However, it has poor dexterity, and cannot handle delicate work without its arms becoming tangled. It is a rash Pokémon that rushes into action without forethought. Machamp can be found living in the {{DL|List of Pokémon by habitat|Mountain Pokémon|mountains.}}
+
+==In the anime==
+===In the main series===
+[[File:Machamp anime.png|250px|left|thumb|Machamp in the {{pkmn|anime}}]]
+====Major appearances====
+{{an|Giovanni}}, the leader of [[Team Rocket]] and the former [[Gym Leader]] of [[Viridian City]], has a Machamp. He loaned it to [[Jessie]], [[James]], and {{MTR}} after he put them in charge of the [[Viridian Gym]] in ''[[EP063|The Battle of the Badge]]''.
+
+[[Morrison]] battled against a Machamp belonging to a very muscular Trainer named [[Gavin]] during the Hoenn League in ''[[AG127|From Brags to Riches]]''. Morrison's {{p|Gligar}} managed to defeat Gavin's Machamp.
+
+{{OBP|Emily|AG140}} had a {{p|Machop}}, {{p|Machoke}}, and Machamp chase after her runaway {{p|Psyduck}} in ''[[AG140|Sitting Psyduck]]''.
+
+Several {{p|Machoke}} and Machamp appeared in ''[[DP057|Bibarel Gnaws Best!]]'' as construction workers under the ownership of the [[Expert stonecutter]].
+
+A Machamp appeared in ''[[XY035|The Forest Champion!]]''. It is the rival of {{AP|Hawlucha}} and the previous champion of the forest where they lived. Machamp was tricked by a ruffian pair of {{p|Ursaring}} and {{p|Conkeldurr}} into having a rematch with Hawlucha, but when the two troublemakers interfered with their duel, Machamp took them out with a single move and called off the fight. Machamp was later seen watching Hawlucha agree to join {{Ash}}, promising to look after the forest in the Wrestling Pokémon's stead.
+
+====Minor appearances====
+Machamp debuted in ''[[EP029|The Punchy Pokémon]]'' competing in the [[P1 Grand Prix]].
+
+A Machamp was used by [[Raymond]] to battle Ash and his {{AP|Squirtle}} during the opening sequence of ''[[M01|Mewtwo Strikes Back]]''.
+
+A {{pkmn|Trainer}}'s Machamp appeared in ''[[EP099|The Mandrin Island Miss-Match]]''.
+
+A Machamp appeared in ''[[M02|The Power of One]]''.
+
+A Machamp was seen in a fantasy in ''[[EP116|The Rivalry Revival]]''.
+
+A Machamp appeared in ''[[EP169|Beauty and the Breeder]]'' where it participated in [[Pokémon Beauty Contest|a Pokémon breeding competition]].
+
+A Machamp was one of the Pokémon competing in the [[Sumo Conference]] in ''[[EP194|Ring Masters]]''. It went up against [[Ash's Snorlax]] in the semifinals and lost.
+
+A Machamp was one of the Pokémon seen at [[Chuck]]'s [[Cianwood Gym|Gym]] in ''[[EP209|Machoke, Machoke Man!]]''.
+
+A {{pkmn|Trainer}}'s Machamp appeared in ''[[AG125|Like a Meowth to a Flame]]''.
+
+A Machamp was among the Pokémon seeing during the [[Ever Grande Conference]] in ''[[AG126|Saved by the Beldum]]''.
+
+A Machamp belonging to {{FB|Factory Head|Noland}} made a cameo appearance in ''[[AG135|Numero Uno Articuno]]''.
+
+A {{pkmn|Coordinator}}'s Machamp appeared in ''[[AG160|Harley Rides Again]]'' participating in the [[Wisteria Town]] [[Pokémon Contest]].
+
+A Machamp was used by one of the participants of [[Pokémon Ping Pong Tournament]] in ''[[DP124|To Thine Own Pokémon Be True!]]''.
+
+A Machamp belonging to a {{pkmn|Trainer}} competing in the [[Lily of the Valley Conference]] appeared in ''[[DP183|League Unleashed!]]''; it was defeated by {{si|Tobias}}'s {{p|Darkrai}}.
+
+A Machamp appeared in a flashback in ''[[XY051|When Light and Dark Collide!]]''.
+
+A Machamp appeared in ''[[XY137|Battling With a Clean Slate!]]''.
+
+Two Trainers' Machamp appeared in ''[[SM001|Alola to New Adventure!]]''.
+
+A Trainer's Machamp appeared in ''[[SM004|First Catch in Alola, Ketchum-Style!]]''.
+
+Four {{tc|Police Officer|Police}} Machamp appeared in ''[[SM009|To Top a Totem!]]'', where they were helping to lift some logs. Another three Machamp appeared in [[SM061]] where they were trying to deal with a {{p|Buzzwole}}. Another four Machamp appeared in [[SM064]], where they were defeated by a few {{p|Passimian}} from [[Akala Island]].
+
+Two Trainers' Machamp appeared in ''[[SM021|One Journey Ends, Another Begins...]]''
+
+A Trainer's Machamp appeared in ''[[SM050|Faba's Revenge!]]''.
+
+A Trainer's Machamp appeared in [[SM063]], where it took part in a [[Battle Royal]] and ended up defeated by the [[Professor Kukui|Masked Royal]]'s {{p|Incineroar}}.
+
+[[File:International Police Machamp PG.png|thumb|250px|Machamp in [[Pokémon Generations]]]]
+
+===In Pokémon Generations===
+A Machamp appeared in ''[[PG02|The Chase]]'', under the ownership of an [[International Police]] {{wp|SWAT}} team.
+
+[[Bruno]] used a Machamp against {{ga|Blue}}'s {{p|Pidgeot}} in ''[[PG03|The Challenger]]'', but it lost.
+{{-}}
+
+==In the manga==
+[[File:Blue Machamp.png|200px|thumb|Machamp in [[Pokémon Adventures]]]]
+===In the movie adaptations===
+A Machamp appeared in ''[[Get Fired Up, Marshadow! (manga)|Get Fired Up, Marshadow!]]'', under the ownership of [[Borosue]].
+===In the Pokémon Adventures manga===
+{{main|Blue's Machamp}}
+Machamp first appeared in ''[[PS016|Tauros the Tyrant]]'', where a {{tc|Team Rocket Grunt}} used it in an attempt to catch {{adv|Green}}.
+
+{{adv|Blue}} has a {{TP|Blue|Machamp}} that debuted as a Machoke in ''[[PS018|A Tale of Ninetales]]''. He was accidentally traded with {{adv|Red}}, along with Blue's other Pokémon, when Red and Blue's [[Poké Ball]]s got mixed up. Under Red's ownership, Machoke evolved into Machamp before being returned to Blue.
+
+Another Machamp appeared in ''[[PS067|Can You Diglett?]]'' as a silhouette when [[Agatha]] and [[Lorelei]] explained to Red about how Pokémon and people can't coexist with each other.
+
+In ''[[PS074|Make Way for Magikarp]]'', [[Bruno]] used a Machamp that, unlike all other Machoke who evolve from trade in this manga, had kept on its power-absorbing belt to be used later. With this power, it defeated Red's [[Poli]] before it was defeated by [[Vee]] as a {{p|Jolteon}}. It briefly returned in the {{chap|HeartGold & SoulSilver}} to participate in a [[Pokéathlon]] match against {{adv|Gold}}.
+
+Machamp was one of the Pokémon used by [[Chuck]] against [[Blue's Rhydon]] in ''[[PS161|Entranced by Entei]]''.
+
+Multiple Machamp were used by {{tc|Team Galactic Grunt}}s in ''[[PS398|Tackling Tangrowth]]''.
+
+Three Machamp appeared in a flashback in ''[[PAXY27|Pinsir Glares]]''.
+
+===In the Pokémon Battle Frontier manga===
+{{OBP|Enta|CBF}} battled a Machamp in ''[[CBF2|Aim for the Top!]]'' in order to reach the top of the {{DL|Battle Frontier (Generation III)|Battle Pyramid}}.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+In ''[[DPAS5|Return to Hareta's Home Forest!]]'', the reporter that [[Hareta]] encountered used a Machamp in battle.
+
+===In the Pokémon Gotta Catch 'Em All manga===
+In ''[[GDZ06|Challenge at Tamamushi University!]]'', [[Shu]] battled a Machamp at [[Celadon University]]'s campus hospital to prevent it from destroying the entire building.
+
+===In the Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon manga===
+An unnamed competitor owns a Machamp in [[Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon]].
+
+===In the Pokémon Pocket Monsters manga===
+{{OBP|Red|Pocket Monsters}} and {{OBP|Green|Pocket Monsters}} each own a Machamp in the [[Pokémon Pocket Monsters]] manga.
+
+{{OBP|Giovanni|Pocket Monsters}} sent out a Machamp in order to get rid of {{OBP|Red|Pocket Monsters}}, {{TP|Red|Clefairy}} and {{OBP|Red's Pikachu|Pocket Monsters|Pikachu}} when they went to the amusement park that he built in ''[[PM029|The Thrill of a Perfect Score, Big Rampage at the Amusement Park!]]''.
+
+Machamp is one of [[Bruno]]'s Pokémon in the [[Pokémon League]] as seen in ''[[PM034|Clefairy's Under Training!!]]''.
+
+Machamp was owned by [[Rydel's rival]] in ''[[PMRS17|Serious Bicycle Match!]]''.
+
+===In the Pokémon Zensho manga===
+[[Giovanni]] used a Machamp against {{Zensho|Satoshi}} in ''[[PZ05|Celadon City]]''.
+
+===In the Magical Pokémon Journey manga===
+{{main|Machamp (MPJ)}}
+Machamp is a Pokémon owned in the [[Magical Pokémon Journey]] series.
+
+[[File:Pokkén Machamp.png|220px|thumb|Machamp in Pokkén Tournament]]
+
+==In the TCG==
+{{main|Machamp (TCG)}}
+
+==Other appearances==
+===[[Pokkén Tournament]]===
+Machamp is a Power-type playable character in Pokkén. Specializing in close range combat, Machamp deals incredible damage in exchange for a slow walk speed and lack of projectiles. Moves it can use include {{m|Wake-Up Slap}}, {{m|Karate Chop}}, {{m|Bulk Up}}, {{m|Cross Chop}}, {{m|Submission}}, and {{m|Close Combat}}. In Burst form, it can use the Burst Attack Dynamic Fury.
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=fighting}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.}}
+{{Dex/Entry1|v=Yellow|entry=One arm alone can move mountains. Using all four arms, this Pokémon fires off awesome punches.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Among its fighting moves is a simultaneous volley of an uppercut, hook, straight and <sc>{{m|Karate Chop|Karate Chop}}</sc> from its four arms.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.}}
+{{Dex/Entry1|v=Silver|entry=It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.}}
+{{Dex/Entry1|v=Crystal|entry=With four arms that react more quickly than it can think, it can execute many punches at once.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Machamp has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This Pokémon tends to leap into action before it thinks.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Machamp is known as the Pokémon that has mastered every kind of martial arts. If it grabs hold of the foe with its four arms, the battle is all but over. The hapless foe is thrown far over the horizon.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It is impossible to defend against punches and chops doled out by its four arms. Its fighting spirit flares up when it faces a tough opponent.}}
+{{Dex/Entry1|v=FireRed|entry=Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.}}
+{{Dex/Entry1|v=LeafGreen|entry=Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It punches with its four arms at blinding speed. It can launch 1,000 punches in two seconds.}}
+{{Dex/Entry1|v=Pearl|entry=It can knock a train flying with a punch. However, it is terrible at delicate work using its fingers.}}
+{{Dex/Entry1|v=Platinum|entry=Its four muscled arms slam foes with powerful punches and chops at blinding speed.}}
+{{Dex/Entry1|v=HeartGold|entry=It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.}}
+{{Dex/Entry1|v=SoulSilver|entry=It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its four muscled arms slam foes with powerful punches and chops at blinding speed.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its four muscled arms slam foes with powerful punches and chops at blinding speed.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.}}
+{{Dex/Entry1|v=Y|entry=It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Machamp has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This Pokémon tends to leap into action before it thinks.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Machamp is known as the Pokémon that has mastered every kind of martial arts. If it grabs hold of the foe with its four arms, the battle is all but over. The hapless foe is thrown far over the horizon.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It unleashes megaton-level punches that send opponents flying clear over the horizon.}}
+{{Dex/Entry1|v=Moon|entry=It can lift heavy loads with the greatest of ease. It can even heft dump trucks. But its clumsy fingers prevent it from doing any precision work.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It grasps its opponents with its four arms and twists them up in an intricate hold. People call it “the Machamp special.”}}
+{{Dex/Entry1|v=Ultra Moon|entry=With four arms, it can attack and defend simultaneously. It's said to have mastered every martial art in the world.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=fighting}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry1|v=Yellow|area=[[In-game trade#Yellow|Trade]] {{p|Cubone}} for {{p|Machoke}} on {{rt|5|Kanto}} (evolves immediately)}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry1|v=Pal Park|color=D4B5A7|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fighting}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|5|Phobos Walker}}, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Krokka Tunnel]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Aegis Cave]] (Rock B2-B3, Steel B1-B3, Pit B1-B3)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Aegis Cave]] (Rock B2-B3, Steel B1-B3, Pit B1-B3)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Oil Field Hideout]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Rocky Cave]] <small>(Both Modes A & S, Advanced Mode B)</small>}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Cavern Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Canyon: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Machoke}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Wonder Area#Go Big or Go Home!|Wonder Area: Go Big or Go Home!]] <small>(Reward)</small>, [[Melodious Woodland#A Lively Concert|Melodious Woodland: A Lively Concert]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Monday Stage 2|Safari Jungle: Stage 2]]{{dotw|Mo}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Great Challenge|Machamp Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Super-Aura Test Lab|Origin Hideaway: Super-Aura Test Lab]] <small>(Center Boss, Back, Special)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=fighting}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon EXPO Gym Machamp|Japanese region|Online|39|November 19, 2015 to May 31, 2016|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Machamp}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Mark McQuillan's Machamp|All|Europe and the United States|50[[File:ShinyVIStar.png|Shiny|link=Shiny Pokémon]]|May 14 to July 3, 2016|link=List of local event Pokémon distributions in Generation VI#Mark McQuillan's Machamp}}
+{{eventAvail|{{gameabbrev7|SM}}|Saori Yoshida's Machamp|Japanese region|Nintendo Zone|34|February 8 to 28, 2017|link=List of Japanese region Nintendo Network event Pokémon distributions in Generation VII#Saori Yoshida's Machamp}}
+|}
+
+===Held items===
+{{HeldItems
+|type=fighting
+|rby1=Bitter Berry|rby1type=None|rby1rar=100|rby1image=no
+|event1=Star Piece|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=     90
+|Attack=130
+|Defense=80
+|SpAtk=  65
+|SpDef=  85
+|Special=65
+|Speed=  55
+|type=Fighting
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Fighting
+|Speed=1
+|SpeedMax=2
+|Power=5
+|PowerMax=5
+|Technique=4
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=3
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=fighting
+|Normal=  100
+|Fighting=100
+|Flying=  200
+|Poison=  100
+|Ground=  100
+|Rock=     50
+|Bug=      50
+|Ghost=   100
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 200
+|Ice=     100
+|Dragon=  100
+|Dark=    50
+|Fairy=200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Machamp|Fighting|Fighting|1}}
+{{learnlist/level7|1|Strength|Normal|Physical|80|100|15}}
+{{learnlist/level7|1|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Low Kick|Fighting|Physical|&mdash;|100|20||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|1|Karate Chop|Fighting|Physical|50|100|25||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Strength|Normal|Physical|80|100|15}}
+{{learnlist/level7|3|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|7|Karate Chop|Fighting|Physical|50|100|25||'''}}
+{{learnlist/level7|9|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|13|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/level7|15|Seismic Toss|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/level7|19|Revenge|Fighting|Physical|60|100|10||'''}}
+{{learnlist/level7|21|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/level7|25|Vital Throw|Fighting|Physical|70|&mdash;|10||'''}}
+{{learnlist/level7|27|Wake-Up Slap|Fighting|Physical|70|100|10||'''}}
+{{learnlist/level7|33|Dual Chop|Dragon|Physical|40|90|15}}
+{{learnlist/level7|37|Submission|Fighting|Physical|80|80|20||'''}}
+{{learnlist/level7|43|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|47|Cross Chop|Fighting|Physical|100|80|5||'''}}
+{{learnlist/level7|53|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|57|Dynamic Punch|Fighting|Physical|100|50|5||'''}}
+{{learnlist/levelf/7|Machamp|Fighting|Fighting|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Machamp|Fighting|Fighting|1}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Machamp|Fighting|Fighting|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Machamp|Fighting|Fighting|2}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|675|Pangoro}}|Bullet Punch|Steel|Physical|40|100|30}}
+{{learnlist/breed7|{{MSP|106|Hitmonlee}}{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}{{MSP|391|Monferno}}<br>{{MSP|392|Infernape}}{{MSP|448|Lucario}}{{MSP|539|Sawk}}|Close Combat|Fighting|Physical|120|100|5||'''}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|448|Lucario}}{{MSP|539|Sawk}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}{{MSP|701|Hawlucha}}|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|126|Magmar}}{{MSP|467|Magmortar}}{{MSP|308|Medicham}}{{MSP|466|Electivire}}|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}|Heavy Slam|Steel|Physical|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|308|Medicham}}|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}{{MSP|302|Sableye}}|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/breed7|{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|106|Hitmonlee}}{{MSP|122|Mr. Mime}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}<br>{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Meditate|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|307|Meditite}}{{MSP|308|Medicham}}|Power Trick|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}{{MSP|448|Lucario}}{{MSP|539|Sawk}}{{MSP|619|Mienfoo}}|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|106|Hitmonlee}}{{MSP|237|Hitmontop}}|Rolling Kick|Fighting|Physical|60|85|15||'''}}
+{{learnlist/breed7|{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}|Smelling Salts|Normal|Physical|70|100|10}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|125|Electabuzz}}{{MSP|466|Electivire}}{{MSP|308|Medicham}}{{MSP|467|Magmortar}}|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|574|Gothita}}{{MSP|575|Gothorita}}{{MSP|576|Gothitelle}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breedf/7|Machamp|Fighting|Fighting|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Machamp|Fighting|Fighting|2}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20||'''|no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5||'''|no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutorf/7|Machamp|Fighting|Fighting|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Machamp|Fighting|Fighting|1}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Machamp|Fighting|Fighting|1}}
+
+====By {{pkmn2|event}}s====
+{{learnlist/eventh/7|Machamp|Fighting|Fighting|1}}
+{{learnlist/event7|{{DL|List of Japanese region Nintendo Network event Pokémon distributions in Generation VII|Saori Yoshida's Machamp}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/event7|{{DL|List of Japanese region Nintendo Network event Pokémon distributions in Generation VII|Saori Yoshida's Machamp}}|Quick Guard|Fighting|Status|—|—|15}}
+{{learnlist/eventf/7|Machamp|Fighting|Fighting|1}}
+
+===Side game data===
+{{Spindata/Head|type=Fighting}}
+{{Spindata/Pinball|col=2|type=Fighting|ndex=068|acquisition=Evolve|evolved=yes}}
+{{Spindata/PinballRS|col=2|type=Fighting|ndex=068|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=2|type=Fighting|ndex=068|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Fighting|ndex=068
+|body=1
+|rate=Evolve
+|area=Mt. Discipline
+|P1=Can you even see my flurry of punches?
+|P2=Blast it... Half my health is gone already...
+|P3=It's no good... I can't lift my arms anymore...
+|PL=Hm! Leveled! My punching speed went up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Fighting|ndex=068
+|body=1
+|rate=-10
+|IQ=D
+}}
+|-
+{{Spindata/Ranger|col=6|type=Fighting
+|group=Fighting
+|assist=Fighting
+|fieldpower=3
+|field=Crush
+|loop=10
+|MinEXP=110
+|MaxEXP=140
+|browser=Machamp can pulverize even huge Boulders using the power of its incredible body.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Fighting
+|group=Fighting
+|assist=Fighting
+|field=Crush
+|fieldpower=3
+|browser=It attacks with devastating punches and shock waves.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Fighting
+|att=4
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Fighting
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Fighting|ndex=068
+|Pad=This Pokémon came to the [[Cavern Zone]] to play! The Attraction he likes to play is {{DL|Attractions|Blaziken's Boulder Bash}}!
+}}
+|-
+{{Spindata/Conquest|col=6|type=Fighting|ndex=068
+|HP=4
+|atk=4
+|def=3
+|spd=2
+|range=3
+|move=Cross Chop
+|ability1=Guts
+|ability2=Conqueror
+|ability3=Bodyguard
+|evo=Evolves from {{p|Machoke}} when it has a link of 60% or higher, after knocking out a [[Warrior]]'s Pokémon in a manner that allows recruitment
+|link={{DL|List of Pokémon Conquest characters|Isa}}, {{DL|List of Pokémon Conquest characters|Masatoshi}}, and {{DL|List of Pokémon Conquest characters|Tadatsune}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Fighting|ndex=068
+|power=3
+|skill=Power of Six
+|skilldesc=Increases the damage dealt by matching six Pokémon.
+}}
+{{Spindata/Shuffle|col=3|type=Fighting|ndex=068|num=345
+|min=70
+|max=125
+|raisemaxlevel=10
+|skill=Eject
+|skilldesc=Removes one non-Support Pokémon icon without fail.
+|swapper=Risk-Taker
+}}
+|-
+{{Spindata/GO|col=6|type=Fighting|ndex=068
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=180
+|attack=234
+|defense=162
+|fast={{m|Bullet Punch}}, {{m|Karate Chop}}{{tt|*|Prior to February 16, 2017}}, {{m|Counter}}{{tt|*|From February 16, 2017 onward}}
+|special={{m|Stone Edge}}{{tt|*|Prior to February 16, 2017}}, {{m|Submission}}{{tt|*|Prior to February 16, 2017}}, {{m|Cross Chop}}{{tt|*|Prior to February 16, 2017}}, {{m|Heavy Slam}}{{tt|*|From February 16, 2017 onward}}, {{m|Dynamic Punch}}{{tt|*|From February 16, 2017 onward}}, {{m|Close Combat}}{{tt|*|From February 16, 2017 onward}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Fighting
+|pictype=art
+|no1=066
+|name1=Machop
+|type1-1=Fighting
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 28}}
+|no2=067
+|name2=Machoke
+|type1-2=Fighting
+|evo2={{bag|Pal Pad}}<br>{{color2|000|Trade}}
+|no3=068
+|name3=Machamp
+|type1-3=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=Fighting}}
+{{Spritebox/1|ndex=068}}
+{{Spritebox/2|ndex=068}}
+{{Spritebox/3|ndex=068}}
+{{Spritebox/4|ndex=068}}
+{{Spritebox/5|ndex=068}}
+{{Spritebox/6|ndex=068}}
+{{Spritebox/7|ndex=068}}
+{{Spritebox/Footer|068|Machamp}}
+
+==Trivia==
+* In the [[Pokémon Red and Green beta|Pokémon Red and Blue beta]], Machamp was originally known as "Ju-Doh". This name is a corruption of ''judo'', a fighting style.
+* Machamp could be seen as a counterpart to {{p|Alakazam}}. They are both the last stage of a three-part evolutionary family, both were introduced in [[Generation I]], they reach their final stage by [[trading]], and they both have a 75% male gender ratio. Also, Alakazam excels at the {{stat|Special Attack}} stat, while Machamp excels at {{stat|Attack}}. Moreover, a girl in [[Oreburgh City]] will [[List of in-game trades#Diamond Pearl and Platinum|trade]] her Abra in exchange for a Machop.
+** Machamp also can be seen as a counterpart to the {{p|Conkeldurr}} evolutionary line. Both of them are {{type|Fighting}} Pokémon whose Attack is their highest stat. They both have below average speed. They share the same base stat total. They both have same gender ratio, they both have three-evolutionary stages, and they both reach their respective final-evolutionary stage through [[Trade|trading]].
+
+===Origin===
+Machamp appears to be based on a {{wp|bodybuilder}} or wrestler. Seeing as it has more than two arms and blue skin, Machamp might also be based on a Hindu god, perhaps {{wp|Shiva}} or {{wp|Vishnu}}.
+
+====Name origin====
+Machamp may be a combination of ''macho'' ({{wp|Spanish (language)|Spanish}} for ''overly masculine'' or ''chauvinist'') and ''champion''. ''Macho'' has come to mean tough or masculine in English. Akin to {{p|Mr. Mime}}, the masculine attribute has no reflection on gender assignment, as both species can be male and female; however, {{p|Machop}}'s evolutionary line does have a 3:1 male:female ratio, making the species predominantly—but not entirely—male. The name may also incorporate the term ''{{wp|Mach number|Mach}}'', referring to the high speeds at which Machamp can dole out its powerful punches.
+
+Kairiky is a corruption of 怪力 ''kairiki'' (superhuman strength). It is worth noting that ''kairiki'' is the Japanese name of {{m|Strength}}.
+
+==In other languages==
+{{Other languages|type=fighting|type2=fighting
+|ja=カイリキー ''Kairiky''|jameaning=Corruption of {{tt|怪力 ''kairiki''|superhuman strength}}
+|fr=Mackogneur|frmeaning=From ''macho'' and ''{{tt|cogneur|slugger}}''.
+|es=Machamp|esmeaning=Same as English name
+|de=Machomei|demeaning=From ''{{tt|machomai|Greek for 'I fight'}}'', or ''Macho'' and ''{{tt|Meister|master}}''
+|it=Machamp|itmeaning=Same as English name
+|ko=괴력몬 ''Goeryeokmon''|komeaning=From {{tt|괴력 ''gweryeok''|superhuman strength}} and {{tt|''monster''|몬스터}}
+|zh_yue=怪力 ''Gwaailihk''|zh_yuemeaning=Means "Bewildering strength" or "Monster strength"
+|zh_cmn=怪力 ''Guàilì''|zh_cmnmeaning=Means "Bewildering strength" or "Monster strength"
+|hi=मचॅंप ''Machamp''|himeaning=Transcription of English name
+|ru=Мачамп ''Machamp''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Blue's Machamp]]
+* [[Machamp (MPJ)]]
+
+==External links==
+* {{wp|Machop, Machoke, and Machamp|Article on Wikipedia}}
+
+==Notes==
+<references />
+
+{{PokémonPrevNext/Head|type=Fighting}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=067|prev=Machoke|nextnum=069|next=Bellsprout}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+
+[[de:Machomei]]
+[[fr:Mackogneur]]
+[[it:Machamp]]
+[[ja:カイリキー]]
+[[pl:Machamp]]
+[[zh:怪力]]

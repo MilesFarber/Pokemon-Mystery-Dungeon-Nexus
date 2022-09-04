@@ -1,0 +1,490 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Zangoose}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=334|prev=Altaria|nextnum=336|next=Seviper|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Zangoose
+|jname=ザングース
+|jtranslit=Zangūsu
+|tmname=Zangoose
+|ndex=335
+|hdex=123
+|hdex6=128
+|u2dex=186
+|karea=Coastal
+|kdex=005
+|typebox=1
+|type1=Normal
+|category=Cat Ferret
+|height-ftin=4'03"
+|height-m=1.3
+|weight-lbs=88.8
+|weight-kg=40.3
+|abilityn=d
+|ability1=Immunity
+|abilityd=Toxic Boost
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=2
+|evat=2
+|expyield=160
+|oldexp=165
+|lv100exp=600,000
+|gendercode=127
+|color=White
+|catchrate=90
+|body=06
+|pokefordex=zangoose
+|generation=3
+|friendship=70
+}}
+'''Zangoose''' ([[List of Japanese Pokémon names|Japanese]]: '''ザングース''' ''Zangoose'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+It is well known for its ongoing feud against {{p|Seviper}}.
+
+==Biology==
+Zangoose is a bipedal Pokémon resembling a cross between a mongoose and cat. Although it is classified as a bipedal Pokémon, it usually walks on all fours. Its fur is mostly white with deep red, scar-like markings on the face, chest, and forepaws. It has two long, black claws on its forepaws, and pink paw pads on its hind feet. It has pink eyes, long ears, and a small red nose. When it opens its mouth, two sharp fangs can be seen on its upper jaw. There are small tufts of white fur on its shoulders, and it has a large, fluffy tail.
+
+Zangoose is bitter enemies with {{p|Seviper}}, which it has battled against for many generations. Its claws are its best weapons, and can be used for its former [[signature move]], {{m|Crush Claw}}. It lives in {{DL|List of Pokémon by habitat|Grassland Pokémon|grassy areas.}}
+
+==In the anime==
+===In the main series===
+[[File:Black Belt Zangoose.png|thumb|left|220px|Zangoose in the {{pkmn|anime}}]]
+====Major appearances====
+Zangoose debuted in ''[[AG048|ZigZag Zangoose]]'' under the control of [[Nicholai]]. It battled against {{Ash}} and his {{AP|Treecko}}, but suddenly Zangoose noticed [[Jessie's Seviper]] and started to battle it. Ash and {{Ashfr}} and even {{TRT}} did not know what was going on, but it was Zangoose and {{p|Seviper}}'s natural rivalry that got the two fighting. They were suddenly knocked into a river and Seviper then used {{m|Poison Tail}}, knocking Zangoose unconscious. {{an|Brock}} nursed Zangoose back to health with herbal medicine and left it to rest. Later Seviper appeared again and was ready to battle and after a long and fierce battle, Zangoose finally knocked out the Fang Snake Pokémon with a Crush Claw.
+
+In ''[[SS020|Pokémon Mystery Dungeon: Explorers of Time & Darkness]]'', Zangoose was a member of Team Razor Wind, along with {{p|Scyther}} and {{p|Sandslash}}. The trio of clawed Pokémon were first seen being blasted out of the [[Wigglytuff's Guild|Wigglytuff Guild]]. Team Razor Wind overheard that [[Team Poképals]] were assigned with the task of traveling to the Labyrinth Cave to get a {{p|Gabite}} Scale for an ailing {{p|Shinx}}, and decided to attempt beating [[Team Poképals]]. Unfortunately for Team Razor Wind, Gabite beat them up. It reappeared alongside its team in ''[[SS021|Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness]]''.
+
+In ''[[DP051|Glory Blaze]]'', it was discovered that [[Paul]] found {{TP|Paul|Chimchar}} being attacked by a group of {{pkmn2|wild}} Zangoose. Due to the {{a|Blaze|amazing power}} it used fighting the Zangoose, Paul decided to {{pkmn2|caught|catch}} it. Also in this episode, Chimchar was matched against a {{tc|Black Belt}}'s Zangoose and nearly lost to it during the [[Hearthome City Tag Battle Competition]].
+
+In ''[[DP053|Tears For Fears!]]'', another group of Zangoose appeared before {{TRT}} and fought with [[Jessie's Seviper]]. Later, Chimchar found the courage to defeat them.
+
+A powerful Zangoose appeared in ''[[DP135|Beating the Bustle and Hustle!]]'', under the ownership of [[Crimson]]. During the battle against {{Ash}} and [[Officer Jenny]], Zangoose was able to defeat {{AP|Buizel}} but fell to {{AP|Pikachu}}'s {{m|Iron Tail}}.
+
+A Zangoose appeared in ''[[BW114|Saving Braviary!]]'', under the ownership of the {{tc|Team Plasma Grunt|Plasma Grunt}} [[Schwarz and Weiss|Weiss]]. Weiss sent it out after he and Schwarz caught {{an|N}} getting away with an injured Braviary. It was then used to battle {{Ash}} and {{ashfr}}, and was eventually defeated in a battle by [[Ash's Pikachu]] with help from the same Braviary.
+
+====Minor appearances====
+A Zangoose appeared in ''[[M07|Destiny Deoxys]]'', under the ownership of a Trainer.
+
+A Zangoose appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+Multiple Zangoose appeared in ''[[BW120|Ash and N: A Clash of Ideals!]]'', under the ownership of several Team Plasma Grunts.
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG048|Zangoose|Ash's Pokédex|Zangoose, the Cat Ferret Pokémon. Zangoose usually walks on all fours, but stands on its hind legs when angry. It's very quick and can easily dodge most enemy [[Move|attacks]].}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP051|Zangoose|Dawn's Pokédex|Zangoose, the Cat Ferret Pokémon. Zangoose have battled against {{p|Seviper}} for many generations, and their sharp claws are their best weapons.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+===In the Pokémon Black 2 and White 2 Animated Trailer===
+[[File:Team Plasma Zangoose B2W2 Trailer.png|thumb|250px|Zangoose (rear right) in the animated trailer]]
+A Zangoose appeared in the [[Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer]], under the ownership of a {{tc|Team Plasma Grunt}}. It surrounded {{ga|Nate}}, [[Hugh]], and [[Cheren]] aboard the [[Plasma Frigate]].
+{{-}}
+
+==In the manga==
+[[File:Sidney Zangoose Adventures.png|thumb|Zangoose in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Zangoose first appears in ''[[PS207|On the Loose and Hyper With Zangoose and Seviper I]]'', where it fought against a wild {{p|Seviper}}.
+
+[[Sidney]] owns a Zangoose, which he used to try and awaken the [[Legendary titans]]. It first appeared in ''[[PS251|The Beginning of the End with Kyogre & Groudon XIII]]''.
+
+The Battle Factory rented a Zangoose which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''.
+
+A Trainer's Zangoose appeared in ''[[PS419|Getting the Drop on Gallade I]]''.
+
+A Zangoose appeared in a flashback as a Pokémon trained by the [[International Police]] in ''[[PS528|Innocent Scientist]]''.
+
+===In the Pokémon Battle Frontier manga===
+{{OBP|Enta|CBF}} obtained a Zangoose before he entered the Battle Frontier.
+
+==In the TCG==
+{{main|Zangoose (TCG)}}
+
+==In the TFG==
+One Zangoose figure has been released.
+
+* {{TFG|Next Quest}}: {{TFG ID|Next Quest|Zangoose|25}}
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}: Zangoose is the leader of Team Razor Wind. The same Zangoose reappears in Super Mystery Dungeon.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Memories of battling its arch-rival {{p|Seviper}} are etched into every cell of Zangoose's body. This Pokémon adroitly dodges attacks with incredible agility.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Zangoose usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This Pokémon shares a bitter rivalry with Seviper that dates back over generations.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any Seviper.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=If it comes across a Seviper, its fur bristles and it assumes its battle pose. Its sharp claws are its best weapon.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Its fur would all stand on end if it smelled a Seviper nearby. Its sharp claws tear up its foes.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It's Seviper's archrival. To threaten those it encounters, it fans out the claws on its front paws.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.}}
+{{Dex/Entry1|v=Y|entry=Its fur would all stand on end if it smelled a Seviper nearby. Its sharp claws tear up its foes.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Memories of battling its archrival Seviper are etched into every cell of Zangoose’s body. This Pokémon adroitly dodges attacks with incredible agility.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Zangoose usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This Pokémon shares a bitter rivalry with Seviper that dates back over generations.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Ruby|t=FFF|area={{rt|114|Hoenn}}}}
+{{Availability/Entry1/None|v=Sapphire|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Emerald|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Cipher Key Lair]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|208|Sinnoh}} and {{rtn|210|Sinnoh}} {{color2|{{ruby color dark}}|Dual-slot mode|(Ruby)}}}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|208|Sinnoh}} and {{rtn|210|Sinnoh}} {{color2|{{ruby color dark}}|Dual-slot mode|(Ruby)}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|11|Unova}}, [[Village Bridge]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|7|Unova}} and {{rtn|11|Unova}}, [[Village Bridge]]<br>[[Route]]s {{rtn|7|Unova}} and {{rtn|23|Unova}} ([[Hidden Grotto]])}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{rt|8|Kalos}}}}
+{{Availability/Entry1|v=Omega Ruby|t=FFF|area={{rt|114|Hoenn}}}}
+{{Availability/Entry1/None|v=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Plains ({{color2|{{ruby color}}|Ruby Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 3]], [[Huge Storage 3]], Endless Level 22, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Mt. Freeze]] (7F-12F), [[Wish Cave]] (65F-71F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Crevice Cave]] (B1-B10, Lower Crevice Cave B1-B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Crevice Cave]] (B1-B10, Lower Crevice Cave B1-B4), [[Mt. Avalanche]] (B1-B19)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Entranceway#A Fateful Showdown!|Entranceway: A Fateful Showdown!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Monday Stage 3|Safari Jungle: Stage 3]]{{dotw|Mo}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#The Daily Pokémon (#4)|The Daily Pokémon (#4)]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Meteorite Parkland|Legend Terrain: Meteorite Parkland]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Normal}}
+{{eventAvail|{{gameabbrev3|RS}}|Christmas Day Zangoose|English|United States|18|December 25, 2003|link=List of PCNY event Pokémon distributions in Generation III#Zangoose}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Fifth Campaign Zangoose|Japanese|Japan|10|March 21 to April 9, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Zangoose}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Normal
+|xd1=Silk Scarf|xd1type=None|xd1rar=100
+|dppt1=Quick Claw|dppt1type=None|dppt1rar=5
+|hgss1=Quick Claw|hgss1type=None|hgss1rar=5
+|bw1=Quick Claw|bw1type=None|bw1rar=5
+|b2w21=Quick Claw|b2w21type=None|b2w21rar=5
+|xy1=Quick Claw|xy1type=None|xy1rar=5
+|oras1=Quick Claw|oras1type=None|oras1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|HP=73
+|Attack=115
+|Defense=60
+|SpAtk=60
+|SpDef=60
+|Speed=90}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=2
+|SpeedMax=3
+|Power=4
+|PowerMax=5
+|Technique=3
+|TechniqueMax=4
+|Stamina=4
+|StaminaMax=5
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Zangoose|Normal|Normal|3}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|5|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level7|8|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/level7|12|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|15|Hone Claws|Dark|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|19|Slash|Normal|Physical|70|100|20||'''}}
+{{learnlist/level7|22|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/level7|26|Crush Claw|Normal|Physical|75|95|10||'''}}
+{{learnlist/level7|29|False Swipe|Normal|Physical|40|100|40||'''}}
+{{learnlist/level7|33|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|36|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|40|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/level7|43|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|47|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|50|Close Combat|Fighting|Physical|120|100|5}}
+{{learnlist/levelf/7|Zangoose|Normal|Normal|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Zangoose|Normal|Normal|3}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Zangoose|Normal|Normal|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Zangoose|Normal|Normal|3}}
+{{learnlist/breed7|{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|652|Chesnaught}}|Belly Drum|Normal|Status|—|—|10|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|203|Girafarig}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|473|Mamoswine}}|Double Hit|Normal|Physical|35|90|10||'''}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|034|Nidoking}}{{MSP|135|Jolteon}}{{MSP|256|Combusken}}{{MSP|257|Blaziken}}<br>{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|725|Litten}}{{MSP|726|Torracat}}<br>{{MSP|727|Incineroar}}{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/breed7|{{MSP|025|Pikachu}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|083|Farfetch'd}}<br>{{MSP|336|Seviper}}{{MSP|352|Kecleon}}{{MSP|359|Absol}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}{{MSP|434|Stunky}}<br>{{MSP|435|Skuntank}}{{MSP|448|Lucario}}{{MSP|652|Chesnaught}}|Feint|Normal|Physical|30|100|10||'''}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|057|Primeape}}|Final Gambit|Fighting|Special|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|231|Phanpy}}{{MSP|263|Zigzagoon}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}<br>{{MSP|324|Torkoal}}{{MSP|327|Spinda}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}<br>{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|775|Komala}}|Flail|Normal|Physical|&mdash;|100|15||'''}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}<br>{{MSP|053A|Persian}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|161|Sentret}}<br>{{MSP|162|Furret}}{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|216|Teddiursa}}<br>{{MSP|217|Ursaring}}{{MSP|264|Linoone}}{{MSP|288|Vigoroth}}{{MSP|352|Kecleon}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}<br>{{MSP|392|Infernape}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|509|Purrloin}}<br>{{MSP|510|Liepard}}{{MSP|511|Pansage}}{{MSP|512|Simisage}}{{MSP|513|Pansear}}{{MSP|514|Simisear}}{{MSP|515|Panpour}}<br>{{MSP|516|Simipour}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}{{MSP|570|Zorua}}{{MSP|571|Zoroark}}{{MSP|613|Cubchoo}}<br>{{MSP|614|Beartic}}{{MSP|631|Heatmor}}{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}|Fury Swipes|Normal|Physical|18|80|15||'''}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|111|Rhyhorn}}{{MSP|179|Mareep}}|Iron Tail|Steel|Physical|100|75|15|*}}
+{{learnlist/breed7|{{MSP|027A|Sandshrew}}{{MSP|028A|Sandslash}}{{MSP|050A|Diglett}}{{MSP|051A|Dugtrio}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}<br>{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|448|Lucario}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/breed7|{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|083|Farfetch'd}}{{MSP|336|Seviper}}{{MSP|359|Absol}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|461|Weavile}}<br>{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|571|Zoroark}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|448|Lucario}}{{MSP|619|Mienfoo}}{{MSP|678|Meowstic}}{{MSP|745|Lycanroc}}|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|274|Nuzleaf}}{{MSP|359|Absol}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}|Razor Wind|Normal|Special|80|100|10||'''}}
+{{learnlist/breedf/7|Zangoose|Normal|Normal|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Zangoose|Normal|Normal|3}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Zangoose|Normal|Normal|3}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/PinballRS|col=3|type=Normal|ndex=335|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=335|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=335
+|body=1
+|rate=7.2
+|area=Wild Plains
+|P1=Cooperating with {{p|Seviper}} is one thing I won't do!
+|P2=Dang it... My health is down by half already...
+|P3=I've had it... My claws are chipping...
+|PL=Hah, I leveled up! I can't fall behind Seviper!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=335
+|body=1
+|rate=6.4
+|IQ=C
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=4
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=335
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=335|num=270
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Hitting Streak
+|skilldesc=Increases damage when it is triggered in a row.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=335
+|buddy=3
+|evolution=N/A
+|stamina=146
+|attack=222
+|defense=124
+|fast={{m|Fury Cutter}}, {{m|Shadow Claw}}
+|special={{m|Close Combat}}, {{m|Night Slash}}, {{m|Dig}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Normal
+|pictype=art
+|no1=335
+|name1=Zangoose
+|type1-1=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=335}}
+{{Spritebox/4|ndex=335}}
+{{Spritebox/5|ndex=335}}
+{{Spritebox/6|ndex=335}}
+{{Spritebox/7|ndex=335}}
+{{Spritebox/Footer|335|Zangoose}}
+
+==Trivia==
+* Zangoose and its rival {{p|Seviper}} share several characteristics, such as being in the {{egg|Field}} Egg Group, residing in the same [[Friend Area]], and being the only two Pokémon with a base stat total of 458.
+** Zangoose and Seviper also have the exact opposite [[Experience]] group, with Zangoose being in the Erratic group and Seviper being in the Fluctuating group.
+
+===Origin===
+Zangoose is based on the {{wp|mongoose}}, a cat-like carnivore that is well known for its ability to hunt and kill venomous snakes. It also bears physical resemblance to the Angora and Persian cat breeds. The rivalry it shares with Seviper is based on the relationship between both cats and mongooses towards {{wp|snake}}s.
+
+====Name origin====
+Zangoose is a combination of 刪 ''san'' (cut down) and ''mongoose''. It may also derive from 残痕 ''zankon'' (scar) due to the markings on its body.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ザングース ''Zangoose''|jameaning=From {{tt|刪 ''san''|cut down}}, {{tt|残痕 ''zankon''|scar}}, {{tt|''zangado''|Portuguese for ''angry''}}, and ''mongoose''
+|fr=Mangriff|frmeaning=From {{tt|''mangouste''|mongoose}} and {{tt|''griffe''|claw}}
+|es=Zangoose|esmeaning=Same as English name
+|de=Sengo|demeaning=From {{tt|''Sense''|scythe}} and {{tt|''Mungo''|mongoose}}
+|it=Zangoose|itmeaning=Same as English name
+|ko=쟝고 ''Zanggo''|komeaning=Corruption of Japanese name
+|zh_cmn=貓鼬斬 / 猫鼬斩 ''Māoyòuzhǎn''|zh_cmnmeaning=From {{tt|貓鼬 ''māoyòu''|mongoose}} and {{tt|斬 ''zhǎn''|to behead/chop}}
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=334|prev=Altaria|nextnum=336|next=Seviper}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:F.E.A.R.-compatible Pokémon]]
+
+[[de:Sengo]]
+[[fr:Mangriff]]
+[[it:Zangoose]]
+[[ja:ザングース]]
+[[pl:Zangoose]]
+[[zh:猫鼬斩]]

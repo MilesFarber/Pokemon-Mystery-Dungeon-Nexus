@@ -1,0 +1,664 @@
+{{PokémonPrevNext/Head|type=Ground|type2=Rock}}
+{{PokémonPrevNext/GO|species=Rhydon}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=111|prev=Rhyhorn|nextnum=113|next=Chansey|round=none}}
+{{PokémonPrevNext/Disambig|species=Rhydon}}
+|}
+{{Pokémon Infobox
+|name=Rhydon
+|jname=サイドン
+|jtranslit=Saidon
+|tmname=Sidon
+|ndex=112
+|oldjdex=207
+|jdex=212
+|hdex=170
+|hdex6=177
+|sdex=187
+|karea=Coastal
+|kdex=051
+|fbrow=063
+|abrow=150
+|typebox=1
+|type1=Ground
+|type2=Rock
+|category=Drill
+|height-ftin=6'03"
+|height-m=1.9
+|weight-lbs=264.6
+|weight-kg=120.0
+|abilityn=d
+|ability1=Lightning Rod
+|ability2=Rock Head
+|abilityd=Reckless
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Field
+|eggcycles=20
+|evtotal=2
+|evat=2
+|expyield=170
+|oldexp=204
+|lv100exp=1,250,000
+|gendercode=127
+|color=Gray
+|catchrate=60
+|body=06
+|pokefordex=rhydon
+|generation=1
+|friendship=70
+}}
+'''Rhydon''' ([[List of Japanese Pokémon names|Japanese]]: '''サイドン''' ''Sidon'') is a dual-type {{2t|Ground|Rock}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Rhyhorn}} starting at [[level]] 42 and evolves into {{p|Rhyperior}} when [[trade]]d holding a [[Protector]].
+
+==Biology==
+[[File:Scientist Rhydon Surf.png|thumb|left|200px|Rhydon {{m|surf}}ing]]
+Rhydon is a large, gray, bipedal Pokémon with features of both dinosaurs and rhinoceroses. It has a cream-colored, drill-like horn on its snout, the female having a smaller horn than the male. There are other protrusions on the head as well, including a spike curving forward from the middle of its head, two triangular, points resembling ears to the sides, a wide, wavy crest under the ears, and spiky ridges on its cheeks. It has red eyes and two fangs protruding from its upper jaw. It has a cream-colored stomach and a row of spikes down its back. Rhydon has a long tail with skinny, black stripes.
+
+Rhydon is a physically powerful Pokémon. It is recorded as being able to topple buildings with a sweeping blow of its tail, and its horn is able to bore through solid rock and shatter diamonds. Rhydon is protected from heat and physical blows by its armor-like hide. It is stated to be capable of passing unscathed through streams of magma and withstanding a direct blow from a cannonball without being harmed. However, because of this tough hide, it is insensitive. Rhydon has a well-developed brain, but can also be forgetful. It lives in {{DL|List of Pokémon by habitat|rough terrain}}.
+{{left clear}}
+
+==In the anime==
+===In the main series===
+[[File:Team Rocket Rhydon.png|thumb|left|250px|Rhydon in the {{pkmn|anime}}]]
+====Major appearances====
+A Rhydon appeared in ''[[EP058|Riddle Me This]]'', being one of [[Blaine]]'s Pokémon. Blaine used Rhydon against {{Ash}} during the first battle for Ash's {{badge|Volcano}}. It briefly battled {{AP|Charizard}} who then refused to battle. While normally tough against {{t|Electric}} attacks, Rhydon was defeated when {{AP|Pikachu}} struck Rhydon's horn, which acted like a lightning rod. It reappeared in flashbacks in ''[[EP059|Volcanic Panic]]'' and ''[[EP073|Bad to the Bone]]''.
+
+{{an|Giovanni}} owns a Rhydon that he loaned to [[Jessie]] and [[James]] in ''[[EP063|The Battle of the Badge]]'', where it was used to battle Ash. It was defeated by {{AP|Pidgeotto}} and then Pikachu.
+
+[[Giant Pokémon|Giant]] Rhydon were seen on [[Fairchild Island]] in ''[[EP104|Bound For Trouble]]''.
+
+''[[EP204|Right On, Rhydon!]]'' featured a Rhydon that knew {{m|Surf}}. It was eventually caught by [[Pietra]].
+
+Pikachu and {{TP|Paul|Chimchar}} battled a Rhydon belonging to a {{tc|Scientist}} and a {{p|Magmar}} belonging to an {{tc|Ace Trainer}} during the [[Hearthome City Tag Battle Competition]] in ''[[DP050|Tag! We're It...!]]''. Rhydon had {{a|Lightning Rod}}, which left Pikachu's Electric [[Move|attacks]] useless, but Pikachu was able to defeat Rhydon with {{m|Iron Tail}}.
+
+In ''[[DP057|Bibarel Gnaws Best!]]'', the [[head engineer]] owned a Rhydon. It was used in order to drill out rocks for the bridge, but the Drill Pokémon was quickly attacked and defeated by {{p|Bibarel}}. When Bibarel was cornered, Ash's Pikachu used Iron Tail to finish Rhydon for good.
+
+A Rhydon appeared in ''[[BW096|Meloetta and the Undersea Temple!]]'', under the ownership of a {{tc|Team Rocket Grunt}}. It was used alongside a {{p|Golem}} to capture {{an|Meloetta}}. It was stopped from doing so, however, by [[Ridley]] and his {{p|Golurk}}. Though the full battle wasn't shown onscreen, it seemed that Golurk defeated Rhydon.
+
+====Minor appearances====
+A mechanical Rhydon appeared in ''[[EP017|Island of the Giant Pokémon]]'' as a part of [[Pokémon Land]].
+
+Rhydon physically debuted in the [[Banned episodes|banned episode]] [[EP035]], as one of the Pokémon seen in the {{safari|Kanto}}.
+
+Rhydon's English dub debut was in ''[[EP042|Showdown at Dark City]]'', where it was under the ownership of one of the Trainers at [[Dark City|Kaz Gym]].
+
+A Rhydon was among the Pokémon seen at [[Professor Oak's Laboratory]] in ''[[EP065|Showdown at the Po-ké Corral]]''.
+
+A Trainer named [[Assunta]] used a Rhydon to battle [[Ritchie]] in ''[[EP080|Friends to the End]]''.
+
+Multiple {{DL|List of alternately colored Pokémon in the anime|Pink Pokémon|pink}} Rhydon resided on the [[Pinkan Island]] in ''[[EP088|In the Pink]]''.
+
+[[Nurse Joy]]'s expedition crew had two Rhydon to help look for {{p|Kabuto}} Fossils in ''[[EP089|Shell Shock!]]''.
+
+A Rhydon belonging to [[Rudy]] made a cameo appearance in ''[[EP103|Misty Meets Her Match]]''.
+
+A Rhydon appeared in ''[[M02|The Power of One]]''.
+
+Multiple Rhydon were seen at [[Professor Oak's Laboratory]] in ''[[EP116|The Rivalry Revival]]''.
+
+A Rhydon was one of the Pokémon competing in the Pokémon Sumo Wrestling in ''[[EP194|Ring Masters]]''.
+
+A Rhydon also appeared in ''[[M04|Celebi: The Voice of the Forest]]''.
+
+In ''[[EP228|Extreme Pokémon!]]'', a Rhydon appeared with its Trainer, participating in the [[Extreme Pokémon Race]].
+
+A Rhydon was one of the Pokémon that fought in a battle as seen in a flashback in ''[[EP265|Pop Goes The Sneasel]]''.
+
+A Trainer's Rhydon was the last Pokémon that [[Jon Dickson]]'s {{p|Rapidash}} had to beat in order to win the [[Silver Conference]] Trophy in ''[[EP272|Johto Photo Finish]]''.
+
+{{an|Brock}}'s dad, {{ka|Flint}}, has a Rhydon, but it was just mentioned in ''[[SS001|A Family That Battles Together Stays Together!]]''. Flint mostly used his Rhydon for helping him decorate the [[Pewter Gym]]'s battlefield with rocks from mountaintops.
+
+A Rhydon was owned by a [[demolition crew]] (which was changed into a construction crew due to [[Ritchie]] changing the past) in ''[[SS013|Celebi and Joy!]]''.
+
+A {{pkmn|Trainer}}'s Rhydon appeared in ''[[AG129|A Judgment Brawl]]''.
+
+A Rhydon made a cameo appearance in ''[[AG135|Numero Uno Articuno]]'' as one of {{FB|Factory Head|Noland}}'s Pokémon.
+
+A {{pkmn|Coordinator}}'s Rhydon appeared in ''[[AG160|Harley Rides Again]]'', where it was participating in the [[Wisteria Town]] [[Pokémon Contest]].
+
+Multiple Rhydon appeared in ''[[M08|Lucario and the Mystery of Mew]]'' as part of the feuding armies.
+
+A Rhydon made a small appearance in ''[[M10|The Rise of Darkrai]]'' as one of the Pokémon {{OBP|Darkrai|M10}} hit with a {{m|Dark Void}}.
+
+A Rhydon appeared in ''[[M20|I Choose You!]]'', where it was among the Pokémon that were under the control of {{OBP|Marshadow|M20}}.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP058|Rhydon|Ash's Pokédex|Rhydon, the evolved form of {{p|Rhyhorn}}. It is known as the Drill Pokémon. Its large horn gives it formidable attack power.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+
+[[File:Giovanni Rhydon PO.png|thumb|left|220px|Rhydon in [[Pokémon Origins]]]]
+[[File:Blue Rhydon PG.png|thumb|220px|Rhydon in [[Pokémon Generations]]]]
+
+===In Pokémon Origins===
+[[Giovanni]] used a Rhydon in ''[[PO03|File 3: Giovanni]]'' to battle against [[Red's Charizard]] and lost.
+
+{{OBP|Blue|Origins}}'s Rhydon was briefly seen in ''[[PO04|File 4: Charizard]]'' where it battled {{OBP|Red|Origins}}'s {{p|Lapras}} and lost.
+
+===In Pokémon Generations===
+{{ga|Blue}} owns a Rhydon, which appeared in ''[[PG03|The Challenger]]''. He used it during his [[Indigo Plateau|Pokémon League]] battle against [[Agatha]], where it was seen taking on her {{p|Arbok}} and {{TP|Agatha|Gengar}}. It managed to defeat Arbok, but it is unclear if it won against Gengar as well, for the outcome of that battle was never shown onscreen. Whatever the case, Blue eventually managed to defeat Agatha, allowing him to progress to [[Lance]]'s room.
+
+Two Rhydon appeared during a flashback in ''[[PG18|The Redemption]]'', where they were seen petrified after the [[ultimate weapon]] was used by [[AZ]] to end the great war of [[Kalos]], 3,000 years previously.
+{{-}}
+
+==In the manga==
+===In the Pokémon Adventures manga===
+{{Main|Blue's Rhydon}}
+[[File:Koga Rhydon Adventures.png|thumb|200px|Rhydon in [[Pokémon Adventures]]]]
+Rhydon debuts in ''[[PS007|Raging Rhydon]]'', as [[Koga]]'s Pokémon that is forced to evolve by its Trainer with a mysterious injection, being the first evolution shown in the manga due to {{adv|Red}}'s [[Poli]]whirl and [[Blue's Charmander]] evolving off-screen at the time.
+
+Later in ''[[PS016|Tauros the Tyrant]]'', a Team Rocket Grunt used a Rhydon in an attempt to catch {{adv|Green}}.
+
+In ''[[PS018|A Tale of Ninetales]]'', a wild Rhydon attacked two of {{adv|Blue}}'s fan girls.
+
+Rhydon is later seen as one of {{adv|Giovanni}}'s Pokémon in ''[[PS038|Long Live the Nidoqueen!?]]'', where he used Fissure to trap Red.
+
+In ''[[PS106|How Do You Do, Sudowoodo?]]'' {{adv|Gold}} encounters a wild Rhydon during his race with [[Whitney]]. The Rhydon in question was hunting down a {{p|Sudowoodo}} hiding from it, and kidnapped Whitney when she interfered with her {{p|Miltank}}, breaking her arm in the process. Gold tells Sudowoodo to stand up for itself and, with assistance from his billiard cue, helps Sudowoodo defeat the Rhydon with a strong punch to the gut.
+
+In ''[[PS116|Rock, Paper...Scizor]]'', {{adv|Blue}} captures a Rhydon outside the [[Viridian Gym]]. He uses him to defeat [[Chuck]] in ''[[PS162|Heckled by Hitmontop]]'', as well as [[Orm]] in ''[[PS279|Don't Doubt Deoxys]]''. Near the end of the FireRed and LeafGreen saga, Blue remarks on a footnote Giovanni included in his handbook: Rhydon possibly possessed a stronger form. This is a reference to Rhydon's new evolution, {{p|Rhyperior}}, an evolution that succeeded in occurring thanks to {{adv|Silver}}'s knowledge of Pokémon trading, resulting in the same Rhydon, as Rhyperior, being on hand with him until being returned to Blue later on.
+
+A Trainer's Rhydon appeared in ''[[PS418|Deprogramming Porygon-Z]]'' and ''[[PS421|Clobbering Claydol]]''.
+
+Multiple Rhydon appeared in ''[[PS484|All About Arceus III]]''.
+
+===In the Pokémon Zensho manga===
+Giovanni's Rhydon was {{Zensho|Satoshi}}'s opponent for his final Gym battle. It went up against [[Satoshi's Charizard (Zensho)|his Charizard]] and was defeated.
+
+===In the Pokémon Pocket Monsters manga===
+{{OBP|Giovanni|Pocket Monsters}}'s Rhydon was used in the Gym battle against {{OBP|Red|Pocket Monsters}} in ''[[PM031|Get The Last Badge!!]]''.
+
+===In The Electric Tale of Pikachu manga===
+Gary has a Rhydon which was sent out with his other Pokémon to battle the giant Slowpoke in ''[[ET19|Ash vs. Gary]]''.
+
+==In the TCG==
+{{main|Rhydon (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]]: Rhydon leads an unnamed rescue team which gathers at [[Pokémon Square]] just before the player and partner are able to access [[Magma Cavern]].
+===Pokédex entries===
+{{Dex/Header|type=ground|type2=rock}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Protected by an armor-like hide, it is capable of living in molten lava of {{tt|3,600 degrees|of Fahrenheit; 2000 degrees of Celsius}}.}}
+{{Dex/Entry1|v=Yellow|entry=Walks on its hind legs. Shows signs of intelligence. Its armor-like hide even repels molten lava.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Protected by an armor-like hide, it can survive in lava over {{tt|3,600 degrees|of Fahrenheit; 2000 degrees of Celsius}}. Its horn can bore holes through boulders.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Its rugged hide protects it from even the heat of lava. However, the hide also makes it insensitive.}}
+{{Dex/Entry1|v=Silver|entry=Its brain developed when it began walking on hind legs. Its thick hide protects it even in magma.}}
+{{Dex/Entry1|v=Crystal|entry=By lightly spinning its drill-like horn, it can easily shatter even a diamond in the rough.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Its rugged hide protects it from even the heat of lava. However, the hide also makes it insensitive.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Rhydon has a horn that serves as a drill. It is used for destroying rocks and boulders. This Pokémon occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.}}
+{{Dex/Entry1|v=FireRed|entry=It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.}}
+{{Dex/Entry1|v=LeafGreen|entry=Protected by an armor-like hide, it is capable of living in molten lava of {{tt|3,600 degrees|of Fahrenheit; 2000 degrees of Celsius}}.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=Its brain developed after it stood up on its hind legs. Its drill horn bores tunnels through solid rock.}}
+{{Dex/Entry1|v=Platinum|entry=Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.}}
+{{Dex/Entry1|v=HeartGold|entry=Its rugged hide protects it from even the heat of lava. However, the hide also makes it insensitive.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its brain developed when it began walking on hind legs. Its thick hide protects it even in magma.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Protected by an armor-like hide, it is capable of living in molten lava of {{tt|3,600 degrees Fahrenheit|2,000 degrees Celsius}}.}}
+{{Dex/Entry1|v=Y|entry=It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Rhydon's horn can crush even uncut diamonds. One sweeping blow of its tail can topple a building. This Pokémon's hide is extremely tough. Even direct cannon hits don't leave a scratch.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=Rhydon has a horn that serves as a drill. It is used for destroying rocks and boulders. This Pokémon occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=ground|type2=rock}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Cerulean Cave]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Cerulean Cave]]}}
+{{Availability/Entry1|v=Yellow|area=[[Cerulean Cave]]<br>[[Trade]] {{p|Golduck}} on [[Cinnabar Island]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Trade]] {{p|Dragonair}}{{female}} in [[Blackthorn City]]}}
+{{Availability/Entry1|v=Crystal|area={{ka|Victory Road}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Rhyhorn}}}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[Evolution|Evolve]] {{p|Rhyhorn}}}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Rhyhorn}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=fff|link=Pokémon XD: Gale of Darkness|area=[[Citadark Isle]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|227|Sinnoh}} and {{rtn|228|Sinnoh}}, [[Stark Mountain]]}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|227|Sinnoh}} and {{rtn|228|Sinnoh}}, {{si|Victory Road}}, [[Stark Mountain]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Rhyhorn}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Rhyhorn}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Rock-type Safari|Rock]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Rhyhorn}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Rhyhorn}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Rhyhorn}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=ground|type2=rock}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Rhyhorn}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Rhyhorn}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 15, Forever Level 64, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Rhyhorn}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Jungle Relic]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Volcano Cave]], [[Haruba Desert]], [[Altru Tower]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Rocky Cave]] <small>(Normal Mode B & S, Advanced Mode C & A)</small>}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Desert: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Terrera]], [[Cragspur]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Variety Battle#It's Drill Time!|Variety Battle: It's Drill Time!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 2|Infinite Ruins: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 381]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Rock Chasm|Diamond Crater: Rock Chasm]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=ground|type2=rock
+|rby1=Silver Leaf|rby1type=None|rby=100|rby1image=no
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=105
+|Attack=130
+|Defense=120
+|SpAtk=45
+|SpDef=45
+|Special=45
+|Speed=40
+|type=Ground
+|type2=Rock}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ground
+|type2=Rock
+|Speed=2
+|SpeedMax=2
+|Power=4
+|PowerMax=5
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=ground
+|type2=rock
+|Normal=50
+|Flying=50
+|Fighting=200
+|Ground=200
+|Rock=50
+|Bug=100
+|Poison=25
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=400
+|Grass=400
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=lightningrod
+|newelectric=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Rhydon|Ground|Rock|1}}
+{{learnlist/level7|1|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/level7|1|Horn Drill|Normal|Physical|&mdash;|30|5}}
+{{learnlist/level7|1|Horn Attack|Normal|Physical|65|100|25}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/level7|1|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/level7|5|Fury Attack|Normal|Physical|15|85|20}}
+{{learnlist/level7|9|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|13|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level7|17|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level7|21|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level7|25|Chip Away|Normal|Physical|70|100|20}}
+{{learnlist/level7|29|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/level7|33|Drill Run|Ground|Physical|80|95|10||'''}}
+{{learnlist/level7|37|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|41|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level7|48|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|55|Megahorn|Bug|Physical|120|85|10}}
+{{learnlist/level7|62|Horn Drill|Normal|Physical|&mdash;|30|5}}
+{{learnlist/levelf/7|Rhydon|Ground|Rock|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Rhydon|Ground|Rock|1}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM67|Smart Strike|Steel|Physical|70|&mdash;|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Rhydon|Ground|Rock|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Rhydon|Ground|Rock|2}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|024|Arbok}}{{MSP|058|Growlithe}}<br>{{MSP|143|Snorlax}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|203|Girafarig}}{{MSP|209|Snubbull}}<br>{{MSP|210|Granbull}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}<br>{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|303|Mawile}}{{MSP|336|Seviper}}{{MSP|365|Walrein}}<br>{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|403|Shinx}}<br>{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|419|Floatzel}}{{MSP|445|Garchomp}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}<br>{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|511|Pansage}}<br>{{MSP|513|Pansear}}{{MSP|515|Panpour}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}{{MSP|559|Scraggy}}<br>{{MSP|560|Scrafty}}{{MSP|621|Druddigon}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}<br>{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}{{MSP|713|Avalugg}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|744|Rockruff}}<br>{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/breed7|{{MSP|028|Sandslash}}{{MSP|335|Zangoose}}|Crush Claw|Normal|Physical|75|95|10}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}<br>{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|712|Bergmite}}<br>{{MSP|713|Avalugg}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|443|Gible}}{{MSP|444|Gabite}}{{MSP|445|Garchomp}}|Dragon Rush|Dragon|Physical|100|75|10}}
+{{learnlist/breed7|{{MSP|004|Charmander}}{{MSP|005|Charmeleon}}{{MSP|006|Charizard}}{{MSP|024|Arbok}}{{MSP|058|Growlithe}}{{MSP|059|Arcanine}}<br>{{MSP|136|Flareon}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|232|Donphan}}<br>{{MSP|248|Tyranitar}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|310|Manectric}}{{MSP|445|Garchomp}}{{MSP|450|Hippowdon}}<br>{{MSP|508|Stoutland}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}{{MSP|725|Litten}}<br>{{MSP|726|Torracat}}{{MSP|727|Incineroar}}|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/breed7|{{MSP|327|Spinda}}{{MSP|410|Shieldon}}|Guard Split|Psychic|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}<br>{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|248|Tyranitar}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|365|Walrein}}<br>{{MSP|419|Floatzel}}{{MSP|450|Hippowdon}}{{MSP|471|Glaceon}}{{MSP|508|Stoutland}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}<br>{{MSP|232|Donphan}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}|Magnitude|Ground|Physical|&mdash;|100|30||'''}}
+{{learnlist/breed7|{{MSP|028A|Sandslash}}{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}|Metal Burst|Steel|Physical|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|288|Vigoroth}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|626|Bouffalant}}{{MSP|745Mn|Lycanroc}}{{MSP|766|Passimian}}|Reversal|Fighting|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|621|Druddigon}}{{MSP|744|Rockruff}}{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Rock Climb|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|264|Linoone}}{{MSP|400|Bibarel}}{{MSP|428|Lopunny}}{{MSP|505|Watchog}}<br>{{MSP|530|Excadrill}}{{MSP|660|Diggersby}}{{MSP|749|Mudbray}}{{MSP|750|Mudsdale}}|Rototiller|Ground|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|713|Avalugg}}|Skull Bash|Normal|Physical|130|100|10}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|059|Arcanine}}{{MSP|135|Jolteon}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|229|Houndoom}}<br>{{MSP|232|Donphan}}{{MSP|248|Tyranitar}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|309|Electrike}}{{MSP|310|Manectric}}<br>{{MSP|403|Shinx}}{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|450|Hippowdon}}{{MSP|508|Stoutland}}|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/breedf/7|Rhydon|Ground|Rock|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Rhydon|Ground|Rock|2}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10|||no|yes}}
+{{learnlist/tutor7|Drill Run|Ground|Physical|80|95|10||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Rhydon|Ground|Rock|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Rhydon|Ground|Rock|1}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Rhydon|Ground|Rock|1}}
+
+===Side game data===
+{{Spindata/Head|type=Ground|type2=Rock}}
+{{Spindata/Pinball|col=2|type=Ground|ndex=112|acquisition=Evolve|evolved=yes}}
+{{Spindata/PinballRS|col=2|type=Ground|ndex=112|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=2|type=Ground|ndex=112|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Ground|ndex=112
+|body=1
+|rate=Evolve
+|area=Safari
+|P1=There's nothing I can't punch my horn through!
+|P2=This is tough going. Already, my HP's gone to half.
+|P3=I'm about done... I have no energy left...
+|PL=Yes! I finally leveled! My horn's hardness went up, too!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ground|ndex=112
+|body=1
+|rate=-10
+|IQ=E
+}}
+|-
+{{Spindata/Ranger|col=6|type=Ground
+|group=Ground
+|assist=Ground
+|fieldpower=3
+|field=Crush
+|loop=8
+|MinEXP=45
+|MaxEXP=65
+|browser=Rhydon hurls big boulders that can shatter Rock Walls.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ground
+|group=Ground
+|assist=Ground
+|field=Tackle
+|fieldpower=3
+|browser=It throws around its body in a rampage. It rams to attack.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Ground
+|att=4
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Ground
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Ground|ndex=112
+|HP=4
+|atk=4
+|def=3
+|spd=2
+|range=2
+|move=Drill Run
+|ability1=Lightningrod
+|ability2=Bodyguard
+|ability3=Jagged Edge
+|evo=Evolves from {{p|Rhyhorn}} when its Attack is 108 or higher<br>Evolves into {{p|Rhyperior}} after knocking out a [[Warrior]]'s Pokémon in a manner that allows recruitment, while its own Warrior is equipped with a [[Protector]]
+|link={{DL|List of Pokémon Conquest characters|Masatoyo}} and {{DL|List of Pokémon Conquest characters|Shizuka}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ground|ndex=112
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Ground|ndex=112|num=535
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Power of 4
+|skilldesc=Increases damage when you make a match of four.
+}}
+|-
+{{Spindata/GO|col=6|type=Ground|ndex=112
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=210
+|attack=222
+|defense=206
+|fast={{m|Mud-Slap}}, {{m|Rock Smash}}
+|special={{m|Megahorn}}, {{m|Earthquake}}, {{m|Stone Edge}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Ground
+|type2=Rock
+|pictype=art
+|no1=111
+|name1=Rhyhorn
+|type1-1=Ground
+|type2-1=Rock
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 42}}
+|no2=112
+|name2=Rhydon
+|type1-2=Ground
+|type2-2=Rock
+|evo2={{bag|Protector}}<br>{{color2|000|Trade}}<br>holding {{color2|000|Protector}}
+|no3=464
+|name3=Rhyperior
+|type1-3=Ground
+|type2-3=Rock}}
+
+===Sprites===
+{{Spritebox/Header|type=Ground|type2=Rock}}
+{{Spritebox/1|ndex=112}}
+{{Spritebox/2|ndex=112}}
+{{Spritebox/3|ndex=112}}
+{{Spritebox/4/Gender|ndex=112}}
+{{Spritebox/5/Gender|ndex=112}}
+{{Spritebox/6/Gender|ndex=112}}
+{{Spritebox/7/Gender|ndex=112}}
+{{Spritebox/Footer|112|Rhydon}}
+
+==Trivia==
+[[File:Early Rhydon.jpg|thumb|220px|[[Capsule Monsters|Early sketches]] of Rhydon]]
+* [http://www.nintendo.co.jp/nom/0007/gfreak/page02.html According to interviews with Ken Sugimori] ([http://www.glitterberri.com/pokemon-red-blue/game-freak-staff-interview/creating-the-pokemon/ translation]), Rhydon was the first Pokémon ever created. This is further supported as its [[list of Pokémon by index number (Generation I)|index number]] is 001 in [[Generation I]], as well as early sketches from [[Capsule Monsters]] featuring Rhydon.
+* [[Ash's Pikachu]] fought [[Blaine]]'s Rhydon in the [[Anime physics|anime and defeated it]], despite it being a {{type|Ground}} immune to {{t|Electric}} attacks. Rhydon's horn also serves as a {{a|Lightning Rod|lightning rod}} which negates electric attacks as of the rules for the Pokémon effect. Since then, that battle has been brought up frequently in comparisons between the games and anime and has spawned the popular (albeit misquoted) Pokémon Internet meme, "Pikachu! Aim for the horn!"
+* Since Rhydon's [[index number]] is 001 [[list of Pokémon by index number (Generation I)|in Generation I]], a [[glitch Pokémon]] with an index number of 000 or that is greater than 152 will [[Rhydon glitch|revert to Rhydon]] when its Pokédex entry is viewed.
+* Rhydon and its {{p|Rhyperior|evolution}} share their {{pkmn|category}} name with {{p|Nidoqueen}} and {{p|Nidoking}}. They are all known as the Drill Pokémon.
+
+===Origin===
+It appears to draw much of its inspiration from a {{wp|rhinoceros}} and some aspects of various dinosaurs, such as {{wp|ceratopsids}}.
+
+====Name origin====
+Rhydon may be a combination of ''{{wp|rhinoceros}}'' and ''don''. ''Rhy'' may also derive from the {{wp|igneous rock}} called ''{{wp|rhyolite}}'', alluding to Rhydon's Ground/Rock type combination. ''Don'', from the Latin ''dominus'', may emphasize Rhydon's being the final evolution of its line (pre-[[Generation IV]]), as it is a title akin to ''lord'' in several {{wp|Romance languages}}; ''-odon'', ultimately from ''ὀδούς'', the ancient Greek word for ''tooth'', is a suffix commonly used in {{wp|dinosaur}} names, and so Rhydon's name could be a reference to those prehistoric creatures as well.
+
+Sidon is a combination of 犀 ''sai'' (rhinoceros) and ''don''.
+
+==In other languages==
+{{Other languages|type=ground|type2=rock
+|ja=サイドン ''Sidon''|jameaning=From {{tt|犀 ''sai''|rhinoceros}} and ''don''
+|fr=Rhinoféros|frmeaning=From ''{{tt|rhinocéros|rhinoceros}}'' and ''{{tt|féroce|ferocious}}''
+|es=Rhydon|esmeaning=Same as English name
+|de=Rizeros|demeaning=Corruption of ''{{tt|Rhinozeros|rhinoceros}}''
+|it=Rhydon|itmeaning=Same as English name
+|ko=코뿌리 ''Koppuri''|komeaning=Literally "Nose horn" or from {{tt|코뿔소|rhino}}
+|zh_yue=鐵甲暴龍 ''Titgaapbouhlùhng''|zh_yuemeaning=Means "Armored ''{{wp|Tyrannosaurus}}''"
+|zh_cmn=鐵甲暴龍 / 铁甲暴龙 ''Tiějiǎbàolóng''|zh_cmnmeaning=Means "Armored ''Tyrannosaurus''"
+|hi=रएडॉन ''Rhydon''|himeaning=Transcription of English name
+|ru=Райдон ''Raydon''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Blue's Rhydon|Blue/Silver's Rhydon]]
+
+{{PokémonPrevNext/Head|type=Ground|type2=Rock}}
+{{PokémonPrevNext/Pokémon|type=Ground|prevnum=111|prev=Rhyhorn|nextnum=113|next=Chansey}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Pokémon with cross-generational evolutions]]
+[[Category:Pokémon that evolve through trading]]
+[[Category:Pokémon that evolve through held items]]
+[[Category:Pokémon that evolve by trading with a held item]]
+[[Category:Pokémon that evolve by trading holding Protector]]
+
+[[de:Rizeros]]
+[[fr:Rhinoféros]]
+[[it:Rhydon]]
+[[ja:サイドン]]
+[[pl:Rhydon]]
+[[zh:钻角犀兽]]

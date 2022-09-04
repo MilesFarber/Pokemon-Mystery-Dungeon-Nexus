@@ -1,0 +1,394 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=507|prev=Herdier|nextnum=509|next=Purrloin|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Stoutland}}
+|}
+{{Pokémon Infobox
+|name=Stoutland
+|jname=ムーランド
+|jtranslit=Mūrando
+|tmname=Mooland
+|category=Big-Hearted
+|type1=Normal
+|abilitylayout=2
+|ability1=Intimidate
+|ability2=Sand Rush
+|abilityd=Scrappy
+|ndex=508
+|udex=014
+|u2dex=024
+|adex=122
+|height-ftin=3'11"
+|height-m=1.2
+|weight-lbs=134.5
+|weight-kg=61.0
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|expyield=225<!--221 in Gen V-VI-->
+|lv100exp=1,059,860
+|gendercode=127
+|color=Gray
+|catchrate=45
+|evtotal=3
+|evat=3
+|body=08
+|pokefordex=stoutland
+|generation=5
+|friendship=70
+}}
+'''Stoutland''' ([[List of Japanese Pokémon names|Japanese]]: '''ムーランド''' ''Mooland'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Herdier}} starting at [[level]] 32. It is the final form of {{p|Lillipup}}.
+
+==Biology==
+Stoutland is a canine Pokémon with a talent for rescuing people lost at sea or in the mountains. On its face, it has cream-colored fur that forms voluminous, white-tipped plumes and a three-pointed crest. The plumes are so long that they run the length of its body and bunch close to it. It has tufty, pointed ears with dark blue insides, and black nose surrounded by short black whiskers, and small eyes that are nearly hidden behind its facial fur. Its body is covered with shaggy fur that is dark blue along the back and grayish blue toward the legs. Its face and paws are light brown, and each paw has three toes with white claws. Blue paw pads can also be seen on each paw in [[Pokédex 3D Pro]].
+
+Stoutland has an intelligent, good-natured, valiant, and trustworthy disposition, being a partner of choice for many. Its fur is thick enough to protect itself and others against freezing temperatures. Stoutland found in [[Alola]] look fairly uncomfortable however.
+
+==In the anime==
+===In the main series===
+[[File:Stoutland anime.png|thumb|250px|left|Stoutland in the {{pkmn|anime}}]]
+====Major appearances====
+=====[[Recurring wild Pokémon in the anime#Stoutland|Stoutland (anime)]]=====
+An old Stoutland debuted in ''[[SM007|That's Why the Litten is a Scamp!]]'', where it was living in an abandoned house with a wild {{AP|Litten}}. It reappeared in ''[[SM016|They Might Not Be Giants!]]'', this time living under a canal bridge, and again in ''[[SM021|One Journey Ends, Another Begins...]]'', in which its health had gotten bad and it was taken to [[Nurse Joy]] for treatment. After being discharged, Stoutland disappeared, leaving Litten upset.
+
+=====Other=====
+A Stoutland debuted in ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]''. In the latter movie, it was used by [[Glacine]] and [[Donuke]] to pull their sled in the snowbound village in the latter, while it made a brief cameo appearance in the former movie while fulfilling a similar role.
+
+A Stoutland made its main series debut in ''[[BW039|Reunion Battles In Nimbasa!]]'', under the ownership of [[Burgundy]]. It was used in a battle against Ash, where it faced off against {{AP|Palpitoad}} during the first round of the [[Club Battle]], but it lost.
+
+A Stoutland appeared in ''[[BW105|Lost at the League!]]''.
+
+A Stoutland appeared in ''[[SS026|Mewtwo — Prologue to Awakening]]'', under the ownership of {{un|Oscar}}.
+
+Multiple Stoutland appeared in ''[[SM032|Treasure Hunt, Akala Style!]]'', with some of them being [[Poké Ride]] Stoutland.
+
+====Minor appearances====
+A Stoutland appeared in ''[[M15|Kyurem VS. The Sword of Justice]]'', during the {{OBP|Swords of Justice|M15}} legend.
+
+A Stoutland appeared in ''[[BW090|Jostling for the Junior Cup!]]'', where it was seen participating in the [[Pokémon World Tournament Junior Cup]].
+
+A Stoutland appeared in ''[[BW102|Team Eevee and the Pokémon Rescue Squad!]]'', under the ownership of [[Davy]].
+
+A Trainer's Stoutland appeared in ''[[BW103|Curtain Up, Unova League!]]''.
+
+A Stoutland appeared in [[SS027]].
+
+A Stoutland appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW039|Stoutland|Ash's Pokédex|Stoutland, the Big-Hearted Pokémon and the evolved form of Herdier. Stoutland is very wise and is skilled in rescuing people stranded in the mountains or at sea.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+===In the Pokémon Black 2 and White 2 Animated Trailer===
+[[File:Cheren Stoutland Animated Trailer.png|thumb|250px|Stoutland in the animated trailer]]
+A Stoutland appeared in the [[Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer]], under the ownership of [[Cheren]]. It battled against {{ga|Rosa}}'s {{p|Serperior}} in a [[Gym]] {{pkmn|battle}}.
+{{-}}
+
+==In the manga==
+[[File:Lenora Stoutland Adventures.png|thumb|Stoutland in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+[[Bianca's father]] has a Stoutland, which {{adv|Black}}, {{adv|Cheren}}, and {{adv|Bianca}} used as children to practice {{pkmn|battle|battling}} behind his back. It appeared in a flashback in ''[[PS463|A Nickname for Tepig]]''.
+
+[[Lenora]] has a Stoutland which she has owned since it was a Lillipup. It was used in Lenora's battle against {{adv|Black}} in ''[[PS472|Wheeling and Dealing]]''.
+
+==In the TCG==
+{{main|Stoutland (TCG)}}
+{{right clear}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.}}
+{{Dex/Entry1|v=White|entry=This extremely wise Pokémon excels at rescuing people stranded at sea or in the mountains.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.}}
+{{Dex/Entry1|v=Y|entry=Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Intelligent, good-natured, and valiant, it's a trustworthy partner on rescue teams.}}
+{{Dex/Entry1|v=Moon|entry=With this wise Pokémon, there could be no concern that it would ever attack people. Some parents even trust it to babysit.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It pays no mind to the cold, thanks to its long warm coat. Stoutland in Alola look a little uncomfortable.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its fur is long and thick. A long time ago in cold regions, every household kept a Stoutland.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|10|Unova}}, [[Cold Storage]], [[P2 Laboratory]] ({{DL|Phenomenon|Rustling grass}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|1|Unova}}, {{rtn|2|Unova}}, and {{rtn|3|Unova}}, [[P2 Laboratory]] ({{DL|Phenomenon|Rustling grass}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Herdier}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Herdier}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Herdier}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Herdier}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Glacier Palace - Western Spire]] (1F-12F), [[Miragesands]] (1F-29F), [[Moonlit Forest]] (Mapless Street), [[Rusty Mountain]] (1F-24F), [[Jaws of the Abyss]] (Golden Chamber), [[Smoking Mountain]] (Golden Chamber), [[Cape at the Edge]] (B1-B29), high difficulty Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Dream Gate#Wet and Wild Battle|Dream Gate: Wet and Wild Battle]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Saturday Stage 3|Safari Jungle: Stage 3]]{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 678]]<br>Event: [[Special Stages#13th release|''Pokémon Safari'']] <small>(13th release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Flowery Wooded Dell|Fairy Land: Flowery Wooded Dell]] <small>(Center Boss, Back)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+=====Generation V=====
+{{Base stats
+|HP=85
+|Attack=100
+|Defense=90
+|SpAtk=45
+|SpDef=90
+|Speed=80
+|type=Normal
+}}
+
+=====Generation VI onward=====
+{{Base stats
+|HP=85
+|Attack=110
+|Defense=90
+|SpAtk=45
+|SpDef=90
+|Speed=80
+|type=Normal
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Flying=100
+|Fighting=200
+|Ground=100
+|Rock=100
+|Bug=100
+|Poison=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Stoutland|Normal|Normal|5}}
+{{learnlist/level7|1|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/level7|1|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/level7|1|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Odor Sleuth|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|5|Odor Sleuth|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|8|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|12|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|15|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level7|20|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|24|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|29|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|36|Retaliate|Normal|Physical|70|100|5||'''}}
+{{learnlist/level7|42|Reversal|Fighting|Physical|&mdash;|100|15}}
+{{learnlist/level7|51|Last Resort|Normal|Physical|140|100|5||'''}}
+{{learnlist/level7|59|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/level7|63|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/levelf/7|Stoutland|Normal|Normal|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Stoutland|Normal|Normal|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Stoutland|Normal|Normal|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Stoutland|Normal|Normal|5}}
+{{learnlist/breed7|{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|572|Minccino}}{{MSP|765|Oranguru}}|After You|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|133|Eevee}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|216|Teddiursa}}{{MSP|231|Phanpy}}{{MSP|300|Skitty}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|572|Minccino}}<br>{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|613|Cubchoo}}{{MSP|676|Furfrou}}{{MSP|678|Meowstic}}{{MSP|702|Dedenne}}|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|231|Phanpy}}{{MSP|288|Vigoroth}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|058|Growlithe}}{{MSP|059|Arcanine}}{{MSP|136|Flareon}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}<br>{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|232|Donphan}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|310|Manectric}}<br>{{MSP|450|Hippowdon}}{{MSP|508|Stoutland}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}<br>{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/breed7|{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}<br>{{MSP|295|Exploud}}{{MSP|309|Electrike}}{{MSP|310|Manectric}}{{MSP|653|Fennekin}}{{MSP|654|Braixen}}{{MSP|655|Delphox}}<br>{{MSP|744|Rockruff}}{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Howl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|221|Piloswine}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}<br>{{MSP|365|Walrein}}{{MSP|419|Floatzel}}{{MSP|450|Hippowdon}}{{MSP|471|Glaceon}}{{MSP|473|Mamoswine}}{{MSP|508|Stoutland}}|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/breed7|{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|336|Seviper}}{{MSP|352|Kecleon}}<br>{{MSP|511|Pansage}}{{MSP|512|Simisage}}{{MSP|513|Pansear}}{{MSP|514|Simisear}}{{MSP|515|Panpour}}{{MSP|516|Simipour}}<br>{{MSP|631|Heatmor}}{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/breed7|{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}<br>{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}<br>{{MSP|553|Krookodile}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/breed7|{{MSP|235|Smeargle}}|Psychic Fangs|Psychic|Physical|85|100|10}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}<br>{{MSP|128|Tauros}}{{MSP|197|Umbreon}}{{MSP|206|Dunsparce}}{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|418|Buizel}}<br>{{MSP|419|Floatzel}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|570|Zorua}}<br>{{MSP|571|Zoroark}}{{MSP|587|Emolga}}{{MSP|626|Bouffalant}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}<br>{{MSP|083|Farfetch'd}}{{MSP|133|Eevee}}{{MSP|134|Vaporeon}}{{MSP|135|Jolteon}}{{MSP|136|Flareon}}{{MSP|196|Espeon}}<br>{{MSP|197|Umbreon}}{{MSP|470|Leafeon}}{{MSP|471|Glaceon}}{{MSP|700|Sylveon}}{{MSP|190|Aipom}}{{MSP|424|Ambipom}}<br>{{MSP|234|Stantler}}{{MSP|255|Torchic}}{{MSP|256|Combusken}}{{MSP|257|Blaziken}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}<br>{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}<br>{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}{{MSP|559|Scraggy}}<br>{{MSP|560|Scrafty}}{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|676|Furfrou}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}<br>{{MSP|744|Rockruff}}{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|024|Arbok}}{{MSP|059|Arcanine}}{{MSP|135|Jolteon}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|229|Houndoom}}<br>{{MSP|232|Donphan}}{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|309|Electrike}}{{MSP|310|Manectric}}{{MSP|403|Shinx}}<br>{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|450|Hippowdon}}{{MSP|508|Stoutland}}|Thunder Fang|Electric|Physical|65|95|15}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|206|Dunsparce}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|287|Slakoth}}<br>{{MSP|289|Slaking}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}<br>{{MSP|450|Hippowdon}}{{MSP|513|Pansear}}{{MSP|517|Munna}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|775|Komala}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Stoutland|Normal|Normal|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Stoutland|Normal|Normal|5}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutorf/7|Stoutland|Normal|Normal|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Stoutland|Normal|Normal|5}}
+{{learnlist/prevo7|506|Lillipup|||||Baby-Doll Eyes|Fairy|Status|&mdash;|100|30}}
+{{learnlist/prevof/7|Stoutland|Normal|Normal|5}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=508
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=508|num=649
+|min=70
+|max=130
+|raisemaxlevel=15
+|skill=Power of 4+
+|skilldesc=Deals even more damage when you make a match of four.
+|swapper=Rock Shot
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Normal
+|no1=506
+|name1=Lillipup
+|type1-1=Normal
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 16}}
+|no2=507
+|name2=Herdier
+|type1-2=Normal
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 32}}
+|no3=508
+|name3=Stoutland
+|type1-3=Normal
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=508}}
+{{Spritebox/6|ndex=508}}
+{{Spritebox/7|ndex=508}}
+{{Spritebox/Footer|508|Stoutland}}
+
+==Trivia==
+===Origin===
+Stoutland is based on a combination of a {{wp|shih tzu}} and a {{wp|Maltese (dog)|Maltese}} with some characteristics from {{wp|Yorkshire terrier}}s and {{wp|Scottish terrier}}s. Its talent for rescuing humans in the mountains is similar to a {{wp|St. Bernard (dog)|St. Bernard's}}.
+
+====Name origin====
+Stoutland may be a combination of ''stout'' (bulky) and ''land'' (a reference to {{wp|terriers}}, whose name derived from the Latin ''terra'' meaning ''earth''). It could also be a play on ''Scotland'', as it draws inspiration from Scottish terriers.
+
+Mooland may be a combination of 尨 ''muku'' (shaggy hair) and ''land''.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ムーランド ''Mooland''|jameaning=From {{tt|尨 ''muku''|shaggy hair}} and ''land''
+|de=Bissbark|demeaning=From ''{{tt|Biss|bite}}'' and ''bark'', and possibly {{wp|Otto von Bismarck}}
+|fr=Mastouffe|frmeaning=From ''{{tt|mastiff|big dog species}}'' and ''{{tt|touffe|slang for hair}}''
+|es=Stoutland|esmeaning=Same as English name
+|it=Stoutland|itmeaning=Same as English name
+|ko=바랜드 ''Baland''|komeaning=Possibly from {{tt|방 (尨) ''bang''|Sapsali, shaggy Korean breed of dog}} or ''bark'' and ''land''
+|zh_cmn=長毛狗 ''Chángmáogǒu''|zh_cmnmeaning=Literally "Shaggy dog".
+|ru=Стаутлэнд ''Stautlend''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=507|prev=Herdier|nextnum=509|next=Purrloin}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon whose base stats changed in Generation VI]]
+
+[[de:Bissbark]]
+[[fr:Mastouffe]]
+[[it:Stoutland]]
+[[ja:ムーランド]]
+[[pl:Stoutland]]
+[[zh:长毛狗]]

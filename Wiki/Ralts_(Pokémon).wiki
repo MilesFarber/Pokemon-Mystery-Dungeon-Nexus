@@ -1,0 +1,586 @@
+{{PokémonPrevNext/Head|type=Psychic|type2=Fairy}}
+{{PokémonPrevNext/GO|species=Ralts}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=279|prev=Pelipper|nextnum=281|next=Kirlia|round=none}}
+{{PokémonPrevNext/Disambig|species=Ralts}}
+|}
+{{Pokémon Infobox
+|name=Ralts
+|jname=ラルトス
+|jtranslit=Rarutosu
+|tmname=Ralts
+|ndex=280
+|hdex=029
+|sdex=157
+|karea=Central
+|kdex=064
+|fbrow=026
+|abrow=157
+|obrow=133
+|opbrow=192
+|typebox=1
+|type1=Psychic
+|type2=Fairy
+|category=Feeling
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=14.6
+|weight-kg=6.6
+|abilityn=d
+|ability1=Synchronize
+|ability2=Trace
+|abilityd=Telepathy
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=20
+|evtotal=1
+|evsa=1
+|expyield=40
+|oldexp=70
+|lv100exp=1,250,000
+|gendercode=127
+|color=White
+|catchrate=235
+|body=12
+|pokefordex=ralts
+|generation=3
+|friendship=35
+}}
+'''Ralts''' ([[List of Japanese Pokémon names|Japanese]]: '''ラルトス''' ''Ralts'') is a dual-type {{2t|Psychic|Fairy}} {{OBP|Pokémon|species}} introduced in [[Generation III]]. Prior to Generation VI, it was a pure {{type|Psychic}} Pokémon.
+
+It [[Evolution|evolves]] into {{p|Kirlia}} starting at [[level]] 20, which evolves into {{p|Gardevoir}} starting at level 30 or, if male, {{p|Gallade}} when exposed to a [[Dawn Stone]].
+
+==Biology==
+[[File:Raltseyes.png|thumb|left|90px|Ralts's eyes seen from below]]
+Ralts is a humanoid Pokémon with a white body. It has thin arms and legs that widen toward the feet. There is a wispy extension trailing off the back of its feet, creating the overall impression of a nightgown or oversized dress. Most of its face is covered by green hair that resembles a {{wp|bowl cut}}, but a pair of pinkish red eyes is sometimes visible. There are two flat, red horns on top of its head: a large one toward the front and a smaller one at the back.
+
+Ralts uses the horns to read people and Pokémon's emotions. Warm feelings cause its body to warm as well, but it hides if it senses hostility. If its {{pkmn|Trainer}} is in a cheerful mood, Ralts also becomes cheerful and joyous. It is known to inhabit {{DL|List of Pokémon by habitat|Urban Pokémon|urban areas}}, but it does not normally show itself to humans. However, when it senses happy feelings, it will approach people.
+{{left clear}}
+==In the anime==
+[[File:Max Ralts.png|left|220px|thumb|Ralts in the {{pkmn|anime}}]]
+===Major appearances===
+Ralts debuted in ''[[AG109|Do I Hear a Ralts?]]''. [[Max]] found one that was very sick and decided to prove his abilities by taking responsibility for it. With the help of {{AP|Snorunt}}, he rushed it to the nearest [[Pokémon Center]]. He later promised to return for Ralts when he is eligible to be a {{pkmn|Trainer}}.
+
+===Minor appearances===
+A Ralts appeared in ''[[AG146|Fear Factor Phony]]''. It was living with some party-loving {{type|Psychic}} Pokémon in an abandoned mining town.
+
+A Ralts appeared in ''[[M16|Genesect and the Legend Awakened]]'' at [[Pokémon Hills]].
+
+A Ralts appeared in [[SS027]].
+
+A Ralts appeared in ''[[XY005|A Blustery Santalune Gym Battle!]]''.
+
+A {{pkmn|Trainer}}'s Ralts appeared in a fantasy in ''[[XY009|Clemont's Got a Secret!]]'', when it was defeated along with its Trainer by [[Clembot]].
+
+A Ralts appeared in ''[[XY016|A Jolting Switcheroo!]]''.
+
+A Ralts appeared in ''[[XY021|A PokéVision of Things to Come!]]''.
+
+A Trainer's Ralts appeared in ''[[XY026|A Battle by Any Other Name!]]''.
+
+A Ralts appeared in ''[[XY029|Heroes - Friends and Faux Alike!]]''
+
+A Ralts appeared in ''[[XY092|Cloudy Fate, Bright Future!]]'', under the ownership of a {{tc|Psychic}}.
+
+A Ralts appeared in ''[[XY105|Party Dancecapades!]]'', under the ownership of a [[Pokémon Performer]] participating in [[Monsieur Pierre]]'s dance party.
+
+A Ralts appeared in a flashback in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+A Trainer's Ralts appeared in ''[[XY138|The First Day of the Rest of Your Life!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG109|Ralts|May's Pokédex|Ralts, the Feeling Pokémon. Ralts is the pre-evolved form of {{p|Kirlia}}. It can use the horns on its head to read human emotions. Ralts rarely shows itself to humans, but may occasionally approach when it senses positive or happy feelings.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+==In the manga==
+[[File:Rara Ralts.png|thumb|150px|Ralts in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Rara}}
+{{adv|Ruby}} owned a Ralts nicknamed Rara who first appeared in ''[[PS181|Creeping Past Cacnea]]''. However, for most of the {{chap|Ruby & Sapphire}}, Rara is with {{adv|Wally}} after Ruby was lost in an earthquake that left him under [[Mr. Briney]]'s care (where he learned of the beautiful {{p|Milotic}} that [[Feefee]] eventually evolved into). While training with Wally under [[Norman]]'s command, Rara evolves into a {{p|Kirlia}} and is eventually returned to Ruby.
+
+===In the Pokémon Ruby-Sapphire manga===
+A Ralts appeared in ''[[PMRS08|Esper Clefairy!]]''.
+{{-}}
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS187]]|This Pokémon can pick up emotions with its horns. It hardly appears before people but it is attracted to positive emotions.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS187]]|Ralts senses the emotions of people using the horns on its head. This Pokémon rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.{{tt|*|VIZ Media}}}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Ralts (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Psychic|type2=Fairy}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Ralts senses the emotions of people using the horns on its head. This Pokémon rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Ralts has the ability to sense the emotions of people. If its trainer is in a cheerful mood, this Pokémon grows cheerful and joyous in the same way.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Ralts has the power to sense the emotions of people and Pokémon with the horns on its head. It takes cover if it senses any hostility.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It is highly attuned to the emotions of people and Pokémon. It hides if it senses hostility.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=It uses the horns on its head to sense human emotions. It is said to appear in front of cheerful people.}}
+{{Dex/Entry1|v=Platinum|entry=If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=The horns on its head provide a strong power that enables it to sense people’s emotions.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.}}
+{{Dex/Entry1|v=Y|entry=It is highly attuned to the emotions of people and Pokémon. It hides if its senses hostility.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Ralts senses the emotions of people using the horns on its head. This Pokémon rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Ralts has the ability to sense the emotions of people. If its Trainer is in a cheerful mood, this Pokémon grows cheerful and joyous in the same way.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic|type2=Fairy}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area={{rt|102|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{rt|102|Hoenn}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[ONBS]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|203|Sinnoh}} and {{rtn|204|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, and {{rtn|212|Sinnoh}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|34|Johto}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[White Forest]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Trade]] with [[Curtis]] or [[Yancy]] in [[Nimbasa City]] <br> [[Unova Link|Transfer]] from {{pkmn|Dream Radar}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Spooky Manor}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{rt|4|Kalos}}<br>[[Trade]] in [[Lumiose City]] with [[Diantha]] after beating the [[Elite Four]]}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{rt|102|Hoenn}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|6|Alola}} ({{DL|QR Scanner|Island Scan}}){{dotw|Su}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic|type2=Fairy}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Hatch from {{pkmn|Egg}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 1]], Endless Level 12, Forever Level 12, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Wish Cave]] (11F-13F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Sekra Range]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Treeshroud Forest]] (1F-9F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Treeshroud Forest]] (1F-9F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Cargo Ship]]}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Hinder Cape]], [[Dark Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Challenger's Ground]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Illusio]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#Rush Hour|Model Train Room: Rush Hour]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 1|Infinite Ruins: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 217]]<br>[[Prasino Woods|Prasino Woods: Stage 558]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Sunlit Forest|Sapphire Sea: Sunlit Forest]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 23|Area 23: Stage 01]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Psychic|type2=Fairy}}
+{{eventAvail|{{gameabbrev3|RS}}|Pokémon Center 5th Anniversary Charm Ralts|Japanese|Japan|5|April 25 to May 18, 2003|link=List of Japanese event Pokémon distributions in Generation III#Charm Ralts}}
+{{eventAvail|{{gameabbrev3|RS}}|Pokémon Center 5th Anniversary Wish Ralts|Japanese|Japan|5|April 25 to May 18, 2003|link=List of Japanese event Pokémon distributions in Generation III#Wish Ralts}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Center Mega Tokyo Ralts Egg|All|Japan|1|January 17 to March 1, 2015|link=List of local event Pokémon distributions in Generation VI#Ralts_2}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Center Hiroshima Ralts Egg|All|Japan|1|April 1 to 30, 2016|link=List of local event Pokémon distributions in Generation VI#Ralts}}
+|}
+
+====GTS events====
+{{eventAvail/h|type=Psychic|type2=Fairy}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Kakereru Ralts|Japanese|GTS|6|April 4 to 10, 2009|link=List of GTS event Pokémon distributions#Kakereru}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Nana Ralts|Japanese|GTS|7|April 4 to 10, 2009|link=List of GTS event Pokémon distributions#Nana}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Toshi Ralts|Japanese|GTS|5|April 4 to 10, 2009|link=List of GTS event Pokémon distributions#Toshi}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Yunosuke Ralts|Japanese|GTS|8|April 4 to 10, 2009|link=List of GTS event Pokémon distributions#Yunosuke}}
+|}
+
+===Held items===
+{{HeldItems|type=Psychic|type2=Fairy
+|xd1=TwistedSpoon|xd1type=None|xd1rar=100
+|event1=Air Mail|event1type=Mail
+|event2=Bloom Mail|event2type=Mail
+|event3=Heart Mail|event3type=Mail
+|event4=Tunnel Mail|event4type=Mail}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Psychic
+|type2=Fairy
+|HP=     28
+|Attack= 25
+|Defense=25
+|SpAtk=  45
+|SpDef=  35
+|Speed=  40}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Psychic
+|Speed=3
+|SpeedMax=4
+|Power=1
+|PowerMax=1
+|Technique=3
+|TechniqueMax=5
+|Stamina=1
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|type2=Fairy
+|Normal=  100
+|Fighting= 25
+|Flying=  100
+|Poison=  200
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   200
+|Steel=   200
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic=  50
+|Ice=     100
+|Dragon=  0
+|Dark=    100
+|notes=yes
+|fairy=yes
+|newdragon=1
+|newfairy=yes
+|newfairyeffect={{typecolor2|Dragon}}, {{typecolor2|Steel}} and {{typecolor2|Poison}} moves was 1×, {{typecolor2|Dark}} and {{typecolor2|Bug}} was 2× and {{typecolor2|Fighting}} moves was ½×}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Ralts|Psychic|Fairy|3}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|4|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|6|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|9|Teleport|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|11|Disarming Voice|Fairy|Special|40|&mdash;|15||'''}}
+{{learnlist/level7|14|Lucky Chant|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|17|Magical Leaf|Grass|Special|60|&mdash;|20}}
+{{learnlist/level7|19|Heal Pulse|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|22|Draining Kiss|Fairy|Special|50|100|10||'''}}
+{{learnlist/level7|24|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|27|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|29|Imprison|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|32|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/level7|34|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/level7|37|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/level7|39|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/level7|42|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/levelf/7|Ralts|Psychic|Fairy|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Ralts|Psychic|Fairy|3}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Ralts|Psychic|Fairy|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Ralts|Psychic|Fairy|3}}
+{{learnlist/breed7|{{MSP|562|Yamask}}|Ally Switch|Psychic|Status|&mdash;|&mdash;|15|*}}
+{{learnlist/breed7|{{MSP|092|Gastly}}{{MSP|093|Haunter}}{{MSP|094|Gengar}}{{MSP|200|Misdreavus}}{{MSP|355|Duskull}}{{MSP|356|Dusclops}}<br>{{MSP|442|Spiritomb}}{{MSP|477|Dusknoir}}{{MSP|607|Litwick}}{{MSP|608|Lampent}}{{MSP|609|Chandelure}}{{MSP|708|Phantump}}<br>{{MSP|709|Trevenant}}{{MSP|710|Pumpkaboo}}{{MSP|711|Gourgeist}}|Confuse Ray|Ghost|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|092|Gastly}}{{MSP|093|Haunter}}{{MSP|094|Gengar}}{{MSP|109|Koffing}}{{MSP|110|Weezing}}{{MSP|202|Wobbuffet}}<br>{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}|Destiny Bond|Ghost|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|088|Grimer}}{{MSP|088A|Grimer}}{{MSP|089|Muk}}{{MSP|089A|Muk}}{{MSP|355|Duskull}}{{MSP|356|Dusclops}}<br>{{MSP|477|Dusknoir}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|316|Gulpin}}{{MSP|317|Swalot}}|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|200|Misdreavus}}{{MSP|353|Shuppet}}{{MSP|354|Banette}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Grudge|Ghost|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|092|Gastly}}{{MSP|093|Haunter}}{{MSP|094|Gengar}}{{MSP|200|Misdreavus}}{{MSP|355|Duskull}}{{MSP|356|Dusclops}}<br>{{MSP|477|Dusknoir}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Mean Look|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|088|Grimer}}{{MSP|088A|Grimer}}{{MSP|089|Muk}}{{MSP|089A|Muk}}{{MSP|109|Koffing}}{{MSP|110|Weezing}}<br>{{MSP|442|Spiritomb}}{{MSP|607|Litwick}}{{MSP|608|Lampent}}|Memento|Dark|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|282|Gardevoir}}|Misty Terrain|Fairy|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|353|Shuppet}}{{MSP|354|Banette}}{{MSP|355|Duskull}}{{MSP|356|Dusclops}}{{MSP|442|Spiritomb}}{{MSP|477|Dusknoir}}<br>{{MSP|710|Pumpkaboo}}{{MSP|711|Gourgeist}}{{MSP|778|Mimikyu}}|Shadow Sneak|Ghost|Physical|40|100|30}}
+{{learnlist/breed7|{{MSP|577|Solosis}}{{MSP|578|Duosion}}{{MSP|579|Reuniclus}}|Skill Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|358|Chimecho}}|Synchronoise|Psychic|Special|120|100|10||'''}}
+{{learnlist/breedf/7|Ralts|Psychic|Fairy|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Ralts|Psychic|Fairy|3}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magic Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Ralts|Psychic|Fairy|3}}
+
+====Special moves====
+{{learnlist/eventh/7|Ralts|Psychic|Fairy|3}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|USUM}}|Misty Terrain|Fairy|Status|—|—|10}}
+{{learnlist/eventf/7|Ralts|Psychic|Fairy|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" align="center" style="background: #{{tcg psychic color light}}; border: 3px solid #{{tcg psychic color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Pound}}
+| style="background:#fff; {{roundybr|5px}}" | [[Ralts (EX Ruby & Sapphire 68)]]<br>[[Ralts (Legendary Treasures RC8)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Psychic|type2=Fairy}}
+{{Spindata/PinballRS|col=3|type=Psychic|ndex=280|acquisition=Hatch}}
+{{Spindata/Trozei|col=3|type=Psychic|ndex=280|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Psychic|ndex=280
+|body=1
+|rate=1
+|area=Sky Blue Plains
+|P1=I sense hostility... I'm scared!
+|P2=I'm afraid... I have only about half my HP left...
+|P3=I can't take this... I feel faint... Please, help...
+|PL=I gained a level... But I sense even more hostility...
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Psychic|ndex=280
+|body=1
+|rate=5
+|IQ=F
+}}
+|-
+{{Spindata/Ranger|col=6|type=Psychic
+|group=Psychic
+|assist=Psychic
+|fieldpower=0
+|loop=4
+|MinEXP=23
+|MaxEXP=36
+|browser=Ralts moves by teleporting repeatedly. It apparently does not walk very often.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Psychic
+|group=Psychic
+|assist=Psychic
+|field=Tackle
+|fieldpower=1
+|browser=While warping from place to place, it launches strange orbs to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Psychic
+|group=Psychic
+|assist=Psychic
+|field=Psy Power
+|fieldpower=1
+|browser=It lets loose psychic orbs that make Pokémon Paused.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Psychic
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/Conquest|col=6|type=Psychic|ndex=280
+|HP=1
+|atk=1
+|def=1
+|spd=2
+|range=3
+|move=Confusion
+|ability1=Instinct
+|ability2=Perception
+|ability3=Share
+|evo=Evolves into {{p|Kirlia}} when its Attack is 44 or higher
+|link={{DL|List of Pokémon Conquest characters|Jūbei}}, {{DL|List of Pokémon Conquest characters|Kagekatsu}}, {{DL|List of Pokémon Conquest characters|Tomonobu}}, and {{DL|List of Pokémon Conquest characters|Yoshitsugu}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=280|bttype=Fairy
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=280|stype=Fairy|num=296
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Prank
+|skilldesc=Sometimes changes when a foe will next disrupt your play.
+}}
+|-
+{{Spindata/GO|col=6|type=Psychic|ndex=280
+|hatch=10 km
+|buddy=5
+|evocandy=25
+|stamina=56
+|attack=79
+|defense=63
+|fast={{m|Confusion}}, {{m|Charge Beam}}
+|special={{m|Psyshock}}, {{m|Disarming Voice}}, {{m|Shadow Sneak}}
+}}
+|}
+
+===Evolution===
+{{evobox
+|family=Normal
+|sprite1=280Ralts
+|name1=Ralts
+|type1-1=Psychic
+|type2-1=Fairy
+|evotype1=Level
+|level1=20
+|sprite2=281Kirlia
+|name2=Kirlia
+|type1-2=Psychic
+|type2-2=Fairy
+|evotype2=Level
+|level2=30
+|sprite3=282Gardevoir
+|name3=Gardevoir
+|type1-3=Psychic
+|type2-3=Fairy
+|evotype2a=Stone
+|evostone2a=Dawn Stone
+|gender2a=Male
+|sprite3a=475Gallade
+|name3a=Gallade
+|type1-3a=Psychic
+|type2-3a=Fighting}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic|type2=Fairy}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=280}}
+{{Spritebox/4|ndex=280}}
+{{Spritebox/5|ndex=280}}
+{{Spritebox/6|ndex=280}}
+{{Spritebox/7|ndex=280}}
+{{Spritebox/Footer|280|Ralts}}
+
+==Trivia==
+* Ralts's number in the [[List of Pokémon by Sinnoh Pokédex number|Sinnoh Pokédex]] ({{v2|Platinum}} only) and the [[List of Pokémon by Almia Browser number|Almia Browser]] are the same: 157.
+* Ralts's {{g|Trozei!}} sprite is the only one where its eyes are visible. In Pokémon X and Y, Pokémon Colosseum and Pokémon XD: Gale of Darkness, one can see them if one were to view Ralts from below in the Pokédex/Trainer memo; however, it is not a sprite.
+* Ralts is the only Pokémon with a base stat total of 198.
+** This is also the lowest base stat total of all Psychic-type Pokémon.
+** Ralts also has the lowest base {{stat|HP}} of all {{type|Fairy}} Pokémon.
+* Despite the fact that Wally catches his Ralts on Route 102 at level 5 in the Hoenn games, it is impossible for the player to catch a level 5 Ralts in the entire game, except through breeding{{sup/3|RSE}} or through the [[DexNav]]{{sup/6|ORAS}}.
+
+===Origin===
+Ralts's appearance seems to be based slightly on that of a young child, following the theory that young children can sense feelings easier and more thoroughly than adults. Its red "horns" also resemble the tips of a heart shape.
+
+====Name origin====
+Ralts may be a partial {{wp|anagram}} of ''astral'' (as in {{wp|astral body}}); its other language names seem to follow this. It may also involve ''relate'', referring to the way Ralts will only relate to kind Trainers. It may also be a play on ''{{wp|waltz}}'' (a type of dance); Ralts' evolutionary family appears to have several similarities to dancers.
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Fairy
+|ja=ラルトス ''Ralts''|jameaning=From ''astral'', ''relate'', and ''waltz''
+|fr=Tarsal|frmeaning=Possibly an {{wp|anagram}} of ''astral'', as in {{wp|astral body}}
+|es=Ralts|esmeaning=Same as English name
+|de=Trasla|demeaning=Possibly an {{wp|anagram}} of ''astral'', as in {{wp|astral body}}
+|it=Ralts|itmeaning=Same as English name
+|ko=랄토스 ''Raltos''|komeaning=Transliteration of its Japanese name
+|zh_cmn=拉魯拉絲 / 拉鲁拉丝 ''Lālǔlāsī''|zh_cmnmeaning=Transliteration of its Japanese name
+|ru=Ролтс ''Rolts''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Rara]]
+* [[Diantha's Ralts]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Psychic|type2=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=279|prev=Pelipper|nextnum=281|next=Kirlia}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Single-type Pokémon|280]]<!--Prior to Gen VI-->
+[[Category:Pokémon that have had their type changed]]
+
+[[de:Trasla]]
+[[fr:Tarsal]]
+[[it:Ralts]]
+[[ja:ラルトス]]
+[[pl:Ralts]]
+[[zh:拉鲁拉丝]]

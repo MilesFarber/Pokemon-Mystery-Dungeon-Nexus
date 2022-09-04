@@ -1,0 +1,449 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Illumise}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=313|prev=Volbeat|nextnum=315|next=Roselia|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Illumise
+|jname=イルミーゼ
+|jtranslit=Irumīze
+|tmname=Illumise
+|ndex=314
+|hdex=087
+|hdex6=090
+|karea=Central
+|kdex=134
+|type1=Bug
+|category=Firefly
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=39.0
+|weight-kg=17.7
+|abilitylayout=2
+|ability1=Oblivious
+|ability2=Tinted Lens
+|abilityd=Prankster
+|egggroupn=2
+|egggroup1=Bug
+|egggroup2=Human-Like
+|eggcycles=15
+|evtotal=1
+|evsp=1
+|expyield=151<!--140 in Gen V-VI-->
+|oldexp=146
+|lv100exp=1,640,000
+|gendercode=254
+|color=Purple
+|catchrate=150
+|body=12
+|pokefordex=illumise
+|generation=3
+|friendship=70
+}}
+'''Illumise''' ([[List of Japanese Pokémon names|Japanese]]: '''イルミーゼ''' ''Illumise'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It is not known to [[evolution|evolve]] into or from any other Pokémon.
+
+It is related to {{p|Volbeat}}, and can produce {{pkmn|Egg}}s that contain either Illumise or Volbeat.
+
+==Biology==
+Illumise is a firefly-like, bipedal Pokémon. It has a blue face and large, slanted blue eyes with purple markings at the corners. Surrounding its head are purple curls that frame its face. Its antennae are small and yellow. Its body is black with a blue belly and a yellow bid marking. Its arms and legs are black and are connected to the body by purple borders. It has small wings used for flying with others, and a pattern of three oblong yellow spots on its rear. This is a female only species; {{p|Volbeat}} is its male counterpart.
+
+Illumise uses its sweet aromas to lure in Volbeat and have them draw geometric patterns in the sky. It is said to earn respect from others by composing designs that are more complex. Over 200 different patterns have been discovered. It is a nocturnal Pokémon that lives in {{DL|List of Pokémon by habitat|Forest Pokémon|forests.}}
+
+==In the anime==
+===In the main series===
+[[File:Juliet Illumise.png|thumb|220px|left|Illumise in the {{pkmn|anime}}]]
+====Major appearances====
+Illumise debuted in ''[[AG042|Love at First Flight]]'' along with her male counterpart, {{p|Volbeat}}.
+
+Multiple Illumise appeared in ''[[AG157|Time Warp Heals All Wounds]]''.
+
+====Minor appearances====
+An Illumise appeared in ''[[M13|Zoroark: Master of Illusions]]'' as one of the many local Pokémon living in [[Crown City]]. It worked together with several other Pokémon in surrounding {{OBP|Zorua|M13}} at the park, intent on attacking him as retribution for what {{OBP|Zoroark|M13}} did to the city. Before a fight broke out, Illumise, along with the other Pokémon, were calmed down by {{OBP|Celebi|M13}}.
+{{-}}
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG042|Illumise|May's Pokédex|Illumise, the Firefly Pokémon. Illumise uses {{m|Sweet Scent}} to lure in {{p|Volbeat}}, having them draw geometric patterns in the sky.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+===In Pokémon Generations===
+[[File:Makuhita Illumise PG.png|thumb|250px|Illumise in [[Pokémon Generations]]]]
+A wild Illumise appeared in ''[[PG08|The Cavern]]'', where it was running away from a storm which a [[Primal Reversion|Primal]] {{p|Kyogre}} was creating.
+{{-}}
+
+==In the manga==
+[[File:Emerald Illumise Adventures.png|thumb|125px|Illumise in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Illumise debuted in the wild in ''[[PS187|Tongue-Tied Kecleon]]'', when {{adv|Ruby}} and {{adv|Wally}} observed a group of them dancing with wild {{p|Volbeat}}.
+
+In ''[[PS306|Pinsir Me, I Must Be Dreaming]]'', {{adv|Emerald}} rented an Illumise during his {{DL|Battle Frontier (Generation III)|Battle Factory}} challenge.
+
+An Illumise appeared in ''[[PS315|Skirting Around Surskit I]]'' as a rental Pokémon that [[Guile Hideout]] stole.
+
+===In the Pokémon Battle Frontier manga===
+{{OBP|Enta|CBF}} has an Illumise who helped him reach the top of the Battle Pyramid.
+
+==In the TCG==
+{{main|Illumise (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Pinball: Ruby & Sapphire}}: After a successful Travel Mode on the [[Sapphire Field]], Illumise will fly down to paint in the new area.
+* {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}: A large group of Illumise and {{p|Volbeat}} are seen at [[Fogbound Lake]] where they put on a display making the lake look beautiful.
+
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Illumise attracts a swarm of {{p|Volbeat}} using a sweet fragrance. Once the Volbeat have gathered, this Pokémon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A nocturnal Pokémon that becomes active upon nightfall. It leads a Volbeat swarm to draw patterns in the night sky. Over 200 different patterns have been confirmed.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It guides Volbeat to draw signs in night skies. There are scientists that study the patterns it creates.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Its fragrance attracts a swarm of Volbeat, so they draw over 200 patterns in the night sky.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its fragrance attracts a swarm of Volbeat, so they draw over 200 patterns in the night sky.}}
+{{Dex/Entry1|v=Y|entry=With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pokémon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area={{rt|117|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{rt|117|Hoenn}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|229|Sinnoh}}}}
+{{Availability/Entry1|v=Platinum|area={{rt|229|Sinnoh}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Sa}}, {{safari|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color=D4B5A7|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Hoenn Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Black|v2=White|t=FFF|area={{pkmn|breeding|Breed}} {{p|Volbeat}}}}
+{{Availability/Entry1|1|v=White|area={{rt|3|Unova}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1|1|v=Black 2|t=FFF|area={{pkmn|breeding|Breed}} {{p|Volbeat}}}}
+{{Availability/Entry1|1|v=White 2|area={{rt|3|Unova}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1|1|v=Dream World|color={{dream color}}|area={{dwa|Spooky Manor}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{rt|7|Kalos}}, [[Friend Safari]] ([[Friend Safari#Bug-type Safari|Bug]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{rt|117|Hoenn}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Plains ({{color2|{{ruby color}}|Ruby Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 12]], [[Secret Storage 20]], Endless Level 24, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Lapis Cave]] (5F-8F), [[Wish Cave]] (47F-52F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=Upper [[Steam Cave]] (1F-7F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=Upper [[Steam Cave]] (1F-7F)}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Shimmering Lake]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#Festival on Mount Moon|Flower Garden: Festival on Mount Moon]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 3|Safari Jungle: Stage 3]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Night Festival|Night Festival: Stage 29]]<br>[[Graucus Hall|Graucus Hall: Stage 468]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Pearl Lake|Pearl Marsh: Pearl Lake]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Bug
+|oras1=Bright Powder|oras1type=None|oras1rar=5
+}}
+
+===Stats===
+====Base stats====
+=====Generation III-VI=====
+{{BaseStats
+|type=Bug
+|HP=     65
+|Attack= 47
+|Defense=55
+|SpAtk=  73
+|SpDef=  75
+|Speed=  85}}
+
+=====Generation VII=====
+{{BaseStats
+|type=Bug
+|HP=     65
+|Attack= 47
+|Defense=75
+|SpAtk=  73
+|SpDef=  85
+|Speed=  85}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|Speed=3
+|SpeedMax=4
+|Power=2
+|PowerMax=2
+|Technique=3
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=3
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal= 100
+|Fighting=50
+|Flying= 200
+|Poison= 100
+|Ground=  50
+|Rock=   200
+|Bug=    100
+|Ghost=  100
+|Steel=  100
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Illumise|Bug|Bug|3}}
+{{learnlist/level7|1|Play Nice|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|5|Sweet Scent|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|9|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/level7|12|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|15|Struggle Bug|Bug|Special|50|100|20||'''}}
+{{learnlist/level7|19|Moonlight|Fairy|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|22|Wish|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|26|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/level7|29|Flatter|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|33|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/level7|36|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|40|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/level7|43|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/level7|47|Covet|Normal|Physical|60|100|25}}
+{{learnlist/level7|50|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/levelf/7|Illumise|Bug|Bug|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Illumise|Bug|Bug|3}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Illumise|Bug|Bug|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Illumise|Bug|Bug|3}}
+{{learnlist/breed7|{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|666|Vivillon}}{{MSP|742|Cutiefly}}{{MSP|743|Ribombee}}|Aromatherapy|Grass|Status|—|—|5|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|283|Surskit}}{{MSP|291|Ninjask}}{{MSP|427|Buneary}}<br>{{MSP|428|Lopunny}}{{MSP|545|Scolipede}}|Baton Pass|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|049|Venomoth}}{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|193|Yanma}}{{MSP|469|Yanmega}}<br>{{MSP|267|Beautifly}}{{MSP|269|Dustox}}{{MSP|284|Masquerain}}{{MSP|313|Volbeat}}{{MSP|329|Vibrava}}{{MSP|402|Kricketune}}<br>{{MSP|414|Mothim}}{{MSP|415|Combee}}{{MSP|540|Sewaddle}}{{MSP|588|Karrablast}}{{MSP|589|Escavalier}}{{MSP|595|Joltik}}<br>{{MSP|596|Galvantula}}{{MSP|616|Shelmet}}{{MSP|617|Accelgor}}{{MSP|636|Larvesta}}{{MSP|637|Volcarona}}{{MSP|666|Vivillon}}<br>{{MSP|738|Vikavolt}}{{MSP|742|Cutiefly}}{{MSP|743|Ribombee}}|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|126|Magmar}}{{MSP|467|Magmortar}}{{MSP|302|Sableye}}{{MSP|313|Volbeat}}|Confuse Ray|Ghost|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}{{MSP|213|Shuckle}}{{MSP|314|Illumise}}{{MSP|701|Hawlucha}}|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|574|Gothita}}{{MSP|575|Gothorita}}{{MSP|576|Gothitelle}}|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|046|Paras}}{{MSP|047|Parasect}}{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|012|Butterfree}}{{MSP|049|Venomoth}}{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|267|Beautifly}}{{MSP|269|Dustox}}<br>{{MSP|284|Masquerain}}{{MSP|414|Mothim}}{{MSP|637|Volcarona}}{{MSP|742|Cutiefly}}{{MSP|743|Ribombee}}|Silver Wind|Bug|Special|60|100|5||'''}}
+{{learnlist/breedf/7|Illumise|Bug|Bug|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Illumise|Bug|Bug|3}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Illumise|Bug|Bug|3}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/PinballRS|col=3|type=Bug|ndex=314|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=314|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=314
+|body=1
+|rate=7.3
+|area=Rub-a-Dub River
+|P1=I skate across the night sky with my {{p|Volbeat}} friends!
+|P2=Oh, dear! I've lost half my health already!
+|P3=I'm sorry... I don't have the strength to fly...
+|PL=I've leveled up! I must tell my {{p|Volbeat}} friends!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=314
+|body=1
+|rate=8.2
+|IQ=F
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=314
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=314|num=073
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Swap
+|skilldesc=Sometimes replaces a disruption with this Pokémon.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=314
+|buddy=3
+|evolution=N/A
+|stamina=130
+|attack=143
+|defense=148
+|fast={{m|Struggle Bug}}, {{m|Tackle}}
+|special={{m|Signal Beam}}, {{m|Bug Buzz}}, {{m|Dazzling Gleam}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Bug
+|pictype=art
+|no1=314
+|name1=Illumise
+|type1-1=Bug}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=314}}
+{{Spritebox/4|ndex=314}}
+{{Spritebox/5|ndex=314}}
+{{Spritebox/6|ndex=314}}
+{{Spritebox/7|ndex=314}}
+{{Spritebox/Footer|314|Illumise}}
+
+==Trivia==
+* Illumise shares its {{pkmn|category}} with its male counterpart {{p|Volbeat}}. They are both known as the Firefly Pokémon.
+* No other Pokémon have the same dual [[Egg Group]] as Illumise and {{p|Volbeat|its counterpart}}. They are in both the {{egg|Bug}} and {{egg|Human-Like}} groups.
+
+===Origin===
+Illumise appears to be based on a {{wp|firefly}} like its counterpart, {{p|Volbeat}}. It does not seem to share its coloring with any particular species. Illumise may be based on {{wp|flapper}}s, a 1920s women's style. They usually had {{wp|Bob cut|bobbed hair}}, like Illumise's purple "hair", and wore taboo dresses and outfits. Illumise seems to be wearing a leotard, black jacket, coat, or dress, similar to Volbeat's, with purple arm and leg cuffs. The yellow bow-like shape under its neck is reminiscent to that of a yellow {{wp|Peter Pan collar}} and the stripes on its abdomen resemble a {{wp|girdle}}.
+
+====Name origin====
+Illumise is derived from ''illuminate''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=イルミーゼ ''Illumise''|jameaning=From ''illuminate''
+|fr=Lumivole|frmeaning=From ''{{tt|lumière|light}}'' and ''{{tt|luciole|firefly}}'' or ''{{tt|vol|fly}}''
+|es=Illumise|esmeaning=Same as English name
+|de=Illumise|demeaning=Same as English name
+|it=Illumise|itmeaning=Same as English name
+|ko=네오비트 ''Neobeat''|komeaning=From {{tt|''neon (light)''|네온 ne'on}} and {{tt|''beat''|비트 'biteu'}} or {{tt|''beetle''|비틀 'biteul'}}
+|zh_cmn=甜甜螢 / 甜甜螢 ''Jiǎkéyǒng''|zh_cmnmeaning=Literally "Sweet firefly"
+|hi=इलूमिसे ''Illumise''|himeaning=Transcription of English name
+|ru=Иллюмайз ''Illyumayz''|rumeaning=Transcription of English name
+}}
+
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=313|prev=Volbeat|nextnum=315|next=Roselia}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Illumise]]
+[[fr:Lumivole]]
+[[it:Illumise]]
+[[ja:イルミーゼ]]
+[[pl:Illumise]]
+[[zh:甜甜萤]]

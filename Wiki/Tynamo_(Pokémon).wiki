@@ -1,0 +1,281 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=601|prev=Klinklang|nextnum=603|next=Eelektrik}}
+|}
+{{Pokémon Infobox
+|name=Tynamo
+|jname=シビシラス
+|tmname=Shibishirasu
+|category=EleFish
+|typebox=1
+|type1=Electric
+|abilityn=1
+|abilitylayout=1
+|ability1=Levitate
+|ndex=602
+|udex=108
+|u2dex=177
+|height-ftin=0'08"
+|height-m=0.2
+|weight-lbs=0.7
+|weight-kg=0.3
+|egggroupn=1
+|egggroup1=Amorphous
+|eggcycles=20
+|expyield=55
+|lv100exp=1,250,000
+|evtotal=1
+|evsp=1
+|gendercode=127
+|color=White
+|catchrate=190
+|body=03
+|pokefordex=tynamo
+|generation=5
+|friendship=70
+}}
+'''Tynamo''' ([[List of Japanese Pokémon names|Japanese]]: '''シビシラス''' ''Shibishirasu'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[evolution|evolves]] into {{p|Eelektrik}} starting at [[level]] 39, which evolves into {{p|Eelektross}} when exposed to a [[Thunder Stone]].
+
+==Biology==
+Tynamo is a short, white, eel-like Pokémon with dark, oval eyes and a red, four-point star-shaped mouth. A wavy, yellow stripe runs along its body, which has a long fin membrane, giving it a tapered shape.
+
+Tynamo has an organ that generates electricity, which it discharges when in danger. A single Tynamo does not generate much power, so groups of Tynamo move in schools and create a more powerful shock. [[The Pokémon Company]] merchandise artwork and several [[Pokémon Trading Card Game|TCG]] illustrations depict Tynamo swimming in or leaping out of bodies of water.
+
+==In the anime==
+[[File:Elesa Tynamo.png|thumb|left|250px|Tynamo in the {{pkmn|anime}}]]
+===Major appearances===
+Tynamo made its main series debut in ''[[BW050|Dazzling the Nimbasa Gym!]]''. [[Elesa]] used her in her Gym battle against {{Ash}}; she battled {{AP|Pikachu}} but lost. Tynamo is Elesa's strongest Pokémon, and Elesa refers to Tynamo as her "Electric Queen".
+
+===Minor appearances===
+Tynamo debuted in ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]''.
+
+A Tynamo made a brief cameo appearance in ''[[BW056|The Lonely Deino!]]''.
+
+A Tynamo appeared in ''[[BW081|Crisis at Ferroseed Research!]]''.
+
+Multiple Tynamo appeared in ''[[BW085|All for the Love of Meloetta!]]'' and ''[[BW087|Expedition to Onix Island!]]''.
+
+A Tynamo appeared in a fantasy in ''[[XY009|Clemont's Got a Secret!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW050|Tynamo|Ash's Pokédex|Tynamo, the EleFish Pokémon. Tynamo usually lives in groups, and has an electricity-generating organ which discharges when in distress.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Hugh Tynamo Adventures.png|200px|thumb|Tynamo in [[Pokémon Adventures]]]]
+===In the [[Pokémon Adventures]] manga===
+In ''[[PS478|Big City Battles]]'', a Tynamo was briefly seen under the ownership of one of [[Castelia City]]'s residents.
+
+Prior to ''[[PS531|Unforgettable Memories]]'', a young [[Hugh]] was given a Tynamo by his {{tc|Artist}} grandfather.
+
+A Tynamo appeared in a picture in ''[[PAORAS04|Omega Alpha Adventure 4]]''.
+
+==In the TCG==
+{{main|Tynamo (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.}}
+{{Dex/Entry1|v=White|entry=These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.}}
+{{Dex/Entry1|v=Y|entry=One alone can emit only trickle of electricity, so a group of them gathers to unleash a powerful electric shock.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=While one alone doesn't have much power, a chain of many Tynamo can be as powerful as lightning.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=fff|entry=One alone can emit only trickle of electricity, so a group of them gathers to unleash a powerful electric shock.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Chargestone Cave]]}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Chargestone Cave]], [[Seaside Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Mirage Caves]] (north of [[Fallarbor Town]], west of {{rt|115|Hoenn}}, north of [[Fortree City]], southeast of {{rt|129|Hoenn}}, south of {{rt|131|Hoenn}}, north of {{rt|132|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{pkmn|breeding|Breed}} {{p|Eelektross}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{pkmn|breeding|Breed}} {{p|Eelektross}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[Shimmering Lake]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#The Electrifying Tynamo|Vehicle Gallery: The Electrifying Tynamo]] <small>(Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Friday Stage 2|Safari Jungle: Stage 2]]{{dotw|Fr}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 401]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Tricky Factory|Gold Plateau: Tricky Factory]] <small>(All Areas)</small>, [[Dark Land#Royal Armory|Dark Land: Royal Armory]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{Base stats
+|type=Electric
+|HP=35
+|Attack=55
+|Defense=40
+|SpAtk=45
+|SpDef=40
+|Speed=60
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=100
+|Ground=0
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|levitate=yes
+|newground=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Tynamo|Electric|Electric|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/level7|1|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level7|1|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/levelf/7|Tynamo|Electric|Electric|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Tynamo|Electric|Electric|5}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tmf/7|Tynamo|Electric|Electric|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Tynamo|Electric|Electric|5}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Tynamo|Electric|Electric|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Tynamo|Electric|Electric|5}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutorf/7|Tynamo|Electric|Electric|5}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/RumbleBlast|col=6|type=Electric
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Electric|ndex=602
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=602|num=605
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Stabilize
+|skilldesc=Sometimes erases one of the foe's disruptions on the board.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|type1=Electric
+|no1=602
+|name1=Tynamo
+|type1-1=Electric
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 39}}
+|no2=603
+|name2=Eelektrik
+|type1-2=Electric
+|evo2={{bag|Thunder Stone}}<br>{{color2|000|Thunder Stone}}
+|no3=604
+|name3=Eelektross
+|type1-3=Electric}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=602}}
+{{Spritebox/6|ndex=602}}
+{{Spritebox/7|ndex=602}}
+{{Spritebox/Footer|602|Tynamo}}
+
+==Trivia==
+<!--DO NOT REMOVE OR ALTER THIS. REGARDLESS OF ABILITIES OR MOVES THAT NULLIFY LEVITATE, IT STILL HAS NO WEAKNESSES.-->
+* Tynamo and its {{p|Eelektrik|evolutionary}} {{p|Eelektross|relatives}} are the only Pokémon with no weakness.
+* Because it can only learn Normal and Electric-type moves, the only way Tynamo can damage a {{t|Ghost}}/{{type|Ground}} Pokémon is through {{m|Struggle}}.
+
+===Origin===
+Tynamo and its evolutionary relatives may be based on {{wp|electric eels}}, {{wp|lamprey}}s and possibly {{wp|leeches}} or {{wp|lancelet}}s. The fact that it is Electric-type may be an allusion to {{wp|bioelectrogenesis}}. It also resembles {{wp|leptocephalus}}, larval stage of the eel, or also a {{wp|knifefish}}. The waving yellow mark running along its body combined with the physical appearance overall makes certain resemblance to ''{{wp|Haikouichthys}}'', or even a {{wp|Crookes tube}} or a {{wp|Geissler tube}}. Tynamo may also be based on a {{wp|skyfish}}, which would explain its Levitate Ability.
+
+====Name origin====
+Tynamo may be a combination of ''tiny'' or ''tyke'' (referring to its small size) and ''{{wp|dynamo}}'' (referring to its Electric type).
+
+Shibishirasu may be a combination of 痺れ ''shibire'' (numbness) or しびれうなぎ ''shibireunagi'' (electric eel) and シラス ''shirasu'' ({{wp|whitebait}}).
+
+==In other languages==
+{{Other languages|type=Electric|type2=Electric
+|ja=シビシラス ''Shibishirasu''|jameaning=From {{tt|痺れ ''shibire''|numbness}} or {{tt|シビレウナギ ''shibireunagi''|electric eel}}, plus {{wp|whitebait|{{tt|シラス ''shirasu''|whitebait}}}}
+|fr=Anchwatt|frmeaning=From ''{{tt|anchois|anchovy}}'' and ''watt''
+|es=Tynamo|esmeaning=Same as English name
+|de=Zapplardin|demeaning=From ''{{tt|zappeln|to flounce}}'', ''zap'', ''{{tt|Lamprete|lamprey}}'', and ''Sardine''
+|it=Tynamo|itmeaning=Same as English name
+|ko=저리어 ''Jeorieo''|komeaning=From {{tt|저리다 ''jeorida''|to be numb}} and {{tt|치어 ''chieo''|fry, young fishes}}
+|zh_cmn=麻麻小魚 / 麻麻小鱼 ''Mámáxiǎo​yú''|zh_cmnmeaning=From {{tt|麻 ''má''|to feel numb}}, {{tt|小 ''xiǎo​''|small, young}}, and {{tt|魚 ''yú''|fish}}
+|ru=Тинамо ''Tinamo''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=601|prev=Klinklang|nextnum=603|next=Eelektrik}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Zapplardin]]
+[[fr:Anchwatt]]
+[[it:Tynamo]]
+[[ja:シビシラス]]
+[[pl:Tynamo]]
+[[zh:麻麻小鱼]]

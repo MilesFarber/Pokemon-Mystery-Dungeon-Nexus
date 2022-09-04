@@ -1,0 +1,562 @@
+{{PokémonPrevNext/Head|type=Fighting|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Medicham}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=307|prev=Meditite|nextnum=309|next=Electrike|round=none}}
+{{PokémonPrevNext/Disambig|species=Medicham}}
+|}
+{{Pokémon Infobox
+|name=Medicham
+|jname=チャーレム
+|jtranslit=Charemu
+|tmname=Charem
+|forme=2
+|form2=Mega Medicham
+|image2=308Medicham-Mega.png
+|mega=Medichamite
+|ndex=308
+|hdex=077
+|hdex6=079
+|fbrow=086
+|sdex=087
+|karea=Central
+|kdex=144
+|type1=Fighting
+|type2=Psychic
+|category=Meditate
+|height-ftin=4'03"
+|height-m=1.3
+|weight-lbs=69.4
+|weight-kg=31.5
+|height-ftin2=4'03"
+|height-m2=1.3
+|weight-lbs2=69.4
+|weight-kg2=31.5
+|abilityn=dm
+|abilitylayout=2+1
+|abilitycolm=2
+|ability1=Pure Power
+|abilityd=Telepathy
+|abilitym=Pure Power
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=20
+|evtotal=2
+|evsp=2
+|expyield=144
+|oldexp=153
+|lv100exp=1,000,000
+|gendercode=127
+|color=Red
+|catchrate=90
+|body=12
+|pokefordex=medicham
+|generation=3
+|friendship=70
+}}
+'''Medicham''' ([[List of Japanese Pokémon names|Japanese]]: '''チャーレム''' ''Charem'') is a dual-type {{2t|Fighting|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolve]]s from {{p|Meditite}} starting at [[level]] 37. It can [[Mega Evolution|Mega Evolve]] into '''Mega Medicham''' using the [[Medichamite]].
+
+==Biology==
+Medicham is a humanoid, bipedal Pokémon that resembles a yoga practitioner. It has a gray body with red and yellow adornments. A red headpiece with three bulb-like extensions covers the upper portion of its head: one on top and one on either side. The bulb on top is short on a female Medicham. Its large, focused eyes are slightly covered by the headpiece, and its red lips seem to be in a rounded or puckered position. Its legs appear to be covered with puffy, red pants that have a large yellow spot on the knees and yellow bands next to the hips.
+
+As Mega Medicham, its headpiece now resembles a white {{wp|turban}} with a yellow stone in the center. The red extension in the back is retained, and there are five white extensions on the turban, three extending from the stone and one on either side of its head. There is now a gold band on each wrist and additional gold bands around its waist. Several blue, teardrop-shaped decorations hang from the lowest hip band. Using its enhanced willpower, Mega Medicham has formed four ghost-like arms around itself. The more trained its spirit, the more realistic and dexterous its self-created arms become.<ref>http://www.pokemonxy.com/en-us/pokemon/mega_pokemon/#Medicham</ref>
+
+Through the power of meditation and fasting, Medicham has developed a sixth sense. This allows it to use psychokinetic powers, and it heightens its energy to enhance this sixth sense. It battles with elegant, dance-like movements, which it uses to dodge attacks and launch devastating blows. It only eats once per month. It lives in fields and {{DL|List of Pokémon by habitat|Mountain Pokémon|mountains}}. It will hide itself by using its powers to blend into its surroundings.
+
+==In the anime==
+[[File:Candice Medicham.png|thumb|250px|left|Medicham in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Team Meanies]]====
+A Medicham was a member of Team Meanies in ''[[SS019|Pokémon Mystery Dungeon: Team Go-Getters out of the Gate!]]'', similar to the one in the games.
+
+====Other====
+Medicham debuted during the {{to|Fallarbor}} {{pkmn|Contest}}, under the ownership of {{ho|Grace}}, in ''[[AG050|Pros and Con Artists]]'' and ''[[AG051|Come What May!]]''.
+
+{{FB|Arena Tycoon|Greta}} used a Medicham in her battle against {{Ash}} in the {{DL|Battle Frontier (Generation III)|Battle Arena}} in ''[[AG149|Wheel of Frontier]]''. It went up against [[Ash's Snorlax]] and lost.
+
+Medicham and its pre-evolution were owned by [[Lizabeth]] and her family in ''[[M09|Pokémon Ranger and the Temple of the Sea]]''. The two Meditation Pokémon used {{m|Psychic}} to make balls of water retain their form.
+
+A Medicham appeared in ''[[DP127|Sliding Into Seventh!]]'', under the ownership of [[Candice]]. It battled against [[Ash's Staraptor]] but was defeated.
+
+A Trainer's Medicham appeared in ''[[XY126|Valuable Experience for All!]]'', where it was seen being defeated by [[Sawyer]]'s {{p|Slaking}} in the [[Lumiose Conference]].
+
+===Minor appearances===
+[[File:Mega Medicham anime.png|thumb|250px|Mega Medicham in the anime]]
+A Medicham appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A {{pkmn|Coordinator}}'s Medicham appeared in ''[[AG181|Thinning the Hoard]]''.
+
+A Trainer's Medicham appeared in ''[[DP160|A Marathon Rivalry!]]'', where it was participating in the [[Pokéathlon]] held in [[Camellia Town]].
+
+A Coordinator's Medicham appeared in ''[[DP175|Opposites Interact!]]'', where it was participating in the [[Sinnoh Grand Festival]].
+
+Three Medicham appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Medicham appeared in ''[[XY008|Grooming Furfrou!]]''.
+
+A Medicham that can [[Mega Evolution|Mega Evolve]] into Mega Medicham appeared in ''[[SS029|Mega Evolution Special I]]''.
+
+A Medicham appeared in ''[[XY026|A Battle by Any Other Name!]]''.
+
+A Medicham and its Mega Evolved form appeared during the opening sequence of ''[[M19|Volcanion and the Mechanical Marvel]]''. Another Medicham appeared in the movie proper.
+
+A Trainer's Medicham appeared in ''[[XY138|The First Day of the Rest of Your Life!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG050|Medicham|May's Pokédex|Medicham, the Meditate Pokémon. Medicham is able to harness psychic powers through {{m|Meditate|yoga}}. Being at one with nature, it can make itself vanish completely.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP127|Medicham|Dawn's Pokédex|Medicham, the Meditate Pokémon. Through a combination of food deprivation and meditation, Medicham gains the ability to see its opponent's [[aura]].}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Medicham Adventures.png|thumb|150px|Medicham in [[Pokémon Adventures]]]]
+[[File:Mega Medicham Adventures.png|thumb|left|150px|Mega Medicham in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Medicham was one of {{adv|Ruby}}'s opponents in the Normal Rank Beauty Contest in [[Verdanturf Town]] in ''[[PS217|Mind-Boggling with Medicham]]''.
+
+The Battle Factory rented a Medicham which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''.
+
+[[Arcade Star Dahlia]] has a Medicham that she uses in battle in ''[[PS422|Interrupting Ivysaur]]''. It, along with {{p|Togekiss}} and {{p|Ludicolo}}, got swapped with {{adv|Platinum}}'s Pokémon because of the Game Board.
+
+A Medicham appears with its Trainer at the Mini-game Corner in the {{chap|X & Y}}.
+
+A Medicham that can [[Mega Evolve]] appeared in a fantasy in the {{chap|X & Y}}.
+
+A Medicham that can Mega Evolve appeared as a silhouette in ''[[PAORAS04|Omega Alpha Adventure 4]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+A Trainer's Medicham appeared in ''[[DPA27|A Surprise Visit from Hareta's Father!]]''.
+
+==In the TCG==
+{{main|Medicham (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Red Rescue Team and Blue Rescue Team}}: Medicham is a member of [[Team Meanies]]. It attempted to climb [[Wish Cave]] with {{p|Ekans}} but gave up on the twentieth floor and had to be rescued by the player.
+* {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}: Medicham is a member of [[Team Charm]]. She knows Wigglytuff from long ago. Together, they and the player's team explore [[Aegis Cave]] and defeat {{p|Regigigas}}.
+* {{g|Mystery Dungeon: Explorers of Sky}}: Along with their role in Explorers of Time/Darkness, Team Charm debut in their own Special Episode, [[Here Comes Team Charm!]].
+
+===Pokédex entries===
+{{Dex/Header|type=Fighting|type2=Psychic}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=It is said that through meditation, Medicham heightens energy inside its body and sharpens its sixth sense. This Pokémon hides its presence by merging itself with fields and mountains.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Through the power of meditation, Medicham developed a sixth sense. It gained the ability to use psychokinetic powers. This Pokémon is known to {{m|meditate}} for a whole month without eating.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Through crushingly harsh yoga training, it gained the power to {{m|Mind Reader|foretell its foe's actions}}. It battles with elegant, dance-like movement.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=Through yoga training, it has honed its sixth sense. Its movements are elegant.}}
+{{Dex/Entry1|v=Pearl|entry=Through daily meditation, it hones its spiritual power. It can sense what others are thinking.}}
+{{Dex/Entry1|v=Platinum|entry=It gains the ability to see the aura of its opponents by honing its mind through starvation.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Through yoga training, it gained the psychic power to {{m|Mind Reader|predict its foe's next move}}.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It gains the ability to see the aura of its opponents by honing its mind through starvation.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It gains the ability to see the aura of its opponents by honing its mind through starvation.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion.}}
+{{Dex/Entry1|v=Y|entry=Through yoga training, it gained the psychic power to predict its foe's next move.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=It is said that through meditation, Medicham heightens energy inside its body and sharpens its sixth sense. This Pokémon hides its presence by merging itself with fields and mountains.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Through the power of meditation, Medicham developed its sixth sense. It gained the ability to use psychokinetic powers. This Pokémon is known to meditate for a whole month without eating.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fighting|type2=Psychic}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area={{ho|Victory Road}}}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1|v=Colosseum|area=[[Evolution|Evolve]] {{p|Meditite}}}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Meditite}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|217|Sinnoh}}, [[Acuity Lakefront]], [[Mt. Coronet]], {{si|Victory Road}}}}
+{{Availability/Entry1|v=Platinum|area=[[Mt. Coronet]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Meditite}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Pinwheel Forest]] ([[Hidden Grotto]]){{tt|*|Hidden Grotto in the Outer Area}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Meditite}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Victory Road (Hoenn)|Victory Road]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ultra Space Wilds]] ({{DL|Ultra Space Wilds|Cave World}})}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fighting|type2=Psychic}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Meditite}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 16, Endless Level 35, Forever Level 65, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Meditite}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Panula Cave]], [[Fiore Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Lost Wilderness]] (B1F-B17F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Lost Wilderness]] (B1F-B17F)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Canyon: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Grab and Go!|Adventure Area: Grab and Go!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 2|Infinite Ruins: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 230]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Sky Crest Range|Legend Terrain: Sky Crest Range]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 23|Area 23: Stage 04]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+=====Medicham=====
+{{BaseStats
+|type=Fighting
+|type2=Psychic
+|HP=     60
+|Attack= 60
+|Defense=75
+|SpAtk=  60
+|SpDef=  75
+|Speed=  80}}
+
+=====Mega Medicham=====
+{{BaseStats
+|type=Fighting
+|type2=Psychic
+|HP=     60
+|Attack= 100
+|Defense=85
+|SpAtk=  80
+|SpDef=  85
+|Speed=  100}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Fighting
+|type2=Psychic
+|Speed=3
+|SpeedMax=5
+|Power=3
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fighting
+|type2=Psychic
+|Normal=  100
+|Fighting= 50
+|Flying=  200
+|Poison=  100
+|Ground=  100
+|Rock=     50
+|Bug=     100
+|Ghost=   200
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Medicham|Fighting|Psychic|3}}
+{{learnlist/level7|1|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/level7|1|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/level7|1|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/level7|1|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/level7|1|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Meditate|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|1|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|4|Meditate|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|7|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|9|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|12|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|15|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level7|17|Force Palm|Fighting|Physical|60|100|10||'''}}
+{{learnlist/level7|20|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/level7|23|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|25|Mind Reader|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|28|High Jump Kick|Fighting|Physical|130|90|10||'''}}
+{{learnlist/level7|31|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|33|Acupressure|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|36|Power Trick|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|42|Reversal|Fighting|Physical|&mdash;|100|15||'''}}
+{{learnlist/level7|47|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|53|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/levelf/7|Medicham|Fighting|Psychic|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Medicham|Fighting|Psychic|3}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Medicham|Fighting|Psychic|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Medicham|Fighting|Psychic|3}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}|Baton Pass|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|675|Pangoro}}|Bullet Punch|Steel|Physical|40|100|30}}
+{{learnlist/breed7|{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Drain Punch|Fighting|Physical|75|100|10||'''}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|532|Timburr}}{{MSP|533|Gurdurr}}{{MSP|534|Conkeldurr}}|Dynamic Punch|Fighting|Physical|100|50|5||'''}}
+{{learnlist/breed7|{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}{{MSP|302|Sableye}}{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|126|Magmar}}{{MSP|467|Magmortar}}{{MSP|308|Medicham}}{{MSP|466|Electivire}}|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|106|Hitmonlee}}{{MSP|302|Sableye}}{{MSP|427|Buneary}}<br>{{MSP|428|Lopunny}}{{MSP|448|Lucario}}|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}|Guard Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|308|Medicham}}|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}|Power Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}|Psycho Cut|Psychic|Physical|70|100|20||'''}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}{{MSP|448|Lucario}}{{MSP|539|Sawk}}{{MSP|619|Mienfoo}}|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|063|Abra}}{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}<br>{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|106|Hitmonlee}}{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}<br>{{MSP|125|Electabuzz}}{{MSP|466|Electivire}}{{MSP|126|Magmar}}{{MSP|467|Magmortar}}{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}<br>{{MSP|302|Sableye}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|313|Volbeat}}{{MSP|327|Spinda}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}<br>{{MSP|448|Lucario}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}{{MSP|532|Timburr}}{{MSP|533|Gurdurr}}{{MSP|534|Conkeldurr}}<br>{{MSP|538|Throh}}{{MSP|539|Sawk}}{{MSP|574|Gothita}}{{MSP|575|Gothorita}}{{MSP|576|Gothitelle}}{{MSP|605|Elgyem}}<br>{{MSP|606|Beheeyem}}{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}{{MSP|624|Pawniard}}{{MSP|625|Bisharp}}{{MSP|674|Pancham}}<br>{{MSP|675|Pangoro}}{{MSP|701|Hawlucha}}|Secret Power|Normal|Physical|70|100|20|‡}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|125|Electabuzz}}{{MSP|466|Electivire}}{{MSP|308|Medicham}}{{MSP|467|Magmortar}}|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/breedf/7|Medicham|Fighting|Psychic|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Medicham|Fighting|Psychic|3}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||'''|no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20||'''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Medicham|Fighting|Psychic|3}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Medicham|Fighting|Psychic|3}}
+{{Learnlist/prevo7null}}
+{{learnlist/prevof/7|Medicham|Fighting|Psychic|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fighting color light}}; border: 3px solid #{{tcg fighting color}}"
+|-
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Rolling Kick}}
+| [[Medicham (EX Power Keepers 34)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Sky Uppercut}}
+| style="background:#fff; {{roundybr|5px}}" | [[Medicham (EX Crystal Guardians 25)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Fighting|type2=Psychic}}
+{{Spindata/PinballRS|col=3|type=Fighting|ndex=308|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Fighting|ndex=308|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Fighting|ndex=308
+|body=1
+|rate=Evolve
+|area=Mt. Discipline
+|P1=The mystical power of nature--that is yoga!
+|P2=So swiftly, my health has fallen to half.
+|P3=I stand on the brink... This may be my last act of elegance...
+|PL=Leveled up! The power of yoga permeates me!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Fighting|ndex=308
+|body=1
+|rate=-12
+|IQ=C
+}}
+|-
+{{Spindata/Ranger|col=6|type=Fighting
+|group=Psychic
+|assist=Fighting
+|fieldpower=2
+|field=Crush
+|loop=9
+|MinEXP=52
+|MaxEXP=76
+|browser=Medicham moves as if it were dancing. The impact of its kicks is astounding.
+}}
+|-
+{{Spindata/RumbleBlast|col=3|type=Fighting
+|att=2
+|def=3
+|speed=3
+}}
+{{Spindata/Battle Trozei|col=3|type=Fighting|ndex=308
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Fighting|ndex=308|num=314
+|mega=1
+|stone=Medichamite
+|min=60
+|max=135
+|raisemaxlevel=20
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+|megaspeedup=12
+|effectdesc=Erases a group of Pokémon in the middle at once.
+}}
+|-
+{{Spindata/GO|col=6|type=Fighting|ndex=308
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=120
+|attack=121
+|defense=152
+|fast={{m|Psycho Cut}}, {{m|Counter}}
+|special={{m|Ice Punch}}, {{m|Psychic}}, {{m|Dynamic Punch}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Fighting
+|type2=Psychic
+|pictype=art
+|no1=307
+|name1=Meditite
+|type1-1=Fighting
+|type2-1=Psychic
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 37}}
+|no2=308
+|name2=Medicham
+|type1-2=Fighting
+|type2-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Fighting|type2=Psychic}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=308}}
+{{Spritebox/4/Gender|ndex=308}}
+{{Spritebox/5/Gender|ndex=308}}
+{{Spritebox/6/2FormsGender|ndex=308|form1=M}}
+{{Spritebox/7/2FormsGender|ndex=308|form1=M}}
+{{Spritebox/Footer|308|Medicham}}
+
+==Trivia==
+
+===Origin===
+Medicham resembles a {{wp|primate}} of some sort, like its {{p|Meditite|pre-evolution.}} It appears to have been based on a practitioner of {{wp|yoga}}. It may have also been based on Arabian {{wp|belly dance}}rs, as its pants resemble traditional {{wp|bedlah}} pants and its headgear resembles a {{wp|shawl}}. One headpiece growth, the longest one, resembles a ponytail, which can be seen on Persian genies in most American fiction, such as Jeannie of ''{{wp|I Dream of Jeannie}}'', who also wear bedlahs. Like its predecessor Meditite, Medicham looks like many {{wp|Hinduism|Hindu}} deities, most especially {{wp|Shiva}}, and {{wp|Ardhanari}}, a fusion of Shiva and his wife {{wp|Shakti}}.
+
+====Name origin====
+Medicham may be a combination of ''meditate'' and ''champion''.
+
+Charem may derive from ''charm'', ''{{wp|harem pants}}'', ''challenge'', or ''champion''.
+
+==In other languages==
+{{Other languages|type=Fighting|type2=Psychic
+|ja=チャーレム ''Charem''|jameaning=From ''charm'', ''{{wp|harem pants}}'', ''challenge'', or ''champion''
+|fr=Charmina|frmeaning=From ''{{tt|charme|charm}}'' and ''{{tt|minauderies|affectations}}
+|es=Medicham|esmeaning=Same as English name
+|de=Meditalis|demeaning=From ''Meditation'' and ''Talisman''
+|it=Medicham|itmeaning=Same as English name
+|ko=요가램 ''Yogaram''|komeaning=From ''yoga'' and ''harem''
+|zh_cmn=恰雷姆 ''Qiàléimǔ''|zh_cmnmeaning=Transliteration of its Japanese name
+|hi=मेडिचैम ''Medicham''|himeaning=Transcription of English name
+|ru=Медичам ''Medicham''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Team Meanies]]
+* [[Team Charm]]
+
+==Notes==
+<references />
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Fighting|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=307|prev=Meditite|nextnum=309|next=Electrike}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Meditalis]]
+[[fr:Charmina]]
+[[it:Medicham]]
+[[ja:チャーレム]]
+[[pl:Medicham]]
+[[zh:恰雷姆]]

@@ -1,0 +1,343 @@
+{{PokémonPrevNext/Head|type=Ghost|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=708|prev=Phantump|nextnum=710|next=Pumpkaboo}}
+|}
+{{Pokémon Infobox
+|name=Trevenant
+|jname=オーロット
+|tmname=Ohrot
+|jtranslit=Ōrotto
+|category=Elder Tree
+|typebox=1
+|type1=Ghost
+|type2=Grass
+|abilityn=d
+|ability1=Natural Cure
+|ability2=Frisk
+|abilityd=Harvest
+|ndex=709
+|karea=Mountain
+|kdex=062
+|adex=197
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=156.5
+|weight-kg=71.0
+|egggroupn=2
+|egggroup1=Grass
+|egggroup2=Amorphous
+|gendercode=127
+|eggcycles=20
+|expyield=166
+|lv100exp=1,000,000
+|color=Brown
+|catchrate=60
+|evtotal=2
+|evat=2
+|body=10
+|pokefordex=trevenant
+|generation=6
+|friendship=70
+}}
+'''Trevenant''' ([[List of Japanese Pokémon names|Japanese]]: '''オーロット''' ''Ohrot'') is a dual-type {{2t|Ghost|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Phantump}} when [[trade]]d.
+
+==Biology==
+Trevenant is a slender brown tree that stands on six roots bent like spider legs. Its inner body is made up of black shadow, which is mostly covered by tree bark. There are two large, crooked horn-like gnarls on either side of its head, <!--both featuring small thorns, -->and another smaller gnarl on its forehead, with a tuft of green leaves in the middle and a large, menacing dark-red eye below them. Its two arms are held horizontally level, thin upper arms and thick forearms, like the body, is made up of black shadow covered with tree bark. Each upper arm has a single small spike or leaf. The forearms have a small branch immediately before a large cuff of green foliage at the wrist, connected to hands with three wooden pincer spikes for fingers.
+
+Trevenant can use its roots as a nervous system, allowing it to control trees at will. It uses this ability to trap those who bring harm to the forest, so they can never leave. Despite its terrifying appearance and power, it is known to be kind toward the Pokémon that nest in its body. Along with its pre-evolution {{p|Phantump}}, Trevenant is the [[Signature move|only known Pokémon]]
+capable of learning {{m|Forest's Curse}}.
+
+==In the anime==
+[[File:Trevenant anime.png|thumb|left|250px|Trevenant in the {{pkmn|anime}}]]
+===Major appearances===
+Trevenant made its main series debut in ''[[XY038|Forging Forest Friendships!]]'', where it kidnapped {{Ash}}. It wasn't malicious, though: it only wanted help rescuing its friends {{p|Bonsly}} and {{p|Sudowoodo}}, who had been trapped by {{TRT}}.
+
+A Trevenant appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''.
+
+===Minor appearances===
+Trevenant debuted in ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+An image of a Trevenant appeared in ''[[XY091|A Performance Pop Quiz!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY038|Trevenant|Ash's Pokédex|Trevenant, the Elder Tree Pokémon. A {{t|Ghost}} and {{t|Grass}} type, Trevenant is able to control trees. It traps those who cause harm to the forest and never lets them escape.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Essentia Trevenant Adventures.png|thumb|200px|Trevenant in [[Pokémon Adventures]]]]
+===In the movie adaptations===
+Two Trevenant appared in [[Get Fired Up, Marshadow!]], with one appearing as a silhouette.
+
+===In the [[Pokémon Adventures]] manga===
+[[Essentia]] owns a Trevenant in the {{chap|X & Y}}. It was first used to stop [[Korrina]] and [[Gurkinn]] from escaping the [[Tower of Mastery]]. Later it constricted {{adv|X}}, {{adv|Y}}, {{adv|Shauna}} {{adv|Tierno}} and {{adv|Trevor}} to prevent them from opposing [[Team Flare]]'s operation to move a dormant {{p|Xerneas}} back to their base.
+
+==In the TCG==
+{{main|Trevenant (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=ghost|type2=grass}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It can control trees at will. It will trap people who harm the forest, so they can never leave.}}
+{{Dex/Entry1|v=Y|entry=Using its roots as a nervous system, it controls the trees in the forest. It's kind to the Pokémon that reside in its body.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It can control trees at will. It will trap people who harm the forest, so they can never leave.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Using its roots as a nervous system, it controls the trees in the forest. It's kind to the Pokémon that reside in its body.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=This Pokémon is said to devour anyone daring to ravage the forest. To the creatures dwelling in the forest, it offers great kindness.}}
+{{Dex/Entry1|v=Moon|entry=Through its roots, it exerts control over other trees. A deadly curse falls upon anyone cutting down trees in forests where Trevenant dwell.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It's feared as a ghost of the forest. Lumberjacks bring along Fire types, which Trevenant hates, when they enter the forest.}}
+{{Dex/Entry1|v=Ultra Moon|entry=This Pokémon controls trees via roots stretching from its feet, and it will attack anyone that dares to ravage the forest.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=ghost|type2=grass}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|20|Kalos}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Phantump}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Phantump}}, [[Poké Pelago]]{{tt|*|Only begin appearing after the player reaches Ula'Ula Island}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Phantump}}<br/>[[In-game trade#Ultra Sun and Ultra Moon|Trade]] {{p|Phantump}} in [[Tapu Village]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ghost|type2=Grass}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Stage 3|Safari Jungle: Stage 3]]{{dotw|We}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 308]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Chilling Graveyard|Dark Land: Chilling Graveyard]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Base Stats
+|type=Ghost
+|type2=Grass
+|HP=85
+|Attack=110
+|Defense=76
+|SpAtk=65
+|SpDef=82
+|Speed=56}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Ghost
+|type2=Grass
+|Normal=0
+|Flying=200
+|Fighting=0
+|Ground=50
+|Rock=100
+|Bug=100
+|Poison=100
+|Ghost=200
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=200
+|Fairy=100
+|notes=yes
+|ghost=yes
+|newnormal=1
+|newfighting=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Trevenant|Ghost|Grass|6}}
+{{learnlist/level7|1|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/level7|1|Horn Leech|Grass|Physical|75|100|10||'''}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Confuse Ray|Ghost|Status|&mdash;|100|10}}
+{{learnlist/level7|1|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level7|1|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/level7|5|Astonish|Ghost|Physical|30|100|15||'''}}
+{{learnlist/level7|8|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|13|Ingrain|Grass|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|19|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/level7|23|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|28|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|31|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/level7|35|Forest's Curse|Grass|Status|&mdash;|100|20}}
+{{learnlist/level7|39|Destiny Bond|Ghost|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|45|Phantom Force|Ghost|Physical|90|100|10||'''}}
+{{learnlist/level7|49|Wood Hammer|Grass|Physical|120|100|15||'''}}
+{{learnlist/level7|54|Horn Leech|Grass|Physical|75|100|10||'''}}
+{{learnlist/levelf/7|Trevenant|Ghost|Grass|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Trevenant|Ghost|Grass|6}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Trevenant|Ghost|Grass|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Trevenant|Ghost|Grass|6}}
+{{learnlist/breed7|{{MSP|102|Exeggcute}}{{MSP|357|Tropius}}|Bestow|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|200|Misdreavus}}{{MSP|353|Shuppet}}{{MSP|354|Banette}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Grudge|Ghost|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|280|Ralts}}{{MSP|281|Kirlia}}{{MSP|282|Gardevoir}}{{MSP|607|Litwick}}{{MSP|608|Lampent}}|Imprison|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|331|Cacnea}}|Power-Up Punch|Fighting|Physical|40|100|20|*{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|089|Muk}}{{MSP|089A|Muk}}{{MSP|317|Swalot}}{{MSP|407|Roserade}}|Venom Drench|Poison|Status|&mdash;|100|20}}
+{{learnlist/breedf/7|Trevenant|Ghost|Grass|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Trevenant|Ghost|Grass|6}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Trevenant|Ghost|Grass|6}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Trevenant|Ghost|Grass|6}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Trevenant|Ghost|Grass|6}}
+
+===Side game data===
+{{Spindata/Head|type=Ghost|type2=Grass}}
+{{Template:Spindata/Battle Trozei|col=6|type=Ghost|ndex=709
+|power=2
+|skill=True Strength
+|skilldesc=Increases damage dealt when energy levels are half or less.
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Ghost|ndex=709|num=466
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Swap+
+|skilldesc=Sometimes replaces three disruptions with this Pokémon.
+|swapper=Shot Out
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=ghost
+|type2=grass
+|pictype=art
+|no1=708
+|name1=Phantump
+|type1-1=Ghost
+|type2-1=Grass
+|evo1={{bag|Pal Pad}}<br>{{color2|000|Trade}}
+|no2=709
+|name2=Trevenant
+|type1-2=Ghost
+|type2-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=ghost|type2=grass}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=709}}
+{{Spritebox/7|ndex=709}}
+{{Spritebox/Footer|709|Trevenant}}
+
+==Trivia==
+* No other Pokémon have the same [[Egg Group]] combination as Trevenant and its {{p|Phantump|pre-evolution}}.
+* Trevenant and its pre-evolution were designed by [[James Turner]].
+
+===Origin===
+Trevenant is probably based on a {{wp|kodama (spirit)|kodama}}, the spirits of trees that sometimes inhabit old aged trees. Its stripe-like indentation on its body is very similar to {{wp|shimenawa}}, used to mark spiritual habitation, who are often seen tied around kodama. It is also similar to other types of {{wp|List of tree deities|tree}} and {{wp|List of nature deities|nature}} spirits and deities, such as {{wp|dryad}}s. Trevenant's fierce protection of forests may be a reference to {{wp|hamadryad}}, or could perhaps be a nod to the concept of protected {{wp|sacred grove}}s. Its single eye may possibly be a reference to {{wp|cyclops|cyclopes}} or the mountain dwelling {{jwp|山童|yamawarawa}}. Its general body shape may have been based on the shape of the kanji 木, meaning wood or tree. Its Shiny coloration is based on the {{wp|birch}} tree, known for its gray-and-white bark, with its leaves representing a tree in the autumn.
+
+====Name origin====
+Trevenant is a combination of ''tree'' (or possibly ''{{wp|treant}}'') and ''{{wp|revenant}}''.
+
+Ohrot may be a combination of 大 ''ō'' (big) and ロット ''rot'' (as in a {{wp|root rot}}).
+
+==In other languages==
+{{Other languages|type=ghost|type2=grass
+|ja=オーロット ''Ohrot''|jameaning=From {{tt|大 ''ō''|big}} and {{tt|ロット ''rot''|rot}}
+|fr=Desséliande|frmeaning=From ''{{tt|dessécher|dry out}}'' and ''{{wp|Brocéliande}}''
+|es=Trevenant|esmeaning=Same as English name
+|de=Trombork|demeaning=From ''{{tt|trompieren|deceive}}'' and ''{{tt|Borke|bark}}''
+|it=Trevenant|itmeaning=Same as English name
+|ko=대로트 ''Daeroteu''|komeaning=From {{tt|대 (大) ''dae''|big}} and ''rot''
+|zh_cmn=朽木妖 ''Xiǔmùyāo''|zh_cmnmeaning=From {{tt|朽木 ''xiǔmù''|rotten wood}} and {{tt|妖 ''yāo''|goblin}}
+|zh_yue=朽木妖 ''Náumuhkyīu''|zh_yuemeaning=From {{tt|朽木 ''náumuhk''|rotten wood}} and {{tt|妖 ''yīu''|goblin}}
+|hi=ट्रेवेनन्त ''Trevenant''|himeaning=Transcription of English name
+|ru=Тревенант ''Trevenant''|rumeaning=Transliteration of English name
+}}
+{{-}}
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Ghost|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Ghost|prevnum=708|prev=Phantump|nextnum=710|next=Pumpkaboo}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Trombork]]
+[[fr:Desséliande]]
+[[it:Trevenant]]
+[[ja:オーロット]]
+[[pl:Trevenant]]
+[[zh:朽木妖]]

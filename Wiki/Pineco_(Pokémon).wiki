@@ -1,0 +1,488 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Pineco}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=203|prev=Girafarig|nextnum=205|next=Forretress|round=none}}
+{{PokémonPrevNext/Disambig|species=Pineco}}
+|}
+{{Pokémon Infobox
+|name=Pineco
+|jname=クヌギダマ
+|tmname=Kunugidama
+|ndex=204
+|jdex=093
+|abrow=110
+|obrow=190
+|opbrow=030
+|typebox=1
+|type1=Bug
+|category=Bagworm
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=15.9
+|weight-kg=7.2
+|abilityn=d
+|ability1=Sturdy
+|abilityd=Overcoat
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=20
+|evtotal=1
+|evde=1
+|expyield=58
+|oldexp=60
+|lv100exp=1,000,000
+|gendercode=127
+|color=Gray
+|catchrate=190
+|body=01
+|pokefordex=pineco
+|generation=2
+|friendship=70
+}}
+'''Pineco''' ([[List of Japanese Pokémon names|Japanese]]: '''クヌギダマ''' ''Kunugidama'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolve]]s into {{p|Forretress}} starting at [[level]] 31.
+
+==Biology==
+Pineco is a blue-green, pinecone-like Pokémon with red eyes and no visible limbs. It has a single spike on top of its head, which is supposedly its stem. It makes its shell thicker by gluing tree bark to its body. The glue is made of fluid that Pineco spits out, which hardens when it is exposed to air. Unbothered by the added weight of its shell, it patiently hangs from a {{DL|List of Pokémon by habitat|Forest Pokémon|tree branch}} to wait for flying insect prey. In Alola, its favorite prey is {{p|Cutiefly}}. Typically immobile, it will drop to the ground and explode if someone shakes its tree while it is eating.
+
+==In the anime==
+[[File:Brock Pineco.png|thumb|220px|left|Pineco in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Brock's Forretress|Brock's Pineco]]====
+{{TP|Brock|Pineco|Forretress}} debuted in ''[[EP143|Going Apricorn]]'', in which {{an|Brock}} captured one with a {{ball|Fast}}. It later evolved into a {{p|Forretress}} in ''[[EP259|Entei at Your Own Risk]]''.
+
+====Other====
+Multiple Pineco appeared in ''[[DP181|Bucking the Treasure Trend!]]'', where they attacked {{Ash}} and {{ashfr}} along with [[Buck]] as they went in search of the island's treasure.
+
+===Minor appearances===
+A Pineco was one of the Pokémon seen at the Pokémon Swap Meet in ''[[EP146|Tricks of the Trade]]''.
+
+Five Pineco were among the Pokémon that appeared in the [[Bug-Catching Contest]] in ''[[EP161|The Bug Stops Here]]''.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP143|Pineco|Ash's Pokédex|Pineco, the Bagworm Pokémon. Appears calm as it hangs sedately from tree branches, but it will {{m|Self-Destruct|self-destruct}} at the slightest provocation.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+
+==In the manga==
+[[File:Pokémon Association Pineco.png|thumb|Pineco in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Pineco debuted in ''[[PS091|Murkrow Row]]'' where it was seen as one of the Pokémon in [[Joey]]'s bag after {{adv|Gold}} helped him get it back.
+
+Pineco appeared in ''[[PS109|Forretress of Solitude]]'', {{adv|Red}} fights two in his aptitude test to be the [[Gym Leader]] of [[Viridian City]].
+
+A Pineco was mentioned as one of the Pokémon {{adv|Crystal}} captured and sent to {{adv|Professor Oak}} via the Portable Transfer System in ''[[PS121|Off Course with Corsola]]''. She remarked that it was a {{shiny|different color}}.
+
+Another Pineco was one of the Pokémon sent to help the fight in [[Ilex Forest]] in ''[[PS179|The Last Battle XIII]]''.
+
+==In the TCG==
+{{main|Pineco (TCG)}}
+
+==Game data==
+===NPC Appearances===
+*[[Pokémon Stadium 2]]: Pineco appears in the Mini-game Eager {{p|Eevee}}. Pineco will sometimes be revealed as the contents of the crate and if any players go after it, they will get hit with an {{m|Explosion}} and be unable to move in the next round.
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.}}
+{{Dex/Entry1|v=Silver|entry=It hangs and waits for flying insect prey to come near. It does not move about much on its own.}}
+{{Dex/Entry1|v=Crystal|entry=It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Pineco hangs from a tree branch and waits for prey. While eating, if it is disturbed by someone shaking its tree, it falls on the ground and suddenly explodes.}}
+{{Dex/Entry1|v=FireRed|entry=It hangs and waits for flying insect prey to come near. It does not move about much on its own.}}
+{{Dex/Entry1|v=LeafGreen|entry=It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.}}
+{{Dex/Entry1|v=HeartGold|entry=It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.}}
+{{Dex/Entry1|v=SoulSilver|entry=It hangs and waits for flying insect prey to come near. It does not move about much on its own.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.}}
+{{Dex/Entry1|v=Y|entry=It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree. it drops to the ground and explodes with no warning.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=Motionless, it hangs from trees, waiting for its bug Pokémon prey to come to it. Its favorite in Alola is Cutiefly.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It sticks tree bark to itself with its saliva, making itself thicker and larger. Elderly Pineco are ridiculously huge.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}, [[Azalea Town]], [[Ilex Forest]], [[Lake of Rage]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|29|Johto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|32|Johto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, {{rtn|39|Johto}}, and {{rtn|43|Johto}}, [[Lake of Rage]], [[Ilex Forest]] ([[Headbutt tree]]s)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{safari|Hoenn}} extension}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Phenac City]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|203|Sinnoh}}, {{rtn|204|Sinnoh}}, {{rtn|210|Sinnoh}}, and {{rtn|229|Sinnoh}}, [[Eterna Forest]] {{color2|{{emerald color dark}}|Dual-slot mode|(Emerald)}}}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|203|Sinnoh}}, {{rtn|204|Sinnoh}}, {{rtn|210|Sinnoh}}, and {{rtn|229|Sinnoh}}, [[Eterna Forest]] {{color2|{{emerald color dark}}|Dual-slot mode|(Emerald)}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|1|Kanto}}, {{rtn|2|Kanto}}, {{rtn|3|Kanto}}, {{rtn|4|Kanto}}, {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|8|Kanto}}, {{rtn|22|Kanto}}, {{rtn|25|Kanto}}, {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|29|Johto}}, {{rtn|30|Johto}}, {{rtn|31|Johto}}, {{rtn|32|Johto}}, {{rtn|33|Johto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, {{rtn|39|Johto}}, {{rtn|47|Johto}}, and {{rtn|48|Johto}}, [[New Bark Town]], [[Cherrygrove City]], [[Violet City]], [[Ecruteak City]], [[Pallet Town]], [[Viridian City]], [[Pewter City]], [[Cerulean City]], [[Safari Zone Gate]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|16|Unova}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|16|Unova}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{pkmn|breeding|Breed}} {{p|Forretress}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{pkmn|breeding|Breed}} {{p|Forretress}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Alola Route 10|Route 10]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 37, Endless Level 58, Forever Level 19, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Mt. Freeze]] (1F-5F), [[Wish Cave]] (61F-64F), [[Joyous Tower]] (61F-64F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mt. Horn]] (8F-14F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mt. Horn]] (8F-14F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Union Road]], [[Peril Cliffs]]}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Mitonga Road]], [[Forest Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Chrysalia]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#Launch to Victory!|Toy Collection: Launch to Victory!]], [[Variety Battle#Pokémon on a Roll|Variety Battle: Pokémon on a Roll]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 1|Infinite Ruins: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#Seventh release|''Pokémon Safari'']] <small>(Seventh release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Verdant Grove|Gold Plateau: Verdant Grove]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Bug}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Substitute Pineco|English|United States|5|February 28 to March 6, 2003|link=List of Gotta Catch 'Em All event Pokémon#Substitute Pineco}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Sixth Campaign Pineco|Japanese|Japan|10|April 22 to May 8, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Pineco}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|HP=50
+|Attack=65
+|Defense=90
+|SpAtk=35
+|SpDef=35
+|Speed=15}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=5
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=5
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=  100
+|Fighting= 50
+|Flying=  200
+|Poison=  100
+|Ground=   50
+|Rock=    200
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Pineco|Bug|Bug|2}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|6|Self-Destruct|Normal|Physical|200|100|5}}
+{{learnlist/level7|9|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|12|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|17|Rapid Spin|Normal|Physical|20|100|40}}
+{{learnlist/level7|20|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|23|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|28|Spikes|Ground|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|31|Payback|Dark|Physical|50|100|10}}
+{{learnlist/level7|34|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/level7|39|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|42|Gyro Ball|Steel|Physical|&mdash;|100|5||''}}
+{{learnlist/level7|45|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/levelf/7|Pineco|Bug|Bug|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Pineco|Bug|Bug|2}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5||''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Pineco|Bug|Bug|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Pineco|Bug|Bug|2}}
+{{learnlist/breed7|{{MSP|214|Heracross}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|204|Pineco}}{{MSP|205|Forretress}}{{MSP|313|Volbeat}}{{MSP|543|Venipede}}<br>{{MSP|544|Whirlipede}}{{MSP|545|Scolipede}}{{MSP|588|Karrablast}}{{MSP|589|Escavalier}}{{MSP|636|Larvesta}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|214|Heracross}}{{MSP|540|Sewaddle}}{{MSP|588|Karrablast}}|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|540|Sewaddle}}{{MSP|557|Dwebble}}{{MSP|558|Crustle}}{{MSP|588|Karrablast}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|167|Spinarak}}{{MSP|168|Ariados}}{{MSP|214|Heracross}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}<br>{{MSP|768|Golisopod}}|Pin Missile|Bug|Physical|25|95|20||'''}}
+{{learnlist/breed7|{{MSP|213|Shuckle}}|Power Trick|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|127|Pinsir}}|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP|328|Trapinch}}{{MSP|329|Vibrava}}{{MSP|330|Flygon}}|Sand Tomb|Ground|Physical|35|85|15}}
+{{learnlist/breed7|{{MSP|557|Dwebble}}{{MSP|558|Crustle}}|Stealth Rock|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|165|Ledyba}}{{MSP|166|Ledian}}{{MSP|617|Accelgor}}|Swift|Normal|Special|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|015|Beedrill}}{{MSP|205|Forretress}}{{MSP|451|Skorupi}}{{MSP|452|Drapion}}|Toxic Spikes|Poison|Status|&mdash;|&mdash;|20}}
+{{learnlist/breedf/7|Pineco|Bug|Bug|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Pineco|Bug|Bug|2}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Drill Run|Ground|Physical|80|95|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutorf/7|Pineco|Bug|Bug|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Focus Energy}}
+| style="background:#fff; {{roundybr|5px}}" | [[Pineco (Undaunted 63)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/Trozei|col=6|type=Bug|ndex=204|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=204
+|body=1
+|rate=9.4
+|area=Secretive Forest
+|P1=I just hang around, and the bugs... They just flock to me.
+|P2=My HP's sliding down to around half now.
+|P3=I'm barely hanging on... My body feels too heavy to move...
+|PL=There, got my level.
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=204
+|body=1
+|rate=8.2
+|IQ=E
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Bug
+|group=Bug
+|assist=Bug
+|field=Tackle
+|fieldpower=1
+|browser=It blows itself up.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Bug
+|group= Bug
+|assist= Normal
+|field= Tackle
+|fieldpower=1
+|browser=It causes explosions around itself.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Bug
+|att=2
+|def=2
+|speed=2
+}}
+|-
+{{Spindata/Conquest|col=6|type=Bug|ndex=204
+|HP=2
+|atk=2
+|def=2
+|spd=1
+|range=3
+|move=Bug Bite
+|ability1=Sturdy
+|ability2=Jagged Edge
+|ability3=Explode
+|evo=Evolves into {{p|Forretress}} when its Defense is 73 or higher
+|link={{DL|List of Pokémon Conquest characters|Kame}}, {{DL|List of Pokémon Conquest characters|Ujizane}}, and '''[[Yoshimoto]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=204
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=204|num=491
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Counterattack
+|skilldesc=Deals even more damage the more disruptions there are.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=204
+|egg=10
+|buddy=5
+|evocandy=50
+|stamina=100
+|attack=108
+|defense=146
+|fast={{m|Tackle}}, {{m|Bug Bite}}
+|special={{m|Gyro Ball}}, {{m|Rock Tomb}}, {{m|Sand Tomb}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Bug
+|pictype=art
+|no1=204
+|name1=Pineco
+|type1-1=Bug
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 31}}
+|no2=205
+|name2=Forretress
+|type1-2=Bug
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/NA|II}}
+{{Spritebox/2|ndex=204}}
+{{Spritebox/3|ndex=204}}
+{{Spritebox/4|ndex=204}}
+{{Spritebox/5|ndex=204}}
+{{Spritebox/6|ndex=204}}
+{{Spritebox/7|ndex=204}}
+{{Spritebox/Footer|204|Pineco}}
+
+==Trivia==
+* Pineco and its {{p|Forretress|evolution}} share their {{pkmn|category}} with {{p|Burmy}} and {{p|Wormadam}}. They are all known as the Bagworm Pokémon.
+
+===Origin===
+Pineco is based on a {{wp|bagworm moth|bagworm}} living in a {{wp|conifer cone|pine cone}}. Its metallic appearance and ability to explode also links to a {{wp|hand grenade}}. In addition to its possible relation to weaponry, its ability to learn {{m|Spikes}} may be a reference to {{wp|caltrop}}s.
+
+====Name origin====
+Pineco is a shortening of ''pine cone'', reflecting its pine cone-like appearance.
+
+Kunugidama may be a combination of クヌギ ''kunugi'' ({{wp|sawtooth oak}}) and 玉 ''tama'' (ball).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=クヌギダマ ''Kunugidama''|jameaning=From {{tt|クヌギ ''kunugi''|sawtooth oak}} and {{tt|玉 ''tama''|ball}}
+|fr=Pomdepik|frmeaning=From {{tt|''pomme de pin''|cone}} and {{tt|''pic''|pike}}
+|es=Pineco|esmeaning=Same as English name
+|de=Tannza|demeaning=From {{tt|''Tannenzapfen''|fir cone}} and {{tt|''Panzer''|armor}}
+|it=Pineco|itmeaning=Same as English name
+|ko=피콘 ''Pikon''|komeaning=Possibly a shortening of ''pine cone''
+|zh_cmn=榛果球 ''Zhēnguǒqiú''|zh_cmnmeaning=Literally "Hazelnut ball"
+|hi=पाईनेको ''Pineco''|himeaning=Transcription of English name
+|ru=Пайнеко ''Payneko''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Brock's Forretress|Brock's Pineco]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=203|prev=Girafarig|nextnum=205|next=Forretress}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+
+[[de:Tannza]]
+[[fr:Pomdepik]]
+[[it:Pineco]]
+[[ja:クヌギダマ]]
+[[pl:Pineco]]
+[[zh:榛果球]]

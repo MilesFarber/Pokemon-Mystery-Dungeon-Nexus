@@ -1,0 +1,629 @@
+{{PokémonPrevNext/Head|type=Psychic|type2=Grass}}
+{{PokémonPrevNext/GO|species=Celebi}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=250|prev=Ho-Oh|nextnum=252|next=Treecko|round=none}}
+{{PokémonPrevNext/Disambig|species=Celebi}}
+|}
+{{Pokémon Infobox
+|name=Celebi
+|jname=セレビィ
+|tmname=Celebi
+|jtranslit=Serebyi
+|category={{tt|Time Travel|TIMETRAVEL in Generation II}}
+|typebox=1
+|type1=Psychic
+|type2=Grass
+|abilityn=1
+|abilitylayout=1
+|ability1=Natural Cure
+|ndex=251
+|jdex=256
+|oldjdex=251
+|fbrow=212
+|abrow=263
+|obrow=057
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=11.0
+|weight-kg=5.0
+|egggroupn=0
+|egggroup1=Undiscovered
+|gendercode=255
+|eggcycles=120
+|evtotal=3
+|evhp=3
+|expyield=270
+|oldexp=64
+|lv100exp=1,059,860
+|color=Green
+|catchrate=45
+|body=12
+|pokefordex=celebi
+|generation=2
+|friendship=100
+}}
+'''Celebi''' ([[List of Japanese Pokémon names|Japanese]]: '''セレビィ''' ''Celebi'') is a dual-type {{2t|Psychic|Grass}} [[Mythical Pokémon]] introduced in [[Generation II]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+It serves as the guardian of [[Ilex Forest]] and is only able to be caught from the wild in {{game|Crystal}} with an event activated by the [[GS Ball]].
+
+Celebi is the last Pokémon in the [[List of Pokémon by Johto Pokédex number|Johto Pokédex]] and [[List of Pokémon by Hoenn Pokédex number (Generation III)|Hoenn Pokédex]] in [[Generation III]], although in the latter, Celebi is not shown.
+
+==Biology==
+Celebi is a green fairy-like creature. It has round toeless feet, three-fingered hands, and clear wings on its back. It has a round head that comes to a curved point. It has large baby-blue eyes with thick black rings around them, and a pair of green antennae with blue tips.
+
+Often found in {{DL|List of Pokémon by habitat|Forest Pokémon|forests}}, Celebi is a Mythical Pokémon, known in legend as the "Voice of the Forest." It is able to travel through time and exist simultaneously throughout time, and plant life flourishes wherever it has been. [[M04|As seen in the anime]], it is able to bring deceased Celebi back to life and restore plants to perfect health. It was shown in [[Pokémon Colosseum]] that Celebi has the power to instantly cause the [[Purification]] of any [[Shadow Pokémon]] and can be summoned at [[Relic Forest]] with the melody of a [[Time Flute]]. Despite living in forests as its guardian, Celebi only shows itself in areas and times of peace. It has been regarded that as long as Celebi are seen throughout the world, a prosperous and bright future is still in store for the Pokémon World.
+
+==In the anime==
+[[File:Celebi anime.png|thumb|250px|left|Celebi in the {{pkmn|anime}}]]
+[[File:Dark Celebi.png|thumb|250px|Dark Celebi in [[M04|the fourth movie]]]]
+===Major appearances===
+====[[Celebi (M04)]]====
+Celebi debuted in ''[[M04|Celebi: The Voice of the Forest]]''. A {{pkmn|poacher|Pokémon hunter}} was after it and Celebi traveled 40 years into future to escape from him, taking young [[Sam]] along with it accidentally. The [[Iron-Masked Marauder]] eventually captured the Time Travel Pokémon in a [[Dark Ball]] and used it to destroy the forest. {{Ash}} and [[Sam]] managed to snap Celebi out of the Iron-Masked Marauder's spell.
+
+====[[Celebi (M13)]]====
+Celebi appeared in a central role again in ''[[M13|Zoroark: Master of Illusions]]''. [[Grings Kodai]] was after Celebi's [[Time Ripple]] in order to restore his ability to see the future, which he got on a previous encounter with it. It befriended {{OBP|Zorua|M13}} and helped save {{OBP|Zoroark|M13}} after she was mortally injured by Kodai.
+
+====Other====
+A Celebi appeared in ''[[SS013|Celebi and Joy!]]'', where it took [[Ritchie]] back in time to help stop the destruction of a [[Pokémon Center]].
+
+A Celebi appeared in ''[[AG155|The Green Guardian]]'', where the {{OBP|Pokémon Ranger|Ranger series}} [[Solana]] accompanied {{Ash}} and {{ashfr}} in helping it.
+
+===Minor appearances===
+A Celebi made a brief cameo in the opening sequence of ''[[M06|Jirachi: Wish Maker]]''.
+
+A Celebi appeared in the [[boss fantasy]] of ''[[DP092|A Lean Mean Team Rocket Machine!]]''.
+
+A Celebi made a cameo appearance in the opening sequence of ''[[M10|The Rise of Darkrai]]'', where it was seen using {{m|Safeguard}} to protect itself from an {{p|Entei}}'s {{m|Fire Spin}}.
+
+A Celebi appeared in a fantasy in ''[[DP143|An Egg Scramble!]]''.
+
+A Celebi made a cameo appearance in the ending credits in ''[[PK24|Meloetta's Moonlight Serenade]]''.
+
+===Pokédex entries===
+{{Animedexheader|Emerald}}
+{{Animedexbody|AG155|Celebi|May's Pokédex|Celebi, the Time Travel Pokémon. Celebi wanders across time as guardian of the forest. Wherever it appears, trees and grass flourish.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Emerald}}
+
+==In the manga==
+[[File:Celebi Adventures.png|thumb|200px|Celebi in [[Pokémon Adventures]]]]
+===In the Ash & Pikachu manga===
+Celebi appeared in ''[[SP35|A 'Thank You' That Transcends Time]]''.
+
+===In the movie adaptations===
+{{main|Celebi (M04)}}
+Celebi appeared in ''{{ma|Celebi: a Timeless Encounter}}''.
+[[File:Celebi PMHGSS.png|thumb|200px|Celebi in [[Pocket Monsters HGSS]]]]
+===In the Pokémon Adventures manga===
+{{main|Celebi (Adventures)}}
+The [[Masked Man]] aimed to capture Celebi and use its time-traveling powers to reunite one of his Pokémon with its deceased parents. Although the Masked Man managed to capture Celebi, the GS Ball holding it was destroyed by {{adv|Gold}}, freeing it from the villain's control. Afterward, it would appear to help in the {{chap|Ruby & Sapphire|Ruby & Sapphire}} and {{chap|HeartGold & SoulSilver}}s. Celebi made its debut in ''[[PS175|The Last Battle IX]]''.
+
+===In the Pokémon Gotta Catch 'Em All manga===
+[[Shu]] caught a Celebi in Pokémon Gotta Catch 'Em All but released it afterwards.
+
+===In the Pokémon Pocket Monsters manga===
+A Celebi appeared in ''[[PM092|Celebi, the Green Guardian]]''.
+
+===In the Pokémon Try Adventure manga===
+A Celebi appeared in [[TA40]].
+{{-}}
+
+==In the TCG==
+{{main|Celebi (TCG)}}
+
+==Other appearances==
+[[File:Celebi SSBB.png|220px|left|thumb|Celebi in [[Super Smash Bros. Brawl]]]]
+===[[Super Smash Bros. Melee]]===
+When a [[Poké Ball]] is thrown, there is a 1 in 251 chance of Celebi appearing after all these requirements have been fulfilled:
+* Unlock all 25 characters
+* Unlock all 29 stages
+* Beat all 51 events
+* Unlock the score display (by reaching 5000 KOs)
+
+It does not affect the battle, but the thrower of the [[Poké Ball]] will earn a bonus and trophy of Celebi.
+
+====Trophy information====
+''"Celebi has the power to travel through time, and thus wanders from one age to the next. It is considered a deity by the forests: plants and trees are said to grow in unimaginable abundance wherever Celebi visits. Like Mew, Celebi is a Pokémon shrouded in mystery. Its special techniques blend grass and psychic powers."''
+
+===[[Super Smash Bros. Brawl]]===
+When a Poké Ball is thrown, there is a 1 in 493 chance of Celebi appearing. Like the other "secret" Pokémon, it drops collectible items; in Celebi's case, it drops trophies.
+
+====Trophy information====
+''"A Time Travel Pokémon. Celebi can travel throughout time and inhabit multiple places simultaneously. It is said that it appears only during times of peace, greeted by a flourishing of grass and trees. Two turns after Celebi uses its {{m|Future Sight}} move, the foe is bombarded with psychic energy. This proves to have a devastating impact on any Pokémon."''
+
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Nintendo 3DS]]===
+Celebi appears as a trophy.
+====Trophy information====
+''This Pokémon has the unique ability to travel through time to the past or future. However, the only times Celebi wants to visit are those of peace, so catching sight of Celebi in one of the beautiful forests it frequents is a good sign indeed. Perhaps it's mankind's responsibility to create the kind of time Celebi would want to visit.''
+
+==Game data==
+===NPC appearances===
+{{spoilers}}
+* {{ga|Pokémon Ranger}}: Celebi is in a [[Ranger Net]] mission. In the mission, the player must capture the Celebi to save it from the [[Go-Rock Squad]]. It is found wandering in [[Lyra Forest]].
+* [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]]: [[Celebi (Explorers of Time, Darkness, and Sky)|A Shiny Celebi]] is a supporting protagonist in the main storyline. When the player and partner are sent to the future by {{mdc|Dusknoir|2}}, the player, partner, and {{mdc|Grovyle|2}} work together to get back to the past. Celebi was the Pokémon who sent Grovyle and the player to the past before, and the trio receive her help to go back again.
+* [[Pokémon Ranger: Guardian Signs]]: Celebi is the first boss of the game and a main Pokémon in the storyline. It has the power to [[time travel]] and can send the player (without the [[Ukulele Pichu]]) into the past. It can also send specific Pokémon to the present if the player uses the correct [[Ranger Signs]].
+* [[Pokémon Super Mystery Dungeon]]: A regular Celebi appears with {{p|Ampharos}} and {{p|Jirachi}} of the [[Expedition Society]] to transport the player and partner out of harm's way before {{p|Nuzleaf}} and {{p|Beheeyem}} get a second chance to petrify the player and partner after their return from the [[Voidlands]]. Celebi explains that [[Dark Matter]] once threatened to attack the Tree of Life which would have resulted in the planet's collision with the sun, but was stopped by the efforts of a human and a Pokémon. Celebi theorizes this same human was brought back to the present by the ancient {{p|Mew}}. Celebi also reveals that the Harmony Scarves worn by the player and partner were made using materials from the Tree of Life; their temporary evolutions were triggered as a result of the Tree's power. Later, Celebi helps assist many other Pokémon in stopping the ascent of the Tree of Life into the sun a second time. It, along with the Shiny Celebi from Pokémon Mystery Dungeon Explorers of Time, Darkness, and Sky, are recruitable after completion of the main story via the Connection Orb.
+
+===Pokédex entries===
+{{Dex/Header|type=Psychic|type2=Grass}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=This Pokémon [[Time travel|wanders across time]]. Grass and trees flourish in the forests in which it has appeared.}}
+{{Dex/Entry1|v=Silver|entry=When Celebi disappears deep in a forest, it is said to leave behind an egg it brought from the future.}}
+{{Dex/Entry1|v=Crystal|entry=Revered as a guardian of the forest, Celebi appears wherever beautiful forests exist.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry3|v=Ruby|v2=Sapphire|v3=Emerald|t=FFF|t2=FFF|t3=FFF|entry=This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.}}
+{{Dex/Entry1|v=FireRed|entry=When Celebi disappears deep in the forest, it is said to leave behind an egg it brought from the future.}}
+{{Dex/Entry1|v=LeafGreen|entry=This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It has the power to travel across time, but it is said to appear only in peaceful times.}}
+{{Dex/Entry1|v=HeartGold|entry=This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.}}
+{{Dex/Entry1|v=SoulSilver|entry=When Celebi disappears deep in the forest, it is said to leave behind an egg it brought from the future.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It has the power to travel across time, but it is said to appear only in peaceful times.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It has the power to travel across time, but it is said to appear only in peaceful times.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.}}
+{{Dex/Entry1|v=Y|entry=It has the power to travel across time, but it is said to appear only in peaceful times.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|entry=This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic|type2=Grass}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2/None|v=Gold|v2=Silver|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=Crystal|area=[[Ilex Forest]] <small>(requires [[GS Ball]])</small>{{tt|*|distributed in the Japanese version only for the original release; available without an event for all languages in the VC release}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Emerald|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Colosseum|area=Purify all [[Shadow Pokémon]] <small>(requires [[Pokémon Colosseum Bonus Disc|Japanese bonus disc]])</small>}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl|area={{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Platinum|area={{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area={{pkmn2|Event}}}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]<br>[[Relocator]] <small>({{DL|List of Nintendo event Pokémon with in-game effects|Celebi|Event Celebi}} only)}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y|area={{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area={{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area={{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area={{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic|type2=Grass}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Springleaf Field]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Random Agent Cards, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Purity Forest]] (99F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Lyra Forest]] (Event mission 2)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+
+{{Availability/Entry1|1|v=MD Time|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] ({{tt|10F|with Mystery Part or Secret Slab in the bag}})}}
+{{Availability/Entry1/None|1|v=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Wonder Mail]] code}}
+{{Availability/Entry1|1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] ({{tt|10F|with Mystery Part or Secret Slab in the bag}})}}
+{{Availability/Entry1|1|v=Ranger: SoA|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Vien Forest]] (after completing all 59 [[Ranger Quest]]s)}}
+{{Availability/Entry1|1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[PokéPark Entrance]]{{tt|*|Can be challenged to Skill Game}}, [[Haunted Zone]]{{tt|*|Can be befriended through Tangrowth's Swing-Along}}}}
+{{Availability/Entry1|1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Cocona Village]], [[Rand's House]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Everspring Valley]]{{tt|*|Get 60 customers}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#The Garden at the End of Time|Flower Garden: The Garden at the End of Time]], NFC Figurine}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 1|Island of Haste: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#3.5 Million Celebration|Celebi Enters!]]'' <small>(3DS)</small><br>Event: ''[[Special Stages#Great Challenge|Celebi Appears]]'' <small>(3DS)</small><br>Event: ''[[Special Stages#Commemorative Event|Celebi Enters!]]'' <small>(Mobile)</small><br>Event: ''[[Special Stages#Great Challenge|Celebi Appears]]'' <small>(Mobile)</small><br>Event: ''[[Escalation Battle|Take on Escalation Battles]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Time-Leap Plains|Starlight Islands: Time-Leap Plains]] <small>(Special Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 04|Area 04: Stage 08]] (As a {{DL|Pokémon Picross|Mythical Pokémon}})}}
+|}
+|}
+{{Availability/Footer}}
+
+Celebi is only obtainable in [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|Pokémon Mystery Dungeon: Explorers of Darkness]] after downloading a [[Wonder Mail]] from the Nintendo WFC.
+
+====In events====
+{{eventAvail/h|Language/Region|type=Psychic|type2=Grass|expand=yes}}
+{{eventAvail|{{gameabbrev2|GS}}|Nintendo Space World 2000 Celebi|Japanese|Japan|5|August 25 to 27, 2000|link=List of Japanese event Pokémon distributions in Generation II#Nintendo Space World 2000 Celebi}}
+{{eventAvail|{{gameabbrev2|GS}}|Shogakukan Annual Event Celebi|Japanese|Japan|?|October ??, 2000|link=List of Japanese event Pokémon distributions in Generation II#Shogakukan Annual Event Celebi}}
+{{eventAvail|{{gameabbrev2|GSC}}|World Hobby Fair Celebi|Japanese|Japan|5|January 13 to February 4, 2001|link=List of Japanese event Pokémon distributions in Generation II#World Hobby Fair Celebi}}
+{{eventAvail|{{gameabbrev2|GS}}|Celebi Sweepstakes Celebi|English|North America|?|August 2001|link=List of European language event Pokémon distributions in Generation II#Celebi Sweepstakes Celebi}}
+{{eventAvail|{{gameabbrev2|GS}}|Nintendo Power Celebi|English|United States|?|September 2001|link=List of European language event Pokémon distributions in Generation II#Nintendo Power Celebi}}
+{{eventAvail|{{gameabbrev2|GSC}}|Pokémon Fun Fest Celebi|English|North America|5|August 4 to September 9, 2001|link=List of European language event Pokémon distributions in Generation II#Pokémon Fun Fest Celebi}}
+{{eventAvail|{{gameabbrev2|GS}}|Celebi Tour Celebi|European|Europe|5|August 23 to November 4, 2001|link=List of European language event Pokémon distributions in Generation II#Celebi Tour Celebi}}
+{{eventAvail|{{gameabbrev2|GSC}}|Westfield Shopping Centre Celebi|English|Australia|?|September 24 to October 20, 2001|link=List of European language event Pokémon distributions in Generation II#Westfield Shopping Centre Celebi}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Celebi|English|United States|5|December 21 to 27, 2001<br>June 29 to July 4, 2002<br>October 11 to 17, 2002<br>November 22 to 28, 2002<br>March 7 to 13, 2003|link=List of Gotta Catch 'Em All event Pokémon#Celebi}}
+{{eventAvail|{{gameabbrev2|GSC}}|Sweden Celebi Tour Celebi|English|Sweden|?|February 11 to March 18, 2002|link=List of European language event Pokémon distributions in Generation II#Sweden Celebi Tour Celebi}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Journey Across America Celebi|English|United States|70|February 25 to July 23, 2006|link=List of Journey Across America event Pokémon distributions#Celebi}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|PokéPark Celebi|Japanese|Taiwan|30|June 23 to September 24, 2006|link=List of Japanese event Pokémon distributions in Generation III#PokéPark Celebi}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Mitsurin Celebi|Japanese|Japan|10|July 20 to September 3, 2006|link=List of Japanese event Pokémon distributions in Generation III#Mitsurin Celebi}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Cinema Celebi|Japanese|Japan|50|July 3 to September 30, 2010|link=List of local Japanese event Pokémon distributions in Generation IV#Cinema Celebi}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Cinema Celebi|Korean|South Korea|50|December 23, 2010 to February 28, 2011|link=List of local Korean event Pokémon distributions in Generation IV#Cinema Celebi}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Winter 2011 Celebi|French|France|50|February 1 to March 3, 2011|link=List of local French event Pokémon distributions in Generation IV#Winter 2011 Celebi}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Winter 2011 Celebi|Italian|Italy|50|February 1 to March 3, 2011|link=List of local Italian event Pokémon distributions in Generation IV#Winter 2011 Celebi}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Winter 2011 Celebi|Spanish|Spain|50|February 1 to March 3, 2011|link=List of local Spanish event Pokémon distributions in Generation IV#Winter 2011 Celebi}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Winter 2011 Celebi|English|the Americas|50|February 5 to March 20, 2011|link=List of local English event Pokémon distributions in Generation IV#Americas Winter 2011 Celebi}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Winter 2011 Celebi|English|Europe|50|February 11 to March 12, 2011|link=List of local English event Pokémon distributions in Generation IV#European Winter 2011 Celebi}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Winter 2011 Celebi|German|Germany|50|February 18 to 27, 2011|link=List of local German event Pokémon distributions in Generation IV#Winter 2011 Celebi}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon 20th Anniversary Celebi|American region|Online|100|March 1 to 24, 2016|link=List of American region Nintendo Network event Pokémon distributions in Generation VI#Celebi}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon 20th Anniversary Celebi|PAL region|Online|100|March 1 to 24, 2016|link=List of PAL region Nintendo Network event Pokémon distributions in Generation VI#Celebi}}
+{{eventAvail|{{gameabbrev7|SMUSUM}}|Ilex Forest Celebi|Japanese region|Online|30|September 22, 2017 to October 31, 2018|link=List of Japanese region serial code event Pokémon distributions in Generation VII#Ilex Forest Celebi}}
+{{eventAvail|{{gameabbrev7|SMUSUM}}|Ilex Forest Celebi|American region|Online|30|September 22, 2017 to October 31, 2018|link=List of American region serial code event Pokémon distributions in Generation VII#Ilex Forest Celebi}}
+{{eventAvail|{{gameabbrev7|SMUSUM}}|Ilex Forest Celebi|PAL region|Online|30|September 22, 2017 to October 31, 2018|link=List of PAL region serial code event Pokémon distributions in Generation VII#Ilex Forest Celebi}}
+{{eventAvail|{{gameabbrev7|SMUSUM}}|Ilex Forest Celebi|Korean region|Online|30|September 22, 2017 to October 31, 2018|link=List of Korean region serial code event Pokémon distributions in Generation VII#Ilex Forest Celebi}}
+|}
+
+=====In-game events=====
+{{eventAvail/h|Language/Region|type=Psychic|type2=Grass|lochide=yes}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Ageto Celebi|Japanese|hide|10|November 21, 2003 onwards|link=List of game-based Pokémon distributions in Generation III#Ageto Celebi}}
+{{eventAvail|{{gameabbrev6|XY}}|Pokémon Bank Celebi|All|hide|10|December 25, 2013 to September 30, 2014|link=List of game-based Pokémon distributions in Generation VI#Pokémon Bank Celebi}}
+|}
+
+===Held items===
+{{HeldItems|type=Psychic|type2=Grass
+|event1=Jaboca Berry|event1type=Berry|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Psychic
+|type2=Grass
+|HP=     100
+|Attack= 100
+|Defense=100
+|SpAtk=  100
+|SpDef=  100
+|Speed=  100}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Psychic
+|type2=Grass
+|Speed=5
+|SpeedMax=5
+|Power=1
+|PowerMax=3
+|Technique=5
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|type2=Grass
+|Normal= 100
+|Fighting=50
+|Flying= 200
+|Poison= 200
+|Ground=  50
+|Rock=   100
+|Bug=    400
+|Ghost=  200
+|Steel=  100
+|Fire=   200
+|Water=   50
+|Grass=   50
+|Electric=50
+|Psychic= 50
+|Ice=    200
+|Dragon= 100
+|Dark=   200
+|Fairy=  100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Celebi|Psychic|Grass|2}}
+{{learnlist/level7|1|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|1|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|1|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Heal Bell|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|10|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/level7|19|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/level7|28|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/level7|37|Baton Pass|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|46|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|55|Heal Block|Psychic|Status|&mdash;|100|15}}
+{{learnlist/level7|64|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/level7|73|Healing Wish|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|82|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/level7|91|Perish Song|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/levelf/7|Celebi|Psychic|Grass|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Celebi|Psychic|Grass|2}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Celebi|Psychic|Grass|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Celebi|Psychic|Grass|2}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Celebi|Psychic|Grass|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Celebi|Psychic|Grass|2}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magic Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Celebi|Psychic|Grass|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+|-
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Poison Powder}}
+| [[Dark Celebi (EX Hidden Legends 4)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Supersonic}}
+| style="background:#fff; {{roundybr|5px}}" | [[Celebi (P Promo 42)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Psychic|type2=Grass}}
+{{Spindata/Trozei|col=6|type=Psychic|ndex=251|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Psychic|ndex=251
+|body=1
+|rate={{tt|N/A|Automatically after completing Purity Forest}}
+|area=Healing Forest
+|P1=I traveled through time to be with you!
+|P2=Oh? My health is halfway down. I'd better be careful.
+|P3=Oh, no... The power of time has run out...
+|PL=Yes! I gained a level! The power from the future is gaining intensity!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Psychic|ndex=251
+|body=1
+|rate=20
+|IQ=B
+}}
+|-
+{{Spindata/Ranger|col=6|type=Psychic
+|group=Grass
+|assist=Grass
+|fieldpower=0
+|field=None
+|loop=3
+|MinEXP=200
+|MaxEXP=270
+|browser=Celebi is a mirage Pokémon that summons thorny vines and flits around them.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Psychic
+|group=Grass
+|assist=Grass
+|field=None
+|fieldpower=-
+|browser=It protects itself with a psychic barrier. It attacks by shooting high-speed leaves.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Psychic
+|group=Grass
+|assist=Grass
+|field=None
+|past=NA
+|browser=It shoots leaves and grows vines to attack.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Psychic
+|att=3
+|def=4
+|speed=4
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Psychic|ndex=251
+|Pad=Celebi traveled through time to join the fun in the {{ga|PokéPark}}. Celebi wows the crowd when playing {{DL|Attractions|Tangrowth's Swing-Along}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Psychic|ndex=251
+|power=3
+|skill=Power of Six
+|skilldesc=Increases the damage dealt by matching six Pokémon.
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Psychic|ndex=251|num=232
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Stabilize
+|skilldesc=Sometimes erases one of the foe's disruptions on the board.
+|swapper=Cheer
+}}
+|-
+{{Spindata/GO|col=6|type=Psychic|ndex=251
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=200
+|attack=210
+|defense=210
+|fast={{m|Confusion}}, {{m|Charge Beam}}
+|special={{m|Hyper Beam}}, {{m|Psychic}}, {{m|Dazzling Gleam}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Psychic
+|type2=Grass
+|pictype=art
+|no1=251
+|name1=Celebi
+|type1-1=Psychic
+|type2-1=Grass
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic|type2=Grass}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=251}}
+{{Spritebox/3|ndex=251}}
+{{Spritebox/4|ndex=251}}
+{{Spritebox/5|ndex=251}}
+{{Spritebox/6|ndex=251}}
+{{Spritebox/7|ndex=251}}
+{{Spritebox/Footer|251|Celebi}}
+
+==Trivia==
+* Celebi was the only Pokémon of the 100 [[Generation II]] Pokémon that wasn't used in [[Pokérap GS]].
+** However, it was used in the [[Hoenn Pokérap]] along with Mew, another Pokémon that wasn't used in its own generation's Pokérap.
+* During the main story of {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}, {{mdc|Celebi|2}} is referred to as a female, while it is genderless in the core series as well as on the Mystery Dungeon status screen.
+** Also, this Celebi is the first [[Shiny Pokémon]] to appear in the [[Pokémon Mystery Dungeon series]].
+** A different non-shiny Celebi appears in {{g|Super Mystery Dungeon}}, who is referred to as a male.
+* A 2008 [http://www.pokebeach.com/news/0708/second-pokemon-interview-with-masamitsu-hidaka-many-interesting-points interview] done with [[Masamitsu Hidaka]] revealed that the [[GS Ball]] was initially meant to contain a Celebi that would be used in a story arc throughout the Johto series. This idea was shelved, however, and {{OBP|Celebi|M04}} became the star of ''[[M04|Celebi: The Voice of the Forest]]''.
+* Celebi is the only Pokémon whose number in the [[National Pokédex]] and the [[List of Pokémon by New Pokédex number|New Pokédex]] are the same: 251.
+* According to a dead Nintendo of Japan page from the early 2000s, Celebi's Japanese name was initially romanized as ''Selbi'' as opposed to the later ''Celebi''.<ref>[http://www.nintendo.co.jp/n07/selbi/ Nintendo of Japan page]{{dead link}}</ref><ref>[http://www.math.miami.edu/~jam/azure/forum/tuff/ultimatebb.php?ubb=get_topic;f=7;t=001003 The Azure Heights Forum: How to get Serebii] (thread from March 2001, containing a link to the aforementioned Nintendo of Japan page)</ref>
+* Celebi was the first event-exclusive Pokémon to appear in an episode of the anime.
+
+===Origin===
+Celebi has a natural theme.<ref>[http://www.gamefreak.co.jp/blog/dir_english/?p=203 Hidden Power of Masuda: Director's Columns]</ref> Celebi might be related to the nature worship of {{wp|Shinto}}ism. It may be based on a {{wp|fairy}}, {{wp|dryad}}, or ''{{wp|Kodama (spirit)|kodama}}''.
+
+====Name origin====
+Celebi may be a combination of ''{{wp|celestial}}'' and ''being'', or it may be a combination of ''serenity'' and 美 ''bi'' (beauty).
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Grass
+|ja=セレビィ ''Celebi''|jameaning=From ''celestial'', ''cerebral'',  ''serenity'', ''being'', and {{tt|美 ''bi''|beauty}}
+|fr=Celebi|frmeaning=Same as Japanese name
+|es=Celebi|esmeaning=Same as Japanese name
+|de=Celebi|demeaning=Same as Japanese name
+|it=Celebi|itmeaning=Same as Japanese name
+|ko=세레비 ''Celebi''|komeaning=Transliteration of its Japanese name
+|zh_cmn=雪拉比 ''Xuělābǐ''|zh_cmnmeaning=Transliteration of its Japanese name
+|hi=सेलेबी ''Celebi''|himeaning=Transcription of English name
+|ru=Селеби ''Selebi''|rumeaning=Transcription of English name
+|uk=Селебі ''Selebi''|ukmeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Celebi (M04)]]
+* [[Celebi (M13)]]
+* [[Celebi (Explorers of Time, Darkness, and Sky)]]
+* [[Celebi (Adventures)]]
+
+==Notes==
+<references/>
+
+==External links==
+* {{wp|Celebi (Pokémon)|Article on Wikipedia}}
+
+{{-}}
+{{Legendary Pokémon}}
+{{EventExclusive}}<br>
+{{Smash Bros.}}<br>
+{{PokémonPrevNext/Head|type=Psychic|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=250|prev=Ho-Oh|nextnum=252|next=Treecko}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Mythical Pokémon]]
+[[Category:Promotion-only Pokémon]]
+
+[[de:Celebi]]
+[[fr:Celebi]]
+[[it:Celebi]]
+[[ja:セレビィ]]
+[[pl:Celebi]]
+[[zh:时拉比]]

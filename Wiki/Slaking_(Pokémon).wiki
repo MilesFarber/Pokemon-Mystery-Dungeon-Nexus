@@ -1,0 +1,492 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Slaking}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=288|prev=Vigoroth|nextnum=290|next=Nincada|round=none}}
+{{PokémonPrevNext/Disambig|species=Slaking}}
+|}
+{{Pokémon Infobox
+|name=Slaking
+|jname=ケッキング
+|jtranslit=Kekkingu
+|tmname=Kekking
+|ndex=289
+|hdex=038
+|hdex6=039
+|u2dex=278
+|fbrow=164
+|typebox=1
+|type1=Normal
+|category=Lazy
+|height-ftin=6'07"
+|height-m=2.0
+|weight-lbs=287.7
+|weight-kg=130.5
+|abilityn=1
+|abilitylayout=1
+|ability1=Truant
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=15
+|evtotal=3
+|evhp=3
+|expyield=252
+|oldexp=210
+|lv100exp=1,250,000
+|gendercode=127
+|color=Brown
+|catchrate=45
+|body=12
+|pokefordex=slaking
+|generation=3
+|friendship=70
+}}
+'''Slaking''' ([[List of Japanese Pokémon names|Japanese]]: '''ケッキング''' ''Kekking'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Vigoroth}} starting at [[level]] 36. It is the final form of {{p|Slakoth}}.
+
+==Biology==
+Slaking is a large, bulky, ape-like bipedal Pokémon. Most of its shaggy fur is brown, along with the semi-circle patterning under its eyes. Its face, chest, hands, and feet are lighter in color. Its brows are thick and jutting, and it has a large, pink, pig-like nose. Around its neck is a white collar of fur that extends over the top of its head before ending in a small tuft. It has large, five-fingered hands and two-toed feet.
+
+During most of the day, Slaking lolls around and sleeps. It is considered the laziest Pokémon, but even when it is lounging it's saving energy. It can exert a lot of power by releasing built up energy all at once, and can regain lost energy through the use of its former [[signature move]], {{m|Slack Off}}. Slaking lives in {{DL|List of Pokémon by habitat|Forest Pokémon|forests,}} where it feeds on grass and ripened fruit that falls from trees. It only moves around when there is no more food within reach for it to eat.
+
+==In the anime==
+[[File:Sawyer Slaking.png|left|thumb|250px|Slaking in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Norman's Slaking]]====
+Slaking debuted in ''[[AG069|Love, Petalburg Style]]'', belonging to {{an|May}}'s father, [[Norman]], the [[Gym Leader]] of [[Petalburg City]]. In [[AG070|the following episode]], [[Ash's Grovyle]] defeated it in battle, winning {{Ash}} the {{badge|Balance}}. Slaking appeared again in ''[[DP079|Strategy With a Smile!]]'', where it was seen watching the [[Wallace Cup]] on television with Norman.
+
+====Other====
+A giant Slaking appeared in ''[[AG179|Slaking Kong]]'', but it was a robot controlled by {{TRT}}. Multiple real wild Slaking also appeared.
+
+[[Sawyer]] has a Slaking, which he used in the [[Lumiose Conference]]. It debuted in ''[[XY126|Valuable Experience for All!]]'', in which it defeated a Trainer's {{p|Medicham}}. It was later used in ''[[XY127|Analysis Versus Passion!]]'' during Sawyer's [[Full Battle]] against {{Ash}}, where it defeated {{AP|Hawlucha}} before losing to {{AP|Talonflame}}.
+
+===Minor appearances===
+A Slaking appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+A {{pkmn|Trainer}}'s Slaking appeared in ''[[BW134|The Journalist from Another Region!]]'', where it was entered in the [[Pokémon Sumo Tournament]] on [[Harvest Island]]. It was [[Ash's Pignite]]'s second opponent, and it lost due to not even trying to make an effort in the battle.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG069|Slaking|May's Pokédex|Slaking, the Lazy Pokémon. Slaking lives most of its life asleep, eating only grasses that grow within its reach.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY127|Slaking|Serena's Pokédex|Slaking, the Lazy Pokémon. Slaking lies down most of the time. It gets up and moves only when there is no more grass close by to eat.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Norman Slaking Adventures.png|thumb|230px|Slaking in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Norman's Slaking}}
+[[Norman]]'s signature Pokémon is a {{TP|Norman|Slaking}}, who first appeared in ''[[PS186| Brushing Past Breloom]]''. Although it would seem that his {{a|Truant|Ability}} would be of major hindrance, he shows that by having a {{p|Spinda}} tag alongside him and use {{m|Skill Swap}} in times of need, his impressive strength and speed would be wielded to their maximum. Additionally, the move {{m|Bulk Up}} allows him to bolster his stats even more.
+
+{{adv|Emerald}} used a Slaking during his {{DL|Battle Frontier (Generation III)|Battle Factory}} challenge in ''[[PS306|Pinsir Me, I Must Be Dreaming]]''. Thanks to {{m|Slack Off}}, it was able to outlast a {{p|Hitmonlee}} despite its type and speed disadvantages. After the battle, it was swapped with a {{p|Linoone}}.
+
+[[Palace Maven Spenser]] also used a Slaking against the young boy in ''[[PS325|Standing in the Way with Starmie]]'', but their battle was not seen.
+
+A Slaking appeared in ''[[PS315|Skirting Around Surskit I]]'' as a rental Pokémon that [[Guile Hideout]] stole.
+
+A Slaking appeared in a flashback as a Pokémon trained by the [[International Police]] in ''[[PS528|Innocent Scientist]]''.
+
+===In the Pokémon Pocket Monsters manga===
+Slaking was owned by [[Rydel's rival]] in ''[[PMRS17|Serious Bicycle Match!]]''.
+{{-}}
+
+==In the TCG==
+{{main|Slaking (TCG)}}
+
+==In the TFG==
+One Slaking figure has been released.
+* {{TFG|Groundbreakers}}: {{TFG ID|Groundbreakers|Slaking|28}}
+
+==Game data==
+===NPC appearances===
+* {{ga|Pokémon Ranger}}: [[Go-Rock Quads|Clyde]] uses a Slaking in his attempts to stop the player.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Slaking spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this Pokémon reluctantly moves to another spot.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Wherever Slaking lives, rings of over a yard in diameter appear in grassy fields. They are made by the Pokémon as it eats all the grass within reach while lying prone on the ground.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Hordes of Slaking gather around trees when fruits come into season. They wait around patiently for ripened fruits to fall out of the trees.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It is the world's most slothful Pokémon. However, it can exert horrifying power by releasing pent-up energy all at once.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=The world's laziest Pokémon. When it is lounging, it is actually saving energy for striking back.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=The world's laziest Pokémon. It moves to another spot when there's no food left within its reach.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=The world's laziest Pokémon. When it is lounging, it is actually saving energy for striking back.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=This Pokémon lives lying on its side. It only rolls over and moves when there is no more grass to eat.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The world's laziest Pokémon. It moves to another spot when there's no food left within its reach.}}
+{{Dex/Entry1|v=Y|entry=It is the world's most slothful Pokémon. However, it can exert horrifying power by releasing pent-up energy all at once.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Slaking spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this Pokémon reluctantly moves to another spot.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Wherever Slaking live, rings of over a yard in diameter appear in grassy fields. They are made by the Pokémon as it eats all the grass within reach while lying prone on the ground.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Vigoroth}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Vigoroth}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Vigoroth}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Vigoroth}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Vigoroth}}}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[Evolution|Evolve]] {{p|Vigoroth}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Pinwheel Forest]] (inner; {{DL|Phenomenon|rustling grass}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Vigoroth}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Vigoroth}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Vigoroth}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 62, Forever Level 12, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Vigoroth}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Olive Jungle]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Crevice Cave]] (B1-B10, Lower Crevice Cave B1-B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Crevice Cave]] (B1-B10, Lower Crevice Cave B1-B4), [[Mt. Avalanche]] (B1-B19)}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Canyon: [[Rugged Flats]] (Post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]], [[Magical Lake#Dual Launchers|Magical Lake: Dual Launchers]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Monday Stage 1|Safari Jungle: Stage 1]]{{dotw|Mo}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Great Challenge|Slaking Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Bastion of Beginnings|Legend Terrain: Bastion of Beginnings]] <small>(Back Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|HP=     150
+|Attack= 160
+|Defense=100
+|SpAtk=   95
+|SpDef=   65
+|Speed=  100}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=1
+|SpeedMax=1
+|Power=5
+|PowerMax=5
+|Technique=1
+|TechniqueMax=2
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=  100
+|Fighting=200
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=     0
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Slaking|Normal|Normal|3}}
+{{learnlist/level7|1|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|1|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/level7|1|Punishment|Dark|Physical|&mdash;|100|5}}
+{{learnlist/level7|1|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/level7|1|Slack Off|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|6|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/level7|9|Slack Off|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|14|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/level7|17|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|23|Covet|Normal|Physical|60|100|25||'''}}
+{{learnlist/level7|27|Chip Away|Normal|Physical|70|100|20||'''}}
+{{learnlist/level7|33|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/level7|39|Flail|Normal|Physical|&mdash;|100|15||'''}}
+{{learnlist/level7|47|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/level7|53|Punishment|Dark|Physical|&mdash;|100|5}}
+{{learnlist/level7|61|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/levelf/7|Slaking|Normal|Normal|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Slaking|Normal|Normal|3}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Slaking|Normal|Normal|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Slaking|Normal|Normal|3}}
+{{learnlist/breed7|{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|572|Minccino}}{{MSP|765|Oranguru}}|After You|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|324|Torkoal}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|432|Purugly}}<br>{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}|Body Slam|Normal|Physical|85|100|15||'''}}
+{{learnlist/breed7|{{MSP|028|Sandslash}}{{MSP|335|Zangoose}}|Crush Claw|Normal|Physical|75|95|10||'''}}
+{{learnlist/breed7|{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|112|Rhydon}}{{MSP|217|Ursaring}}{{MSP|289|Slaking}}{{MSP|464|Rhyperior}}{{MSP|500|Emboar}}{{MSP|555|Darmanitan}}<br>{{MSP|652|Chesnaught}}{{MSP|660|Diggersby}}{{MSP|675|Pangoro}}{{MSP|759|Stufful}}{{MSP|760|Bewear}}|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/breed7|{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|083|Farfetch'd}}{{MSP|336|Seviper}}{{MSP|359|Absol}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|461|Weavile}}<br>{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|571|Zoroark}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}<br>{{MSP|128|Tauros}}{{MSP|197|Umbreon}}{{MSP|206|Dunsparce}}{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|418|Buizel}}<br>{{MSP|419|Floatzel}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|570|Zorua}}<br>{{MSP|571|Zoroark}}{{MSP|587|Emolga}}{{MSP|626|Bouffalant}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|028A|Sandslash}}{{MSP|050|Diglett}}{{MSP|051|Dugtrio}}<br>{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|083|Farfetch'd}}{{MSP|215|Sneasel}}<br>{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|255|Torchic}}{{MSP|256|Combusken}}{{MSP|257|Blaziken}}{{MSP|264|Linoone}}<br>{{MSP|288|Vigoroth}}{{MSP|335|Zangoose}}{{MSP|352|Kecleon}}{{MSP|359|Absol}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}<br>{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|503|Samurott}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|529|Drilbur}}<br>{{MSP|530|Excadrill}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|631|Heatmor}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}|Slash|Normal|Physical|70|100|20||'''}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|325|Spoink}}{{MSP|326|Grumpig}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|702|Dedenne}}|Snore|Normal|Special|50|100|15||'''}}
+{{learnlist/breed7|{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|572|Minccino}}{{MSP|573|Cinccino}}|Tickle|Normal|Status|&mdash;|100|20}}
+{{learnlist/breedf/7|Slaking|Normal|Normal|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Slaking|Normal|Normal|3}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25||'''|no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Slaking|Normal|Normal|3}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Slaking|Normal|Normal|3}}
+{{learnlist/prevo7|287|Slakoth|||||Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/prevo7|288|Vigoroth|||||Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/prevo7|288|Vigoroth|||||Focus Energy|Normal|Status|—|—|30}}
+{{learnlist/prevo7|288|Vigoroth|||||Uproar|Normal|Special|90|100|10|'''|{{sup/7|SM}}}}
+{{learnlist/prevo7|288|Vigoroth|||||Fury Swipes|Normal|Physical|18|80|15|'''}}
+{{learnlist/prevo7|288|Vigoroth|||||Endure|Normal|Status|—|—|10}}
+{{learnlist/prevo7|288|Vigoroth|||||Focus Punch|Fighting|Physical|150|100|20||{{sup/7|SM}}}}
+{{learnlist/prevof/7|Slaking|Normal|Normal|3}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/PinballRS|col=3|type=Normal|ndex=289|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=289|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=289
+|body=1
+|rate=Evolve
+|area=Energetic Forest
+|P1=When I get serious, you'd best watch out, too.
+|P2=It appears that I have only half my HP left.
+|P3=I'm weary... I'm out of all the power I conserved...
+|PL=Hmm... It appears that I've gained a level.
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=289
+|body=1
+|rate=-12
+|IQ=C
+}}
+|-
+{{Spindata/Ranger|col=6|type=Normal
+|group=Normal
+|fieldpower=3
+|field=Crush
+|loop=17
+|MinEXP=200
+|MaxEXP=250
+|browser=Slaking powerfully slaps the ground with both palms to cause tremors.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=5
+|def=3
+|speed=4
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=289
+|power=3
+|skill=True Strength
+|skilldesc=Increases damage dealt when energy levels are half or less.
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=289|num=597
+|min=80
+|max=115
+|raisemaxlevel=5
+|skill=Risk-Taker
+|skilldesc=Increases damage randomly.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=289
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=273
+|attack=290
+|defense=183
+|fast={{m|Yawn}}
+|special={{m|Hyper Beam}}, {{m|Play Rough}}, {{m|Earthquake}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Normal
+|pictype=art
+|no1=287
+|name1=Slakoth
+|type1-1=Normal
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 18}}
+|no2=288
+|name2=Vigoroth
+|type1-2=Normal
+|evo2={{bag|Rare Candy}} <br>{{color2|000|Level|Level 36}}
+|no3=289
+|name3=Slaking
+|type1-3=Normal}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=289}}
+{{Spritebox/4|ndex=289}}
+{{Spritebox/5|ndex=289}}
+{{Spritebox/6|ndex=289}}
+{{Spritebox/7|ndex=289}}
+{{Spritebox/Footer|289|Slaking}}
+
+==Trivia==
+* Slaking has several similarities to {{p|Regigigas}}. They are both {{t|Normal}} types, have hindering abilities ({{a|Truant}} and {{a|Slow Start}}), have the highest base {{stat|Attack}} stat of all {{type|Normal}} Pokémon, and have the same base stat totals.
+* A {{DL|List of unused Pokémon and character designs|Godzillante & Gorillaimo|pre-alpha sketch}} from the development of ''[[Capsule Monsters]]'' depicts a Pokémon that bears a slight resemblance to Slaking.
+
+===Origin===
+It appears to draw inspiration from {{wp|sloth}}s and some form of {{wp|ape}}. The inspiration from sloths makes it somewhat resemble a ''{{wp|Megatherium}}'', also known as the Giant Ground Sloth; however, it more closely resembles a {{wp|gorilla}}.
+
+====Name origin====
+Slaking is a combination of ''slake'' (to slacken) or a corruption of ''slack'' (to become lazy) and ''king''. It may also be a play on ''slacking''.
+
+Kekking may be a combination of 欠勤 ''kekkin'' (not showing up for work) and ''king''.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ケッキング ''Kekking''|jameaning=From {{tt|欠勤 ''kekkin''|absence}} and ''king''
+|fr=Monaflèmit|frmeaning=From ''monarch'' and {{tt|''flemme''|slacking off}}
+|es=Slaking|esmeaning=Same as English name
+|de=Letarking|demeaning=From {{tt|''lethargisch''|lethargic}} and ''king''
+|it=Slaking|itmeaning=Same as English name
+|ko=게을킹 ''Geulking''|komeaning=From {{tt|게으르다 ''ge'eureuda''|to be lazy}} and ''king''
+|zh_cmn=請假王 / 请假王 ''Qǐngjiàwáng''|zh_cmnmeaning=From {{tt|請假 ''qǐngjià''|to request for a leave of absence}} and {{tt|王 ''wáng''|king}}
+|ru=Слакинг ''Slaking''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Norman's Slaking]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=288|prev=Vigoroth|nextnum=290|next=Nincada}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Letarking]]
+[[fr:Monaflèmit]]
+[[it:Slaking]]
+[[ja:ケッキング]]
+[[pl:Slaking]]
+[[zh:请假王]]

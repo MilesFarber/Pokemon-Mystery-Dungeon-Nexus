@@ -1,0 +1,719 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Psyduck}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=053|prev=Persian|nextnum=055|next=Golduck|round=none}}
+{{PokémonPrevNext/Disambig|species=Psyduck}}
+|}
+{{Pokémon Infobox
+|name=Psyduck
+|jname=コダック
+|jtranslit=Kodakku
+|tmname=Koduck
+|ndex=054
+|oldjdex=138
+|jdex=140
+|hdex=158
+|hdex6=165
+|sdex=043
+|u2dex=028
+|karea=Central
+|kdex=059
+|adex=089
+|fbrow=121
+|type1=Water
+|category=Duck
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=43.2
+|weight-kg=19.6
+|abilitylayout=2
+|ability1=Damp
+|ability2=Cloud Nine
+|abilityd=Swift Swim
+|egggroupn=2
+|egggroup1=Water 1
+|egggroup2=Field
+|eggcycles=20
+|evtotal=1
+|evsa=1
+|expyield=64
+|oldexp=80
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|catchrate=190
+|body=06
+|pokefordex=psyduck
+|generation=1
+|friendship=70
+}}
+'''Psyduck''' ([[List of Japanese Pokémon names|Japanese]]: '''コダック''' ''Koduck'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s into {{p|Golduck}} starting at [[level]] 33.
+
+==Biology==
+Psyduck is a yellow Pokémon that resembles a duck or bipedal platypus. Three tufts of black hair grow on top of its head, and it has a wide, flat, cream-colored beak and vacant eyes. Its legs, arms, and tail are stubby and its webbed feet are cream-colored. There are three claws on both of its hands.
+
+Psyduck is constantly stunned by its headache and is unable to think very clearly. It usually stands immobile, trying to calm its headache. However, when its headache becomes too severe, it releases tension in the form of strong psychic powers. The use of these powers produces brain waves identical to those seen in sleepers, and the Pokémon is unable to recall these episodes. Psyduck lives in {{DL|List of Pokémon by habitat|Water's-edge Pokémon|freshwater lakes}} and small ponds, but can be seen in rivers in tropical areas as shown in [[Pokémon Snap]].
+
+==In the anime==
+===In the main series===
+====Major appearances====
+[[File:Misty Psyduck.png|250px|thumb|right|Psyduck in the {{pkmn|anime}}]]
+=====[[Misty's Psyduck]]=====
+{{an|Misty}} has a Psyduck that she accidentally caught in ''[[EP027|Hypno's Naptime]]''. It is a constant source of frustration for her, as it frequently emerges from its [[Poké Ball]] to attempt to battle the opponent in substitution of one of her other Pokémon. Regardless of this, she has been shown to deeply care for it. Despite being generally shown as dimwitted and oblivious, when its {{wp|headache}} gets bad enough, it has been shown to use phenomenally powerful {{type|Psychic}} moves, which far exceed its normal ability.
+
+=====Other=====
+[[File:Psyduck Eggs.png|thumb|250px|Psyduck {{pkmn|Egg}}s in the {{pkmn|anime}}]]
+A Psyduck appeared in ''[[EP091|Bye Bye Psyduck]]'', under the ownership of a girl named {{OBP|Marina|EP091}}. It wasn't as dopey as the Psyduck Misty had, and even proved itself strong in battle, managing to defeat {{TP|Misty|Staryu}}. However, it lost against a wild Golduck that Misty used, believing her Psyduck had evolved into it.
+
+A Psyduck appeared in ''[[M01|Mewtwo Strikes Back]]'', as a clone to Misty's Psyduck created by {{OBP|Mewtwo|original series}}.
+
+A Psyduck appeared in ''[[AG140|Sitting Psyduck]]'', under the ownership of a rich girl named {{OBP|Emily|AG140}}. However, the Psyduck didn't like having a pampered lifestyle and kept running away.
+
+A Psyduck appeared in ''[[DP010|Not on MY Watch Ya Don't!]]'', where {{TRT}} used it as part of their scheme.
+
+Nine Psyduck appeared in ''[[DP087|The Psyduck Stops Here!]]''; they consisted of six parents and three babies. Three of the parents were blocking the path that {{Ash}} and {{ashfr}} needed to pass on their way to [[Celestic Town]]. The Psyduck weren't able to return to their real home, [[Lake Psyduck]], due to three {{p|Muk}}.
+
+A Psyduck appeared in ''[[PK24|Meloetta's Moonlight Serenade]]''.
+
+====Minor appearances====
+Two Psyduck were part of an exhibition in ''[[EP122|Flower Power]]''.
+
+A Psyduck appeared in ''[[EP169|Beauty and the Breeder]]'', where it participated in [[Pokémon Beauty Contest|a Pokémon breeding competition]].
+
+A Psyduck appeared in ''[[EP216|Dueling Heroes]]'' and ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Psyduck was used by one of the students of the [[Pokémon Trainers' School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+A Psyduck appeared in ''[[AG035|Win, Lose, or Drew!]]'' as a Pokémon in the Contest.
+
+A boy's Psyduck appeared in ''[[AG105|Once in a Mawile!]]'', when [[Samantha]]'s {{DL|Samantha|Mawile}} fell in love with it.
+
+A Psyduck made a cameo appearance in ''[[M10|The Rise of Darkrai]]'' as one of the Pokémon {{mov|Darkrai|Darkrai|10}} hit with a {{m|Dark Void}}.
+
+A {{pkmn|Coordinator}}'s Psyduck appeared in ''[[DP049|Dawn's Early Night!]]'', where it was seen participating in a [[Double Performance]] alongside a {{p|Duskull}} during the {{ci|Hearthome}} {{pkmn|Contest}}.
+
+A Psyduck appeared in ''[[DP104|Sleepless In Pre-Battle!]]'', where it was spotted by [[Dawn's Piplup]].
+
+A Psyduck appeared in ''[[XY002|Lumiose City Pursuit]]'', ''[[XY010|Mega-Mega Meowth Madness!]]'', ''[[XY040|Day Three Blockbusters!]]'', and ''[[XY137|Battling With a Clean Slate!]]''; and in a flashback in ''[[SS029|Mega Evolution Special I]]'', and ''[[XY068|Garchomp's Mega Bond!]]''. It was an inhabitant of [[Professor Sycamore]]'s lab.
+
+Psyduck made cameo appearances in ''[[XY005|A Blustery Santalune Gym Battle!]]'', ''[[XY006|Battling on Thin Ice!]]'', ''[[XY008|Grooming Furfrou!]]'', ''[[XY029|Heroes - Friends and Faux Alike!]]'', and ''[[XY073|A Fashionable Battle!]]''.
+
+Two Psyduck appeared in ''[[XY016|A Jolting Switcheroo!]]''.
+
+A Psyduck appeared in ''[[XY021|A PokéVision of Things to Come!]]''.
+
+A {{pkmn|Trainer}}'s Psyduck appeared in ''[[XY026|A Battle by Any Other Name!]]'', where it was seen participating in the [[Poké Puff Contest]].
+
+A Trainer's Psyduck appeared in ''[[XY039|Summer of Discovery!]]'', ''[[XY041|Foggy Pokémon Orienteering!]]'', and ''[[XY042|Battling Into the Hall of Fame!]]''.
+
+A Trainer's Psyduck appeared in ''[[XY047|Dreaming a Performer's Dream!]]''.
+
+A {{pkmn|Performer}}'s Psyduck appeared in ''[[XY060|A Showcase Debut!]]'', where it was seen participating in the [[Coumarine City]] [[Pokémon Showcase]]. It reappeared in ''[[XY080|Performing with Fiery Charm!]]'', ''[[XY105|Party Dancecapades!]]'', ''[[XY112|Master Class is in Session!]]'', and ''[[XY113|Performing a Pathway to the Future!]]''.
+
+A Psyduck appeared in ''[[XY066|Confronting the Darkness!]]''.
+
+A Trainer's Psyduck appeared in ''[[XY096|A Giga Battle with Mega Results!]]''.
+
+A Trainer's Psyduck appeared in ''[[XY115|Battling at Full Volume!]]''.
+
+A Psyduck appeared in ''[[M19|Volcanion and the Mechanical Marvel]]'' as one of the Pokémon seen at [[Nebel Plateau]].
+
+Two Psyduck appeared during a flashback in ''[[SS036|The Legend of X, Y, and Z!]]''.
+
+A Psyduck belonging to a stallholder appeared in ''[[SM004|First Catch in Alola, Ketchum-Style!]]''. It was seen happily giving some berries to a group of {{p|Pikipek}}.
+
+Six Trainers' Psyduck appeared in ''[[SM006|A Shocking Grocery Run!]]''.
+
+A Psyduck appeared in ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', where it was among the Pokémon playing in {{an|Lillie}}'s garden. It appeared again in ''[[SM030|The Ol' Raise and Switch!]]''.
+
+A Psyduck appeared in ''[[SM009|To Top a Totem!]]'', where it was seen falling out of the sky.
+
+A Trainer's Psyduck appeared in ''[[SM027|A Glaring Rivalry!]]''.
+
+A Psyduck appeared in ''[[SM029|Lulled to La-La Land!]]'' during a fantasy.
+
+Two Psyduck appeared in ''[[M20|I Choose You!]]'', with one being wild and the other under the ownership of a Trainer.
+
+A Psyduck appeared in ''[[SM039|Mallow and the Forest Teacher!]]''.
+
+Two Trainers' Psyduck appeared in ''[[SM040|Balloons, Brionne, and Belligerence!]]''.
+
+Multiple wild Psyduck appeared in ''[[SM042|Alola, Kanto!]]''.
+
+A Psyduck appeared in ''[[SM044|A Dream Encounter!]]'', in a video advertising [[Aether Paradise]].
+
+A Trainer's Psyduck appeared in ''[[SM045|Now You See Them, Now You Don't!]]''.
+
+A Psyduck appeared on a monitor at [[Aether Paradise]] in ''[[SM049|Mission: Total Recall!]]''.
+
+A Trainer's Psyduck appeared in [[SM064]].
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP027|Psyduck|Ash's Pokédex|Psyduck, a Water Pokémon. Uses mysterious powers to perform various attacks. Psyduck constantly suffers from a headache.}}
+{{Animedexbody|EP032|Psyduck's attacks|Ash's Pokédex|Psyduck's attacks are: One: {{m|Tail Whip}}. Number two: {{m|Scratch}}. Number three: {{m|Disable}}. Number four: {{m|Confusion}}. When Psyduck's headache becomes severe, it uses amazing power.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+{{Animedexheader|Emerald}}
+{{Animedexbody|AG140|Psyduck|May's Pokédex|Psyduck, the Duck Pokémon. Psyduck suffers frequent headaches and can exhibit mysterious attacks when they become especially intense.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Emerald}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP087|Psyduck|Dawn's Pokédex|Psyduck, the Duck Pokémon. When a Psyduck's headache gets severe, it starts to exhibit odd powers.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+===In Pokémon Origins===
+[[File:Red Psyduck PO.png|thumb|220px|Psyduck in [[Pokémon Origins]]]]
+{{OBP|Red|Origins}} hooked a Psyduck in ''[[PO03|File 3: Giovanni]]'' and eventually caught it.
+{{-}}
+
+==In the manga==
+===In the Ash & Pikachu manga===
+[[File:Ash Psyduck AP.png|thumb|220px|Psyduck in [[Ash & Pikachu]]]]
+{{main|Misty's Psyduck}}
+{{Ash}} borrowed Misty's Psyduck in ''[[SP02|The Beginning Of Good Luck?! Pokémon Fortune Telling]]''.
+
+===In the How I Became a Pokémon Card manga===
+In the [[How I Became a Pokémon Card]] manga, a Psyduck appears in ''[[PW13|Troubled Pokémon, Psyduck]]''.
+
+A {{tc|Team Rocket Grunt}} was shown with a Psyduck.
+
+===In the movie adaptations===
+A Psyduck appears in ''{{ma|The Rise of Darkrai}}'' where it was one of the Pokémon put to sleep by {{mov|Darkrai|Darkrai|10}}.
+
+===In the Pokémon Adventures manga===
+[[File:Mr Foreman Yeller.png|thumb|200px|Psyduck in [[Pokémon Adventures]]]]
+In ''[[PS013|Sigh for Psyduck]]'', an undead Psyduck that had been brought back to life by [[Koga]]'s {{p|Gastly}} appeared in the [[Pokémon Tower]]. It first appeared to {{adv|Red}} like a normal Psyduck, until it attempted an assault on him: its eyeballs suddenly sunk into its eye sockets and some skin fell off, revealing its bones. Since it was just a mindless undead, it was easily destroyed by Red's [[Saur]]'s {{m|Vine Whip}} attack.
+
+Another Psyduck appeared as a silhouette when {{adv|Green}} explained about {{adv|Mew}} in ''[[PS017|The Jynx Jinx]]''.
+
+Psyduck's first real appearance was in ''[[PS060|Breath of the Dragonair Part 1]]'' where it was used by a Trainer in a surfing contest, before it was interrupted by [[Lance]] controlling the winning prize, a {{p|Dragonair}}.
+
+A Psyduck is seen as one of the Pokémon at Earl's Pokémon Academy in [[Violet City]] in ''[[PS117|Slugging It Out with Slugma]]''.
+
+A Psyduck later appeared in ''[[PS132|Suddenly Suicune III]]'' and ''[[PS133|Absolutely Azumarill]]'' where {{adv|Crystal}} fails to catch it.
+
+A Psyduck appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+The Battle Factory rented a Psyduck which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''.
+
+[[Mr. Foreman]] owns a Psyduck, [[nickname]]d Yeller, which first appeared in ''[[PS341|Putting a Crimp in Kricketot]]''.
+
+A herd of Psyduck appeared in ''[[PS367|Suffering Psyduck]]'', blocking the route to [[Celestic Town]]. However, included among them were Trainer Pokémon, and this was all a ruse by [[Team Galactic]], which [[Cynthia]] catches on to shortly after calming them.
+
+A Trainer's Psyduck appeared in ''[[PS418|Deprogramming Porygon-Z]]''.
+
+In ''[[PS442|Out-Odding Oddish]]'', a Psyduck appeared in the [[Pokéathlon]].
+
+===In the Pokémon Gold and Silver: The Golden Boys manga===
+A Psyduck appeared in ''[[GB16|The New Pokémon Is Hatched!!]]''.
+
+===In the Pokémon Gotta Catch 'Em All manga===
+A Psyduck residing on [[Kigan Island]] appeared in [[GDZ36]].
+
+===In the Pokémon Pocket Monsters manga===
+{{OBP|Green|Pocket Monsters}}'s Psyduck debuted in ''[[PM002|The Big Battle In The Viridian Forest!!]]''.
+
+{{PPM|Professor Oak}} was also shown with a Psyduck.
+
+===In the Pokémon Zensho manga===
+{{Zensho|Satoshi}} has a Psyduck in the [[Pokémon Zensho]] manga.
+
+===In The Electric Tale of Pikachu manga===
+{{main|Misty's Psyduck}}
+Misty's Psyduck makes a small cameo in ''[[ET07|Pikachu's Excellent Adventure]]''.
+
+==In the TCG==
+{{main|Psyduck (TCG)}}
+
+==In the TFG==
+One Psyduck figure has been released.
+* {{TFG|Groundbreakers}}: {{TFG ID|Groundbreakers|Psyduck|26}}
+
+==Other appearances==
+===[[Super Smash Bros. Melee]]===
+Psyduck is the third Pokéfloat to appear. Fighting occurs on its head and beak. It then floats up and off the top of the screen as the fighting moves onto {{p|Chikorita}}.
+
+==Game data==
+===NPC appearances===
+* {{g|Pinball}}: A Psyduck appears on the Blue Table, and earns the player points when it is hit.
+* {{game|Diamond and Pearl|s}}: A group of Psyduck can be found blocking the northern fork of {{rt|210|Sinnoh}}. After the {{player}} obtains the [[Badge]]s in [[Veilstone City]] and [[Pastoria City]], [[Cynthia]] will hand over a [[SecretPotion]] to cure their headaches.
+
+===Pokédex entries===
+{{Dex/Header|type=water}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.}}
+{{Dex/Entry1|v=Yellow|entry=Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Appears unaware and totally vacant. However, if its chronic headache worsens, it starts exhibiting peculiar powers.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.}}
+{{Dex/Entry1|v=Silver|entry=If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.}}
+{{Dex/Entry1|v=Crystal|entry=The only time it can use its psychic power is when its sleeping brain cells happen to wake.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=If it uses its mysterious power, Psyduck can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.}}
+{{Dex/Entry1|v=FireRed|entry=It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.}}
+{{Dex/Entry1|v=LeafGreen|entry=While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=If its usual headache worsens, it starts exhibiting odd powers. It can't remember doing so, however.}}
+{{Dex/Entry1|v=Pearl|entry=It never remembers using its odd powers, so it always tilts its head in puzzlement.}}
+{{Dex/Entry1|v=Platinum|entry=Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.}}
+{{Dex/Entry1|v=HeartGold|entry=It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.}}
+{{Dex/Entry1|v=SoulSilver|entry=If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.}}
+{{Dex/Entry1|v=Y|entry=It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=If it uses its mysterious power, Psyduck can't remember having done so. It apparently can't form a memory of such an event because it goes into an altered state that is much like deep sleep.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=As a result of headaches so fierce they cause it to cry, it sometimes uses psychokinesis without meaning to.}}
+{{Dex/Entry1|v=Moon|entry=This Pokémon is troubled by constant headaches. The more pain it's in, the more powerful its psychokinesis becomes.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It has been found that its brain cells are 10 times more active when Psyduck is experiencing a headache.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Seafoam Islands]]<br>[[Route]]s {{rtn|4|Kanto}}{{tt|*|Water cannot be fished in (due to no adjacent walkable land tiles) without glitches}}, {{rtn|24|Kanto}}, and {{rtn|25|Kanto}}, [[Cerulean City]], [[Cerulean Gym]], {{safari|Kanto}} ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|24|Kanto}} and {{rtn|25|Kanto}}, [[Cerulean City]], [[Cerulean Gym]], {{safari|Kanto}} ({{DL|Fishing|Super Rod}})}}
+{{Availability/Entry1|v=Yellow|area={{rt|6|Kanto}} ({{m|Surf}}ing)}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|6|Kanto}} and {{rtn|35|Johto}}, [[Ilex Forest]] ({{m|Surf}}ing)}}
+{{Availability/Entry1|v=Crystal|area=[[Route]]s {{rtn|6|Kanto}} and {{rtn|35|Johto}}, [[Ilex Forest]] ({{m|Surf}}ing)<br/>[[Route]]s {{rtn|6|Kanto}} and {{rtn|35|Johto}}, [[Ilex Forest]], [[National Park]] ([[tall grass]]){{sup/t|N}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area={{safari|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{safari|Hoenn}}}}
+{{Availability/Entry1|v=FireRed|area=[[Celadon City]] ({{m|Surf}}ing)<br/>[[Route]]s {{rtn|4|Kanto}}, {{rtn|10|Kanto}}, {{rtn|11|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|19|Kanto}}, {{rtn|20|Kanto}}, {{rtn|21|Kanto}}, and {{rtn|24|Kanto}}, [[Water Labyrinth]], [[Resort Gorgeous]], [[Memorial Pillar]], [[Green Path]], [[Outcast Island]], [[Tanoby Ruins]], [[Pallet Town]], [[Cerulean City]], [[Vermilion City]], [[Cinnabar Island]], {{OBP|One Island|town}}, {{OBP|Five Island|town}}, [[Trainer Tower]] ([[Super Rod]])<br/>[[Route]]s {{rtn|6|Kanto}}, {{rtn|22|Kanto}}, {{rtn|23|Kanto}}, and {{rtn|25|Kanto}}, [[Viridian City]], [[Fuchsia City]], [[Four Island (town)|Four Island]], [[Cerulean Cave]], {{ka|Safari Zone}} ({{m|Surf}}ing and {{DL|Fishing|Super Rod}})<br/>[[Treasure Beach]], [[Kindle Road]], [[Bond Bridge]], [[Five Isle Meadow]], [[Ruin Valley]], [[Water Path]] ([[tall grass]] and {{DL|Fishing|Super Rod}})<br/>[[Cape Brink]], [[Berry Forest]] ([[tall grass]], {{m|Surf}}ing, and {{DL|Fishing|Super Rod}})<br/>[[Seafoam Islands]], [[Icefall Cave]] (walking, {{m|Surf}}ing, and {{DL|Fishing|Super Rod}})<br/>[[Canyon Entrance]] ([[tall grass]])}}
+{{Availability/Entry1/None|v=LeafGreen|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|204|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|212|Sinnoh}}, and {{rtn|214|Sinnoh}}, [[Twinleaf Town]], [[Eterna City]], [[Lake Verity]] ({{m|Surf}}ing)<br/>[[Route]]s {{rtn|208|Sinnoh}} and {{rtn|210|Sinnoh}}, [[Lake Acuity]], [[Lake Valor]], [[Great Marsh]] ([[tall grass]])<br/>[[Oreburgh Gate]], [[Ravaged Path]] ({{m|Surf}}ing and walking)}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|204|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|209|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|212|Sinnoh}}, {{rtn|214|Sinnoh}}, and {{rtn|225|Sinnoh}}, [[Twinleaf Town]], [[Eterna City]], [[Lake Verity]], [[Resort Area]] ({{m|Surf}}ing)<br/> [[Lake Acuity]], [[Lake Valor]] ([[tall grass]])<br/>[[Oreburgh Gate]], [[Ravaged Path]] ({{m|Surf}}ing and walking)}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|6|Kanto}} and {{rtn|35|Johto}}, [[Ilex Forest]], [[Seafoam Islands]], [[Cerulean Cave]], {{safari|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+{{Availability/Entry1|v=Pokéwalker|link=Pokéwalker|color=FF3333|area={{pw|Beautiful Beach}} and {{pw|Stormy Beach}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{pkmn|breeding|Breed}} {{p|Golduck}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Floccesy Ranch]]}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{Dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|7|Kalos}} ([[Horde Encounter]])<br/>{{rt|22|Kalos}} (walking and {{m|surf}}ing)}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{safari|Hoenn}} ({{m|Surf}}ing and walking)}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Malie Garden]]<br/>[[Brooklet Hill]], [[Seaward Cave]], [[Ten Carat Hill]] ({{m|Surf}}ing and walking)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Malie Garden]]<br/>[[Brooklet Hill]], [[Seaward Cave]], [[Ten Carat Hill]], [[Sandy Cave]] ({{m|Surf}}ing and walking)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Pokémon Island River|River]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Mt. Moon]], [[Cerulean City]], [[Seafoam Islands]]}}
+{{Availability/Entry1|1|v=Stadium|link=Pokémon Stadium (English)|color=000|t=FFF|area=Register all 151 Pokémon in the Hall of Fame}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=Upgrade binder}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=Safari Zone ({{color2|{{ruby color}}|Ruby Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 4]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Starter Pokémon]], [[Joyous Tower]] (9F-12F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Safra Sea]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Waterfall Cave]] (B1-B8)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Waterfall Cave]] (B1-B8)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]] <small>(Normal & Advanced Mode B)</small>}}
+{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=[[Starter Pokémon]]}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Beach Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Sun-Dappled Bank]], [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#Dangerous Rockets|Jungle Area: Dangerous Rockets]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 4|Island of Haste: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 352]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Origin Hideaway#Waterfall Basin|Origin Hideaway: Waterfall Basin]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 21|Area 21: Stage 01]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=water}}
+{{eventAvail|{{gameabbrev2|GSC}}|Pokémon Center Mystery Egg #2 Petal Dance Psyduck|Japanese|Japan|5|March 16 to April 7, 2002|link=List of Japanese event Pokémon distributions in Generation II#Psyduck}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Petal Dance Psyduck|English|United States|5|April 12 to May 4, 2002|link=List of Gotta Catch 'Em All event Pokémon#Petal Dance Psyduck}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Tri Attack Psyduck|English|United States|5|July 12 to August 8, 2002|link=List of Gotta Catch 'Em All event Pokémon#Tri Attack Psyduck}}
+{{eventAvail|{{gameabbrev3|FRLG}}|Pokémon Trade and Battle Day Psyduck|English|United States|27|September 25, 2004|link=List of Trade and Battle Day event Pokémon distributions#Psyduck}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|PokéPark Egg Psyduck|Japanese|Japan|5|March 12 to May 8, 2005|link=List of Japanese event Pokémon distributions in Generation III#Psyduck}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Junichi Masuda's Psyduck|All|Japan|20|March 5 to October 16, 2016|link=List of local event Pokémon distributions in Generation VI#Junichi Masuda's Psyduck}}
+|}
+
+=====In-game events=====
+{{eventAvail/h|type=water|lochide=yes}}
+{{eventAvail|{{gameabbrev1|RGBY}}|Amnesia Psyduck|Japanese|hide|15|April 30, 1999 onwards|link=List of game-based Pokémon distributions in Generation I#Amnesia Psyduck_2}}
+{{eventAvail|{{gameabbrev1|RBY}}|Amnesia Psyduck|English|hide|15|February 29, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Amnesia Psyduck}}
+{{eventAvail|{{gameabbrev1|RBY}}|Amnesia Psyduck|French|hide|15|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Amnesia Psyduck}}
+{{eventAvail|{{gameabbrev1|RBY}}|Amnesia Psyduck|German|hide|15|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Amnesia Psyduck}}
+{{eventAvail|{{gameabbrev1|RBY}}|Amnesia Psyduck|Italian|hide|15|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Amnesia Psyduck}}
+{{eventAvail|{{gameabbrev1|RBY}}|Amnesia Psyduck|Spanish|hide|15|April 7, 2000 onwards|link=List of game-based Pokémon distributions in Generation I#Amnesia Psyduck}}
+|}
+
+=====GTS events=====
+{{eventAvail/h|type=water}}
+{{eventAvail|{{gameabbrev4|DP}}|Jun Psyduck|Japanese|GTS|1|August 19 to 30, 2007|link=List of GTS event Pokémon distributions#Jun}}
+{{eventAvail|{{gameabbrev4|DP}}|Ken Psyduck|Japanese|GTS|1|August 19 to 30, 2007|link=List of GTS event Pokémon distributions#Ken}}
+{{eventAvail|{{gameabbrev4|DP}}|ShigeShige Psyduck|Japanese|GTS|1|August 19 to 30, 2007|link=List of GTS event Pokémon distributions#ShigeShige}}
+|}
+
+===Held items===
+{{HeldItems
+|type=water
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1rar=100|rby1image=no
+|stad1=Normal Box|stad1type=wood box|stad1rar=100|stad1image=no
+|gsc1=Berry (item){{!}}Berry|gsc1type=None|gsc1rar=8|gsc1image=no
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=     50
+|Attack= 52
+|Defense=48
+|SpAtk=  65
+|SpDef=  50
+|Special=50
+|Speed=  55
+|type=Water
+}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=2
+|SpeedMax=5
+|Power=2
+|PowerMax=5
+|Technique=2
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=5
+|Jump=2
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=water
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Psyduck|Water|Water|1}}
+{{learnlist/level7|1|Water Sport|Water|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|4|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|7|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|10|Confusion|Psychic|Special|50|100|25}}
+{{learnlist/level7|13|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level7|16|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level7|19|Disable|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|22|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|25|Zen Headbutt|Psychic|Physical|80|90|15}}
+{{learnlist/level7|28|Aqua Tail|Water|Physical|90|90|10||'''}}
+{{learnlist/level7|31|Soak|Water|Status|&mdash;|100|20}}
+{{learnlist/level7|34|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|37|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|40|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/level7|43|Wonder Room|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/levelf/7|Psyduck|Water|Water|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Psyduck|Water|Water|1}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Psyduck|Water|Water|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Psyduck|Water|Water|2}}
+{{learnlist/breed7|{{MSP|116|Horsea}}{{MSP|320|Wailmer}}{{MSP|324|Torkoal}}{{MSP|422|Shellos}}{{MSP|422E|Shellos}}|Clear Smog|Poison|Special|50|&mdash;|15|*}}
+{{learnlist/breed7|{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|038|Ninetales}}{{MSP|038A|Ninetales}}{{MSP|131|Lapras}}{{MSP|179|Mareep}}<br>{{MSP|180|Flaaffy}}{{MSP|181|Ampharos}}{{MSP|197|Umbreon}}{{MSP|226|Mantine}}{{MSP|234|Stantler}}{{MSP|325|Spoink}}<br>{{MSP|326|Grumpig}}{{MSP|505|Watchog}}|Confuse Ray|Ghost|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|727|Incineroar}}|Cross Chop|Fighting|Physical|100|80|5}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|363|Spheal}}<br>{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|572|Minccino}}<br>{{MSP|587|Emolga}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|258|Mudkip}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|300|Skitty}}<br>{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|448|Lucario}}|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|196|Espeon}}{{MSP|359|Absol}}{{MSP|517|Munna}}{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|655|Delphox}}<br>{{MSP|765|Oranguru}}|Future Sight|Psychic|Special|120|100|10}}
+{{learnlist/breed7|{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|062|Poliwrath}}{{MSP|186|Politoed}}{{MSP|234|Stantler}}{{MSP|327|Spinda}}<br>{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|517|Munna}}{{MSP|518|Musharna}}<br>{{MSP|686|Inkay}}{{MSP|687|Malamar}}|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}<br>{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}<br>{{MSP|473|Mamoswine}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}{{MSP|618|Stunfisk}}|Mud Bomb|Ground|Special|65|85|10}}
+{{learnlist/breed7|{{MSP|196|Espeon}}{{MSP|203|Girafarig}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|226|Mantine}}{{MSP|325|Spoink}}<br>{{MSP|326|Grumpig}}{{MSP|327|Spinda}}{{MSP|352|Kecleon}}{{MSP|517|Munna}}{{MSP|518|Musharna}}{{MSP|653|Fennekin}}<br>{{MSP|654|Braixen}}{{MSP|655|Delphox}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}{{MSP|686|Inkay}}{{MSP|687|Malamar}}<br>|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/breed7|{{MSP|133|Eevee}}{{MSP|222|Corsola}}{{MSP|350|Milotic}}|Refresh|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|019|Rattata}}{{MSP|020|Raticate}}{{MSP|023|Ekans}}<br>{{MSP|024|Arbok}}{{MSP|025|Pikachu}}{{MSP|026|Raichu}}{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|032|Nidoran♂}}<br>{{MSP|033|Nidorino}}{{MSP|034|Nidoking}}{{MSP|037|Vulpix}}{{MSP|038|Ninetales}}{{MSP|050|Diglett}}{{MSP|051|Dugtrio}}<br>{{MSP|052|Meowth}}{{MSP|053|Persian}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}<br>{{MSP|058|Growlithe}}{{MSP|059|Arcanine}}{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|062|Poliwrath}}{{MSP|186|Politoed}}<br>{{MSP|077|Ponyta}}{{MSP|078|Rapidash}}{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|083|Farfetch'd}}<br>{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}{{MSP|116|Horsea}}<br>{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|128|Tauros}}{{MSP|131|Lapras}}{{MSP|133|Eevee}}{{MSP|134|Vaporeon}}<br>{{MSP|135|Jolteon}}{{MSP|136|Flareon}}{{MSP|196|Espeon}}{{MSP|197|Umbreon}}{{MSP|470|Leafeon}}{{MSP|471|Glaceon}}<br>{{MSP|700|Sylveon}}{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|147|Dratini}}<br>{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|158|Totodile}}<br>{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|179|Mareep}}{{MSP|180|Flaaffy}}<br>{{MSP|181|Ampharos}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|190|Aipom}}<br>{{MSP|424|Ambipom}}{{MSP|203|Girafarig}}{{MSP|206|Dunsparce}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|215|Sneasel}}<br>{{MSP|461|Weavile}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}<br>{{MSP|222|Corsola}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|225|Delibird}}{{MSP|226|Mantine}}{{MSP|228|Houndour}}<br>{{MSP|229|Houndoom}}{{MSP|231|Phanpy}}{{MSP|232|Donphan}}{{MSP|234|Stantler}}{{MSP|255|Torchic}}{{MSP|256|Combusken}}<br>{{MSP|257|Blaziken}}{{MSP|258|Mudkip}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}<br>{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}{{MSP|270|Lotad}}{{MSP|271|Lombre}}{{MSP|272|Ludicolo}}{{MSP|273|Seedot}}<br>{{MSP|274|Nuzleaf}}{{MSP|275|Shiftry}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}{{MSP|283|Surskit}}{{MSP|284|Masquerain}}<br>{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}<br>{{MSP|300|Skitty}}{{MSP|301|Delcatty}}{{MSP|303|Mawile}}{{MSP|309|Electrike}}{{MSP|310|Manectric}}{{MSP|320|Wailmer}}<br>{{MSP|321|Wailord}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|325|Spoink}}{{MSP|326|Grumpig}}<br>{{MSP|327|Spinda}}{{MSP|335|Zangoose}}{{MSP|336|Seviper}}{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}{{MSP|349|Feebas}}<br>{{MSP|350|Milotic}}{{MSP|352|Kecleon}}{{MSP|359|Absol}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}<br>{{MSP|366|Clamperl}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}{{MSP|369|Relicanth}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}<br>{{MSP|392|Infernape}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}<br>{{MSP|403|Shinx}}{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|417|Pachirisu}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}<br>{{MSP|422|Shellos}}{{MSP|422E|Shellos}}{{MSP|423|Gastrodon}}{{MSP|423E|Gastrodon}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}<br>{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|448|Lucario}}{{MSP|449|Hippopotas}}<br>{{MSP|450|Hippowdon}}{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|498|Tepig}}{{MSP|499|Pignite}}<br>{{MSP|500|Emboar}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}<br>{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|511|Pansage}}<br>{{MSP|512|Simisage}}{{MSP|513|Pansear}}{{MSP|514|Simisage}}{{MSP|515|Panpour}}{{MSP|516|Simipour}}{{MSP|517|Munna}}<br>{{MSP|518|Musharna}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|529|Drilbur}}<br>{{MSP|530|Excadrill}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}<br>{{MSP|553|Krookodile}}{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|570|Zorua}}<br>{{MSP|571|Zoroark}}{{MSP|572|Minccino}}{{MSP|573|Cinccino}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|585|Deerling}}<br>{{MSP|586|Sawsbuck}}{{MSP|587|Emolga}}{{MSP|594|Alomomola}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|618|Stunfisk}}<br>{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}{{MSP|626|Bouffalant}}{{MSP|631|Heatmor}}{{MSP|650|Chespin}}{{MSP|651|Quilladin}}<br>{{MSP|652|Chesnaught}}{{MSP|653|Fennekin}}{{MSP|654|Braixen}}{{MSP|655|Delphox}}{{MSP|656|Froakie}}{{MSP|657|Frogadier}}<br>{{MSP|658|Greninja}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}{{MSP|672|Skiddo}}<br>{{MSP|673|Gogoat}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}{{MSP|676|Furfrou}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}<br>{{MSP|686|Inkay}}{{MSP|687|Malamar}}{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}<br>{{MSP|702|Dedenne}}|Secret Power|Normal|Physical|70|100|20|‡}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}{{MSP|263|Zigzagoon}}{{MSP|300|Skitty}}{{MSP|325|Spoink}}{{MSP|686|Inkay}}|Simple Beam|Normal|Status|&mdash;|100|15|*}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|352|Kecleon}}{{MSP|517|Munna}}|Synchronoise|Psychic|Special|120|100|10}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|206|Dunsparce}}<br>{{MSP|230|Kingdra}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|322|Numel}}<br>{{MSP|323|Camerupt}}{{MSP|369|Relicanth}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}<br>{{MSP|513|Pansear}}{{MSP|517|Munna}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|775|Komala}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Psyduck|Water|Water|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Psyduck|Water|Water|2}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||'''|no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Psyduck|Water|Water|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg water color light}}; border: 3px solid #{{tcg water color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Bubble}}
+| style="background:#fff; {{roundybr|5px}}" | [[Psyduck (EX Team Magma vs Team Aqua 44)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/Pinball|col=2|type=Water|ndex=054|acquisition=Catch}}
+{{Spindata/PinballRS|col=2|type=Water|ndex=054|acquisition=Catch}}
+{{Spindata/Trozei|col=2|type=Water|ndex=054|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=054
+|body=1
+|rate=10.8
+|area=Turtleshell Pond
+|P1=Owowowow! My head hurts!
+|P2=Owowowowow! I only have half my HP left!
+|P3=Owowowow... I'm close to flopping on my face...
+|PL=Owowowowow! Leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=054
+|body=1
+|rate=8.2
+|IQ=C
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=0
+|field=None
+|loop=32
+|MinEXP=N/A
+|MaxEXP=N/A
+|browser=Psyduck is a laid-back Pokémon that likes to vacantly float on water.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Water
+|att=2
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Water|ndex=054
+|Pad=Psyduck can often be found playing in the [[Beach Zone]]. His most favorite Attraction of all is {{DL|Attractions|Gyarados's Aqua Dash}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=054
+|pad=He gets confused about directions and wanders off into various Areas. As a result, he has a lot of friends in different Areas.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=054
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=054|num=504
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Downpour
+|skilldesc=Damage varies depending on the opponent's remaining HP.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=054
+|egg=5
+|buddy=3
+|evocandy=50
+|stamina=100
+|attack=122
+|defense=96
+|fast={{m|Water Gun}}, {{m|Zen Headbutt}}
+|special={{m|Psybeam}}, {{m|Aqua Tail}}, {{m|Cross Chop}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Water
+|pictype=art
+|no1=054
+|name1=Psyduck
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 33}}
+|no2=055
+|name2=Golduck
+|type1-2=Water}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/1|ndex=054}}
+{{Spritebox/2|ndex=054}}
+{{Spritebox/3|ndex=054}}
+{{Spritebox/4|ndex=054}}
+{{Spritebox/5|ndex=054}}
+{{Spritebox/6|ndex=054}}
+{{Spritebox/7|ndex=054}}
+{{Spritebox/Footer|054|Psyduck}}
+
+==Trivia==
+* Psyduck, along with {{p|Golduck}}, has [[List of Pokémon that appear in every regional Pokédex|appeared in every regional Pokédex]]. This is due to the Unova Pokédex's expansion in Black 2 and White 2.
+* Psyduck is one of fourteen Pokémon that one could collect [[foreign Pokédex entries]] for in {{game|Diamond and Pearl|s}}.
+* Psyduck requires the most loops with the [[Capture Styler]] to be captured in {{ga|Pokémon Ranger}}, surpassing even {{p|Metagross}}.
+
+===Origin===
+Psyduck's design appears to draw inspiration from both {{wp|duck}}s and {{wp|platypus}}es.
+
+====Name origin====
+Psyduck is a combination of ''psychic'' (referring to its mental powers) and ''{{wp|duck}}''.
+
+Koduck may be a combination of 子''ko'' (child) and ''duck''.
+
+==In other languages==
+{{Other languages|type=water|type2=water
+|ja=コダック ''Koduck''|jameaning=From {{tt|子''ko''|child}} and ''duck''
+|fr=Psykokwak|frmeaning=From ''{{tt|psychotique|psychotic}}'' and ''{{tt|couac|a duck's cry (quack)}}''
+|es=Psyduck|esmeaning=Same as English name
+|de=Enton|demeaning=From ''{{tt|Ente|duck}}''
+|it=Psyduck|itmeaning=Same as English name
+|ko=고라파덕 ''Gorapaduck''|komeaning=From {{tt|골 ''gol''|brain, head}}, {{tt|아프다 ''apeuda''|hurt, sick}} and ''Duck''
+|zh_yue=傻鴨 ''Sòhngaap''|zh_yuemeaning=Literally "Silly duck", possibly based on its silly appearance
+|zh_cmn=可達鴨 / 可达鸭 ''Kědáyā''|zh_cmnmeaning=Partial transliteration of ''Koduck''. The last character means duck
+|bg=ПсиПатето ''PsiPateto''|bgmeaning=From English name and ''{{tt|потето|duckling}}''
+|hi=साइडक ''Psyduck''|himeaning=Transcription of English name
+|lt=Psyantis|ltmeaning=From English name and ''{{tt|antis|duck}}''
+|ru=Псайдак ''Psaydak''<br>Психоутка ''Psikhoutka''{{tt|*|DP087}}|rumeaning=Transcription of English name<br>Literally "Psyduck"
+|vi=Bối rối|vimeaning=From ''{{tt|bối rối|confusion}}''
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==Related articles==
+*[[Misty's Psyduck]]
+
+==External links==
+*[[wp:Psyduck|Article on Wikipedia]]
+
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=053|prev=Persian|nextnum=055|next=Golduck}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+[[Category:Mystery Dungeon starters|054]]
+
+[[de:Enton]]
+[[fr:Psykokwak]]
+[[it:Psyduck]]
+[[ja:コダック]]
+[[pl:Psyduck]]
+[[zh:可达鸭]]

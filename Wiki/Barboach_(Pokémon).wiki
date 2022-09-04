@@ -1,0 +1,431 @@
+{{PokémonPrevNext/Head|type=Water|type2=Ground}}
+{{PokémonPrevNext/GO|species=Barboach}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=338|prev=Solrock|nextnum=340|next=Whiscash|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Barboach
+|jname=ドジョッチ
+|jtranslit=Dojotchi
+|tmname=Dojoach
+|ndex=339
+|hdex=127
+|hdex6=132
+|sdex=080
+|karea=Mountain
+|kdex=040
+|adex=093
+|typebox=1
+|type1=Water
+|type2=Ground
+|category=Whiskers
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=4.2
+|weight-kg=1.9
+|abilityn=d
+|ability1=Oblivious
+|ability2=Anticipation
+|abilityd=Hydration
+|egggroupn=1
+|egggroup1=Water 2
+|eggcycles=20
+|evtotal=1
+|evhp=1
+|expyield=58
+|oldexp=92
+|lv100exp=1,000,000
+|gendercode=127
+|color=Gray
+|catchrate=190
+|body=03
+|pokefordex=barboach
+|generation=3
+|friendship=70
+}}
+'''Barboach''' ([[List of Japanese Pokémon names|Japanese]]: '''ドジョッチ''' ''Dojoach'') is a dual-type {{2t|Water|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolve]]s into {{p|Whiscash}} starting at [[level]] 30.
+
+==Biology==
+Barboach is a small, serpentine Pokémon that resembles a {{wp|loach}}. The main body is a soft gray with a jagged black line running its length. Its eyes are very small, and it has a round, blue nose. It has several blue barbels that are used as a superb radar in murky water, and can be used for taste as well. These whiskers are left exposed when it hides in the mud to wait for prey. There are two rounded, blue pectoral fins and a single dorsal fin, all of which have black spots. Its tail fin it also rounded and blue, but possess no spots. A slimy film covers it and protects it from bacteria and allows it to get away easily when grabbed. If it does not stay moist, it dries up and weakens. Because of this, it is usually found at {{DL|List of Pokémon by habitat|Water's-edge Pokémon|the water's edge}} if not in the water.
+
+==In the anime==
+[[File:Barboach anime.png|left|thumb|250px|Barboach in the {{pkmn|anime}}]]
+===Major appearances===
+Barboach was going to be featured in [[AG101 (unaired)|an episode]] between ''[[AG100|Solid as a Solrock]]'' and ''[[AG101|Vanity Affair]]''. However, the episode never aired due to {{wp|2004 Chūetsu earthquake|an earthquake}} that occurred in {{wp|Japan}} sometime before its scheduled airdate. The episode hasn't aired since.
+
+===Minor appearances===
+Barboach officially debuted in ''[[AG110|The Great Eight Fate!]]'' as one of the Pokémon that [[Juan]] used for his water show in [[Sootopolis City]].
+
+A few wild Barboach were seen in the wild in ''[[AG152|On Olden Pond!]]''
+
+Multiple Barboach were owned by [[Lizabeth]] and her family in ''[[M09|Pokémon Ranger and the Temple of the Sea]]''.
+
+A Barboach appeared in ''[[DP138|Strategy Begins at Home!]]'' while {{TRT}} was [[fishing]] for {{p|Goldeen}}.
+
+A Barboach appeared in ''[[SM012|The Sun, the Scare, the Secret Lair!]]''.
+
+==In the manga==
+[[File:Team Aqua Water Pokémon 2.png|thumb|Barboach in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Barboach has appeared in aquariums belonging to [[Mr. Briney]] and [[Team Aqua]], both appearing in ''[[PS192|Stick This in Your Craw, Crawdaunt I]]''.
+
+A Barboach appeared in ''[[PS217|Mind-Boggling with Medicham]]''.
+
+==In the TCG==
+{{main|Barboach (TCG)}}
+{{-}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Ground}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Barboach's sensitive whiskers serve as a superb radar system. This Pokémon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Barboach's body is covered with a slimy film. If a foe grabs it, this Pokémon just slips out of the enemy's grip. This Pokémon grows weak if the slimy coating dries up.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the Barboach's body.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.}}
+{{Dex/Entry1|v=Pearl|entry=Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.}}
+{{Dex/Entry1|v=Platinum|entry=Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Barboach uses its whiskers to taste things just as a person uses his or her tongue to taste things.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.}}
+{{Dex/Entry1|v=Y|entry=Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Barboach’s sensitive whiskers serve as a superb radar system. This Pokémon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Barboach’s body is covered with a slimy film. If a foe grabs it, this Pokémon just slips out of the enemy’s grip. This Pokémon grows weak if the slimy coating dries up.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey's location.}}
+{{Dex/Entry1|v=Moon|entry=Its slippery body is hard to grasp, so much so that there are festivals where people compete to see how many they can catch barehanded.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Its entire body is gooey. When pecked at by bird Pokémon, it slips and slides its way to freedom.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its whiskers are filled with nerves. They can sense smells and flavors just as a person's nose or tongue would.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Ground}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|111|Hoenn}}, {{rtn|114|Hoenn}}, {{rtn|120|Hoenn}}, [[Meteor Falls]], {{ho|Victory Road}} ([[Fishing]])}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Route]]s {{rtn|111|Hoenn}}, {{rtn|114|Hoenn}}, {{rtn|120|Hoenn}}, [[Meteor Falls]], {{ho|Victory Road}} ([[Fishing]])}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|205|Sinnoh}}, {{rtn|208|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|212|Sinnoh}}, {{rtn|227|Sinnoh}}, {{rtn|228|Sinnoh}}, [[Celestic Town]], [[Eterna City]], [[Great Marsh]], [[Mt. Coronet]], [[Oreburgh Gate]], [[Ravaged Path]] ({{DL|Fishing|Good Rod}})}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|205|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|225|Sinnoh}}, {{rtn|227|Sinnoh}}, {{rtn|228|Sinnoh}}, [[Eterna City]], [[Great Marsh]], [[Mt. Coronet]], [[Oreburgh Gate]], [[Ravaged Path]] ({{DL|Fishing|Good Rod}})}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|8|Unova}}, [[Icirrus City]], [[Moor of Icirrus]] ([[Fishing]])}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{rt|8|Unova}}, [[Icirrus City]], [[Moor of Icirrus]] ([[Fishing]])}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{Dwa|Sparkling Sea}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{rt|14|Kalos}}, {{rt|19|Kalos}} ({{DL|Fishing|Good Rod}})}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|111|Hoenn}}, {{rtn|114|Hoenn}}, {{rtn|120|Hoenn}}, [[Meteor Falls]], {{ho|Victory Road}} ({{DL|Fishing|Good Rod}} or {{DL|Fishing|Super Rod}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Paniola Town]], [[Poni Gauntlet]], [[Poni Meadow]], [[Seaward Cave]], [[Vast Poni Canyon]] ([[Fishing]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Paniola Town]], [[Poni Gauntlet]], [[Poni Meadow]], [[Seaward Cave]], [[Vast Poni Canyon]] ([[Fishing]])<br/>[[In-game trade#Ultra Sun and Ultra Moon|Trade]] {{p|Tentacool}} at [[Royal Avenue]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Ground}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Lake ({{color2|{{sapphire color}}|Sapphire Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 10]], Endless Level 14, Forever Level 9, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Waterfall Pond]] (1F-5F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Waterfall Cave]] (B1-B8), [[Serenity River]] (B1-B7)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Waterfall Cave]] (B1-B8), [[Serenity River]] (B1-B7)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Soothing Shore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Make a Big Splash!|Frenzy Square: Make a Big Splash!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Tuesday Stage 1|Safari Jungle: Stage 1]]{{dotw|Tu}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Marron Trail|Marron Trail: Stage 689]]<br>Event: [[Special Stages#14th release|''Pokémon Safari'']] <small>(14th release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ruby Volcano#Lake of Tranquility|Ruby Volcano: Lake of Tranquility]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|type2=Ground
+|HP=     50
+|Attack= 48
+|Defense=43
+|SpAtk=  46
+|SpDef=  41
+|Speed=  60}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Ground
+|Speed=4
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=3
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Ground
+|Normal=  100
+|Flying=  100
+|Fighting=100
+|Ground=  100
+|Rock=     50
+|Bug=     100
+|Poison=   50
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Grass=   400
+|Electric=  0
+|Psychic= 100
+|Water=   100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|ground=yes
+|newelectric=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Barboach|Water|Ground|3}}
+{{learnlist/level7|1|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level7|6|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|6|Water Sport|Water|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|9|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|13|Mud Bomb|Ground|Special|65|85|10||'''}}
+{{learnlist/level7|15|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|17|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level7|20|Magnitude|Ground|Physical|&mdash;|100|30||'''}}
+{{learnlist/level7|25|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|25|Snore|Normal|Special|50|100|15}}
+{{learnlist/level7|28|Aqua Tail|Water|Physical|90|90|10||'''}}
+{{learnlist/level7|32|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|35|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/level7|39|Future Sight|Psychic|Special|120|100|10}}
+{{learnlist/level7|44|Fissure|Ground|Physical|&mdash;|&mdash;|5}}
+{{learnlist/levelf/7|Barboach|Water|Ground|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Barboach|Water|Ground|3}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Barboach|Water|Ground|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Barboach|Water|Ground|3}}
+{{learnlist/breed7|{{MSP|130|Gyarados}}|Dragon Dance|Dragon|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|339|Barboach}}{{MSP|340|Whiscash}}{{MSP|369|Relicanth}}|Earth Power|Ground|Special|90|100|10|‡|'''}}
+{{learnlist/breed7|{{MSP|118|Goldeen}}{{MSP|119|Seaking}}{{MSP|129|Magikarp}}{{MSP|130|Gyarados}}{{MSP|170|Chinchou}}{{MSP|171|Lanturn}}<br>{{MSP|369|Relicanth}}{{MSP|370|Luvdisc}}{{MSP|550|Basculin}}|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|130|Gyarados}}{{MSP|170|Chinchou}}{{MSP|171|Lanturn}}{{MSP|211|Qwilfish}}{{MSP|223|Remoraid}}{{MSP|224|Octillery}}<br>{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|369|Relicanth}}{{MSP|370|Luvdisc}}{{MSP|594|Alomomola}}{{MSP|746|Wishiwashi}}|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/breed7|{{MSP|223|Remoraid}}{{MSP|369|Relicanth}}|Mud Shot|Ground|Special|55|95|15|*|'''}}
+{{learnlist/breed7|{{MSP|339|Barboach}}{{MSP|340|Whiscash}}|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/breed7|{{MSP|170|Chinchou}}{{MSP|171|Lanturn}}|Spark|Electric|Physical|65|100|20}}
+{{learnlist/breed7|{{MSP|170|Chinchou}}{{MSP|171|Lanturn}}{{MSP|211|Qwilfish}}{{MSP|318|Carvanha}}{{MSP|319|Sharpedo}}{{MSP|369|Relicanth}}<br>{{MSP|370|Luvdisc}}{{MSP|550|Basculin}}{{MSP|746|Wishiwashi}}|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|130|Gyarados}}{{MSP|340|Whiscash}}{{MSP|550|Basculin}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breed7|{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|456|Finneon}}{{MSP|457|Lumineon}}{{MSP|594|Alomomola}}|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/breedf/7|Barboach|Water|Ground|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Barboach|Water|Ground|3}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||'''|no|yes}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Barboach|Water|Ground|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg water color light}}; border: 3px solid #{{tcg water color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Tackle}}
+| [[Barboach (EX Deoxys 54)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Ground}}
+{{Spindata/PinballRS|col=3|type=Water|ndex=339|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Water|ndex=339|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=339
+|body=1
+|rate=8.3
+|area=Peanut Swamp
+|P1=I can slip, squirm, and slime my way out of any trouble!
+|P2=Uh-oh! I only have half my HP left!
+|P3=Oh, no... Even my slime is drying up...
+|PL=I went up a level! I turned slimier, too! Feeling good!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=339
+|body=1
+|rate=8.2
+|IQ=B
+}}
+|-
+{{Spindata/RumbleBlast|col=3|type=Water
+|att=1
+|def=1
+|speed=3
+}}
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=339|bttype=Ground
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Water|ndex=339|num=682|stype=Ground
+|min=40
+|max=125
+|raisemaxlevel=20
+|skill=Mega Boost+
+|skilldesc=Fills the Mega Gauge of the same type of Pokémon more.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=339
+|hatch=2 km
+|buddy=1
+|evocandy=50
+|stamina=100
+|attack=93
+|defense=83
+|fast={{m|Water Gun}}, {{m|Mud Shot}}
+|special={{m|Aqua Tail}}, {{m|Ice Beam}}, {{m|Mud Bomb}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Water
+|type2=Ground
+|pictype=art
+|no1=339
+|name1=Barboach
+|type1-1=Water
+|type2-1=Ground
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no2=340
+|name2=Whiscash
+|type1-2=Water
+|type2-2=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Ground}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=339}}
+{{Spritebox/4|ndex=339}}
+{{Spritebox/5|ndex=339}}
+{{Spritebox/6|ndex=339}}
+{{Spritebox/7|ndex=339}}
+{{Spritebox/Footer|339|Barboach}}
+
+==Trivia==
+* Barboach and {{p|Whiscash}} are the only dual-type {{2t|Water|Ground}} Pokémon who are not in the {{egg|Water 1}} Egg Group.
+
+===Origin===
+Barboach seems to be based on the {{wp|Misgurnus anguillicaudatus|dojo loach}} found in East Asia. Sharing many characteristics with the genus such as; burying themselves to hide from view, using their whiskers to detect their surroundings, secretion of a slimy substance and the ability to encase themselves in mud. Considering its evolution, it may also be based on {{wp|loach catfish}}, a family of catfish similar to loaches.
+
+====Name origin====
+Barboach is a combination of ''barb'' (referring to the barbs around its mouth) or ''[[wp:Barbel (anatomy)|barbel]]'' and ''{{wp|loach}}''.
+
+Dojoach is a combination of 泥鰌 ''dojō'' (loach) and ''loach''.
+
+==In other languages==
+{{Other languages|type=Water|type2=Ground
+|ja=ドジョッチ ''Dojoach''|jameaning=Combination of {{tt|泥鰌 ''dojō''|loach}} and ''loach''
+|fr=Barloche|frmeaning=From ''{{tt|barbe|barb}}'' and ''{{tt|loche|loach}}''
+|es=Barboach|esmeaning=Same as English name
+|de=Schmerbe|demeaning=From ''{{tt|Schmerle|loach}}'' and ''{{tt|Barbe|barbel}}''
+|it=Barboach|itmeaning=Same as English name
+|ko=미꾸리 ''Mikuri''|komeaning=From {{tt|미꾸라지 ''mikkuraji''|loach}}
+|zh_cmn=泥泥鰍 / 泥泥鳅 ''Níníqiū''|zh_cmnmeaning=From {{tt|泥 ''ní''|mud}} and {{tt|泥鰍 ''níqiū''|dojo loach}}
+|hi=बार्बोच ''Barboach''|himeaning=Transliteration of English name
+|ru=Барбоч ''Barboch''|rumeaning=Transliteration of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=338|prev=Solrock|nextnum=340|next=Whiscash}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Schmerbe]]
+[[fr:Barloche]]
+[[it:Barboach]]
+[[ja:ドジョッチ]]
+[[pl:Barboach]]
+[[zh:泥泥鳅]]

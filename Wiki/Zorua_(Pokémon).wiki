@@ -1,0 +1,377 @@
+{{PokémonPrevNext/Head|type=Dark}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=569|prev=Garbodor|nextnum=571|next=Zoroark|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Zorua}}
+|}
+{{Pokémon Infobox
+|name=Zorua
+|jname=ゾロア
+|jtranslit=Zoroa
+|tmname=Zorua
+|category=Tricky Fox
+|typebox=1
+|type1=Dark
+|abilityn=1
+|abilitylayout=1
+|ability1=Illusion
+|ndex=570
+|udex=076
+|u2dex=151
+|karea=Mountain
+|kdex=124
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=27.6
+|weight-kg=12.5
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=25
+|expyield=66
+|lv100exp=1,059,860
+|gendercode=31
+|color=Gray
+|catchrate=75
+|evtotal=1
+|evsa=1
+|body=08
+|pokefordex=zorua
+|generation=5
+|friendship=70
+}}
+'''Zorua''' ([[List of Japanese Pokémon names|Japanese]]: '''ゾロア''' ''Zorua'') is a {{type|Dark}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] into {{p|Zoroark}} starting at [[level]] 30.
+
+Both it and Zoroark were the first [[Generation V]] Pokémon to be revealed to the public on February 10, 2010.
+
+==Biology==
+Zorua is a slate gray, fox-like Pokémon with red and black accents. Its ears are triangular with dark insides, and it has a large tuft of fur tipped with red on top of its head. It has greenish blue eyes with red eyelids. There are circular, red markings above the eyes that resemble eyebrows. Its muzzle is short and tapered with two small fangs seen in the upper jaw when its mouth is open. Zorua possesses a ruff of black fur around its neck and four short limbs tipped with red. Its tail is short and bushy. Zorua can change its physical appearance, though this transformation is merely an illusion as it keeps its own type and moves.
+
+Zorua keeps its true form hidden to ensure its safety, and takes on the appearance of other Pokémon to frighten off enemies. Sometimes it will take the form of a silent child. As seen in [[M13|its movie debut]], an unpracticed Zorua's tail may remain when it takes on a human form and if the tail is touched, it will revert to its true form. Zorua is mischievous and loves to surprise others.
+
+==In the anime==
+[[File:Luke Zorua.png|thumb|250px|left|Zorua in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Zorua (M13)]]====
+{{mov|Zorua|Zorua|13}} debuted in the thirteenth Pokémon movie, ''[[M13|Zoroark: Master of Illusions]]'', where it was used by the antagonist, [[Grings Kodai]], to blackmail its foster mother {{mov|Zoroark|Zoroark|13}} into attacking Crown City. It escaped and met {{Ash}} and {{ashfr}}, before befriending {{mov|Celebi|Celebi|13}}. Zorua and Celebi were captured by Kodai, but were able to defeat him with help from Zoroark and the three {{Shiny}} [[Legendary beasts]] serving as Crown City's guardians.
+
+====[[Luke's Zorua]]====
+[[Luke]]'s female Zorua debuted in ''[[BW038|Movie Time! Zorua in "The Legend of the Pokémon Knight"!]]'', when she refused to play multiple roles in her Trainer's film. After reconciling with Luke, the Zorua took part in the film as the princess who is kidnapped. She is actually kidnapped later on by Team Rocket and rescued by {{an|Cilan}} and {{Ash}}. Zorua reappeared with her Trainer in ''[[BW039|Reunion Battles In Nimbasa!]]'' through ''[[BW042|Club Battle Finale: A Heroes Outcome!]]'', in which she was constantly smothered by Bianca, and again in ''[[BW082|An Epic Defense Force!]]''.
+
+====Other====
+A Zorua appeared in a flashback in ''[[BW127|The Island of Illusions!]]''. It was a Pokémon taken care by the [[Nurse Joy]] years in the past. It eventually evolved into a {{p|Zoroark}}.
+
+===Minor appearances===
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW038|Zorua|Ash's Pokédex|Zorua, the Tricky Fox Pokémon. Zorua hides its true form by {{a|Illusion|changing its shape}} into [[human|people]] and Pokémon, and loves to surprise people.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:N Zorua Adventures.png|thumb|150px|Zorua in [[Pokémon Adventures]]]]
+[[File:Hariru Zorua.png|thumb|left|150px|Zorua in [[Pokémon RéBURST]].]]
+===In the Pokémon Adventures manga===
+{{main|N's Zorua}}
+A Zorua appeared in Castelia City where he fought {{adv|Black}}'s [[Tep]], teasing him throughout the entire battle before escaping. The same Zorua later appears to wreak havoc on the [[Driftveil Drawbridge]]. Later, it is revealed that this Zorua worked alongside {{adv|N}}. He first appeared in ''[[PS468|Listening to Pokémon]]''.
+
+===In the Pokémon RéBURST manga===
+[[Hariru]] has a Zorua, which evolved into Zoroark, in which he can use it as a [[Burst]] form.
+{{-}}
+
+==In the TCG==
+{{main|Zorua (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Rumble Blast}}; Zorua is one of {{p|Cobalion}}'s minions. It acts as a guide during Chapter 3, and helps the player to [[Firebreathing Mountain]] where it reveals its true intentions and calls in an army of [[Fossil]] Pokémon as well as a {{p|Zoroark}}. It was later [[Rusty Pokémon|rusted]] when Cobalion's forces tried to infiltrate the World Axle. After the game's events, it makes a full recovery and returns to [[Westerly Town]].
+
+===Pokédex entries===
+{{Dex/Header|type=Dark}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.}}
+{{Dex/Entry1|v=White|entry=To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It changes so it looks like its foe, tricks it, and then uses that opportunity to flee.}}
+{{Dex/Entry1|v=Y|entry=To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It changes so it looks like its foe, tricks it, and then uses that opportunity to flee.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=This Pokémon has a cowardly disposition, so when it's not around friends, it basically always stays transformed as something else.}}
+{{Dex/Entry1|v=Ultra Moon|entry=If a normally talkative child suddenly stops talking, it may have been replaced by Zorua.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dark}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Castelia City]] (requires [[fateful encounter]] {{p|Celebi}})}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{pkmn2|Gift}} from [[Rood]] in [[Driftveil City]] ([[N's Pokémon]])}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{pkmn|breeding|Breed}} {{p|Zoroark}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{rt|101|Hoenn}} ({{DL|DexNav|hidden Pokémon}}{{tt|*|After capturing or defeating Groudon/Kyogre}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Alola Route 1|Route 1]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dark}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Trailhead Field]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Great Glacier]] (Mapless Street), [[Glacial Underpass]] (B1-B9), [[Glacier Palace]] (1F-13F), [[Redland Reaches]] (Mapless Street), [[Ochre Quarry]] (Mapless Street), [[Withered Savanna]] (Mapless Street), [[Grove of Whispers]] (Mapless Street), [[Silent Tundra]] (Mapless Street), [[Dreamy Island]] (1F-25F), [[Moonlit Forest]] (Golden Chamber), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Jungle Area#Serperior Jungle|Jungle Area: Serperior Jungle]], [[Magical Lake#Protect Pichu in the Forest|Magical Lake: Protect Pichu in the Forest]],<br>[[Toy Collection#The Sword for Justice|Toy Collection: The Sword for Justice]], [[Chill Battle#The Three Little Tepig|Chill Battle: The Three Little Tepig]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Dragon Hill#Stage 4|Dragon Hill: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Rainbow Park|Rainbow Park: Stage 50]]<br>[[Graucus Hall|Graucus Hall: Stage 461]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Black Realm#Grim Rendezvous|Black Realm: Grim Rendezvous]] <small>(All Areas)</small>, [[White Ruins (Rumble World)#Ivory Pillar|White Ruins: Ivory Pillar]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 16|Area 16: Stage 01]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Dark
+|HP=40
+|Attack=65
+|Defense=40
+|SpAtk=80
+|SpDef=40
+|Speed=65}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dark
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Zorua|Dark|Dark|5}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|5|Pursuit|Dark|Physical|40|100|20||'''}}
+{{learnlist/level7|9|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|13|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level7|17|Feint Attack|Dark|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|21|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|25|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|29|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/level7|33|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|37|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|41|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/level7|45|Punishment|Dark|Physical|&mdash;|100|5||'''}}
+{{learnlist/level7|49|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|53|Imprison|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|57|Night Daze|Dark|Special|85|95|10||'''}}
+{{learnlist/levelf/7|Zorua|Dark|Dark|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Zorua|Dark|Dark|5}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10||'''}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Zorua|Dark|Dark|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Zorua|Dark|Dark|5}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}<br>{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|234|Stantler}}{{MSP|300|Skitty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}<br>{{MSP|509|Purrloin}}{{MSP|572|Minccino}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|300|Skitty}}{{MSP|327|Spinda}}|Copycat|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}{{MSP|289|Slaking}}{{MSP|448|Lucario}}{{MSP|745Mn|Lycanroc}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|052A|Meowth}}{{MSP|053A|Persian}}{{MSP|461|Weavile}}|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|448|Lucario}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|274|Nuzleaf}}|Extrasensory|Psychic|Special|80|100|20}}
+{{learnlist/breed7|{{MSP|434|Stunky}}{{MSP|435|Skuntank}}|Memento|Dark|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|631|Heatmor}}|Snatch|Dark|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|050|Diglett}}{{MSP|050A|Diglett}}<br>{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}<br>{{MSP|303|Mawile}}{{MSP|327|Spinda}}{{MSP|352|Kecleon}}{{MSP|359|Absol}}{{MSP|431|Glameow}}{{MSP|434|Stunky}}<br>{{MSP|435|Skuntank}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|676|Furfrou}}{{MSP|678|Meowstic}}{{MSP|775|Komala}}|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/breedf/7|Zorua|Dark|Dark|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Zorua|Dark|Dark|5}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15||'''|no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||'''|no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Zorua|Dark|Dark|5}}
+
+===Side game data===
+{{Spindata/Head|type=Dark}}
+{{Spindata/RumbleBlast|col=6|type=Dark
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Dark|ndex=570
+|pad=He traveled with {{p|Zoroark}}. He likes Zoroark very much. The two have settled in the [[Arbor Area]].
+}}
+|-
+{{Spindata/Conquest|col=6|type=Dark|ndex=570
+|HP=1
+|atk=2
+|def=1
+|spd=3
+|range=4
+|move=Foul Play
+|ability1=Illusion
+|ability2=Melee
+|ability3=Disgust
+|evo=Evolves into {{p|Zoroark}} when its Attack is 90 or higher
+|link='''[[Kotarō]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Dark|ndex=570
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Dark|ndex=570|num=063
+|min=50
+|max=115
+|raisemaxlevel=10
+|skill=Sinister Power
+|skilldesc=Increases damage done by any Dark types in the combo.
+|swapper=Super Cheer
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Dark
+|no1=570
+|name1=Zorua
+|type1-1=Dark
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no2=571
+|name2=Zoroark
+|type1-2=Dark
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Dark}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=570}}
+{{Spritebox/6|ndex=570}}
+{{Spritebox/7|ndex=570}}
+{{Spritebox/Footer|570|Zorua}}
+
+==Trivia==
+* Zorua was first revealed with its evolved form, {{p|Zoroark}}, in the March 2010 issue of [[CoroCoro]].
+* Zorua and its evolved form Zoroark are the only non-Mythical Pokémon to have been [[event]]-exclusive for a time (prior to the release of {{game|Black and White|s|Pokémon Black 2 and White 2|2}}).
+
+===Origin===
+Zorua is likely based on a {{wp|fox}} cub, with facial markings resembling {{wp|Kabuki}} or {{wp|Noh}} theater makeup. The concept of a Zorua still having its tail while in human form, is similar to the Japanese folklore of the {{wp|kitsune}}, a shape-shifting fox who, in some stories, has difficulty of hiding its tail when it takes on human forms. Zorua may also be based on {{wp|ninja}}s due to its special ability to use and fight with {{a|illusion}}s, which can be considered a genjutsu (illusion technique).
+
+====Name origin====
+Zorua may be a combination of ''zorro'' (Spanish for ''fox'') and ''rua'' (Irish for ''red'', possibly referring to its red fur; ''madra rua'' is Irish for ''fox'').
+
+==In other languages==
+{{Other languages|type=Dark|type2=Dark
+|ja=ゾロア ''Zorua''|jameaning=From ''{{tt|zorro|fox in Spanish}}''
+|fr=Zorua|frmeaning=Same as English/Japanese name
+|es=Zorua|esmeaning=Same as English/Japanese name
+|de=Zorua|demeaning=Same as English/Japanese name
+|it=Zorua|itmeaning=Same as English/Japanese name
+|ko=조로아 ''Zorua''|komeaning=Transliteration of Japanese name
+|zh_cmn= 索羅亞 / 索罗亚 ''Suǒluóyǎ'' / ''Suǒluóyà''|zh_cmnmeaning=Transliteration of Japanese name
+|ru=Зоруа ''Zorua''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Zorua (M13)]]
+* [[Luke's Zorua]]
+* [[N's Zorua]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+* {{wp|Zorua and Zoroark|Article on Wikipedia}}
+
+{{-}}
+{{PokémonPrevNext/Head|type=Dark}}
+{{PokémonPrevNext/Pokémon|type=Dark|prevnum=569|prev=Garbodor|nextnum=571|next=Zoroark}}
+|}
+{{Project Pokédex notice}}
+[[Category:Pokémon that appeared in the anime before their game debut]]
+
+[[de:Zorua]]
+[[fr:Zorua]]
+[[it:Zorua]]
+[[ja:ゾロア]]
+[[pl:Zorua]]
+[[zh:索罗亚]]

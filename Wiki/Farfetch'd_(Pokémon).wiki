@@ -1,0 +1,593 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/GO|species=Farfetch'd}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=082|prev=Magneton|nextnum=084|next=Doduo|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Farfetch'd
+|jname=カモネギ
+|tmname=Kamonegi
+|ndex=083
+|oldjdex=158
+|jdex=160
+|karea=Central
+|kdex=061
+|type1=Normal
+|type2=Flying
+|category=Wild Duck
+|height-ftin=2'07"
+|height-m=0.8
+|weight-lbs=33.1
+|weight-kg=15.0
+|abilitylayout=2
+|ability1=Keen Eye
+|ability2=Inner Focus
+|abilityd=Defiant
+|egggroupn=2
+|egggroup1=Flying
+|egggroup2=Field
+|eggcycles=20
+|evtotal=1
+|evat=1
+|expyield=132<!--123 in Gen V-VI-->
+|oldexp=94
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=45
+|body=09
+|pokefordex=farfetch'd
+|generation=1
+|friendship=70
+}}
+'''Farfetch'd''' ([[List of Japanese Pokémon names|Japanese]]: '''カモネギ''' ''Kamonegi'') is a dual-type {{2t|Normal|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+Farfetch'd resembles a brown duck with a white underbelly. It has a yellow beak and a V-shaped, black marking on its forehead. It has wings as big as its body, which appear to be {{wp|prehensility|prehensile}} enough to substitute for hands. It has yellow legs with webbed feet.
+
+Farfetch'd is always seen carrying a leek stalk or spring onion. It carries this sprig in its wings, and sometimes chooses to hold it in its beak or feet instead. Unable to live without its stick, Farfetch'd will defend the stalk with its life. Known uses for the stick include use as a weapon, nesting material, and emergency food source. It is selective about which sticks it will use, and has been known to fight over good ones. Farfetch'd is found in {{DL|List of Pokémon by habitat|Grassland Pokémon|grasslands}}.
+
+==In the anime==
+[[File:Nini Farfetch'd.png|250px|left|thumb|Farfetch'd in the {{pkmn|anime}}]]
+===Major appearances===
+Farfetch'd debuted in ''[[EP049|So Near, Yet So Farfetch'd]]'', under the ownership of {{OBP|Keith|EP049}}. Keith used Farfetch'd to help steal other Trainers' Pokémon, including {{an|Misty}}'s and {{TRT}}'s. It was used in a battle against {{Ash}} and battled {{AP|Bulbasaur}} before losing to Misty and her {{TP|Misty|Psyduck}}.
+
+In ''[[EP098|A Way Off Day Off]]'', Farfetch'd lived on a deserted island, which is the home of many different fruit trees.
+
+A Farfetch'd appeared in ''[[EP145|A Farfetch'd Tale]]'', under the ownership of {{OBP|Sylvester|EP145}}. He was trying to learn to make {{DL|Type-enhancing item|Charcoal}} by using Farfetch'd's {{m|Cut}} attack.
+
+Multiple Farfetch'd appeared in ''[[SS015|Putting the Air Back in Aerodactyl!]]''. They would appear whenever {{OBP|Crystal|SS015}} whistles.
+
+In ''[[DP052|Smells Like Team Spirit!]]'', a Farfetch'd was used by {{an|Brock}}'s battle partner [[Holly]] against {{Ash}} and [[Paul]] during the [[Hearthome City Tag Battle Competition]]. Farfetch'd was teamed with {{TP|Brock|Croagunk}} and battled {{AP|Staravia}} and {{TP|Paul|Torterra}} but was knocked out by {{p|Torterra}}'s {{m|Hyper Beam}}.
+
+A Farfetch'd appeared in ''[[DP124|To Thine Own Pokémon Be True!]]'', under the ownership of [[Wilkinson]]. He used it in the [[Pokémon Ping Pong Tournament]].
+
+[[Nini]] owns a Farfetch'd that first appeared in ''[[XY050|Pathways to Performance Partnering!]]''. It performs with Nini's {{p|Smoochum}} in [[Pokémon Showcase]]s.
+
+===Minor appearances===
+A Farfetch'd was one of the Pokémon seen at the [[Pokémon Swap Meet]] in ''[[EP146|Tricks of the Trade]]''.
+
+A Farfetch'd appeared ''[[M08|Lucario and the Mystery of Mew]]'', ''[[DP145|A Rivalry to Gible On!]]'', ''[[XY005|A Blustery Santalune Gym Battle!]]'', ''[[XY016|A Jolting Switcheroo!]]'', ''[[XY029|Heroes - Friends and Faux Alike!]]'', ''[[M17|Diancie and the Cocoon of Destruction]]'', and ''[[XY047|Dreaming a Performer's Dream!]]''.
+
+A {{pkmn|Coordinator}}'s Farfetch'd appeared in ''[[AG151|Weekend Warrior]]'' competing in the {{ka|Silver Town}} [[Pokémon Contest]].
+
+Multiple Farfetch'd made a brief cameo in ''[[M11|Giratina and the Sky Warrior]]''.
+
+A {{pkmn|Trainer}}'s Farfetch'd appeared in ''[[XY026|A Battle by Any Other Name!]]'', where it was seen participating in the [[Poké Puff Contest]].
+
+A Trainer's Farfetch'd appeared in ''[[XY136|Forming a More Perfect Union!]]''.
+
+A Farfetch'd appeared in ''[[M20|I Choose You!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP049|Farfetch'd|Ash's Pokédex|Farfetch'd, a Wild Duck Pokémon. Farfetch'd makes a delicious meal, especially when cooked with leek. Because of this, Farfetch'd is nearly extinct.}}
+|}
+{| width="100%" style="background: #{{colorschemedark|Kanto}}"
+|-
+| width="100%" style="text-align:right; background: #{{colorschemelight|Kanto}}; {{roundybottom|10px}}" | <small>''' Original series entries continue below.'''</small>
+|}
+|}
+{{Animedexheader|Orange}}
+{{Animedexbody|EP098|Farfetch'd|Ash's Pokédex|Farfetch'd, the Wild Duck Pokémon. This extremely rare Pokémon can always be found holding a [[Stick|leek, or green onion]], which it uses to build its nest.}}
+{{Animedexfooter/Pokémon|original|Orange}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP052|Farfetch'd|Dawn's Pokédex|Farfetch'd, the Wild Duck Pokémon. Using the green onion that it holds like a sword, Farfetch'd can slice through a variety of objects.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY050|Farfetch'd|Serena's Pokédex|Farfetch'd, the Wild Duck Pokémon. Farfetch'd uses the stalk it holds as a weapon, wielding it like a sword to cut a variety of objects.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Bill Farfetch'd.png|thumb|150px|Farfetch'd in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Farfetch'd debuted in ''[[PS039|Just a Spearow Carrier]]'' at the Indigo Plateau with its Trainer.
+
+A wild Farfetch'd appeared in ''[[PS063|Extricated from Exeggutor]]'' where it was saved by {{adv|Yellow}} after getting attacked by a group of Exeggutor while it was trying to find its nest. Afterwards Yellow helped it try to find its nest and later helped Yellow escape the Exeggutor and Oddish. Later it had finally found its nest with the help of Yellow and later said its goodbye to Yellow and Pika.
+
+Farfetch'd is the Pokémon owned by an [[Azalea Town|Azalean]] boy first seen in ''[[PS103|You Ain't Nothin' but a Houndour]]''. Both the boy and Farfetch'd fell victim to the onslaught of the [[Masked Man]]'s Pokémon in the depths of [[Ilex Forest]].
+
+{{adv|Bill}} is later seen in ''[[PS119|A Flaaffy Kerfuffle]]'' {{m|Fly|riding a Farfetch'd as a mode of transport}} to pass {{adv|Crystal}} the Portable Pokémon Transporter. It later helped Bill escape from Staryu, but got trapped with him but were later rescued by Crystal in ''[[PS120|Surrounded by Staryu]]''.
+
+A Farfetch'd appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+A Farfetch'd was used by {{adv|Emerald}} during his [[Battle Factory|Factory]] challenge in ''[[PS306|Pinsir Me, I Must Be Dreaming]]''.
+
+A Farfetch'd appeared in ''[[PS315|Skirting Around Surskit I]]'' as a rental Pokémon that [[Guile Hideout]] stole.
+
+In ''[[PS442|Out-Odding Oddish]]'', a Farfetch'd appeared in the [[Pokéathlon]].
+
+===In the Pokémon Gotta Catch 'Em All manga===
+[[Shu]]'s rival, [[Ryoma]], owns a Farfetch'd.
+
+===In the Pokémon Gold and Silver: The Golden Boys manga===
+A Farfetch'd appears in ''[[GB08|For Pikachu's Sake!! The Search For The Missing Farfetch'd]]''.
+
+===In the Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon manga===
+A Farfetch'd appeared in [[Pocket Monsters HeartGold & SoulSilver Go! Go! Pokéathlon]].
+
+===In the Pokémon Pocket Monsters manga===
+A Farfetch'd took part in a baseball match in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]''.
+{{-}}
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS103]]|Defends areas where leeks grow. Uses stalks in battle.}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Farfetch'd (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{3v2|Gold|Silver|Crystal}}: The charcoal makers of [[Azalea Town]] own a Farfetch'd. However, it won't listen to the apprentice and runs off in the [[Ilex Forest]]. Herding it back to him earns the player an {{HM|01|Cut}}.
+* [[Pokémon Super Mystery Dungeon]]: Farfetch'd is one of the teachers at the school in [[Serene Village]]. He is serious about what he does, but his lessons are frequently interrupted. During summer vacation, he goes missing due to some mischievous {{p|Litwick|ghosts}}, but he is returned without being harmed.
+
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Flying}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=The sprig of green onions it holds is its weapon. It is used much like a metal sword.}}
+{{Dex/Entry1|v=Yellow|entry=Lives where reedy plants grow. They are rarely seen, so it's thought their numbers are decreasing.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Always carries the stalk of an unidentified plant. The stalk is said to be used for making a nest or as a weapon.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.}}
+{{Dex/Entry1|v=Silver|entry=If it eats the plant stick it carries as emergency rations, it runs off in search of a new stick.}}
+{{Dex/Entry1|v=Crystal|entry=In order to prevent their extinction, more people have made an effort to {{pkmn|breeding|breed}} these Pokémon.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Farfetch'd is always seen with a stick from a plant of some sort. Apparently, there are good sticks and bad sticks. This Pokémon has been known to fight with others over sticks.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.}}
+{{Dex/Entry1|v=FireRed|entry=It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.}}
+{{Dex/Entry1|v=LeafGreen|entry=The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.}}
+{{Dex/Entry1|v=HeartGold|entry=If anyone tries to disturb where the essential plant sticks grow, it uses its own stick to thwart them.}}
+{{Dex/Entry1|v=SoulSilver|entry=If it eats the plant stalk it carries as emergency rations, it runs off in search of a new stalk.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.}}
+{{Dex/Entry1|v=Y|entry=It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[In-game trade#Red and Blue|Trade]] {{p|Spearow}} in [[Vermilion City]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[In-game trade#Blue (Japan)|Trade]] {{p|Pidgey}} in [[Vermilion City]]}}
+{{Availability/Entry1|v=Yellow|area=[[Route]]s {{rtn|12|Kanto}} and {{rtn|13|Kanto}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Route]]s {{rtn|38|Johto}} and {{rtn|39|Johto}}{{sup/t|M}}{{sup/t|D}}}}
+{{Availability/Entry1|v=Crystal|area={{rt|43|Johto}}{{sup/t|M}}{{sup/t|D}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[In-game trade#FireRed and LeafGreen|Trade]] {{p|Spearow}} in [[Vermilion City]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Citadark Isle]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area={{rt|221|Sinnoh}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1|v=Platinum|area={{rt|221|Sinnoh}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|38|Johto}}, {{rtn|39|Johto}}, {{rtn|47|Johto}}, and {{rtn|48|Johto}}, {{safari|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color=A2E0A3|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|1|Unova}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|1|Unova}} ([[Pokémon outbreak|Swarm]])}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[In-game trade#X and Y|Trade]] {{p|Bunnelby}} in [[Santalune City]]<br>{{rt|22|Kalos}}<br>[[Friend Safari]] ([[Friend Safari#Flying-type Safari|Flying]])}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Vermilion City|Vermilion City Seaside]], [[Vermilion City|Vermilion City Streets]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Stadium 2|color=000|t=FFF|area=Defeat {{ga|Silver|Rival}} at the end of Round 1}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 6]], Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Silent Chasm]] (1F-3F), [[Pitfall Valley]] (1F-6F), [[Joyous Tower]] (23F-27F), [[Remains Island]] (B1-B6)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Steam Cave]] (1F-8F, Upper Steam Cave 1F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Steam Cave]] (1F-8F, Upper Steam Cave 1F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie‎]] <small>(Normal Mode C & B)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Lava Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Verdant Plaza#Four Seasons in the Forest|Verdant Plaza: Four Seasons in the Forest]], [[Chill Battle#Fever!|Chill Battle: Fever!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 5|Island of Haste: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#The Daily Pokémon (#2)|The Daily Pokémon (#2)]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Diamond Crater#Thorny Heath|Diamond Crater: Thorny Heath]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Normal|type2=Flying}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Fury Cutter Farfetch'd|English|United States|5|August 30 to September 26, 2002|link=List of Gotta Catch 'Em All event Pokémon#Fury Cutter Farfetch'd}}
+{{eventAvail|{{gameabbrev3|FRLG}}|Wish Egg Farfetch'd|English|United States|5|December 16, 2004 to January 2, 2005|link=List of PCNY event Pokémon distributions in Generation III#Farfetch'd}}
+|}
+
+=====In-game events=====
+{{eventAvail/h|type=Normal|type2=Flying|lochide=yes}}
+{{eventAvail|{{gameabbrev2|GSC}}|Baton Pass Farfetch'd|Japanese|hide|5|December 14, 2000 onwards|link=List of game-based Pokémon distributions in Generation II#Baton Pass Farfetch'd 2}}
+{{eventAvail|{{gameabbrev2|GSC}}|Baton Pass Farfetch'd|English|hide|5|March 28, 2001 onwards|link=List of game-based Pokémon distributions in Generation II#Baton Pass Farfetch'd}}
+{{eventAvail|{{gameabbrev2|GSC}}|Baton Pass Farfetch'd|French|hide|5|October 10, 2001 onwards|link=List of game-based Pokémon distributions in Generation II#Baton Pass Farfetch'd}}
+{{eventAvail|{{gameabbrev2|GSC}}|Baton Pass Farfetch'd|German|hide|5|October 10, 2001 onwards|link=List of game-based Pokémon distributions in Generation II#Baton Pass Farfetch'd}}
+{{eventAvail|{{gameabbrev2|GSC}}|Baton Pass Farfetch'd|Italian|hide|5|October 10, 2001 onwards|link=List of game-based Pokémon distributions in Generation II#Baton Pass Farfetch'd}}
+{{eventAvail|{{gameabbrev2|GSC}}|Baton Pass Farfetch'd|Spanish|hide|5|October 10, 2001 onwards|link=List of game-based Pokémon distributions in Generation II#Baton Pass Farfetch'd}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Normal|type2=Flying
+|rby1=Bitter Berry|rby1type=None|rby1rar=100|rby1image=no
+|gsc1=Stick|gsc1type=None|gsc1rar=8
+|xd1=Stick|xd1type=None|xd1rar=100
+|dppt1=Stick|dppt1type=None|dppt1rar=5
+|hgss1=Stick|hgss1type=None|hgss1rar=5
+|bw1=Stick|bw1type=None|bw1rar=5
+|b2w21=Stick|b2w21type=None|b2w21rar=5
+|xy1=Stick|xy1type=None|xy1rar=5
+}}
+
+===Stats===
+====Base stats====
+=====Generation I-VI=====
+{{BaseStats with RBY
+|type=Normal
+|type2=Flying
+|HP=     52
+|Attack= 65
+|Defense=55
+|SpAtk=  58
+|SpDef=  62
+|Special=58
+|Speed=  60}}
+
+=====Generation VII=====
+{{BaseStats
+|type=Normal
+|type2=Flying
+|HP=     52
+|Attack= 90
+|Defense=55
+|SpAtk=  58
+|SpDef=  62
+|Speed=  60}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|type2=Flying
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=4
+|Technique=2
+|TechniqueMax=3
+|Stamina=3
+|StaminaMax=3
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Flying
+|Normal=  100
+|Flying=  100
+|Fighting=100
+|Ground=    0
+|Rock=    200
+|Bug=      50
+|Poison=  100
+|Ghost=     0
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=    50
+|Electric=200
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Farfetch'd|Normal|Flying|1}}
+{{learnlist/level7|1|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/level7|1|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/level7|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level7|1|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/level7|7|Fury Attack|Normal|Physical|15|85|20||'''}}
+{{learnlist/level7|9|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/level7|13|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/level7|19|Slash|Normal|Physical|70|100|20||'''}}
+{{learnlist/level7|21|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/level7|25|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|31|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|33|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/level7|37|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/level7|43|Feint|Normal|Physical|30|100|10||'''}}
+{{learnlist/level7|45|False Swipe|Normal|Physical|40|100|40||'''}}
+{{learnlist/level7|49|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|55|Brave Bird|Flying|Physical|120|100|15||'''}}
+{{learnlist/levelf/7|Farfetch'd|Normal|Flying|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Farfetch'd|Normal|Flying|1}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40||'''}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM62|Acrobatics|Flying|Physical|55|100|15||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Farfetch'd|Normal|Flying|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Farfetch'd|Normal|Flying|2}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|133|Eevee}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}<br>{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|300|Skitty}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Covet|Normal|Physical|60|100|25||'''}}
+{{learnlist/breed7|{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|441|Chatot}}{{MSP|519|Pidove}}{{MSP|520|Tranquill}}<br>{{MSP|521|Unfezant}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|722|Rowlet}}{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}<br>{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}{{MSP|733|Toucannon}}{{MSP|741|Oricorio}}|Feather Dance|Flying|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|396|Starly}}{{MSP|397|Staravia}}{{MSP|398|Staraptor}}|Final Gambit|Fighting|Special|—|100|5|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|235|Smeargle}}|First Impression|Bug|Physical|90|100|10|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|231|Phanpy}}{{MSP|263|Zigzagoon}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}<br>{{MSP|324|Torkoal}}{{MSP|327|Spinda}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}<br>{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|775|Komala}}|Flail|Normal|Physical|&mdash;|100|15||'''}}
+{{learnlist/breed7|{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|300|Skitty}}{{MSP|427|Buneary}}<br>{{MSP|428|Lopunny}}{{MSP|448|Lucario}}{{MSP|722|Rowlet}}{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}<br>{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|561|Sigilyph}}{{MSP|714|Noibat}}{{MSP|715|Noivern}}|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/breed7|{{MSP|274|Nuzleaf}}{{MSP|470|Leafeon}}{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|672|Skiddo}}<br>{{MSP|673|Gogoat}}{{MSP|722|Rowlet}}{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}|Leaf Blade|Grass|Physical|90|100|15}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|255|Torchic}}<br>{{MSP|256|Combusken}}{{MSP|333|Swablu}}{{MSP|441|Chatot}}{{MSP|561|Sigilyph}}{{MSP|741|Oricorio}}|Mirror Move|Flying|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}<br>{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|529|Drilbur}}{{MSP|530|Excadrill}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}<br>{{MSP|553|Krookodile}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/breed7|{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|083|Farfetch'd}}{{MSP|227|Skarmory}}{{MSP|336|Seviper}}{{MSP|359|Absol}}{{MSP|430|Honchkrow}}{{MSP|434|Stunky}}<br>{{MSP|435|Skuntank}}{{MSP|461|Weavile}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|571|Zoroark}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}<br>{{MSP|020A|Raticate}}{{MSP|025|Pikachu}}{{MSP|037|Vulpix}}{{MSP|038|Ninetales}}{{MSP|078|Rapidash}}{{MSP|084|Doduo}}<br>{{MSP|085|Dodrio}}{{MSP|133|Eevee}}{{MSP|134|Vaporeon}}{{MSP|135|Jolteon}}{{MSP|136|Flareon}}{{MSP|196|Espeon}}<br>{{MSP|197|Umbreon}}{{MSP|470|Leafeon}}{{MSP|471|Glaceon}}{{MSP|700|Sylveon}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}<br>{{MSP|157|Typhlosion}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|255|Torchic}}<br>{{MSP|256|Combusken}}{{MSP|257|Blaziken}}{{MSP|276|Taillow}}{{MSP|277|Swellow}}{{MSP|278|Wingull}}{{MSP|309|Electrike}}<br>{{MSP|310|Manectric}}{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|396|Starly}}{{MSP|397|Staravia}}{{MSP|398|Staraptor}}<br>{{MSP|417|Pachirisu}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|448|Lucario}}<br>{{MSP|519|Pidove}}{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|566|Archen}}<br>{{MSP|567|Archeops}}{{MSP|587|Emolga}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}<br>{{MSP|663|Talonflame}}{{MSP|745|Lycanroc}}|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|461|Weavile}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|626|Bouffalant}}|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|163|Hoothoot}}<br>{{MSP|164|Noctowl}}{{MSP|206|Dunsparce}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}{{MSP|441|Chatot}}{{MSP|519|Pidove}}<br>{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}<br>{{MSP|663|Talonflame}}{{MSP|714|Noibat}}{{MSP|715|Noivern}}{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}{{MSP|733|Toucannon}}<br>{{MSP|741|Oricorio}}|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|177|Natu}}{{MSP|263|Zigzagoon}}{{MSP|300|Skitty}}{{MSP|325|Spoink}}|Simple Beam|Normal|Status|&mdash;|100|15|*}}
+{{learnlist/breed7|{{MSP|227|Skarmory}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/breed7|{{MSP|133|Eevee}}|Trump Card|Normal|Special|&mdash;|&mdash;|5||'''}}
+{{learnlist/breedf/7|Farfetch'd|Normal|Flying|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Farfetch'd|Normal|Flying|2}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25||'''|no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutorf/7|Farfetch'd|Normal|Flying|2}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Flying}}
+{{Spindata/Pinball|col=3|type=Normal|ndex=083|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=083|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=083
+|body=1
+|rate=7.2
+|area=Wild Plains
+|P1=This stalk I bear... It's not just for looks.
+|P2=You should know... My health is half gone.
+|P3=Sorry, friend. This looks like it for me...
+|PL=Leveled up, I did.
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=083
+|body=1
+|rate=6.4
+|IQ=G
+}}
+|-
+{{Spindata/Rumble|col=3|type=Normal
+|att=2
+|def=2
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Normal
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Normal|ndex=083
+|Pad=Farfetch'd works for {{p|Blaziken}} in the [[Lava Zone]]. He challenged you to a battle, remember? He's a first-class player when it comes to {{DL|Attractions|Blaziken's Boulder Bash}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=083|bttype=Flying
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=083|stype=Flying|num=166
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Quirky
+|skilldesc=Sometimes erases one extra matching Pokémon elsewhere.
+|swapper=Power of 4+
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=083
+|hatch=N/A{{tt|*|5&nbsp;km Eggs obtained prior to December 12, 2016 can hatch into Farfetch'd}}
+|buddy=3
+|evolution=N/A
+|stamina=104
+|attack=124
+|defense=118
+|fast={{m|Cut}}{{tt|*|Prior to February 16, 2017}}, {{m|Air Slash}}{{tt|*|From February 16, 2017 onward}}, {{m|Fury Cutter}}
+|special={{m|Aerial Ace}}, {{m|Air Cutter}}, {{m|Leaf Blade}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Normal
+|type2=Flying
+|pictype=art
+|no1=083
+|name1=Farfetch'd
+|type1-1=Normal
+|type2-1=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Flying}}
+{{Spritebox/1|ndex=083}}
+{{Spritebox/2|ndex=083}}
+{{Spritebox/3|ndex=083}}
+{{Spritebox/4|ndex=083}}
+{{Spritebox/5|ndex=083}}
+{{Spritebox/6|ndex=083}}
+{{Spritebox/7|ndex=083}}
+{{Spritebox/Footer|083|Farfetch'd}}
+
+==Trivia==
+* Farfetch'd is the only {{OBP|Pokémon|species}} with an apostrophe in its name.
+** Due to this, it is impossible to return a nicknamed Farfetch'd to its species name in English, Spanish, or Italian Generation I and II games. This is because the apostrophe is not available as a character for nicknames.
+* Farfetch'd is the only Pokémon with a base stat total of 377.
+* According to the anime, Farfetch'd are rare because they have been over-hunted for food. This means Farfetch'd is one of the few Pokémon [[Pokémon food#Eating other Pokémon|confirmed to be used for food]].
+* Due to changes to the critical-hit formula in Generation VI, if holding its signature item, the [[Stick]], and using a move with an increased critical-hit ratio, the move will always land as a critical hit.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Farfetch'd}}
+Farfetch'd may be inspired by the Japanese saying 「{{tt|鴨が葱を背負って来る|Kamo ga negi wo shotte kuru}}」, literally translating to "a duck comes bearing {{wp|Welsh onion|green onions}}". As a saying, it means "something surprising but convenient". The phrase can be shortened simply to 「{{tt|鴨葱|kamo negi}}」.
+
+====Name origin====
+Farfetch'd is derived from ''far-fetched'', meaning ''unbelievable'', perhaps relating to Farfetch'd's rarity or the "far-fetched" theme of its Japanese name.
+
+Kamonegi is a combination of 鴨 ''kamo'' ({{wp|Mallard|wild duck}}) and 葱 ''negi'' ({{wp|spring onion}}). Additionally, 鴨葱 ''kamonegi'' is an abbreviation of the proverb 「鴨が葱をしょって来る」 ("a duck comes bearing {{wp|Welsh onion|green onions}}"), which means "something surprising but convenient".
+
+==In other languages==
+{{Other languages|type=Normal|type2=Flying
+|ja=カモネギ ''Kamonegi''|jameaning=From {{wp|Mallard|{{tt|鴨 ''kamo''|wild duck}}}} and {{wp|Welsh onion|{{tt|葱 ''negi''|spring onion}}}}. Additionally, 鴨葱 ''kamonegi'' is an abbreviation of the proverb {{tt|鴨が葱をしょって来る|'a duck comes bearing green onions'}}.
+|fr=Canarticho|frmeaning=From {{tt|''canard''|duck}} and {{tt|''artichaut''|artichoke}}
+|es=Farfetch'd|esmeaning=Same as English name
+|de=Porenta|demeaning=From {{tt|''Porree''|leek}} and {{tt|''Ente''|duck}}
+|it=Farfetch'd|itmeaning=Same as English name
+|ko=파오리 ''Paori''|komeaning=From {{tt|파 ''pa''|onion/scallion}} and {{tt|오리 ''ori''|duck}}
+|zh_yue=火蔥鴨 ''Fóchūngngaap''|zh_yuemeaning=Means "{{wp|Shallot}} duck"
+|zh_cmn=大蔥鴨 / 大葱鸭 ''Dàcōngyā''|zh_cmnmeaning=Means "Scallion duck". 大蔥 literally means "Big scallion"
+|hi=फारफेच्ड ''Farfetch'd''|himeaning=Transcription of English name
+|ru=Фарфетчд ''Farfetchd''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+* {{wp|Farfetch'd|Article on Wikipedia}}
+
+{{-}}
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=082|prev=Magneton|nextnum=084|next=Doduo}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+
+[[de:Porenta]]
+[[fr:Canarticho]]
+[[it:Farfetch'd]]
+[[ja:カモネギ]]
+[[pl:Farfetch'd]]
+[[zh:大葱鸭]]

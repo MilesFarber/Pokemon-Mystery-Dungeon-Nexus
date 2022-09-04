@@ -1,0 +1,328 @@
+{{PokémonPrevNext/Head|type=Rock|type2=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=702|prev=Dedenne|nextnum=704|next=Goomy|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Carbink}}
+|}
+{{Pokémon Infobox
+|name=Carbink
+|jname=メレシー
+|tmname=Melecie
+|jtranslit=Mereshī
+|category=Jewel
+|typebox=1
+|type1=Rock
+|type2=Fairy
+|abilityn=d
+|ability1=Clear Body
+|abilityd=Sturdy
+|ndex=703
+|karea=Coastal
+|kdex=124
+|adex=101
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=12.6
+|weight-kg=5.7
+|egggroupn=2
+|egggroup1=Fairy
+|egggroup2=Mineral
+|gendercode=255
+|eggcycles=25
+|evtotal=2
+|evsd=1
+|evde=1
+|expyield=100
+|lv100exp=1,250,000
+|color=Gray
+|catchrate=60
+|body=01
+|pokefordex=carbink
+|generation=6
+|friendship=70
+}}
+'''Carbink''' ([[List of Japanese Pokémon names|Japanese]]: '''メレシー''' ''Melecie'') is a dual-type {{2t|Rock|Fairy}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It is not known to [[evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+Carbink is a gray Pokémon that resembles a rock covered in light-blue crystals such as an ore. A white, fluffy collar separates this Pokémon's limbless body and head. Carbink has blue eyes, a light-blue crystal on top of its head and big, flat rhomboid ears. It can fire energy beams from the crystal in its head.
+
+Carbink is born from temperatures and pressure underground, and it has slept for millions of years since its birth. Some have been unearthed during cave excavations. Rarely, Carbink will undergo a strange mutation and transform into {{p|Diancie}}. In [[Alola]], the main predator of Carbink is {{p|Sableye}}, which stalks Carbink due to its diet of gemstones. However, {{p|Gabite}} usually takes the Carbink before the Sableye can.
+
+==In the anime==
+[[File:Kalos Route 14 Carbink.png|thumb|250px|left|Carbink in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Carbink servants]]====
+Three Carbink named Bort, Merrick, and Allotrope appeared in ''[[SS030|Diancie — Princess of the Diamond Domain]]''. Bort, Merrick, and Allotrope reappeared in ''[[M17|Diancie and the Cocoon of Destruction]]'', accompanied by a fourth Carbink named Dace, who appeared to be the leader.
+
+====Other====
+Several Carbink made their main series debut in ''[[XY123|A Diamond in the Rough!]]'', with one of them causing trouble in [[Ash's Goodra]]'s {{rt|14|Kalos|homeland}}. One of them reappeared in ''[[XY131|Down to the Fiery Finish!]]'', where it was watching Goodra's battle against [[Alain]] on TV.
+
+===Minor appearances===
+Multiple Carbink appeared in ''Diancie and the Cocoon of Destruction'', where they resided in the [[Diamond Domain]].
+
+Four Carbink appeared in the Hoopa's Surprise Ring Adventures short ''{{DL|Hoopa's Surprise Ring Adventures|In the Dark}}''.
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY123|Carbink|Ash's Pokédex|Carbink, the Jewel Pokémon. Carbink are said to come from deep underground with its high pressure and hot temperatures. Their bodies are as hard as diamonds.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Carbink servants M17 manga.png|thumb|200px|Carbink in {{ma|Diancie and the Cocoon of Destruction}}.]]
+===In the movie adaptations===
+{{main|Carbink servants}}
+The Carbink servants appear in {{ma|Diancie and the Cocoon of Destruction}}.
+
+===In the [[Pokémon Adventures]] manga===
+In the {{chap|X & Y}}, a group of Carbink lived in a cave near where [[Korrina]], [[Gurkinn]] and [[Diantha]] camped as fugitives. A thief knocked out several of the Carbink inside the cave in order to steal the prized {{p|Diancie}}, but just as he made it out of the cave, he was stopped by the fugitive trio and eventually defeated by Diancie.
+
+==In the TCG==
+{{main|Carbink (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=rock|type2=fairy}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Born from temperatures and pressures deep underground, it fires beams from the stone in its head.}}
+{{Dex/Entry1|v=Y|entry=It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Born from temperatures and pressures deep underground, it fires beams from the stone in its head.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It has slept underground for hundreds of millions of years since its birth. It's occasionally found during the excavation of caves.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Born from the high temperatures and pressures deep underground, it defends itself by firing beams from the jewel part of its body.}}
+{{Dex/Entry1|v=Moon|entry=Although this Pokémon is not especially rare, its glittering, jewel-draped body draws attention from people.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Some say that deep beneath the surface of the world, a pack of Carbink live with their queen in a kingdom of jewels.}}
+{{Dex/Entry1|v=Ultra Moon|entry=To keep the jewels on their bodies free of tarnish, packs of Carbink use their soft manes to polish one another's jewels.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock|type2=Fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Reflection Cave]]}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Ten Carat Hill]], [[Vast Poni Canyon]], [[Poké Pelago]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Ten Carat Hill]], [[Vast Poni Canyon]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock|type2=Fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Stage 3|Safari Jungle: Stage 3]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Silbern Museum|Silbern Museum: Stage 97]]<br>[[Nacht Carnival|Nacht Carnival: Stage 502]]<br>Event: ''[[Special Stages#Special Daily Pokémon (Third release)|Special Daily Pokémon]]'' <small>(Third release; Winking)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Mineral Crust Hollow|Legend Terrain: Mineral Crust Hollow]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 30|Area 30: Stage 01]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{Base Stats
+|type=Rock
+|type2=Fairy
+|HP=50
+|Attack=50
+|Defense=150
+|SpAtk=50
+|SpDef=150
+|Speed=50}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|type2=Fairy
+|Normal=   50
+|Flying=   50
+|Fighting=100
+|Ground=  200
+|Rock=    100
+|Bug=      50
+|Poison=  100
+|Ghost=   100
+|Steel=   400
+|Fire=     50
+|Water=   200
+|Grass=   200
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=    0
+|Dark=     50
+|Fairy=   100
+|notes=yes
+|fairy=yes
+|newdragon=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Carbink|Rock|Fairy|6}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Harden|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|5|Rock Throw|Rock|Physical|50|90|15||'''}}
+{{learnlist/level7|8|Sharpen|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|12|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level7|18|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|21|Stealth Rock|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|27|Guard Split|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|31|Ancient Power|Rock|Special|60|100|5||'''}}
+{{learnlist/level7|35|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|40|Skill Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|46|Power Gem|Rock|Special|80|100|20||'''}}
+{{learnlist/level7|49|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level7|50|Moonblast|Fairy|Special|95|100|15||'''}}
+{{learnlist/level7|60|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|70|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/levelf/7|Carbink|Rock|Fairy|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Carbink|Rock|Fairy|6}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Carbink|Rock|Fairy|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Carbink|Rock|Fairy|6}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Carbink|Rock|Fairy|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Carbink|Rock|Fairy|6}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutorf/7|Carbink|Rock|Fairy|6}}
+
+===Side game data===
+{{Spindata/Head|type=Rock|type2=Fairy}}
+{{Template:Spindata/Battle Trozei|col=6|type=Rock|ndex=703
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Rock|ndex=703|num=140
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Damage Streak
+|skilldesc=Increases damage when it is triggered in a row.
+|swapper=Rock Combo
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=703Winking|num=140
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Mega Boost+
+|skilldesc=Fills the Mega Gauge of the same type of Pokémon more.
+}}
+|}
+
+===Evolution===
+{{evobox-1
+|type1=Rock
+|type2=Fairy
+|pictype=art
+|no1=703
+|name1=Carbink
+|type1-1=Rock
+|type2-1=Fairy}}
+
+===Sprites===
+{{Spritebox/Header|type=rock|type2=fairy}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=703}}
+{{Spritebox/7|ndex=703}}
+{{Spritebox/Footer|703|Carbink}}
+
+==Trivia==
+* Carbink is tied with {{p|Diancie}} for having the highest base {{stat|Defense}} stat of all {{type|Fairy}} Pokémon.
+
+===Origin===
+Carbink could be based on the {{wp|Book of Imaginary Beings|carbuncle}}, a mythical fairy-like creature that was rumored to have gemstones growing out of it, and referring to its power to shoot rays or beams of light from the gem on its head. Its appearance is likely based on an {{wp|ore}}, a type of rock that contains minerals with important elements which are valued for a high price.
+
+====Name origin====
+Carbink may be a combination of ''{{wp|Carbuncle (gemstone)|carbuncle}}'', ''{{wp|carbon}}'' (element diamonds are composed of), ''{{wp|Carat (mass)|carat}}'', and ''tink'' (to tinkle).
+
+Melecie may be a combination of ''melée'' (small cut diamonds), 珍しい ''mezurashii'' (rare), and 石 ''ishi'' (stone).
+
+==In other languages==
+{{Other languages|type=rock |type2=Fairy
+|ja=メレシー ''Melecie''|jameaning=From {{tt|''melée''|small cut diamonds}}, {{tt|珍しい ''mezurashii''|rare, unusual}}, and {{tt|石 ''ishi''|stone, rock}}
+|fr=Strassie|frmeaning=From ''{{wp|rhinestone|strass}}''
+|es=Carbink|esmeaning=Same as English name
+|de=Rocara|demeaning=From ''Rock'' and ''Carat''
+|it=Carbink|itmeaning=Same as English name
+|ko=멜리시 ''Mellisi''|komeaning=Transliteration of its Japanese name
+|zh_cmn=小碎鑽 ''Xiǎosuìzuān''|zh_cmnmeaning=From {{tt|小 ''xiǎo''|small}} and {{tt|碎鑽 ''suìzuān''|melée}}
+|zh_yue=小碎鑽 ''Síuseuijyūn''|zh_yuemeaning=From {{tt|小 ''síu''|small}} and {{tt|碎鑽 ''seuijyūn''|melée}}
+|hi=कारबिंक ''Carbink''|himeaning=Transcription of English name
+|ru=Карбинк ''Karbink''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==Related articles==
+*[[Carbink servants]]
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Rock|type2=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=702|prev=Dedenne|nextnum=704|next=Goomy}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Rocara]]
+[[fr:Strassie]]
+[[it:Carbink]]
+[[ja:メレシー]]
+[[pl:Carbink]]
+[[zh:小碎钻]]

@@ -1,0 +1,852 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/GO|species=Meowth}}
+{{PokémonPrevNext/Pokémon|type=Normal|species=Meowth|prevnum=051|prev=Dugtrio|nextnum=053|next=Persian|round=none}}
+{{PokémonPrevNext/Disambig|species=Meowth}}
+|}
+{{Pokémon Infobox
+|name=Meowth
+|jname=ニャース
+|jtranslit=Nyāsu
+|tmname=Nyarth
+|forme=2
+|form1=Meowth
+|form2=Alolan Meowth
+|image2=052Meowth-Alola.png
+|ndex=052
+|oldjdex=136
+|jdex=138
+|adex=045
+|fbrow=099
+|type1=Normal
+|form2type1=Dark
+|category={{tt|Scratch Cat|SCRATCHCAT before Generation III}}
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=9.3
+|weight-kg=4.2
+|abilitylayout=1+2
+|ability1=Pickup
+|ability2=Technician
+|abilityd=Unnerve
+|abilitydcaption=Meowth
+|abilityd2=Rattled
+|abilityd2caption=Alolan Meowth
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=1
+|evsp=1
+|expyield=58
+|oldexp=69
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|formcolors=yes
+|catchrate=255
+|body=08
+|pokefordex=meowth
+|generation=1
+|friendship=70
+}}
+'''Meowth''' ([[List of Japanese Pokémon names|Japanese]]: '''ニャース ''' ''Nyarth'') is a {{type|Normal}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolve]]s into {{p|Persian}} starting at [[level]] 28.
+
+In [[Alola]], Meowth has a [[regional variant]] that is {{type|Dark}}. It evolves into Alolan Persian when leveled up with high [[friendship]].
+
+==Biology==
+[[File:Game Freak Meowth.jpg|thumb|left|250px|[[Game Freak]] artwork of Meowth]]
+Meowth is a small, feline Pokémon with cream-colored fur that turns brown at the tips of its hind paws and tail. Its ovoid head features four prominent whiskers, wide eyes with slit pupils, two pointed teeth in the upper jaw, and a gold oval coin embedded in its forehead. Its ears are black with brown interiors, and are flanked with an additional pair of long whiskers. Meowth is a quadruped with the ability to walk on its hind legs; while the games always depict Meowth on two legs, the [[EP070|anime]] states that Meowth normally walks on all fours. It can freely manipulate its claws, retracting them when it wants to move silently. The tip of its tail curls tightly.
+
+Meowth is attracted to round and shiny objects, and has the [[Signature move|unique ability]] to produce coins using {{m|Pay Day}}. Being nocturnal, it is known to wander about city streets at night and pick up anything that sparkles, including loose change. Upon finding a sparkling object, its eyes will glitter and the coin on its forehead will shine brightly. It shares this intrigue with {{p|Murkrow}}, with whom it often fights with for objects and prey. Meowth is a playful but fickle Pokémon with the capacity for human-like intelligence, with at least one member of the species teaching itself how to {{MTR|speak}}. Meowth tends to live in {{DL|List of Pokémon by habitat|Urban Pokémon|urban areas}}.
+
+Meowth was introduced to [[Alola]] as a gift to royalty. The luxurious royal lifestyle soon led to Meowth diverging from its origins and becoming the selfish, prideful, and cunning Alolan Meowth. Alolan Meowth will turn hysterical if its coin or pride are besmirched. When the monarchy fell, the rare Alolan Meowth went feral and eventually grew as common in Alola as anywhere else.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/alolan-meowth/</ref> Alolan Meowth's fur is a light blue-gray color. Instead of brown markings, the tip of its tail, whiskers, digits, and the insides of its ears a whitish-gray shade. Alolan Meowth's whiskers maintain a slight curve compared to regular Meowth's straighter whiskers, and it has silvery eyes.
+
+==In the anime==
+[[File:Meowth Team Rocket.png|250px|thumb|Meowth in the {{pkmn|anime}}]]
+[[File:Matori Meowth.png|thumb|250px|Alolan Meowth in the {{pkmn|anime}}]]
+===Major appearances===
+===={{MTR|Team Rocket's Meowth}}====
+Meowth is one of the two main Pokémon in the series (the other being {{AP|Pikachu}}). Meowth is a member of {{TRT}}, and he is unlike ordinary Meowth in that he can [[talking Pokémon|speak human language]]. His first appearance was in ''[[EP002|Pokémon Emergency!]]''.
+
+His background story, including another female Meowth named [[Meowzie]], was told in ''[[EP070|Go West Young Meowth]]''.
+
+Meowth was cloned in ''[[M01|Mewtwo Strikes Back]]'', but his clone couldn't talk or walk on two legs, just like an ordinary Meowth, likely due to the fact that its progenitor needed to learn how to do this. The Meowth clone is encountered again in ''[[Mewtwo Returns]]''.
+
+====[[Meowzie]]====
+Meowzie is the main reason behind {{MTR}}'s ability to talk and walk on two legs. He fell in love with her when he was still a stray Pokémon on the streets of [[Hollywood]].
+
+====[[Tyson's Meowth]]====
+Tyson's Meowth debuted in ''[[AG125|Like a Meowth to a Flame]]''. This Meowth was dressed up like {{wp|Puss in Boots (fairy tale)|Puss in Boots}}, giving it the nickname "Meowth in Boots".
+
+====Other====
+In ''[[EP053|The Purr-fect Hero]]'', {{OBP|Timmy|EP053}} was reunited with a Meowth that saved him from a {{p|Beedrill}}.
+
+A gang of Meowth on the streets of [[Hollywood]], which {{MTR}} was a part of and [[Meowzie]] currently is, appeared in ''[[EP070|Go West Young Meowth]]''.
+
+Over 100 years ago, [[The Black Arachnid]] had a Meowth as seen in ''[[EP123|Spinarak Attack]]''.
+
+An [[Regional variant|Alolan]] Meowth appeared in [[SM062]]. After working with Team Rocket, it later arrived at {{an|Team Rocket HQ}} after stealing Team Rocket's money to buy an airline ticket to [[Kanto]] where it became an assistant to [[Matori]].
+
+===Minor appearances===
+{{Ash}} used a Meowth during the Pokémon League entrance exam in ''[[EP056|The Ultimate Test]]''. The Meowth was defeated by the [[Pokémon League entrance exam instructor|instructor]]'s {{p|Vaporeon}}.
+
+A Meowth appeared in ''[[M08|Lucario and the Mystery of Mew]]'' as a {{m|Transform|transformation}} of {{OBP|Mew|M08}}.
+
+A {{pkmn2|giant}} Meowth appeared in ''[[BW127|The Island of Illusions!]]'', but as one of {{p|Zoroark}}'s {{a|illusion}}s.
+
+A [[Mirror World]] Meowth briefly appeared at the end of ''[[XY037|The Cave of Mirrors!]]'', as part of [[Mirror Team Rocket]].
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG109|Meowth|Ash's Pokédex|Meowth, the Scratch Cat Pokémon. Meowth loves to roam at night to gather coins and other objects that sparkle, but it spends most of the daylight hours sleeping.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP002|Meowth|Dawn's Pokédex|Meowth, the Scratch Cat Pokémon. It sleeps a lot during the daytime and during the nighttime becomes active, moving around its territory.}}
+{{Animedexbody|DP014|Meowth|Dawn's Pokédex|Meowth, the Scratch Cat Pokémon. When it sees round objects, it plays and loses track of time.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Sham Meowth Adventures.png|thumb|left|200px|Meowth in [[Pokémon Adventures]]]]
+[[File:Meowth EToP.png|thumb|200px|Meowth in [[The Electric Tale of Pikachu]]]]
+===In the Ash & Pikachu manga===
+{{main|Meowth (Team Rocket)}}
+Meowth appeared in the [[Ash & Pikachu]] manga.
+
+===In The Electric Tale of Pikachu manga===
+{{main|Meowth (Team Rocket)}}
+{{MTR}} appears in the [[The Electric Tale of Pikachu]] manga series along with his teammates [[Jessie]] and [[James]]. He first appears in the chapter ''[[ET07|Pikachu's Excellent Adventure]]''.
+
+In ''[[ET11|Days of Gloom and Glory]]'', an unnamed Meowth based on [[Meowzie]] appears. Like in the anime, Meowzie finds Meowth's ability to speak human language "creepy". In the manga, she has at least one kitten, which she captures into a stolen Poké Ball to protect it from an impending flood.
+
+===In the Pokémon Adventures manga===
+[[File:Sun Meowth Adventures.png|thumb|left|200px|Alolan Meowth in [[Pokémon Adventures]]]]
+Meowth's first appearance is a cameo in ''[[PS002|Bulbasaur, Come Home!]]'' as one of the Pokémon that escapes from [[Professor Oak's Laboratory]].
+
+In ''[[PS056|The Coming of Slowpoke (Eventually)]]'' when the Pokémon Fan Club President explains about the move {{m|Pay Day}} he also states that it is [[signature move|normally an attack specific]] for Meowth.
+
+It then appeared as one of [[Sham]]'s Pokémon which attacked {{adv|Green}} and {{adv|Silver}} while they were escaping from [[Masked Man]]'s compound (flashback from ''[[PS268|The Escape]]''). Sham's Meowth would have evolved into one of her three Persian.
+
+Another Meowth appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+Multiple Meowth were used by {{tc|Team Galactic Grunt}}s in ''[[PS403|Cleaning Up Grimer]]''.
+
+In [[PASM01]], during a flashback three [[Regional variant|Alolan]] Meowth are shown in under the care of {{adv|Sun}}'s grandfather. In the present day, Sun is shown to have his own Alolan Meowth, nicknamed Dollar, using him to defeat two {{tc|Team Skull Grunt}}s with Pay Day. A Meowth also appears with a Persian in the book Sun had when he was younger.
+
+A Trainer's Alolan Meowth appeared in [[PASM04]]. 
+[[File:Masatoshi Meowth GDZ.png|thumb|200px|Meowth in [[Pokémon Gotta Catch 'Em All]]]]
+
+===In the Pokémon Gotta Catch 'Em All manga===
+In [[Pokémon Gotta Catch 'Em All]], [[Shu]]'s rival {{GDZ|Masatoshi}} has a Meowth. Masatoshi's Meowth is talented at playing the {{wp|shamisen}}, a Japanese stringed instrument.
+
+===In the Pokémon Pocket Monsters manga===
+{{OBP|Red|Pocket Monsters}} borrowed a Meowth from [[Blaine]]. It is not known if Red kept it or returned it to him.
+
+{{OBP|Green|Pocket Monsters}} owns a Meowth which first appeared in ''[[PM019|The No. 1 Pokémon!!]]''. It later evolved into a Persian and [[Devolution|devolved]] back into Meowth.
+
+{{OBP|Giovanni|Pocket Monsters}} owns a Meowth too, often assisting [[Giovanni's Hitmonlee and Hitmonchan|his Hitmons]].
+{{-}}
+
+==In the TCG==
+{{main|Meowth (TCG)}}
+
+==In the TFG==
+One Meowth figure has been released.
+
+* {{TFG|Next Quest}}: {{TFG ID|Next Quest|Meowth|11}}
+
+==Other appearances==
+
+===[[Pokémon Snap]]===
+Multiple Meowth can be found during the [[Pokémon Island Beach|Beach]] level. These Meowth are prone to accident and injury, as {{p|Pidgey}} is easily provoked to use {{m|Gust}} on them. Snap can also knock Meowth off a rock, making it fall to the ground.
+
+===[[Super Smash Bros.]]===
+Meowth appears from a Poké Ball. It attacks opponents with {{m|Pay Day}}.
+
+===[[Super Smash Bros. Melee]]===
+Meowth appears as a random trophy. Meowth's trophy in this game is based on the anime ending theme ''[[Meowth's Party]]''.
+
+[[File:SSBB Meowth.png|200px|thumb|right|Meowth using Pay Day in Super Smash Bros. Brawl]]
+====Trophy information====
+''This... is Meowth's dream. Meowth strides all over the globe, scattering invitations to other Pokémon insisting they come to "Meowth's Party." At this wonderful party, guests are packed in like sardines as Meowth climbs up the stage with its faithful guitar. It strikes a chord, pauses, and then rocks their world!''
+===[[Super Smash Bros. Brawl]]===
+Meowth returns as a Poké Ball Pokémon, attacking opponents with {{m|Pay Day}}.
+
+====Trophy Information====
+''"A Scratch Cat Pokémon. It's one of the most famous Pokémon and very fond of things that glitter--the gold medallion on its head could be seen as an indicator of this infatuation. There are many Pokémon that resemble cats, but Meowth is the only one that can use Pay Day to receive coins at the end of battle. It evolves into Persian."''
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+[[File:Meowth SSB4.png|thumb|240px|Meowth in Super Smash Bros. for 3DS.]]
+Meowth reappears as a Poké Ball Pokémon, unchanged from ''Brawl''.
+
+====Trophy information====
+'''NA''': ''Meowth is a Normal-type, Scratch Cat Pokémon who absolutely loves anything shiny. It's a creature of the night, and it's not unusual to discover a Meowth and a Murkrow fighting over their finds. Meowth's attack Pay Day can deal a ton of damage if an opponent gets caught in it. How purrfect!''
+
+'''PAL''': ''Meowth, a Normal-type Pokémon, loves round, shiny things. It runs around at night, hunting for little treasures and trinkets, but often ends up getting into fights with Murkrow about who'll get to keep them. Watch out for Meowth's Pay Day attack. If it catches you from behind, it can be purralysingly pawerful!''
+
+==Game data==
+===NPC appearances===
+* {{g|Pinball}}: A Meowth appears in a bonus stage that is accessible from the Blue Table. The player must hit the Meowth and get it to drop gold coins which must be collected.
+
+===Pokédex entries===
+====Meowth====
+{{Dex/Header|type=Normal}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.}}
+{{Dex/Entry1|v=Yellow|entry=Appears to be more active at night. It loves round and shiny things. It can't stop from picking them up.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Sleeps in the daytime. At night, its eyes glow as it happily collects coins, its favorite things.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It is fascinated by round objects. It can't stop playing with them until it tires and falls asleep.}}
+{{Dex/Entry1|v=Silver|entry=It loves anything that shines. It especially adores coins that it picks up and secretly hoards.}}
+{{Dex/Entry1|v=Crystal|entry=It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines too.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It is fascinated with round objects. It can't stop playing with them until it tires and falls asleep.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Meowth withdraw their sharp claws into their paws to silently sneak about. For some reason, this Pokémon loves shiny coins that glitter with light.}}
+{{Dex/Entry1|v=FireRed|entry=All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.}}
+{{Dex/Entry1|v=LeafGreen|entry=Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.}}
+{{Dex/Entry1|v=HeartGold|entry=It is fascinated by round objects. It can't stop playing with them until it tires and falls asleep.}}
+{{Dex/Entry1|v=SoulSilver|entry=It loves anything that shines. It especially adores coins that it picks up and secretly hoards.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.}}
+{{Dex/Entry1|v=Y|entry=Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It lies around all day, becoming active near dusk. At night, it wanders the city in search of loose change.}}
+{{Dex/Entry1|v=Moon|entry=It loves shiny things. It often fights with Murkrow over prey they're both trying to catch.}}
+{{Dex/Entry1|v=Ultra Sun|entry=When visiting a junkyard, you may catch sight of it having an intense fight with Murkrow over shiny objects.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It loves coins, so if you give it one, you can make friends with Meowth easily. But it's fickle, so you can't count on that friendship lasting.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Alolan Meowth====
+{{Dex/Header|type=Dark}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=This Pokémon was not originally found in Alola. Human actions caused a surge in their numbers, and they went feral. They're prideful and crafty.}}
+{{Dex/Entry1|v=Moon|entry=When its delicate pride is wounded, or when the gold coin on its forehead is dirtied, it flies into a hysterical rage.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It's impulsive, selfish, and fickle. It's very popular with some Trainers who like giving it the attention it needs.}}
+{{Dex/Entry1|v=Ultra Moon|entry=A royal house that flourished in the distant past brought it here from another region. Meowth is both selfish and prideful.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1/None|1|v=Red}}
+{{Availability/Entry1|v=Blue|t=FFF|1|area=[[Route]]s {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|7|Kanto}}, and {{rtn|8|Kanto}}}}
+{{Availability/Entry1|v=Blue|t=FFF|1|ex=(Japan)|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|7|Kanto}}, and {{rtn|8|Kanto}}}}
+{{Availability/Entry1/None|v=Yellow|1}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1/None|1|v=Gold}}
+{{Availability/Entry1|v=Silver|1|area=[[Route]]s {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|7|Kanto}}, {{rtn|8|Kanto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}}}
+{{Availability/Entry1|v=Crystal|1|area=[[Route]]s {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|7|Kanto}}, {{rtn|8|Kanto}}, {{rtn|11|Kanto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}{{sup/t|N}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Trade]] {{p|Skitty}} at the {{Ho|Battle Frontier}}}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Route]]s {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|7|Kanto}}, and {{rtn|8|Kanto}}, [[Bond Bridge]], [[Canyon Entrance]], [[Cape Brink]], [[Five Isle Meadow]], [[Kindle Road]], [[Ruin Valley]], [[Sevault Canyon]], [[Treasure Beach]], [[Water Path]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Phenac City]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Trophy Garden]]}}
+{{Availability/Entry1|v=Platinum|area=[[Trophy Garden]]}}
+{{Availability/Entry1/None|v=HeartGold}}
+{{Availability/Entry1|v=SoulSilver|area=[[Route]]s {{rtn|5|Kanto}}, {{rtn|6|Kanto}}, {{rtn|7|Kanto}}, {{rtn|8|Kanto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Sightseeing}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Trade]] with [[Yancy]] in [[Nimbasa City]] (male player character only)}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Spooky Manor}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{pkmn|breeding|Breed}} {{p|Persian}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|1|Alola}} and {{rtn|2|Alola}}, [[Hau'oli City]], [[Malie Garden]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Route]]s {{rtn|1|Alola}} and {{rtn|2|Alola}}, [[Hau'oli City]], [[Malie Garden]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Pokémon Island Beach|Beach]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Cerulean City]], [[Vermilion City|Vermilion City Streets]], [[Celadon City]], [[Saffron City]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=Upgrade binder}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 9]], [[Secret Storage 18]], Endless Level 22, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Starter Pokémon]], [[Western Cave]] (3F-6F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Fall City]], [[Dusk Factory]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Starter Pokémon]], [[Marine Resort]] (B1-B19), [[Happy Outlook]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Partner Pokémon]], [[Marine Resort]] (B1-B19), [[Happy Outlook]] (B1-B19)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Windy Prairie‎]] <small>(Normal Mode C & A)</small>}}
+{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=[[Starter Pokémon]]}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Cavern Zone]], [[Haunted Zone]], [[Meeting Place]]{{tt|*|cannot be befriended in the Meeting Place}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Meadow: [[Challenger's Ground]]}}
+{{Availability/Entry1|1|v=PokéPark 2|color={{grass color}}|link=PokéPark 2: Wonders Beyond|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Aurora]], [[Terrera]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Guard the Fort!|Frenzy Square: Guard the Fort!]] <small>(Boss)</small>, [[Locomotive Café#Dash Race!|Locomotive Café: Dash Race!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Island of Haste#Stage 5|Island of Haste: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Isla Asul|Isla Asul: Stage 37]]<br>[[Zaffiro Coast|Zaffiro Coast: Stage 633]]<br>Event: [[Special Stages#19th release|''Pokémon Safari'']] <small>(19th release; Alola Form)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Everspring Valley|White Ruins: Everspring Valley]] <small>(All Areas)</small>, [[Origin Hideaway#Old-Growth Woods|Origin Hideaway: Old-Growth Woods]] <small>(All Areas)</small>}}
+<!--{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=}}-->
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area={{DL|Pokémon Picross Stages|Area 08}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Normal}}
+{{eventAvail|{{gameabbrev3|FRLG}}|Egg Pokémon Present Meowth|Japanese|Japan|5|March 21 to April 4, 2004|link=List of Japanese event Pokémon distributions in Generation III#Meowth}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|PokéPark Meowth|Japanese|Japan|5|March 18 to May 8, 2005|link=List of Japanese event Pokémon distributions in Generation III#PokéPark Meowth}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Third Campaign Meowth|Japanese|Japan|10|January 14 to 29, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Meowth}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Yukina's Meowth|Japanese|Japan|21|December 9 to 22, 2008|link=Hayley's_trades#Yukina.27s_Meowth}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Pokémon Center Meowth|Japanese|Japan|10|March 20 to April 12, 2009|link=List of local Japanese event Pokémon distributions in Generation IV#Pokémon Center Meowth}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Team Rocket Meowth|Japanese|Japan<br>Wi-Fi|15|December 7, 2012 to January 10, 2013|link=List of Wi-Fi Japanese event Pokémon distributions in Generation V#Team Rocket Meowth}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Team Rocket Meowth|Korean|Wi-Fi|15|May 10 to June 9, 2013|link=List of Wi-Fi Korean event Pokémon distributions in Generation V#Team Rocket Meowth}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Team Rocket Meowth|Italian|Italy|15|July 13 to 14, 2013|link=List of local Italian event Pokémon distributions in Generation V#Team Rocket Meowth}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Happy Meal Meowth|PAL region|Online|20|August 20, 2016 to February 28, 2017|link=List of PAL region serial code event Pokémon distributions in Generation VI#Happy Meal Meowth}}
+|}
+
+===Held items===
+====Meowth====
+{{HeldItems|type=Normal
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1rar=100|rby1image=no
+|frlg1=Nugget|frlg1type=None|frlg1rar=5
+|dppt1=Quick Claw|dppt1type=None|dppt1rar=5
+|ss1=Quick Claw|ss1type=None|ss1rar=5
+|ranch1=Pink Scarf|ranch1type=None|ranchlang=jap|ranch1rar=100
+|event1=Glitter Mail|event1type=Mail|event1rar=100
+|event2=Amulet Coin|event2type=None|event2rar=100
+|event3=Smoke Ball|event3type=None|event3rar=100
+}}
+
+====Alolan Meowth====
+{{HeldItems|type=Dark
+|sm1=Quick Claw|sm1type=None|sm1rar=5
+}}
+
+===Stats===
+====Base stats====
+=====Meowth=====
+{{Stats
+|type=Normal
+|HP=40
+|Attack=45
+|Defense=35
+|SpAtk=40
+|SpDef=40
+|Special=40
+|Speed=90}}
+
+=====Alolan Meowth=====
+{{Stats
+|type=Dark
+|HP=40
+|Attack=35
+|Defense=35
+|SpAtk=50
+|SpDef=40
+|Speed=90}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Normal
+|Speed=4
+|SpeedMax=4
+|Power=1
+|PowerMax=2
+|Technique=4
+|TechniqueMax=4
+|Stamina=1
+|StaminaMax=1
+|Jump=3
+|JumpMax=4}}
+
+===Type effectiveness===
+====Meowth====
+{{TypeEffectiveness
+|type1=Normal
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+====Alolan Meowth====
+{{TypeEffectiveness
+|type1=Dark
+|Normal=100
+|Fighting=200
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=200
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=200
+|notes=yes
+|dark=yes
+|newpsychic=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Meowth=====
+{{learnlist/levelh/7|Meowth|Normal|Normal|1}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level7|6|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|9|Fake Out|Normal|Physical|40|100|10||'''}}
+{{learnlist/level7|14|Fury Swipes|Normal|Physical|18|80|15||'''}}
+{{learnlist/level7|17|Screech|Normal|Status|—|85|40}}
+{{learnlist/level7|22|Feint Attack|Dark|Physical|60|—|20}}
+{{learnlist/level7|25|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level7|30|Pay Day|Normal|Physical|40|100|20||'''}}
+{{learnlist/level7|33|Slash|Normal|Physical|70|100|20||'''}}
+{{learnlist/level7|38|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level7|41|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/level7|46|Captivate|Normal|Status|—|100|20}}
+{{learnlist/level7|49|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/level7|50|Feint|Normal|Physical|30|100|10||'''}}
+{{learnlist/levelf/7|Meowth|Normal|Normal|1}}
+
+=====Alolan Meowth=====
+{{learnlist/levelh/7|Meowth|Dark|Dark|7}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level7|6|Bite|Dark|Physical|60|100|25||'''}}
+{{learnlist/level7|9|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/level7|14|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level7|17|Screech|Normal|Status|—|85|40}}
+{{learnlist/level7|22|Feint Attack|Dark|Physical|60|—|20||'''}}
+{{learnlist/level7|25|Taunt|Dark|Status|—|100|20}}
+{{learnlist/level7|30|Pay Day|Normal|Physical|40|100|20}}
+{{learnlist/level7|33|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|38|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level7|41|Assurance|Dark|Physical|60|100|10||'''}}
+{{learnlist/level7|46|Captivate|Normal|Status|—|100|20}}
+{{learnlist/level7|49|Night Slash|Dark|Physical|70|100|15||'''}}
+{{learnlist/level7|50|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level7|55|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/levelf/7|Meowth|Dark|Dark|7}}
+
+====By [[TM]]/[[HM]]====
+=====Meowth=====
+{{learnlist/tmh/7|Meowth|Normal|Normal|1}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Meowth|Normal|Normal|1}}
+
+=====Alolan Meowth=====
+{{learnlist/tmh/7|Meowth|Dark|Dark|7}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|—|—|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|—|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|—|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|—|100|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Meowth|Dark|Dark|7}}
+
+====By {{pkmn|breeding}}====
+=====Meowth=====
+{{learnlist/breedh/7|Meowth|Normal|Normal|2}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}<br>{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}<br>{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|513|Pansear}}<br>{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|631|Heatmor}}|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|300|Skitty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}|Assist|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|133|Eevee}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|216|Teddiursa}}{{MSP|231|Phanpy}}{{MSP|300|Skitty}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|572|Minccino}}<br>{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|613|Cubchoo}}{{MSP|676|Furfrou}}{{MSP|678|Meowstic}}{{MSP|702|Dedenne}}|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|231|Phanpy}}{{MSP|263|Zigzagoon}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}<br>{{MSP|324|Torkoal}}{{MSP|327|Spinda}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}<br>{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|775|Komala}}|Flail|Normal|Physical|&mdash;|100|15||'''}}
+{{learnlist/breed7|{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}{{MSP|570|Zorua}}<br>{{MSP|571|Zoroark}}{{MSP|765|Oranguru}}|Foul Play|Dark|Physical|95|100|15}}
+{{learnlist/breed7|{{MSP|234|Stantler}}{{MSP|327|Spinda}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}<br>{{MSP|517|Munna}}{{MSP|518|Musharna}}|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/breed7|{{MSP|133|Eevee}}{{MSP|134|Vaporeon}}{{MSP|135|Jolteon}}{{MSP|136|Flareon}}{{MSP|196|Espeon}}{{MSP|197|Umbreon}}<br>{{MSP|470|Leafeon}}{{MSP|471|Glaceon}}{{MSP|700|Sylveon}}{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|231|Phanpy}}<br>{{MSP|417|Pachirisu}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|572|Minccino}}|Last Resort|Normal|Physical|140|100|5||'''}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|059|Arcanine}}{{MSP|203|Girafarig}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}<br>{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|231|Phanpy}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|263|Zigzagoon}}<br>{{MSP|264|Linoone}}{{MSP|309|Electrike}}{{MSP|310|Manectric}}{{MSP|325|Spoink}}{{MSP|326|Grumpig}}{{MSP|498|Tepig}}<br>{{MSP|499|Pignite}}{{MSP|500|Emboar}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|527|Woobat}}<br>{{MSP|528|Swoobat}}{{MSP|631|Heatmor}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|676|Furfrou}}{{MSP|734|Yungoos}}<br>{{MSP|735|Gumshoos}}{{MSP|744|Rockruff}}{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Odor Sleuth|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|029|Nidoran♀}}{{MSP|032|Nidoran♂}}{{MSP|058|Growlithe}}{{MSP|086|Seel}}{{MSP|111|Rhyhorn}}<br>{{MSP|161|Sentret}}{{MSP|179|Mareep}}{{MSP|335|Zangoose}}{{MSP|336|Seviper}}{{MSP|417|Pachirisu}}{{MSP|434|Stunky}}<br>{{MSP|495|Snivy}}{{MSP|504|Patrat}}{{MSP|572|Minccino}}{{MSP|587|Emolga}}|Iron Tail|Steel|Physical|100|75|15|*}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|289|Slaking}}{{MSP|392|Infernape}}<br>{{MSP|570|Zorua}}{{MSP|571|Zoroark}}|Punishment|Dark|Physical|&mdash;|100|5}}
+{{learnlist/breed7|{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|631|Heatmor}}|Snatch|Dark|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}|Spite|Ghost|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|025|Pikachu}}{{MSP|026|Raichu}}<br>{{MSP|026A|Raichu}}{{MSP|037|Vulpix}}{{MSP|037A|Vulpix}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|077|Ponyta}}<br>{{MSP|078|Rapidash}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}{{MSP|128|Tauros}}{{MSP|133|Eevee}}<br>{{MSP|134|Vaporeon}}{{MSP|135|Jolteon}}{{MSP|136|Flareon}}{{MSP|196|Espeon}}{{MSP|197|Umbreon}}{{MSP|470|Leafeon}}<br>{{MSP|471|Glaceon}}{{MSP|700|Sylveon}}{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}<br>{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}{{MSP|300|Skitty}}{{MSP|352|Kecleon}}<br>{{MSP|498|Tepig}}{{MSP|499|Pignite}}{{MSP|500|Emboar}}{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}<br>{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|587|Emolga}}{{MSP|653|Fennekin}}{{MSP|654|Braixen}}{{MSP|655|Delphox}}<br>{{MSP|672|Skiddo}}{{MSP|673|Gogoat}}{{MSP|676|Furfrou}}{{MSP|702|Dedenne}}|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/breedf/7|Meowth|Normal|Normal|2}}
+
+=====Alolan Meowth=====
+{{learnlist/breedh/7|Meowth|Dark|Dark|7}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|161|Sentret}}{{MSP|162|Furret}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}<br>{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}<br>{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|324|Torkoal}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|513|Pansear}}<br>{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|631|Heatmor}}|Amnesia|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|300|Skitty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}|Assist|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|133|Eevee}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|216|Teddiursa}}{{MSP|231|Phanpy}}{{MSP|300|Skitty}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|572|Minccino}}<br>{{MSP|585|Deerling}}{{MSP|586|Sawsbuck}}{{MSP|613|Cubchoo}}{{MSP|676|Furfrou}}{{MSP|678|Meowstic}}{{MSP|702|Dedenne}}|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|133|Eevee}}{{MSP|216|Teddiursa}}{{MSP|217|Ursaring}}{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}<br>{{MSP|287|Slakoth}}{{MSP|289|Slakoth}}{{MSP|300|Skitty}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Covet|Normal|Physical|60|100|25}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|231|Phanpy}}{{MSP|263|Zigzagoon}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}<br>{{MSP|324|Torkoal}}{{MSP|327|Spinda}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}<br>{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|775|Komala}}|Flail|Normal|Physical|&mdash;|100|15||'''}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}|Flatter|Dark|Status|—|100|15}}
+{{learnlist/breed7|{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}{{MSP|570|Zorua}}<br>{{MSP|571|Zoroark}}{{MSP|765|Oranguru}}|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/breed7|{{MSP|234|Stantler}}{{MSP|327|Spinda}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}<br>{{MSP|517|Munna}}{{MSP|518|Musharna}}|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/breed7|{{MSP|674|Pancham}}{{MSP|675|Pangoro}}|Parting Shot|Dark|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|289|Slaking}}{{MSP|392|Infernape}}<br>{{MSP|570|Zorua}}{{MSP|571|Zoroark}}|Punishment|Dark|Physical|&mdash;|100|5||'''}}
+{{learnlist/breed7|{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|631|Heatmor}}|Snatch|Dark|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}|Spite|Ghost|Status|&mdash;|100|10}}
+{{learnlist/breedf/7|Meowth|Dark|Dark|7}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Meowth|Normal|Normal|2}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25||'''|no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15||''|no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20||''|no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15||''|no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutorf/7|Meowth|Normal|Normal|2|form=yes}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg colorless color light}}; border: 3px solid #{{tcg colorless color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Beat Up}}
+| [[Meowth M (Movie Random Pack Promo 17)]]
+|- style="background:#fff"
+| {{m|Double Kick}}
+| [[Meowth (Supreme Victors 114)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/Pinball|col=3|type=Normal|ndex=052|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Normal|ndex=052|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Normal|ndex=052
+|body=1
+|rate=12
+|area=Energetic Forest
+|P1=Round things... I adore them, meow!
+|P2=My HP is half gone, meow!
+|P3=No more, meowch... Going to fall over, meowch...
+|PL=Leveled up! Happy, mrowl!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Normal|ndex=052
+|body=1
+|rate=8.2
+|IQ=G
+}}
+|-
+{{Spindata/Ranger|col=6|type=Normal
+|group=Normal
+|fieldpower=1
+|field=Cut
+|loop=5
+|MinEXP=18
+|MaxEXP=23
+|browser=Meowth can {{m|cut}} trees down with its claws. It cleverly walks on its hind legs.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Normal
+|att=1
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Normal
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Normal|ndex=052
+|Pad= Meowth is examining the PokéPark. He prefers the Attractions {{DL|Attractions|Bastiodon's Block Barrage}} and {{DL|Attractions|Tangrowth's Swing-Along}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Normal|ndex=052
+|pad=He is shrewd, but surprisingly earnest. He collects Berries so the one he's thinking about will pay attention to him.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Normal|ndex=052
+|HP=1
+|atk=1
+|def=1
+|spd=4
+|range=3
+|move=Fury Swipes
+|ability1=Mountaineer
+|ability2=Fortune
+|ability3=Bonanza
+|evo=Evolves into {{p|Persian}} when its Speed is 96 or higher
+|link={{DL|List of Pokémon Conquest characters|Tsunehisa}}
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Normal|ndex=052
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Normal|ndex=052|num=084
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Mega Boost
+|skilldesc=Fills the Mega Gauge of a Pokémon of the same type.
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=052A|stype=Dark|num=084
+|min=40
+|max=105
+|raisemaxlevel=10
+|skill=Shot Out
+|skilldesc=Erases two non-Support Pokémon and increases damage.
+}}
+|-
+{{Spindata/GO|col=6|type=Normal|ndex=052
+|hatch=N/A
+|buddy=3
+|evocandy=50
+|stamina=80
+|attack=92
+|defense=81
+|fast={{m|Scratch}}, {{m|Bite}}
+|special={{m|Night Slash}}, {{m|Dark Pulse}}, {{m|Body Slam}}{{tt|*|Prior to February 16, 2017}}, {{m|Foul Play}}{{tt|*|From February 16, 2017 onward}}
+}}
+|-
+{{Spindata/Magikarp Jump|col=6|type=Normal|ranks=5
+|item=Amulet Coin
+|unlock=Beat the Great League
+|skill=Grants Coins
+|recoverytime=2 hours 30 minutes
+|rank1desc=+0%
+|rank2desc=+20%|rank2cost=1
+|rank3desc=+40%|rank3cost=2
+|rank4desc=+100%|rank4cost=5
+|rank5desc=+200%|rank5cost=7
+}}
+|}
+
+===Evolution===
+====Meowth====
+{{Evobox-2
+|type1=Normal
+|pictype=art
+|no1=052
+|name1=Meowth
+|type1-1=Normal
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 28}}
+|no2=053
+|name2=Persian
+|type1-2=Normal}}
+
+====Alolan Meowth====
+{{Evobox-2
+|type1=Dark
+|pictype=sprite
+|no1=052Meowth-Alola
+|name1=Meowth
+|type1-1=Dark
+|evo1={{bag|Soothe Bell}}<br>{{color2|000|Friendship}}
+|no2=053Persian-Alola
+|name2=Persian
+|type1-2=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/1|ndex=052}}
+{{Spritebox/2|ndex=052}}
+{{Spritebox/3|ndex=052}}
+{{Spritebox/4|ndex=052}}
+{{Spritebox/5|ndex=052}}
+{{Spritebox/6|ndex=052}}
+{{Spritebox/7/2Forms|ndex=052|form1=A}}
+{{Spritebox/Footer|052|Meowth}}
+
+==Trivia==
+[[File:Niue Dollar Pokemon.png|thumb|right|250px|$1 coins from {{wp|Niue}}]]
+* {{wp|Niue}} released a one-dollar coin featuring Meowth as part of a commemorative promotion for the Pokémon franchise, with Meowth on one side and the nation's coat of arms on the other.
+* In the [[Pokémon anime]] episode ''[[EP070|Go West, Young Meowth]]'', it was stated that {{MTR}} of Team Rocket had to learn and practice standing on his hind legs like a human, implying that Meowth as a species are not naturally able to stand on their hind legs. However, almost all sprites in the {{pkmn|games}} and the [[Pokédex]] in the anime depict it standing on its hind legs, suggesting Meowth has the natural ability to walk on two legs. [[Tyson's Meowth]] is also able to walk on two legs, seemingly naturally.
+* Meowth is the first Pokémon in the [[Pokémon anime]] to [[Talking Pokémon|talk]].
+* Alolan Meowth has the lowest base {{stat|Attack}} of all {{type|Dark}} Pokémon.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Meowth}}
+Meowth seems to be based upon the Japanese legend of the 招き猫 ''{{wp|Maneki Neko}}'', also known as the lucky cat or beckoning cat. According to one legend, a cat raised its paw to welcome a lord and saved his life when a lightning bolt hit the spot where he had been standing. Maneki Neko are often used as charms in restaurants and shops to bring customers fortune and good luck. Statues of the cat are usually depicted holding a ''{{wp|Koban (coin)|koban}}'', an ancient coin used in Japan, like the one on Meowth's head. Its Japanese species name also suggests it is based on a ''{{wp|Bakeneko}}''.
+
+====Name origin====
+Meowth may be a combination of ''meow'' (the sound a cat makes) and ''wealth'', alluding to the Maneki-neko's capacity to bring good fortune. The ''-th'' may also be borrowed from Nyarth, as both ''meow'' and ''nyā'' are onomatopoeia of a cat's cry.
+
+Nyarth may be a combination of ニャー ''nyā'' (the sound a cat makes) and the switched sounds of シャム ''Shamu'' (Siam, former name of {{wp|Thailand}}), becoming ミャス ''Myasu''. Siam relates to a cat breed, the {{wp|Siamese (cat)|Siamese}}, which in turn relates to Meowth's evolution, {{p|Persian}}, and the {{wp|Persian (cat)|Persian}} cat breed.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=ニャース ''Nyarth''|jameaning=From {{tt|ニャー ''nyā''|meow}}
+|fr=Miaouss|frmeaning=From ''{{tt|miaou|meow}}''
+|es=Meowth|esmeaning=Same as English name
+|de=Mauzi|demeaning=From ''{{tt|mauzen|a description of the sound a cat makes}}''
+|it=Meowth|itmeaning=Same as English name
+|ko=나옹 ''Naong''|komeaning=Possibly a corruption of {{tt|야옹 ''yaong''|meow}}
+|zh_yue=喵喵怪 ''Mīumīugwaai''|zh_yuemeaning=喵 ''mīu'' is the sound a cat makes. Literally "Meowing freak"
+|zh_cmn=喵喵 ''Miāomiāo''<br>{{tt|喵貓 / 喵猫 ''Miāomāo''|Indigo League saga only}}|zh_cmnmeaning=喵 ''miāo'' is the sound a cat makes, pronounced like "meow"<br>From {{tt|喵 ''miāo''|meow}} and {{tt|貓 ''māo''|cat}}
+|id=Nyasu|idmeaning=Same as Japanese name
+|lt=Miau|ltmeaning=The sound a cat makes
+|pt_br=Miau |pt_brmeaning=The sound a cat makes
+|ru=Мяут ''Myaut''|rumeaning=Transcription of English name
+|hi= मीआउत ''Meowth'' |himeaning= Transcription of English name
+|tr=Miyav|trmeaning=The sound a cat makes
+|vi=Nyasu|vimeaning=Transcription of Japanese name
+|pl=Miau|plmeaning=The sound a cat makes
+}}
+
+<br clear="left">
+
+==Related articles==
+* [[Meowth (Team Rocket)]]
+* [[Meowzie]]
+* [[Tyson's Meowth]]
+
+==Notes==
+<references />
+
+==External links==
+* [[wp:Meowth|Article on Wikipedia]]
+
+{{-}}
+{{Smash Bros.}}
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|species=Meowth|prevnum=051|prev=Dugtrio|nextnum=053|next=Persian|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon XD]]
+[[Category:Mystery Dungeon starters|052]]
+[[Category:Pokémon that evolve by friendship]]<!--Alolan Meowth-->
+[[Category:Blue-colored Pokémon]]<!--Alolan Meowth-->
+
+[[de:Mauzi]]
+[[fr:Miaouss]]
+[[it:Meowth]]
+[[ja:ニャース]]
+[[pl:Meowth]]
+[[zh:喵喵]]

@@ -1,0 +1,467 @@
+{{PokémonPrevNext/Head|type=Grass|type2=Flying}}
+{{PokémonPrevNext/GO|species=Tropius}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=356|prev=Dusclops|nextnum=358|next=Chimecho|round=none}}
+{{PokémonPrevNext/Disambig|species=Tropius}}
+|}
+{{Pokémon Infobox
+|name=Tropius
+|jname=トロピウス
+|jtranslit=Toropiusu
+|tmname=Tropius
+|ndex=357
+|hdex=150
+|hdex6=156
+|sdex=185
+|u2dex=288
+|typebox=1
+|type1=Grass
+|type2=Flying
+|category=Fruit
+|height-ftin=6'07"
+|height-m=2.0
+|weight-lbs=220.5
+|weight-kg=100.0
+|abilityn=d
+|ability1=Chlorophyll
+|ability2=Solar Power
+|abilityd=Harvest
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Grass
+|eggcycles=25
+|evtotal=2
+|evhp=2
+|expyield=161
+|oldexp=169
+|lv100exp=1,250,000
+|gendercode=127
+|color=Green
+|catchrate=200
+|body=08
+|pokefordex=tropius
+|generation=3
+|friendship=70
+}}
+'''Tropius''' ([[List of Japanese Pokémon names|Japanese]]: '''トロピウス''' ''Tropius'') is a dual-type {{2t|Grass|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It is not known to [[Evolution|evolve]] into or from any other Pokémon.
+
+==Biology==
+Tropius is a large {{wp|sauropod}}-like Pokémon with a brown body wrapped in green leaves on its chest and head. It possesses large, broad green leaves on its back, which it uses for flight and for sugar production via photosynthesis. Despite being very big and bulky, it is surprisingly maneuverable in the air. It has a long neck, which it uses for reaching treetops to gorge on its most favored fruit. Since it ate only this kind of fruit continuously, the fruit began to grow around its neck. These yellow, banana-like fruits can be picked and consumed by other Pokémon or humans, and grow twice a year because of the rapid production of sugar in Tropius's leaves. Its feet have toenails the same color as its fruit. 
+
+In warm areas, there are ranches that raise Tropius. In [[Alola]], its fruit is especially sweet compared to those of other regions. It lives in {{DL|List of Pokémon by habitat|Forest Pokémon|tropical jungles}}.
+
+==In the anime==
+[[File:Camomile Island Tropius.png|left|thumb|220px|Tropius in the {{pkmn|anime}}]]
+===Major appearances===
+A Tropius appeared in ''[[AG127|From Brags to Riches]]''. A Trainer named [[Dominick]] used the Fruit Pokémon and a {{p|Swalot}} in his battle against [[Ash's Corphish]] and {{AP|Torkoal}}. Tropius and Torkoal knocked each other out when their {{m|Solar Beam}} and {{m|Overheat}} attacks connected and created an explosion.
+
+A wild Tropius challenged [[Ash's Grovyle]] in ''[[AG161|Odd Pokémon Out]]'' when it and Grovyle were competitors for the love of [[Nurse Joy]]'s {{p|Meganium}}.
+
+===Minor appearances===
+Tropius debuted in ''[[M06|Jirachi: Wish Maker]]'', where it was among those fleeing from the {{OBP|Groudon|M06}} that was trying to snatch all the Pokémon.
+
+A {{pkmn|Trainer}}'s Tropius appeared in ''[[AG125|Like a Meowth to a Flame]]''.
+
+A Tropius appeared in the opening sequences of ''[[M07|Destiny Deoxys]]'' and ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Tropius participated in the [[Rota]] competition in ''[[M08|Lucario and the Mystery of Mew]]'', battling [[Kidd Summers]]'s {{p|Weavile}}. Also, another appeared in the opening sequence of the movie.
+
+A Tropius appeared in ''[[M10|The Rise of Darkrai]]'', where it was one of the Pokémon {{OBP|Darkrai|M10}} hit with a {{m|Dark Void}}.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG127|Tropius|May's Pokédex|Tropius, the Fruit Pokémon. Tropius can fly through the air by flapping the leaves on its back. It grows stronger in bright sunlight.}}
+|}
+{|align="center" width="100%" style="background: #{{colorschemedark|Hoenn}}"
+|-
+| text align="right" width="100%" style="background: #{{colorschemelight|Hoenn}}; {{roundybottom}};" | <small>''' ''Advanced Generation'' series entries continue below.'''</small>
+|}
+|}
+{{Animedexheader|Emerald}}
+{{Animedexbody|AG161|Tropius|Ash's Pokédex|Tropius, the Fruit Pokémon. The fruit that grows around its neck is sweet and popular with children. It flies by flapping the large leaves on its body.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Emerald}}
+
+==In the manga==
+[[File:Troppy.png|thumb|150px|Tropius in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Troppy}}
+{{adv|Sapphire}} owns a Tropius named [[Troppy]] given to her by [[Professor Birch|her father]] for flying purposes. He first appeared in ''[[PS213|Bubble Bubble Toil and Azumarill II]]''.
+
+A Tropius appeared in ''[[PS217|Mind-Boggling with Medicham]]''.
+
+A Trainer's Tropius appeared in ''[[PS418|Deprogramming Porygon-Z]]''.
+
+===In the Pokémon Battle Frontier manga===
+{{OBP|Enta|CBF}} has a Tropius which helped him reach the top of the Battle Pyramid.
+
+==In the TCG==
+{{main|Tropius (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass|type2=Flying}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=The bunches of fruit around Tropius's neck are very popular with children. This Pokémon loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Children of the southern tropics eat as snacks the fruit that grows in bunches around the neck of Tropius. This Pokémon flies by flapping the leaves on its back as if they were wings.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It flies by flapping its broad leaves. The bunch of fruit that grows around its neck is deliciously sweet. In the spring, it scatters pollen from its neck.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry2|v=Diamond|v2=Pearl|entry=Because it continually ate only its favorite fruit, the fruit started growing around its neck.}}
+{{Dex/Entry1|v=Platinum|entry=Delicious fruits grew out from around its neck because it always ate the same kind of fruit.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=The bunch of fruit around its neck ripens twice a year and is delicious. It's a highly favored tropical snack.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|t=FFF|v2=White|entry=Delicious fruits grew out from around its neck because it always ate the same kind of fruit.}}
+{{Dex/Entry2|v=Black 2|t=FFF|v2=White 2|entry=It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children.}}
+{{Dex/Entry1|v=Y|entry=The bunch of fruit around its neck ripens twice a year and is delicious. It's a highly favored tropical snack.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=The bunches of fruit around Tropius’s neck are very popular with children. This Pokémon loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Children of the southern tropics eat as snacks the fruit that grows in bunches around the neck of Tropius. This Pokémon flies by flapping the leaves on its back as if they were wings.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=The bunches of fruit growing around the necks of Tropius in Alola are especially sweet compared to those in other regions.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass|type2=Flying}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area={{rt|119|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=fff|area={{rt|119|Hoenn}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1|v=Colosseum|area=[[Realgam Tower]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl}}
+{{Availability/Entry1|v=Platinum|area=[[Great Marsh]]}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver|area=Transfer from [[Pokéwalker]]}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Big Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|14|Unova}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|18|Unova}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Windswept Sky}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Flying-type Safari|Flying]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|119|Hoenn}} and {{rtn|120|Hoenn}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Exeggutor Island]], [[Poké Pelago]]{{tt|*|after becoming Champion}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass|type2=Flying}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Forest ({{color2|{{sapphire color}}|Sapphire Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 16]], Endless Level 21, Pair Trozei, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Sky Tower]] (22F-25F, Sky Tower Summit 1F-8F), [[Lightning Field]] (20F-29F), [[Joyous Tower]] (86F-91F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Spacial Rift]] (B12-B15, Deep Spacial Rift B1-B2)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Spacial Rift]] (B12-B15, Deep Spacial Rift B1-B2)}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Meadow Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Vehicle Gallery#Spike Ball Alert!|Vehicle Gallery: Spike Ball Alert!]] <small>(Reward)</small>, [[Chill Battle#Garden Keepers|Chill Battle: Garden Keepers]] <small>(Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 1|Sky-High Ruins: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#The Daily Pokémon (#2)|The Daily Pokémon (#2)]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Primeval Thicket|Legend Terrain: Primeval Thicket]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Grass|type2=Flying}}
+{{eventAvail|{{gameabbrev4|DP}}|Shokotan Tropius|Japanese|Japan|53|February 3 to February 12, 2007|link=List of local Japanese event Pokémon distributions in Generation IV#Shokotan Tropius}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|type2=Flying
+|HP=99
+|Attack=68
+|Defense=83
+|SpAtk=72
+|SpDef=87
+|Speed=51}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|type2=Flying
+|Speed=3
+|SpeedMax=4
+|Power=3
+|PowerMax=5
+|Technique=2
+|TechniqueMax=2
+|Stamina=3
+|StaminaMax=4
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|type2=Flying
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=200
+|Ground=0
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=25
+|Electric=100
+|Psychic=100
+|Ice=400
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=ironballiv
+|newground=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Tropius|Grass|Flying|3}}
+{{learnlist/level7|1|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level7|1|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level7|6|Sweet Scent|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|10|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/level7|16|Magical Leaf|Grass|Special|60|&mdash;|20||'''}}
+{{learnlist/level7|21|Whirlwind|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|26|Leaf Tornado|Grass|Special|65|90|10||'''}}
+{{learnlist/level7|30|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|36|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|41|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level7|46|Bestow|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|50|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|56|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/level7|61|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/levelf/7|Tropius|Grass|Flying|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Tropius|Grass|Flying|3}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Tropius|Grass|Flying|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Tropius|Grass|Flying|3}}
+{{learnlist/breed7|{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|192|Sunflora}}|Bullet Seed|Grass|Physical|25|100|30||'''}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}<br>{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}|Dragon Dance|Dragon|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|103A|Exeggutor}}|Dragon Hammer|Dragon|Physical|90|100|15|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|285|Shroomish}}<br>{{MSP|286|Breloom}}{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|071|Victreebel}}{{MSP|182|Bellossom}}{{MSP|253|Grovyle}}{{MSP|254|Sceptile}}{{MSP|274|Nuzleaf}}{{MSP|495|Snivy}}<br>{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}|Leaf Blade|Grass|Physical|90|100|15||'''}}
+{{learnlist/breed7|{{MSP|071|Victreebel}}{{MSP|103|Exeggutor}}{{MSP|103A|Exeggutor}}{{MSP|182|Bellossom}}{{MSP|192|Sunflora}}{{MSP|253|Grovyle}}<br>{{MSP|254|Sceptile}}{{MSP|275|Shiftry}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|495|Snivy}}<br>{{MSP|496|Servine}}{{MSP|497|Serperior}}|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}<br>{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}{{MSP|315|Roselia}}<br>{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|420|Cherubi}}<br>{{MSP|421|Cherrim}}{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|546|Cottonee}}{{MSP|547|Whimsicott}}<br>{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|764|Comfey}}|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}{{MSP|357|Tropius}}<br>{{MSP|764|Comfey}}{{MSP|780|Drampa}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|270|Lotad}}{{MSP|271|Lombre}}{{MSP|272|Ludicolo}}{{MSP|273|Seedot}}{{MSP|274|Nuzleaf}}{{MSP|698|Amaura}}<br>{{MSP|699|Aurorus}}|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|274|Nuzleaf}}{{MSP|694|Helioptile}}{{MSP|695|Heliolisk}}|Razor Wind|Normal|Special|80|100|10}}
+{{learnlist/breed7|{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|108|Lickitung}}{{MSP|463|Lickilicky}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}<br>{{MSP|252|Treecko}}{{MSP|253|Grovyle}}{{MSP|254|Sceptile}}{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}|Slam|Normal|Physical|80|75|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|273|Seedot}}{{MSP|315|Roselia}}<br>{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}{{MSP|591|Amoonguss}}<br>{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}{{MSP|764|Comfey}}|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/breedf/7|Tropius|Grass|Flying|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Tropius|Grass|Flying|3}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Tropius|Grass|Flying|3}}
+
+===Side game data===
+{{Spindata/Head|type=Grass|type2=Flying}}
+{{Spindata/PinballRS|col=3|type=Grass|ndex=357|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Grass|ndex=357|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=357
+|body=1
+|rate=7.6
+|area=Jungle
+|P1=That's not my beard! They're fruits!
+|P2=My HP has dropped to about half.
+|P3=I'm beat... My head feels too heavy to lift...
+|PL=I leveled up! It made my fruits sweeter, too!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=357
+|body=1
+|rate=6.4
+|IQ=E
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Grass|ndex=357
+|Pad=Tropius plays in the [[Meadow Zone]]. She loves to eat Berries! Her favorite Attraction is {{DL|Attractions|Pelipper's Circle Circuit}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=357
+|power=2
+|skill=True Strength
+|skilldesc=Increases damage dealt when energy levels are half or less.
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=357|num=164
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Eject
+|skilldesc=Removes one non-Support Pokémon icon without fail.
+|swapper=Mega Boost++
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=357
+|buddy=5
+|evolution=N/A
+|stamina=198
+|attack=136
+|defense=165
+|fast={{m|Air Slash}}, {{m|Razor Leaf}}
+|special={{m|Stomp}}, {{m|Aerial Ace}}, {{m|Leaf Blade}}
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Grass
+|type2=Flying
+|pictype=art
+|no1=357
+|name1=Tropius
+|type1-1=Grass
+|type2-1=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass|type2=Flying}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=357}}
+{{Spritebox/4|ndex=357}}
+{{Spritebox/5|ndex=357}}
+{{Spritebox/6|ndex=357}}
+{{Spritebox/7|ndex=357}}
+{{Spritebox/Footer|357|Tropius}}
+
+==Trivia==
+* Tropius is exactly the same size as another {{type|Grass}} Pokémon, {{p|Venusaur}}. Both have a height of 6'7" (2.0 m) and a weight of 220.5&nbsp;lbs. (100.0&nbsp;kg).
+* Tropius was the first Pokémon to be distributed in a {{ball|Cherish}}, with the {{DL|List of local Japanese event Pokémon distributions in Generation IV|Shokotan Tropius}} distribution.
+* Tropius shares its category with {{p|Bounsweet}}, {{p|Steenee}} and {{p|Tsareena}}. They are all known as the Fruit Pokémon.
+
+===Origin===
+Tropius resembles a generic {{wp|sauropoda|sauropod}} (a long-necked, herbivorous dinosaur) combined with a {{wp|banana}} plant.
+
+====Name origin====
+Tropius is a combination of ''tropical'' and ''saurus'' (Greek for ''lizard''). It may also be a pun of ''tropism'': {{wp|phototropism}} is when plants move to catch more sunlight, and if a plant is not planted upright, the roots will use {{wp|gravitropism}} to grow towards gravity and find water.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Flying
+|ja=トロピウス ''Tropius''|jameaning=From ''tropical'', ''{{tt|saurus|Greek for lizard}}'', and possibly ''tropism''
+|fr=Tropius|frmeaning=Same as English name
+|es=Tropius|esmeaning=Same as English name
+|de=Tropius|demeaning=Same as English name
+|it=Tropius|itmeaning=Same as English name
+|ko=트로피우스 ''Tropius''|komeaning=Transliteration of Japanese name
+|zh_cmn=熱帶龍 / 热带龙 ''Rèdàilóng''|zh_cmnmeaning=Literally "Tropical dragon"
+|hi=ट्रोपियस ''Tropius''|himeaning=Transliteration of English name
+}}
+{{left clear}}
+
+==Related articles==
+* [[Troppy]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Grass|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=356|prev=Dusclops|nextnum=358|next=Chimecho}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+
+[[de:Tropius]]
+[[fr:Tropius]]
+[[it:Tropius]]
+[[ja:トロピウス]]
+[[pl:Tropius]]
+[[zh:热带龙]]

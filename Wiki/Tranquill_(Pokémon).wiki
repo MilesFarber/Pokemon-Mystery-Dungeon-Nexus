@@ -1,0 +1,378 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=519|prev=Pidove|nextnum=521|next=Unfezant|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Tranquill}}
+|}
+{{Pokémon Infobox
+|name=Tranquill
+|jname=ハトーボー
+|jtranslit=Hatōbō
+|tmname=Hatoboh
+|category=Wild Pigeon
+|typebox=1
+|type1=Normal
+|type2=Flying
+|abilityn=d
+|ability1=Big Pecks
+|ability2=Super Luck
+|abilityd=Rivalry
+|ndex=520
+|udex=026
+|u2dex=015
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=33.1
+|weight-kg=15.0
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=15
+|expyield=125
+|lv100exp=1,059,860
+|gendercode=127
+|color=Gray
+|catchrate=120
+|body=09
+|evtotal=2
+|evat=2
+|pokefordex=tranquill
+|generation=5
+|friendship=70
+}}
+'''Tranquill''' ([[List of Japanese Pokémon names|Japanese]]: '''ハトーボー''' ''Hatoboh'') is a dual-type {{2t|Normal|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[evolution|evolves]] from {{p|Pidove}} starting at [[level]] 21 and evolves into {{p|Unfezant}} starting at level 32.
+
+==Biology==
+Tranquill is an avian Pokémon that is gray with lighter gray and black markings. Its beak and eyes are yellow, and there is dark pink marking above its beak that curves back over the eyes. It has a black tuft of two feathers on its head and a petal-like arrangement of feathers on the nape of its neck. There is a black stripe on each of its light gray, black-tipped wings. Each pink foot has black talons. It possesses a long tail feather that is tipped in black. No matter how far a Tranquill travels, it is always able to return to its Trainer. It is said to live in deep forests, where there is a peaceful place without war.
+
+==In the anime==
+[[File:Trip Tranquill.png|250px|thumb|left|Tranquill in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Ash's Tranquill]]====
+During the events of ''[[BW022|A Venipede Stampede!]]'', {{Ash}}'s {{p|Pidove}} evolved into Tranquill after helping to clear a swarm of {{p|Venipede}} out of [[Castelia City]]. She evolved into Unfezant in ''[[BW068|An Amazing Aerial Battle!]]''.
+
+====Other====
+A Tranquill owned by [[Trip]] appeared in ''[[BW010|A Rival Battle for Club Champ!]]'', which was also the species' debut appearance. It was used in Trip's 5-on-5 battle against {{Ash}}; it battled {{AP|Tepig}} and {{AP|Oshawott}} defeating the both of them before losing to {{AP|Pikachu}}. It later reappeared in ''[[BW022|A Venipede Stampede!]]'' where it assisted in clearing the swarm of Venipede.
+
+A flock of Tranquill appeared in ''[[BW044|Purrloin: Sweet or Sneaky?]]''. They were angry at Purrloin for stealing their Berries, until he pleaded for forgiveness so that they would save Ash, {{an|Iris}}, {{MTR}}, the other Pokémon, and his Trainer, [[Misha]], from a sand pit.
+
+===Minor appearances===
+A Trainer's Tranquill briefly appeared in ''[[BW010|A Rival Battle for Club Champ!]]'' as an image on a computer screen in the [[Luxuria Town]] [[Battle Club]].
+
+[[Antonio]] owns a Tranquill, which he used in ''[[BW039|Reunion Battles In Nimbasa!]]'' to advance to the second round in the [[Club Battle]] by defeating [[Emmanuel]] and his {{p|Scolipede}}. [[Dino]] also used a Tranquill in the same episode, defeating Antonio's {{p|Cottonee}} to advance to the third round.
+
+Multiple Tranquill made cameo appearances in ''[[BW059|Stopping the Rage of Legends! Part 1]]'' and ''[[BW069|Climbing the Tower of Success!]]''.
+
+Multiple Tranquill appeared in ''[[M15|Kyurem VS. The Sword of Justice]]'', during the {{OBP|Swords of Justice|M15}} legend.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW010|Tranquill|Ash's Pokédex|Tranquill, the Wild Pigeon Pokémon, and the evolved form of Pidove. It is believed that a peaceful place without conflict exists deep in the forest where Tranquill live.}}
+{{Animedexbody|BW022|Tranquill|Ash's Pokédex|Tranquill, the Wild Pigeon Pokémon, and the evolved form of Pidove. Tranquill is always able to return to its Trainer no matter how far the distance between them.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Cheren Tranquill Adventures.png|thumb|200px|Tranquill in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Trainer's Tranquil appeared in ''[[PS472|Wheeling and Dealing]]'' and ''[[PS513|Into the Quarterfinals!]]''.
+
+A Tranquil appeared in ''[[PS483|Special Delivery]]'' as one of the Pokémon competing in {{ci|Nimbasa}}'s [[Pokémon Musical]].
+
+In ''[[PS491|Fight in a Cold Climate]]'', {{adv|Cheren}}'s Pidove evolved into Tranquill just before his Trainer met {{adv|Black}} at [[Driftveil City]].
+
+==In the TCG==
+{{main|Tranquill (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Flying}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=It can return to its Trainer's location regardless of the distance separating them.}}
+{{Dex/Entry1|v=White|entry=Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.}}
+{{Dex/Entry1|v=Y|entry=No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area={{rt|12|Unova}}, [[Lostlorn Forest]]<br>[[Pinwheel Forest]] (inner) ({{DL|Tall grass|dark grass}})<br>[[Route]]s {{rtn|6|Unova}} and {{rtn|7|Unova}}, [[Dragonspiral Tower]]{{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Route]]s {{rtn|3|Unova}} and {{rtn|12|Unova}}, {{OBP|Victory Road|Black 2 and White 2}}<br>[[Route]]s {{rtn|6|Unova}} and {{rtn|7|Unova}}, [[Dragonspiral Tower]]{{sup/s|Sp}}{{sup/s|Su}}{{sup/s|A}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Friend Safari]] ([[Friend Safari#Flying-type Safari|Flying]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Pidove}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Frenzy Square#Race against the Clock|Frenzy Square: Race against the Clock]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 2|Sky-High Ruins: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#Tenth release|''Pokémon Safari'']] <small>(Tenth release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Gracious Woodlands|Distortion Land: Gracious Woodlands]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|type2=Flying
+|HP=62
+|Attack=77
+|Defense=62
+|SpAtk=50
+|SpDef=42
+|Speed=65}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Flying
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=0
+|Rock=200
+|Bug=50
+|Ghost=0
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=200
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|flying=yes
+|newground=1
+|normal=yes
+|newghost=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Tranquill|Normal|Flying|5}}
+{{learnlist/level7|1|Gust|Flying|Special|40|100|35||'''}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level7|4|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|8|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|11|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level7|15|Air Cutter|Flying|Special|60|95|25||'''}}
+{{learnlist/level7|18|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|23|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|27|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|32|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|36|Razor Wind|Normal|Special|80|100|10||'''}}
+{{learnlist/level7|41|Feather Dance|Flying|Status|&mdash;|100|15}}
+{{learnlist/level7|45|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|50|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/level7|54|Tailwind|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|59|Sky Attack|Flying|Physical|140|90|5||'''}}
+{{learnlist/levelf/7|Tranquill|Normal|Flying|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Tranquill|Normal|Flying|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Tranquill|Normal|Flying|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Tranquill|Normal|Flying|5}}
+{{learnlist/breed7|{{MSP|176|Togetic}}|Bestow|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|561|Sigilyph}}|Hypnosis|Psychic|Status|&mdash;|60|20}}
+{{learnlist/breed7|{{MSP|177|Natu}}{{MSP|178|Xatu}}|Lucky Chant|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|176|Togetic}}|Morning Sun|Normal|Status|&mdash;|&mdash;|5|*}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}{{MSP|227|Skarmory}}{{MSP|430|Honchkrow}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|227|Skarmory}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/breed7|{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|441|Chatot}}|Uproar|Normal|Special|90|100|10||'''}}
+{{learnlist/breed7|{{MSP|176|Togetic}}{{MSP|177|Natu}}{{MSP|178|Xatu}}|Wish|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Tranquill|Normal|Flying|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Tranquill|Normal|Flying|5}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutorf/7|Tranquill|Normal|Flying|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Tranquill|Normal|Flying|5}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Tranquill|Normal|Flying|5}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg colorless color light}}; border: 3px solid #{{tcg colorless color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Wing Attack}}
+| style="background:#fff; {{roundybr|5px}}" | [[Tranquill (Emerging Powers 81)]]
+|}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{normal color light}}; border: 3px solid #{{flying color}}"
+|-
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Wing Attack}}
+| style="background:#fff" | {{typecolor|Flying}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[BW068|An Amazing Aerial Battle!]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Flying}}
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=2
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Normal|ndex=520
+|pad=Tranquill love to play Chase in Cove Town. They communicate with {{P|Pidove}} on Seasong Beach, too.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=520|bttype=Flying
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=520|stype=Flying|num=577
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Flap
+|skilldesc=Delays your opponent's disruptions.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|pictype=art
+|type1=Normal
+|type2=Flying
+|no1=519
+|name1=Pidove
+|type1-1=Normal
+|type2-1=Flying
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 21}}
+|no2=520
+|name2=Tranquill
+|type1-2=Normal
+|type2-2=Flying
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 32}}
+|no3=521
+|name3=Unfezant
+|type1-3=Normal
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Flying}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=520}}
+{{Spritebox/6|ndex=520}}
+{{Spritebox/7|ndex=520}}
+{{Spritebox/Footer|520|Tranquill}}
+
+==Trivia==
+* Tranquill is the only Pokémon with a base stat total of 358.
+
+===Origin===
+Judging from its Pokédex entries, Tranquill may be based on a {{wp|Columbidae|dove}}, often used as a symbol of peace, and possibly a {{wp|homing pigeon}}, a domestic pigeon bred to find its way home over extremely long distances. Its design is similar to that of the {{wp|greater roadrunner}} or {{wp|secretarybird}}.
+
+====Name origin====
+Tranquill is a combination of ''tranquil'' (calm or unstressed) and ''quill'' (a feather from the tail of a bird). It also involves ''{{wp|Coturnix|quail}}''.
+
+Hatoboh may be a combination of 鳩 ''hato'' (pigeon) and 逃亡 ''tōbō'' (escape) or 尨 'bō' (shaggy hair). Additionally, some of the works of {{wp|Kenji Miyazawa}} mention a fictional ideal world called 「イーハトーヴォ」 ''Ihatov''. The Pokédex entry in {{game3|Black and White|Pokémon White|s}} says, "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war," which might be a reference to Kenji's utopia.
+
+==In other languages==
+{{Other languages|type=Normal|type2=Flying
+|ja=ハトーボー ''Hatoboh''|jameaning=From {{tt|鳩 ''hato''|pigeon}} and {{tt|逃亡 ''tōbō''|escape}} or {{tt|尨 ''bō''|shaggy hair}}. May also come from イーハトーヴォ ''Ihatov'', a fictional ideal in some works of {{wp|Kenji Miyazawa}}.
+|de=Navitaub|demeaning=From ''navigator'' and ''{{tt|Taube|pigeon}}''
+|fr=Colombeau|frmeaning=From ''{{tt|colombe|dove}}'' and ''{{tt|beau|beautiful}}''
+|es=Tranquill|esmeaning=Same as English name
+|it=Tranquill|itmeaning=Same as English name
+|ko=유토브 ''Yutobu''|komeaning=From ''{{m|U-turn}}'', ''utopia'' and ''dove''
+|zh_cmn=波波鴿 ''Bōbōgē''|zh_cmnmeaning=波 ''bō'' may be from the Japanese 波 ''ha'' or transliteration of ''boh'' in its Japanese name. 鴿 ''gē'' means "dove" or "pigeon". May also be a reference to {{tt|波波|Bōbō}} ({{p|Pidgey}}).
+|ru=Транквилл ''Trankvill''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Tranquill]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Normal|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=519|prev=Pidove|nextnum=521|next=Unfezant}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Navitaub]]
+[[fr:Colombeau]]
+[[it:Tranquill]]
+[[ja:ハトーボー]]
+[[pl:Tranquill]]
+[[zh:咕咕鸽]]

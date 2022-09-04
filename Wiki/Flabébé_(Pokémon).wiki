@@ -1,0 +1,402 @@
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=668|prev=Pyroar|nextnum=670|next=Floette}}
+|}
+{{Pokémon Infobox
+|name=Flabébé
+|jname=フラベベ
+|jtranslit=Furabebe
+|tmname=Flabebe
+|forme=5
+|form1=Red Flower
+|form2=Yellow Flower
+|form3=Orange Flower
+|form4=Blue Flower
+|form5=White Flower
+|image2=669Flabébé Yellow Flower Dream.png
+|image3=669Flabébé Orange Flower Dream.png
+|image4=669Flabébé Blue Flower Dream.png
+|image5=669Flabébé White Flower Dream.png
+|category=Single Bloom
+|typebox=1
+|type1=Fairy
+|abilityn=d
+|ability1=Flower Veil
+|abilityd=Symbiosis
+|ndex=669
+|karea=Central
+|kdex=068
+|height-ftin=0'04"
+|height-m=0.1
+|weight-lbs=0.2
+|weight-kg=0.1
+|egggroupn=1
+|egggroup1=Fairy
+|gendercode=254
+|eggcycles=20
+|evtotal=1
+|evsd=1
+|expyield=61
+|lv100exp=1,000,000
+|color=White
+|catchrate=225
+|body=04
+|pokefordex=flabebe
+|generation=6
+|friendship=70
+}}
+'''Flabébé''' ([[List of Japanese Pokémon names|Japanese]]: '''フラベベ''' ''Flabebe'') is a {{type|Fairy}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[evolution|evolves]] into {{p|Floette}} starting at [[level]] 19, which evolves into {{p|Florges}} when exposed to a [[Shiny Stone]]. Its flower can come in [[List of Pokémon with form differences#Flabébé, Floette, and Florges|five different colors]].
+
+==Biology==
+Flabébé is a small white Pokémon with green on its bottom half. It has white arms and long, notched ears, and a green tail. It has a rounded yellow "crown" on its head. It has beady eyes and blush marks, and a small nose. It is seen holding the pistil of a flower it likes, which has petals that come in five colors: red, yellow, orange, blue, or white. These flowers are called "Fairy Flowers" in the anime. When Flabébé is born, it finds a flower and lives in and cares for it during Flabébé's lifespan. It can draw out the power of the flower it holds. The crown on its head is made of pollen from its flower, which has healing properties. It is a female-only species with no male counterpart. According to the Professor Oak's Holo Coaster from ''[[XY058|The Green, Green Grass Types of Home!]]'', White Flower Flabébé are rare and difficult to find.
+
+==In the anime==
+[[File:Grey Flabébé.png|thumb|left|250px|A Red Flower Flabébé in the {{pkmn|anime}}]]
+===Major appearances===
+[[Mairin]] captured a Yellow Flower Flabébé, which she nicknamed Bébé, in ''[[SS029|Mega Evolution Special I]]''.
+
+A Red Flower Flabébé appeared in ''[[XY027|To Find a Fairy Flower!]]'', under the ownership of {{OBP|Grey|XY027}}.
+
+An Orange Flower Flabébé made a cameo appearance in ''[[XY039|Summer of Discovery!]]'', under the ownership of {{an|Shauna}}. She reappeared in ''[[XY060|A Showcase Debut!]]'', where she and {{TP|Shauna|Bulbasaur}} were used to help Shauna win the [[Coumarine City]] Rookie Class [[Pokémon Showcase]] in the second round.
+
+===Minor appearances===
+Red Flower and Orange Flower Flabébé debuted in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A silhouette of a Flabébé appeared in ''[[XY047|Dreaming a Performer's Dream!]]''.
+
+Multiple Red Flower, Orange Flower, Yellow Flower, and Blue Flower Flabébé appeared in ''[[XY054|Facing the Grand Design!]]''.
+
+Multiple Orange Flower, Yellow Flower, and Blue Flower Flabébé appeared in the opening sequence of ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Red Flower Flabébé appeared in ''[[SM006|A Shocking Grocery Run!]]'', during a fantasy.
+
+Multiple Flabébé appeared in ''[[M20|I Choose You!]]''.
+
+<gallery>
+Mairin Bébé.png|A Yellow Flower Flabébé in the {{pkmn|anime}}
+Shauna Flabébé.png|An Orange Flower Flabébé in the {{pkmn|anime}}
+</gallery>
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY027|Flabébé|Serena's Pokédex|Flabébé, the Single Bloom Pokémon. Flabébé chooses a favorite flower at the beginning of its life and takes care of it from then on.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Trevor Flabébé Adventures.png|thumb|100px|Flabébé in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Flabébé was seen under the ownership of {{adv|Trevor}} in ''[[PAXY01|An X-cuse to Come Out and Play]]''. She later evolves into a Floette after defeating [[Aliana]]'s {{p|Diggersby}}.
+{{-}}
+
+==In the TCG==
+{{main|Flabébé (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=fairy}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.}}
+{{Dex/Entry1|v=Y|entry=When it finds a flower it likes, it dwells on that flower its whole life long. It floats in the wind's embrace with an untroubled heart.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It draws out and controls the hidden power of flowers. The flower Flabébé holds is most likely part of its body.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=When it finds a flower it likes, it dwells on that flower its whole life long. It floats in the wind's embrace with an untroubled heart.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=It's not safe without the power of a flower, but it will keep traveling around until it finds one with the color and shape it wants.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Flabébé wears a crown made from pollen it's collected from its flower. The crown has hidden healing properties.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Route]]s {{rtn|4|Kalos}} and {{rtn|7|kalos}} (yellow flowers; Yellow Flower, Orange Flower, White Flower)<br>{{rt|4|Kalos}} (red flowers; Red Flower, Orange Flower, White Flower)<br>{{rt|7|kalos}} (tall grass; Orange Flower, White Flower)<br>{{rt|7|kalos}} (purple flowers; Blue Flower, Orange Flower, White Flower)}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Melemele Meadow]] (Yellow Flower, Orange Flower, White Flower)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fairy}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 4|Sky-High Ruins: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 262]]<br>Event: [[Special Stages#24th release|''Pokémon Safari'']] <small>(24th release; Winking)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Royal Garden|Leafy Expanse: Royal Garden]] <small>(All Areas)</small>, [[Dark Land#Boundless Prairie|Dark Land: Boundless Prairie]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Fairy
+|HP=     44
+|Attack= 38
+|Defense=39
+|SpAtk=  61
+|SpDef=  79
+|Speed=  42}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fairy
+|Normal=  100
+|Flying=  100
+|Fighting= 50
+|Ground=  100
+|Rock=    100
+|Bug=      50
+|Poison=  200
+|Ghost=   100
+|Steel=   200
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=    0
+|Dark=     50
+|Fairy=   100
+|notes=yes
+|fairy=yes
+|newdragon=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Flabébé|Fairy|Fairy|6}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Vine Whip|Grass|Physical|45|100|25}}
+{{learnlist/level7|6|Fairy Wind|Fairy|Special|40|100|30||'''}}
+{{learnlist/level7|10|Lucky Chant|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|15|Razor Leaf|Grass|Physical|55|95|25}}
+{{learnlist/level7|20|Wish|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|22|Magical Leaf|Grass|Special|60|&mdash;|20}}
+{{learnlist/level7|24|Grassy Terrain|Grass|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|28|Petal Blizzard|Grass|Physical|90|100|15}}
+{{learnlist/level7|33|Aromatherapy|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|37|Misty Terrain|Fairy|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|41|Moonblast|Fairy|Special|95|100|15||'''}}
+{{learnlist/level7|45|Petal Dance|Grass|Special|120|100|10}}
+{{learnlist/level7|48|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/levelf/7|Flabébé|Fairy|Fairy|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Flabébé|Fairy|Fairy|6}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Flabébé|Fairy|Fairy|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Flabébé|Fairy|Fairy|6}}
+{{learnlist/breed7|{{MSP|183|Marill}}|Camouflage|Normal|Status|&mdash;|&mdash;|20|*}}
+{{learnlist/breed7|{{MSP|300|Skitty}}|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|300|Skitty}}{{MSP|311|Plusle}}{{MSP|312|Minun}}|Copycat|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|702|Dedenne}}|Tearful Look|Normal|Status|—|—|20|*{{sup/7|USUM}}}}
+{{learnlist/breedf/7|Flabébé|Fairy|Fairy|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Flabébé|Fairy|Fairy|6}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Flabébé|Fairy|Fairy|6}}
+
+===Side game data===
+{{Spindata/Head|type=Fairy}}
+{{Template:Spindata/Battle Trozei|col=6|type=Fairy|ndex=669
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Fairy|ndex=669|num=383
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Quirky
+|skilldesc=Sometimes erases one extra matching Pokémon elsewhere.
+}}
+{{Spindata/Shuffle|col=3|type=Fairy|ndex=669Winking|num=383
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost++
+|skilldesc=Fills the Mega Gauge of same type of Pokémon even more.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Fairy
+|pictype=art
+|no1=669
+|name1=Flabébé
+|type1-1=Fairy
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 19}}
+|no2=670
+|name2=Floette
+|type1-2=Fairy
+|evo2={{bag|Shiny Stone}}<br>{{color2|000|Shiny Stone}}
+|no3=671
+|name3=Florges
+|type1-3=Fairy
+}}
+
+===Sprites===
+{{Spritebox/Header|type=fairy}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6/5Forms|ndex=669|form1=Y|form2=O|form3=B|form4=W}}
+{{Spritebox/7/5Forms|ndex=669|form1=Y|form2=O|form3=B|form4=W}}
+{{Spritebox/Footer|669|Flabébé}}
+
+==Trivia==
+* Flabébé is the first original {{t|Fairy}} Pokémon in the [[National Pokédex]], as {{p|Clefairy}} was not a Fairy type between [[Generation I]] and [[Generation V]].
+* Flabébé is tied with {{p|Joltik}}, {{p|Cutiefly}}, {{p|Comfey}}, and {{p|Cosmoem}} as the [[List of Pokémon by height|smallest]] Pokémon.
+* At 0.2&nbsp;lbs (0.1&nbsp;kg), Flabébé is tied with {{p|Gastly}}, {{p|Haunter}}, {{p|Cosmog}}, and {{p|Kartana}} as the [[List of Pokémon by weight|lightest Pokémon]].
+* Flabébé is the only Pokémon with a {{wp|Diacritic|diacritical mark}} in its English name.
+* In the [[Battle Chateau]], Baroness Francine's Flabébé uses the cry of Floette.
+
+===Origin===
+Flabébé appears to be based on {{wp|fairy|fairies}} and {{wp|nymphs}}, in particular {{wp|Antheia}} due to its flower {{wp|Wreath (attire)|wreath}}-like "crown" upon its head, as well as possibly {{wp|Chloris#Chloris (Nymph)|Chloris}}. It may have also been inspired by the concept of insect {{wp|pollination}}, considering its small stature and grasp upon the flower's female organ, the {{wp|Stigma (botany)|stigma}}.
+
+====Name origin====
+Flabébé may be a combination of フラワー ''flower'' and ''bébé'' (French for baby).
+
+==In other languages==
+{{Other languages|type=fairy|type2=fairy
+|ja=フラベベ ''Flabebe''|jameaning=From フラワー ''flower'' and {{tt|''bébé''|French for baby}}
+|fr=Flabébé|frmeaning=Same as Japanese name
+|es=Flabébé|esmeaning=Same as Japanese name
+|de=Flabébé|demeaning=Same as Japanese name
+|it=Flabébé|itmeaning=Same as Japanese name
+|ko=플라베베 ''Peullabebe''|komeaning=From its Japanese name
+|zh_cmn=花蓓蓓 ''Huābèibèi''|zh_cmnmeaning=Similar to its Japanese name. Also from {{tt|花 ''huā''|flower}} and {{tt|蓓 ''bèi''|bud}}
+|zh_yue=花蓓蓓 ''Fāpúihpúih''|zh_yuemeaning=Similar to its Japanese name. Also from {{tt|花 ''fā''|flower}} and {{tt|蓓 ''púih''|bud}}
+|hi=फ्लबेबे ''Flabébé''|himeaning=Transcription of English name
+|ru=Флабебе ''Flabebe''|rumeaning=Transcription of English name
+}}
+{{-}}
+{| style="float:left"
+|-
+| style="vertical-align:top" |
+''Red Flower''
+{{langtable
+|color={{fairy color}}|bordercolor={{red color dark}}
+|ja=あかいはな ''Red Flower''
+|zh_yue=紅花 ''{{tt|Hùhng Fā|Red Flower}}''
+|zh_cmn=紅花 / 红花 ''{{tt|Hóng Huā|Red Flower}}''
+|fr=Fleur Rouge
+|de=Rotblütler
+|ko=빨간 꽃 ''Red Flower''
+|it=Fiore Rosso
+|es=Flor Roja
+}}
+| style="vertical-align:top" |
+''Yellow Flower''
+{{langtable
+|color={{fairy color}}|bordercolor={{yellow color dark}}
+|ja=きいろのはな ''Yellow Flower''
+|zh_yue=黃花 ''{{tt|Wòhng Fā|Yellow Flower}}''
+|zh_cmn=黃花 / 黄花 ''{{tt|Huáng Huā|Yellow Flower}}''
+|fr=Fleur Jaune
+|de=Gelbblütler
+|ko=노란 꽃 ''Yellow Flower''
+|it=Fiore Giallo
+|es=Flor Amarilla
+}}
+| style="vertical-align:top" |
+''Orange Flower''
+{{langtable
+|color={{fairy color}}|bordercolor={{orange color dark}}
+|ja=オレンジいろのはな ''Orange Flower''
+|zh_yue=橙花 ''{{tt|Cháang Fā|Orange Flower}}''
+|zh_cmn=橙花 ''{{tt|Chéng Huā|Orange Flower}}''
+|fr=Fleur Orange
+|de=Orangeblütler
+|ko=오렌지색 꽃 ''Orange Flower''
+|it=Fiore Arancione
+|es=Flor Naranja
+}}
+|-
+| style="vertical-align:top" |
+''Blue Flower''
+{{langtable
+|color={{fairy color}}|bordercolor={{blue color dark}}
+|ja=あおいはな ''Blue Flower''
+|zh_yue=藍花 ''{{tt|Làahm Fā|Blue Flower}}''
+|zh_cmn=藍花 / 蓝花 ''{{tt|Lán Huā|Blue Flower}}''
+|fr=Fleur Bleue
+|de=Blaublütler
+|ko=파란 꽃 ''Blue Flower''
+|it=Fiore Blu
+|es=Flor Azul
+}}
+| style="vertical-align:top" |
+''White Flower''
+{{langtable
+|color={{fairy color}}|bordercolor={{white color dark}}
+|ja=しろいはな ''White Flower''
+|zh_yue=白花 ''{{tt|Baahk Fā|White Flower}}''
+|zh_cmn=白花 ''{{tt|Bái Huā|White Flower}}''
+|fr=Fleur Blanche
+|de=Weißblütler
+|ko=하얀 꽃 ''White Flower''
+|it=Fiore Bianco
+|es=Flor Blanca
+}}
+|}{{-}}
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Fairy}}
+{{PokémonPrevNext/Pokémon|type=Fairy|prevnum=668|prev=Pyroar|nextnum=670|next=Floette}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Flabébé]]
+[[fr:Flabébé]]
+[[it:Flabébé]]
+[[ja:フラベベ]]
+[[pl:Flabébé]]
+[[zh:花蓓蓓]]

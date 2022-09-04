@@ -1,0 +1,624 @@
+{{PokémonPrevNext/Head|type=Dragon|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=717|prev=Yveltal|nextnum=719|next=Diancie|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Zygarde}}
+|}
+{{Pokémon Infobox
+|name=Zygarde
+|jname=ジガルデ
+|jtranslit=Jigarude
+|tmname=Zygarde
+|forme=3
+|form1=Zygarde 50% Forme
+|form2=Zygarde 10% Forme
+|form3=Zygarde Complete Forme
+|image2=718Zygarde-10Percent.png
+|image3=718Zygarde-Complete.png
+|category=Order
+|type1=Dragon
+|type2=Ground
+|abilitylayout=1+2
+|ability1=Aura Break
+|ability2=Power Construct
+|ability2-1=Aura Break
+|ability2-2=Power Construct
+|ability3-1=Power Construct
+|ndex=718
+|karea=Mountain
+|kdex=150
+|adex=205
+|height-ftin=16'05"
+|height-ftin2=3'11"
+|height-ftin3=14'09"
+|height-m=5.0
+|height-m2=1.2
+|height-m3=4.5
+|weight-lbs=672.4
+|weight-lbs2=73.9
+|weight-lbs3=1344.8
+|weight-kg=305.0
+|weight-kg2=33.5
+|weight-kg3=610.0
+|egggroupn=0
+|egggroup1=Undiscovered
+|gendercode=255
+|eggcycles=120
+|evtotal=3
+|evhp=3
+|expyield=270
+|lv100exp=1,250,000
+|color=Green
+|formcolors=yes
+|catchrate=3
+|body=02
+|body2=08
+|pokefordex=zygarde
+|generation=6
+|friendship=0
+}}
+'''Zygarde''' ([[List of Japanese Pokémon names|Japanese]]: '''ジガルデ''' ''Zygarde'') is a dual-type {{2t|Dragon|Ground}} [[Legendary Pokémon]] introduced in [[Generation VI]].
+
+While it is not known to [[evolution|evolve]] into or from any other Pokémon, it has the following three [[List of Pokémon with form differences|Formes]], which all retain Zygarde's Dragon/Ground typing:
+* '''Zygarde 10% Forme''', one of the Formes introduced in {{pkmn|Sun and Moon}}
+* '''Zygarde 50% Forme''', the Forme introduced in {{pkmn|X and Y}}
+* '''Zygarde Complete Forme''', one of the Formes introduced in {{pkmn|Sun and Moon}}
+
+Along with these Formes are two basic components of Zygarde: '''Zygarde Cores''', which act as the brains of Zygarde, and '''Zygarde Cells''', which compose Zygarde's Formes and cannot think. Neither Zygarde Cores nor Zygarde Cells can use [[move]]s or are useful in battles by themselves. Both of these components were introduced in Pokémon Sun and Moon. They can be collected using the [[Zygarde Cube]].
+
+Zygarde 50% Forme was introduced in Pokémon X and Y. Zygarde Cell, Zygarde Core, Zygarde 10% Forme, and Zygarde Complete Forme were announced in the October 2015 issue of [[CoroCoro]] magazine. The remaining forms were introduced in Pokémon Sun and Moon. Prior to their appearance in Sun and Moon, Zygarde's other forms played an important role in the {{pkmn|anime}}'s ''[[XY series|XY&Z]]'' arc.
+
+It is part of the [[aura trio]] with {{p|Xerneas}} and {{p|Yveltal}}.
+
+==Biology==
+Zygarde 50% Forme has a serpentine body with green and black markings. Most of its back is black, while the underbelly and the tip of its tail are green. Its eyes are comprised of four green hexagons, similar to an insect with compound eyes. Across the back of its neck is a large frill made of five long, flat protrusions. There are three short tendrils on either side of its chest, and its tail ends in five tendrils. It has many small, green hexagon markings on its body that can glow. This form of Zygarde is thought to monitor those who destroy the ecosystem from deep with its cave. Should the region's ecosystem fall into disarray, it will appear and reveal its power.
+
+Zygarde 10% Forme has a relatively small, mostly black canine body with a green "leash" that continues beyond the neck. Its muzzle is black at the top and green elsewhere. Its eyes are white hexagons with a black outline and no discernible pupils; directly above the eyes are two small green hexagons that resemble eyebrows. On its forehead is a very thin, white ellipse. Its "leash" is entirely green with a small red hexagon connected to the bottom. Its left front paw is green up to the elbow, while all its other legs are completely black. On each of its legs are hexagonal protrusions, all the same color black as the legs themselves. There are two such protrusions on the back of its elbows, one on each knee, and two on each hip. One extension on the right hip is placed higher than on the left.
+
+Zygarde Complete Forme has a large, humanoid body with a long tail similar to Zygarde 50% Forme's body. There are several flat protrusions around its head and triangular protrusions around its neck, giving it a crown-shaped appearance. On its face are three white hexagonal marks: one in the middle of its forehead with a line through it and two being that acting as eyes. There are an additional five green hexagons on its face: four along the bottom and one in the middle of a short protrusion on top. Each shoulder has two wings protruding from it. These wings all have a hexagon and an undulating pattern: blue on the right side and red on the left. The very tip of the wings can open up, making them appear to be a pair of "mouths" with red or blue patterns on the inside. It has multiple white protrusions on its body: three on each hand acting as claws, one on each knee, and one and the front of each foot. Additionally, there are green extensions surrounding its wrists and two under the white protrusions on its knees and feet. Its abdomen has a vertical, hexagonal pattern upon it with two thin, white, and vertical marks on either side. Across its chest is thin, zigzagging opening that fades between five colors: red, orange, white, cyan, and blue. The chest can open, revealing five cores of each color. Above this opening are two large green, hexagonal marks. When its wings and tail are extended, Zygarde Complete Forme resembles the Latin alphabet letter Z.
+
+Zygarde Core is the brain of Zygarde, and has a small and leafy-green gelatinous body comprised of a large, round head, a moderately sized body, and a thin, hook-shaped bottom section that may be a tail. Its head is rounded except for a protruding, beak-shaped area at the bottom front. Within its head is a single, oval eye that has a smaller, oval pupil within it. Beside this eye is another white, semi-elliptic shape, possibly a second eye. Within its midsection is a nearly regular, red hexagon. Zygarde Cells make up every other part of Zygarde, and appears very similar to the Zygarde Core. Unlike the Core, it is flat, has a green pupil, and has a darker green, more elongated hexagon within its midsection. Unlike the Cores' hook-like bottom section, the Cells have a long and more noticeably tail-like back-end.
+
+[[File:718Zygarde-Core.png|thumb|left|100px|Zygarde Core art]]
+[[File:718Zygarde-Cell.png|thumb|100px|Zygarde Cell art]]
+Each of Zygarde's Formes is made up of Cores and Cells. Neither of these two forms have power to battle alone, only when combined to form Zygarde. The Cores have their own will and are sometimes able to act on their own. They serve as brains for Zygarde. The Cells form the rest of Zygarde's body. They are only able to act on the Core's orders.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/zygarde's-cores-and-cells/</ref> A single Core acts as the brain for the 10% form. This allows it to take action separately from Zygarde's 50% Forme, which comprises its main body, but only for a short time.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/zygarde-10-forme/</ref> Zygarde Complete Forme contains separate Cores for each of its wings and its tail, and each Core can make decisions and act independently of the others.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/zygarde-complete-forme/</ref>
+
+Each form of Zygarde has its own special abilities and methods of attack. The Cores are able to communicate with other Cores and Cells via telepathy. The Cores have been known to take action when the local ecosystem is threatened. Its 10% Forme has razor-sharp teeth and can reach speeds up to 60 mph (100 km/h). Zygarde Complete Forme is said to exceed both Xerneas and Yveltal in power, possessing 100% of its total cells. Zygarde only enters Complete Forme when the ecosystem is under threat and the Cores decide that 50% Zygarde is unable to deal with it.<ref>http://www.pokemon.com/us/pokemon-news/see-new-zygarde-formes-in-animation-news-from-japan/</ref>
+
+As seen in the anime, the green on Zygarde's body turns red when it is under the control of [[Team Flare]]. This is presumably because it is being used for disrupting order, rather than maintaining it. 
+
+Zygarde is the [[Signature move|only known Pokémon]] capable of learning the moves {{m|Land's Wrath}}, {{m|Thousand Arrows}}, {{m|Thousand Waves}}, and {{m|Core Enforcer}}.
+{{-}}
+
+==In the anime==
+===In the main series===
+[[File:Z2 50 Percent Forme.png|thumb|250px|Zygarde 50% Forme in the {{pkmn|anime}}]]
+====Major appearances====
+=====[[Squishy]]=====
+Zygarde is a major target of [[Team Flare]] in the anime. Zygarde Cells and one of its Cores made their anime debuts in ''[[SS035|Mega Evolution Special IV]]''. Thanks to the help of [[Mairin]]'s {{p|Chespin}}, [[Chespie]], the Core managed to escape [[Lysandre Labs]], and came across {{Ash}} and {{ashfr}} in ''[[XY094|From A to Z!]]''. {{an|Bonnie}} was immediately taken with the unidentified Pokémon, and [[nickname]]d it "[[Squishy]]". It traveled in Bonnie's bag, alongside {{TP|Clemont|Dedenne}}.
+
+Squishy later transformed into 10% Forme after being separated from Bonnie and the others to defend itself against [[Bryony]] and her subordinates; Squishy, however, eventually returned to travel with Bonnie in ''[[XY103|A Cellular Connection!]]''.
+
+In ''[[M19|Volcanion and the Mechanical Marvel]]'', it first transformed into 10% Forme when battling [[Alva]]'s Mega Evolution Pokémon Army. Later in the movie, when Alva used his laser weapon onto the [[Azoth Kingdom]], it transformed into its Complete Forme to protect the kingdom.
+
+Squishy is known by the code name '''Z1''' by Team Flare.
+
+=====[[Z2]]=====
+A Zygarde known by the code name '''Z2''' by Team Flare appeared as a 50% Forme Zygarde in ''[[XY094|From A to Z!]]''. It managed to escape Team Flare by using {{m|Land's Wrath}}. It appeared as a Zygarde Core during ''[[XY102|Meeting at Terminus Cave!]]'', being contacted by [[Squishy]].
+
+Unlike Squishy's red core, Z2 has a blue core.
+
+=====Other=====
+A Zygarde appeared in ''[[SS036|The Legend of X, Y, and Z!]]'' during a flashback, where it was seen in its 50% Forme.
+
+====Minor appearances====
+Zygarde Cells made their main series debut in ''[[XY094|From A to Z!]]''. They have appeared on occasion to assist Squishy and Z2.
+
+Zygarde's Complete Forme made its main series debut in ''[[XY098|Dream a Little Dream from Me!]]'', where it appeared in a dream.
+
+A Zygarde appeared in its 50% Forme in the opening sequence ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+<gallery>
+Zygarde Cells anime.png|Zygarde Cells in the anime
+Squishy.png|Zygarde Core in the anime
+Squishy 10 Percent Forme.png|Zygarde 10% Forme in the anime
+Zygarde Complete Forme anime.png|Zygarde Complete Forme in the anime
+</gallery>
+
+====Pokédex entries====
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY094|Zygarde Core|Ash's Pokédex|No data.}}
+{{Animedexbody|XY094|Zygarde Core|Serena's Pokédex|No data.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+[[File:Zygarde Complete Forme PG.png|thumb|250px|Zygarde Complete Forme in [[Pokémon Generations]]]]
+
+===In Pokémon Generations===
+A Complete Forme Zygarde appeared inside [[Terminus Cave]] in ''[[PG01|The Adventure]]''.
+{{-}}
+
+==In the manga==
+[[File:Zygarde Adventures.png|thumb|200px|Zygarde 50% Forme in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{main|Zygarde (Adventures)}}
+Zygarde debuts in ''[[PAXY29|Hawlucha Attack]]''. It was first mentioned by {{adv|Blue}}, who aimed to find it in order to stop the endless battle between {{p|Xerneas}} and {{p|Yveltal}}. It appeared in person at [[Anistar City]], where it was sought after by [[Emma|Essentia]], who aimed to capture it for Team Flare. When {{adv|X}} and {{adv|Y}} battle Essentia in order to retrieve Y's stolen Xerxer, Zygarde appeared before them and attacked before Essentia manages to successfully capture it.
+
+Zygarde is later used by Essentia to battle against X, {{adv|Blue}}, and [[Blaine]]. After Emma is freed from [[Lysandre]]'s control, she was about to order Zygarde to attack him but he manages to take its Poké Ball making it fully under his control. Zygarde is later used to fight against X's [[Mega Evolution|Mega Evolved]] team, but as the battle progresses Emma notices green blobs falling off of it. At that moment, Xerneas and Yveltal are returning into their dormant forms, causing it to disintegrate, and X hits it with a combined attack from his team. This resulted in Zygarde exploding into millions of green blobs, and Lysandre begins to fall. Soon after the battle ended, Blue and Blaine visited Sycamore and mentioned to him about seeing a little green silhouette after Zygarde disintegrated into the blobs. Sycamore reveals to them that similar green silhouettes, which he dubs Zygarde Cells, have been spotted in a far away region as well, and sends [[Dexio]] and [[Sina]] to investigate them in Alola.
+
+A Zygarde Core appeared in the {{chap|Sun & Moon}}.
+<gallery>
+Zygarde Core Adventures.png|Zygarde Core in [[Pokémon Adventures]]
+</gallery>
+
+==In the TCG==
+{{main|Zygarde (TCG)}}
+
+==Game data==
+===Pokédex entries===
+====50% Forme====
+{{Dex/Header|type=Dragon|type2=Ground}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=When the [[Kalos]] region's ecosystem falls into disarray, it appears and reveals its secret power.}}
+{{Dex/Entry1|v=Y|entry=It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=When the [[Kalos]] region's ecosystem falls into disarray, it appears and reveals its secret power.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It's hypothesized that it's monitoring those who destroy the ecosystem from deep in the cave where it lives.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=This is Zygarde's form when it has gathered 50% of its cells. It wipes out all those who oppose it, showing not a shred of mercy.}}
+{{Dex/Entry1|v=Moon|entry=It's thought to be monitoring the ecosystem. There are rumors that even greater power lies hidden within it.}}
+{{Dex/Entry1|v=Ultra Sun|entry=This is Zygarde's form when about half of its pieces have been assembled. It plays the role of monitoring the ecosystem.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Some say it can change to an even more powerful form when battling those who threaten the ecosystem.}}
+|}
+|}
+{{Dex/Footer}}
+
+====10% Forme====
+{{Dex/Header|type=Dragon|type2=Ground}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Its sharp fangs make short work of finishing off its enemies, but it's unable to maintain this body indefinitely. After a period of time, it falls apart.}}
+{{Dex/Entry1|v=Moon|entry=This is Zygarde's form when about 10% of its cells have been gathered. It runs across the land at speeds greater than {{tt|60 mph|100 km/h}}.}}
+{{Dex/Entry1|v=Ultra Sun|entry=This is Zygarde when about 10% of its pieces have been assembled. It leaps at its opponent's chest and sinks its sharp fangs into them.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Born when around 10% of Zygarde's cells have been gathered from all over, this form is skilled in close-range combat.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Complete Forme====
+{{Dex/Header|type=Dragon|type2=Ground}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=This is Zygarde's form at times when it uses its overwhelming power to suppress those who endanger the ecosystem.}}
+{{Dex/Entry1|v=Moon|entry=This is Zygarde's 100% form. It has enough power to overwhelm even Xerneas or Yveltal.}}
+{{Dex/Entry1|v=Ultra Sun|entry=This is Zygarde's perfected form. From the orifice on its chest, it radiates high-powered energy that eliminates everything.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Born when all of Zygarde's cells have been gathered together, it uses force to neutralize those who harm the ecosystem.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dragon|type2=Ground}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Terminus Cave]] ([[List of in-game event Pokémon in Generation VI#Zygarde|only one]]){{tt|*|50% Forme}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]], {{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=Aether Base on {{rt|16|Alola}}{{tt|*|Created using Zygarde Cells and Cores}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Resolution Cave]]{{tt|*|50% Forme}}<br>Aether Base on {{rt|16|Alola}}{{tt|*|10% Forme}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dragon|type2=Ground}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mountain of Order#Stage 4|Mountain of Order: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Escalation Battle|Take on Escalation Battles]]'' <small>(50% Forme)</small><br>Event: ''[[Special Stages#Great Challenge|Zygarde Appears]]'' <small>(10% Forme)</small><br>Event: ''[[Special Stages#Ultra Challenge|Zygarde Appears]]'' <small>(Complete Forme)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Starlight Islands#Surveillance Dunes|Starlight Islands: Surveillance Dunes]] <small>(Special Boss)</small>}}
+{{Availability/Entry1|1|v=Super MD|link=Pokémon Super Mystery Dungeon|color={{gold color}}|area=[[Apex Mountain]]}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 05|Area 05: Stage 06]] (50% Forme)<br>[[Pokémon Picross Stages#Area 05|Area 05: Stage 07]] (10% Forme) (must be unlocked with a {{DL|Pokémon Picross|Passwords|password)}}<br>[[Pokémon Picross Stages#Area 05|Area 05: Stage 08]] (Complete Forme) (must be unlocked with a {{DL|Pokémon Picross|Passwords|password)}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=Dragon|type2=Ground}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|XY&Z Zygarde|Japanese region|Online|100|November 12, 2015 to January 12, 2016|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Zygarde}}
+{{eventAvail|{{gameabbrev6|ORAS}}|XY&Z Zygarde|All|South Korea|100|March 19 to 20, 2016|link=List of local event Pokémon distributions in Generation VI#XY&Z Zygarde}}
+{{eventAvail|{{gameabbrev6|ORAS}}|XY&Z Zygarde|Korean region|Online|100|April 20 to June 30, 2016|link=List of Korean region serial code event Pokémon distributions in Generation VI#Zygarde}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Descartes Zygarde|PAL region|Online|100|April 29 to May 26, 2016|link=List of PAL region Nintendo Network event Pokémon distributions in Generation VI#Descartes Zygarde}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon the Series: XYZ Zygarde|American region|Online|100|April 30 to May 8, 2016|link=List of American region Nintendo Network event Pokémon distributions in Generation VI#Zygarde}}
+|}
+
+===Stats===
+====Base stats====
+=====50% Forme=====
+{{Stats
+|type=Dragon
+|type2=Ground
+|HP=108
+|Attack=100
+|Defense=121
+|SpAtk=81
+|SpDef=95
+|Speed=95}}
+
+=====10% Forme=====
+{{Stats
+|type=Dragon
+|type2=Ground
+|HP=54
+|Attack=100
+|Defense=71
+|SpAtk=61
+|SpDef=85
+|Speed=115}}
+
+=====Complete Forme=====
+{{Stats
+|type=Dragon
+|type2=Ground
+|HP=216
+|Attack=100
+|Defense=121
+|SpAtk=91
+|SpDef=95
+|Speed=85}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dragon
+|type2=Ground
+|Normal=100
+|Flying=100
+|Fighting=100
+|Ground=100
+|Rock=50
+|Bug=100
+|Poison=50
+|Ghost=100
+|Steel=100
+|Fire=50
+|Water=100
+|Grass=100
+|Electric=0
+|Psychic=100
+|Ice=400
+|Dragon=200
+|Dark=100
+|Fairy=200
+|notes=yes
+|ground=yes
+|newelectric=½
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Zygarde|Dragon|Ground|6}}
+{{learnlist/level7|1|Glare|Normal|Status|—|100|30}}
+{{learnlist/level7|1|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level7|1|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/level7|1|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|5|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/level7|10|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level7|18|Bind|Normal|Physical|15|85|20}}
+{{learnlist/level7|26|Land's Wrath|Ground|Physical|90|100|10||'''}}
+{{learnlist/level7|35|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level7|44|Haze|Ice|Status|—|—|30}}
+{{learnlist/level7|51|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|55|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|59|Camouflage|Normal|Status|—|—|20}}
+{{learnlist/level7|63|Dragon Pulse|Dragon|Special|85|100|10||'''}}
+{{learnlist/level7|72|Coil|Poison|Status|—|—|20}}
+{{learnlist/level7|80|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/levelf/7|Zygarde|Dragon|Ground|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Zygarde|Dragon|Ground|6}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|—|—|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Zygarde|Dragon|Ground|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Zygarde|Dragon|Ground|6}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Zygarde|Dragon|Ground|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Zygarde|Dragon|Ground|6}}
+{{learnlist/tutor7|Bind|Normal|Physical|15|85|20|||no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15|||no|yes}}
+{{learnlist/tutorf/7|Zygarde|Dragon|Ground|6}}
+
+====Zygarde Cube====
+One of these moves can be learned via [[Zygarde Cube]] by collecting the 5 corresponding {{DL|List of Pokémon with form differences|Zygarde|Zygarde Cores}}.
+{{learnlist/eventh/7|Zygarde|Dragon|Ground|6}}
+{{learnlist/event7|{{DL|List of Pokémon with form differences|Zygarde|Zygarde Core}} (via [[Zygarde Cube]])|Dragon Dance|Dragon|Status|—|—|20}}
+{{learnlist/event7|{{DL|List of Pokémon with form differences|Zygarde|Zygarde Core}} (via [[Zygarde Cube]])|Extreme Speed|Normal|Physical|80|100|5}}
+{{learnlist/event7|{{DL|List of Pokémon with form differences|Zygarde|Zygarde Core}} (via [[Zygarde Cube]])|Thousand Waves|Ground|Physical|90|100|10||'''}}
+{{learnlist/event7|{{DL|List of Pokémon with form differences|Zygarde|Zygarde Core}} (via [[Zygarde Cube]])|Thousand Arrows|Ground|Physical|90|100|10||'''}}
+{{learnlist/event7|{{DL|List of Pokémon with form differences|Zygarde|Zygarde Core}} (via [[Zygarde Cube]])|Core Enforcer|Dragon|Special|100|100|10||'''}}
+{{learnlist/eventf/7|Zygarde|Dragon|Ground|6}}
+
+===Side game data===
+{{Spindata/Head|type=Dragon|type2=Ground}}
+{{Template:Spindata/Battle Trozei|col=6|type=Dragon|ndex=718
+|power=5
+|skill=Power of Five
+|skilldesc=Increases the damage dealt by matching five Pokémon.	
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Dragon|ndex=718|num=503
+|min=80
+|max=130
+|raisemaxlevel=10
+|skill=Barrier Bash+
+|skilldesc=Sometimes removes three barrier-type disruptions.
+|swapper=Typeless Combo
+}}
+{{Spindata/Shuffle|col=3|type=Dragon|ndex=718T|num=503
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mega Boost+
+|skilldesc=Fills the Mega Gauge of the same type of Pokémon more.
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Dragon|ndex=718C|num=503
+|min=90
+|max=120
+|raisemaxlevel=5
+|skill=Power of 5+
+|skilldesc=Deals even more damage when you make a match of five.
+|swapper=Block Smash+, Last-Ditch Effort
+}}
+|}
+
+===Evolution===
+{{evobox/Formes
+|family=None
+|sprite1=718Zygarde-10Percent
+|name1=Zygarde
+|type1-1=Dragon
+|type2-1=Ground
+|forme1=Zygarde 10% Forme
+|loc1=
+|sprite3=718Zygarde
+|name3=Zygarde
+|type1-3=Dragon
+|type2-3=Ground
+|forme3=Zygarde 50% Forme
+|loc2=
+|sprite2=718Zygarde-Complete
+|name2=Zygarde Complete Forme
+|type1-2=Dragon
+|type2-2=Ground
+|forme2=Zygarde Complete Forme
+|loc3=}}
+
+===Sprites===
+{{Spritebox/Header|type=Dragon|type2=Ground}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=718}}
+{{Spritebox/7/3Forms|ndex=718|form1=T|form2=C}}
+{{Spritebox/Footer|718|Zygarde}}
+
+==Trivia==
+* Zygarde is currently the [[List of Pokémon by name|last Pokémon in alphabetical order]].
+* Zygarde 10% Forme is the only Pokémon with a base stat total of 486.
+* Zygarde Complete Forme is the only Pokémon with a base stat total of 708.
+* Zygarde Complete Forme has the highest base {{stat|HP}} of all {{type|Ground}} Pokémon.
+* Zygarde Core and Zygarde Complete Forme were first shown in a preview for the [[M19|19th Pokémon movie]] at the end of ''[[M18|Hoopa and the Clash of Ages]]''.
+* Zygarde has more [[signature move]]s than any other Pokémon, with 4.
+** Three of them, however, have the same [[type]], base [[power]], [[accuracy]] and [[PP]] and only differ in [[additional effect]]s.
+
+===Origin===
+Zygarde's 10%, 50%, and Complete Formes may be inspired in part by the three children of {{wp|Loki}} and {{wp|Angrboða}}: {{wp|Fenrir}}, {{wp|Jörmungandr}}, and {{wp|Hel (being)|Hel}}.
+
+Zygarde 10% Forme may be based on Fenrir. The green leash-like object around its neck could be based on {{wp|Gleipnir}}, the rope that binds Fenrir. This Forme could also draw inspiration from {{wp|Garmr}}, the watchdog that guards {{wp|Hel (location)|Helheim}}'s gate. In appearance, Zygarde 10% Forme resembles a {{wp|Dobermann|Doberman Pinscher}}.
+
+Zygarde 50% Forme's appearance is based on a serpent in the shape of the letter Z. It may also draw inspiration from {{wp|Jörmungandr}}, a sea serpent that encircles the earth, and {{wp|Níðhöggr}}, a dragon that gnaws at the roots of {{wp|Yggdrasill}}, the world tree. Its flat shape and wriggling movement may be inspired by the {{wp|tsuchinoko}}, a Japanese cryptid, and its snakelike appearance may be inspired by {{wp|nāga}}, a class of snake entities in South and Southeast Asian cultures.
+
+Zygarde Complete Forme may be based on {{wp|Hel (being)|Hel}}, the ruler of {{wp|Hel (location)|Helheim}}, the realm of the dead in Nordic myth. The colors on Complete Forme's chest match the colors of the real-world {{wp|flag of France}}, the country which inspired the [[region]] of [[Kalos]], as well as the main colors of {{p|Xerneas}} and {{p|Yveltal}}, the version mascots of X and Y.
+
+Zygarde Cell and Zygarde Core may be based on cells as well as single-celled organisms such as {{wp|flatworm}}s (specifically {{wp|Planarian|planaria}}), {{wp|slime mold}}s and members of {{wp|Euglena}}. Some planarians' {{wp|ocelli}} also resemble eyes, which may have inspired the designs for the Cell and Core Zygarde. The hexagons within them may represent a {{wp|cell nucleus}}.
+
+====Name origin====
+Zygarde comes from the letter {{wp|Z}}. It may also be derived from ζυγωτός ''zygōtos'' (Greek for ''joined''), ''zygote'', ''garde'' (French for ''guard''), ''midgard'' (Old Norse: ''Miðgarðr''), or {{wp|Sigurd}}.
+
+==In other languages==
+{{Other languages|type=Dragon|type2=Ground
+|ja=ジガルデ ''Zygarde''|jameaning=Possibly from ''Z'', {{tt|ζυγωτός ''zygōtos''|Greek for joined}}, and ''{{tt|garde|French for guard}}''
+|fr=Zygarde|frmeaning=Same as English name
+|es=Zygarde|esmeaning=Same as English name
+|de=Zygarde|demeaning=Same as English name
+|it=Zygarde|itmeaning=Same as English name
+|ko=지가르데 ''Zygarde''|komeaning=Transliteration of its Japanese name
+|zh_yue=基格爾德 ''Gēigaakyíhdāk''|zh_yuemeaning=Mandarin-based transliteration of Japanese name
+|zh_cmn=基格爾德 / 基格尔德 ''Jīgé'ěrdé''|zh_cmnmeaning=Transliteration of its Japanese name
+|hi= ज़्यगार्ड ''Zygarde''|himeaning=Same as English name
+|ru=Зайгард ''Zaygard''|rumeaning=Transcription of English name
+}}
+{{-}}
+{|
+|- style="vertical-align:top"
+|
+''Zygarde Cell''
+{{langtable
+|color={{dragon color}}|bordercolor={{ground color dark}}
+|ja=ジガルデ・セル ''Zygarde Cell''
+|zh_yue=基格爾德・細胞 ''{{tt|Gēigaakyíhdāk Saibāau|Zygarde・Cell}}''
+|zh_cmn=基格爾德・細胞 / 基格尔德・细胞 ''{{tt|Jīgé'ěrdé Xìbāo|Zygarde・Cell}}''
+|da=Zygarde Celle
+|cs=Zygarde Buňka
+|fi=Zygarde-kenno
+|fr=Cellule de Zygarde
+|de=Zelle von Zygarde
+|it=Cellula di Zygarde
+|hu=Zygarde Sejt
+|ko=지가르데 셀 ''Zygarde Sel''
+|no=Zygarde Celle
+|pl=Komórka Zygarde
+|pt_br=Célula Zygarde
+|ru=Ядра Зайгарда ''Yadra Zaygarda''
+|es=Células de Zygarde
+|sv=Zygarde Cell
+}}
+|
+''Zygarde Core''
+{{langtable
+|color={{dragon color}}|bordercolor={{ground color dark}}
+|ja=ジガルデ・コア ''Zygarde Core''
+|zh_yue=基格爾德・核心 ''{{tt|Gēigaakyíhdāk Hahtsām|Zygarde・Core}}''
+|zh_cmn=基格爾德・核心 / 基格尔德・核心 ''{{tt|Jīgé'ěrdé Héxīn|Zygarde・Core}}''
+|da=Zygarde Kerne
+|cs=Zygarde Jádro
+|fi=Zygarde-ydin
+|fr=Cœur de Zygarde
+|de=Kern von Zygarde
+|hu=Zygarde Mag
+|it=Nucleo di Zygarde
+|ko=지가르데 코어 ''Zygarde Ko-eo''
+|no=Zygarde Kjerne
+|ru=Клетки Зайгарда ''Kletki Zaygarda''
+|pl=Jądro Zygarde
+|es=Núcleo de Zygarde
+|sv=Zygarde Kärna
+}}
+|- style="vertical-align:top"
+|
+''Zygarde 10% Forme''
+{{langtable
+|color={{dragon color}}|bordercolor={{ground color dark}}
+|ja=ジガルデ・１０％フォルム ''Zygarde 10% Forme''
+|zh_yue=基格爾德・10％形態 ''{{tt|Gēigaakyíhdāk Baakfahn-jī Sahp Yìhngtaai|Zygarde・10% Form}}''
+|zh_cmn=基格爾德・10％形態 / 基格爾德・10％形態 ''{{tt|Jīgé'ěrdé Bǎifēn-zhī Shí Xíngtài|Zygarde・10% Form}}''
+|cs=Zygarde 10%
+|da=Zygarde 10% forme
+|fr=Zygarde Forme 10 %
+|de=10%-Zygarde
+|hu=Zygarde 10%
+|it=Zygarde Forma 10%
+|ko=지가르데 10%폼 ''Zygarde 10% Pom''
+|pl=Zygarde 10% Formy{{tt|*|anime}}<br>Zygarde 10%{{tt|*|Sun and Moon website}}<br>Zygarde Forma 10%{{tt|*|Nintendo.pl}}
+|pt_br=Zygarde Forma 10%
+|ru=10-процентный Зайгард ''10-protsentnyy Zaygard''
+|es=Zygarde al 10%
+|sv=Zygarde 10% form
+}}
+|
+''Zygarde 50% Forme''
+{{langtable
+|color={{dragon color}}|bordercolor={{ground color dark}}
+|ja=ジガルデ・５０％フォルム ''Zygarde 50% Forme''
+|zh_yue=基格爾德・50％形態 ''{{tt|Gēigaakyíhdāk Baakfahn-jī Nghsahp Yìhngtaai|Zygarde・50% Form}}''
+|zh_cmn=基格爾德・50％形態 / 基格尔德・50％形态 ''{{tt|Jīgé'ěrdé Bǎifēn-zhī Wǔshí Xíngtài|Zygarde・50% Form}}''
+|cs=Zygarde 50%
+|da=Zygarde 50% forme
+|fr=Zygarde Forme 50 %
+|de=50%-Zygarde
+|hu=Zygarde 50%
+|it=Zygarde Forma 50%
+|ko=지가르데 50%폼 ''Zygarde 50% Pom''
+|pl=Zygarde 50% Formy{{tt|*|anime}}<br>Zygarde 50%{{tt|*|Sun and Moon website}}<br>Zygarde Forma 50%{{tt|*|Nintendo.pl}}
+|pt_br=Zygarde Forma 50%
+|ru=50-процентный Зайгард ''50-protsentnyy Zaygard''
+|es=Zygarde al 50%
+|sv=Zygarde 50% form
+}}
+|- style="vertical-align:top"
+|
+''Zygarde Complete Forme''
+{{langtable
+|color={{dragon color}}|bordercolor={{ground color dark}}
+|ja=ジガルデ・パーフェクトフォルム ''Zygarde Perfect Forme''<br>ジガルデ・{{tt|１００％|パーフェクト}}フォルム ''Zygarde {{tt|100%|Perfect}} Forme''
+|zh_yue=基格爾德・完全體形態 ''{{tt|Gēigaakyíhdāk Yùhnchyùhntái Yìhngtaai|Zygarde・Complete Form}}''
+|zh_cmn=基格爾德・完全體形態 / 基格尔德・完全体形态 ''{{tt|Jīgé'ěrdé Wánquántǐ Xíngtài||Zygarde・Complete Form}}''
+|cs=Zygarde 100%
+|fi=Zygarden täydellinen forme
+|fr=Zygarde Forme Parfaite
+|de=Optimum-Zygarde
+|hu=Zygarde 100%
+|it=Zygarde Forma Perfetta
+|ko=지가르데 퍼펙트폼 ''Zygarde Peopekteupom''
+|pl=Zygarde Kompletna Forma{{tt|*|anime}}<br>Zygarde 100%{{tt|*|Sun and Moon website}}<br>Zygarde Forma Kompletna{{tt|*|Nintendo.pl}}
+|pt_br=Zygarde Forma Completa{{tt|*|TCG}}<br>Forma Completa de Zygarde{{tt|*|anime}}<br>Fórmula Completa de Zygarde{{tt|*|anime}}
+|ru=Полная форма Зайгарда ''Polnaya forma Zaygarda''
+|sv=Zygarde fullständig form
+|es=Zygarde Forma Completa
+}}
+|}{{-}}
+
+==Related articles==
+* [[Aura trio]]
+* [[Squishy]]
+* [[Z2]]
+* [[Zygarde (Adventures)]]
+
+==Notes==
+<references/>
+
+==External links==
+
+{{Legendary Pokémon}}
+{{-}}
+{{PokémonPrevNext/Head|type=Dragon|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=717|prev=Yveltal|nextnum=719|next=Diancie}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Black-colored Pokémon]]<!--10% and Complete Formes-->
+[[Category:Body style 06 Pokémon]]<!--Complete Forme-->
+[[Category:Body style 08 Pokémon]]<!--10% Forme-->
+[[Category:Kalos Legendary Pokémon]]
+[[Category:Legendary Pokémon]]
+[[Category:Pokémon that appeared in the anime before their game debut]]<!--Core, Cell, 10% and Complete Formes-->
+
+[[de:Zygarde]]
+[[fr:Zygarde]]
+[[it:Zygarde]]
+[[ja:ジガルデ]]
+[[pl:Zygarde]]
+[[zh:基格尔德]]

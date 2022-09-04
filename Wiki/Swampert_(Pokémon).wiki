@@ -1,0 +1,570 @@
+{{PokémonPrevNext/Head|type=Water|type2=Ground}}
+{{PokémonPrevNext/GO|species=Swampert}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=259|prev=Marshtomp|nextnum=261|next=Poochyena|round=none}}
+{{PokémonPrevNext/Disambig|species=Swampert}}
+|}
+{{Pokémon Infobox
+|name=Swampert
+|jname=ラグラージ
+|jtranslit=Ragurāji
+|tmname=Laglarge
+|forme=2
+|form2=Mega Swampert
+|image2=260Swampert-Mega.png
+|mega=Swampertite
+|ndex=260
+|hdex=009
+|fbrow=013
+|obrow=097
+|opbrow=137
+|type1=Water
+|type2=Ground
+|category=Mud Fish
+|height-ftin=4'11"
+|height-ftin2=6'03"
+|height-m=1.5
+|height-m2=1.9
+|weight-lbs=180.6
+|weight-lbs2=224.9
+|weight-kg=81.9
+|weight-kg2=102.0
+|abilityn=dm
+|abilitylayout=2+1
+|abilitycolm=2
+|ability1=Torrent
+|abilitym=Swift Swim
+|abilityd=Damp
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Water 1
+|eggcycles=20
+|evtotal=3
+|evat=3
+|expyield=241
+|oldexp=210
+|lv100exp=1,059,860
+|gendercode=31
+|color=Blue
+|catchrate=45
+|body=06
+|pokefordex=swampert
+|generation=3
+|friendship=70
+}}
+'''Swampert''' ([[List of Japanese Pokémon names|Japanese]]: '''ラグラージ''' ''Laglarge'') is a dual-type {{2t|Water|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolves]] from {{p|Marshtomp}} starting at [[level]] 36. It is the final form of {{p|Mudkip}}. It can [[Mega Evolution|Mega Evolve]] into '''Mega Swampert''' using the [[Swampertite]].
+
+==Biology==
+Swampert is a bipedal Pokémon. It has a large cobalt blue body and large three-fingered hands. It has two orange gills that protrude from round patches on its cheeks. Its head has two large semicircular black fins that extend from the top of its orange eyes to the back of its head. Its tail fin is big, broad, and black. It has a white underside and orange ridged portions above its hands and three-toed feet.
+
+Swampert is very strong with enough power to easily drag a boulder weighing more than a ton, batter down opponents, and swim faster than a jet ski. It has powerful vision, enabling it to see even in murky water. Swampert also has the ability to predict storms, sensing subtle differences in the sounds of waves and tidal winds with its fins. When a storm is approaching, Swampert will pile up boulders to protect its nest. It makes its nests on {{DL|List of Pokémon by habitat|Water's-edge Pokémon|beautiful beaches}}.
+
+As Mega Swampert, this Pokémon gains considerable bulk. Its upper body and arms are more muscular, while its lower body is smaller in comparison. The raised patches above its feet vanish, but it gains two additional ones on each wrist and one on each shoulder. The bumps and its gills become a darker, redder shade of orange, and the gills are now larger and extend slightly past its mouth. The black fins on its head are shorter, more streamlined, and extend down past its shoulders. The tail fin now forms a short ridge that extends up to this Pokémon’s forehead. Mega Swampert's fingers and toes are more defined, and its fingers turn black. According to the [[XY043|anime]], Mega Swampert fills the organs on its back with air before diving underwater or battling. It uses that pressure to increase the power of its punch.
+
+==In the anime==
+===In the main series===
+[[File:Tommy Swampert.png|thumb|220px|left|Swampert in the {{pkmn|anime}}]]
+====Major appearances====
+Swampert debuted in ''[[AG032|Abandon Ship!]]''. It evolved from a Marshtomp that was living in an abandoned ship ever since it was separated from its Trainer {{OBP|Tommy|AG032}}. Since then, it believed that Tommy had abandoned it. When {{Ash}} and {{ashfr}} arrived on the abandoned ship and ran into Tommy, they started to get captured by Swampert one by one and trapped in the webbing of its {{p|Spinarak}} partner until only Ash, Brock, Tommy, and Pikachu were left. After getting Swampert to remember him, and informing it that it wasn't abandoned after all, Tommy ended up reuniting with Swampert.
+
+[[Morrison]] introduced his Swampert to Ash and friends in ''[[AG126|Saved by the Beldum]]''. Morrison used his Swampert in a battle against [[Ash's Corphish]], which resulted in a tie.
+
+{{FB|Dome Ace|Tucker}} used his Swampert and {{p|Arcanine}} to battle against Ash's Corphish and {{AP|Swellow}} in a [[Double Battle]] in ''[[AG153|Tactics Theatrics!!]]''.
+
+A Swampert appeared in ''[[DP109|Leading a Stray!]]'', where it had an antagonistic role. It was defeated by [[Ash's Grotle]].
+
+A Swampert that can Mega Evolve appeared in ''[[M19|Volcanion and the Mechanical Marvel]]'', under the control of [[Levi]] and [[Cherie]]'s Mega Wave. Swampert was used to battled against [[Ash's Pikachu]], {{AP|Talonflame}}, and [[Clemont's Chespin]]. It was later freed from their control when [[Alva]]'s Mega Wave Crystal was destroyed, and it escaped.
+
+====Minor appearances====
+A Swampert owned by {{ga|Brendan}} was shown during his cameo appearance in ''[[M09|Pokémon Ranger and the Temple of the Sea]]''. It was seen battling against {{OBP|Rebecca|M07}}'s {{p|Tyranitar}}.
+
+A {{pkmn|Trainer}}'s Swampert appeared in ''[[AG125|Like a Meowth to a Flame]]''.
+
+A Swampert appeared in a flashback in ''[[DP020|Mutiny in the Bounty!]]'' as one of Pokémon Hunter [[J]]'s captured Pokémon.
+
+A Swampert is used by one of the students of [[Pokémon Summer Academy]] in the second leg of the Pokémon Triathlon in ''[[DP091|One Team, Two Team, Red Team, Blue Team!]]''.
+
+A Swampert that can [[Mega Evolution|Mega Evolve]] into Mega Swampert appeared in ''[[SS031|Mega Evolution Special II]]''.
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG032|Swampert|Ash's Pokédex|Swampert, the Mud Fish Pokémon. Swampert is the evolved form of Marshtomp. It is able to easily drag large stone weighing over 1 ton. It is also able to see through cloudy waters and detect approaching storms with its fin.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP109|Swampert|Ash's Pokédex|Swampert, the Mud Fish Pokémon. Swampert is a powerful Pokémon that can track even a large ship as well as inflict critical damage to its enemies with one blow.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+[[File:May Swampert ORAS Trailer.png|thumb|220px|left|Swampert in the animated trailer]]
+[[File:Mega Swampert ORAS Trailer.png|thumb|220px|Mega Swampert in the animated trailer]]
+
+===In the Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+A Swampert appeared in the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]], under the ownership of {{ga|May}}. It evolved from {{p|Mudkip}} and {{p|Marshtomp}}, and was also capable of [[Mega Evolution|Mega Evolving]].
+{{-}}
+
+==In the manga==
+[[File:Mumu.png|thumb|200px|Swampert in [[Pokémon Adventures]]]]
+===In the Ash & Pikachu manga===
+[[Morrison]] owns a Swampert similar to the anime.
+
+===In the Pokémon Adventures manga===
+{{main|Mumu}}
+{{adv|Ruby}}'s Marshtomp evolved into Swampert in ''[[PS231|Master Class with Masquerain]]'' from his concussive battles throughout the {{chap|Ruby & Sapphire}}. With his increased strength and knowledge of the moves {{m|Muddy Water}} and the previously known {{m|Earthquake}}, he proved to be a formidable battler and driving force of the double team of the boy and {{adv|Sapphire}} against [[Maxie]] and [[Archie]]. He also appeared on Ruby's active team in the {{chap|Emerald}}, but didn't participate in the battle with [[Emerald's Sceptile]]. In the {{chap|Omega Ruby & Alpha Sapphire}}, he has obtained a [[Swampertite]], with it he can [[Mega Evolution|Mega Evolve]] into Mega Swampert.
+[[File:Mumu Mega Swampert.png|thumb|left|200px|Mega Swampert in [[Pokémon Adventures]]]]
+
+===In the Pokémon Battle Frontier manga===
+[[Dome Ace Tucker|Tucker]] owns a Swampert in ''[[CBF4|Introducing the Frontier Brains!]]''.
+
+===In the Pokémon Omega Ruby Crimson Passion and Pokémon Alpha Sapphire Indigo Wisdom manga===
+{{OBP|Omega|CPIW}}'s {{p|Marshtomp}} evolved into Swampert.
+
+===In the Pokémon Pocket Monsters manga===
+A Swampert appeared under the ownership of a [[Pokémon poacher|Pokémon hunter]] in ''[[PMRS32|A Visitor From Outer Space?!]]''.
+
+===In the Pokémon Ranger -The 1st Mission- manga===
+A Swampert appeared in Pokémon Ranger -The 1st Mission-.
+
+==In the TCG==
+{{main|Swampert (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]]: Swampert is a member of Team Hydro.
+
+===Pokédex entries===
+{{Dex/Header|type=Water|type2=Ground}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=If it senses the approach of a storm and a tidal wave, it protects its seaside nest by piling up boulders. It swims as fast as a jet ski.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=Its arms are rock-hard. With one swing, they can batter down its foe. It makes its nests at beautiful beaches.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Its arms are hard as rock. With one swing, it can break a boulder into pieces.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its arms are hard as rock. With one swing, it can break a boulder into pieces.}}
+{{Dex/Entry1|v=Y|entry=It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.}}
+{{Dex/Entry1|v=Omega Ruby||t=FFF|entry=Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water.}}
+{{Dex/Entry1|v=Alpha Sapphire||t=FFF|entry=Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water|type2=Ground}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Marshtomp}}}}
+{{Availability/Entry1|v=Emerald|t=fff|area=[[Evolution|Evolve]] {{p|Marshtomp}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Marshtomp}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]], {{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Marshtomp}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Marshtomp}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water|type2=Ground}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=[[Evolution|Evolve]] {{p|Marshtomp}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 56, Forever Level 6, Trozei Battle, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Western Cave]] (79F-88F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Lyra Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Lake Afar]] (B1F-B24F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Lake Afar]] (B1F-B24F)}}
+{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=[[Evolution|Evolve]] {{p|Marshtomp}}}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Oblivia Ruins]], [[Dark Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Lake: [[Soothing Shore]] (post-ending)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]], [[Variety Battle#A Battle in the Tower|Variety Battle: A Battle in the Tower]],<br>[[Challenge Battle#Open Entry Battle Royale|Challenge Battle: Open Entry Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sky-High Ruins#Stage 2|Sky-High Ruins: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Expert Stages|Expert Stage: Stage EX13]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Misty Moor|Plasma Tundra: Misty Moor]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 27|Area 27: Stage 07]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Water|type2=Ground}}
+{{eventAvail|{{gameabbrev5|BW}}|JR Kyushu Train Station Swampert|Japanese|Japan|50|March 17 to April 1, 2012|link=List of local Japanese event Pokémon distributions in Generation V#Swampert}}
+|}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Water
+|type2=Ground
+|HP=    100
+|Attack=110
+|Defense=90
+|SpAtk=  85
+|SpDef=  90
+|Speed=  60}}
+
+=====Mega Swampert=====
+{{Base Stats
+|type=Water
+|type2=Ground
+|HP=100
+|Attack=150
+|Defense=110
+|SpAtk=95
+|SpDef=110
+|Speed=70}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|type2=Ground
+|Speed=2
+|SpeedMax=3
+|Power=4
+|PowerMax=5
+|Technique=2
+|TechniqueMax=5
+|Stamina=5
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|type2=Ground
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=   50
+|Ground=  100
+|Rock=     50
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=   100
+|Grass=   400
+|Electric=  0
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|ground=yes
+|newelectric=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Swampert|Water|Ground|3}}
+{{learnlist/level7|1|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/level7|1|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Growl|Normal|Status|&mdash;|100|40}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|1|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level7|4|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|9|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level7|12|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|18|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|22|Mud Bomb|Ground|Special|65|85|10||'''}}
+{{learnlist/level7|28|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/level7|32|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|39|Muddy Water|Water|Special|90|85|10||'''}}
+{{learnlist/level7|44|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|51|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|56|Endeavor|Normal|Physical|&mdash;|100|5}}
+{{learnlist/level7|63|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/levelf/7|Swampert|Water|Ground|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Swampert|Water|Ground|3}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Swampert|Water|Ground|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Swampert|Water|Ground|3}}
+{{learnlist/breed7|{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|222|Corsola}}{{MSP|369|Relicanth}}<br>{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}<br>{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}{{MSP|698|Amaura}}{{MSP|699|Aurorus}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed7|{{MSP|698|Amaura}}{{MSP|699|Aurorus}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Avalanche|Ice|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP|222|Corsola}}{{MSP|366|Clamperl}}{{MSP|698|Amaura}}{{MSP|712|Bergmite}}|Barrier|Psychic|Status|&mdash;|&mdash;|20|*}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|158|Totodile}}<br>{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}{{MSP|294|Loudred}}<br>{{MSP|295|Exploud}}{{MSP|367|Huntail}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|564|Tirtouga}}<br>{{MSP|565|Carracosta}}{{MSP|621|Druddigon}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}<br>{{MSP|747|Mareanie}}{{MSP|748|Toxapex}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Bite|Dark|Physical|60|100|25}}
+{{learnlist/breed7|{{MSP|771|Pyukumuku}}|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}<br>{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}<br>{{MSP|771|Pyukumuku}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|183|Marill}}<br>{{MSP|184|Azumarill}}{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|369|Relicanth}}{{MSP|712|Bergmite}}<br>{{MSP|713|Avalugg}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}{{MSP|712|Bergmite}}{{MSP|713|Avalugg}}|Ice Ball|Ice|Physical|30|90|20}}
+{{learnlist/breed7|{{MSP|222|Corsola}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Mirror Coat|Psychic|Special|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}<br>{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}{{MSP|618|Stunfisk}}|Mud Bomb|Ground|Special|65|85|10||'''}}
+{{learnlist/breed7|{{MSP|108|Lickitung}}{{MSP|222|Corsola}}{{MSP|350|Milotic}}{{MSP|463|Lickilicky}}|Refresh|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}|Sludge|Poison|Special|65|100|20|*}}
+{{learnlist/breed7|{{MSP|108|Lickitung}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}<br>{{MSP|357|Tropius}}{{MSP|463|Lickilicky}}{{MSP|464|Rhyperior}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}|Stomp|Normal|Physical|65|100|20}}
+{{learnlist/breed7|{{MSP|271|Lombre}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}<br>{{MSP|537|Seismitoad}}|Uproar|Normal|Special|90|100|10}}
+{{learnlist/breed7|{{MSP|366|Clamperl}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}<br>{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|594|Alomomola}}|Whirlpool|Water|Special|35|85|15||'''}}
+{{learnlist/breed7|{{MSP|226|Mantine}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|594|Alomomola}}{{MSP|713|Avalugg}}{{MSP|747|Mareanie}}<br>{{MSP|748|Toxapex}}{{MSP|752|Araquanid}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|079|Slowpoke}}{{MSP|080|Slowbro}}{{MSP|143|Snorlax}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|199|Slowking}}<br>{{MSP|230|Kingdra}}{{MSP|369|Relicanth}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}|Yawn|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Swampert|Water|Ground|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Swampert|Water|Ground|3}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Hydro Cannon|Water|Special|150|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pledge|Water|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Swampert|Water|Ground|3}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Swampert|Water|Ground|3}}
+{{learnlist/prevo7|258|Mudkip|||||Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/prevo7|258|Mudkip|||||Rock Throw|Rock|Physical|50|90|15}}
+{{learnlist/prevo7|258|Mudkip|||||Whirlpool|Water|Special|35|85|15|'''}}
+{{learnlist/prevo7|258|Mudkip|||||Hydro Pump|Water|Special|110|80|5|'''}}
+{{learnlist/prevof/7|Swampert|Water|Ground|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg water color light}}; border: 3px solid #{{tcg water color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Bubble}}
+| [[Swampert (POP Series 1 5)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water|type2=Ground}}
+{{Spindata/PinballRS|col=3|type=Water|ndex=260|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Water|ndex=260|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=260
+|body=1
+|rate=-33.9
+|area=Peanut Swamp
+|P1=One swing of my arms will shatter foes!
+|P2=Watch out. So far, my health has slipped to half.
+|P3=I'm drained... There's not a bit of power left...
+|PL=Hah! I got my level up! My arms have turned harder!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=260
+|body=1
+|rate=-12
+|IQ=F
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Ground
+|assist=Water
+|fieldpower=3
+|field=Soak
+|loop=10
+|MinEXP=88
+|MaxEXP=158
+|browser=Swampert attacks by gushing blasts of water from its mouth like a waterfall.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Soak
+|fieldpower=3
+|assistp=Ground
+|browser=It attacks by spitting bubbles that make Pokémon Slowed.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Water|ndex=260
+|power=3
+|skill=Power of Five
+|skilldesc=Increases the damage dealt by matching five Pokémon.
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Water|ndex=260|num=097
+|mega=1
+|stone=Swampertite
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Hitting Streak
+|skilldesc=Increases damage when it is triggered in a row.
+|swapper=Swap++
+|megaspeedup=6
+|effectdesc=Replaces Pokémon (max 3) of the same type as Mega Swampert.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=260
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=200
+|attack=208
+|defense=175
+|fast={{m|Mud Shot}}, {{m|Water Gun}}
+|special={{m|Earthquake}}, {{m|Sludge Wave}}, {{m|Surf}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Water
+|type2=Ground
+|no1=258
+|name1=Mudkip
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 16}}
+|no2=259
+|name2=Marshtomp
+|type1-2=Water
+|type2-2=Ground
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no3=260
+|name3=Swampert
+|type1-3=Water
+|type2-3=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Water|type2=Ground}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=260}}
+{{Spritebox/4|ndex=260}}
+{{Spritebox/5|ndex=260}}
+{{Spritebox/6/2FormsORAS|ndex=260|form1=M}}
+{{Spritebox/7/2Forms|ndex=260|form1=M}}
+{{Spritebox/Footer|260|Swampert}}
+
+==Trivia==
+* Mega Swampert has the highest [[base stats|base stat total]] of all fully evolved [[starter Pokémon]].
+* Mega Swampert is the only Pokémon with a base stat total of 635.
+* Swampert and its pre-evolution {{p|Marshtomp}} are the only starter Pokémon to have a 4× weakness against another {{t|Grass|starter type}}.
+* Swampert and Marshtomp have the fewest weaknesses of any starter.
+
+===Origin===
+Like {{p|Mudkip}} and {{p|Marshtomp}}, Swampert is based on the {{wp|mudpuppy}}, {{wp|axolotl}}, {{wp|mudskipper}} or possibly the {{wp|gilled African lungfish}}.
+
+====Name origin====
+Swampert may be a combination of ''{{wp|swamp}}'' and ''rampart'' or ''expert'', or a corruption of the word ''earth''.
+
+Laglarge may be a combination of ''{{wp|lagoon}}'' and ''large'' (referring to its size). It may also involve ''{{wp|lag}}'', as in "to lag behind," due to its size and weight.
+
+==In other languages==
+{{Other languages|type=Water|type2=Ground
+|ja=ラグラージ ''Laglarge''|jameaning=From ''{{wp|lagoon}}'' and ''large''
+|fr=Laggron|frmeaning=From ''{{tt|lagon|lagoon}}'' and ''{{tt|gronder|growl}}'', ''{{tt|gros|big}}'', or ''ground''
+|es=Swampert|esmeaning=Same as English name
+|de=Sumpex|demeaning=From ''{{tt|Sumpf|swamp}}'' and ''Rex'' or ''expert''
+|it=Swampert|itmeaning=Same as English name
+|ko=대짱이 ''Daejjangi''|komeaning=Combination of {{tt|대|big, great}} and corruption of {{tt|장이|specialist}}
+|zh_yue=巨沼怪 ''Geuihjíugwaai''|zh_yuemeaning=Literally "Giant swamp monster"
+|zh_cmn=巨沼怪 ''Jùzhǎoguài''|zh_cmnmeaning=Literally "Giant swamp monster"
+|ru=Свамперт ''Svampert''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Mumu]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=259|prev=Marshtomp|nextnum=261|next=Poochyena}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Sumpex]]
+[[fr:Laggron]]
+[[it:Swampert]]
+[[ja:ラグラージ]]
+[[pl:Swampert]]
+[[zh:巨沼怪]]

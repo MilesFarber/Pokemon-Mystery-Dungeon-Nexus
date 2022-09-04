@@ -1,0 +1,602 @@
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/GO|species=Unown}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=200|prev=Misdreavus|nextnum=202|next=Wobbuffet|round=none}}
+{{PokémonPrevNext/Disambig|species=Unown}}
+|}
+{{Pokémon Infobox
+|name=Unown
+|jname=アンノーン
+|jtranslit=Annōn
+|tmname=Unknown
+|ndex=201
+|jdex=061
+|sdex=114
+|typebox=1
+|type1=Psychic
+|category=Symbol
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=11.0
+|weight-kg=5.0
+|abilityn=1
+|abilitylayout=1
+|ability1=Levitate
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=40
+|evtotal=2
+|evat=1
+|evsa=1
+|expyield=118
+|oldexp=61
+|lv100exp=1,000,000
+|gendercode=255
+|color=Black
+|catchrate=225
+|body=01
+|pokefordex=unown
+|generation=2
+|friendship=70
+}}
+'''Unown''' ([[List of Japanese Pokémon names|Japanese]]: '''アンノーン''' ''Unknown'') is a {{type|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+While it is not known to [[Evolution|evolve]] into or from any other Pokémon, as of [[Generation III#Kanto|Generation III]], Unown has [[List of Pokémon with form differences#Unown|28 derivative shapes]], chronicled in the [[Unown Mode]] in [[Generation II]] and the [[Unown Report]] in {{2v2|HeartGold|SoulSilver}}. There are 26 Latin alphabet characters, plus ''?'' (question mark) and ''!'' (exclamation mark) introduced in [[Generation III]]. In Generation II, its shape is determined by its [[individual values]]; in Generation III, it is determined by its [[personality value]]; from Generation IV onward, it is determined by a separate form identifier.
+
+==Biology==
+Unown is a flat, thin Pokémon shaped like an eye with appendages that make it resemble a letter or a punctuation mark. It is entirely black, except for its white sclerae. All twenty-six alphabetic forms of Unown have fully open eyes while the two punctuation Unown have half-closed eyes. Though each of its forms has a counterpart in the Latin alphabet, Unown is said to resemble ancient writing and hieroglyphs. It is a mystery whether Unown predates or postdates written language, and therefore which one is based on the other.
+
+The Pokédex and Professor Oak's research disagree on whether Unown communicates using electromagnetic waves or telepathy. Either way, it can be detected by the [[Pokégear]] radio, which interprets it as the melody of the [[Azure Flute]]. It is said that an "odd power" emerges when more than one Unown come together. [[M03|In the anime]], it is capable of reading the thoughts of other life forms. Great numbers of Unown are capable of distorting the reality to suit the dreams and wishes of whoever is in control of the Unown. However, they can only do this when more Unown are present, so it could be a shared effort rather than an ability unique to each Unown.
+
+Unown is an extremely {{DL|List of Pokémon by habitat|Rare Pokémon|rare Pokémon}} that lives in [[Unown Dimension|its own dimension]] and rarely ventures outside. When it moves to the [[Pokémon world]], Unown tends to stick to walls like engravings of ancient texts or orbit other Unown.
+
+==In the anime==
+[[File:Unown anime.png|thumb|220px|Unown in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Unown (M03)]]====
+Unown played a large role in the third movie, creating the illusions that drive the plot.
+
+Notes about Unown can be seen on {{an|Professor Oak}}'s computer in the beginning of the movie. The information (as presented in the Japanese version) has been cleaned up and transcribed here:
+* Because of their very timid and careful character, Unown do not want to go out to the external world.
+* Unown have the power to perceive the feelings of other creatures (including human beings).
+* Unown communicate with each other over electromagnetic waves but cannot use telepathy.
+* Given all this, Unown are still classified as a species of Pokémon, as opposed to any other sort of creature.
+
+====Other====
+An Unown G fell out of the [[Unown Dimension]] in ''[[EP263|Address Unown!]]''. After it was healed by the group, it helped defend against {{TRT}}, and its mind merged with that of [[Ash's Larvitar]] so that the group could help it address its inner pain.
+
+[[File:Tablet DP060.png|thumb|250px|The tablet]]
+Markings of Unown were on a tablet in ''[[DP040|Top-Down Training]]''. The tablet reads:
+
+{| style="background: #{{psychic color light}}; {{roundy|1em}}; border: 5px solid #{{psychic color}};"
+|-
+|
+{| border=1 width="100%" style="margin:auto; background: #FFF; border:1px solid #{{psychic color light}}; border-collapse:collapse;"
+|-
+! Unown
+! Romaji
+|-
+|{{uwr|F}}{{uwr|R}}{{uwr|I}}{{uwr|E}}{{uwr|N}}{{uwr|D}}
+|''FRIEND''
+|-
+|{{uwr|S}}{{uwr|U}}{{uwr|B}}{{uwr|E}}{{uwr|T}}{{uwr|E}}[[File:Noimage.png|12px]]{{uwr|N}}{{uwr|O}}[[File:Noimage.png|12px]]{{uwr|I}}{{uwr|N}}{{uwr|O}}{{uwr|C}}{{uwr|H}}{{uwr|I}}[[File:Noimage.png|12px]]{{uwr|H}}{{uwr|A}}
+|''SUBETE NO INOCHI HA''
+|-
+||{{uwr|B}}{{uwr|E}}{{uwr|T}}{{uwr|S}}{{uwr|U}}[[File:Noimage.png|12px]]{{uwr|N}}{{uwr|O}}[[File:Noimage.png|12px]]{{uwr|I}}{{uwr|N}}{{uwr|O}}{{uwr|C}}{{uwr|H}}{{uwr|I}}[[File:Noimage.png|12px]]{{uwr|T}}{{uwr|O}}[[File:Noimage.png|12px]]{{uwr|D}}{{uwr|E}}{{uwr|A}}{{uwr|I}}
+|''BETSU NO INOCHI TO DEAI''
+|-
+|{{uwr|N}}{{uwr|A}}{{uwr|N}}{{uwr|I}}{{uwr|K}}{{uwr|A}}[[File:Noimage.png|12px]]{{uwr|W}}{{uwr|O}}[[File:Noimage.png|12px]]{{uwr|U}}{{uwr|M}}{{uwr|I}}{{uwr|D}}{{uwr|A}}{{uwr|S}}{{uwr|U}}
+|''NANIKA WO UMIDASU''
+|}
+|}
+In the English [[dub]], {{an|Dawn}} reads it as ''"When every life meets another life, something will be born"''.
+
+Multiple Unown appeared in ''[[DP060|Journey to the Unown!]]'', along with the tablet from ''Top-Down Training'', where [[Saturn]] had his {{DL|Saturn|Bronzor}} use {{m|Confuse Ray}} on them, causing trouble for {{Ash}} and {{ashfr}}.
+
+An Unown F fell out of the [[Unown Dimension]] in ''[[PK21|Pikachu's Big Mysterious Adventure]]''. {{AP|Pikachu}} and the other Pokémon helped it return to the Unown Dimension with the other Unown.
+
+===Minor appearances===
+A {{pkmn2|Mirage}} Unown G appeared in ''[[The Mastermind of Mirage Pokémon]]''.
+
+Multiple Unown briefly appeared in ''[[M10|The Rise of Darkrai]]'', where they were fleeing from Dialga and Palkia in the Unown Dimension. Multiple others also appeared during the opening sequence of the movie.
+
+Multiple Unown appeared on a stone tablet in ''[[SS021|Pokémon Mystery Dungeon: Explorers of Sky - Beyond Time & Darkness]]''.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP263|Unown|Ash's Pokédex|Unown, the Symbol Pokémon. Unown are said to have existed since [[History of the Pokémon world|ancient times]]. There are many in [[List of Pokémon with form differences|form]] and shape but little is known about this mysterious Pokémon.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP060|Unown|Dawn's Pokédex|Unown, the Symbol Pokémon. Unown use telepathy to communicate with each other. Many different shapes of Unown have been discovered.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Bugsy Unown Adventures.png|thumb|Unown in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Unown first appeared in ''[[PS100|Into the Unown]]'' at the [[Ruins of Alph]]. During a battle with [[Team Rocket]], {{adv|Gold}} has his {{p|Sunkern|Sunbo}} use {{m|Flash}}, accidentally awakening the Unown from their slumber. Angered, the Unown retaliated on the [[Team Rocket Elite Trio]], defeating them. [[Bugsy]] later returns to study the Ruins further in ''[[PS134|Hurray for Heracross]]'', where he captures an Unown G and gave to one of his colleagues. Later as he searches for Suicune he finds two chambers with Unown markings. Using his device to translate them, they read the following.
+
+{| style="background: #{{psychic color light}}; {{roundy|1em}}; border: 5px solid #{{psychic color}};"
+|-
+|
+{| border=1 width="100%" style="margin:auto; background: #FFF; border:1px solid #{{psychic color light}}; border-collapse:collapse;"
+|-
+! Unown
+! Romaji
+|-
+|{{uwr|A}}{{uwr|N}}{{uwr|A}}{{uwr|N}}{{uwr|U}}{{uwr|K}}{{uwr|E}}
+|''{{tt|ANANUKE|A shortened version of &quot;Escape Rope&quot;}}''
+|-
+|{{uwr|H}}{{uwr|O}}{{uwr|U}}{{uwr|O}}{{uwr|U}}
+|''{{tt|HOUOU|Ho-Oh}}''
+|-
+|}
+|}
+
+Three Unown appeared in a flashback in ''[[PS139|Raising Raichu]]'', being the N, G and U forms.
+
+In ''[[PS280|Some Things Are Better Left Unown]]'', [[Sird]] gains the control of a small army of Unown after awakening them in the [[Tanoby Ruins]]. She initially uses them as a distraction against [[Lorelei]], allowing her to defeat the [[Elite Four]] member. Sird later uses them to impede the progress of {{adv|Red}}, {{adv|Blue}} and {{adv|Green}} as they head to the [[Trainer Tower]]. Also, two Unown of the ! and ? forms followed {{adv|Giovanni}} to [[Birth Island]] to relay his successful capture of {{adv|Deoxys}} back to the [[Rocket Warehouse|Team Rocket Warehouse]].
+
+In ''[[PS384|Knowledge of the Unown I]]'', a D and P Unown befriended {{adv|Diamond}}, {{adv|Pearl}} and {{adv|Platinum}} in [[Solaceon Town]]. The two enlisted the help of the Pokédex holders to free their friends from a chamber in the [[Solaceon Ruins]]. Later, they helped battle [[Team Galactic]] at [[Veilstone City]].
+
+In ''[[PS455|All About Arceus IV]]'', a massive group of Unown were spawned at the [[Sinjoh Ruins]] when {{p|Arceus}} created {{p|Dialga}}, {{p|Palkia}}, and {{p|Giratina}}.
+
+==In the TCG==
+{{main|Unown (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. Melee]]===
+When one Unown is released from a [[Poké Ball]], it will fly off the screen. It then returns with a large swarm, similar to what {{p|Beedrill}} did in the original [[Super Smash Bros.]] The only difference is that Beedrill only attack from left or right while Unown can come from any direction. Any opponent caught in this barrage is damaged and juggled.
+
+There are also a number of Unown Poké Floats featured in the [[Poké Floats]] stage. In the second half of the stage's cycle, numerous Unown fly across the screen. Towards the end of the cycle, staying on the stage relies on hopping between the Unown.
+
+====Trophy information====
+''These Psychic-type symbol Pokémon resemble ancient hieroglyphics found on rocks, a resemblance that's said to be more than superficial. Quite a few different shapes of Unown have been confirmed, and it's believed that each type has unique abilities. These enigmatic Pokémon can be found in the [[Ruins of Alph]].''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Psychic}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Their shapes look like {{wp|hieroglyph}}s on ancient tablets. It is said that the two are somehow related.}}
+{{Dex/Entry1|v=Silver|entry=Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.}}
+{{Dex/Entry1|v=Crystal|entry=Because different types of Unown exist, it is said that they must have a variety of abilities.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=This Pokémon is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various Unown.}}
+{{Dex/Entry1|v=FireRed|entry=Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.}}
+{{Dex/Entry1|v=LeafGreen|entry=Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=Shaped like ancient writing, it is a huge mystery whether language or Unown came first.}}
+{{Dex/Entry1|v=Pearl|entry=They seem to communicate among each other telepathically. They are always found stuck on walls.}}
+{{Dex/Entry1|v=Platinum|entry=When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.}}
+{{Dex/Entry1|v=HeartGold|entry=Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.}}
+{{Dex/Entry1|v=SoulSilver|entry=Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.}}
+{{Dex/Entry1|v=Y|entry=Shaped like ancient writing, it is a huge mystery whether language or Unown came first.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=Inside [[Ruins of Alph]]}}
+{{Availability/Entry1|v=Crystal|area=Inside [[Ruins of Alph]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=Inside [[Tanoby Chambers]] (different letters appear in different chambers)}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Solaceon Ruins]] (different forms appear in different rooms)}}
+{{Availability/Entry1|v=Platinum|area=[[Solaceon Ruins]] (different forms appear in different rooms)}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Ruins of Alph]] B1F (different letters appear when puzzles are solved)<br>[[Ruins of Alph]] 1F (! and ? only; appears after finding all Unown letters)}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Mirage Caves|Mirage Cave]] (South of {{rt|107|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Phobos Secret Fort: Phobosphere|Phobosphere]] <small>(G)</small>, Endless Level 48 <small>(N)</small>, Endless Level 83 <small>(Y)</small>, [[Mr. Who's Den]] <small>(All 28 forms)</small>}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Unown Relic]] <small>(See main page for details)</small>}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Aegis Cave]] <small>(See main page for details)</small>}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Aegis Cave]] <small>(See main page for details)</small>}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Unown Hideout: [[Everspring Valley]] <small>(All 28 forms, post-ending)</small>}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Locomotive Café#Bonus Round!|Locomotive Café: Bonus Round!]], [[Variety Battle#The Secret Ruins|Variety Battle: The Secret Ruins]]<br><small>(The "Z" variant is the reward in ''Bonus Round!'')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle]] Stage 1 (A{{dotw|Mo}}, E{{dotw|Tu}}, I{{dotw|We}}, J{{dotw|We}}, M{{dotw|Th}}, Q{{dotw|Fr}}, R{{dotw|Fr}}, U{{dotw|Sa}}, Y{{dotw|Su}})<br>Safari Jungle Stage 2 (B{{dotw|Mo}}, F{{dotw|Tu}}, G{{dotw|Tu}}, K{{dotw|We}}, N{{dotw|Th}}, O{{dotw|Th}}, S{{dotw|Fr}}, V{{dotw|Sa}}, Z{{dotw|Su}})<br>Safari Jungle Stage 3 (C{{dotw|Mo}}, D{{dotw|Mo}}, H{{dotw|Tu}}, L{{dotw|We}}, P{{dotw|Th}}, T{{dotw|Fr}}, W{{dotw|Sa}}, X{{dotw|Sa}}, !{{dotw|Su}}, ?{{dotw|Su}})}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 373]] <small>(!)</small><br>[[Violeta Palace|Violeta Palace: Stage 383]] <small>(?)</small><br>Event: [[Special Stages#23rd release|''Pokémon Safari'']] <small>(23rd release; N, I, C, and E)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Mineral Crust Hollow|Legend Terrain: Mineral Crust Hollow]] <small>(All Areas, changes daily)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 27|Area 27: Stage 05]] <small>(F only)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Psychic
+|HP=     48
+|Attack= 72
+|Defense=48
+|SpAtk=  72
+|SpDef=  48
+|Speed=  48
+}}
+
+====Pokéathlon stats====
+=====A-Z=====
+{{Pokéthlon
+|type=Psychic
+|Speed=2
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=4
+|Stamina=2
+|StaminaMax=4
+|Jump=2
+|JumpMax=5
+}}
+
+=====! and ?=====
+{{Pokéthlon
+|type=Psychic
+|Speed=2
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=2
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=4
+|Jump=2
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Psychic
+|Normal=  100
+|Fighting= 50
+|Flying=  100
+|Poison=  100
+|Ground=    0
+|Rock=    100
+|Bug=     200
+|Ghost=   200
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic=  50
+|Ice=     100
+|Dragon=  100
+|Dark=    200
+|Fairy=   100
+|notes=yes
+|levitate=nocontact
+|newground=1}}
+
+===Learnset===
+====By [[level|leveling up]]====
+{{learnlist/levelh/7|Unown|Psychic|Psychic|2}}
+{{learnlist/level7|1|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/levelf/7|Unown|Psychic|Psychic|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Unown|Psychic|Psychic|2}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tmf/7|Unown|Psychic|Psychic|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Unown|Psychic|Psychic|2}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Unown|Psychic|Psychic|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Unown|Psychic|Psychic|2}}
+{{learnlist/tutor7null}}
+{{learnlist/tutorf/7|Unown|Psychic|Psychic|2}}
+
+====[[Anime move errors|Anime-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{psychic color light}}; border: 3px solid #{{psychic color}}"
+|-
+! Move
+! Type
+! Episode
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Psychic}}
+| style="background:#fff" | {{typecolor|Psychic}}
+| style="background:#fff; {{roundybr|5px}}" | ''[[PK21]]''
+|}
+
+===Side game data===
+{{Spindata/Head|type=Psychic}}
+{{Spindata/Trozei|col=6|type=Psychic|ndex=201|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Psychic|ndex=201
+|body=1
+|rate=<br>(A-Z) 1.8%<br>(!?) 0.1
+|area=Aged Chamber
+|P1=What am I, you ask?
+|P2=My HP has plunged to half...
+|P3=I cannot go on... I have little power left...
+|PL=I have leveled up.
+|Partner=no
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Psychic|ndex=201
+|body=1
+|rate=8.2
+|IQ=A
+}}
+|-
+{{Spindata/RumbleBlast|col=3|type=Psychic
+|att=2
+|def=2
+|speed=3
+}}
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=201
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=201C|num=537
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Relentless
+|skilldesc=Increases damage done by combos if foe has any status condition.
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=201E|num=537
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Flash Mob
+|skilldesc=Increases damage when there are more Pokémon with the same type in the puzzle area.
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=201I|num=537
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Swap+
+|skilldesc=Sometimes replaces three disruptions with this Pokémon.
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=201N|num=537
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Calm Down
+|skilldesc=Delays your opponent's disruptions.
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=201EX|num=537
+|min=50
+|max=115
+|raisemaxlevel=10
+|skill=Mega Boost+
+|skilldesc=Fills the Mega Gauge of the same type of Pokémon more.
+}}
+{{Spindata/Shuffle|col=3|type=Psychic|ndex=201QU|num=537
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Mind Zap
+|skilldesc=Delays your opponent's disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Psychic|ndex=201
+|hatch=N/A
+|buddy=5
+|evolution=N/A
+|stamina=96
+|attack=136
+|defense=91
+|fast={{m|Hidden Power}}
+|special={{m|Struggle}}
+}}
+|}
+
+===Evolution===
+{| style="margin:auto; text-align:center; font-size:80%; background: #{{psychic color}}; {{roundy|10px}} border: 3px solid #{{psychic color light}}"
+|-
+| A
+| B
+| C
+| D
+| E
+| F
+| G
+|-
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown A Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown B Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown C Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown D Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown E Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown F Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown G Dream.png|60x60px]]
+|-
+| H
+| I
+| J
+| K
+| L
+| M
+| N
+|-
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown H Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown I Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown J Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown K Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown L Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown M Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown N Dream.png|60x60px]]
+|-
+| O
+| P
+| Q
+| R
+| S
+| T
+| U
+|-
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown O Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown P Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown Q Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown R Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown S Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown T Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown U Dream.png|60x60px]]
+|-
+| V
+| W
+| X
+| Y
+| Z
+| !
+| ?
+|-
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown V Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown W Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown X Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown Y Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown Z Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown Exclamation Dream.png|60x60px]]
+| style="{{roundy|96px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:96px; height:96px"| [[File:201Unown Question Dream.png|60x60px]]
+|-
+| colspan="7" | Does not evolve
+|-
+| colspan="7" style="font-size:125%; background: #{{Psychic color light}}; {{roundy|10px}}" | {{color|000|Unown}}<br><small>{{typecolor|Psychic}}</small>
+|}
+
+===Sprites===
+{{Spritebox/Header|type=Psychic}}
+{{Spritebox/NA|II}}
+{{Spritebox/2|ndex=201}}
+{{Spritebox/3|ndex=201}}
+{{Spritebox/4|ndex=201}}
+{{Spritebox/5|ndex=201}}
+{{Spritebox/6|ndex=201}}
+{{Spritebox/7|ndex=201}}
+{{Spritebox/Footer|201|Unown}}
+
+==Trivia==
+[[File:Composite Unreleased Unown.png|thumb|The Unown featured in ''[[M03|Spell of the Unown: Entei]]'']]
+* In ''[[M03|Spell of the Unown: Entei]]'', {{an|Professor Oak}} had some pictures of Unown on his computer which have never appeared in any other media. Some resemble {{wp|Greek alphabet}} letters, particularly σ (lowercase sigma), Σ (capital sigma), Π (pi), and Ω (omega). The top left large image also resembles the Greek Ȣ (ou). Others resemble the {{wp|Cyrillic script|Cyrillic}} letters ю (yu) and б (be). The Unown in the top-middle large image resembles the Cyrillic я (ya).
+* If a player does not have Unown's Pokédex data on a [[Generation II]] game when in Oak's lab in [[Pokémon Stadium 2]], Unown's Pokédex number is listed as 252 instead of 201. This happens regardless of which Pokédex display mode is selected.
+* Unown is the only Pokémon with a base stat total of 336.
+* Unown currently is represented in the {{pkmn|Trading Card Game}} by the most cards of any Pokémon, at 87 unique cards.
+* Unown has the most officially recognized alternate [[List of Pokémon with form differences|forms]] of any Pokémon, with a total of 28.
+* Unown is the only [[Generation II Pokémon]] that has [[List of Pokémon that do not appear in any regional Browser|not been featured]] in a Ranger series game.
+* Due to Unown's letter and [[Shiny Pokémon|Shininess]] both being determined by {{IV}}s in Generation II, Shiny Unown will always be either an I or V in these games.
+* Despite Unown being able to use [[TM10]] in [[Generation VI]], it still cannot do so legitimately because it will always already know {{m|Hidden Power}}.
+* Unown is the only Pokémon in the [[List of Pokémon by Sinnoh Pokédex number|Sinnoh Pokédex]] (that is not a {{pkmn2|Legendary}} or [[Mythical Pokémon]]) not used by any Trainer in {{game|Diamond and Pearl|s}}.
+* Unown is the only Pokémon that can't learn any [[status move]]s.
+
+===Origin===
+Their appearances are corruptions of the modern {{wp|Latin alphabet}}, as well as the exclamation mark (!) and the question mark (?), and the G form of Unown is based on a double-story lower case {{wp|G}}. The shapes of the Unown are used like graphic symbols in the Pokémon world, although in [[Hoenn]] and the [[Sevii Islands]], their place is taken by {{wp|Braille}}.
+
+===Name origin===
+Unown is a corruption of ''unknown''.
+
+Unknown is literally ''unknown''.
+
+==In other languages==
+{{Other languages|type=Psychic|type2=Psychic
+|ja=アンノーン ''Unknown''|jameaning=From ''unknown''
+|fr=Zarbi|frmeaning=From the word {{tt|''bizarre''|Strange}} in {{wp|Verlan}}, a youth language consisting of reversed words
+|es=Unown|esmeaning=Same as English name
+|de=Icognito|demeaning=From ''icon'' and ''{{tt|inkognito|incognito}}''
+|it=Unown|itmeaning=Same as English name
+|ko=안농 ''Annown''|komeaning=Transliteration of its Japanese name
+|zh_yue=未知圖騰 ''Meihjītòuhtàhng''|zh_yuemeaning=From {{tt|未知 ''meihjī''|unknown}} and {{tt|圖騰 ''tòuhtàhng''|totem}}
+|zh_cmn=未知圖騰 / 未知图腾 ''Wèizhītúténg''|zh_cmnmeaning=From {{tt|未知 ''meihjī''|unknown}} and {{tt|圖騰 / 图腾 ''túténg''|totem}}
+|da=Ukendt / Ukendte{{tt|*|EP263}}|dameaning=Literally "unknown"
+|fi=Tuntemattomat{{tt|*|M03 subtitles}}|fimeaning=Literally "the unknown"
+|he=אנון ''Anon''|hemeaning=Transcription of English name
+|hi=अननोन ''Unown''|himeaning=Transcription of English name
+|hu=Öntudatlan{{tt|*|Spell of the Unown only}}|humeaning=Literally "senseless"
+|no=De ukjente{{tt|*|M03 subtitles}}<br>Ukjent{{tt|*|EP263}}|nomeaning=Literally "The unknown"<br>Literally "unknown".
+|ru=Аноун ''Anoun''|rumeaning=Transcription of English name
+|sv=Okänd{{tt|*|EP263}}|svmeaning=Literally "unknown"
+}}
+<br clear="left">
+
+==Related articles==
+* [[Unown (M03)]]
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+* {{wp|Unown|Article on Wikipedia}}
+
+{{-}}
+{{Smash Bros.}}
+{{PokémonPrevNext/Head|type=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Psychic|prevnum=200|prev=Misdreavus|nextnum=202|next=Wobbuffet}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that are not part of an evolutionary line]]
+[[Category:Pokémon with different forms]]
+[[Category:Pokémon that run from battle]]
+
+[[de:Icognito]]
+[[fr:Zarbi]]
+[[it:Unown]]
+[[ja:アンノーン]]
+[[pl:Unown]]
+[[zh:未知图腾]]

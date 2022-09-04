@@ -1,0 +1,532 @@
+{{PokémonPrevNext/Head|type=Psychic|type2=Flying}}
+{{PokémonPrevNext/GO|species=Xatu}}
+{{PokémonPrevNext/Pokémon|type=Psychic|species=Xatu|prevnum=177|prev=Natu|nextnum=179|next=Mareep|round=none}}
+{{PokémonPrevNext/Disambig|species=Xatu}}
+|}
+{{Pokémon Infobox
+|name=Xatu
+|jname=ネイティオ
+|jtranslit=Neitio
+|tmname=Natio
+|ndex=178
+|oldjdex=160
+|jdex=162
+|hdex=163
+|hdex6=170
+|obrow=176
+|opbrow=159
+|typebox=1
+|type1=Psychic
+|type2=Flying
+|category=Mystic
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=33.1
+|weight-kg=15.0
+|abilityn=d
+|ability1=Synchronize
+|ability2=Early Bird
+|abilityd=Magic Bounce
+|egggroupn=1
+|egggroup1=Flying
+|eggcycles=20
+|evtotal=2
+|evsa=1
+|evsp=1
+|expyield=165
+|oldexp=171
+|lv100exp=1,000,000
+|gendercode=127
+|color=Green
+|catchrate=75
+|body=09
+|pokefordex=xatu
+|generation=2
+|friendship=70
+}}
+'''Xatu''' ([[List of Japanese Pokémon names|Japanese]]: '''ネイティオ''' ''Natio'') is a dual-type {{2t|Psychic|Flying}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Natu}} starting at [[level]] 25.
+
+==Biology==
+Xatu is a green {{wp|condor}}-like Pokémon with long, red-and-black tipped white wings that cover most of its front. Underneath its wings are designs that resemble red eyes. Along with its main green coloration, Xatu's design has accents of black, yellow, and red. There is an extra set of yellow stripes on a male Xatu. It has almond eyes, a long, slightly hooked beak, and two long, red feather crests. Xatu's feet have only two toes, one in front and one in back. Xatu's design is similar to a {{wp|totem pole}} or a {{wp|kachina doll}}.
+
+Xatu tends to stand still all day. One theory explains that Xatu can see into the future with its right eye and the past with its left, and it does not move due to fears of its visions of the future coming true. [[EP234|The anime]] has shown that it can communicate its by moving its wings in a {{wp|flag semaphore|semaphore}} fashion. Xatu is believed to be native to {{DL|List of Pokémon by habitat|Forest Pokémon|the forests}} of {{wp|South America}}.
+
+==In the anime==
+[[File:Clown Xatu.png|thumb|left|220px|Xatu in the {{pkmn|anime}}]]
+===Major appearances===
+Xatu debuted in ''[[EP234|Xatu the Future]]'', under the ownership of {{OBP|Calista|EP234}}, a girl who could predict the future.
+
+A Xatu was seen in ''[[AG076|Me, Myself and Time]]'', under the ownership of another girl named {{OBP|Calista|AG076}}, who traveled back in time to give her younger self a message.
+
+A Xatu appeared in ''[[DP140|Historical Mystery Tour!]]'', under the ownership of a {{tc|Clown}}.
+
+===Minor appearances===
+Xatu was seen starring in an outer-space version of the movie "{{wp|Titanic (1997 film)|Titanic}}" in ''[[AG086|Lights, Camerupt, Action!]]''.
+
+A Xatu, along with three Natu, was used to signal the start of a Water Pokémon race in ''[[M05|Pokémon Heroes: Latios & Latias]]''.
+
+A Xatu made a very brief appearance in the opening sequences of ''[[M07|Destiny Deoxys]]'' and ''[[M08|Lucario and the Mystery of Mew]]''.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP234|Xatu|Ash's Pokédex|Xatu, the Mystic Pokémon. Xatu is said to be able to foretell the future with a high degree of accuracy, but it is unknown whether its prophecies are correct.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP140|Xatu|Dawn's Pokédex|Xatu, the Mystic Pokémon. This unusual Pokémon can see the past and the future as well. It watches the sun's movement all day long.}}
+{{Animedexfooter/Pokémon|Diamond & Pearl|Sinnoh}}
+
+==In the manga==
+[[File:Crystal Natee.png|thumb|175px|Xatu in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+In ''[[PS173|The Escape]]'', [[Will]] uses a Xatu to fight {{adv|Blue}} and {{adv|Silver}}, but loses to a powerful {{m|Return}} attack.
+
+Two Xatu appeared in ''[[PS159|Popular Pupitar]]''. A Xatu appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+A Xatu appeared in ''[[PS327|Facing Gulpin Is Hard to Swallow]]'' as a rental Pokémon that [[Guile Hideout]] stole.
+
+Prior to ''[[PS319|Verily Vanquishing Vileplume I]]'', {{adv|Crystal}}'s {{p|Natu}} had evolved into a Xatu, and with his augmented strength allowed faster flight for her.
+
+===In the Pokémon Gold & Silver: The Golden Boys manga===
+{{GnB|Black}} owns a Xatu in [[Pokémon Gold & Silver: The Golden Boys|The Golden Boys]] manga.
+
+===In the Pokémon Mystery Dungeon: Ginji's Rescue Team manga===
+{{OBP|Xatu|Red and Blue Rescue Team}} appeared in ''[[GRT2|I Want to be Human Again!]]'' where it told [[Ginji]] and {{OBP|Mudkip|Ginji's Rescue Team}} about Ginji's future. It then appeared in ''[[GRT6|Tears and Emotions - It's the Final Chapter!]]'' where it, along with several other Pokémon, helped defeat {{p|Groudon}}.
+
+==In the TCG==
+{{main|Xatu (TCG)}}
+
+==In the TFG==
+One Xatu figure has been released.
+* {{TFG|Groundbreakers}}: {{TFG ID|Groundbreakers|Xatu|37}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|Pokémon Mystery Dungeon]]: {{mdc|Xatu|1}} lives on the [[Hill of the Ancients]], located beyond the [[Great Canyon]]. Xatu is well regarded as a wise Pokémon with the ability to see into the future. The player first consults Xatu in an attempt to learn why they were turned into a Pokémon. Later on, he creates the [[Teleport Gem]] to teleport the player to the [[Sky Tower]]. After getting the [[Clear Wing]] from {{p|Spinda}}, Xatu reveals that the player must first go to the three fields and face the lord of the areas (the [[Legendary beasts]]). Xatu occasionally visits [[Pokémon Square]] for shopping and gave [[Meteor Cave]] its name on one of these trips.
+* {{g|Mystery Dungeon: Explorers of Time and Explorers of Darkness}}: Xatu runs a shop in [[Treasure Town]] called Xatu's Appraisal. He unlocks any [[treasure box]]es found in dungeons for 150 [[Poké]] per box.
+
+===Pokédex entries===
+{{Dex/Header|type=psychic|type2=flying}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=They say that it stays still and quiet because it is seeing both the past and future at the same time.}}
+{{Dex/Entry1|v=Silver|entry=In {{wp|South America}}, it is said that its right eye sees the future and its left eye views the past.}}
+{{Dex/Entry1|v=Crystal|entry=Once it begins to meditate at sunrise, the entire day will pass before it will move again.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=They say that it stays still and quiet because it is seeing both the past and future at the same time.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokémon out of their belief that Xatu is in possession of the power to see into the future.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that Xatu are emissaries from another world.}}
+{{Dex/Entry1|v=FireRed|entry=In South America, it is said that its right eye sees the future and its left eye views the past.}}
+{{Dex/Entry1|v=LeafGreen|entry=They say that it stays still and quiet because it is seeing both the past and future at the same time.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.}}
+{{Dex/Entry1|v=HeartGold|entry=They say that it stays still and quiet because it is seeing both the past and future at the same time.}}
+{{Dex/Entry1|v=SoulSilver|entry=In South America, it is said that its right eye sees the future and its left eye views the past.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=This odd Pokémon can see both the past and the future. It eyes the sun's movements all day.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Once it begins to meditate at sunrise, the entire day will pass before it will move again.}}
+{{Dex/Entry1|v=Y|entry=They say that it stays still and quiet because it is seeing both the past and future at the same time.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokémon out of their belief that Xatu is in possession of the power to see into the future.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=It's said that while this Pokémon has the power to predict the future, it's not powerful enough to change the future it sees.}}
+{{Dex/Entry1|v=Ultra Moon|entry=While it can see the future, it has no desire to change it, which is probably why it remains motionless at all times.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=psychic|type2=flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Natu}}}}
+{{Availability/Entry1|v=Crystal|area=[[Trade]] {{p|Haunter}} in [[Pewter City]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area={{safari|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{safari|Hoenn}}}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[Evolution|Evolve]] {{p|Natu}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Natu}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Natu}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Natu}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Trade]] {{p|Haunter}} in [[Pewter City]]}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area=[[Evolution|Evolve]] {{p|Natu}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Psychic-type Safari|Psychic]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area={{safari|Hoenn}} (Zone 2, [[tall grass]]), [[Mirage Islands]] (west of {{rt|104|Hoenn}}, west of [[Dewford Town]], north of {{rt|124|Hoenn}}, south of [[Pacifidlog Town]], south of {{rt|134|Hoenn}}), and [[Mirage Mountains|Mirage Mountain]] (southeast of {{rt|129|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Akala Outskirts]]{{sup/t|Day}} ([[SOS Battle]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Psychic|type2=Flying}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Natu}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 5]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Natu}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Spacial Rift]] (B1-B7)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Spacial Rift]] (B1-B7)}}
+{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=[[Evolution|Evolve]] {{p|Natu}}}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Daybreak Ruins]], [[Thunder Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Firebreathing Mountain]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#Launch to Victory!|Toy Collection: Launch to Victory!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 3|Mysterious Fountain: Stage 3]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 369]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Fragrant Tree|Silver Isles: Fragrant Tree]] <small>(Center Boss, Back)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats|
+type=psychic|
+type2=flying|
+HP=65|
+Attack=75|
+Defense=70|
+SpAtk=95|
+SpDef=70|
+Speed=95}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Psychic
+|type2=Flying
+|Speed=2
+|SpeedMax=3
+|Power=3
+|PowerMax=3
+|Technique=3
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=4
+|Jump=3
+|JumpMax=4
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness|
+type1=psychic|
+type2=flying |
+Normal=  100 |
+Fighting= 25 |
+Flying=  100 |
+Poison=  100 |
+Ground=    0 |
+Rock=    200 |
+Bug=     100 |
+Ghost=   200 |
+Steel=   100 |
+
+Fire=    100 |
+Water=   100 |
+Grass=    50 |
+Electric=200 |
+Psychic=  50 |
+Ice=     200 |
+Dragon=  100 |
+Dark=    200 |
+Fairy=   100 |
+
+notes=yes|
+flying=yes|
+newground=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Xatu|Psychic|Flying|2}}
+{{learnlist/level7|1|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|1|Tailwind|Flying|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|1|Peck|Flying|Physical|35|100|35||'''}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Night Shade|Ghost|Special|&mdash;|100|15}}
+{{learnlist/level7|1|Teleport|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Air Slash|Flying|Special|75|95|15||'''}}
+{{learnlist/level7|6|Night Shade|Ghost|Special|&mdash;|100|15}}
+{{learnlist/level7|9|Teleport|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|12|Lucky Chant|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|17|Stored Power|Psychic|Special|20|100|10||'''}}
+{{learnlist/level7|20|Ominous Wind|Ghost|Special|60|100|5}}
+{{learnlist/level7|23|Confuse Ray|Ghost|Status|&mdash;|100|10}}
+{{learnlist/level7|29|Wish|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|35|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|39|Miracle Eye|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|43|Psycho Shift|Psychic|Status|&mdash;|100|10}}
+{{learnlist/level7|49|Future Sight|Psychic|Special|120|100|10||'''}}
+{{learnlist/level7|53|Power Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|53|Guard Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|57|Me First|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/levelf/7|Xatu|Psychic|Flying|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Xatu|Psychic|Flying|2}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM19|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM51|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM99|Dazzling Gleam|Fairy|Special|80|100|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Xatu|Psychic|Flying|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Xatu|Psychic|Flying|2}}
+{{learnlist/breed7|{{MSP|177|Natu}}{{MSP|178|Xatu}}{{MSP|566|Archen}}{{MSP|567|Archeops}}|Ally Switch|Psychic|Status|&mdash;|&mdash;|15|‡}}
+{{learnlist/breed7|{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}<br>{{MSP|733|Toucannon}}|Drill Peck|Flying|Physical|80|100|20||'''}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|441|Chatot}}{{MSP|519|Pidove}}{{MSP|520|Tranquill}}<br>{{MSP|521|Unfezant}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|722|Rowlet}}{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}<br>{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}{{MSP|733|Toucannon}}{{MSP|741|Oricorio}}|Feather Dance|Flying|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|198|Murkrow}}|Feint Attack|Dark|Physical|60|&mdash;|20}}
+{{learnlist/breed7|{{MSP|041|Zubat}}{{MSP|042|Golbat}}{{MSP|169|Crobat}}{{MSP|198|Murkrow}}{{MSP|430|Honchkrow}}|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|084|Doduo}}{{MSP|085|Dodrio}}{{MSP|276|Taillow}}<br>{{MSP|277|Swellow}}{{MSP|278|Wingull}}{{MSP|396|Starly}}{{MSP|397|Staravia}}{{MSP|398|Staraptor}}{{MSP|519|Pidove}}<br>{{MSP|520|Tranquill}}{{MSP|521|Unfezant}}{{MSP|566|Archen}}{{MSP|567|Archeops}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}<br>{{MSP|663|Talonflame}}|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/breed7|{{MSP|333|Swablu}}{{MSP|334|Altaria}}|Refresh|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|016|Pidgey}}{{MSP|017|Pidgeotto}}{{MSP|018|Pidgeot}}{{MSP|021|Spearow}}{{MSP|022|Fearow}}{{MSP|163|Hoothoot}}<br>{{MSP|164|Noctowl}}{{MSP|278|Wingull}}{{MSP|279|Pelipper}}{{MSP|441|Chatot}}{{MSP|519|Pidove}}{{MSP|520|Tranquill}}<br>{{MSP|521|Unfezant}}{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}<br>{{MSP|714|Noibat}}{{MSP|715|Noivern}}{{MSP|731|Pikipek}}{{MSP|732|Trumbeak}}{{MSP|733|Toucannon}}{{MSP|741|Oricorio}}|Roost|Flying|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}|Simple Beam|Normal|Status|&mdash;|100|15|*}}
+{{learnlist/breed7|{{MSP|177|Natu}}{{MSP|178|Xatu}}{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|561|Sigilyph}}|Skill Swap|Psychic|Status|&mdash;|&mdash;|10|‡}}
+{{learnlist/breed7|{{MSP|227|Skarmory}}{{MSP|661|Fletchling}}{{MSP|662|Fletchinder}}{{MSP|663|Talonflame}}|Steel Wing|Steel|Physical|70|90|25}}
+{{learnlist/breed7|{{MSP|198|Murkrow}}{{MSP|430|Honchkrow}}{{MSP|722|Rowlet}}{{MSP|723|Dartrix}}{{MSP|724|Decidueye}}|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/breed7|{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}{{MSP|441|Chatot}}{{MSP|561|Sigilyph}}|Synchronoise|Psychic|Special|120|100|10||'''}}
+{{learnlist/breed7|{{MSP|163|Hoothoot}}{{MSP|164|Noctowl}}|Zen Headbutt|Psychic|Physical|80|90|15||'''}}
+{{learnlist/breedf/7|Xatu|Psychic|Flying|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Xatu|Psychic|Flying|2}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magic Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Sky Attack|Flying|Physical|140|90|5||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Xatu|Psychic|Flying|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Xatu|Psychic|Flying|2}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Xatu|Psychic|Flying|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg psychic color light}}; border: 3px solid #{{tcg psychic color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Confusion}}
+| [[Xatu (EX Unseen Forces 49)]]
+|- style="background:#fff"
+| {{m|Psywave}}
+| [[Xatu (Unleashed 11)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Psychic|type2=Flying}}
+{{Spindata/PinballRS|col=3|type=Psychic|ndex=178|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Psychic|ndex=178|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Psychic|ndex=178
+|body=1
+|rate=Evolve
+|area=Flyaway Forest
+|P1=All the yesterdays, today, and all tomorrows--they are as one!
+|P2=Matters are grave... My health has fallen to half.
+|P3=I am numb... I can see neither past nor future...
+|PL=Leveled up! However... All levels are connected as one!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Psychic|ndex=178
+|body=1
+|rate=-4.5
+|IQ=F
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Psychic
+|group=Psychic
+|assist=Psychic
+|field=Psy Power
+|fieldpower=2
+|browser=It lets loose psychic orbs that make Pokémon Paused.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Psychic
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Psychic|ndex=178
+|power=2
+}}
+{{Spindata/Shuffle|col=6|type=Psychic|ndex=178|num=524
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Power of 4
+|skilldesc=Increases damage when you make a match of four.
+}}
+|-
+{{Spindata/GO|col=6|type=Psychic|ndex=178
+|hatch=N/A
+|buddy=3
+|evolution=N/A
+|stamina=130
+|attack=192
+|defense=146
+|fast={{m|Air Slash}}, {{m|Feint Attack}}
+|special={{m|Ominous Wind}}, {{m|Future Sight}}, {{m|Aerial Ace}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Psychic
+|type2=Flying
+|pictype=art
+|no1=177
+|name1=Natu
+|type1-1=Psychic
+|type2-1=Flying
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 25}}
+|no2=178
+|name2=Xatu
+|type1-2=Psychic
+|type2-2=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=psychic|type2=flying}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=178}}
+{{Spritebox/3|ndex=178}}
+{{Spritebox/4/Gender|ndex=178}}
+{{Spritebox/5/Gender|ndex=178}}
+{{Spritebox/6/Gender|ndex=178}}
+{{Spritebox/7/Gender|ndex=178}}
+{{Spritebox/Footer|178|Xatu}}
+
+==Trivia==
+* Xatu shares its {{pkmn|category}} with {{p|Flygon}}. They are both known as the Mystic Pokémon in English, and the Spirit Pokémon in Japanese.
+* Xatu's Silver, FireRed, and SoulSilver Pokédex entries state that it is involved in South American myths, which is a connection between the Pokémon world and [[Pokémon world in relation to the real world|the real world]].
+
+===Origin===
+It seems to be based on a {{wp|Resplendent Quetzal}} with design elements from a {{wp|Native American}} {{wp|totem}} or {{wp|kachina}}. Behaviorwise, it displays the ancient art of Sun Gazing, a form of spiritual meditation practiced by the Aztec and Mayan peoples in the belief that it would give them supernatural power; this is referenced by the fact that Xatu is part {{t|Psychic}}.
+
+====Name origin====
+As revealed in a Penny Arcade Staff Podcast by Jeff Kalles, who assisted in the naming of many [[Generation II]] Pokémon, a Xat is a sort of Native American totem pole. Xatu's name arose from The Pokémon Company's desire to have one Pokémon for every letter of the alphabet.
+
+Natio may be a corruption of ''native''.
+
+==In other languages==
+{{Other languages|type=psychic|type2=flying
+|ja=ネイティオ ''Natio''|jameaning=Possibly a corruption of ''native''
+|fr=Xatu|frmeaning=Same as English name
+|es=Xatu|esmeaning=Same as English name
+|de=Xatu|demeaning=Same as English name
+|it=Xatu|itmeaning=Same as English name
+|ko=네이티오 ''Neitio''|komeaning=Transliteration of its Japanese name
+|zh_cmn=天然鳥 / 天然鸟 ''Tiānránniăo''|zh_cmnmeaning=Literally "Natural bird"
+|ru=Ксату ''Ksatu''|rumeaning=Transcription of English name
+}}
+
+<br clear="left">
+
+==Related articles==
+* [[Xatu (Red and Blue Rescue Team)]]
+
+==Notes==
+<references/>
+==External links==
+
+{{PokémonPrevNext/Head|type=Psychic|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Psychic|species=Xatu|prevnum=177|prev=Natu|nextnum=179|next=Mareep|round=yes}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[de:Xatu]]
+[[fr:Xatu]]
+[[it:Xatu]]
+[[ja:ネイティオ]]
+[[pl:Xatu]]
+[[zh:天然鸟]]

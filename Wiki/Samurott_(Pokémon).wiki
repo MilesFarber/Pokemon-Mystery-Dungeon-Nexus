@@ -1,0 +1,406 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=502|prev=Dewott|nextnum=504|next=Patrat}}
+|}
+{{Pokémon Infobox
+|name=Samurott
+|jname=ダイケンキ
+|tmname=Daikenki
+|category=Formidable
+|typebox=1
+|type1=Water
+|abilityn=d
+|ability1=Torrent
+|abilityd=Shell Armor
+|ndex=503
+|udex=009
+|u2dex=009
+|height-ftin=4'11"
+|height-m=1.5
+|weight-lbs=208.6
+|weight-kg=94.6
+|egggroupn=1
+|egggroup1=Field
+|evtotal=3
+|evsa=3
+|eggcycles=20
+|expyield=238
+|lv100exp=1,059,860
+|gendercode=31
+|color=Blue
+|catchrate=45
+|body=08
+|pokefordex=samurott
+|generation=5
+|friendship=70
+}}
+'''Samurott''' ([[List of Japanese Pokémon names|Japanese]]: '''ダイケンキ''' ''Daikenki'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Dewott}} starting at [[level]] 36. It is the final form of {{p|Oshawott}}.
+
+==Biology==
+[[File:Unova starters evolution artwork.png|left|thumb|200px|Poster showing Samurott standing on its hind legs and carrying its unsheathed seamitar]]
+
+Samurott is a quadruped, blue, sea lion-like Pokémon. It has two pairs of pointed teeth, one in the upper jaw and one in the lower. Long, white whiskers extend from its snout and head, and it has a red nose and eyes. On the back of its head is a large, rounded beige helmet-like shell with spikes and a spear-like, pointed protrusion in the front. A dull bluish gray seashell-like carapace covers its underbelly, and its limbs are covered with beige, sectioned bracer-like coverings, that appear to be made of seashells. The forelimbs' bracers are actually swords called [[Scalchop and seamitar|seamitars]]. The lower two segments of these bracers are the scabbards for the two swords, and the upper segment and spike make up the seamitar and its handle. Samurott possess three black digits on each limb, and a fin-like, splayed tail with the innermost section being beige.
+
+When in battle, Samurott can stand on its hind legs and use one of its blades as a sword to fight. In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs. One swing of its seamitar can beat opponents. It can silence foes with a glare or a howl.
+
+==In the anime==
+===In the main series===
+[[File:Cameron Samurott.png|thumb|250px|Samurott in the {{pkmn|anime}}]]
+====Major appearances====
+Samurott debuted in ''[[M14|White—Victini and Zekrom and Black—Victini and Reshiram]]'', under the ownership of [[Leeku]]. It fought against, and lost to, [[Ash's Tepig]] in a tournament in [[Eindoak Town]], after Tepig received a power boost from {{OBP|Victini|M14}}'s powers.
+
+Samurott made its main series debut in ''[[BW094|The Road to Humilau!]]'', under the ownership of {{un|Cameron}}. Cameron first used Samurott in his Gym match against [[Marlon]] and his {{p|Mantine}}, which he won. During the [[Vertress Conference]], Samurott was used against {{an|Bianca}} and her {{p|Escavalier}}, which it defeated, but it then lost to {{TP|Bianca|Emboar}}. During Cameron's match against Ash, Samurott defeated {{AP|Pignite}} but lost to {{AP|Pikachu}}.
+
+====Minor appearances====
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW094|Samurott|Ash's Pokédex|Samurott, the Formidable Pokémon and the final evolved form of {{p|Oshawott}}. Protected by armor, Samurott can defeat opponents with one sword swipe. Its glare can silence them as well.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+===In the Pokémon Black 2 and White 2 Animated Trailer===
+[[File:Hugh Samurott Animated Trailer.png|thumb|250px|Samurott in the animated trailer]]
+A Samurott appeared in the [[Pokémon Black Version 2 and Pokémon White Version 2 Animated Trailer]], under the ownership of [[Hugh]]. It was first seen battling against a {{tc|Team Plasma Grunt}}'s {{p|Seviper}} alongside {{ga|Nate}}'s {{p|Arcanine}}.
+{{-}}
+
+==In the manga==
+[[File:Cedric Samurott Adventures.png|thumb|200px|Samurott in [[Pokémon Adventures]]]]
+
+===In the Pocket Monsters BW: Meetings with the Legends manga===
+{{OBP|Touya|MWL}} has a Samurott which evolved from his Dewott.
+
+===In the Pocket Monsters B2 W2 ~ A New Legend ~ manga===
+Both [[Cheren]] and [[Arata]] have Samurott, with the latter obtaining it as an {{p|Oshawott}}.
+
+===In the Pokémon Adventures manga===
+[[Cedric Juniper]] has a Samurott that first appeared in ''[[PS480|At Liberty on Liberty Garden]]''. It is used in the final battle with {{adv|N}}, along with {{adv|Black}}'s [[Bo|Emboar]] and {{adv|White}}'s {{adv|Amanda|Serperior}}. It was formally an Oshawott intended to hand to starting trainers, until N came to attempt to liberate the starter Pokémon. The Oshawott remained, while the {{TP|White|Tepig}} fled and N made off with the {{p|Snivy}} (the same Snivy who eventually joined White).
+
+===In the Pokémon RéBURST manga===
+[[Fraud]] has a Samurott in which he can use it as a [[Burst]] form.
+
+==In the TCG==
+{{main|Samurott (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Water}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.}}
+{{Dex/Entry1|v=White|entry=Part of the armor on its anterior legs becomes a giant sword. Its cry alone is enough to intimidate most enemies.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.}}
+{{Dex/Entry1|v=Y|entry=One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Evolution|Evolve]] {{p|Dewott}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[Evolution|Evolve]] {{p|Dewott}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Dewott}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Poni Wilds]] ({{DL|QR Scanner|Island Scan}}){{dotw|Fr}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Dewott}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Silent Tundra]] (Mapless Street), [[Dreamy Island]] (B1-B99), [[Cape at the Edge]] (B1-B29), high difficulty Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Secret Warehouse#The Enemies Within|Secret Warehouse: The Enemies Within]] <small>(Boss)</small>, [[Variety Battle#A Battle in the Tower|Variety Battle: A Battle in the Tower]] <small>(Co-Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Colossal Forest#Stage 5|Colossal Forest: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Expert Stages|Expert Stage: Stage EX47]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Seabreeze Trail|White Ruins: Seabreeze Trail]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 16|Area 16: Stage 09]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Water}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Center 15th Anniversary Samurott|Japanese|Japan|100|June 26 to July 2, 2013;<br>July 3 to 7, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Samurott}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Hidden Ability Present Samurott|Japanese region|Online|50|January 16 to November 30, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Samurott}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Hidden Ability Present Samurott|American region|Online|50|February 9 to November 30, 2015|link=List of American region serial code event Pokémon distributions in Generation VI#Samurott}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Hidden Ability Present Samurott|PAL region|Online|50|February 9 to November 30, 2015|link=List of PAL region serial code event Pokémon distributions in Generation VI#Samurott}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Water
+|event1=Expert Belt|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{Base stats
+|HP=95
+|Attack=100
+|Defense=85
+|SpAtk=108
+|SpDef=70
+|Speed=70
+|type=Water}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Water
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=100
+|Ground=100
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=50
+|Water=50
+|Grass=200
+|Electric=200
+|Psychic=100
+|Ice=50
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Samurott|Water|Water|5}}
+{{learnlist/level7|1|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|1|Megahorn|Bug|Physical|120|85|10}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|1|Water Sport|Water|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|5|Tail Whip|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|7|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|11|Water Sport|Water|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|13|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|18|Razor Shell|Water|Physical|75|95|10||'''}}
+{{learnlist/level7|21|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/level7|25|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/level7|29|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/level7|34|Aqua Jet|Water|Physical|40|100|20||'''}}
+{{learnlist/level7|39|Encore|Normal|Status|&mdash;|100|5}}
+{{learnlist/level7|46|Aqua Tail|Water|Physical|90|90|10||'''}}
+{{learnlist/level7|51|Retaliate|Normal|Physical|70|100|5}}
+{{learnlist/level7|58|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|63|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/7|Samurott|Water|Water|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Samurott|Water|Water|5}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM67|Smart Strike|Steel|Physical|70|&mdash;|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Samurott|Water|Water|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Samurott|Water|Water|5}}
+{{learnlist/breed7|{{MSP|083|Farfetch'd}}{{MSP|206|Dunsparce}}{{MSP|527|Woobat}}{{MSP|528|Swoobat}}|Air Slash|Flying|Special|75|95|15}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}<br>{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|197|Umbreon}}{{MSP|203|Girafarig}}<br>{{MSP|232|Donphan}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}{{MSP|461|Weavile}}{{MSP|498|Tepig}}{{MSP|499|Pignite}}<br>{{MSP|500|Emboar}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|527|Woobat}}{{MSP|528|Swoobat}}{{MSP|551|Sandile}}<br>{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}|Assurance|Dark|Physical|60|100|10}}
+{{learnlist/breed7|{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}{{MSP|515|Panpour}}{{MSP|613|Cubchoo}}<br>{{MSP|614|Beartic}}|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/breed7|{{MSP|300|Skitty}}{{MSP|327|Spinda}}|Copycat|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|448|Lucario}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|083|Farfetch'd}}{{MSP|336|Seviper}}{{MSP|359|Absol}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}{{MSP|461|Weavile}}<br>{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|571|Zoroark}}|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/breed7|{{MSP|235|Smeargle}}|Sacred Sword|Fighting|Physical|90|100|15|{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}<br>{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|190|Aipom}}{{MSP|197|Umbreon}}<br>{{MSP|206|Dunsparce}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}<br>{{MSP|336|Seviper}}{{MSP|352|Kecleon}}{{MSP|424|Ambipom}}{{MSP|434|Stunky}}{{MSP|435|Skuntank}}|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/breed7|{{MSP|133|Eevee}}|Trump Card|Normal|Special|&mdash;|&mdash;|5}}
+{{learnlist/breedf/7|Samurott|Water|Water|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Samurott|Water|Water|5}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||'''|no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Hydro Cannon|Water|Special|150|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Liquidation|Water|Physical|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Water Pledge|Water|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Samurott|Water|Water|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Samurott|Water|Water|5}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Samurott|Water|Water|5}}
+
+====Special moves====
+{{learnlist/eventh/7|Samurott|Water|Water|5}}
+{{learnlist/event7|{{DL|QR Scanner|Island Scan}}{{sup/7|SM}}|Brine|Water|Special|65|100|10||'''}}
+{{learnlist/eventf/7|Samurott|Water|Water|5}}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=3
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Water|ndex=503
+|strong=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|weak=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=He is the Area Keeper of the [[Cove Area]]. He is very calm and serious. All Pokémon in the Area respect him.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Water|ndex=503
+|HP=4
+|atk=3
+|def=3
+|spd=3
+|range=3
+|move=Aqua Tail
+|ability1=Torrent
+|ability2=Wave Rider
+|ability3=Conqueror
+|evo=Evolves from {{p|Dewott}} when its Attack is 104 or higher
+|link={{DL|List of Pokémon Conquest characters|Chikayasu}}, {{DL|List of Pokémon Conquest characters|Morichika}}, and '''[[Motochika]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=503
+|power=3
+|skill=True Strength
+|skilldesc=Increases damage dealt when energy levels are half or less.
+}}
+{{Spindata/Shuffle|col=3|type=Water|ndex=503|num=266
+|min=70
+|max=130
+|raisemaxlevel=15
+|skill=Quake
+|skilldesc=Sometimes increases damage and leaves opponent paralyzed for a short period of time.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|pictype=art
+|type=Water
+|no1=501
+|name1=Oshawott
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 17}}
+|no2=502
+|name2=Dewott
+|type1-2=Water
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 36}}
+|no3=503
+|name3=Samurott
+|type1-3=Water}}
+
+===Sprites===
+{{Spritebox/Header|type=Water}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=503}}
+{{Spritebox/6|ndex=503}}
+{{Spritebox/7|ndex=503}}
+{{Spritebox/Footer|503|Samurott}}
+
+==Trivia==
+* Samurott, {{p|Serperior}} and {{p|Emboar}} all share the same base stat total of 528.
+* At 2.099 seconds, Samurott has the longest cry of any starter.
+
+===Origin===
+Samurott is based on a {{wp|sea lion}} with characteristics of an armored {{wp|samurai}} or {{wp|shogun}}.<ref>http://web.archive.org/web/20101228065540/http://www.nintendo.co.jp/ds/interview/irbj/sp/index5.html (archived link)</ref> Samurott's tail may be based on a {{wp|Japanese war fan}}. The "helmet" over its head appears to be based on the {{wp|Murex trapa|rare-spined murex}} shell. The markings on its chest make it reminiscent of a {{wp|giant otter}}.
+
+====Name origin====
+Samurott is a combination of ''samurai'' and ''otter''.
+
+Daikenki is the complete ''{{wp|Kanji#On'yomi (Sino-Japanese reading)|on'yomi}}'' (Chinese sound) reading of 大剣鬼 ''daikenki'' (big, sword-wielding demon). This is a combination of 大 ''dai'' (big), ''ken'' (sword), and ''ki'' (demon), with 剣鬼 ''kenki'' meaning "sword-wielding demon" or "sword master". Its Chinese and Korean names are based on this reading. 大 ''dai'' may refer to Samurott's place in the evolutionary line, as the biggest and therefore final evolution.
+
+==In other languages==
+{{Other languages|type=Water|type2=Water
+|ja=ダイケンキ ''Daikenki''|jameaning=From the complete on'yomi (Chinese sound) reading of {{tt|大剣鬼|big sword-wielding demon}}. May also a combination of {{tt|大 ''dai''|big}}, and {{tt|剣鬼 ''kenki''|sword-wielding demon or swordmaster}}; {{tt|剣 ''ken''|sword}}, and {{tt|鬼 ''ki''|demon}}.
+|de=Admurai|demeaning=From ''Admiral'' and ''Samurai''
+|fr=Clamiral|frmeaning=From ''clam'' and ''admiral''
+|es=Samurott|esmeaning=Same as English name
+|it=Samurott|itmeaning=Same as English name
+|ko=대검귀 ''Daegeomgwi''|komeaning=Transliteration of Japanese name
+|zh_cmn=大劍鬼 / 大剑鬼 ''Dàjiànguǐ''|zh_cmnmeaning=Transliteration of Japanese name
+|ru=Самуротт ''Samurott''|rumeaning=Transcription of English name
+|th=ไดเคนคิ ''Daikenki''|thmeaning=From Japanese name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Bianca's Oshawott|Bianca's Samurott]]
+
+==Notes==
+<references />
+
+==External links==
+*{{wp|Oshawott, Dewott, and Samurott|Article on Wikipedia}}
+
+{{-}}
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|prevnum=502|prev=Dewott|nextnum=504|next=Patrat}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Admurai]]
+[[fr:Clamiral]]
+[[it:Samurott]]
+[[ja:ダイケンキ]]
+[[pl:Samurott]]
+[[zh:大剑鬼]]

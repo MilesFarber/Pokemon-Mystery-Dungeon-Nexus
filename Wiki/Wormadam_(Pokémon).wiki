@@ -1,0 +1,772 @@
+{{PokémonPrevNext/Head|type=Bug|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=412|prev=Burmy|nextnum=414|next=Mothim}}
+|}
+{{Pokémon Infobox
+|name=Wormadam
+|jname=ミノマダム
+|jtranslit=Minomadamu
+|tmname=Minomadam
+|forme=3
+|form1=Plant Cloak
+|form2=Sandy Cloak
+|form3=Trash Cloak
+|image=413Wormadam-Plant.png
+|image2=413Wormadam-Sandy.png
+|image3=413Wormadam-Trash.png
+|ndex=413
+|sdex=046
+|karea=Central
+|kdex=045
+|type1=Bug
+|type2=Grass
+|form2type1=Bug
+|form2type2=Ground
+|form3type1=Bug
+|form3type2=Steel
+|category=Bagworm
+|height-ftin=1'08"
+|height-m=0.5
+|weight-lbs=14.3
+|weight-kg=6.5
+|abilitylayout=2
+|ability1=Anticipation
+|abilityd=Overcoat
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evforms=3
+|evtotal=2
+|evsd=2
+|evde2=2
+|evde3=1
+|evsd3=1
+|expyield=148
+|oldexp=159
+|lv100exp=1,000,000
+|gendercode=254
+|color=Green
+|formcolors=yes
+|catchrate=45
+|body=05
+|pokefordex=wormadam
+|generation=4
+|friendship=70
+}}
+'''Wormadam''' ([[List of Japanese Pokémon names|Japanese]]: '''ミノマダム''' ''Minomadam'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from a [[gender|female]] {{p|Burmy}} starting at [[level]] 20. It is one of Burmy's final forms, the other being {{p|Mothim}}.
+
+It has three different secondary types: {{t|Steel}}, {{t|Grass}}, and {{t|Ground}}, determined by its cloak. Its cloak is permanent and determined by the cloak that Burmy was in when it last battled.
+* In its '''Plant Cloak''', it is {{2t|Bug|Grass}}-type.
+* In its '''Sandy Cloak''', it is {{2t|Bug|Ground}}-type.
+* In its '''Trash Cloak''', it is {{2t|Bug|Steel}}-type.
+
+==Biology==
+Wormadam is a black, bagworm-like Pokémon with a coat of leaves, sand, or building insulation that has fused with its body. It has oval eyes, a long pointed beak, and a long antenna with a coiled tip. The beak is tipped with varying colors depending on the coat. The coat forms a pair of arm-like structures near this Pokémon’s head. The Plant Cloak form has several white flowers covering it, and gives Wormadam a green-tipped beak and large leaves for arms. It will be dotted with reddish-brown rocks, and have chains of pebbles for arms and a brown tipped beak if it has the Sandy Cloak. When covered by the Trash Cloak, it has a pink tipped beak and long, dark pink ribbons for arms. Wormadam that evolve on cold days are said to form thicker cloaks. It is a female-only species, with {{p|Mothim}} as its male counterpart.
+
+==In the anime==
+[[File:Cheryl Wormadam Plant Cloak.png|thumb|left|220px|Plant Cloak Wormadam in the {{pkmn|anime}}]]
+
+===Major appearances===
+[[Cheryl]] has three Wormadam, one of each form. They appeared in ''[[DP030|Some Enchanted Sweetening!]]''.
+
+A Sandy Cloak Wormadam appeared in ''[[DP114|Another One Gabites the Dust!]]'', under the ownership of [[Ursula]]. She used it in the [[Appeal|Performance Stage]] of the {{to|Chocovine}} {{pkmn|Contest}}, allowing Ursula to move on to the [[Contest Battle]]s.
+
+===Minor appearances===
+A group of Plant Cloak Wormadam appeared in ''[[M10|The Rise of Darkrai]]''.
+
+A Plant Cloak Wormadam appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''.
+
+A Plant Cloak Wormadam briefly appeared in ''[[XY049|Bonnie for the Defense!]]''.
+
+All three forms of Wormadam appeared in ''[[M19|Volcanion and the Mechanical Marvel]]'' as several of the Pokémon seen at [[Nebel Plateau]].
+
+<gallery>
+Cheryl Wormadam Sandy Cloak.png|Sandy Cloak Wormadam in the anime
+Cheryl Wormadam Trash Cloak.png|Trash Cloak Wormadam in the anime
+</gallery>
+{{-}}
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP030|Wormadam|Ash's Pokédex|Wormadam, the Bagworm Pokémon, and the evolved form of a female {{p|Burmy}}. Its appearance changes depending on where it evolved.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Meragura Volcano various Pokémon.png|thumb|Plant Cloak Wormadam in [[Pokémon Try Adventure]]]]
+===In the [[Pokémon Adventures]] manga===
+Wormadam was first seen in a Sandy Cloak under the ownership of one of the members of the [[Celestic Town]] brigade that Cynthia assembled in ''[[PS384|Maddening Magby]]''.
+
+A Trash Cloak Wormadam was used by a {{tc|Youngster}} that {{adv|Platinum}} watched at the [[Battle Frontier (Generation IV)# Battle Factory|Battle Factory]] in ''[[PS426|Softening Up Kakuna]]''.
+
+In ''[[PS435|The Final Dimensional Duel V]]'', a Plant Cloak Wormadam appeared on [[Fullmoon Island]] in {{FB|Tower Tycoon|Palmer}}'s flashback.
+
+===In [[Pokémon Try Adventure]] manga===
+Several Plant Cloak Wormadam were seen around [[Meragura Volcano]].
+{{-}}
+
+==In the TCG==
+{{main|Wormadam (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Bug|type2=Grass}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=When Burmy [[Evolution|evolved]], its cloak became a part of this Pokémon's body. The cloak is never shed.}}
+{{Dex/Entry1|v=Pearl|entry=Its appearance changes depending on where it evolved. The materials on hand become a part of its body.}}
+{{Dex/Entry1|v=Platinum|entry=When evolving, its body takes in surrounding materials. As a result, there are many body variations.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It is said that a Wormadam that evolves on a cold day will have a thicker cloak.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=When evolving, its body takes in surrounding materials. As a result, there are many body variations.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=When evolving, its body takes in surrounding materials. As a result, there are many body variations.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Its appearance changes depending on where it evolved. The materials on hand become a part of its body.}}
+{{Dex/Entry1|v=Y|entry=When {{p|Burmy}} evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=Its appearance changes depending on where it evolved. The materials on hand become a part of its body.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=When {{p|Burmy}} evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug|type2=Grass}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Burmy}}<span style="color:#FF6060;">♀</span>}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Burmy}}<span style="color:#FF6060;">♀</span>}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Burmy}}<span style="color:#FF6060;">♀</span>}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Burmy}}<span style="color:#FF6060;">♀</span>}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug|type2=Grass}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=Plant Cloak: [[Crystal Crossing]] (B1-B8)<br>Sandy Cloak: [[Crystal Cave]] (B1-B11)<br>Trash Cloak: [[Landslide Cave]] (B1-B12)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=Plant Cloak: [[Crystal Crossing]] (B1-B8)<br>Sandy Cloak: [[Crystal Cave]] (B1-B11)<br>Trash Cloak: [[Landslide Cave]] (B1-B12)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] Advanced Mode C & A}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Shimmering Lake]] (Plant Cloak)<br>Autumnwood: [[Volcanic Slope]] (Sandy Cloak), [[Firebreathing Mountain]] (Trash Cloak)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#The Garden at the End of Time|Flower Garden: The Garden at the End of Time]],<br>[[Challenge Battle#Lord of the Bugs|Challenge Battle: Lord of the Bugs]] <small>(Possible Boss, All Cloaks)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 2|Safari Jungle: Stage 2]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Graucus Hall|Graucus Hall: Stage 494]] <small>(Plant Cloak)</small><br>[[Marron Trail|Marron Trail: Stage 694]] <small>(Sandy Cloak)</small><br>Event: [[Special Stages#20th release|''Pokémon Safari'']] <small>(20th release; Trash Cloak)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Plasma Tundra#Abundant Orchard|Plasma Tundra: Abundant Orchard]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+=====Plant Cloak=====
+{{BaseStats
+|type=Bug
+|type2=Grass
+|HP=60
+|Attack=59
+|Defense=85
+|SpAtk=79
+|SpDef=105
+|Speed=36}}
+
+=====Sandy Cloak=====
+{{BaseStats
+|type=Bug
+|type2=Ground
+|HP=60
+|Attack=79
+|Defense=105
+|SpAtk=59
+|SpDef=85
+|Speed=36}}
+
+=====Trash Cloak=====
+{{BaseStats
+|type=Bug
+|type2=Steel
+|HP=60
+|Attack=69
+|Defense=95
+|SpAtk=69
+|SpDef=95
+|Speed=36}}
+
+====Pokéathlon stats====
+=====Plant Cloak=====
+{{Pokéthlon
+|type=Bug
+|type2=Grass
+|Speed=3
+|SpeedMax=4
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=4
+|Stamina=3
+|StaminaMax=4
+|Jump=3
+|JumpMax=3
+}}
+
+=====Sandy Cloak=====
+{{Pokéthlon
+|type=Bug
+|type2=Ground
+|Speed=2
+|SpeedMax=3
+|Power=4
+|PowerMax=5
+|Technique=2
+|TechniqueMax=2
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3
+}}
+
+=====Trash Cloak=====
+{{Pokéthlon
+|type=Bug
+|type2=Steel
+|Speed=1
+|SpeedMax=3
+|Power=3
+|PowerMax=5
+|Technique=2
+|TechniqueMax=3
+|Stamina=5
+|StaminaMax=5
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+====Plant Cloak====
+{{TypeEffectiveness
+|type1=Bug
+|type2=Grass
+|Normal=100
+|Fighting=50
+|Flying=400
+|Poison=200
+|Ground=25
+|Rock=200
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=400
+|Water=50
+|Grass=25
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+====Sandy Cloak====
+{{TypeEffectiveness
+|type1=Bug
+|type2=Ground
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=50
+|Ground=50
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=200
+|Grass=100
+|Electric=0
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|ground=yes
+|newelectric=1}}
+
+====Trash Cloak====
+{{TypeEffectiveness
+|type1=Bug
+|type2=Steel
+|Normal=50
+|Fighting=100
+|Flying=100
+|Poison=0
+|Ground=100
+|Rock=100
+|Bug=50
+|Ghost=100
+|Steel=50
+|Fire=400
+|Water=100
+|Grass=25
+|Electric=100
+|Psychic=50
+|Ice=50
+|Dragon=50
+|Dark=100
+|Fairy=50
+|notes=yes
+|steel=yes
+|gen5dark=yes
+|gen5ghost=yes
+|olddark=½
+|oldghost2=½
+|newpoison=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Plant Cloak=====
+{{learnlist/levelh/7|Wormadam|Bug|Grass|4}}
+{{learnlist/level7|1|Quiver Dance|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Quiver Dance|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|10|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|15|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|20|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/level7|23|Confusion|Psychic|Special|50|100|25}}
+{{learnlist/level7|26|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level7|29|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|32|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level7|35|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|38|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|41|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/level7|44|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/level7|47|Leaf Storm|Grass|Special|130|90|5||'''}}
+{{learnlist/level7|50|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/levelf/7|Wormadam|Bug|Grass|4}}
+
+=====Sandy Cloak=====
+{{learnlist/levelh/7|Wormadam|Bug|Ground|4}}
+{{learnlist/level7|1|Quiver Dance|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Quiver Dance|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|10|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|15|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|20|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/level7|23|Confusion|Psychic|Special|50|100|25}}
+{{learnlist/level7|26|Rock Blast|Rock|Physical|25|90|10}}
+{{learnlist/level7|29|Harden|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|32|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level7|35|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|38|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|41|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/level7|44|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/level7|47|Fissure|Ground|Physical|&mdash;|&mdash;|5}}
+{{learnlist/level7|50|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/levelf/7|Wormadam|Bug|Ground|4}}
+
+=====Trash Cloak=====
+{{learnlist/levelh/7|Wormadam|Bug|Steel|4}}
+{{learnlist/level7|1|Quiver Dance|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Metal Burst|Steel|Physical|&mdash;|100|10}}
+{{learnlist/level7|1|Sucker Punch|Dark|Physical|70|100|5}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Quiver Dance|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|10|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|15|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/level7|20|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/level7|23|Confusion|Psychic|Special|50|100|25}}
+{{learnlist/level7|26|Mirror Shot|Steel|Special|65|85|10||'''}}
+{{learnlist/level7|29|Metal Sound|Steel|Status|&mdash;|85|40}}
+{{learnlist/level7|32|Psybeam|Psychic|Special|65|100|20}}
+{{learnlist/level7|35|Captivate|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|38|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|41|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/level7|44|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/level7|47|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level7|50|Bug Buzz|Bug|Special|90|100|10||'''}}
+{{learnlist/levelf/7|Wormadam|Bug|Steel|4}}
+
+====By [[TM]]/[[HM]]====
+=====Plant Cloak=====
+{{learnlist/tmh/7|Wormadam|Bug|Grass|4}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Wormadam|Bug|Grass|4}}
+
+=====Sandy Cloak=====
+{{learnlist/tmh/7|Wormadam|Bug|Ground|4}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Wormadam|Bug|Ground|4}}
+
+=====Trash Cloak=====
+{{learnlist/tmh/7|Wormadam|Bug|Steel|4}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5||'''}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM83|Infestation|Bug|Special|20|100|20||'''}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Wormadam|Bug|Steel|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Wormadam|Bug|Grass|4}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Wormadam|Bug|Grass|4}}
+
+====By [[Move Tutor|tutoring]]====
+=====Plant Cloak=====
+{{learnlist/tutorh/7|Wormadam|Bug|Grass|4}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Wormadam|Bug|Grass|4}}
+
+=====Sandy Cloak=====
+{{learnlist/tutorh/7|Wormadam|Bug|Ground|4}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Wormadam|Bug|Ground|4}}
+
+=====Trash Cloak=====
+{{learnlist/tutorh/7|Wormadam|Bug|Steel|4}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Wormadam|Bug|Steel|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Wormadam|Bug|Grass|4}}
+{{Learnlist/prevo7null}}
+{{learnlist/prevof/7|Wormadam|Bug|Grass|4}}
+
+===Side game data===
+{{Spindata/Head|type=Bug|type2=Grass}}
+{{Spindata/MDTDS|col=6|type=Bug|ndex=413
+|body=1
+|rate=8.2
+|IQ=E
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=2
+|def=4
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=2
+|def=4
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Bug|ndex=413
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Bug|ndex=413|num=623
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Stabilize
+|skilldesc=Sometimes erases one of the foe's disruptions on the board.
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=413G|stype=Ground|num=623
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Eject+
+|skilldesc=Sometimes removes three non-Support Pokémon icons.
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Bug|ndex=413S|stype=Steel|num=623
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Barrier Bash+
+|skilldesc=Sometimes removes three barrier-type disruptions.
+}}
+|}
+
+===Evolution===
+====Plant Cloak====
+{{evobox
+|family=Normal
+|sprite1=412Burmy-Plant
+|name1=Burmy
+|form1=Plant Cloak
+|type1-1=Bug
+|evotype1=Level
+|level1=20
+|gender1=female
+|sprite2=413Wormadam-Plant
+|name2=Wormadam
+|form2=Plant Cloak
+|type1-2=Bug
+|type2-2=Grass}}
+
+====Sandy Cloak====
+{{evobox
+|family=Normal
+|sprite1=412Burmy-Sandy
+|name1=Burmy
+|form1=Sandy Cloak
+|type1-1=Bug
+|evotype1=Level
+|level1=20
+|gender1=female
+|sprite2=413Wormadam-Sandy
+|name2=Wormadam
+|form2=Sandy Cloak
+|type1-2=Bug
+|type2-2=Ground}}
+
+====Trash Cloak====
+{{evobox
+|family=Normal
+|sprite1=412Burmy-Trash
+|name1=Burmy
+|form1=Trash Cloak
+|type1-1=Bug
+|evotype1=Level
+|level1=20
+|gender1=female
+|sprite2=413Wormadam-Trash
+|name2=Wormadam
+|form2=Trash Cloak
+|type1-2=Bug
+|type2-2=Steel}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug|type2=Grass}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/3Forms|ndex=413|form1=G|form2=S}}
+{{Spritebox/5/3Forms|ndex=413|form1=G|form2=S}}
+{{Spritebox/6/3Forms|ndex=413|form1=G|form2=S}}
+{{Spritebox/7/3Forms|ndex=413|form1=G|form2=S}}
+{{Spritebox/Footer|413|Wormadam}}
+
+==Trivia==
+[[File:School Kid Ann Sandy Wormadam Leaf Storm BW.png|frame|Sandy Cloak Wormadam using Leaf Storm in {{v2|Black and White|s}}]]
+* Wormadam is the only Pokémon with [[List of Pokémon with form differences|forms]] of different types that cannot switch between its forms.
+* Wormadam and its {{p|Burmy|pre-evolution}} share their {{pkmn|category}} with {{p|Pineco}} and {{p|Forretress}}. They are all known as the Bagworm Pokémon.
+* Wormadam and {{p|Mothim}} are the only Pokémon with a base stat total of 424.
+* In {{game|Black and White|s}}, School Kid Ann on {{rt|12|Unova}} has a Sandy Cloak Wormadam that knows {{m|Leaf Storm}}, a move that Sandy Cloak Wormadam [[Game move errors|cannot learn by any means]]; it is instead learned by Plant Cloak Wormadam.
+* Prior to Generation VI, Wormadam's body style was [[File:Body02.png]].
+* Prior to Generation VII, all Wormadam forms were classified by Pokédex color sorting as gray.
+===Origin===
+Wormadam is based on an adult female {{wp|bagworm}}, which never develops wings.
+
+====Name origin====
+Wormadam is a combination of ''{{wp|bagworm}}'' and ''madam'' (indicating its exclusively female nature).
+
+Minomadam is a combination of 蓑虫 ''minomushi'' (bagworm) and ''madam''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=grass
+|ja=ミノマダム ''Minomadam''|jameaning=From 蓑虫 ''minomushi'' (bagworm) and madam
+|de=Burmadame|demeaning=From ''{{p|Burmy}}'' and ''madame''
+|fr=Cheniselle|frmeaning=From ''{{tt|chenille|caterpillar}}'' and ''{{tt|demoiselle|damsel}}''
+|es=Wormadam|esmeaning=Same as English name
+|it=Wormadam|itmeaning=Same as English name
+|ko=도롱마담 ''Dorongmadam''|komeaning=From {{tt|도롱이벌레 ''dorong'i-beollae''|bagworm}} and ''madame''
+|zh_cmn=結草貴婦 ''Jié Cǎo Guì Fù''|zh_cmnmeaning=Combination of {{tt|結草蟲 ''Jié​cǎochóng''|bagworm}} and {{tt|貴婦|madam}}. Literally "Weaved grass madam".
+}}
+<br clear="left">
+{| style="float:left"
+|-
+| style="vertical-align:top" |
+''Plant Cloak''
+{{langtable
+|color={{bug color}}|bordercolor={{grass color}}
+|ja=くさきのミノ ''Plant Coat''
+|zh_cmn=草木蓑衣 ''{{tt|Cǎomù Suōyī|Plant Coat}}''
+|fr=Cape Plante
+|de=Pflanzenumhang
+|it=Manto Pianta
+|ko=초목도롱 ''Plant Coat''
+|pt_br=Manto Vegetal
+|es=Tronco Planta}}
+| style="vertical-align:top" |
+''Sandy Cloak''
+{{langtable
+|color={{bug color}}|bordercolor={{ground color}}
+|ja=すなちのミノ ''Sand Coat''
+|zh_cmn=沙土蓑衣 ''{{tt|Shātǔ Suōyī|Sand Coat}}
+|fr=Cape Sable
+|de=Sandumhang
+|it=Manto Sabbia
+|ko=모래땅도롱 ''Sand Coat''
+|pt_br=Manto Arenoso
+|es=Tronco Arena}}
+| style="vertical-align:top" |
+''Trash Cloak''
+{{langtable
+|color={{bug color}}|bordercolor={{steel color}}
+|ja=ゴミのミノ ''Trash Coat''
+|zh_cmn=垃圾蓑衣 ''{{tt|Lèsè Suōyī|Trash Coat}}
+|fr=Cape Déchet
+|de=Lumpenumhang
+|it=Manto Scarti
+|ko=슈레도롱 ''Trash Coat''
+|pt_br=Manto de Lixo
+|es=Tronco Basura}}
+|}{{-}}
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Bug|type2=Grass}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=412|prev=Burmy|nextnum=414|next=Mothim}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:F.E.A.R.-compatible Pokémon]]
+[[Category:Body style 02 Pokémon]]<!--Prior to Gen VI-->
+[[Category:Brown-colored Pokémon]]<!--Sandy Cloak-->
+[[Category:Red-colored Pokémon]]<!--Trash Cloak-->
+
+[[de:Burmadame]]
+[[fr:Cheniselle]]
+[[it:Wormadam]]
+[[ja:ミノマダム]]
+[[pl:Wormadam]]
+[[zh:结草贵妇]]

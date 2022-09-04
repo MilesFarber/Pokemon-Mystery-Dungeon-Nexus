@@ -1,0 +1,488 @@
+{{PokémonPrevNext/Head|type=Fighting|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Meditite}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=306|prev=Aggron|nextnum=308|next=Medicham|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Meditite
+|jname=アサナン
+|tmname=Asanan
+|ndex=307
+|hdex=076
+|hdex6=078
+|fbrow=085
+|sdex=086
+|karea=Central
+|kdex=143
+|typebox=1
+|type1=Fighting
+|type2=Psychic
+|category=Meditate
+|height-ftin=2'00"
+|height-m=0.6
+|weight-lbs=24.7
+|weight-kg=11.2
+|abilityn=d
+|ability1=Pure Power
+|abilityd=Telepathy
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=20
+|evtotal=1
+|evsp=1
+|expyield=56
+|oldexp=91
+|lv100exp=1,000,000
+|gendercode=127
+|color=Blue
+|catchrate=180
+|body=12
+|pokefordex=meditite
+|generation=3
+|friendship=70
+}}
+'''Meditite''' ([[List of Japanese Pokémon names|Japanese]]: '''アサナン''' ''Asanan'') is a dual-type {{2t|Fighting|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+It [[Evolution|evolve]]s into {{p|Medicham}} starting at [[level]] 37.
+
+==Biology==
+Meditite is a humanoid, bipedal Pokémon that resembles a person meditating. It usually sits in a yoga position, with knees bent and feet together with its hands resting on its knees. Its lower body is blue, with white on the wrists, feet, and lower body. Its onion-shaped head is also white with large eyes and pink ovals on its cheeks. It has round, swirled ears on the sides of its head. These ears are higher up on a male than on a female.
+
+Meditite heightens its inner energy and spiritual power through the meditation, which allows it to levitate. It trains hours a day, and never skips its daily yoga training. Its training never ends, since it loses concentration and focus while meditating. It eats one berry per day as part of training, which tempers its spirit and makes its senses sharper. It lives and trains on the {{DL|List of Pokémon by habitat|Mountain Pokémon|mountains.}}
+
+==In the anime==
+[[File:Maylene Meditite.png|thumb|220px|left|Meditite in the {{pkmn|anime}}]]
+===Major appearances===
+Meditite debuted in ''[[AG030|A Meditite Fight]]'', under the ownership of {{ho|Shauna}}.
+
+In ''[[M09|Pokémon Ranger and the Temple of the Sea]]'', Meditite and its evolved form, {{p|Medicham}}, worked for [[Lizabeth]] and her family. The two Meditation Pokémon used {{m|Psychic}} to make balls of water retain their form.
+
+In ''[[DP066|Lost Leader Strategy!]]'', it was revealed that [[Maylene]] used a Meditite in her Gym battle with [[Paul]], but it was defeated by {{TP|Paul|Honchkrow}}. Her Meditite appeared again in ''[[DP067|Crossing the Battle Line!]]'', where it was used in a battle with {{an|Dawn}}. It battled against her {{TP|Dawn|Buneary}} and won, then it battled against her {{TP|Dawn|Ambipom}}, where it lost. Meditite was then used to battle Ash in ''[[DP068|A Triple Fighting Chance!]]'', where it managed to confuse his {{AP|Chimchar}} and {{AP|Staravia}} before losing to the latter.
+
+===Minor appearances===
+A Meditite appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+
+A Meditite is seen at the beach in ''[[AG162|Spontaneous Combusken!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG030|Meditite|May's Pokédex|Meditite, the Meditation Pokémon. Meditite {{m|Meditate|Meditates}} in order to build up its mental energy. It is said that it eats only one [[Berry]] a day.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP067|Meditite|Dawn's Pokédex|Meditite, the Meditate Pokémon. Meditite uses meditation to increase its power, never skipping a single day of yoga training.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Maylene Meditite Adventures.png|thumb|100px|Meditite in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A Meditite is seen in a flashback being defeated by [[Wallace#Clamperl|Wallace's Clamperl]] during the Pokemon League in ''[[PS251|The Beginning of the End with Kyogre & Groudon XIII]]''.
+
+In ''[[PS356|Magnificent Meditite & Really Riolu I]]'', [[Maylene]] has a Meditite that handily defeated {{adv|Pearl}}'s [[Chatler|Chatot]], who {{adv|Platinum}} borrowed so she could battle her.
+
+A Trainer's Meditite appeared in ''[[PS421|Clobbering Claydol]]''.
+
+==In the TCG==
+{{main|Meditite (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Fighting|type2=Psychic}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Meditite undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this Pokémon always loses its concentration and focus. As a result, its training never ends.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Meditite heightens its inner energy through meditation. It survives on just one [[berry]] a day. Minimal eating is another aspect of this Pokémon's training.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It continually meditates for hours every day. As a result of rigorous and dedicated yoga training, it has tempered its spiritual power so much it can fly.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It never skips its daily yoga training. It heightens its inner strength through meditation.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper.}}
+{{Dex/Entry1|v=Pearl|entry=It never misses its daily yoga workouts, and it heightens its spiritual power through meditation.}}
+{{Dex/Entry1|v=Platinum|entry=It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It meditates to heighten its inner energy and to float in the air. It eats one berry a day.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.}}
+{{Dex/Entry1|v=Y|entry=It eats just one berry a day. By enduring hunger, its spirit is tempered and made sharper.}}
+{{Dex/Entry1|t=FFF|v=Omega Ruby|entry=Meditite undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this Pokémon always loses its concentration and focus. As a result, its training never ends.}}
+{{Dex/Entry1|t=FFF|v=Alpha Sapphire|entry=Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pokémon’s training.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Fighting|type2=Psychic}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Mt. Pyre]], {{ho|Victory Road}}}}
+{{Availability/Entry1/None|v=Emerald|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=Colosseum|area=[[Pyrite Cave]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Trade]] {{p|Trapinch}} to [[Duking]] in [[Pyrite Town]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Route]]s {{rtn|208|Sinnoh}}, {{rtn|210|Sinnoh}}, {{rtn|211|Sinnoh}}, {{rtn|216|Sinnoh}}, and {{rtn|217|Sinnoh}}, [[Acuity Lakefront]], [[Mt. Coronet]]}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|210|Sinnoh}}, {{rtn|211|Sinnoh}}, {{rtn|216|Sinnoh}}, and {{rtn|217|Sinnoh}}, [[Acuity Lakefront]], [[Mt. Coronet]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{safari|Johto}}<br>[[Sprout Tower]], [[Bell Tower]], [[Burned Tower]] {{color2|{{sinnoh color dark}}|Sinnoh Sound|(Sinnoh Sound)}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|mountain}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Mountain}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Volcano Path}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area={{pkmn|breeding|Breed}} {{p|Medicham}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Spooky Manor}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Connecting Cave]], [[Friend Safari]] ([[Friend Safari#Fighting-type Safari|Fighting]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Mt. Pyre]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{pkmn|breeding|Breed}} {{p|Medicham}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Fighting|type2=Psychic}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Safari Zone ({{color2|{{ruby color}}|Ruby Field}})}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area={{PM|5|Phobos Walker}}, Endless Level 23, Forever Level 23, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Mt. Steel]] (5F-8F), [[Buried Relic]] (17F-22F), [[Wish Cave]] (11F-14F), [[Solar Cave]] (4F-8F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Waterworks]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mt. Travail]] (1F-19F), [[Lost Wilderness]] (B1-B17), [[Final Maze]] (B1-B48)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mt. Travail]] (1F-19F), [[Lost Wilderness]] (B1F-B17F), [[Final Maze]] (B1-B48)}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Lava Zone]], [[Flower Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Canyon: [[Sunny Seashore]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Grab and Go!|Adventure Area: Grab and Go!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Infinite Ruins#Stage 2|Infinite Ruins: Stage 2]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Albens Town|Albens Town: Stage 221]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Sky Crest Range|Legend Terrain: Sky Crest Range]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Fighting|type2=Psychic}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Fifth Campaign Meditite|Japanese|Japan|10|March 21 to April 9, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Meditite}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Fighting|type2=Psychic
+|colo1=TwistedSpoon|colo1type=None|colo1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Fighting
+|type2=Psychic
+|HP=     30
+|Attack= 40
+|Defense=55
+|SpAtk=  40
+|SpDef=  55
+|Speed=  60}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Fighting
+|type2=Psychic
+|Speed=2
+|SpeedMax=2
+|Power=2
+|PowerMax=2
+|Technique=5
+|TechniqueMax=5
+|Stamina=2
+|StaminaMax=3
+|Jump=2
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Fighting
+|type2=Psychic
+|Normal=  100
+|Fighting= 50
+|Flying=  200
+|Poison=  100
+|Ground=  100
+|Rock=     50
+|Bug=     100
+|Ghost=   200
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   200}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Meditite|Fighting|Psychic|3}}
+{{learnlist/level7|1|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/level7|4|Meditate|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|7|Confusion|Psychic|Special|50|100|25||'''}}
+{{learnlist/level7|9|Detect|Fighting|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|12|Endure|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|15|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level7|17|Force Palm|Fighting|Physical|60|100|10||'''}}
+{{learnlist/level7|20|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/level7|23|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|25|Mind Reader|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|28|High Jump Kick|Fighting|Physical|130|90|10||'''}}
+{{learnlist/level7|31|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|33|Acupressure|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|36|Power Trick|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|39|Reversal|Fighting|Physical|&mdash;|100|15||'''}}
+{{learnlist/level7|41|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|44|Counter|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/levelf/7|Meditite|Fighting|Psychic|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Meditite|Fighting|Psychic|3}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||'''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM47|Low Sweep|Fighting|Physical|65|100|20||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Meditite|Fighting|Psychic|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Meditite|Fighting|Psychic|3}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}|Baton Pass|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|675|Pangoro}}|Bullet Punch|Steel|Physical|40|100|30}}
+{{learnlist/breed7|{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Drain Punch|Fighting|Physical|75|100|10||'''}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|532|Timburr}}{{MSP|533|Gurdurr}}{{MSP|534|Conkeldurr}}|Dynamic Punch|Fighting|Physical|100|50|5||'''}}
+{{learnlist/breed7|{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}{{MSP|302|Sableye}}{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|126|Magmar}}{{MSP|467|Magmortar}}{{MSP|308|Medicham}}{{MSP|466|Electivire}}|Fire Punch|Fire|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|106|Hitmonlee}}{{MSP|302|Sableye}}{{MSP|427|Buneary}}<br>{{MSP|428|Lopunny}}{{MSP|448|Lucario}}|Foresight|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}|Guard Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|308|Medicham}}|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|122|Mr. Mime}}|Power Swap|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}|Psycho Cut|Psychic|Physical|70|100|20||'''}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}{{MSP|448|Lucario}}{{MSP|539|Sawk}}{{MSP|619|Mienfoo}}|Quick Guard|Fighting|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|063|Abra}}{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}<br>{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|106|Hitmonlee}}{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}<br>{{MSP|125|Electabuzz}}{{MSP|466|Electivire}}{{MSP|126|Magmar}}{{MSP|467|Magmortar}}{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}<br>{{MSP|302|Sableye}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|313|Volbeat}}{{MSP|327|Spinda}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}<br>{{MSP|448|Lucario}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}{{MSP|532|Timburr}}{{MSP|533|Gurdurr}}{{MSP|534|Conkeldurr}}<br>{{MSP|538|Throh}}{{MSP|539|Sawk}}{{MSP|574|Gothita}}{{MSP|575|Gothorita}}{{MSP|576|Gothitelle}}{{MSP|605|Elgyem}}<br>{{MSP|606|Beheeyem}}{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}{{MSP|624|Pawniard}}{{MSP|625|Bisharp}}{{MSP|674|Pancham}}<br>{{MSP|675|Pangoro}}{{MSP|701|Hawlucha}}|Secret Power|Normal|Physical|70|100|20|‡}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|125|Electabuzz}}{{MSP|466|Electivire}}{{MSP|308|Medicham}}{{MSP|467|Magmortar}}|Thunder Punch|Electric|Physical|75|100|15}}
+{{learnlist/breedf/7|Meditite|Fighting|Psychic|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Meditite|Fighting|Psychic|3}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20||'''|no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20||'''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Pain Split|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Meditite|Fighting|Psychic|3}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg fighting color light}}; border: 3px solid #{{tcg fighting color}}"
+|-
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Cross Chop}}
+| style="background:#fff; {{roundybr|5px}}" | [[Meditite (EX Power Keepers 55)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Fighting|type2=Psychic}}
+{{Spindata/PinballRS|col=3|type=Fighting|ndex=307|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Fighting|ndex=307|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Fighting|ndex=307
+|body=1
+|rate=5.5
+|area=Mt. Discipline
+|P1=Nothing can best a serene heart in battle!
+|P2=I'm afraid my health has eroded to half its peak.
+|P3=I fear the worst... Even meditation will not help soon enough...
+|PL=Yes! I've leveled up! The power of yoga is amplified within!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Fighting|ndex=307
+|body=1
+|rate=5.5
+|IQ=C
+}}
+|-
+{{Spindata/Ranger|col=6|type=Fighting
+|group=Psychic
+|assist=Fighting
+|fieldpower=1
+|field=Crush
+|loop=4
+|MinEXP=22
+|MaxEXP=36
+|browser=Meditite {{m|Force Palm|slaps}} things with its tiny hands. It can break through weakened walls.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Fighting
+|att=1
+|def=2
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Fighting|ndex=307
+|Pad=Meditite often trains in the [[Lava Zone]]. He works for the Zone Keeper. He challenged you with a Quiz, remember?
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Fighting|ndex=307
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Fighting|ndex=307|num=313
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Astonish
+|skilldesc=Delays your opponent's disruptions.
+}}
+|-
+{{Spindata/GO|col=6|type=Fighting|ndex=307
+|buddy=3
+|evocandy=50
+|stamina=60
+|attack=78
+|defense=107
+|fast={{m|Confusion}}, {{m|Rock Smash}}
+|special={{m|Ice Punch}}, {{m|Psyshock}}, {{m|Low Sweep}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Fighting
+|type2=Psychic
+|pictype=art
+|no1=307
+|name1=Meditite
+|type1-1=Fighting
+|type2-1=Psychic
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 37}}
+|no2=308
+|name2=Medicham
+|type1-2=Fighting
+|type2-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Fighting|type2=Psychic}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=307}}
+{{Spritebox/4/Gender|ndex=307}}
+{{Spritebox/5/Gender|ndex=307}}
+{{Spritebox/6/Gender|ndex=307}}
+{{Spritebox/7/Gender|ndex=307}}
+{{Spritebox/Footer|307|Meditite}}
+
+==Trivia==
+* In {{game|HeartGold and SoulSilver|s}}, Meditite is obtainable via the [[Sinnoh Sound]] even though it was introduced in [[Generation III]]. However, it appears in the [[List of Pokémon by Sinnoh Pokédex number|Sinnoh Pokédex]].
+* It is one of the few Pokémon that uses its in-game female sprite for its official artwork.
+** However, it was introduced before gender differences.
+* Meditite has the lowest base {{stat|HP}} and {{stat|Attack}} of all {{type|Fighting}} Pokémon.
+
+===Origin===
+It resembles a {{wp|primate}} of some sort. It appears to have been based on a practitioner of {{wp|yoga}} and is {{wp|meditation|meditating}} in almost all of the media it appears in. Its yoga position in its artwork and sprites is the {{wp|Lotus position|Lotus}}, where one crosses his/her legs and places their feet on the opposing thighs. This position supposedly holds the mind completely steady for long periods of time and calms it, heightening the user's senses. Its hat somewhat resembles a {{wp|turban}} and may also be the caps worn by many depictions of {{wp|Hindu deities}}, such as {{wp|Shiva|Shiva}}, who are commonly seen meditating.
+
+====Name origin====
+Meditite may be a combination of the corruptions of ''meditate'' and possibly ''petite'' or ''tyke''. It may also involve a corruption of ''tight'', as in the phrase, "Tight focus."
+
+Asanan may be a corruption of ''{{wp|asana}}'', which in yoga refers to a pose or posture, and 軟 ''nan'' (soft or flexible).
+
+==In other languages==
+{{Other languages|type=Fighting|type2=Psychic
+|ja=アサナン ''Asanan''|jameaning=From ''{{wp|asana}}'' and {{tt|軟 ''nan''|soft or flexible}}
+|fr=Méditikka|frmeaning=From ''{{tt|méditer|to meditate}}'' and possibly ''{{tt|karateka|karate practitioner}}''
+|es=Meditite|esmeaning=Same as English name
+|de=Meditie|demeaning=From ''{{tt|meditieren|to meditate}}''
+|it=Meditite|itmeaning=Same as English name
+|ko=요가랑 ''Yogarang''|komeaning=From ''yoga''
+|zh_cmn=瑪沙那 / 玛沙那 ''Mǎshānà''|zh_cmnmeaning=Rough transliteration of its Japanese name
+|hi=मेडिटाइट ''Meditite''|himeaning=Transcription of English name
+|ru=Медитайт ''Meditayt''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Fighting|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Fighting|prevnum=306|prev=Aggron|nextnum=308|next=Medicham}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+
+[[de:Meditie]]
+[[fr:Méditikka]]
+[[it:Meditite]]
+[[ja:アサナン]]
+[[pl:Meditite]]
+[[zh:玛沙那]]

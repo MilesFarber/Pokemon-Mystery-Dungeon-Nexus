@@ -1,0 +1,508 @@
+{{PokémonPrevNext/Head|type=Electric|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=641|prev=Tornadus|nextnum=643|next=Reshiram|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Thundurus}}
+|}
+{{Pokémon Infobox
+|name=Thundurus
+|jname=ボルトロス
+|jtranslit=Borutorosu
+|tmname=Voltolos
+|forme=2
+|form1=Incarnate Forme
+|form2=Therian Forme
+|image2=642Thundurus-Therian.png
+|category=Bolt Strike
+|type1=Electric
+|type2=Flying
+|abilityn=2d
+|abilitylayout=2+1
+|ability1=Prankster
+|ability2-1=Volt Absorb
+|abilityd=Defiant
+|abilitydcaption=Incarnate Forme
+|ndex=642
+|udex=148
+|u2dex=199
+|height-ftin=4'11"
+|height-ftin2=9'10"
+|height-m=1.5
+|height-m2=3.0
+|weight-lbs=134.5
+|weight-lbs2=134.5
+|weight-kg=61.0
+|weight-kg2=61.0
+|egggroupn=0
+|egggroup1=Undiscovered
+|eggcycles=120
+|expyield=261
+|lv100exp=1,250,000
+|gendercode=0
+|color=Blue
+|evforms=2
+|evtotal=3
+|evat=3
+|evsa2=3
+|catchrate=3
+|body=04
+|body2=06
+|pokefordex=thundurus
+|generation=5
+|friendship=90
+}}
+'''Thundurus''' ([[List of Japanese Pokémon names|Japanese]]: '''ボルトロス''' ''Voltolos'') is a dual-type {{2t|Electric|Flying}} [[Legendary Pokémon]] introduced in [[Generation V]].
+
+While it is not known to [[Evolution|evolve]] into or from any Pokémon, it has a [[List of Pokémon with form differences#Forces of Nature|second Forme]] activated by using the [[Reveal Glass]]. Its original Forme, '''Incarnate Forme''', will then become '''Therian Forme'''.
+
+Its Therian Forme was officially revealed May 12, 2012.
+
+Along with {{p|Tornadus}} and {{p|Landorus}}, it is a part of the [[Forces of Nature]].
+
+==Biology==
+In Incarnate Forme, Thundurus is a blue, muscular humanoid Pokémon, which resembles a genie. It is a male-only species with no female counterpart. On its head is a single, long, sharp, purple horn. Thundurus has white, zigzagging and jutting styled hair, a spiky white mustache and two pointed blue ears on either side of its head. Its eyes are yellow with beady white irises and no visible pupils. The front of Thundurus's body is covered in various, irregularly shaped purple spots. Its broad chest consists of two joined, purple, rounded-diamond shaped pectorals and its shoulders, elbows and navel are adorned with raindrop like designs. It has two spotted muscular arms, with five fingers on each hand. Its lower body consists of a trailing cloud, with a thick, long, curling, purple, cable-like tail. Spanning the length of its tail, Thundurus has several ball-like structures. They are a dark grey color, and each has a long, sharp spike on one side.
+
+In Therian Forme, Thundurus is a large, blue, sleek, bipedal snake or dragon-like Pokémon. The horn on its head is now thicker and extends out more, while its ears become more pointy and pinned back. Thundurus's hair remains the same; the mustache now takes on a more raised snout and fanged-maw-like appearance, with two curving wisps flowing back and past its ears. Its eyes remain yellow, but with larger irises which still lack visible pupils. its chest remains broad and unchanged, while its navel is bejeweled with a blue gem. Thundurus's arms have lost much of their muscular bulk, and are now slimmer. It has two paw-like hands, each covered in a trailing cloud-like fluff and with three claw-tipped fingers. Thundurus's purple lower half is much smaller than its upper body, and consist of two hind-legs and its tail. Its feet are elongated, with three downward curved toes and claws. Thundurus's tail also remains largely unchanged, although it is thicker at the base and tapers off and becomes thinner toward the tip.
+
+Thundurus can shoot thunderbolts from its tail.
+
+==In the anime==
+[[File:Thundurus anime.png|thumb|left|250px|Incarnate Forme Thundurus in the {{pkmn|anime}}]]
+[[File:Thundurus Therian anime.png|thumb|left|250px|Therian Forme Thundurus in the {{pkmn|anime}}]]
+===Major appearances===
+===={{DL|Forces of Nature (anime)|Thundurus|Thundurus (anime)}}====
+Thundurus made his main series debut in ''[[BW059|Stopping the Rage of Legends! Part 1]]'' and ''[[BW060|Stopping the Rage of Legends! Part 2]]''. It appeared on [[Milos Island]] after {{TRT}} destroyed its shrine, then began fighting with {{p|Tornadus}}. Later, when {{p|Landorus}} tried to stop them, they fought Landorus together, even after [[Jessie]], [[James]], {{MTR}} and [[Dr. Zager]] tried to capture them.
+
+Thundurus appeared in both of his Formes in ''[[BW097|Unova's Survival Crisis!]]'', where he was summoned to the [[Abyssal Ruins]] by {{an|Giovanni}} and sent on a rampage alongside Tornadus and Landorus. Eventually, the three were freed by {{an|Meloetta}} and departed.
+
+===Minor appearances===
+Thundurus debuted in a cameo appearance during the ending credits of ''[[M14|Black—Victini and Reshiram]]'', where he created a thunderstorm that {{Ash}} and {{ashfr}} encountered.
+{{-}}
+
+==In the manga==
+[[File:Team Plasma Thundurus Adventures.png|thumb|200px|Incarnate Forme Thundurus in [[Pokémon Adventures]]]]
+[[File:Team Plasma Thundurus Therian Forme Adventures.png|thumb|200px|left|Therian Forme Thundurus in Pokémon Adventures]]
+===In the Pokémon Adventures manga===
+{{main|Forces of Nature (Adventures)}}
+Thundurus made his first appearance in [[Nimbasa City]], where he shocked {{adv|Black}} after the Nimbasa Gym's roller coaster was sabotaged and forced him to the Gym's roof. Later, Thundurus got in a battle with Tornadus near the [[Battle Subway]]. After being stopped by Landorus, the three were captured by [[Giallo]] for Team Plasma to use. Later they were used by the [[Shadow Triad]] against the Gym Leaders. These Pokémon were than given to Hood Man ([[Colress]]) to experiment how to change them to their alternate forms. He first appeared in ''[[PS484|Battle on a Roller Coaster]]''.
+{{-}}
+
+==In the TCG==
+{{main|Thundurus (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=electric|type2=flying}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Countless charred remains mar the landscape of places through which Thundurus has passed.}}
+{{Dex/Entry1|v=White|entry=The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.}}
+{{Dex/Entry1|v=Y|entry=As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=electric|type2=flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=White|area={{pkmn2|Roaming}} [[Unova]] ([[List of in-game event Pokémon in Generation V#Thundurus|Only one]])}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Unova Link|Transfer]] from {{pkmn|Dream Radar}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry1/None|v=Omega Ruby}}
+{{Availability/Entry1|v=Alpha Sapphire|t=FFF|area=[[Soaring in the sky]] with {{p|Castform}} in party ([[List of in-game event Pokémon in Generation VI#Thundurus|Only one]])}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry1/None|v=Ultra Sun}}
+{{Availability/Entry1|v=Ultra Moon|area=[[Ultra Space Wilds]] ({{DL|Ultra Space Wilds|Cliff World}}) ([[List of in-game event Pokémon in Generation VII#Thundurus|Only one]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+[[File:PP2 Thundurus.png|thumb|right|200px|Thundurus in [[PokéPark 2: Wonders Beyond]]]]
+{{Availability/Header|type=Electric|type2=Flying}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Autumnwood: [[Firebreathing Mountain]] ([[Pokémon Rumble Blast#Legendary Boss Pokémon|Random Legendary Encounter]]{{tt|*|Encounter it three times}})}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Eastern Savanna]] (Mapless Street), [[Rusty Mountain]] (Golden Chamber), [[Jaws of the Abyss]] (Golden Chamber), [[Smoking Mountain]] (Golden Chamber)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Entranceway#Battle Royale - Cage Match|Entranceway: Battle Royale - Cage Match]] <small>(Reward)</small>,<br>[[Challenge Battle#Open Entry Battle Royale|Challenge Battle: Open Entry Battle Royale]] <small>(Unova Boss)</small>,<br>[[Challenge Battle#The Final Battle Royale|Challenge Battle: The Final Battle Royale]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 5|Sacred Plains: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#A Great Chance a Day!|A Great Chance a Day!]]'' <small>(Incarnate Forme)</small><br>Event: ''[[Special Stages#High-Speed Challenge|Thundurus Appears]]'' <small>(Therian Forme)</small><br>Event: ''[[Special Stages#Great Daily (Third release)|Great Daily Pokémon]]'' <small>(Third release; Therian Forme)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[White Ruins (Rumble World)#Rumbling Hall|White Ruins: Rumbling Hall]] <small>(Special Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 29|Area 29: Stage 10]] <small>(Therian Forme only)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Electric|type2=Flying}}
+{{eventAvail|{{gameabbrev5|B}}|Milos Island Thundurus|Japanese|Japan<br>Wi-Fi|70|December 16, 2011 to January 10, 2012|link=List of Wi-Fi Japanese event Pokémon distributions in Generation V#Thundurus}}
+{{eventAvail|{{gameabbrev5|B}}|Milos Island Thundurus|Korean|Wi-Fi|70|May 14 to July 5, 2012|link=List of Wi-Fi Korean event Pokémon distributions in Generation V#Thundurus}}
+|}
+
+===Held items===
+{{HeldItems|type=electric|type2=flying
+|event1=Revival Herb|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+=====Incarnate Forme=====
+{{BaseStats
+|type=Electric
+|type2=Flying
+|HP=79
+|Attack=115
+|Defense=70
+|SpAtk=125
+|SpDef=80
+|Speed=111 }}
+
+=====Therian Forme=====
+{{BaseStats
+|type=Electric
+|type2=Flying
+|HP=79
+|Attack=105
+|Defense=70
+|SpAtk=145
+|SpDef=80
+|Speed=101 }}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Electric
+|type2=Flying
+|Normal= 100
+|Fighting= 50
+|Flying= 50
+|Poison= 100
+|Ground= 0
+|Rock= 200
+|Bug= 50
+|Ghost= 100
+|Steel= 50
+|Fire= 100
+|Water= 100
+|Grass= 50
+|Electric= 100
+|Psychic= 100
+|Ice= 200
+|Dragon= 100
+|Dark= 100
+|Fairy = 100
+|notes=yes
+|flying=ironball
+|newground=2
+|voltabsorb=maybe
+|newelectric=0
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Thundurus|Electric|Flying|5}}
+{{learnlist/level7|1|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|1|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/level7|1|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Uproar|Normal|Special|90|100|10}}
+{{learnlist/level7|1|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/level7|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level7|1|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/level7|7|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|13|Revenge|Fighting|Physical|60|100|10}}
+{{learnlist/level7|19|Shock Wave|Electric|Special|60|&mdash;|20||'''}}
+{{learnlist/level7|25|Heal Block|Psychic|Status|&mdash;|100|15}}
+{{learnlist/level7|31|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|37|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level7|43|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|49|Charge|Electric|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|55|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|61|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/level7|67|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/level7|73|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/level7|79|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/levelf/7|Thundurus|Electric|Flying|5}}
+
+====By [[TM]]/[[HM]]====
+=====Incarnate Forme=====
+{{learnlist/tmh/7|Thundurus|Electric|Flying|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM58|Sky Drop|Flying|Physical|60|100|10||'''}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM67|Smart Strike|Steel|Physical|70|&mdash;|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Thundurus|Electric|Flying|5}}
+
+=====Therian Forme=====
+{{learnlist/tmh/7|Thundurus|Electric|Flying|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM34|Sludge Wave|Poison|Special|95|100|10}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM58|Sky Drop|Flying|Physical|60|100|10||'''}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM63|Embargo|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Thundurus|Electric|Flying|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Thundurus|Electric|Flying|5}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Thundurus|Electric|Flying|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Thundurus|Electric|Flying|5}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutorf/7|Thundurus|Electric|Flying|5}}
+
+===Side game data===
+{{Spindata/Head|type=Electric|type2=Flying}}
+{{Spindata/RumbleBlast|col=6|type=Electric
+|att=5
+|def=3
+|speed=4
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Electric|ndex=642
+|strong=
+|weak=
+|pad=He is {{p|Tornadus}}'s fighting buddy. In the past, they got into a lot of trouble together, and {{p|Landorus}} yelled at them. He lives a quiet life now.
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Electric|ndex=642
+|power=4
+|skill=Flinch Attack
+|skilldesc=Briefly stops wild Pokémon from taking action.
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Electric|ndex=642|num=338
+|min=70
+|max=130
+|raisemaxlevel=15
+|skill=Power of 5+
+|skilldesc=Deals even more damage when you make a match of five.
+|swapper=Relentless
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=642T|num=338
+|min=70
+|max=125
+|raisemaxlevel=10
+|skill=Risk-Taker
+|skilldesc=Increases damage randomly.
+}}
+|}
+
+===Evolution===
+{{evobox/Formes
+|family=None
+|sprite1=642Thundurus
+|name1=Thundurus
+|type1-1=Electric
+|type2-1=Flying
+|forme1=Incarnate Forme
+|item1=Reveal Glass
+|loc1=From the {{color2|000|Pokémon world}}
+|sprite2=642Thundurus-Therian
+|name2=Thundurus
+|type1-2=Electric
+|type2-2=Flying
+|forme2=Therian Forme
+|loc2=From the {{color2|000|Interdream Zone}}
+}}
+
+===Sprites===
+{{Spritebox/Header|type=electric|type2=flying}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5/2Forms/B2W2|ndex=642|form1=T}}
+{{Spritebox/6/2Forms|ndex=642|form1=T}}
+{{Spritebox/7/2Forms|ndex=642|form1=T}}
+{{Spritebox/Footer|642|Thundurus}}
+
+==Trivia==
+* Thundurus and {{p|Tornadus}} have identical base stat distributions in their Incarnate Formes.
+* Thundurus's {{pkmn|category}}, the Bolt Strike Pokémon, shares its name with the move {{m|Bolt Strike}} in both Japanese and English; however, it cannot learn the move, which is {{p|Zekrom}}'s signature move.
+* Thundurus is the only one of the Forces of Nature that has a type advantage over one of them.
+* Prior to Generation VI, Thundurus's Therian Forme had the same [[List of Pokémon by body style|body style]] as its Incarnate Forme.
+
+===Origin===
+In Incarnate Forme, Thundurus may be based on {{wp|Raijin}}, the {{wp|kami}} of thunder and lightning. It may also have drawn inspiration from {{wp|Jinn|genies}}.
+
+In Therian Forme, Thundurus seems to be based on a reptile, most likely a snake or dragon. It may also draw inspiration from the {{wp|Azure Dragon}} and/or {{wp|Black Tortoise}} of the Chinese Four Symbols constellation, or from {{wp|Quetzalcoatl}}, a god from the Aztec mythology that resembles a feathered serpent. It also may be based on the Qiling, a mythical creature from east Asia described to have a horn on its forehead and occasionally associated with lightning.
+
+====Name origin====
+Thundurus is from ''thunderous'' and possibly ''{{wp|Aeolus}}'', ruler of the winds in Greek mythology.
+
+Voltolos is derived from ''volt'' and Αἴολος ''Aiolos'' (Greek name for Aeolus).
+
+==In other languages==
+{{Other languages|type=electric|type2=flying
+|ja=ボルトロス ''Voltolos''|jameaning=From ''volt'' and Αἴολος ''{{wp|Aeolus|Aiolos}}''
+|fr=Fulguris|frmeaning=From ''{{tt|fulgur|Latin for lightning}}''
+|es=Thundurus|esmeaning=Same as English name
+|de=Voltolos|demeaning=From its Japanese name
+|it=Thundurus|itmeaning=Same as English name
+|ko=볼트로스 ''Voltolos''|komeaning=Transliteration of Japanese name
+|zh_cmn=雷電雲 / 雷电云 ''Léidiànyún''|zh_cmnmeaning=Means "Lightning cloud"
+|ru=Тандурус ''Tandurus''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+{| style="float:left"
+|-
+| style="vertical-align:top" |
+''Incarnate Forme''
+{{langtable
+|color={{electric color}}|bordercolor={{flying color dark}}
+|ja=けしんフォルム ''Incarnation Forme''
+|fr=Forme Avatar
+|de=Inkarnationsform
+|it=Forma Incarnazione
+|ko={{tt|화신 폼|Hwasin Pom}} ''Incarnation Forme''
+|pt_br=Forma Materializada
+|es=Forma Avatar
+|vi = Dạng hiện thân
+}}
+| style="vertical-align:top" |
+''Therian Forme''
+{{langtable
+|color={{electric color}}|bordercolor={{flying color dark}}
+|ja=れいじゅうフォルム ''Sacred Beast Forme''
+|zh_cmn=靈獸型態 ''{{tt|Língshòu Xíngtài|Sacred Beast Forme}}''
+|fr=Forme Totémique
+|de=Tiergeistform
+|it=Forma Totem
+|ko={{tt|영물 폼|Yeongmul Pom}} ''Sacred Beast Forme''
+|pt_br=Forma Therian
+|es=Forma Tótem
+|vi = Dạng linh thiêng
+}}
+|}{{-}}
+
+==Related articles==
+* {{DL|Forces of Nature (anime)|Thundurus|Thundurus (anime)}}
+* [[Forces of Nature]]
+* [[Forces of Nature (Adventures)]]
+
+==Notes==
+<references />
+
+==External links==
+
+{{Legendary Pokémon}}
+{{PokémonPrevNext/Head|type=Electric|type2=Flying}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=641|prev=Tornadus|nextnum=643|next=Reshiram}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Body style 06 Pokémon]]<!--Therian Forme; Gen VI+-->
+[[Category:Legendary Pokémon]]
+[[Category:Legendary Pokémon obtainable before the Elite Four]]
+[[Category:Legendary trio Pokémon]]
+[[Category:Unova Legendary Pokémon]]
+
+[[de:Voltolos]]
+[[fr:Fulguris]]
+[[it:Thundurus]]
+[[ja:ボルトロス]]
+[[pl:Thundurus]]
+[[zh:雷电云]]

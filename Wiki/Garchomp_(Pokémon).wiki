@@ -1,0 +1,603 @@
+{{PokémonPrevNext/Head|type=Dragon|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=444|prev=Gabite|nextnum=446|next=Munchlax|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Garchomp}}
+|}
+{{Pokémon Infobox
+|name=Garchomp
+|jname=ガブリアス
+|jtranslit=Gaburiasu
+|tmname=Gaburias
+|forme=2
+|form2=Mega Garchomp
+|image2=445Garchomp-Mega.png
+|mega=Garchompite
+|ndex=445
+|sdex=111
+|adex=240
+|abrow=253
+|obrow=201
+|opbrow=210
+|karea=Mountain
+|kdex=008
+|type1=Dragon
+|type2=Ground
+|category=Mach
+|height-ftin=6'03"
+|height-m=1.9
+|height-ftin2=6'03"
+|height-m2=1.9
+|weight-lbs=209.4
+|weight-kg=95.0
+|weight-lbs2=209.4
+|weight-kg2=95.0
+|abilityn=dm
+|abilitylayout=2+1
+|abilitycolm=2
+|ability1=Sand Veil
+|abilitym=Sand Force
+|abilityd=Rough Skin
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Dragon
+|eggcycles=40
+|evtotal=3
+|evat=3
+|expyield=270
+|oldexp=218
+|lv100exp=1,250,000
+|gendercode=127
+|color=Blue
+|catchrate=45
+|body=06
+|pokefordex=garchomp
+|generation=4
+|friendship=70
+}}
+'''Garchomp''' ([[List of Japanese Pokémon names|Japanese:]] '''ガブリアス''' ''Gaburias'') is a dual-type {{2t|Dragon|Ground}} [[pseudo-legendary Pokémon]] introduced in [[Generation IV]].
+
+It [[Evolution|evolves]] from {{p|Gabite}} starting at [[level]] 48. It is the final form of {{p|Gible}}. It can [[Mega Evolution|Mega Evolve]] into '''Mega Garchomp''' using the [[Garchompite]].
+
+==Biology==
+[[File:Garchomp Gliding.png|thumb|left|200px|Garchomp flying.]]
+Garchomp is a bipedal, draconian Pokémon that is primarily dark blue in color. It has red on its underbelly from the lower jaw to the middle of the abdomen, including the undersides of its arms. A patch of gold comes to a point below the red on its belly, and a golden star shape adorns the tip of its snout. Garchomp has horn-like appendages that resemble a {{wp|jet}} or {{wp|plane}}'s engines, giving it an appearance similar to a {{wp|hammerhead shark}}. These allow it to sense its prey from a long distance. Its large mouth features razor-sharp teeth. The feet have three white talons, and each arm has a single large, white claw for a hand. Curved fins sprout from the arms, creating wings that allow Garchomp to fly. It also has a large dorsal fin and another on its tail that resembles a {{wp|shark}} {{wp|Caudal fin|tailfin}}. The male's dorsal fin has a notch on it. Pairs of small, white spikes protrude from its upper arms and legs, and there are gill-like slits on the sides of the neck. The eyes are intense, with black {{wp|scleras}} and gold-colored irises.
+
+When Garchomp Mega Evolves, it grows in size and several of its features become more angular, including its head and shoulders. A row of five tooth-like spikes sprouts from each side of its abdomen, and red spikes grow from its knees. The claws and fins on its arms melt from the excessive Mega Evolution energy and morph together to form sharp, red blades. In this state, Garchomp is known to become mad with rage, and in its anger, slices the ground to pieces with its scythe-like blades.
+
+Garchomp can {{tt|fly|although it cannot learn the move Fly}} at an incredible speed—helped by the fine scales on its body that reduce drag—to catch its prey. It preys on bird Pokémon, and is known to eat entire flocks of them whole. Garchomp is a cave-dweller and is seldom seen in the wild.
+
+==In the anime==
+[[File:Remo Garchoo.png|thumb|left|250px|Garchomp in the {{pkmn|anime}}]]
+[[File:Sycamore Mega Garchomp.png|thumb|left|250px|Mega Garchomp in the anime]]
+===In the main series===
+====Major appearances====
+=====[[Cynthia's Garchomp]]=====
+[[Cynthia]]'s Garchomp debuted in ''[[DP040|Top-Down Training]]'' and is her main Pokémon. She also briefly appeared in the opening sequence of ''[[M12|Arceus and the Jewel of Life]]'', battling against [[Tower Tycoon Palmer]]'s {{p|Milotic}}.
+
+=====Other=====
+[[Professor Sycamore]] owns a Garchomp that debuted in ''[[XY002|Lumiose City Pursuit!]]''. It was revealed in ''[[XY068|Garchomp's Mega Bond!]]'' that Sycamore has owned Garchomp since she was a Gible. She can Mega Evolve into Mega Garchomp.
+
+A Garchomp that can [[Mega Evolution|Mega Evolve]] into Mega Garchomp appeared in ''[[SS029|Mega Evolution Special I]]'', under the ownership of [[Remo]]. Remo gave Garchomp the [[nickname]] Garchoo. It was seen battling [[Alain's Charizard]] and ultimately losing. Remo's Garchomp later reappeared in ''[[XY127|Analysis Versus Passion!]]'', where it again battled and lost against Alain's Charizard.
+
+{{Ash}} used a Garchomp as a [[Poké Ride|Ride Pokémon]] in [[SM061]].
+
+====Minor appearances====
+A female Garchomp was used by one of the students of [[Pokémon Summer Academy]] in the first leg of the [[Pokémon Triathlon]] in ''[[DP091|One Team, Two Team, Red Team, Blue Team!]]''.
+
+A Garchomp appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Mega Garchomp appeared in the ending credits of ''[[M17|Diancie and the Cocoon of Destruction]]''.
+
+A Garchomp appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+====Pokédex entries====
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP040|Garchomp|Ash's Pokédex|Garchomp, the Mach Pokémon. When it folds up its body and spreads its wings, it can {{m|fly}} like a jet plane at the speed of sound.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+===In Pokémon Generations===
+====[[Cynthia's Garchomp]]====
+[[File:Cynthia Garchomp PG.png|thumb|200px|Garchomp in [[Pokémon Generations]]]]
+Cynthia's Garchomp appeared in ''[[PG11|The New World]]'', where it helped Cynthia stop Team Galactic's plans at [[Spear Pillar]].
+{{-}}
+
+==In the manga==
+[[File:Cynthia Garchomp Adventures.png|thumb|left|200px|Garchomp in [[Pokémon Adventures]]]]
+[[File:Mega Garchomp Adventures.png|thumb|150px|Mega Garchomp in [[Pokémon Adventures]]]]
+===In the Darkrai Mission Story: Pokémon Ranger Vatonage - the Comic manga===
+A Garchomp appeared in ''[[PRV4|Mission Complete]]''.
+
+===In the Phantom Thief Pokémon 7 manga===
+A Garchomp appeared in ''[[P7-09|A World Covered In Darkness]]''.
+
+===In the Pokémon - The Legend of the Dragon King manga===
+{{OBP|Koji|LDK}} was seen with a Garchomp.
+
+===In the Pokémon Adventures manga===
+{{main|Cynthia's Garchomp}}
+Like in the games, [[Cynthia]] has a {{TP|Cynthia|Garchomp|Garchomp#In the manga}} who is her signature Pokémon. She first appeared in ''[[PS347|Ring Around the Roserade II]]''.
+
+A Garchomp that can [[Mega Evolve]] appeared in a fantasy in the {{chap|X & Y}}.
+
+===In the Pokémon Battrio: Aim to be Battrio Master! manga===
+[[Ryū Tendō]] owns a Garchomp.
+
+===In the Pocket Monsters Diamond & Pearl manga===
+A Garchomp appeared in [[PDP11]].
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+{{main|Cynthia's Garchomp}}
+Cynthia and her Garchomp also appeared in {{pkmn|Diamond and Pearl Adventure!}}, helping [[Hareta]] and his {{TP|Hareta|Piplup}} defeat [[B-2]]. It was later seen battling [[Mitsumi]] and her {{p|Infernape}}. She first appeared in ''[[DPA07|Dialga's Secret Keys]]''.
+
+===In the Pocket Monsters Platinum: Aim to Be Battle King!! manga===
+[[Yū Shirogane]] owns a Garchomp.
+
+===In the Pokémon Try Adventure manga===
+[[Toki]] owns a Garchomp nicknamed Kamaru.
+
+==In the TCG==
+{{main|Garchomp (TCG)}}
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U|Super Smash Bros. for Wii U]]===
+Garchomp appears in the background of the {{st|Kalos Pokémon League}} stage when the stage is in the {{DL|Pokémon League (Kalos)|Dragonmark Chamber}}.
+
+====Trophy information====
+'''NA:''' ''Garchomp looks like a plane's engines mixed with a hammerhead shark. There's something about it that we just find so appealing - we have to get one! Garchomp is capable of folding up its body and spreading its wings, letting it move at Mach speed! Garchompite will Mega Evolve Garchomp into Mega Garchomp, increasing its power even more!''
+
+'''PAL:''' ''There's something about Garchomp that appeals to the kid in all of us. It's basically a mach-speed flying dinosaur with spikes. What's not to love? When it folds up its body and extends its wings for flight, you might mistake it for a jet plane. And with a little Garchompite, it can Mega Evolve for extra firepower!''
+
+===[[Pokkén Tournament]]===
+[[File:Pokkén Garchomp.png|220px|thumb|Garchomp in Pokkén Tournament]]
+Garchomp is a Power-type playable character in Pokkén. Moves it can use include {{m|Dragon Claw}}, {{m|Dig}}, {{m|Dragon Rush}}, {{m|Stone Edge}}, {{m|Earthquake}}, and {{m|Sand Tomb}}. Upon entering Burst form, it Mega-Evolves and can use the Burst Attack {{m|Outrage}} Smasher.
+
+==Game data==
+===Pokédex entries===
+====Garchomp====
+{{Dex/Header|type=Dragon|type2=Ground}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.}}
+{{Dex/Entry1|v=Pearl|entry=It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.}}
+{{Dex/Entry1|v=Platinum|entry=It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=Its body is covered in fine scales that reduce drag, enabling it to fly at high speeds.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.}}
+{{Dex/Entry1|v=Y|entry=It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It can fly at speeds rivaling jet planes. It dives into flocks of bird Pokémon and gulps the entire flock down whole.}}
+{{Dex/Entry1|v=Moon|entry=The protuberances on its head serve as sensors. It can even detect distant prey.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It flies at the speed of sound while searching for prey, and it has midair battles with Salamence as the two compete for food.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its fine scales don't just reduce wind resistance—their sharp edges also cause injury to any opponent who attacks it.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Mega Garchomp====
+{{Dex/Header|type=Dragon|type2=Ground}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Excess energy melted its arms and wings, transforming them into giant scythes.}}
+{{Dex/Entry1|v=Moon|entry=Its vaunted wings become scythes, sending it mad with rage. It swings its scythes wildly and slices the ground to pieces.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Its arms and wings melted into something like scythes. Mad with rage, it rampages on and on.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its disposition is more vicious than before its Mega Evolution. Garchomp carves its opponents up with the scythes on both arms.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Dragon|type2=Ground}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Gabite}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Gabite}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Gabite}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|1|v=Black|v2=White}}
+{{Availability/Entry1|2|v=Black 2|t=fff|area=[[Evolution|Evolve]] {{p|Gabite}}}}
+{{Availability/Entry1/None|2|v=White 2}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|1|v=X|v2=Y|t=fff|area=[[Evolution|Evolve]] {{p|Gabite}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Gabite}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Gabite}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Gabite}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Dragon|type2=Ground}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Shimmer Desert]] (3F-8F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Shimmer Desert]] (3F-8F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Hippowdon Temple]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Rocky Cave]]}}
+<!--{{Availability/Entry1|v=MD Blazing|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|area=}}-->
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Granite Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Rand's House]], [[Dark Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Gabite}}}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Unexpected Land|Adventure Area: Unexpected Land]] <small>(Reward)</small>, [[Magical Lake#In Need of Trees|Magical Lake: In Need of Trees]] <small>(Boss)</small>,<br>[[Challenge Battle#Open Entry Battle Royale|Challenge Battle: Open Entry Battle Royale]] <small>(Sinnoh Boss)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Mysterious Fountain#Stage 6|Mysterious Fountain: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#Third release|''Pokémon Safari'']] <small>(Third release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Silver Isles#Foggy Crags|Silver Isles: Foggy Crags]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 17|Area 17: Stage 07]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Language/Region|type=Dragon|type2=Ground}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Strongest Class Single Battle Garchomp|Japanese|Japan|100|September 15 to October 28, 2012|link=List of local Japanese event Pokémon distributions in Generation V#Garchomp}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Strongest Class Pokémon Gift Garchomp|Korean|South Korea|100|February 24 to May 5, 2013|link=List of local Korean event Pokémon distributions in Generation V#Garchomp}}
+{{eventAvail|{{gameabbrev6|XY}}|CoroCoro Garchomp|Japanese region|Japan|48|November 15, 2013 to August 29, 2014|link=List of Japanese region serial code event Pokémon distributions in Generation VI#CoroCoro Garchomp}}
+{{eventAvail|{{gameabbrev6|XY}}|Winter 2013 Garchomp|American region|United States|50|November 27, 2013 to June 30, 2014|link=List of American region serial code event Pokémon distributions in Generation VI#Garchomp}}
+{{eventAvail|{{gameabbrev6|XY}}|XY Garchomp|Taiwanese region|Taiwan|48|January 15 to March 31, 2014|link=List of Taiwanese region serial code event Pokémon distributions in Generation VI#XY Garchomp}}
+{{eventAvail|{{gameabbrev6|XY}}|XY Garchomp|American region|Singapore|48|January 24 to March 31, 2014|link=List of American region serial code event Pokémon distributions in Generation VI#XY Garchomp}}
+{{eventAvail|{{gameabbrev6|XY}}|Spring Carnival Garchomp|All|South Korea|48|April 12 to 19, 2014|link=List of local event Pokémon distributions in Generation VI#Spring Carnival Garchomp}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Cynthia's Garchomp|Japanese region|Online|66|August 2 to September 29, 2016|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Cynthia's Garchomp}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Cynthia's Garchomp|American region|Online|66|August 2 to September 29, 2016|link=List of American region serial code event Pokémon distributions in Generation VI#Cynthia's Garchomp}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Cynthia's Garchomp|PAL region|Online|66|August 2 to September 29, 2016|link=List of PAL region serial code event Pokémon distributions in Generation VI#Cynthia's Garchomp}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Cynthia's Garchomp|Korean region|Online|66|August 2 to September 29, 2016|link=List of Korean region serial code event Pokémon distributions in Generation VI#Cynthia's Garchomp}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Cynthia's Garchomp|Taiwanese region|Online|66|August 2 to September 29, 2016|link=List of Taiwanese region serial code event Pokémon distributions in Generation VI#Cynthia's Garchomp}}
+|}
+
+====Pokémon Global Link promotions====
+{{eventAvail/h|type=Dragon|type2=Ground}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Global Link Garchomp|English|PGL|48|January 30 to February 28, 2013|link=List of Pokémon Global Link promotions/Pokémon#Garchomp}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Global Link Garchomp|French|PGL|48|January 30 to February 28, 2013|link=List of Pokémon Global Link promotions/Pokémon#Garchomp}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Global Link Garchomp|German|PGL|48|January 30 to February 28, 2013|link=List of Pokémon Global Link promotions/Pokémon#Garchomp}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Global Link Garchomp|Italian|PGL|48|January 30 to February 28, 2013|link=List of Pokémon Global Link promotions/Pokémon#Garchomp}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Global Link Garchomp|Spanish|PGL|48|January 30 to February 28, 2013|link=List of Pokémon Global Link promotions/Pokémon#Garchomp}}
+|}
+
+===Held items===
+{{HeldItems|type=Dragon|type2=Ground
+|event1=BrightPowder|event1type=None|event1rar=100
+|event2=Dragon Fang|event2type=None|event2rar=100
+|event3=Garchompite|event3type=None|event3rar=100
+}}
+
+===Stats===
+====Base stats====
+=====Garchomp=====
+{{BaseStats
+|type=Dragon
+|type2=Ground
+|HP=    108
+|Attack=130
+|Defense=95
+|SpAtk=  80
+|SpDef=  85
+|Speed= 102}}
+
+=====Mega Garchomp=====
+{{BaseStats
+|type=Dragon
+|type2=Ground
+|HP=    108
+|Attack=170
+|Defense=115
+|SpAtk=  120
+|SpDef=  95
+|Speed= 92}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Dragon
+|type2=Ground
+|Speed=2
+|SpeedMax=3
+|Power=4
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=2
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Dragon
+|type2=Ground
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=   50
+|Ground=  100
+|Rock=     50
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=     50
+|Water=   100
+|Grass=   100
+|Electric=  0
+|Psychic= 100
+|Ice=     400
+|Dragon=  200
+|Dark=    100
+|Fairy=   200
+|notes=yes
+|ground=yes
+|newelectric=½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Garchomp|Dragon|Ground|4}}
+{{learnlist/level7|1|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|1|Dual Chop|Dragon|Physical|40|90|15||'''}}
+{{learnlist/level7|1|Fire Fang|Fire|Physical|65|95|15}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|1|Dragon Rage|Dragon|Special|&mdash;|100|10}}
+{{learnlist/level7|1|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|3|Sand Attack|Ground|Status|&mdash;|100|15}}
+{{learnlist/level7|7|Dragon Rage|Dragon|Special|&mdash;|100|10}}
+{{learnlist/level7|13|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|15|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/level7|19|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/level7|28|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|33|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/level7|40|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level7|55|Dragon Rush|Dragon|Physical|100|75|10||'''}}
+{{learnlist/levelf/7|Garchomp|Dragon|Ground|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Garchomp|Dragon|Ground|4}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM82|Dragon Tail|Dragon|Physical|60|90|10||'''}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Garchomp|Dragon|Ground|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Garchomp|Dragon|Ground|4}}
+{{learnlist/breed7|{{MSP|131|Lapras}}{{MSP|143|Snorlax}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|357|Tropius}}<br>{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}<br>{{MSP|776|Turtonator}}|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|304|Aron}}<br>{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|371|Bagon}}{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|712|Bergmite}}<br>{{MSP|713|Avalugg}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|334|Altaria}}{{MSP|371|Bagon}}{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}<br>{{MSP|635|Hydreigon}}{{MSP|704|Goomy}}{{MSP|705|Sliggoo}}{{MSP|706|Goodra}}{{MSP|780|Drampa}}|Dragon Breath|Dragon|Special|60|100|20||'''}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}|Iron Head|Steel|Physical|80|100|15}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/breed7|{{MSP|259|Marshtomp}}{{MSP|260|Swampert}}|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/breed7|{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}<br>{{MSP|621|Druddigon}}{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}{{MSP|706|Goodra}}{{MSP|780|Drampa}}<br>{{MSP|782|Jangmo-o}}{{MSP|783|Hakamo-o}}{{MSP|784|Kommo-o}}|Outrage|Dragon|Physical|120|100|10||'''}}
+{{learnlist/breed7|{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|621|Druddigon}}|Rock Climb|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|443|Gible}}{{MSP|444|Gabite}}{{MSP|445|Garchomp}}|Sand Tomb|Ground|Physical|35|85|15||'''}}
+{{learnlist/breed7|{{MSP|004|Charmander}}{{MSP|005|Charmeleon}}{{MSP|006|Charizard}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}<br>{{MSP|130|Gyarados}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}<br>{{MSP|248|Tyranitar}}{{MSP|371|Bagon}}{{MSP|372|Shelgon}}{{MSP|373|Salamence}}{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}<br>{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}{{MSP|621|Druddigon}}<br>{{MSP|633|Deino}}{{MSP|634|Zweilous}}{{MSP|635|Hydreigon}}{{MSP|782|Jangmo-o}}{{MSP|783|Hakamo-o}}{{MSP|784|Kommo-o}}|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|034|Nidoking}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|105A|Marowak}}{{MSP|130|Gyarados}}{{MSP|158|Totodile}}<br>{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}{{MSP|696|Tyrunt}}<br>{{MSP|697|Tyrantrum}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breed7|{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|130|Gyarados}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}<br>{{MSP|149|Dragonite}}{{MSP|350|Milotic}}{{MSP|691|Dragalge}}{{MSP|780|Drampa}}|Twister|Dragon|Special|40|100|20||'''}}
+{{learnlist/breedf/7|Garchomp|Dragon|Ground|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Garchomp|Dragon|Ground|4}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5||'''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||'''|no|yes}}
+{{learnlist/tutor7|Dual Chop|Dragon|Physical|40|90|15||'''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutorf/7|Garchomp|Dragon|Ground|4}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Garchomp|Dragon|Ground|4}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Garchomp|Dragon|Ground|4}}
+
+===Side game data===
+{{Spindata/Head|type=Dragon|type2=Ground}}
+{{Spindata/MDTDS|col=6|type=Dragon|ndex=445
+|body=1
+|rate=0.5
+|IQ=C
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Dragon
+|group=Dragon
+|assist=Dragon
+|field=Crush
+|fieldpower=5
+|browser=It spits hunks of dirt to attack. It also [[Dragon Rush (move)|rams at incredible speed]].
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Dragon
+|group=Dragon
+|assist=Dragon
+|field=Crush
+|fieldpower=1
+|browser=It charges at high speed and launches fire to attack.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Dragon
+|att=5
+|def=4
+|speed=4
+}}
+{{Spindata/RumbleBlast|col=3|type=Dragon
+|att=5
+|def=4
+|speed=4
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Dragon|ndex=445
+|Pad=Garchomp came to check on the [[Granite Zone]]. He's a smash hit playing {{DL|Attractions|Blaziken's Boulder Bash}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Dragon|ndex=445
+|strong=&nbsp;
+|weak=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]][[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=He came to the [[Crag Area]] to enter the Battle Tournament. He is unfriendly but can be adorable.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Dragon|ndex=445
+|HP=5
+|atk=4
+|def=4
+|spd=4
+|range=3
+|move=Dragon Rush
+|ability1=Stealth
+|ability2=Parry
+|ability3=Tenacity
+|evo=Evolves from {{p|Gabite}} when its Attack is 136 or higher
+|link={{DL|List of Pokémon Conquest characters|Harutaka}}, {{DL|List of Pokémon Conquest characters|Masahide}}, and {{DL|List of Pokémon Conquest characters|Narimasa}}
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Dragon|ndex=445
+|power=3
+|skill=Flinch Attack
+|skilldesc=Briefly stops wild Pokémon from taking action.
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Dragon|ndex=445|stype=Ground|num=281
+|mega=1
+|stone=Garchompite
+|min=80
+|max=145
+|raisemaxlevel=20
+|skill=Dragon Talon
+|skilldesc=Sometimes increases damage
+|swapper=Mega Boost+
+|megaspeedup=14
+|effectdesc=Erases Pokémon with three lines from upper-left to lower-right.
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Dragon
+|type2=Ground
+|pictype=art
+|no1=443
+|name1=Gible
+|type1-1=Dragon
+|type2-1=Ground
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 24}}
+|no2=444
+|name2=Gabite
+|type1-2=Dragon
+|type2-2=Ground
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 48}}
+|no3=445
+|name3=Garchomp
+|type1-3=Dragon
+|type2-3=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Dragon|type2=Ground}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4/Gender|ndex=445}}
+{{Spritebox/5/Gender|ndex=445}}
+{{Spritebox/6/2FormsGender|ndex=445|form1=M}}
+{{Spritebox/7/2FormsGender|ndex=445|form1=M}}
+{{Spritebox/Footer|445|Garchomp}}
+
+==Trivia==
+* Although the Garchomp in [[PokéPark Wii: Pikachu's Adventure]] and [[PokéPark 2: Wonders Beyond|its sequel]] has no notch on his fin, he is referred to as male.
+
+===Origin===
+Appearance-wise, Garchomp seems like a cross between a {{wp|European dragon}}, various species of sharks (including the {{wp|hammerhead shark|hammerhead}}), and possibly a {{wp|dromaeosaurid}} or other {{wp|theropod}} dinosaur. In particular, considering Garchomp's saurian build with sharklike features, it may be a visual play on the ''{{wp|Carcharodontosaurus}}'', a theropod dinosaur whose name means "shark-toothed lizard". Its design also strongly resembles a {{wp|jet aircraft}}.
+
+====Name origin====
+Garchomp may be a combination and corruption of ''gore'' (a projecting point), ''guard'' or ''{{wp|Carcharodon}}'' (the scientific name for sharks) and ''chomp''. ''Gar'' may also derive from ''{{wp|garpike}}'' (a species of fish somewhat similar in appearance), ''gargantuan'' (relating to its size) or ''{{wp|gargoyle}}'' which occasionally bears a likeness to {{wp|European dragon}}s.
+
+Gaburias may be a combination of がぶがぶ ''gabugabu'' (onomatopoeia for gulping) or がぶりと ''gaburito'' (bite or chew) and アース ''āsu'' (earth) or ''{{wp|Carcharias}}''.
+
+==In other languages==
+{{Other languages|type=Dragon|type2=Ground
+|ja=ガブリアス ''Gaburias''|jameaning=From {{tt|がぶがぶ ''gabugabu''|onomatopoeia for gulping}}, {{tt|がぶりと ''gaburito''|bite or chew}}, and ''earth'' or ''Carcharias''
+|de=Knakrack|demeaning=From ''{{tt|knacken|to crunch}}'' and ''{{tt|Racker|rascal}}''
+|fr=Carchacrok|frmeaning=From ''{{wp|Carcharias}}'' or ''{{wp|Carcharodon}}'' and ''{{tt|croquer|to bite}}''
+|es=Garchomp|esmeaning=Same as English name
+|it=Garchomp|itmeaning=Same as English name
+|ko=한카리아스 ''Hankarias''|komeaning=From {{tt|한입 ''han'ip''|in one bite}}, ''{{wp|Carcharias}}'', and possibly ''earth''
+|zh_yue=烈咬陸鯊 ''Lihtngáauhluhksā''|zh_yuemeaning=Same as Mandarin name
+|zh_cmn=烈咬陸鯊 / 烈咬陆鲨 ''Lièyǎolùshā''|zh_cmnmeaning=Literally "Violent biting land shark"
+|ru=Гарчомп ''Garchomp''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Cynthia's Garchomp]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Dragon|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Dragon|prevnum=444|prev=Gabite|nextnum=446|next=Munchlax}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Knakrack]]
+[[fr:Carchacrok]]
+[[it:Garchomp]]
+[[ja:ガブリアス]]
+[[pl:Garchomp]]
+[[zh:烈咬陆鲨]]

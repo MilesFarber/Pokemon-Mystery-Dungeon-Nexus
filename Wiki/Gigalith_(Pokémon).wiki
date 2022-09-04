@@ -1,0 +1,396 @@
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=525|prev=Boldore|nextnum=527|next=Woobat}}
+|}
+{{Pokémon Infobox
+|name=Gigalith
+|jname=ギガイアス
+|jtranslit=Gigaiasu
+|tmname=Gigaiath
+|category=Compressed
+|type1=Rock
+|abilityn=d
+|ability1=Sturdy
+|ability2=Sand Stream
+|abilityd=Sand Force
+|ndex=526
+|udex=032
+|u2dex=070
+|karea=Coastal
+|kdex=122
+|adex=100
+|height-ftin=5'07"
+|height-m=1.7
+|weight-lbs=573.2
+|weight-kg=260.0
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=15
+|expyield=232<!--227 in Gen V-VI-->
+|lv100exp=1,059,860
+|gendercode=127
+|color=Blue
+|catchrate=45
+|evtotal=3
+|evat=3
+|body=10
+|pokefordex=gigalith
+|generation=5
+|friendship=70
+}}
+'''Gigalith''' ([[List of Japanese Pokémon names|Japanese]]: '''ギガイアス''' ''Gigaiath'') is a {{type|Rock}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolves]] from {{p|Boldore}} when [[trade]]d. It is the final form of {{p|Roggenrola}}.
+
+==Biology==
+Gigalith is a blue quadruped Pokémon, with various spiny, crystal-like red features jutting out of its body. Its limbs have gray joints and are topped with red crystalline features, with the two claws on each limb being similar features. It has a red eye inside each ear. Several of the crystalline features are present on its face; three below its eyes, one in the middle resembling a crest, and other crystals to the sides of its head. 
+
+It compresses energy in the core inside its body that is enough to blow away mountains. It can also store sunlight in its orange crystals and shoot powerful energy from its mouth, though loses this ability at night or during rain. It lives in caves and tunnels deep underground. Gigalith is a popular partner for construction workers.
+
+==In the anime==
+[[File:Gigalith anime.png|250px|thumb|left|Gigalith in the {{pkmn|anime}}]]
+===In the main series===
+====Major appearances====
+Gigalith debuted in ''[[BW052|Ash Versus the Champion!]]'', where one was rampaging around a town. [[Alder]] managed to stop it with his bare hands, and found out that the reason for Gigalith's rampage was a nail that had got stuck to the bottom of one of its feet.
+
+====Minor appearances====
+[[Dino]] owns a Gigalith, which appeared in ''[[BW108|A Unova League Evolution!]]'' on the scoreboard of the full battles in his battle against [[Virgil]].
+
+A Gigalith appeared in ''[[M16|Genesect and the Legend Awakened]]'' at [[Pokémon Hills]].
+
+====Pokédex entries====
+{{Animedexheader|Unova}}
+{{Animedexbody|BW052|Gigalith|Ash's Pokédex|Gigalith, the Compressed Pokémon. Gigalith's attacks, using the compressed energy from its core, are powerful enough to destroy a mountain.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+===In Pokémon Generations===
+[[File:Team Plasma Gigalith PG.png|thumb|250px|Gigalith in [[Pokémon Generations]]]]
+Gigalith appeared in ''[[PG13|The Uprising]]'', under the ownership of some {{tc|Team Plasma Grunt}}s.
+{{-}}
+
+==In the manga==
+[[File:Cheren Gigalith Adventures.png|thumb|250px|Gigalith in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+{{adv|Cheren}}'s Boldore evolved into a Gigalith after his battle with {{DL|Colress|In the Pokémon Adventures manga|Hood Man}} in ''[[PS517|Something Suspicious]]''.
+
+===In the Pokémon RéBURST manga===
+After taking the power of [[Arcades]], [[Fraud]] could transform into one of seventeen [[type]]s of Pokémon without the need of a [[Burst]] Heart. His {{type|Rock}} form was that of a Gigalith.
+
+==In the TCG==
+{{main|Gigalith (TCG)}}
+
+==Game data==
+===NPC appearances===
+* {{g|Mystery Dungeon: Gates to Infinity}}: Two Gigalith serve as several of the main antagonists under the guidance of {{mdc|Munna|gti}} who actively try to prevent the {{player}} from saving the world alongside {{p|Toxicroak}}, four {{p|Excadrill}}, and a {{p|Purugly}}.
+
+===Pokédex entries===
+{{Dex/Header|type=Rock}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.}}
+{{Dex/Entry1|v=White|entry=The solar energy absorbed by its body's orange crystals is magnified internally and fired from its mouth.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The solar rays it absorbs are processed in its energy core and fired as a ball of light.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The solar rays it absorbs are processed in its energy core and fired as a ball of light.}}
+{{Dex/Entry1|v=Y|entry=Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=The solar rays it absorbs are processed in its energy core and fired as a ball of light.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=The blasts of energy it makes from sunbeams have terrifying power. However, it's not able to fire its blasts at night or on rainy days.}}
+{{Dex/Entry1|v=Moon|entry=Known for its hefty horsepower, this Pokémon is a popular partner for construction workers.}}
+{{Dex/Entry1|v=Ultra Sun|entry=When it fires off energy with all its might, the power creates countless fissures on its body.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It absorbs rays of sunlight and shoots out energy. It's usually lurking deep beneath the surface.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=FFF|area=[[Evolution|Evolve]] {{p|Boldore}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=FFF|area=[[In-game trade#Black 2 and White 2|Trade]] {{p|Emolga}} on {{rt|7|Unova}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Boldore}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Boldore}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Boldore}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Boldore}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Rock}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Cave: [[World Axle - B2F]], Canyon: All{{tt|*|Terrakion encounter}}}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Boldore}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Moonlit Forest]] (Mapless Street), [[Rusty Mountain]] (1F-24F), [[Cape at the Edge]] (B1-B29), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Entranceway#The Hidden Basement|Entranceway: The Hidden Basement]] <small>(Boss)</small>, [[Toy Collection#The Sword for Justice|Toy Collection: The Sword for Justice]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 1|Sacred Plains: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#Fifth release|''Pokémon Safari'']] <small>(Fifth release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Mineral Crust Hollow|Legend Terrain: Mineral Crust Hollow]] <small>(Back Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+====In-game trades====
+{{HeldItems
+|type=Rock
+|b2w21=Leppa Berry|b2w21type=Berry|bw1rar=100
+}}
+
+===Stats===
+====Base stats====
+=====Generation V=====
+{{Stats
+|type=Rock
+|HP=85
+|Attack=135
+|Defense=130
+|SpAtk=60
+|SpDef=70
+|Speed=25}}
+
+=====Generation VI onward=====
+{{Stats
+|type=Rock
+|HP=85
+|Attack=135
+|Defense=130
+|SpAtk=60
+|SpDef=80
+|Speed=25}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Rock
+|Normal=50
+|Fighting=200
+|Flying=50
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=200
+|Fire=50
+|Water=200
+|Grass=200
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Gigalith|Rock|Rock|5}}
+{{learnlist/level7|1|Power Gem|Rock|Special|80|100|20||'''}}
+{{learnlist/level7|1|Tackle|Normal|Physical|50|100|35}}
+{{learnlist/level7|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level7|1|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level7|1|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|4|Harden|Normal|Status|—|—|30}}
+{{learnlist/level7|7|Sand Attack|Ground|Status|—|100|15}}
+{{learnlist/level7|10|Headbutt|Normal|Physical|70|100|15}}
+{{learnlist/level7|14|Rock Blast|Rock|Physical|25|90|10||'''}}
+{{learnlist/level7|17|Mud-Slap|Ground|Special|20|100|10}}
+{{learnlist/level7|20|Iron Defense|Steel|Status|—|—|15}}
+{{learnlist/level7|23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/level7|30|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/level7|36|Stealth Rock|Rock|Status|—|—|20}}
+{{learnlist/level7|42|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/level7|48|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/level7|55|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/levelf/7|Gigalith|Rock|Rock|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Gigalith|Rock|Rock|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15||'''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|—|—|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM69|Rock Polish|Rock|Status|—|—|20}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||'''}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|—|—|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Gigalith|Rock|Rock|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Gigalith|Rock|Rock|5}}
+{{learnlist/breed7|{{MSP|208|Steelix}}{{MSP|679|Honedge}}{{MSP|680|Doublade}}{{MSP|681|Aegislash}}|Autotomize|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|095|Onix}}{{MSP|208|Steelix}}{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Gravity|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|076|Golem}}{{MSP|076A|Golem}}|Heavy Slam|Steel|Physical|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|299|Nosepass}}{{MSP|476|Probopass}}|Lock-On|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|074|Geodude}}{{MSP|075|Graveler}}{{MSP|076|Golem}}|Magnitude|Ground|Physical|&mdash;|100|30}}
+{{learnlist/breed7|{{MSP|095|Onix}}{{MSP|185|Sudowoodo}}{{MSP|208|Steelix}}|Rock Tomb|Rock|Physical|60|95|15||'''}}
+{{learnlist/breed7|{{MSP|568|Trubbish}}|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Gigalith|Rock|Rock|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Gigalith|Rock|Rock|5}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15|||no|yes}}
+{{learnlist/tutorf/7|Gigalith|Rock|Rock|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Gigalith|Rock|Rock|5}}
+{{learnlist/prevo7null}}
+{{learnlist/prevof/7|Gigalith|Rock|Rock|5}}
+
+===Side game data===
+{{Spindata/Head|type=Rock}}
+{{Spindata/RumbleBlast|col=6|type=Rock
+|att=4
+|def=4
+|speed=2
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Rock|ndex=526
+|strong=[[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|weak=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|pad=He doesn't talk much, but he cares for {{p|Roggenrola}}. He is worried about {{p|Boldore}}, who left for the [[Crag Area]].
+}}
+|-
+{{Spindata/Conquest|col=6|type=Rock|ndex=526
+|HP=4
+|atk=5
+|def=4
+|spd=1
+|range=2
+|move=Stone Edge
+|ability1=Sturdy
+|ability2=Bodyguard
+|ability3=Explode
+|evo=Evolves from {{p|Boldore}} when it has a link of 60% or higher, after knocking out a [[Warrior]]'s Pokémon in a manner that allows recruitment
+|link={{DL|List of Pokémon Conquest characters|Madoka}}, {{DL|List of Pokémon Conquest characters|Tsunashige}}, and '''[[Ujiyasu]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Rock|ndex=526
+|power=3
+}}
+{{Spindata/Shuffle|col=3|type=Rock|ndex=526|num=378
+|min=70
+|max=110
+|raisemaxlevel=5
+|skill=Block Smash+
+|skilldesc=Sometimes clears three unbreakable-block disruptions.
+}}
+|}
+
+===Evolution===
+{{evobox-3
+|pictype=art
+|type1=Rock
+|no1=524
+|name1=Roggenrola
+|type1-1=Rock
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 25}}
+|no2=525
+|name2=Boldore
+|type1-2=Rock
+|evo2={{bag|Pal Pad}}<br>{{color2|000|Trade}}
+|no3=526
+|name3=Gigalith
+|type1-3=Rock
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Rock}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=526}}
+{{Spritebox/6|ndex=526}}
+{{Spritebox/7|ndex=526}}
+{{Spritebox/Footer|526|Gigalith}}
+
+==Trivia==
+* Gigalith was first seen in a triple battle with teammates {{p|Reuniclus}} and {{p|Gothitelle}} against {{p|Blitzle}}, {{p|Darmanitan}}, and {{p|Drilbur}}, during an [[Oha Suta]] episode which aired on June 27, 2010. It was not revealed in earnest until August 7, 2010.
+* Gigalith is the only pure {{type|Rock}} third-stage Pokémon.
+* Gigalith's evolutionary line shares similarities with {{p|Golem}}'s family. Both of them are {{type|Rock}}, learn {{m|Stealth Rock}}, {{m|Smack Down}}, {{m|Explosion}}, {{m|Stone Edge}}, and {{m|Rock Blast}} by level-up, first evolve at level 25, then reach the final evolutionary stage by [[trade|trading]].
+
+===Origin===
+It seems to be based on a {{wp|crystal}} formation.
+
+====Name origin====
+Gigalith may be a combination of γίγας ''{{wp|Giants (Greek mythology)|gigas}}'', Greek for ''giant'', and λίθος ''lithos'', Greek for ''stone''. It may also refer to ''{{wp|megalith}}'' or ''{{wp|monolith}}''.
+
+Gigaiath may be a combination of γίγας ''gigas'' and Γαῖα ''{{wp|Gaia (mythology)|Gaia}}'', the {{wp|Greek mythology|Greek goddess}} personifying the {{wp|Earth}}. It may also involve ''{{wp|Goliath}}''.
+
+==In other languages==
+{{Other languages|type=Rock|type2=Rock
+|ja=ギガイアス ''Gigaiath''|jameaning=From {{tt|γίγας ''gigas''|Greek for giant}}, ''Gaia'', and ''Goliath''
+|de=Brockoloss|demeaning=From ''{{tt|Brocken|boulder}}'' and ''{{tt|Koloss|colossus}}''
+|fr=Gigalithe|frmeaning=From its English name
+|es=Gigalith|esmeaning=Same as English name
+|it=Gigalith|itmeaning=Same as English name
+|ko=기가이어스 ''Gigaiath''|komeaning=Transliteration of Japanese name
+|zh_cmn=龐岩怪 / 庞岩怪 ''Pángyánguài''|zh_cmnmeaning=Literally "Gigantic boulder monster".
+|gr=Γιγαλίτη ''Gigalíthi''|grmeaning=Translated Literally
+|ru=Гигалит ''Gigalit''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references />-->
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Rock}}
+{{PokémonPrevNext/Pokémon|type=Rock|prevnum=525|prev=Boldore|nextnum=527|next=Woobat}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon whose base stats changed in Generation VI]]
+
+[[de:Brockoloss]]
+[[fr:Gigalithe]]
+[[it:Gigalith]]
+[[ja:ギガイアス]]
+[[pl:Gigalith]]
+[[zh:庞岩怪]]

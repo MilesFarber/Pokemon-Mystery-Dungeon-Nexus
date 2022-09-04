@@ -1,0 +1,339 @@
+{{PokémonPrevNext/Head|type=Normal|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=659|prev=Bunnelby|nextnum=661|next=Fletchling}}
+|}
+{{Pokémon Infobox
+|name=Diggersby
+|jname=ホルード
+|jtranslit=Horūdo
+|tmname=Horudo
+|category=Digging
+|typebox=1
+|type1=Normal
+|type2=Ground
+|ndex=660
+|karea=Central
+|kdex=011
+|height-ftin=3'03"
+|height-m=1.0
+|weight-lbs=93.5
+|weight-kg=42.4
+|abilityn=d
+|ability1=Pickup
+|ability2=Cheek Pouch
+|abilityd=Huge Power
+|egggroupn=1
+|egggroup1=Field
+|gendercode=127
+|eggcycles=15
+|evtotal=2
+|evhp=2
+|lv100exp=1,000,000
+|color=Brown
+|catchrate=127
+|expyield=148
+|body=06
+|pokefordex=diggersby
+|generation=6
+|friendship=70
+}}
+'''Diggersby''' ([[List of Japanese Pokémon names|Japanese]]: '''ホルード''' ''Horudo'') is a dual-type {{2t|Normal|Ground}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[Evolution|evolves]] from {{p|Bunnelby}} starting at level 20.
+
+==Biology==
+Diggersby is a bipedal Pokémon resembling a large, portly rabbit. Its most remarkable features are its two ears, which are each crowned with a massive, muscular forearm, complete with three-fingered paws. The ears are furry and mostly grey in coloration, with a pink inner pinna, whereas the paws at the ends of the ears are brown. Three spots of brown fur surround each of the ear-wrists. A pointed protrusion marks the outer elbow, hinting at the presence of bones inside the ear-forearms. These ears are strong enough to lift objects weighing over a ton and prove to be an invaluable asset in Diggersby's digging.
+
+The other four limbs growing from Diggersby's round, grey torso are small in comparison to the ears. The fur of the upper paws is white, while the feet are brown. A {{wp|Haramaki (clothing)|sash-like band}} composed of thicker, wooly fur surrounds its waist, where it tends to tuck its paws in. This sash is sectioned brown on its sides and yellow at its front and back; its short tail is also yellow, protruding from the back section of the sash. Diggersby's face is dominated by a large brown muzzle, resembling stubble. Two large front teeth protrude from its wide mouth and three whiskers decorate each cheek. Its eyes are perpetually squinting and it seems to favor a slightly furrowed brow.
+
+==In the anime==
+[[File:Dolan Diggersby.png|thumb|220px|left|Diggersby in the {{pkmn|anime}}]]
+===Major appearances===
+Diggersby debuted in ''[[XY012|To Catch a Pokémon Smuggler!]]'', under the ownership of [[Dolan]]. It was often used to assist Dolan in his poaching activities. When {{Ash}} battled Dolan to rescue {{TP|Clemont|Chespin}} and the {{p|Spewpa}}, it overpowered {{AP|Froakie}} despite having a type disadvantage. It was later defeated after a Spewpa that had escaped earlier evolved into {{p|Vivillon}} and {{status|paralysis|paralyzed}} it with {{m|Stun Spore}}.
+
+A Diggersby appeared in a flashback in ''[[XY088|A Trip Down Memory Train!]]'', where it attacked the group of Pokémon that befriended [[Clemont's Bunnelby]] when it was still a wild Pokémon. It tried to take their home but eventually helped to move the train.
+
+[[Clemont's Bunnelby]] appeared as a Diggersby in a dream in ''[[XY098|Dream a Little Dream from Me!]]''.
+
+===Minor appearances===
+A Diggersby appeared in ''[[XY039|Summer of Discovery!]]'' on a [[Pokévision]] video icon.
+
+A Diggersby appeared in ''[[XY063|A Fork in the Road! A Parting of the Ways!]]''.
+
+A Diggersby appeared in ''[[XY137|Battling With a Clean Slate!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY012|Diggersby|Ash's Pokédex|Diggersby, the Digging Pokémon, and the evolved form of Bunnelby. Diggersby can easily lift a boulder weighing over a ton with its powerful ears.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Aliana Diggersby Adventures.png|thumb|left|140px|Diggersby in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+[[Team Flare]] scientist [[Aliana]] owns a Diggersby which she used to take [[Kanga and Li'l Kanga|Li'l Kanga]] from Kanga's pouch as a hostage in ''[[PAXY03|Inn-teresting Developments]]''.
+
+==In the TCG==
+{{main|Diggersby (TCG)}}
+{{-}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal|type2=Ground}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.}}
+{{Dex/Entry1|v=Y|entry=As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it's finished digging, it lounges lazily.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=With their powerful ears, they can heft boulders of a ton or more with ease. They can be a big help at construction sites.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it's finished digging, it lounges lazily.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal|type2=Ground}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area={{rt|22|Kalos}}, [[Friend Safari]] ([[Friend Safari#Ground-type Safari|Ground]])}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Normal|type2=Ground}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Stage 3|Safari Jungle: Stage 3]]{{dotw|Mo}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Violeta Palace|Violeta Palace: Stage 393]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Forgotten Forest|Dark Land: Forgotten Forest]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|type2=Ground
+|HP=85
+|Attack=56
+|Defense=77
+|SpAtk=50
+|SpDef=77
+|Speed=78}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|type2=Ground
+|Normal=100
+|Flying=100
+|Fighting=200
+|Ground=100
+|Rock=50
+|Bug=100
+|Poison=50
+|Ghost=0
+|Steel=100
+|Fire=100
+|Grass=200
+|Electric=0
+|Psychic=100
+|Water=200
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|normal=yes
+|newghost=1
+|ground=yes
+|newelectric=1}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Diggersby|Normal|Ground|6}}
+{{learnlist/level7|1|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/level7|1|Rototiller|Ground|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/level7|1|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35||'''}}
+{{learnlist/level7|1|Agility|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|7|Quick Attack|Normal|Physical|40|100|30||'''}}
+{{learnlist/level7|13|Double Slap|Normal|Physical|15|85|10||'''}}
+{{learnlist/level7|13|Mud-Slap|Ground|Special|20|100|10||'''}}
+{{learnlist/level7|15|Take Down|Normal|Physical|90|85|20||'''}}
+{{learnlist/level7|18|Mud Shot|Ground|Special|55|95|15||'''}}
+{{learnlist/level7|21|Double Kick|Fighting|Physical|30|100|30}}
+{{learnlist/level7|27|Odor Sleuth|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/level7|32|Flail|Normal|Physical|&mdash;|100|15||'''}}
+{{learnlist/level7|37|Dig|Ground|Physical|80|100|10||'''}}
+{{learnlist/level7|43|Bounce|Flying|Physical|85|85|5}}
+{{learnlist/level7|48|Super Fang|Normal|Physical|&mdash;|90|10}}
+{{learnlist/level7|54|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/level7|57|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/level7|60|Hammer Arm|Fighting|Physical|100|90|10}}
+{{learnlist/levelf/7|Diggersby|Normal|Ground|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Diggersby|Normal|Ground|6}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM08|Bulk Up|Fighting|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM23|Smack Down|Rock|Physical|50|100|15}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||'''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM89|U-turn|Bug|Physical|70|100|20}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Diggersby|Normal|Ground|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Diggersby|Normal|Ground|6}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|027A|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|028A|Sandslash}}{{MSP|161|Sentret}}{{MSP|162|Furret}}<br>{{MSP|206|Dunsparce}}{{MSP|231|Phanpy}}{{MSP|232|Donphan}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}<br>{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|517|Munna}}{{MSP|518|Musharna}}{{MSP|775|Komala}}{{MSP|777|Togedemaru}}|Defense Curl|Normal|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|027|Sandshrew}}{{MSP|028|Sandslash}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|206|Dunsparce}}<br>{{MSP|231|Phanpy}}{{MSP|232|Donphan}}{{MSP|320|Wailmer}}{{MSP|321|Wailord}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}<br>{{MSP|365|Walrein}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|498|Tepig}}{{MSP|499|Pignite}}{{MSP|500|Emboar}}<br>{{MSP|554|Darumaka}}{{MSP|555|Darmanitan}}{{MSP|650|Chespin}}{{MSP|651|Quilladin}}{{MSP|652|Chesnaught}}{{MSP|775|Komala}}<br>{{MSP|777|Togedemaru}}|Rollout|Rock|Physical|30|90|20}}
+{{learnlist/breed7|{{MSP|225|Delibird}}|Spikes|Ground|Status|&mdash;|&mdash;|20|*}}
+{{learnlist/breedf/7|Diggersby|Normal|Ground|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Diggersby|Normal|Ground|6}}
+{{learnlist/tutor7|Bounce|Flying|Physical|85|85|5|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Fire Punch|Fire|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15|||no|yes}}
+{{learnlist/tutor7|Gastro Acid|Poison|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Gunk Shot|Poison|Physical|120|80|5|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Stomping Tantrum|Ground|Physical|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Super Fang|Normal|Physical|—|90|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutorf/7|Diggersby|Normal|Ground|6}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Diggersby|Normal|Ground|6}}
+{{Learnlist/prevo7null}}
+{{learnlist/prevof/7|Diggersby|Normal|Ground|6}}
+
+===Side game data===
+{{Spindata/Head|type=Normal|type2=Ground}}
+{{Template:Spindata/Battle Trozei|col=6|type=Normal|ndex=660|bttype=Ground
+|power=2
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Normal|ndex=660|stype=Ground|num=546
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Stabilize
+|skilldesc=Sometimes erases one of the foe's disruptions on the board.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Normal
+|type2=Ground
+|pictype=art
+|no1=659
+|name1=Bunnelby
+|type1-1=Normal
+|evo1={{bag|Rare Candy}} <br>{{color2|000|Level|Level 20}}
+|no2=660
+|name2=Diggersby
+|type1-2=Normal
+|type2-2=Ground}}
+
+===Sprites===
+{{Spritebox/Header|type=Normal|type2=Ground}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6|ndex=660}}
+{{Spritebox/7|ndex=660}}
+{{Spritebox/Footer|660|Diggersby}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Diggersby.
+* Diggersby is the only Pokémon with a base stat total of 423.
+* Diggersby is the only {{type|Ground}} Pokémon to learn {{m|Spikes}}.
+
+===Origin===
+Diggersby is based on a rabbit. Considering its ability to use its ears as powerful digging and excavating tools, as well as the fact that it hangs out at construction sites, Diggersby is probably based on an {{wp|excavator}} and possibly other {{wp|heavy equipment}}. The brown fur on its ears resembles excavated dirt or mud. Its tendency to laze about after working, as well as its muzzle and mud-like markings, may also mean Diggersby is based on {{wp|construction worker}}s as well.
+
+====Name origin====
+Diggersby may be a combination of ''digger'' and ''bunny''.
+
+Horudo may be a combination of 掘る ''horu'' (to dig) or ''hole'' and 土 ''do'' (soil) or 兎 ''to'' (rabbit).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Ground
+|ja=ホルード ''Horudo''|jameaning=From {{tt|掘る ''horu''|to dig}} and {{tt|土 ''do''|soil}} or {{tt|兎 ''to''|rabbit}}
+|fr=Excavarenne|frmeaning=From ''excavation'' and ''{{wp|European rabbit|lapin de garenne}}''
+|es=Diggersby|esmeaning=Same as English name
+|de=Grebbit|demeaning=From ''{{tt|Graben|ditch, trench}} and ''rabbit''
+|it=Diggersby|itmeaning=Same as English name
+|ko=파르토 ''Pareuto''|komeaning= From {{tt|파다 ''pada''|to dig}} and {{tt|토 (土) ''to''|soil}} or {{tt|토 (兔) ''to''|rabbit}}
+|zh_cmn=攉土兔 ''Huōtǔtù''|zh_cmnmeaning=From {{tt|攉 ''huō''|to shovel}}, {{tt|土 ''tǔ''|earth}}, and {{tt|兔 ''tù''|rabbit}}
+|zh_yue=攉地兔 ''Fokdeihtou''|zh_yuemeaning=From {{tt|攉 ''fok''|to shovel}}, {{tt|地 ''deih''|ground}}, and {{tt|兔 ''tou''|rabbit}}
+|hi=डिगर्सबी ''Diggersby''|himeaning=Transcription of English name
+|ru=Диггерсби ''Diggersbi''|rumeaning=Transcription of English name
+}}
+{{-}}
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Normal|type2=Ground}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=659|prev=Bunnelby|nextnum=661|next=Fletchling}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Grebbit]]
+[[fr:Excavarenne]]
+[[it:Diggersby]]
+[[ja:ホルード]]
+[[pl:Diggersby]]
+[[zh:掘地兔]]

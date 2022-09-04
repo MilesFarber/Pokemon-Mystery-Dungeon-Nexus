@@ -1,0 +1,378 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=548|prev=Petilil|nextnum=550|next=Basculin}}
+|}
+{{Pokémon Infobox
+|name=Lilligant
+|jname=ドレディア
+|jtranslit=Doredia
+|tmname=Dredear
+|category=Flowering
+|ndex=549
+|udex=055
+|u2dex=085
+|adex=086
+|type1=Grass
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=35.9
+|weight-kg=16.3
+|ability1=Chlorophyll
+|ability2=Own Tempo
+|abilityd=Leaf Guard
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|expyield=168
+|gendercode=254
+|lv100exp=1,000,000
+|evtotal=2
+|evsa=2
+|color=Green
+|catchrate=75
+|body=05
+|pokefordex=lilligant
+|generation=5
+|friendship=70
+}}
+'''Lilligant''' ([[List of Japanese Pokémon names|Japanese]]: '''ドレディア''' '' Dredear'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation V]].
+
+It [[Evolution|evolve]]s from {{p|Petilil}} when exposed to a [[Sun Stone]].
+
+==Biology==
+Lilligant dons a scarlet flower with white spotted petals upon its head; said flower has golden filaments with red anther, resembling a crown. It possesses dark green, linear leaves under the flower, and light green, linear leaves underneath the darker leaves. One of the light green leaves, on the back of its head, is about as long as its body and resembles hair. Two light green leaves loosely hang down from its head. Its head and abdomen are white and its eyes, which resemble seeds, are a light shade of scarlet. It has dark green, linear leaves for arms, and a golden {{wp|sepal}} under its neck. It wears a large, light green, {{wp|tulip}} shaped collection of leaves, resembling a dress. There are two long, dark green, linear leaves coming from its back to around the bottom of its "dress". It also possesses another golden, sepal-shaped extension underneath its "dress", resembling feet.
+
+The flower is on Lilligant's head is very difficult to coax into bloom. Once it does bloom, it will wilt if Lilligant is then neglected. The flower emits a sweet smelling aroma, and it is believed to have a relaxing effect on those exposed to the scent. It is a rare Pokémon that lives in forests. Lilligant is a female-only species with no male counterpart.
+
+==In the anime==
+[[File:Lewis Lilligant.png|250px|thumb|left|Lilligant in the {{pkmn|anime}}]]
+
+===Major appearances===
+A Lilligant appeared in ''[[BW059|Stopping the Rage of Legends! Part 1]]'' and ''[[BW060|Stopping the Rage of Legends! Part 2]]'', under the ownership of [[Lewis]]. In the episodes, she had fallen ill and in need of medicine.
+
+A Lilligant appeared in ''[[BW098|Beauties Battling for Pride and Prestige!]]'', under the ownership of [[Mona]]. She was often called "Lilligantette" by her trainer.
+
+A Lilligant appeared in ''[[BW112|Team Plasma's Pokémon Power Plot!]]''.
+
+A Lilligant appeared in ''[[XY109|Master Class Choices!]]'', under the ownership of [[Kazalie]]. It reappeared in ''[[XY112|Master Class is in Session!]]'', where it was used in the Master Class Pokémon Showcase in [[Gloire City]].
+
+[[Lusamine]] owns an Lilligant, which debuted in a photo in ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', ''[[SM027|A Glaring Rivalry!]]'', and ''[[SM048|Night of a Thousand Poses!]]''. It later physically appeared in [[SM053]] and [[SM054]].
+
+===Minor appearances===
+Multiple Lilligant debuted in the opening sequence of ''[[M14|White—Victini and Zekrom]]''.
+
+A Lilligant made cameo appearances in ''[[BW053|A Maractus Musical!]]'' and ''[[BW069|Climbing the Tower of Success!]]''.
+
+A Lilligant appeared in a fantasy in ''[[BW080|Clash of the Connoisseurs!]]'' and ''[[BW085|All for the Love of Meloetta!]]''.
+
+A Lilligant appeared in ''[[M15|Kyurem VS. The Sword of Justice]]'', during the {{OBP|Swords of Justice|M15}} legend.
+
+A Lilligant appeared in a fantasy in ''[[BW120|Ash and N: A Clash of Ideals!]]''.
+
+A Lilligant appeared in ''[[XY016|A Jolting Switcheroo!]]''.
+
+A Lilligant appeared in ''[[XY027|To Find a Fairy Flower!]]''.
+
+A Lilligant appeared in ''[[XY105|Party Dancecapades!]]'', under the ownership of a [[Pokémon Performer]] attending [[Monsieur Pierre]]'s dance party.
+
+A Lilligant appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+===Pokédex entries===
+{{Animedexheader|Unova}}
+{{Animedexbody|BW059|Lilligant|Ash's Pokédex|Lilligant, the Flowering Pokémon. The beautiful flower on Lilligant's head gives off a relaxing fragrance, although getting it bloom can be difficult even for a veteran Trainer.}}
+{{Animedexbody|BW098|Lilligant|Ash's Pokédex|Lilligant, the Flowering Pokémon. The flower on Lilligant's head gives off an aroma that can be very relaxing.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+==In the manga==
+[[File:Shadow Triad Lilligant Adventures.png|thumb|100px|Lilligant in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+A member of the [[Shadow Triad]] used a Lilligant to attack [[Lenora]] at [[Nacrene City]]. She first appeared in ''[[PS495|The Battle Within]]''.
+
+[[Lusamine]]'s Lilligant first appeared in [[PASM13]].
+
+==In the TCG==
+{{main|Lilligant (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=V}}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry1|v=Black|t=FFF|entry=Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.}}
+{{Dex/Entry1|v=White|entry=The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=The fragrance of the garland on its head has a relaxing effect. It withers if a trainer does not take good care of it.}}
+{{Dex/Entry1|v=Y|entry=Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=The fragrance of the garland on its head has a relaxing effect. It withers if a trainer does not take good care of it.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=No matter how much time and money is spent raising it, its flowers are the most beautiful when they bloom in the wild.}}
+{{Dex/Entry1|v=Moon|entry=As soon as it finds a male to be its partner, the beautiful flower on its head darkens, droops, and withers away.}}
+{{Dex/Entry1|v=Ultra Sun|entry=The fragrance of its flower differs slightly depending on the soil where it grew up. Sniffing the aroma calms your heart and mind.}}
+{{Dex/Entry1|v=Ultra Moon|entry=It's well liked by other Pokémon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Black|t=FFF|area=[[Evolution|Evolve]] {{p|Petilil}}}}
+{{Availability/Entry1|1|v=White|area=[[Pinwheel Forest]] (inner), [[Lostlorn Forest]], [[Abundant Shrine]] ({{DL|Phenomenon|rustling grass}})}}
+{{Availability/Entry1|1|v=Black 2|t=FFF|area=[[Evolution|Evolve]] {{p|Petilil}}}}
+{{Availability/Entry1|1|v=White 2|area=[[Pinwheel Forest]] (inner), [[Lostlorn Forest]], [[Castelia City]], [[Abundant Shrine]], {{OBP|Victory Road|Black 2 and White 2}} ({{DL|Phenomenon|rustling grass}})}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Petilil}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Petilil}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1/None|1|v=Sun}}
+{{Availability/Entry1|1|v=Moon|area=[[Evolution|Evolve]] {{p|Petilil}}}}
+{{Availability/Entry1/None|1|v=Ultra Sun}}
+{{Availability/Entry1|1|v=Ultra Moon|area=[[Evolution|Evolve]] {{p|Petilil}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=V}}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Shimmering Lake]], [[World Axle - B2F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Arbor Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Greenleaf]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Withered Savanna]] (1F-17F), [[Holehills]] (1F-12F), [[Canyon Foot]] (1F-9F), [[Silent Tundra]] (Golden Chamber), [[Dreamy Island]] (Golden Chamber), [[Moonlit Forest]] (1F-28F), [[Rusty Mountain]] (Mapless Street), [[Cape at the Edge]] (B1-B29), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Flower Garden#The Garden at the End of Time|Flower Garden: The Garden at the End of Time]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Sacred Plains#Stage 4|Sacred Plains: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Castle Noapte|Castle Noapte: Stage 127]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Royal Garden|Leafy Expanse: Royal Garden]] <small>(Center Boss, Back)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 24|Area 24: Stage 07]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=70
+|Attack=60
+|Defense=75
+|SpAtk=110
+|SpDef=75
+|Speed=90}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=100
+|Fighting=100
+|Flying=200
+|Poison=200
+|Ground=50
+|Rock=100
+|Bug=200
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=50
+|Grass=50
+|Electric=50
+|Psychic=100
+|Ice=200
+|Dragon=100
+|Dark=100
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Lilligant|Grass|Grass|5}}
+{{learnlist/level7|1|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|1|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level7|1|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|10|Teeter Dance|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|28|Quiver Dance|Bug|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|46|Petal Dance|Grass|Special|120|100|10||'''}}
+{{learnlist/level7|50|Petal Blizzard|Grass|Physical|90|100|15||'''}}
+{{learnlist/levelf/7|Lilligant|Grass|Grass|5}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Lilligant|Grass|Grass|5}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Lilligant|Grass|Grass|5}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Lilligant|Grass|Grass|5}}
+{{learnlist/breed7|{{MSP|273|Seedot}}{{MSP|590|Foongus}}{{MSP|591|Amoonguss}}|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|546|Cottonee}}|Charm|Fairy|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|187|Hoppip}}{{MSP|546|Cottonee}}|Encore|Normal|Status|—|100|5|*{{sup/7|USUM}}}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|046|Paras}}{{MSP|187|Hoppip}}|Endure|Normal|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}|Grass Whistle|Grass|Status|&mdash;|55|15}}
+{{learnlist/breed7|{{MSP|420|Cherubi}}|Healing Wish|Psychic|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|455|Carnivine}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|753|Fomantis}}<br>{{MSP|754|Lurantis}}{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Ingrain|Grass|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}<br>{{MSP|357|Tropius}}{{MSP|764|Comfey}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|069|Bellsprout}}<br>{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|182|Bellossom}}<br>{{MSP|315|Roselia}}{{MSP|407|Roserade}}{{MSP|357|Tropius}}{{MSP|455|Carnivine}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}{{MSP|761|Bounsweet}}{{MSP|762|Steenee}}{{MSP|763|Tsareena}}<br>{{MSP|764|Comfey}}|Sweet Scent|Normal|Status|&mdash;|100|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}<br>{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|285|Shroomish}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}<br>|Worry Seed|Grass|Status|&mdash;|100|10}}
+{{learnlist/breedf/7|Lilligant|Grass|Grass|5}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Lilligant|Grass|Grass|5}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Lilligant|Grass|Grass|5}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Lilligant|Grass|Grass|5}}
+{{learnlist/prevo7|548|Petilil|||||Absorb|Grass|Special|20|100|25|'''}}
+{{learnlist/prevo7|548|Petilil|||||Sleep Powder|Grass|Status|—|75|15}}
+{{learnlist/prevo7|548|Petilil|||||Magical Leaf|Grass|Special|60|—|20|'''}}
+{{learnlist/prevo7|548|Petilil|||||Stun Spore|Grass|Status|—|75|30}}
+{{learnlist/prevo7|548|Petilil|||||Giga Drain|Grass|Special|75|100|10|'''|{{sup/7|SM}}}}
+{{learnlist/prevo7|548|Petilil|||||Aromatherapy|Grass|Status|—|—|5}}
+{{learnlist/prevo7|548|Petilil|||||Helping Hand|Normal|Status|—|—|20||{{sup/7|SM}}}}
+{{learnlist/prevo7|548|Petilil|||||Entrainment|Normal|Status|—|100|15}}
+{{learnlist/prevo7|548|Petilil|||||After You|Normal|Status|—|—|15||{{sup/7|SM}}}}
+{{learnlist/prevo7|548|Petilil|||||Leaf Storm|Grass|Special|130|90|5|'''}}
+{{learnlist/prevof/7|Lilligant|Grass|Grass|5}}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Grass|ndex=549
+|strong=[[File:Tepig icon.png|link=Tepig (Pokémon)]]
+|weak=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]][[File:Oshawott icon.png|link=Oshawott (Pokémon)]][[File:Snivy icon.png|link=Snivy (Pokémon)]]
+|pad=She serves {{p|Serperior}}. She originally lived in the [[Cove Area]]. Although she likes the [[Arbor Area]], she misses the sound of waves.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Grass|ndex=549
+|HP=3
+|atk=4
+|def=3
+|spd=4
+|range=3
+|move=Petal Dance
+|ability1=Own Tempo
+|ability2=Nurse
+|ability3=Life Force
+|evo=Evolves from {{p|Petilil}} when its [[link]] is improved while its [[Warrior]] is equipped with a [[Sun Stone]]
+|link={{DL|List of Pokémon Conquest characters|Terumoto}} and {{DL|List of Pokémon Conquest characters|Urakusai}}
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=549
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=549|num=134
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Sleep Charm
+|skilldesc=Leaves the foe asleep.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Grass
+|pictype=art
+|no1=548
+|name1=Petilil
+|type1-1=Grass
+|evo1={{bag|Sun Stone}}<br>{{color2|000|Sun Stone}}
+|no2=549
+|name2=Lilligant
+|type1-2=Grass}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=V}}
+{{Spritebox/5|ndex=549}}
+{{Spritebox/6|ndex=549}}
+{{Spritebox/7|ndex=549}}
+{{Spritebox/Footer|549|Lilligant}}
+
+==Trivia==
+===Origin===
+From its name and the curvature of its petals, Lilligant may be based on a {{wp|lily}}, but the relaxing smell of Lilligant's flower is more akin to {{wp|Orange (fruit)|orange}}, {{wp|pomelo}}, {{wp|mandarin orange}}, or {{wp|Dianthus|carnation}} flowers, all of which are used in {{wp|essential oil}}s for {{wp|aromatherapy}}. With this, the leaves of its body may also be based on essential oil ingredients like {{wp|spearmint}} and {{wp|peppermint}}. Its crown and dress may be derived from {{wp|1750–75 in Western fashion#Women's fashion|Western high-class women's fashion during 1750–75}}. It could also be based on a dancer since its lower body resembles a {{wp|ball gown}} and most of the moves it learns by leveling up contain the word "Dance".
+
+====Name origin====
+Lilligant may be a combination of ''lily'' and ''elegant''.
+
+Dredear may be a combination of ''dress'', ''dear'', ''lady'', and ''{{wp|Dianthus}}''.
+
+==In other languages==
+{{Other languages|type=Grass|type2=Grass
+|ja=ドレディア ''Dredear''|jameaning=From ''dress'', ''dear'', ''lady'', and ''{{wp|Dianthus}}''
+|de=Dressella|demeaning=From ''dress'' and ''{{tt|bella|Italian for 'beautiful'}}''
+|fr=Fragilady|frmeaning=From ''fragile'' and ''lady''
+|es=Lilligant|esmeaning=Same as English name
+|it=Lilligant|itmeaning=Same as English name
+|ko=드레디어 ''Dredear''|komeaning=Transliteration of Japanese name
+|zh_cmn=裙兒小姐 / 裙儿小姐 ''Qún'ér​xiǎojiě''|zh_cmnmeaning=From {{tt|裙 ''qún''|skirt; dress}}, {{tt|兒 ''ér''|child}}, and {{tt|小姐 ''xiǎojiě''|young lady}}.
+|ru=Лиллигант ''Lilligant''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=548|prev=Petilil|nextnum=550|next=Basculin}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Dressella]]
+[[fr:Fragilady]]
+[[it:Lilligant]]
+[[ja:ドレディア]]
+[[pl:Lilligant]]
+[[zh:裙儿小姐]]

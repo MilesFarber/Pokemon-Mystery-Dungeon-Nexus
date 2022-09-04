@@ -1,0 +1,531 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Metapod}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=010|prev=Caterpie|nextnum=012|next=Butterfree|round=none}}
+{{PokémonPrevNext/Disambig|species=Metapod}}
+|}
+{{Pokémon Infobox
+|name=Metapod
+|jname=トランセル
+|jtranslit=Toranseru
+|tmname=Trancell
+|ndex=011
+|jdex=025
+|karea=Central
+|kdex=024
+|adex=018
+|type1=Bug
+|category=Cocoon
+|height-ftin=2'04"
+|height-m=0.7
+|weight-lbs=21.8
+|weight-kg=9.9
+|abilitylayout=1
+|ability1=Shed Skin
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=2
+|evde=2
+|expyield=72
+|oldexp=72
+|lv100exp=1,000,000
+|gendercode=127
+|color=Green
+|catchrate=120
+|body=02
+|pokefordex=metapod
+|generation=1
+|friendship=70
+}}
+'''Metapod''' ([[List of Japanese Pokémon names|Japanese]]: '''トランセル''' ''Trancell'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Caterpie}} starting at [[level]] 7 and evolves into {{p|Butterfree}} starting at level 10.
+
+==Biology==
+Metapod resembles a green {{wp|chrysalis}}. Its body is crescent-shaped with several segments making up the lower point. The front of its shell resembles a face with heavy-lidded eyes and a sharply pointed nose. The back of its shell consists of several geometrically shaped portions and projections. Its soft body is protected by a hard outer shell while it undergoes {{wp|metamorphosis}}. While this shell is said to be as hard as steel, a sudden, powerful impact could cause its tender body to pop out, leaving it completely exposed. Metapod generally remains motionless, preparing its soft innards for evolution inside its hard shell. If an enemy discovers Metapod, it is unable to do anything other than harden its outer shell. Metapod lives in {{DL|List of Pokémon by habitat|Forest Pokémon|forests}}.
+
+==In the anime==
+===In the [[Pokémon anime|main series]]===
+[[File:Ash Metapod M20.png|thumb|200px|Metapod in the {{pkmn| anime}}]]
+[[File:Metapod evolution anime.png|thumb|200px|Metapod's original evolution method in the anime]]
+====Major appearances====
+=====[[Ash's Metapod]]=====
+{{Ash}} had a Metapod that he caught as a {{p|Caterpie}} and evolved in ''[[EP003|Ash Catches a Pokémon]]''. It eventually evolved into {{p|Butterfree}} in ''[[EP004|Challenge of the Samurai]]''.
+
+=====Other=====
+In ''[[EP004|Challenge of the Samurai]]'', [[Samurai]] battled Ash's Metapod with his own Metapod, but because both Metapod only knew {{m|Harden}}, the battle went on for hours until a swarm of {{p|Beedrill}} forced the battle to end.
+
+In ''[[EP144|Gettin' The Bugs Out]]'', [[Bugsy]] used a Metapod against Ash for the Gym Battle. Metapod battled {{AP|Chikorita}} and {{AP|Pikachu}} before being defeated by Pikachu. Unlike most Metapod, this one was actually able to fight back by using {{m|Tackle}}. Multiple other Metapod were also seen in the [[Azalea Gym]] in the same episode.
+
+In ''[[AG142|Caterpie's Big Dilemma]]'', [[Xander]]'s Metapod became [[Giant Pokémon|giant-sized]] after eating some enhanced {{DL|Vitamin|Rare Candy|Rare Candies}}. Xander's Caterpie knocked down part of a radio tower in order to make a place for it to evolve into Metapod. It later evolved again to become a Butterfree.
+
+Multiple Metapod appeared in ''[[BW130|Butterfree and Me!]]'', including one that {{Ash}} worked with to help it eventually evolve into {{p|Butterfree}}.
+
+====Minor appearances====
+Multiple Metapod appeared in ''[[M04|Celebi: The Voice of the Forest]]'', where Ash and [[Sam]] witnessed them as they were evolving into Butterfree.
+
+A Metapod appeared in ''[[EP057|The Breeding Center Secret]]''.
+
+A Metapod had a small cameo in ''[[EP097|Tracey Gets Bugged]]'' as one of the Bug Pokémon on [[Murcott Island]].
+
+A Metapod appeared in ''[[EP121|Illusion Confusion!]]'' as an illusion created by {{p|Haunter}} and {{p|Gengar}}.
+
+A Metapod was used by one of the students of the [[Pokémon Trainers' School]] in ''[[AG015|Gonna Rule The School!]]''.
+
+A Metapod appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+A Metapod appeared in ''[[SM003|Loading the Dex!]]'' as a silhouette that [[Rotom Pokédex]] brought up.
+
+A Metapod appeared in ''[[SM008|Lillie's Egg-xhilarating Challenge!]]'', where it was among the Pokémon playing in {{an|Lillie}}'s garden. It appeared again in ''[[SM030|The Ol' Raise and Switch!]]''.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP003|Metapod|Ash's Pokédex|Metapod, {{p|Caterpie}}'s next stage. It has encased its body in a hard shell. This specimen reached this stage faster than any previously discovered Pokémon of this variety.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+{{Animedexheader|Emerald}}
+{{Animedexbody|AG142|Metapod|May's Pokédex|Metapod, the Cocoon Pokémon. Metapod is the evolved form of Caterpie. Using a hard shell to protect its body, it prepares for its next evolution.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Emerald}}
+{{Animedexheader|Unova}}
+{{Animedexbody|BW130|Metapod|Ash's Pokédex|Metapod, the Cocoon Pokémon. Metapod's vulnerable body is surrounded by its hard shell, which protects it while it waits to evolve.}}
+{{Animedexfooter/Pokémon|''Best Wishes''|Unova}}
+
+===In [[Pokémon Origins]]===
+[[File:Red Metapod PO.png|thumb|250px|Metapod in [[Pokémon Origins]]]]
+{{OBP|Red|Origins}} sent out Metapod during his Gym battle with [[Brock]]. It was able to slow {{TP|Brock|Onix}} down with {{m|String Shot}} but was defeated afterwards.
+{{-}}
+
+==In the manga==
+[[File:Ash Metapod EToP.png|thumb|150px|Metapod in [[The Electric Tale of Pikachu]]]]
+===In [[The Electric Tale of Pikachu]] manga===
+{{main|Ash's Metapod}}
+{{Ash}}'s Butterfree makes a brief appearance in the manga series [[The Electric Tale of Pikachu]]. It was first caught in ''[[ET01|Pikachu, I See You!]]'' as a {{p|Caterpie}} and then evolved into Metapod in ''[[ET02|Play Misty For Me]]''. In this appearance it appears to be slightly thinner than other Metapod, as well as having a large spike on its back.
+
+Ash's Metapod evolves into {{p|Butterfree}} in ''Play Misty For Me'' during Ash's Gym battle with {{an|Misty}}. Its last appearance as a Butterfree was in ''[[ET04|Haunting My Dreams]]'', battling a giant {{p|Haunter}}.
+
+===In the [[How I Became a Pokémon Card]] manga===
+{{HIBAPC|Midori}} was shown to have a Metapod.
+
+===In the [[Magical Pokémon Journey]] manga===
+A Metapod fell down from a tree in [[PPP02|Clefairy Comes Through]]. [[Hazel]] put it back where it was. Then it fell back again.
+
+[[File:Kitty Metapod.png|thumb|right|200px|Metapod in [[Pokémon Adventures]]]]
+===In the [[Pokémon Adventures]] manga===
+{{main|Kitty}}
+Metapod's first appearance is a cameo in ''[[PS002|Bulbasaur, Come Home!]]'' as one of the Pokémon that gets out of his [[Poké ball]] in [[Professor Oak's Laboratory]]. 
+
+In ''[[PS089|The Might of... Metapod?]]'', {{adv|Yellow}}'s {{p|Caterpie}}, which was called "Kitty", briefly evolved into Metapod before evolving again into [[Kitty|Butterfree]] during Yellow's showdown with [[Lance]].
+
+[[Bugsy]] also uses two Metapod on his team, one the first appeared in ''[[PS100|Into the Unown]]''. It again appeared in ''[[PS102|Ursaring Major]]'' where it, a Kakuna and Bugsy visited the [[Azalea Town]]'s well where Team Rocket had been.
+
+According to the Pokédex at the end of [[Pokémon Adventures volume 1|Volume 1]], Red appears to have captured a Caterpie which evolved into a Metapod and then a Butterfree.
+
+===In the [[Pokémon Gold & Silver: The Golden Boys]] manga===
+Bugsy's Butterfree was first seen as a Metapod in ''[[GB04|Let's Aim For The Goal!]]''. It evolved prior to ''[[GB11|Gold And Black VS. Team Rocket]]''.
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Magical Pokémon Journey|[[PPP02]]|★Metapod ([[Pokémon category|Cocoon Pokémon]])★ Metapod is unable to move on its own. Its only attack method is "{{m|Harden|harden}}."}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Metapod (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]]: Metapod is {{p|Caterpie}}'s friend.
+
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.}}
+{{Dex/Entry1|v=Yellow|entry={{m|Harden}}s its shell to protect itself. However, a large impact may cause it to pop out of its shell.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=When it hardens, only the external shell is transformed. The inside remains tender.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=Inside the shell, it is soft and weak as it prepares to [[Evolution|evolve]]. It stays motionless in the shell.}}
+{{Dex/Entry1|v=Silver|entry=It prepares for evolution by hardening its shell as much as possible to protect its soft body.}}
+{{Dex/Entry1|v=Crystal|entry=This is its preevolved form. At this stage, it can only harden, so it remains motionless to avoid attack.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=Inside the shell, it is soft and weak as it prepares to evolve. It stays motionless in the shell.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Its shell is as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell.}}
+{{Dex/Entry1|v=FireRed|entry=Even though it is encased in a sturdy shell, the body inside is tender. It can't withstand a harsh attack.}}
+{{Dex/Entry1|v=LeafGreen|entry=This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.}}
+{{Dex/Entry1|v=HeartGold|entry=Inside the shell, it is soft and weak as it prepares to evolve. It stays motionless in the shell.}}
+{{Dex/Entry1|v=SoulSilver|entry=It prepares for evolution by hardening its shell as much as possible to protect its soft body.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.}}
+{{Dex/Entry1|v=Y|entry=This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=The shell covering this Pokémon’s body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=Its shell is filled with its soft innards. It doesn't move much because of the risk it might carelessly spill its innards out.}}
+{{Dex/Entry1|v=Moon|entry=Its shell is hard, but it's still just a bug shell. It's been known to break, so intense battles with it should be avoided.}}
+{{Dex/Entry1|v=Ultra Sun|entry=Its shell is filled with a thick liquid. All of the cells throughout its body are being rebuilt in preparation for evolution.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its hard shell doesn't crack a bit even if Pikipek pecks at it, but it will tip over, spilling out its insides.}}
+|}
+|}
+{{Dex/Footer}}
+
+====In side games====
+;[[Pokémon Pinball]], [[Pokémon Trading Card Game]] ({{TCG|Base Set}}, {{TCG|Base Set 2}}, {{TCG|Legendary Collection}})
+:This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.
+;[[Pokémon Trading Card Game]] ({{TCG|Neo Discovery}})
+:Inside the shell, it is soft and weak as it prepares to evolve. It stays motionless in the shell.
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Red|t=fff|area={{rt|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1|1|v=Blue|t=fff|area=[[Route]]s {{rtn|24|Kanto}} and {{rtn|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1|1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Route]]s {{rtn|24|Kanto}} and {{rtn|25|Kanto}}, [[Viridian Forest]]}}
+{{Availability/Entry1|1|v=Yellow|area=[[Viridian Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Gold|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|30|Johto}}, and {{rtn|31|Johto}}, [[Ilex Forest]], [[National Park]]{{sup/t|M}}{{sup/t|D}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br>[[Route]]s {{rtn|26|Kanto}}, {{rtn|27|Kanto}}, {{rtn|34|Johto}}, {{rtn|35|Johto}}, {{rtn|36|Johto}}, {{rtn|37|Johto}}, {{rtn|38|Johto}}, and {{rtn|39|Johto}}, [[Azalea Town]], [[Ilex Forest]], [[Lake of Rage]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|1|v=Silver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|1|v=Crystal|area=[[Route]]s {{rtn|24|Kanto}} and {{rtn|25|Kanto}}, [[Ilex Forest]]{{sup/t|M}}{{sup/t|D}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br>[[Ilex Forest]] ([[Headbutt tree]]s)}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|2|area=[[Route]]s {{rtn|24|Kanto}} and {{rtn|25|Kanto}}, [[Viridian Forest]], [[Pattern Bush]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Eterna Forest]] {{color2|{{FireRed color dark}}|Dual-slot mode|(FireRed)}}}}
+{{Availability/Entry1|v=Platinum|area=[[Eterna Forest]] {{color2|{{FireRed color dark}}|Dual-slot mode|(FireRed)}}}}
+{{Availability/Entry1|v=HeartGold|area=[[Route]]s {{rtn|2|Kanto}}, {{rtn|30|Johto}}, and {{rtn|31|Johto}}, [[Ilex Forest]], [[National Park]], [[Viridian Forest]]{{sup/t|M}}{{sup/t|D}}<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}<br>{{rt|47|Johto}}, [[Ilex Forest]] ([[Headbutt tree]]s)}}
+{{Availability/Entry1|v=SoulSilver|area=[[National Park]] ([[Bug-Catching Contest]]){{dotw|Tu}}{{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|1|v=Black}}
+{{Availability/Entry1|1|v=White|area={{rt|12|Unova}}}}
+{{Availability/Entry1/None|1|v=Black 2}}
+{{Availability/Entry1|1|v=White 2|area=[[Evolution|Evolve]] {{p|Caterpie}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|v=X|t=fff|area=[[Evolution|Evolve]] {{p|Caterpie}}}}
+{{Availability/Entry1|v=Y|area=[[Santalune Forest]]}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Route]]s {{rtn|1|Alola}} and {{rtn|5|Alola}}, [[Lush Jungle]], [[Melemele Meadow]]}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area={{rt|5|Alola}}, [[Lush Jungle]], [[Melemele Meadow]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Pokémon Island River|River]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Caterpie}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[SOL Laboratory 2]], Endless Level 4, [[Secret Storage 8]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Joyous Tower]] (7F-8F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (B1F-B13F), [[Mystery Jungle]] (B1F-B29F), [[Happy Outlook]] (1F-19F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] (B1F-B13F), [[Mystery Jungle]] (B1F-B29F), [[Happy Outlook]] (1F-19F)}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode C & A)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|color={{grass color}}|link=PokéPark Wii: Pikachu's Adventure|area=[[Haunted Zone]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Treetops: [[Sun-Dappled Bank]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Crag Area]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Chill Battle#The Forest of Memories|Chill Battle: The Forest of Memories]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 2|Safari Jungle: Stage 2]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#20th release|''Pokémon Safari'']] <small>(20th release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Pixie Glen|Fairy Land: Pixie Glen]] <small>(All Areas)</small>, [[Origin Hideaway#Old-Growth Woods|Origin Hideaway: Old-Growth Woods]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Bug
+|rby1=Berry (item){{!}}Berry|rby1type=None|rby1image=no|rby1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{Stats
+|type=Bug
+|HP=50
+|Attack=20
+|Defense=55
+|SpAtk=25
+|SpDef=25
+|Special=25
+|Speed=30}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|Speed=1
+|SpeedMax=3
+|Power=1
+|PowerMax=3
+|Technique=1
+|TechniqueMax=1
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=100
+|Fighting=50
+|Flying=200
+|Poison=100
+|Ground=50
+|Rock=200
+|Bug=100
+|Ghost=100
+|Steel=100
+|Fire=200
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|gen1bug=yes
+|oldpoison=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Metapod|Bug|Bug|1}}
+{{learnlist/level7|1|Harden|Normal|Status|—|—|30}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Harden|Normal|Status|—|—|30}}
+{{learnlist/levelf/7|Metapod|Bug|Bug|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Metapod|Bug|Bug|1}}
+{{learnlist/tm7null}}
+{{learnlist/tmf/7|Metapod|Bug|Bug|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Metapod|Bug|Bug|2}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Metapod|Bug|Bug|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Metapod|Bug|Bug|2}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutorf/7|Metapod|Bug|Bug|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Metapod|Bug|Bug|1}}
+{{learnlist/prevo7|010|Caterpie|||||Tackle|Normal|Physical|40|100|35}}
+{{learnlist/prevo7|010|Caterpie|||||String Shot|Bug|Status|—|95|40}}
+{{learnlist/prevo7|010|Caterpie|||||Bug Bite|Bug|Physical|60|100|20|'''|{{sup/7|SM}}}}
+{{learnlist/prevof/7|Metapod|Bug|Bug|1}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background:#{{tcg grass color light}}; border:3px solid #{{tcg grass color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Stun Spore}}
+| [[Metapod (Base Set 54)]]
+|- style="background:#fff"
+| {{m|Rollout}}
+| [[Metapod (Expedition 87)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Sharpen}}
+| style="background:#fff; {{roundybr|5px}}" | [[Metapod (EX FireRed & LeafGreen 39)]]<br>[[Metapod (HeartGold & SoulSilver 46)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/Pinball|col=3|type=Bug|ndex=011|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=011|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=011
+|body=1
+|rate=-19
+|area=Mist-Rise Forest
+|P1=Now is the time to endure.
+|P2=Oh, no... My health is down to half...
+|P3=I can't keep going... I don't know if I can metamorphose...
+|PL=Oh! I leveled up!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=011
+|body=1
+|rate=-10
+|IQ=A
+}}
+|-
+{{Spindata/Rumble|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Bug|ndex=011
+|Pad=Metapod fell off the White Tree at the entrance to the [[Haunted Zone|Haunted House]]. He stays busy watching all the visitors to the Haunted House.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Bug|ndex=011
+|pad=She lived in the [[Arbor Area]], but a twist of fate brought her to the [[Crag Area]]. She admires {{p|Serperior}}.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=011
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Bug|ndex=011|num=748
+|min=40
+|max=90
+|raisemaxlevel=5
+|skill=Swap++
+|skilldesc=Sometimes replaces five disruptions with this Pokémon.
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=011
+|hatch=N/A
+|buddy=1
+|evocandy=50
+|stamina=100
+|attack=45
+|defense=94
+|fast={{m|Bug Bite}}, {{m|Tackle}}
+|special={{m|Struggle}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Bug
+|pictype=art
+|no1=010
+|name1=Caterpie
+|type1-1=Bug
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 7}}
+|no2=011
+|name2=Metapod
+|type1-2=Bug
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 10}}
+|no3=012
+|name3=Butterfree
+|type1-3=Bug
+|type2-3=Flying}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/1|ndex=011}}
+{{Spritebox/2|ndex=011}}
+{{Spritebox/3|ndex=011}}
+{{Spritebox/4|ndex=011}}
+{{Spritebox/5|ndex=011}}
+{{Spritebox/6|ndex=011}}
+{{Spritebox/7|ndex=011}}
+{{Spritebox/Footer|011|Metapod}}
+
+==Trivia==
+* Metapod shares its {{pkmn|category}} name with {{p|Kakuna}}, {{p|Silcoon}}, and {{p|Cascoon}}. They are all known as the Cocoon Pokémon.
+** They also share the same base stat total, learnset, Ability, and EV yield.
+*** This ties them as the evolved Pokémon with the lowest base stat total.
+* Metapod is the first Pokémon to evolve in [[M04|a movie]], and part of the first evolution cycle in [[EP003|an episode]].
+* Until the release of {{game|Platinum}}, when its pre-evolution became able to learn {{m|Bug Bite}}, Metapod was unable to damage {{type|Ghost}} Pokémon except by using {{m|Struggle}}. It shared this trait with {{p|Caterpie}}.
+** Due to this, it was impossible to complete a [[Generation I]] game using only Caterpie or Metapod since Struggle could not hit Ghost types at the time.
+* Metapod is usually depicted with white sclerae, such as in the games, trading cards, and promotional illustrations, but it has yellow sclerae in the anime.
+* In the anime episode ''[[EP004|Challenge of the Samurai]]'', the process of Metapod's evolution was similar to a real life butterfly emerging from its cocoon. In [[AG142|later]] [[BW130|episodes]], however, Metapod is shown to evolve like any other Pokémon.
+* {{wp|Ume Aoki}}, a Japanese cartoonist famous for her work on the manga ''Hidamari Sketch'', utilizes a likeness of herself cosplaying as a Metapod to represent herself in her works.
+* In the Space World '97 [[Super Game Boy]] demo version of Pokémon Gold, Metapod has a unique orange sprite that is exclusive to the demo.
+
+===Origin===
+It to be based upon an amalgamation of butterfly chrysalises, resembling the general shape of a {{wp|Black Swallowtail}} chrysalis (or possibly a {{wp|Large White}}) with a large nose-like protrusion and side portrusions resembling a {{wp|Polydamas Swallowtail}} or {{wp|Pipevine Swallowtail}} chrysalis.
+
+====Name origin====
+Metapod is a combination of ''{{wp|metamorphosis (biology)|metamorphosis}}'' and ''pod'' (referring to its {{wp|Pupa|chrysalis}} state).
+
+Trancell appears to be a combination of ''transform'' and ''{{wp|cell}}'' or ''shell''.
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=トランセル ''Trancell''|jameaning=From {{tt|トランス ''toransu''|transform}} and {{tt|セル ''seru''|cell}}. Also likely a pun on {{tt|ランドセル ''randoseru''|satchel}}.
+|fr=Chrysacier|frmeaning=From ''{{tt|chrysalide|chrysalis}}'' and ''{{tt|acier|steel}}''
+|es=Metapod|esmeaning=Same as English name
+|de=Safcon|demeaning=From ''{{tt|Safe|safe (noun)}}'' and ''{{tt|Kokon|cocoon}}''
+|it=Metapod|itmeaning=Same as English name
+|ko=단데기 ''Tandegi''|komeaning=From {{tt|단단하다 ''dandanhada''|(to be) hard, solid}} and {{tt|번데기 ''beondegi''|chrysalis}}
+|zh_yue=鐵甲蟲 ''Titgaapchùhng''|zh_yuemeaning="Armored bug"; 甲蟲 means "{{wp|beetle}}"
+|zh_cmn=鐵甲蛹 / 铁甲蛹 ''Tiějiáyǒng''|zh_cmnmeaning="Armored {{wp|chrysalis}}"
+|lt=Metapodas|ltmeaning=From English name
+|ru=Метапод ''Metapod''|rumeaning=Transcription of English name
+|hi= मेटापॉड ''Metapod'' |himeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Ash's Metapod]]
+* [[Kitty]]
+* [[Metapod (Red and Blue Rescue Team)]]
+<!--
+==Notes==
+<references />-->
+
+==External links==
+* {{wp|Caterpie, Metapod, and Butterfree|Article on Wikipedia}}
+
+{{-}}
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=010|prev=Caterpie|nextnum=012|next=Butterfree|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Safcon]]
+[[fr:Chrysacier]]
+[[it:Metapod]]
+[[ja:トランセル]]
+[[pl:Metapod]]
+[[zh:铁甲蛹]]

@@ -1,0 +1,815 @@
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=492|prev=Shaymin|nextnum=494|next=Victini|roundleft=tl|roundright=tr}}
+{{PokémonPrevNext/Disambig|species=Arceus}}
+|}
+{{Pokémon Infobox
+|name=Arceus
+|jname=アルセウス
+|jtranslit=Aruseusu
+|tmname=Arceus
+|ndex=493
+|opdex=221
+|typebox=1
+|type1=Normal
+|category=Alpha
+|obrow=S-006
+|opbrow=221
+|height-ftin=10'06"
+|height-m=3.2
+|weight-lbs=705.5
+|weight-kg=320.0
+|abilityn=1
+|abilitylayout=1
+|ability1=Multitype
+|egggroupn=0
+|egggroup1=Undiscovered
+|egggroup2=
+|eggcycles=120
+|evtotal=3
+|evhp=3
+|expyield=324
+|oldexp=255
+|lv100exp=1,250,000
+|gendercode=255
+|color=White
+|catchrate=3
+|body=08
+|pokefordex=arceus
+|generation=4
+|friendship=0
+}}
+'''Arceus''' ([[List of Japanese Pokémon names|Japanese]]: '''アルセウス''' ''Arceus'') is a {{type|Normal}} [[Mythical Pokémon]] introduced in [[Generation IV]].
+
+While it is not known to [[Evolution|evolve]] into or from any other Pokémon, it will [[List of Pokémon with form differences#Arceus|change type]] when it is holding a [[Plate]] or type-specific [[Z-Crystal]].
+
+Like {{p|Darkrai}} and {{p|Shaymin}} before it, Arceus was not officially recognized by Nintendo until February 14, 2009, the year of its debut movie. It was officially revealed to international audiences on August 3, 2009.
+
+Arceus is known as "The Original One", as it is said that it created [[Sinnoh]] and [[Ransei]], and possibly the entire [[Pokémon universe]], along with the [[lake guardians]] and [[creation trio]].
+
+It is the [[trio master]] of both the lake guardians and the creation trio.
+
+==Biology==
+Arceus is a white equine resembling a {{wp|qilin}} or {{wp|centaur}} with a gray, vertically-striated underside. The striated pattern has similar recurrences on the underside of its mane, tail, and face. Its four pointed feet are tipped with gold hooves. Its long mane juts away from its head, and its face is gray, with green eyes and red pupils, and a green circular pattern below its eyes. Arceus also has a streak of gold coloration on its head, and ears that point upward. Its neck is fairly long, with two pairs of extrusions to the sides, and a flap-like feature on the neck's underside that is colored white like much of the body. It also has a golden cross-like wheel attached to its body by its round abdomen, which changes color along with its eyes and hooves based on Arceus's current type, which depends on the [[plate]] or [[Z-Crystal| type-specific Z-Crystal]] that it wields. The wheel also has four jewels attached to it. The pattern of striated gray of Arceus's underbelly resumes past Arceus's waist. Its limbs have gray undersides and extrusions at the tops of the legs. Arceus's tail is fairly like its mane in shape and coloration. According to legend, it shaped the Pokémon universe using its 1000 arms.
+
+Arceus is thought to have created the [[Sinnoh]] region and possibly the entire [[Pokémon world]], the [[lake guardians]] {{p|Uxie}}, {{p|Azelf}}, and {{p|Mesprit}}; and the [[creation trio]] {{p|Dialga}}, {{p|Palkia}}, and {{p|Giratina}}. Because of this, Arceus is thought to be one of the most long-lived of all Pokémon species. It has the power to recreate the creation trio as well, presumably to guard the dimensions when a Trainer has caught one of them. According to the anime, its power can also bring back things that it once destroyed, make certain things vanish into thin air, or to halt time.
+
+Arceus is shown to care for and safeguard the planet in ancient times and protected it from cataclysms such as meteors, and it would show gratitude and compassion in return to those who treated it with equal kindness. Arceus does not suffer fools gladly, and it will attack in a violent rampage if betrayed or deceived. It also holds long grudges if betrayed by those it considered friends. In ''[[M12|Arceus and the Jewel of Life]]'', it is said to "feed" off the energy of the elemental plates. It is the [[signature move|only known Pokémon]] that can learn {{m|Judgment}}.
+
+==In the anime==
+[[File:Arceus M12.png|thumb|250px|left|Arceus in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Arceus (M12)]]====
+Arceus debuted in ''[[M12|Arceus and the Jewel of Life]]''. It was angry at the people of [[Michina Town]] for [[Damos]]'s unwitting betrayal of it in ancient times, and so attempted to destroy the land. When Ash and his friends are teleported by {{mov|Dialga}} to ancient times, they directly influence the event, changing the future for the better so that Arceus will stop its destruction.
+
+====Other====
+Arceus made a cameo appearance in ''[[M18|Hoopa and the Clash of Ages]]'', where {{Ash}}, {{ashfr}}, [[Baraz]], [[Meray]], and {{an|Hoopa}} saw it floating in the sky before it soared away.
+
+===Minor appearances===
+
+==In the manga==
+[[File:Arceus Adventures.png|thumb|200px|left|Arceus in [[Pokémon Adventures]]]]
+[[File:Arceus Multitype Adventures.png|thumb|Arceus's various forms in [[Pokémon Adventures]]]]
+===In the movie adaptations===
+Arceus appears as a central character in the {{ma|Arceus and the Jewel of Life}} manga adaptation, reprising its role from the film. After Arceus saved the world from a meteor, [[Damos]] took care of it. It gave Damos the [[Jewel of Life]] to make the land of [[Michina Town]] rich and fertile. Damos then "betrayed" Arceus, and it has been outraged ever since.
+
+===In the Pokémon Adventures manga===
+{{main|Arceus (Adventures)}}
+In the {{chap|HeartGold & SoulSilver}}, Arceus appears as one of the main antagonists, where it plans on destroying humanity due to its mistrust of humans. It was the target of [[Team Rocket]]'s plans to create {{p|Dialga}}, {{p|Palkia}}, and {{p|Giratina}}. It first appeared in ''[[PS450|With a Little Help From Hitmonchan]]''.
+{{-}}
+
+==In the TCG==
+{{main|Arceus (TCG)}}
+Arceus appears in the TCG in all {{TCG|type}}s but {{TCG|Dragon}} and {{TCG|Fairy}}, and a player can have as many Arceus cards in their deck as they like, unlike all other cards in the game (besides {{TCG|Basic Energy card}}s). Cards based on Arceus first appeared in the {{TCG|Platinum: Arceus|Arceus}} expansion set.
+
+==Other appearances==
+===[[Super Smash Bros. for Nintendo 3DS/Wii U]]===
+Arceus appears as a Poké Ball summon in game. It will use {{m|Gravity}} to produce a shockwave that brings opponents downwards.
+
+====Trophy information====
+''[[Sinnoh myths#The Original Story|A Pokémon said to have hatched from an egg that appeared from nothing. Newly hatched, it created the world and the sky.]] Its Gravity attack will bring any fighter in midair crashing down to earth. No ground below you? Looks like you're going to go plummeting off the stage as if you'd been hit by a Meteor Smash! ''
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Normal}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.}}
+{{Dex/Entry1|v=Pearl|entry=It is told in mythology that this Pokémon was born before the universe even existed.}}
+{{Dex/Entry1|v=Platinum|entry=It is said to have emerged from an egg in a place where there was nothing, then shaped the world.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=According to the legends of [[Sinnoh]], this Pokémon emerged from an egg and shaped all there is in this world.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|t=FFF|v2=White|entry=It is said to have emerged from an egg in a place where there was nothing, then shaped the world.}}
+{{Dex/Entry2|v=Black 2|t=FFF|v2=White 2|entry=It is said to have emerged from an egg in a place where there was nothing then shaped the world.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.}}
+{{Dex/Entry1|v=Y|entry=It is told in mythology that this Pokémon was born before the universe even existed.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It is told in mythology that this Pokémon was born before the universe even existed.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl|area={{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Platinum|area={{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y|area={{pkmn2|Event}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area={{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Trade]]<br>[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area={{pkmn2|Event}}}}
+|}
+|}
+{{Availability/Footer}}
+
+Arceus was originally intended to appear in {{game2|Diamond|Pearl|Platinum}} in the [[Hall of Origin]] when summoned using an [[event item]] called the [[Azure Flute]]. However, the Azure Flute was never distributed, although the text seen when receiving the 20th Anniversary Arceus states that Arceus could first be obtained in Diamond and Pearl in the Hall of Origin.
+
+====In side games====
+[[File:Conquest Arceus appearance.png|thumb|right|200px|Arceus and the [[hero]] of Pokémon Conquest]]
+[[File:Conquest Arceus appearance 2.png|thumb|right|200px|Arceus and the [[heroine]] of Pokémon Conquest]]
+{{Availability/Header|type=Normal}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Sky Fortress]] ([[Ranger Net]] mission)}}
+{{Availability/Entry1|1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Light Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: All ([[Pokémon Rumble Blast#Legendary Boss Pokémon|Random Legendary Encounters]]){{tt|*|Complete Team Battle EX-6 }}}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Aurora]] (special)<br>[[Dragnor]] (special)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Challenge Battle#The Final Battle Royale|Challenge Battle: The Final Battle Royale]] <small>(Reward)</small>}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Distortion Island#Stage 5|Distortion Island: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: ''[[Special Stages#Ultra Challenge|Arceus Arrives]]''<br>Event: ''[[Special Stages#Ultra Challenge|Arceus Appears]]''}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Legend Terrain#Bastion of Beginnings|Legend Terrain: Bastion of Beginnings]] <small>(Special Boss; type changes daily)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 30|Area 30: Stage 15]] (As a {{DL|Pokémon Picross|Mythical Pokémon}})}}
+|}
+|}
+{{Availability/Footer}}
+
+A statue of Arceus can be found in {{g|Mystery Dungeon: Explorers of Sky}} at [[Destiny Tower]].
+
+====In events====
+{{eventAvail/h|Language/Region|type=Normal}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Cinema Arceus|Japanese|Japan|100|July 11 to September 30, 2009|link=List of local Japanese event Pokémon distributions in Generation IV#Cinema Arceus}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Toys "R" Us Arceus|English|United States|100|November 7 to 15, 2009|link=List of local English event Pokémon distributions in Generation IV#Toys "R" Us Arceus}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Michina Arceus|English|Australia|100|November 5 to 16, 2009|link=List of local English event Pokémon distributions in Generation IV#Australian Michina Arceus}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Cinema Arceus|Korean|South Korea|100|December 24, 2009 to January 31, 2010|link=List of local Korean event Pokémon distributions in Generation IV#Cinema Arceus}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Michina Arceus|German|Germany|100|February 17 to April 9, 2010|link=List of local German event Pokémon distributions in Generation IV#Michina Arceus}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Michina Arceus|Italian|Italy|100|February 17 to March 26, 2010|link=List of local Italian event Pokémon distributions in Generation IV#Michina Arceus}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Michina Arceus|English|Europe|100|February 20 to April 10, 2010|link=List of local English event Pokémon distributions in Generation IV#European Michina Arceus}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Michina Arceus|French|Europe|100|February 22 to April 11, 2010|link=List of local French event Pokémon distributions in Generation IV#Michina Arceus}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Michina Arceus|Spanish|Spain|100|February 22 to April 11, 2010|link=List of local Spanish event Pokémon distributions in Generation IV#Michina Arceus}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Dahara City Arceus|Japanese region|Online|100|March 7 to August 31, 2015<br>November 20 to December 17, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Dahara City Arceus}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Dahara City Arceus|Taiwanese region|Online|100|November 20 to December 17, 2015|link=List of Taiwanese region serial code event Pokémon distributions in Generation VI#Dahara City Arceus}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Dahara City Arceus|Korean region|Online|100|December 15, 2015 to February 29, 2016|link=List of Korean region serial code event Pokémon distributions in Generation VI#Dahara City Arceus}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Manesh Arceus|Japanese region|Online|100|December 21, 2015 to January 30, 2016|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Manesh Arceus}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Manesh Arceus|American region|Online|100|December 21, 2015 to January 30, 2016|link=List of American region serial code event Pokémon distributions in Generation VI#Manesh Arceus}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon 20th Anniversary Arceus|American region|Online|100|July 30 to November 30, 2016<br>December 1 to 31, 2016|link=List of American region serial code event Pokémon distributions in Generation VI#Arceus}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon 20th Anniversary Arceus|PAL region|Online|100|July 30 to November 30, 2016<br>December 1 to 31, 2016|link=List of PAL region serial code event Pokémon distributions in Generation VI#Arceus}}
+{{eventAvail|{{gameabbrev7|USUM}}|CoroCoro Arceus|Japanese region|Online|100|January 15 to March 14, 2018
+|link=List of Japanese region serial code event Pokémon distributions in Generation VII#CoroCoro Arceus}}
+|}
+
+====Pokémon Global Link promotions====
+{{eventAvail/h|type=Normal}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Arceus|Japanese|PGL|100|November 5, 2010 to January 31, 2011|link=List of Pokémon Global Link promotions/Pokémon#Arceus}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Arceus|English|PGL|100|February 1 to May 1, 2012|link=List of Pokémon Global Link promotions/Pokémon#Arceus}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Arceus|French|PGL|100|February 1 to May 1, 2012|link=List of Pokémon Global Link promotions/Pokémon#Arceus}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Arceus|German|PGL|100|February 1 to May 1, 2012|link=List of Pokémon Global Link promotions/Pokémon#Arceus}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Arceus|Italian|PGL|100|February 1 to May 1, 2012|link=List of Pokémon Global Link promotions/Pokémon#Arceus}}
+{{eventAvail|{{gameabbrev5|BW}}|Global Link Arceus|Spanish|PGL|100|February 1 to May 1, 2012|link=List of Pokémon Global Link promotions/Pokémon#Arceus}}
+|}
+
+===Held items===
+{{HeldItems|type=Normal
+|event1=Rowap Berry|event1type=Berry|event1rar=100
+|event2=Silk Scarf|event2type=None|event2rar=???
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Normal
+|HP=     120
+|Attack= 120
+|Defense=120
+|SpAtk=  120
+|SpDef=  120
+|Speed=  120}}
+
+===Pokéathlon stats===
+====No [[Plate]] equipped====
+{{Pokéthlon
+|type=Normal
+|Speed=5
+|SpeedMax=5
+|Power=5
+|PowerMax=5
+|Technique=5
+|TechniqueMax=5
+|Stamina=5
+|StaminaMax=5
+|Jump=5
+|JumpMax=5
+}}
+
+====With a [[Plate]] equipped====
+'''With Fist Plate'''
+{{Pokéthlon
+|type=Fighting
+|Speed=4
+|SpeedMax=5
+|Power=5
+|PowerMax=5
+|Technique=5
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=4
+|JumpMax=5
+}}
+
+'''With Sky Plate'''
+{{Pokéthlon
+|type=Flying
+|Speed=5
+|SpeedMax=5
+|Power=4
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=5
+|JumpMax=5
+}}
+
+'''With Toxic Plate'''
+{{Pokéthlon
+|type=Poison
+|Speed=4
+|SpeedMax=5
+|Power=4
+|PowerMax=5
+|Technique=5
+|TechniqueMax=5
+|Stamina=5
+|StaminaMax=5
+|Jump=4
+|JumpMax=5
+}}
+
+'''With Earth Plate'''
+{{Pokéthlon
+|type=Ground
+|Speed=4
+|SpeedMax=5
+|Power=5
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=5
+|StaminaMax=5
+|Jump=4
+|JumpMax=5
+}}
+
+'''With Stone Plate'''
+{{Pokéthlon
+|type=Rock
+|Speed=4
+|SpeedMax=5
+|Power=5
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=5
+|StaminaMax=5
+|Jump=4
+|JumpMax=5
+}}
+
+'''With Insect Plate'''
+{{Pokéthlon
+|type=Bug
+|Speed=5
+|SpeedMax=5
+|Power=4
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=5
+|JumpMax=5
+}}
+
+'''With Spooky Plate'''
+{{Pokéthlon
+|type=Ghost
+|Speed=4
+|SpeedMax=5
+|Power=4
+|PowerMax=5
+|Technique=5
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=5
+|JumpMax=5
+}}
+
+'''With Iron Plate'''
+{{Pokéthlon
+|type=Steel
+|Speed=4
+|SpeedMax=5
+|Power=4
+|PowerMax=5
+|Technique=5
+|TechniqueMax=5
+|Stamina=5
+|StaminaMax=5
+|Jump=4
+|JumpMax=5
+}}
+
+'''With Flame Plate'''
+{{Pokéthlon
+|type=Fire
+|Speed=4
+|SpeedMax=5
+|Power=5
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=5
+|StaminaMax=5
+|Jump=4
+|JumpMax=5
+}}
+
+'''With Splash Plate'''
+{{Pokéthlon
+|type=Water
+|Speed=5
+|SpeedMax=5
+|Power=4
+|PowerMax=5
+|Technique=5
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=4
+|JumpMax=5
+}}
+
+'''With Meadow Plate'''
+{{Pokéthlon
+|type=Grass
+|Speed=4
+|SpeedMax=5
+|Power=4
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=5
+|StaminaMax=5
+|Jump=5
+|JumpMax=5
+}}
+
+'''With Zap Plate'''
+{{Pokéthlon
+|type=Electric
+|Speed=5
+|SpeedMax=5
+|Power=4
+|PowerMax=5
+|Technique=5
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=4
+|JumpMax=5
+}}
+
+'''With Mind Plate'''
+{{Pokéthlon
+|type=Psychic
+|Speed=5
+|SpeedMax=5
+|Power=4
+|PowerMax=5
+|Technique=5
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=4
+|JumpMax=5
+}}
+
+'''With Icicle Plate'''
+{{Pokéthlon
+|type=Ice
+|Speed=5
+|SpeedMax=5
+|Power=5
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=4
+|JumpMax=5
+}}
+
+'''With Draco Plate'''
+{{Pokéthlon
+|type=Dragon
+|Speed=3
+|SpeedMax=5
+|Power=5
+|PowerMax=5
+|Technique=5
+|TechniqueMax=5
+|Stamina=5
+|StaminaMax=5
+|Jump=5
+|JumpMax=5
+}}
+
+'''With Dread Plate'''
+{{Pokéthlon
+|type=Dark
+|Speed=4
+|SpeedMax=5
+|Power=4
+|PowerMax=5
+|Technique=5
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=5
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Normal
+|Normal=  100
+|Fighting=200
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=     0
+|Steel=   100
+|Fire=    100
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100
+|notes=yes
+|normal=yes
+|newghost=1}}
+
+For the type effectiveness when Arceus is holding a [[Plate]], see [[type chart]]. In Generation IV, if Arceus was [[Cheating|hacked]] to be {{type|???}}, this Pokémon is damaged normally by moves of all types.
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Arceus|Normal|Normal|4}}
+{{learnlist/level7|1|Seismic Toss|Fighting|Physical|&mdash;|100|20}}
+{{learnlist/level7|1|Cosmic Power|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|1|Punishment|Dark|Physical|&mdash;|100|5||''}}
+{{learnlist/level7|10|Gravity|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|20|Earth Power|Ground|Special|90|100|10||''}}
+{{learnlist/level7|30|Hyper Voice|Normal|Special|90|100|10||'''}}
+{{learnlist/level7|40|Extreme Speed|Normal|Physical|80|100|5||'''}}
+{{learnlist/level7|50|Refresh|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|60|Future Sight|Psychic|Special|120|100|10||''}}
+{{learnlist/level7|70|Recover|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|80|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/level7|90|Perish Song|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|100|Judgment|Normal|Special|100|100|10||'''}}
+{{learnlist/levelf/7|Arceus|Normal|Normal|4|form=yes}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Arceus|Normal|Normal|4}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15||''}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10||''}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||''}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5||'''}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||''}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||''}}
+{{learnlist/tm7|TM26|Earthquake|Ground|Physical|100|100|10||''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15||''}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15||''}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15||''}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||''}}
+{{learnlist/tm7|TM37|Sandstorm|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5||''}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15||''}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20||''}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20||'''}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15||'''}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15||'''}}
+{{learnlist/tm7|TM50|Overheat|Fire|Special|130|90|5||''}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5||''}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||''}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||''}}
+{{learnlist/tm7|TM60|Quash|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM61|Will-O-Wisp|Fire|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15||''}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5||'''}}
+{{learnlist/tm7|TM71|Stone Edge|Rock|Physical|100|80|5||''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|&mdash;|90|20}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM76|Fly|Flying|Physical|90|95|15||''}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM78|Bulldoze|Ground|Physical|60|100|20||''}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10||''}}
+{{learnlist/tm7|TM81|X-Scissor|Bug|Physical|80|100|15||''}}
+{{learnlist/tm7|TM84|Poison Jab|Poison|Physical|80|100|20||''}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||''}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||''}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Arceus|Normal|Normal|4|form=yes}}
+
+====By {{pkmn|breeding}}====
+{{Learnlist/breedh/7|Arceus|Normal|Normal|4}}
+{{Learnlist/breed7null}}
+{{Learnlist/breedf/7|Arceus|Normal|Normal|4|form=yes}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Arceus|Normal|Normal|4}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||''|no|yes}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Draco Meteor|Dragon|Special|130|90|5|{{tt|*|With Draco Plate}}|''|yes|yes}}
+{{learnlist/tutor7|Dragon Pulse|Dragon|Special|85|100|10||''|no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10||''|no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||''|no|yes}}
+{{learnlist/tutor7|Gravity|Psychic|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Heat Wave|Fire|Special|95|90|10||''|no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||''|no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15||''|no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Last Resort|Normal|Physical|140|100|5||'''|no|yes}}
+{{learnlist/tutor7|Liquidation|Water|Physical|85|100|10||''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Outrage|Dragon|Physical|120|100|10||''|no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15||''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15||'''|no|yes}}
+{{learnlist/tutor7|Stealth Rock|Rock|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Tailwind|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||''|no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||''|no|yes}}
+{{learnlist/tutorf/7|Arceus|Normal|Normal|4|form=yes}}
+
+===Side game data===
+{{Spindata/Head|type=Normal}}
+{{Spindata/Ranger GS|col=6|type=Normal
+|group=Normal
+|assist=Normal
+|field=None
+|fieldp=Tackle
+|browser=It protects itself with psychic orbs that bring meteors down.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Normal
+|att=5
+|def=5
+|speed=4
+}}
+|-
+{{Spindata/Conquest|col=6|type=Normal|ndex=493
+|HP=5
+|atk=4
+|def=5
+|spd=5
+|range=4
+|move=Judgment
+|ability1=Omnipotent
+|evo=Does not evolve into or from anything
+|link='''[[Hero]]'''/'''[[Heroine]]'''
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Normal|ndex=493
+|power=5
+|skill=Brute Force
+|skilldesc=Deals normal damage even to types resistant to its type.
+}}
+{{Spindata/Shuffle|col=3|type=Normal|ndex=493|num=274
+|min=90
+|max=150
+|raisemaxlevel=20
+|skill=Double Normal
+|skilldesc=Deals a lot more damage done by any Normal types in the combo.
+}}
+|}
+
+===Evolution===
+{{Evobox-1
+|type1=Normal
+|pictype=art
+|no1=493
+|name1=Arceus
+|type1-1=Normal}}
+
+{| class="roundy" style="margin:auto; text-align:center; background: #{{unknown color}}; border: 3px solid #{{unknown color dark}}"
+|-
+|
+{{Evobox/Setup|493Arceus Dream|Arceus|Normal|Normal|Normal|No {{color2|000|Plate}}<br>or {{color2|000|Z-Crystal}}}}
+|
+{{Evobox/Setup|493Arceus Grass Dream|Arceus|Grass|Grass|Grass|[[File:Bag Meadow Plate Sprite.png]] {{color2|000|Meadow Plate}}<br>[[File:Held Grassium Z Sprite.png]] {{color2|000|Grassium Z}}}}
+|
+{{Evobox/Setup|493Arceus Fire Dream|Arceus|Fire|Fire|Fire|[[File:Bag Flame Plate Sprite.png]] {{color2|000|Flame Plate}}<br>[[File:Held Firium Z Sprite.png]] {{color2|000|Firium Z}}}}
+|
+{{Evobox/Setup|493Arceus Water Dream|Arceus|Water|Water|Water|[[File:Bag Splash Plate Sprite.png]] {{color2|000|Splash Plate}}<br>[[File:Held Waterium Z Sprite.png]] {{color2|000|Waterium Z}}}}
+|
+{{Evobox/Setup|493Arceus Flying Dream|Arceus|Flying|Flying|Flying|[[File:Bag Sky Plate Sprite.png]] {{color2|000|Sky Plate}}<br>[[File:Held Flyinium Z Sprite.png]] {{color2|000|Flyinium Z}}}}
+|
+{{Evobox/Setup|493Arceus Bug Dream|Arceus|Bug|Bug|Bug|[[File:Bag Insect Plate Sprite.png]] {{color2|000|Insect Plate}}<br>[[File:Held Buginium Z Sprite.png]] {{color2|000|Buginium Z}}}}
+|-
+|
+{{Evobox/Setup|493Arceus Poison Dream|Arceus|Poison|Poison|Poison|[[File:Bag Toxic Plate Sprite.png]] {{color2|000|Toxic Plate}}<br>[[File:Held Poisonium Z Sprite.png]] {{color2|000|Poisonium Z}}}}
+|
+{{Evobox/Setup|493Arceus Electric Dream|Arceus|Electric|Electric|Electric|[[File:Bag Zap Plate Sprite.png]] {{color2|000|Zap Plate}}<br>[[File:Held Electrium Z Sprite.png]] {{color2|000|Electrium Z}}}}
+|
+{{Evobox/Setup|493Arceus Psychic Dream|Arceus|Psychic|Psychic|Psychic|[[File:Bag Mind Plate Sprite.png]] {{color2|000|Mind Plate}}<br>[[File:Held Psychium Z Sprite.png]] {{color2|000|Psychium Z}}}}
+|
+{{Evobox/Setup|493Arceus Rock Dream|Arceus|Rock|Rock|Rock|[[File:Bag Stone Plate Sprite.png]] {{color2|000|Stone Plate}}<br>[[File:Held Rockium Z Sprite.png]] {{color2|000|Rockium Z}}}}
+|
+{{Evobox/Setup|493Arceus Ground Dream|Arceus|Ground|Ground|Ground|[[File:Bag Earth Plate Sprite.png]] {{color2|000|Earth Plate}}<br>[[File:Held Groundium Z Sprite.png]] {{color2|000|Groundium Z}}}}
+|
+{{Evobox/Setup|493Arceus Dark Dream|Arceus|Dark|Dark|Dark|[[File:Bag Dread Plate Sprite.png]] {{color2|000|Dread Plate}}<br>[[File:Held Darkinium Z Sprite.png]] {{color2|000|Darkinium Z}}}}
+|-
+|
+{{Evobox/Setup|493Arceus Ghost Dream|Arceus|Ghost|Ghost|Ghost|[[File:Bag Spooky Plate Sprite.png]] {{color2|000|Spooky Plate}}<br>[[File:Held Ghostium Z Sprite.png]] {{color2|000|Ghostium Z}}}}
+|
+{{Evobox/Setup|493Arceus Steel Dream|Arceus|Steel|Steel|Steel|[[File:Bag Iron Plate Sprite.png]] {{color2|000|Iron Plate}}<br>[[File:Held Steelium Z Sprite.png]] {{color2|000|Steelium Z}}}}
+|
+{{Evobox/Setup|493Arceus Fighting Dream|Arceus|Fighting|Fighting|Fighting|[[File:Bag Fist Plate Sprite.png]] {{color2|000|Fist Plate}}<br>[[File:Held Fightinium Z Sprite.png]] {{color2|000|Fightinium Z}}}}
+|
+{{Evobox/Setup|493Arceus Ice Dream|Arceus|Ice|Ice|Ice|[[File:Bag Icicle Plate Sprite.png]] {{color2|000|Icicle Plate}}<br>[[File:Held Icium Z Sprite.png]] {{color2|000|Icium Z}}}}
+|
+{{Evobox/Setup|493Arceus Dragon Dream|Arceus|Dragon|Dragon|Dragon|[[File:Bag Draco Plate Sprite.png]] {{color2|000|Draco Plate}}<br>[[File:Held Dragonium Z Sprite.png]] {{color2|000|Dragonium Z}}}}
+|
+{{Evobox/Setup|493Arceus Fairy Dream|Arceus|Fairy|Fairy|Fairy|[[File:Bag Pixie Plate Sprite.png]] {{color2|000|Pixie Plate}}<br>[[File:Held Fairium Z Sprite.png]] {{color2|000|Fairium Z}}}}
+|}
+
+===Sprites===
+{{Spritebox/Header|type=Normal}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=493}}
+{{Spritebox/5|ndex=493}}
+{{Spritebox/6|ndex=493}}
+{{Spritebox/7|ndex=493}}
+{{Spritebox/Footer|493|Arceus}}
+
+==Trivia==
+<!--Please do not add trivia referring to the episode of House which mentioned Arceus. That belongs on the page "List of references to Pokémon in popular culture", not here.-->
+[[File:493-Unknown.png|thumb|???-type Arceus]]
+* In the Generation IV games, there are sprites for ???-type Arceus, but this is not obtainable without [[cheating]] as there is no ??? [[Plate]].
+* According to the anime dub's then-voice director [[Tom Wayland]], the dub chose to pronounce Arceus with {{wp|Hard and soft C|a hard ''c'' instead of a soft ''c''}} due to concerns over the latter pronunciation's potential {{wp|arse|implications}} in British English-speaking territories.
+* Arceus has the highest base stat total of all {{type|Normal}} Pokémon.
+* Arceus is the only Pokémon with a base stat total of 720 and the only Pokémon that is the last of its [[generation]] in National Pokédex order that does not have a base stat total of 600.
+* Arceus is the only event-exclusive [[trio master]].
+* Arceus is also the only trio master of two different trios, being the master of both the [[lake guardians]] and the [[creation trio]].
+* In its debut generation of Generation IV, it was impossible to legitimately give Arceus more than 100 [[EV]]s in any stat, since it was only ever distributed at [[level]] 100. Prior to Generation V, level 100 Pokémon could not gain EVs through battling since they could not gain [[experience]].
+* Arceus is the only pre-[[Generation V]] Pokémon to never officially receive a [[List of Pokémon by Diamond & Pearl Battle Pokédex number|DPBP number]]. {{p|Kadabra}}, which was not released as a TCG card during the DPBP era, is assumed to be #070, as {{p|Abra}} and {{p|Alakazam}} are #069 and #071, respectively.
+* Arceus received the most votes of all pre-[[Generation V]] Pokémon in the [[Pokémon Global Link]] [[List of Pokémon Global Link promotions/Pokémon#Arceus|promotion]] poll in both the Japanese poll and the international (non-Japanese and non-Korean) poll.
+* Prior to [[Generation VII]], regular Arceus was classified by Pokédex color sorting as gray.
+
+===Origin===
+Arceus is particularly based on a {{wp|creator deity}}, present in many world cultures. Arceus's stance and general form are similar to Egyptian bull and calf idols, particularly {{wp|Apis (god)|Apis}}. Based on its official artwork and attack movements in the 3D games, Arceus may be modeled after a {{wp|horse}} or {{wp|llama}}. The arc on its back may be inspired by the {{wp|Dharmachakra}}, or the {{wp|Bhavacakra}}, used to represent a concept similar to the reincarnation in {{wp|Hinduism}}.
+
+The conception of the first god might be influenced by the {{wp|Shinto}} gods {{wp|Kunitokotachi}} and {{wp|Amenominakanushi}}, who summoned {{wp|Izanami-no-Mikoto|Izanami}} and {{wp|Izanagi}} to create Japan with the spear. It may also be a reference to the {{wp|qilin}}, a Chinese mythical creature. Its myth is nearly identical to the {{wp|Cosmic egg}}, found in creation myths of many cultures and civilizations. Arceus may also represent or be inspired by the {{wp|bodhisattva}} {{wp|Avalokiteśvara}}, who, in {{wp|Buddhism}}, is either pictured with eleven heads and one thousand arms (the latter of which is mentioned in Arceus's Pokédex entry) or in a {{wp|Avalokiteśvara#Tibetan Account|white, four-armed manifestation}} (which could look similar to Normal-type Arceus).
+
+====Name origin====
+Arceus may be a combination of ''[[wiktionary:arch-|arch-]]'' (most extreme, highest), ''{{wp|archon}}'' (a Greek word that means "ruler" or "lord"), ''[[wiktionary:arcanus|arcanus]]'' (Latin for ''secret, mystery''), ''archaic'' (ancient), αρχή ''arkhē'' (Greek for ''beginning''), or ''archetypus'' (Latin for ''original''), and ''{{wp|deus}}'' (Latin for ''god''). It may also derive from ''[[wiktionary:aureus|aureus]]'' (golden, in reference to its hooves and wheel), ''[[wiktionary:arc|arc]]'' (round or ring), ''arcessere'' (Latin for ''to summon''), or ''{{wp|Archeus}}'' (an aspect of the astral plane).
+
+==In other languages==
+{{Other languages|type=Normal|type2=Normal
+|ja=アルセウス ''Arceus''|jameaning=From a combination of ''arch'', ''archon'', ''arcanus'' (Latin for secret/sacred mystery), ''archaic'' (ancient), αρχή ''arkhē'' (Greek for beginning), or ''archetypus'' (Latin for original), and ''deus'' (Latin for god). May also derive from ''aureus'' (golden), ''arc'' (round or ring), or ''Archeus'' (an aspect of the astral plane).
+|de=Arceus|demeaning=Same as Japanese name
+|fr=Arceus|frmeaning=Same as Japanese name
+|es=Arceus|esmeaning=Same as Japanese name
+|it=Arceus|itmeaning=Same as Japanese name
+|ko=아르세우스 ''Arceus''|komeaning=Transliteration of Japanese name
+|zh_yue=阿爾宙斯 ''Ayíhjauhsī''|zh_yuemeaning=Mandarin-based transliteration of its Japanese name. Also a portmanteau of {{tt|阿爾法 ''áyíhfaat''|alpha}} and {{tt|宙斯 ''Jauhsī''|Zeus}}.
+|zh_cmn=阿爾宙斯 / 阿尔宙斯 ''Ā'ěrzhòusī''|zh_cmnmeaning=Transliteration of its Japanese name. Also a portmanteau of {{tt|阿爾法 / 阿尔发 ''ā'ěrfǎ''|alpha}} and {{tt|宙斯 ''Zhòusī''|Zeus}}.
+|el=Αρκέους ''Arkéous''|elmeaning=Transcription of English name
+|ru=Аркеус ''Arkeus''|rumeaning=Transcription of English name
+|th=อาร์เซอุส ''Arceus''|thmeaning=Transliteration of Japanese name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Arceus (M12)]]
+* [[Arceus (Adventures)]]
+* [[Lake guardians]]
+* [[Creation trio]]
+
+==External links==
+* {{wp|Arceus|Article on Wikipedia}}
+* [http://www.smogon.com/dex/xy/pokemon/arceus-grass Grass-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-fire Fire-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-water Water-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-flying Flying-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-bug Bug-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-poison Poison-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-electric Electric-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-psychic Psychic-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-rock Rock-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-ground Ground-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-dark Dark-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-ghost Ghost-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-steel Steel-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-fighting Fighting-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-ice Ice-type Arceus] on Smogon Pokédex
+* [http://www.smogon.com/dex/xy/pokemon/arceus-dragon Dragon-type Arceus] on Smogon Pokédex
+
+{{-}}
+{{EventExclusive}}<br>
+{{Legendary Pokémon}}<br>
+{{Smash Bros.}}<br>
+{{PokémonPrevNext/Head|type=Normal}}
+{{PokémonPrevNext/Pokémon|type=Normal|prevnum=492|prev=Shaymin|nextnum=494|next=Victini}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that are not part of an evolutionary line]]
+[[Category:Mythical Pokémon]]
+[[Category:Promotion-only Pokémon]]
+[[Category:Trio masters]]
+[[Category:Pokémon in no regional Pokédex]]
+
+[[de:Arceus]]
+[[fr:Arceus]]
+[[it:Arceus]]
+[[ja:アルセウス]]
+[[pl:Arceus]]
+[[zh:阿尔宙斯]]

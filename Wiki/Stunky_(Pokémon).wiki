@@ -1,0 +1,440 @@
+{{PokémonPrevNext/Head|type=Poison|type2=Dark}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=433|prev=Chingling|nextnum=435|next=Skuntank}}
+|}
+{{Pokémon Infobox
+|name=Stunky
+|jname=スカンプー
+|jtranslit=Sukanpū
+|tmname=Skunpoo
+|ndex=434
+|sdex=084
+|karea=Coastal
+|kdex=102
+|abrow=144
+|obrow=053
+|opbrow=149
+|typebox=1
+|type1=Poison
+|type2=Dark
+|category=Skunk
+|height-ftin=1'04"
+|height-m=0.4
+|weight-lbs=42.3
+|weight-kg=19.2
+|abilityn=d
+|ability1=Stench
+|ability2=Aftermath
+|abilityd=Keen Eye
+|egggroupn=1
+|egggroup1=Field
+|eggcycles=20
+|evtotal=1
+|evsp=1
+|expyield=66
+|oldexp=79
+|lv100exp=1,000,000
+|gendercode=127
+|color=Purple
+|catchrate=225
+|body=08
+|pokefordex=stunky
+|generation=4
+|friendship=70
+}}
+'''Stunky''' ([[List of Japanese Pokémon names|Japanese]]: '''スカンプー''' ''Skunpoo'') is a dual-type {{2t|Poison|Dark}} {{OBP|Pokémon|species}} introduced in [[Generation IV]].
+
+It [[Evolution|evolve]]s into {{p|Skuntank}} starting at [[level]] 34.
+
+==Biology==
+Stunky is a small, skunk-like Pokémon with dark-purple fur. Its face is large and rounded, with a narrow red nose, red-rimmed eyes, and two pairs of somewhat "V"-shaped cream-colored whiskers on the sides of its face. It has two pointed ears that appear red on the inside. A stripe of cream-colored fur runs along its back from the neck to the tail, with a small tuft protruding from the base of the neck. Its tail is raised high, and ends with spiked hair pointed behind it. It has a cream-colored underbelly, and four short legs, that end in paws with three small, white claws.
+
+Stunky can spray a foul-smelling liquid from its rear in order to drive attackers away. The stench can be smelled from over a mile away, and will linger for around 24 hours.
+
+==In the anime==
+[[File:Officer Jenny Stunky.png|thumb|left|220px|Stunky in the {{pkmn|anime}}]]
+===In the main series===
+====Major appearances====
+Stunky debuted in ''[[DP036|A Secret Sphere of Influence!]]'', where it belonged to [[Officer Jenny]]. When {{TRT}} had stolen the [[Adamant Orb]], Stunky managed to scare them off with its poison.
+
+Another Stunky was shown to be under the command of a different [[Officer Jenny]] in ''[[DP096|Losing Its Lustrous!]]''. It was guarding the Adamant Orb whilst it was being transported to [[Celestic Town]] when [[Team Galactic]] attacked.
+
+====Minor appearances====
+A Stunky made a cameo appearance in ''[[M10|The Rise of Darkrai]]'' as one of the Pokémon {{mov|Darkrai|Darkrai|10}} hit with a {{m|Dark Void}}.
+
+A Stunky was seen under [[Reggie]]'s care in ''[[DP066|Lost Leader Strategy!]]''.
+
+A {{pkmn|Coordinator}}'s Stunky was used in the [[Contest Battle|Battle Stage]] of the {{to|Sandalstraw}} {{pkmn|Contest}} in ''[[DP123|Old Rivals, New Tricks!]]''.
+
+A Stunky appeared in ''[[DP125|Battling a Cute Drama!]]''.
+
+A Stunky was owned by one of the students of Snowpoint Trainers' School in ''[[DP126|Classroom Training!]]''.
+
+A {{pkmn|Trainer}}'s Stunky appeared in ''[[DP160|A Marathon Rivalry!]]'', where it was seen participating in the [[Pokéathlon]] held in [[Camellia Town]].
+
+A Stunky appeared in the opening sequence of ''[[M13|Zoroark: Master of Illusions]]''.
+
+A Stunky appeared in ''[[PK27|Pikachu and the Pokémon Music Squad]]''.
+
+A wild Stunky appeared in ''[[M19|Volcanion and the Mechanical Marvel]]'', as one of the Pokémon residing at [[Nebel Plateau]].
+
+====Pokédex entries====
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP036|Stunky|Ash's Pokédex|Stunky, the Skunk Pokémon. It protects itself by spraying a {{a|Stench|foul smelling liquid}} from its hindquarters which lasts for twenty-four hours.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+===In Pokémon Generations===
+[[File:Team Galactic Stunky PG.png|thumb|200px|Stunky in [[Pokémon Generations]]]]
+A Stunky appeared in ''[[PG11|The New World]]'', under the ownership of a {{tc|Galactic Grunt}}.
+{{-}}
+
+==In the manga==
+[[File:Charon Stunky DPA.png|thumb|150px|Stunky in {{pkmn|Diamond and Pearl Adventure!}}]]
+===In the Pokémon Adventures manga===
+A wild Stunky appears in ''[[PS348|A Big Stink Over Stunky]]''. Its {{a|Stench}} caused {{adv|Platinum}} to faint while riding down {{rt|206|Sinnoh}}'s Cycling Road.
+
+A Stunky appeared in a flashback in ''[[PS361|Bombastic Bibarel & Heroic Hippopotas]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+Stunky is one of the Pokémon [[Charon]] conditioned into a fighting machine in ''[[DPA32|Charon Must Be Stopped!]]''. It was subdued by [[Hareta's Minun]]'s {{m|Sing}}.
+
+==In the TCG==
+{{main|Stunky (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Poison|type2=Dark}}
+{{Dex/NA|gen=IV}}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It protects itself by spraying a noxious fluid from its rear. The {{a|stench}} lingers for 24 hours.}}
+{{Dex/Entry1|v=Pearl|entry=It sprays a nose-curling, stinky fluid from its rear to repel attackers.}}
+{{Dex/Entry1|v=Platinum|entry=It sprays a foul fluid from its rear. Its stench spreads over a {{tt|mile|1.6 kilometer}} radius, driving Pokémon away.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=The foul fluid from its rear is so revolting that it can make people feel queasy up to {{tt|a mile and a quarter|two kilometers}} away.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It sprays a foul fluid from its rear. Its stench spreads over a {{tt|mile|1.6 kilometer}} radius, driving Pokémon away.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It sprays a foul fluid from its rear. Its stench spreads over a {{tt|mile|1.6 kilometer}} radius, driving Pokémon away.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It sprays a foul fluid from its rear. Its stench spreads over a {{tt|mile|1.6 kilometer}} radius, driving Pokémon away.}}
+{{Dex/Entry1|v=Y|entry=It protects itself by spraying a noxious fluid from its rear. The {{a|stench}} lingers for 24 hours.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=It sprays a foul fluid from its rear. Its stench spreads over a {{tt|mile|1.6 kilometer}} radius, driving Pokémon away.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=It protects itself by spraying a noxious fluid from its rear. The {{a|stench}} lingers for 24 hours.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Poison|type2=Dark}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|v=Diamond|area=[[Route]]s {{rtn|206|Sinnoh}}, {{rtn|214|Sinnoh}}, and {{rtn|221|Sinnoh}}}}
+{{Availability/Entry1/None|v=Pearl}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2/None|v=HeartGold|v2=SoulSilver}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White}}
+{{Availability/Entry1|v=Black 2|t=fff|area=[[Hidden Grotto]] (any){{tt|*|During special Funfest mission}}}}
+{{Availability/Entry1/None|v=White 2}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Spooky Manor}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{rt|11|Kalos}}}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Poison|type2=Dark}}
+{{Availability/NA|gen=IV}}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (B1-B13), [[Mystery Jungle]] (B1-B29)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] (B1-B13), [[Mystery Jungle]] (B1-B29)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Volcano Cave]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Eternal Tower]]}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Haunted Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Rasp Cavern]], [[Ice Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Everspring Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Melodious Woodland#Major Clean-Up|Melodious Woodland: Major Clean-Up]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 1|Pitch-Black Cavern: Stage 1]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Roseus Center|Roseus Center: Stage 279]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Pearl Marsh#Fluffy Meadow|Pearl Marsh: Fluffy Meadow]] <small>(All Areas)</small>, [[Plasma Tundra#Abundant Orchard|Plasma Tundra: Abundant Orchard]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems|type=Poison|type2=Dark
+|d1=Pecha Berry|d1type=Berry|d1rar=5
+|bl21=Pecha Berry|bl21type=Berry|bl21rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Poison
+|type2=Dark
+|HP=63
+|Attack=63
+|Defense=47
+|SpAtk=41
+|SpDef=41
+|Speed=74}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Poison
+|type2=Dark
+|Speed=3
+|SpeedMax=5
+|Power=2
+|PowerMax=4
+|Technique=2
+|TechniqueMax=3
+|Stamina=2
+|StaminaMax=3
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Poison
+|type2=Dark
+|Normal=100
+|Fighting=100
+|Flying=100
+|Poison=50
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=50
+|Steel=100
+|Fire=100
+|Water=100
+|Grass=50
+|Electric=100
+|Psychic=0
+|Ice=100
+|Dragon=100
+|Dark=50
+|Fairy=100
+|notes=yes
+|dark=yes
+|newpsychic=2}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Stunky|Poison|Dark|4}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Focus Energy|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/level7|3|Poison Gas|Poison|Status|&mdash;|90|40}}
+{{learnlist/level7|7|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|9|Fury Swipes|Normal|Physical|18|80|15}}
+{{learnlist/level7|13|Smokescreen|Normal|Status|&mdash;|100|20}}
+{{learnlist/level7|15|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level7|19|Acid Spray|Poison|Special|40|100|20||'''}}
+{{learnlist/level7|21|Bite|Dark|Physical|60|100|25||'''}}
+{{learnlist/level7|25|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|27|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/level7|31|Night Slash|Dark|Physical|70|100|15||'''}}
+{{learnlist/level7|33|Memento|Dark|Status|&mdash;|100|10}}
+{{learnlist/level7|37|Venom Drench|Poison|Status|&mdash;|100|20}}
+{{learnlist/level7|39|Sucker Punch|Dark|Physical|70|100|5||'''}}
+{{learnlist/level7|43|Belch|Poison|Special|120|90|10||'''}}
+{{learnlist/level7|45|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/levelf/7|Stunky|Poison|Dark|4}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Stunky|Poison|Dark|4}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM09|Venoshock|Poison|Special|65|100|10||'''}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM35|Flamethrower|Fire|Special|90|100|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10||'''}}
+{{learnlist/tm7|TM38|Fire Blast|Fire|Special|110|85|5}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25||'''}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM64|Explosion|Normal|Physical|250|100|5}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM95|Snarl|Dark|Special|55|95|15||'''}}
+{{learnlist/tm7|TM97|Dark Pulse|Dark|Special|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Stunky|Poison|Dark|4}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Stunky|Poison|Dark|4}}
+{{learnlist/breed7|{{MSP|050|Diglett}}{{MSP|050A|Diglett}}{{MSP|051|Dugtrio}}{{MSP|051A|Dugtrio}}{{MSP|190|Aipom}}{{MSP|203|Girafarig}}<br>{{MSP|234|Stantler}}{{MSP|293|Whismur}}{{MSP|294|Loudred}}{{MSP|295|Exploud}}{{MSP|303|Mawile}}{{MSP|320|Wailmer}}<br>{{MSP|321|Wailord}}{{MSP|352|Kecleon}}{{MSP|424|Ambipom}}|Astonish|Ghost|Physical|30|100|15}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|024|Arbok}}{{MSP|058|Growlithe}}<br>{{MSP|203|Girafarig}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|261|Poochyena}}<br>{{MSP|262|Mightyena}}{{MSP|295|Exploud}}{{MSP|303|Mawile}}{{MSP|336|Seviper}}{{MSP|365|Walrein}}{{MSP|399|Bidoof}}<br>{{MSP|400|Bibarel}}{{MSP|403|Shinx}}{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|419|Floatzel}}{{MSP|449|Hippopotas}}<br>{{MSP|450|Hippowdon}}{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}<br>{{MSP|511|Pansage}}{{MSP|513|Pansear}}{{MSP|515|Panpour}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}<br>{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}{{MSP|674|Pancham}}{{MSP|675|Pangoro}}<br>{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|744|Rockruff}}{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}|Crunch|Dark|Physical|80|100|15||'''}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|128|Tauros}}{{MSP|133|Eevee}}<br>{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|206|Dunsparce}}{{MSP|231|Phanpy}}{{MSP|264|Linoone}}<br>{{MSP|300|Skitty}}{{MSP|322|Numel}}{{MSP|327|Spinda}}{{MSP|449|Hippopotas}}{{MSP|450|Hippowdon}}{{MSP|585|Deerling}}<br>{{MSP|586|Sawsbuck}}{{MSP|672|Skiddo}}{{MSP|673|Gogoat}}{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|766|Passimian}}|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/breed7|{{MSP|037|Vulpix}}{{MSP|058|Growlithe}}{{MSP|255|Torchic}}{{MSP|322|Numel}}{{MSP|323|Camerupt}}{{MSP|513|Pansear}}<br>{{MSP|514|Simisear}}{{MSP|631|Heatmor}}|Flame Burst|Fire|Special|70|100|15}}
+{{learnlist/breed7|{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|551|Sandile}}{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}{{MSP|570|Zorua}}<br>{{MSP|571|Zoroark}}{{MSP|765|Oranguru}}|Foul Play|Dark|Physical|95|100|15||'''}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|134|Vaporeon}}{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|336|Seviper}}|Haze|Ice|Status|&mdash;|&mdash;|30}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|111|Rhyhorn}}{{MSP|179|Mareep}}|Iron Tail|Steel|Physical|100|75|15|*}}
+{{learnlist/breed7|{{MSP|023|Ekans}}{{MSP|024|Arbok}}{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}<br>{{MSP|058|Growlithe}}{{MSP|083|Farfetch'd}}{{MSP|155|Cyndaquil}}{{MSP|156|Quilava}}{{MSP|157|Typhlosion}}{{MSP|215|Sneasel}}<br>{{MSP|461|Weavile}}{{MSP|217|Ursaring}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|234|Stantler}}{{MSP|309|Electrike}}<br>{{MSP|310|Manectric}}{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}<br>{{MSP|403|Shinx}}{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}<br>{{MSP|504|Patrat}}{{MSP|505|Watchog}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|511|Pansage}}<br>{{MSP|512|Simisage}}{{MSP|513|Pansear}}{{MSP|514|Simisear}}{{MSP|515|Panpour}}{{MSP|516|Simipour}}{{MSP|551|Sandile}}<br>{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|570|Zorua}}{{MSP|571|Zoroark}}<br>{{MSP|626|Bouffalant}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}{{MSP|667|Litleo}}{{MSP|668|Pyroar}}{{MSP|674|Pancham}}<br>{{MSP|675|Pangoro}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}<br>{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|744|Rockruff}}{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}{{MSP|759|Stufful}}<br>{{MSP|760|Bewear}}{{MSP|766|Passimian}}|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/breed7|{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|261|Poochyena}}{{MSP|262|Mightyena}}<br>{{MSP|264|Linoone}}{{MSP|287|Slakoth}}{{MSP|300|Skitty}}{{MSP|303|Mawile}}{{MSP|431|Glameow}}{{MSP|506|Lillipup}}<br>{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|702|Dedenne}}|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/breed7|{{MSP|056|Mankey}}{{MSP|057|Primeape}}{{MSP|215|Sneasel}}{{MSP|461|Weavile}}{{MSP|289|Slaking}}{{MSP|392|Infernape}}<br>{{MSP|570|Zorua}}{{MSP|571|Zoroark}}|Punishment|Dark|Physical|&mdash;|100|5||'''}}
+{{learnlist/breed7|{{MSP|019|Rattata}}{{MSP|019A|Rattata}}{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|056|Mankey}}{{MSP|057|Primeape}}<br>{{MSP|128|Tauros}}{{MSP|197|Umbreon}}{{MSP|206|Dunsparce}}{{MSP|335|Zangoose}}{{MSP|359|Absol}}{{MSP|418|Buizel}}<br>{{MSP|419|Floatzel}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}{{MSP|570|Zorua}}<br>{{MSP|571|Zoroark}}{{MSP|587|Emolga}}{{MSP|626|Bouffalant}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}|Pursuit|Dark|Physical|40|100|20||'''}}
+{{learnlist/breed7|{{MSP|020|Raticate}}{{MSP|020A|Raticate}}{{MSP|111|Rhyhorn}}{{MSP|112|Rhydon}}{{MSP|464|Rhyperior}}{{MSP|128|Tauros}}<br>{{MSP|136|Flareon}}{{MSP|209|Snubbull}}{{MSP|210|Granbull}}{{MSP|217|Ursaring}}{{MSP|232|Donphan}}{{MSP|261|Poochyena}}<br>{{MSP|262|Mightyena}}{{MSP|403|Shinx}}{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|473|Mamoswine}}{{MSP|551|Sandile}}<br>{{MSP|552|Krokorok}}{{MSP|553|Krookodile}}{{MSP|559|Scraggy}}{{MSP|560|Scrafty}}{{MSP|570|Zorua}}{{MSP|571|Zoroark}}<br>{{MSP|626|Bouffalant}}{{MSP|725|Litten}}{{MSP|726|Torracat}}{{MSP|727|Incineroar}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}<br>{{MSP|744|Rockruff}}{{MSP|745|Lycanroc}}{{MSP|745Mn|Lycanroc}}{{MSP|766|Passimian}}|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/breed7|{{MSP|136|Flareon}}{{MSP|228|Houndour}}{{MSP|229|Houndoom}}{{MSP|324|Torkoal}}{{MSP|498|Tepig}}{{MSP|499|Pignite}}<br>{{MSP|500|Emboar}}|Smog|Poison|Special|30|70|20||'''}}
+{{learnlist/breedf/7|Stunky|Poison|Dark|4}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Stunky|Poison|Dark|4}}
+{{learnlist/tutor7|Defog|Flying|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Foul Play|Dark|Physical|95|100|15||'''|no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Snatch|Dark|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Throat Chop|Dark|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutorf/7|Stunky|Poison|Dark|4}}
+
+===Side game data===
+{{Spindata/Head|type=Poison|type2=Dark}}
+{{Spindata/MDTDS|col=6|type=Poison|ndex=434
+|body=1
+|rate=8.2
+|IQ=G
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Poison
+|group=Poison
+|assist=Poison
+|field=Crush
+|fieldpower=1
+|browser=It scatters poison to attack.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Poison
+|group=Poison
+|assist=Poison
+|field=Tackle
+|fieldpower=1
+|browser=It attacks by scattering poison gas around itself that makes Pokémon Tired.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Poison
+|att=2
+|def=1
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Poison
+|att=2
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Poison|ndex=434
+|Pad=Stunky came to check out the [[Haunted Zone]]'s Haunted House. He's bad to the bone at {{DL|Attractions|Dusknoir's Speed Slam}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Poison|ndex=434
+|pad=He feels comfortable in the [[Tech Area]] and runs around full of energy every day.
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Poison|ndex=434
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Poison|ndex=434|num=416
+|min=50
+|max=100
+|raisemaxlevel=5
+|skill=Rock Break
+|skilldesc=Destroys one breakable-rock disruption without fail.
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Poison
+|type2=Dark
+|pictype=art
+|no1=434
+|name1=Stunky
+|type1-1=Poison
+|type2-1=Dark
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 34}}
+|no2=435
+|name2=Skuntank
+|type1-2=Poison
+|type2-2=Dark}}
+
+===Sprites===
+{{Spritebox/Header|type=Poison|type2=Dark}}
+{{Spritebox/NA|gen=IV}}
+{{Spritebox/4|ndex=434}}
+{{Spritebox/5|ndex=434}}
+{{Spritebox/6|ndex=434}}
+{{Spritebox/7|ndex=434}}
+{{Spritebox/Footer|434|Stunky}}
+
+==Trivia==
+* Despite being based on a striped species of skunk, Stunky sprays from a handstand like a spotted skunk, as seen in the episode ''[[DP036|The Secret Sphere of Influence]]''.
+
+===Origin===
+It is based on a {{wp|skunk}}, likely a hog-nosed skunk. It also bears resemblance to a {{wp|cat}} of some sort, which is fitting as baby skunks are called kits or kittens.
+
+====Name origin====
+Stunky is a combination of ''{{wp|skunk}}'' or ''stunk'' and ''stinky''.
+
+Skunpoo is a combination of ''skunk'' and ''pyoo'' (what someone says when something stinks).
+
+==In other languages==
+{{Other languages|type=Poison|type2=Dark
+|ja=スカンプー ''Skunpoo''|jameaning=From ''skunk'' and ''pyoo'' (what someone says when something stinks)
+|de=Skunkapuh|demeaning=From ''Skunk'' and ''{{tt|puh|phew}}''
+|fr=Moufouette|frmeaning=From ''{{tt|moufette|striped skunk}}'' and ''{{tt|fouetter|slang for &quot;to stink&quot;}}''
+|es=Stunky|esmeaning=Same as English name
+|it=Stunky|itmeaning=Same as English name
+|ko=스컹뿡 ''Skunbbung''|komeaning= From {{tt|스컹크 ''seukeongkeu''|skunk}} and {{tt|뿡 ''ppung''|onomatopoeia of a fart sound}}
+|zh_cmn=臭鼬噗 ''Chòu Yòu Pū''|zh_cmnmeaning=臭鼬 refers to skunk, while {{tt|噗|to puff}} is the transliteration of "poo" in its Japanese name.
+}}
+<br clear="left">
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Poison|type2=Dark}}
+{{PokémonPrevNext/Pokémon|type=Poison|prevnum=433|prev=Chingling|nextnum=435|next=Skuntank}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Skunkapuh]]
+[[fr:Moufouette]]
+[[it:Stunky]]
+[[ja:スカンプー]]
+[[pl:Stunky]]
+[[zh:臭鼬噗]]

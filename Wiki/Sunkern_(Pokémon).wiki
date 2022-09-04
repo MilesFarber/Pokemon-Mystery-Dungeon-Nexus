@@ -1,0 +1,493 @@
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/GO|species=Sunkern}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=190|prev=Aipom|nextnum=192|next=Sunflora|roundleft=bl|roundright=br}}
+|}
+{{Pokémon Infobox
+|name=Sunkern
+|jname=ヒマナッツ
+|jtranslit=Himanattsu
+|tmname=Himanuts
+|ndex=191
+|oldjdex=102
+|jdex=103
+|u2dex=020
+|obrow=010
+|opbrow=028
+|typebox=1
+|type1=Grass
+|category=Seed
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=4.0
+|weight-kg=1.8
+|abilityn=d
+|ability1=Chlorophyll
+|ability2=Solar Power
+|abilityd=Early Bird
+|egggroupn=1
+|egggroup1=Grass
+|eggcycles=20
+|evtotal=1
+|evsa=1
+|expyield=36
+|oldexp=52
+|lv100exp=1,059,860
+|gendercode=127
+|color=Yellow
+|catchrate=235
+|body=01
+|pokefordex=sunkern
+|generation=2
+|friendship=70
+}}
+'''Sunkern''' ([[List of Japanese Pokémon names|Japanese]]: '''ヒマナッツ''' ''Himanuts'') is a {{type|Grass}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolve]]s into {{p|Sunflora}} when exposed to a [[Sun Stone]].
+
+==Biology==
+Sunkern is a mostly yellow, seed-like Pokémon with a small sprout growing out of its top. It has triangular, spike-like protrusions on top of its head, encircling the sprout. Its body has three broad, brown, vertical stripes. Two of the stripes start jaggedly above Sunkern's dark eyes and continue downward. The other stripe is directly below Sunkern's mouth. Since Sunkern's eyelids are brown, the brown streak patterning appears uninterrupted when Sunkern’s eyes are closed.
+
+Sunkern is known to be very weak. Aware of its weakness, it only feeds until it evolves. However, it feeds on only the dew from under the leaves of plants. It tries to move as little as possible, since it tries to conserve all the nutrients it has stored in its body for evolution. If attacked, it shakes its leaves at the attacker. Sunkern occasionally falls from the sky on early mornings for unknown reasons. A year after a cold summer, the population of Sunkern explodes. Sunkern can be found in {{DL|List of Pokémon by habitat|Grassland Pokémon|grassy meadows}}.
+
+==In the anime==
+[[File:Sunkern anime.png|200px|thumb|left|A Sunkern in the {{pkmn|anime}}]]
+===Major appearances===
+Sunkern debuted in ''[[EP187|Moving Pictures]]''. {{Ash}}, {{an|Brock}}, {{an|Misty}}, and [[Todd Snap]] found it frozen in a field. Ash eventually evolved it using his [[Sun Stone]] from ''[[EP161|The Bug Stops Here]]'', and it summoned more {{p|Sunflora}} so that [[Sophia]] and [[Marcello]] could take a picture for their golden anniversary.
+
+===Minor appearances===
+A Sunkern appeared in ''[[DP071|Pokémon Ranger and the Kidnapped Riolu! Part One]]''.
+
+A Sunkern made a brief appearance in ''[[M11|Giratina and the Sky Warrior]]'' and ''[[M12|Arceus and the Jewel of Life]]''.
+
+A Sunkern's fossilized leaf made an appearance in a flashback in ''[[DP107|Ancient Family Matters!]]''.
+
+Multiple Sunkern appeared in ''[[M13|Zoroark: Master of Illusions]]'' as some of the many local Pokémon living in [[Crown City]]. Some took part in surrounding {{OBP|Zorua|M13}} in the park along with the other Pokémon with the intention of attacking him in retribution for what {{OBP|Zoroark|M13}} did to the city. Before a fight could break out, the Sunkern, along with the other Pokémon, were calmed down by {{OBP|Celebi|M13}}.
+
+===Pokédex entries===
+{{Animedexheader|Johto}}
+{{Animedexbody|EP187|Sunkern|Ash's Pokédex|Sunkern, the Seed Pokémon. Sunkern drink the dew that collects beneath leaves. It is believed that it neither eats nor drinks anything else.}}
+{{Animedexfooter/Pokémon|original|Johto}}
+
+==In the manga==
+[[File:Sunbo Sunkern.png|thumb|125px|Sunkern in [[Pokémon Adventures]]]]
+===In the movie adaptations===
+Sunkern appeared in ''{{ma|Celebi: a Timeless Encounter}}''.
+
+===In the Pokémon Adventures manga===
+Sunkern debuted in ''[[PS090|The Legend]]'' when two were seen up on a tree when {{adv|Green}} had finished her message to {{adv|Silver}} in Johto.
+
+A Sunkern was one of the Pokémon in [[Joey]]'s bag after {{adv|Gold}} helped [[Joey]] get it back in ''[[PS091|Murkrow Row]]''.
+
+In ''[[PS099|Sunkern Treasure]]'', {{adv|Gold}} encounters a herd of Sunkern escaping from a wild {{p|Skarmory}}. To help [[Falkner]] capture the Skarmory, Gold captures a Sunkern to use her jumping ability to get high enough and attack it. Afterward she was named Sunbo and later evolved into a Sunflora through a makeshift Sun Stone.
+
+Another Sunkern was one of the Pokémon sent to help the fight in [[Ilex Forest]] in ''[[PS179|The Last Battle XIII]]''.
+
+[[Yuko]] owns a Sunkern, which first appeared in ''[[PS525|The Transfer Student]]''.
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS099]]|May drop out of the sky suddenly. If attacked by a {{p|Spearow}}, it will violently shake off its leaves.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Sunkern (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=Grass}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It may drop out of the sky suddenly. If attacked by a {{p|Spearow}}, it will violently shake its leaves.}}
+{{Dex/Entry1|v=Silver|entry=It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.}}
+{{Dex/Entry1|v=Crystal|entry=It is very weak. Its only means of defense is to shake its leaves desperately at its attacker.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It may drop out of the sky suddenly. If attacked by a Spearow, it will violently shake its leaves.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Sunkern try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew.}}
+{{Dex/Entry1|v=FireRed|entry=It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.}}
+{{Dex/Entry1|v=LeafGreen|entry=It may drop out of the sky suddenly. If attacked by a Spearow, it will violently shake its leaves.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.}}
+{{Dex/Entry1|v=HeartGold|entry=It may plummet from the sky. If attacked by a Spearow, it will violently shake its leaves.}}
+{{Dex/Entry1|v=SoulSilver|entry=It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It suddenly falls out of the sky in the morning. Knowing it's weak, it simply feeds until it evolves.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It may plummet from the sky. If attacked by a Spearow, it will violently shake its leaves.}}
+{{Dex/Entry1|v=Y|entry=It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=fff|entry=Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{rt|24|Kanto}}, [[National Park]]{{Sup/t|D}}}}
+{{Availability/Entry1|v=Crystal|area={{rt|24|Kanto}}, [[National Park]]{{Sup/t|D}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{safari|Hoenn}} extension}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen|area=[[Trade]], {{pkmn2|Event}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=Northern {{rt|204|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry1|v=Platinum|area=Northern {{rt|204|Sinnoh}} ([[Poké Radar]])}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area={{rt|24|Kanto}}, [[National Park]]{{Sup/t|D}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Beautiful Beach}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area={{rt|12|Unova}}}}
+{{Availability/Entry2|v=Black 2|v2=White 2|t=fff|area={{rt|20|Unova}}}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Pleasant Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Friend Safari]] ([[Friend Safari#Grass-type Safari|Grass]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Mirage Forests]] (south of {{rt|109|Hoenn}}, west of {{rt|114|Hoenn}}, north of [[Lilycove City]], north of {{rt|124|Hoenn}}, east of [[Mossdeep City]], south of {{rt|132|Hoenn}})}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Grass}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=[[Mt. Snowfall]]}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 1]], [[Secret Storage 11]], Endless Level 5, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Wish Cave]] (1F-3F)}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystery Jungle]] (B1-B29), [[Happy Outlook]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystery Jungle]] (B1-B29), [[Happy Outlook]] (B1-B19)}}
+<!--{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=}}-->
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Dolce Island]], [[Hinder Cape]], [[Forest Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Echo Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Adventure Area#Grab and Go!|Adventure Area: Grab and Go!]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Thursday Stage 1|Safari Jungle: Stage 1]]{{dotw|Th}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=Event: [[Special Stages#First release|''Pokémon Safari'']] <small>(First release)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Sapphire Sea#Sunlit Forest|Sapphire Sea: Sunlit Forest]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|type=Grass}}
+{{eventAvail|{{gameabbrev2|GSC}}|Gotta Catch 'Em All Station! Splash Sunkern|English|United States|5|January 3 to 9, 2003|link=List of Gotta Catch 'Em All event Pokémon#Splash Sunkern}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Sixth Campaign Sunkern|Japanese|Japan|10|April 22 to May 8, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Sunkern}}
+|}
+
+===Held items===
+{{HeldItems
+|type=Grass
+|dppt1=Coba Berry|dppt1type=Berry|dppt1rar=5
+|hgss1=Coba Berry|hgss1type=Berry|hgss1rar=5
+|bw1=Coba Berry|bw1type=Berry|bw1rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Grass
+|HP=     30
+|Attack= 30
+|Defense=30
+|SpAtk=  30
+|SpDef=  30
+|Speed=  30 }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Grass
+|Speed=3
+|SpeedMax=5
+|Power=1
+|PowerMax=5
+|Technique=1
+|TechniqueMax=5
+|Stamina=1
+|StaminaMax=5
+|Jump=2
+|JumpMax=5
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Grass
+|Normal=  100
+|Fighting=100
+|Flying=  200
+|Poison=  200
+|Ground=   50
+|Rock=    100
+|Bug=     200
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=    50
+|Grass=    50
+|Electric= 50
+|Psychic= 100
+|Ice=     200
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Sunkern|Grass|Grass|2}}
+{{learnlist/level7|1|Absorb|Grass|Special|20|100|25||'''}}
+{{learnlist/level7|1|Growth|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|4|Ingrain|Grass|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|7|Grass Whistle|Grass|Status|&mdash;|55|15}}
+{{learnlist/level7|10|Mega Drain|Grass|Special|40|100|15||'''}}
+{{learnlist/level7|13|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/level7|16|Razor Leaf|Grass|Physical|55|95|25||'''}}
+{{learnlist/level7|19|Worry Seed|Grass|Status|&mdash;|100|10}}
+{{learnlist/level7|22|Giga Drain|Grass|Special|75|100|10||'''}}
+{{learnlist/level7|25|Endeavor|Normal|Physical|&mdash;|100|5}}
+{{learnlist/level7|28|Synthesis|Grass|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|31|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|34|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/level7|37|Double-Edge|Normal|Physical|120|100|15}}
+{{learnlist/level7|40|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|43|Seed Bomb|Grass|Physical|80|100|15||'''}}
+{{learnlist/levelf/7|Sunkern|Grass|Grass|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Sunkern|Grass|Grass|2}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|&mdash;|&mdash;|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM22|Solar Beam|Grass|Special|120|100|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM36|Sludge Bomb|Poison|Special|90|100|10}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20||'''}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM96|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Sunkern|Grass|Grass|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Sunkern|Grass|Grass|2}}
+{{learnlist/breed7|{{MSP|273|Seedot}}{{MSP|590|Foongus}}{{MSP|591|Amoonguss}}|Bide|Normal|Physical|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|708|Phantump}}<br>{{MSP|709|Trevenant}}|Curse|Ghost|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|069|Bellsprout}}{{MSP|187|Hoppip}}{{MSP|546|Cottonee}}|Encore|Normal|Status|&mdash;|100|5|*}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|046|Paras}}{{MSP|187|Hoppip}}{{MSP|548|Petilil}}{{MSP|590|Foongus}}{{MSP|764|Comfey}}|Endure|Normal|Status|&mdash;|&mdash;|10|*}}
+{{learnlist/breed7|{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}|Grass Whistle|Grass|Status|&mdash;|55|15}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|407|Roserade}}{{MSP|764|Comfey}}|Grassy Terrain|Grass|Status|&mdash;|&mdash;|10}}
+{{learnlist/breed7|{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}{{MSP|546|Cottonee}}{{MSP|764|Comfey}}|Helping Hand|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|315|Roselia}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|455|Carnivine}}{{MSP|459|Snover}}{{MSP|460|Abomasnow}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|597|Ferroseed}}{{MSP|598|Ferrothorn}}{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|753|Fomantis}}<br>{{MSP|754|Lurantis}}{{MSP|755|Morelull}}{{MSP|756|Shiinotic}}|Ingrain|Grass|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|102|Exeggcute}}{{MSP|187|Hoppip}}{{MSP|188|Skiploom}}<br>{{MSP|189|Jumpluff}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|285|Shroomish}}{{MSP|286|Breloom}}{{MSP|315|Roselia}}<br>{{MSP|331|Cacnea}}{{MSP|332|Cacturne}}{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|420|Cherubi}}<br>{{MSP|421|Cherrim}}{{MSP|495|Snivy}}{{MSP|496|Servine}}{{MSP|497|Serperior}}{{MSP|546|Cottonee}}{{MSP|547|Whimsicott}}<br>{{MSP|708|Phantump}}{{MSP|709|Trevenant}}{{MSP|764|Comfey}}|Leech Seed|Grass|Status|&mdash;|90|10}}
+{{learnlist/breed7|{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}|Morning Sun|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|102|Exeggcute}}{{MSP|114|Tangela}}{{MSP|465|Tangrowth}}{{MSP|152|Chikorita}}<br>{{MSP|153|Bayleef}}{{MSP|154|Meganium}}{{MSP|191|Sunkern}}{{MSP|192|Sunflora}}{{MSP|270|Lotad}}{{MSP|357|Tropius}}<br>{{MSP|764|Comfey}}|Natural Gift|Normal|Physical|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|270|Lotad}}{{MSP|271|Lombre}}{{MSP|272|Ludicolo}}{{MSP|273|Seedot}}{{MSP|274|Nuzleaf}}|Nature Power|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|001|Bulbasaur}}{{MSP|002|Ivysaur}}{{MSP|003|Venusaur}}{{MSP|043|Oddish}}{{MSP|044|Gloom}}{{MSP|182|Bellossom}}<br>{{MSP|069|Bellsprout}}{{MSP|070|Weepinbell}}{{MSP|071|Victreebel}}{{MSP|152|Chikorita}}{{MSP|153|Bayleef}}{{MSP|154|Meganium}}<br>{{MSP|315|Roselia}}{{MSP|407|Roserade}}{{MSP|357|Tropius}}{{MSP|455|Carnivine}}{{MSP|556|Maractus}}{{MSP|590|Foongus}}<br>{{MSP|591|Amoonguss}}{{MSP|753|Fomantis}}{{MSP|754|Lurantis}}{{MSP|764|Comfey}}|Sweet Scent|Normal|Status|&mdash;|100|20}}
+{{learnlist/breedf/7|Sunkern|Grass|Grass|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Sunkern|Grass|Grass|2}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Earth Power|Ground|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Endeavor|Normal|Physical|—|100|5|||no|yes}}
+{{learnlist/tutor7|Giga Drain|Grass|Special|75|100|10||'''|no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Seed Bomb|Grass|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Synthesis|Grass|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Worry Seed|Grass|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Sunkern|Grass|Grass|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg grass color light}}; border: 3px solid #{{tcg grass color}}"
+! Move
+! Card
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Rollout}}
+| style="background:#fff; {{roundybr|5px}}" | [[Sunkern (Neo Destiny 83)]]<br>[[Sunkern (Skyridge 106)]]<br>[[Sunkern (EX Unseen Forces 76)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Grass}}
+{{Spindata/Trozei|col=6|type=Grass|ndex=191|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Grass|ndex=191
+|body=1
+|rate=5.2
+|area=Jungle
+|P1=It doesn't take much for me to grow. Just a little water'll do me fine!
+|P2=I only have half my HP left.
+|P3=I'm dehydrated... My HP's down too low...
+|PL=Wow! My level went up! I want to celebrate!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Grass|ndex=191
+|body=1
+|rate=5.2
+|IQ=B
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Grass
+|group=Grass
+|assist=Grass
+|field=Cut
+|fieldpower=1
+|browser=It creates vines around itself that make Pokémon Slowed.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Grass
+|att=1
+|def=1
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Grass|ndex=191
+|power=1
+}}
+{{Spindata/Shuffle|col=3|type=Grass|ndex=191|num=644
+|min=30
+|max=85
+|raisemaxlevel=5
+|skill=Eject++
+|skilldesc=Sometimes removes five non-Support Pokémon icons.
+}}
+|-
+{{Spindata/GO|col=6|type=Grass|ndex=191
+|hatch=N/A
+|buddy=3
+|evolution=<br>[[File:GO Candy.png|16px]] 50 + 1 [[Sun Stone]]
+|stamina=60
+|attack=55
+|defense=55
+|fast={{m|Razor Leaf}}, {{m|Cut}}
+|special={{m|Energy Ball}}, {{m|Grass Knot}}, {{m|Seed Bomb}}
+}}
+|}
+
+===Evolution===
+{{evobox-2
+|type1=Grass
+|no1=191
+|name1=Sunkern
+|type1-1=Grass
+|evo1={{bag|Sun Stone}}<br>{{color2|000|Sun Stone}}
+|no2=192
+|name2=Sunflora
+|type1-2=Grass
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Grass}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=191}}
+{{Spritebox/3|ndex=191}}
+{{Spritebox/4|ndex=191}}
+{{Spritebox/5|ndex=191}}
+{{Spritebox/6|ndex=191}}
+{{Spritebox/7|ndex=191}}
+{{Spritebox/Footer|191|Sunkern}}
+
+====Japanese sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{grass color dark}}; background: #{{grass color}};"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{grass color dark}}; background: #{{grass color light}}; width:160px"| [[File:Spr b 2g 191 jp.png]][[File:Spr b 2g 191 s jp.png]]
+|-
+| Gold and Silver back sprites
+|}
+
+==Trivia==
+*Sunkern has the lowest {{stat|HP}} of all {{type|Grass}} Pokémon, is tied with {{p|Lotad}} for the lowest {{stat|Defense}} of all {{type|Grass}} Pokémon, is tied with {{p|Bellsprout}} and {{p|Seedot}} for the lowest {{stat|Special Defense}} of all {{type|Grass}} Pokémon, and has the lowest base stat total of all Grass-type Pokémon.
+*Sunkern shares its {{pkmn|category}} name with {{p|Bulbasaur}} and its evolutions. They are all known as the Seed Pokémon.
+*Sunkern's official artwork more closely resembled its Shiny form in {{2v2|Gold|Silver}} than its regular form. This was somewhat rectified in Crystal, although the artwork was still more similar to its Shiny sprite; this discrepancy was fully rectified in [[Generation III]].
+*In ''[[The Official Pokémon Handbook 3]]'', published by {{wp|Scholastic Corporation}}, Sunkern's data says its height is 0'01" when it is actually 1'00".
+*Sunkern has the highest average [[Performance]] of any unevolved Pokémon.
+
+===Origin===
+Sunkern is based on a {{wp|shoot}}ing {{wp|sunflower seed}}.
+
+====Name origin====
+Sunkern is a combination of ''{{wp|sunflower}}'' and ''kernel''.
+
+Himanuts may be a combination of 向日葵 ''himawari'' (sunflower) and ''nuts''. It may also refer to 夏 ''natsu'' (summer).
+
+==In other languages==
+{{Other languages|type=grass|type2=grass
+|ja=ヒマナッツ ''Himanuts''|jameaning=From {{tt|向日葵 ''himawari''|sunflower}}, ''nuts'', and {{tt|夏 ''natsu''|summer}}
+|fr=Tournegrin|frmeaning=From {{tt|''tournesol''|sunflower}} and a corruption of {{tt|''grain''|seed}}
+|es=Sunkern|esmeaning=Same as English name
+|de=Sonnkern|demeaning=From {{tt|''Sonnenblumenkern''|sunflower seed}}
+|it=Sunkern|itmeaning=Same as English name
+|ko=해너츠 ''Haenuts''|komeaning=From {{tt|해바라기 ''haebaragi''|sunflower}} and ''nuts''
+|zh_cmn=向日種子 / 向日种子 ''Xiàngrìzhǒngzi''|zh_cmnmeaning=From {{tt|向日葵 ''xiàng​rì​kuí''|sunflower}} and {{tt|種子 / 种子 ''zhǒngzi''|seed}}
+|zh_yue=向日種子 ''Heungyahtjúngjí''|zh_yuemeaning=From {{tt|向日葵 ''heungyahtkwàih''|sunflower}} and {{tt|種子 ''júngjí''|seed}}
+|hi=सांकर्न ''Sunkern''|himeaning=Transcription of English name
+|ru=Санкерн ''Sankern''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+<!--
+==Notes==
+<references/>-->
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Grass}}
+{{PokémonPrevNext/Pokémon|type=Grass|prevnum=190|prev=Aipom|nextnum=192|next=Sunflora}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that evolve by evolutionary stone]]
+[[Category:Pokémon that evolve using Sun Stone]]
+
+[[de:Sonnkern]]
+[[fr:Tournegrin]]
+[[it:Sunkern]]
+[[ja:ヒマナッツ]]
+[[pl:Sunkern]]
+[[zh:向日种子]]

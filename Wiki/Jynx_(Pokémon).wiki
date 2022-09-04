@@ -1,0 +1,640 @@
+{{PokémonPrevNext/Head|type=Ice|type2=Psychic}}
+{{PokémonPrevNext/GO|species=Jynx}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=123|prev=Scyther|nextnum=125|next=Electabuzz|round=none}}
+{{PokémonPrevNext/Disambig|species=Jynx}}
+|}
+{{Pokémon Infobox
+|name=Jynx
+|jname=ルージュラ
+|jtranslit=Rūjura
+|tmname=Rougela
+|ndex=124
+|oldjdex=153
+|jdex=155
+|karea=Mountain
+|kdex=084
+|fbrow=168
+|abrow=210
+|typebox=1
+|type1=Ice
+|type2=Psychic
+|category={{tt|Human Shape|HUMANSHAPE before Generation III}}
+|height-ftin=4'07"
+|height-m=1.4
+|weight-lbs=89.5
+|weight-kg=40.6
+|abilityn=d
+|ability1=Oblivious
+|ability2=Forewarn
+|abilityd=Dry Skin
+|egggroupn=1
+|egggroup1=Human-Like
+|eggcycles=25
+|evtotal=2
+|evsa=2
+|expyield=159
+|oldexp=137
+|lv100exp=1,000,000
+|gendercode=254
+|color=Red
+|catchrate=45
+|body=12
+|pokefordex=jynx
+|generation=1
+|friendship=70
+}}
+'''Jynx''' ([[List of Japanese Pokémon names|Japanese]]: '''ルージュラ''' ''Rougela'') is a dual-type {{2t|Ice|Psychic}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Smoochum}} starting at [[level]] 30.
+
+==Biology==
+Jynx is a bipedal, humanoid Pokémon that resembles a woman. Jynx wears a red gown that hides its feet and has white arms with purple hands. There are golden circles on the chest area of its gown. Jynx has a purple face, pink lips, saucer-like eyes, and long blonde hair. Originally, its face was colored black, causing {{DL|Pokémon controversy|Jynx|controversy}} in the United States due to its perceived racial insensitivity. Jynx is a female-only species with no true male counterpart.
+
+Jynx has a language that sounds similar to human speech and includes several cry patterns. However, this language has yet to be deciphered. It prefers to communicate by using dance-like movements. These rhythmic movements often cause people to dance along with it. It puts its enemies to sleep using its signature move, {{m|Lovely Kiss}}. Jynx often is found in {{DL|List of Pokémon by habitat|Urban Pokémon|urban areas}}.
+
+==In the anime==
+[[File:Erica Jynx.png|left|thumb|220px|Jynx in the {{pkmn|anime}}]]
+===Major appearances===
+Jynx debuted in ''[[Holiday Hi-Jynx]]''. One of [[Santa Claus]]'s Jynx was separated from him. {{Ash}} and {{ashfr}} helped to return the Jynx to her owner.
+
+[[Lorelei|Prima]] owns a Jynx. She used her to send {{TRT}} flying in ''[[EP099|The Mandarin Island Miss Match]]''.
+
+A [[Nurse Joy]] in [[EP250]] owned a Jynx, rather than a {{TP|Nurse Joy|Chansey}}. In this [[Banned episodes|banned episode]], {{an|Brock}} almost kissed this Human Shape Pokémon during his sickly state.
+
+A Jynx was used by [[Erica]] in the [[Pacifidlog Town]] [[Pokémon Contest]] in ''[[AG115|Mean With Envy]]'' and ''[[AG116|Pacifidlog Jam]]''. ''Mean With Envy'' also marked the first appearance of Jynx's purple redesign in the anime.
+
+A trio of Jynx sisters were in ''[[AG168|Three Jynx and a Baby!]]''. These three Jynx were overly-protective towards their sister, a {{p|Smoochum}}. The Smoochum evolved into a Jynx at the end of the episode.
+
+[[File:Jynx AG013.png|thumb|220px|Jynx in its original design, as seen in ''[[AG013|All Things Bright and Beautifly!]]'']]
+===Minor appearances===
+A Jynx appeared in ''[[EP090|Stage Fight!]]'', under the ownership of the [[Pokémon Showboat]] stage show staff.
+
+A Jynx appeared in ''[[EP108|Pokémon Double Trouble]]'', running on a treadmill in a scene removed from the English dub.
+
+A Jynx was used by a {{pkmn|Coordinator}} in ''[[AG013|All Things Bright and Beautifly!]]'', but this scene was cut from the English dub as it featured Jynx in its original design.
+
+A Jynx appeared in the opening sequence of ''[[M08|Lucario and the Mystery of Mew]]''.
+{{-}}
+===Pokédex entries===
+{{Animedexheader|Kanto}}
+{{Animedexbody|Holiday Hi-Jynx|Jynx|Ash's Pokédex|Jynx, the Human Shape Pokémon. This Pokémon has some very unusual powers. Its [[Signature move|special attack]] is the {{m|Lovely Kiss}}, which puts its opponent into a deep {{status|Sleep|sleep}}.}}
+{{Animedexfooter/Pokémon|original|Kanto}}
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG115|Jynx|May's Pokédex|Jynx, the Human Shape Pokémon. Jynx is known for expressing its many and varied feelings by dancing around in graceful and rhythmical motions.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+==In the manga==
+[[File:Jynx MPJ.png|thumb|200px|Jynx in [[Magical Pokémon Journey]]]]
+[[File:Lorelei Jynx Adventures.png|thumb|left|200px|Jynx in [[Pokémon Adventures]]]]
+===In the Magical Pokémon Journey manga===
+{{main|Jynx (MPJ)}}
+A fortune-telling Jynx appears in the manga [[Magical Pokémon Journey]]. {{MPJ|Arbok}} goes to Jynx's fortune-telling hut to find out if he has a chance with his crush, {{MPJ|Wigglytuff}}.
+
+===In the Pokémon Adventures manga===
+Jynx debuts in ''[[PS017|The Jynx Jinx]]'' under the ownership of [[Team Rocket Elite Trio|Ken]]. She is used to attack Red and Green after they trick Team Rocket and take Mew. When she attacks Mew, Red and Green try to defend it, only to be defeated. Mew retaliates against her and freezes her and Ken while sparing Red and Green.
+
+Most notably, there is a Jynx under the ownership of [[Lorelei]] which first appeared in ''[[PS068|Jigglypuff Jive]]''. Lorelei's Jynx is noted for having the ability to generate voodoo dolls out of ice using its {{m|Ice Beam}}. When Lorelei draws crosses on any part of the dolls using her lipstick, ice shackles form on the specified body parts of her targets, eventually freezing the victim over completely. Even after the victims have broken free, the freeze induces lasting numbness in the areas where it was applied. Both {{adv|Red}} and [[Sabrina]] suffer this condition and have to seek a cure atop [[Mt. Silver]] by bathing in the hotsprings there. Another ability of Lorelei's Jynx is revealed in the [[Sevii Islands]] saga: she can create a wispy band of ice around targets, which Lorelei can use to track them down using her powder case.
+
+Later a Jynx appeared in ''[[PS179|The Last Battle XIII]]'' as one of the Pokémon sent to help during the fight in [[Ilex Forest]].
+
+===In the Pokémon Pocket Monsters manga===
+A Jynx took part in a baseball match with {{OBP|Red|Pocket Monsters}} in ''[[PM021|Fierce Competition at the Pokémon Baseball Tournament!]]''.
+
+===In the Pokémon Gotta Catch 'Em All manga===
+Shū has a Jynx in the [[Pokémon Gotta Catch 'Em All]] manga.
+
+==In the TCG==
+{{main|Jynx (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=ice|type2=psychic}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.}}
+{{Dex/Entry1|v=Yellow|entry=Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Talks in a strange, incomprehensible language. It is known for its weird wiggling that causes people to dance.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling.}}
+{{Dex/Entry1|v=Silver|entry=It speaks a language similar to that of humans. However, it seems to use dancing to communicate.}}
+{{Dex/Entry1|v=Crystal|entry=It has several different cry patterns, each of which seems to have its own meaning.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=A Jynx sashays rhythmically as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without noticing.}}
+{{Dex/Entry1|v=FireRed|entry=It speaks using a language that sounds human. Research is under way to determine what is being said.}}
+{{Dex/Entry1|v=LeafGreen|entry=It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Its cries sound like human speech. However, it is impossible to tell what it is trying to say.}}
+{{Dex/Entry1|v=HeartGold|entry=It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling.}}
+{{Dex/Entry1|v=SoulSilver|entry=It speaks a language similar to that of humans. However, it seems to use dancing to communicate.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its cries sound like human speech. However, it is impossible to tell what it is trying to say.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its cries sound like human speech. However, it is impossible to tell what it is trying to say.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It wiggles its hips as it walks. It can cause people to dance in unison with it.}}
+{{Dex/Entry1|v=Y|entry=It speaks using a language that sounds human. Research is under way to determine what is being said.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|entry=Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Ultra Sun|entry=It sways its hips to a rhythm all its own. The precise movements of Jynx living in Alola are truly wonderful.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Its strange cries sound like human language. There are some musicians who compose songs for Jynx to sing.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=ice|type2=psychic}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[In-game trade#Red and Blue / Red and Green|Trade]] {{p|Poliwhirl}} in [[Cerulean City]]}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Seafoam Islands]]}}
+{{Availability/Entry1/None|v=Yellow}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Ice Path]]}}
+{{Availability/Entry1|v=Crystal|area=[[Ice Path]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1/None|v=Emerald}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|area=[[In-game trade#FireRed and LeafGreen|Trade]] {{p|Poliwhirl}} in [[Cerulean City]]}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Smoochum}}}}
+{{Availability/Entry1|v=Platinum|area=[[Snowpoint Temple]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Seafoam Islands]] and [[Ice Path]]}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|land}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2|v=Black|v2=White|t=fff|area=[[Giant Chasm]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Evolution|Evolve]] {{pkmn|Dream Radar}} {{p|Smoochum}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area=[[Frost Cavern]]}}
+{{Availability/Entry2/None|v=Omega Ruby|v2=Alpha Sapphire|area=[[Trade]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Seaward Cave]] ([[SOS Battle]])<br/>[[Poké Pelago]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Ice|type2=Psychic}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area=[[Pokémon Island Cave|Cave]]}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Cerulean City]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=Endless Level 62, Endless Level 79, Forever Level 12, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Smoochum}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Panula Cave]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Crevice Cave]] (B1-B10, Lower Crevice Cave B1-B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Crevice Cave]] (B1-B10, Lower Crevice Cave B1-B4), [[Mt. Avalanche]] (B1-B19)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Ice Lake]], [[Almia Castle]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Bright Beach]] <small>(Normal Mode B & A)</small>}}
+<!--{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=}}-->
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Tower: [[Frozen Tundra]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Toy Collection#Guided by Pichu|Toy Collection: Guided by Pichu]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 4|Pitch-Black Cavern: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Desert Umbra|Desert Umbra: Stage 345]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Distortion Land#Outermost Snowfield|Distortion Land: Outermost Snowfield]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Ice|type2=Psychic|Frontier=yes
+|rby1=Bitter Berry|rby1type=None|rby1rar=100|rby1image=no
+|gsc1=Ice Berry|gsc1type=None|gsc1rar=33|gsc1image=no
+|e1=Aspear Berry|e1type=Berry|e1rar=100
+|pt1=Aspear Berry|pt1type=Berry|pt1rar=100
+|hgss1=Aspear Berry|hgss1type=Berry|hgss1rar=100
+|bw1=Aspear Berry|bw1type=Berry|bw1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats with RBY
+|HP=     65
+|Attack= 50
+|Defense=35
+|SpAtk= 115
+|SpDef=  95
+|Special=95
+|Speed=  95
+|type=Ice
+|type2=Psychic }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Ice
+|type2=Psychic
+|Speed=2
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=3
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=ice
+|type2=psychic
+|Normal=  100
+|Flying=  100
+|Fighting=100
+|Ground=  100
+|Rock=    200
+|Bug=     200
+|Poison=  100
+|Ghost=   200
+|Steel=   200
+|Fire=    200
+|Water=   100
+|Grass=   100
+|Electric=100
+|Psychic=  50
+|Ice=      50
+|Dragon=  100
+|Dark=    200
+|Fairy=100
+|notes=yes
+|gen1psychic=yes
+|oldghost=0
+|dryskin=maybe
+|newfire=2½}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Jynx|Ice|Psychic|1}}
+{{learnlist/level7|1|Draining Kiss|Fairy|Special|50|100|10}}
+{{learnlist/level7|1|Perish Song|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|1|Pound|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/level7|1|Lovely Kiss|Normal|Status|&mdash;|75|10}}
+{{learnlist/level7|1|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level7|5|Lick|Ghost|Physical|30|100|30}}
+{{learnlist/level7|8|Lovely Kiss|Normal|Status|&mdash;|75|10}}
+{{learnlist/level7|11|Powder Snow|Ice|Special|40|100|25||'''}}
+{{learnlist/level7|15|Double Slap|Normal|Physical|15|85|10}}
+{{learnlist/level7|18|Ice Punch|Ice|Physical|75|100|15||'''}}
+{{learnlist/level7|21|Heart Stamp|Psychic|Physical|60|100|25||'''}}
+{{learnlist/level7|25|Mean Look|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|28|Fake Tears|Dark|Status|&mdash;|100|20}}
+{{learnlist/level7|33|Wake-Up Slap|Fighting|Physical|70|100|10}}
+{{learnlist/level7|39|Avalanche|Ice|Physical|60|100|10||'''}}
+{{learnlist/level7|44|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/level7|49|Wring Out|Normal|Special|&mdash;|100|5}}
+{{learnlist/level7|55|Perish Song|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/level7|60|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/levelf/7|Jynx|Ice|Psychic|1}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Jynx|Ice|Psychic|1}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM12|Taunt|Dark|Status|&mdash;|100|20}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10||'''}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5||'''}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM41|Torment|Dark|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM53|Energy Ball|Grass|Special|90|100|10}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM66|Payback|Dark|Physical|50|100|10}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM70|Aurora Veil|Ice|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM77|Psych Up|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM79|Frost Breath|Ice|Special|60|90|10||'''}}
+{{learnlist/tm7|TM85|Dream Eater|Psychic|Special|100|100|15||'''}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|&mdash;|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM92|Trick Room|Psychic|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Jynx|Ice|Psychic|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Jynx|Ice|Psychic|2}}
+{{learnlist/breed7|{{MSP|063|Abra}}{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}<br>{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|106|Hitmonlee}}{{MSP|107|Hitmonchan}}{{MSP|237|Hitmontop}}{{MSP|122|Mr. Mime}}<br>{{MSP|125|Electabuzz}}{{MSP|466|Electivire}}{{MSP|126|Magmar}}{{MSP|467|Magmortar}}{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}<br>{{MSP|302|Sableye}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}{{MSP|313|Volbeat}}{{MSP|327|Spinda}}{{MSP|331|Cacnea}}<br>{{MSP|332|Cacturne}}{{MSP|390|Chimchar}}{{MSP|391|Monferno}}{{MSP|392|Infernape}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}<br>{{MSP|448|Lucario}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Captivate|Normal|Status|&mdash;|100|20|‡}}
+{{learnlist/breed7|{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}{{MSP|302|Sableye}}{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed7|{{MSP|107|Hitmonchan}}{{MSP|308|Medicham}}|Ice Punch|Ice|Physical|75|100|15||'''}}
+{{learnlist/breed7|{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|106|Hitmonlee}}{{MSP|122|Mr. Mime}}{{MSP|307|Meditite}}{{MSP|308|Medicham}}<br>{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}|Meditate|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|064|Kadabra}}{{MSP|065|Alakazam}}{{MSP|605|Elgyem}}{{MSP|606|Beheeyem}}|Miracle Eye|Psychic|Status|&mdash;|&mdash;|40}}
+{{learnlist/breed7|{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|390|Chimchar}}{{MSP|453|Croagunk}}{{MSP|454|Toxicroak}}|Nasty Plot|Dark|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|066|Machop}}{{MSP|067|Machoke}}{{MSP|068|Machamp}}{{MSP|096|Drowzee}}{{MSP|097|Hypno}}{{MSP|124|Jynx}}<br>{{MSP|296|Makuhita}}{{MSP|297|Hariyama}}{{MSP|532|Timburr}}{{MSP|533|Gurdurr}}{{MSP|534|Conkeldurr}}|Wake-Up Slap|Fighting|Physical|70|100|10}}
+{{learnlist/breed7|{{MSP|327|Spinda}}|Wish|Normal|Status|&mdash;|&mdash;|10|*}}{{learnlist/breedf/7|Jynx|Ice|Psychic|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Jynx|Ice|Psychic|2}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Drain Punch|Fighting|Physical|75|100|10|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Heal Bell|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Hyper Voice|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magic Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Role Play|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Skill Swap|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Trick|Psychic|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20|||no|yes}}
+{{learnlist/tutor7|Wonder Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Zen Headbutt|Psychic|Physical|80|90|15||'''|no|yes}}
+{{learnlist/tutorf/7|Jynx|Ice|Psychic|2}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Jynx|Ice|Psychic|2}}
+{{learnlist/prevo7|238|Smoochum|||||Sweet Kiss|Fairy|Status|&mdash;|75|10}}
+{{learnlist/prevo7|238|Smoochum|||||Confusion|Psychic|Special|50|100|25|'''}}
+{{learnlist/prevo7|238|Smoochum|||||Sing|Normal|Status|&mdash;|55|15}}
+{{learnlist/prevo7|238|Smoochum|||||Lucky Chant|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/prevo7|238|Smoochum|||||Copycat|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/prevof/7|Jynx|Ice|Psychic|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg psychic color light}}; border: 3px solid #{{tcg water color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Confuse Ray}}
+| [[Jynx (Aquapolis 18)]]
+|- style="background:#fff"
+| {{m|Fire Punch}}
+| [[Jynx δ (EX Dragon Frontiers 17)]]
+|- style="background:#fff"
+| {{m|Helping Hand}}
+| [[Sabrina's Jynx (Gym Challenge 57)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Hypnosis}}
+| style="background:#fff; {{roundybr|5px}}" | [[Jynx (Aquapolis 18)]]<br> [[Will's Jynx (VS 74)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Ice|type2=Psychic}}
+{{Spindata/Pinball|col=3|type=Ice|ndex=124|acquisition=Catch}}
+{{Spindata/Trozei|col=3|type=Ice|ndex=124|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Ice|ndex=124
+|body=1
+|rate=Evolve
+|area=Frigid Cavern
+|P1=∞XO@#*~♪<br> ∞XO@#*~♪
+|P2=!!O@#*~!<br> !!O@#*~!
+|P3=!!!!!!~!<br> !!!!!!~!
+|PL=∞XO@#*~♪♪♪<br> ∞XO@#*~♪♪♪
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Ice|ndex=124
+|body=1
+|rate=-4.5
+|IQ=G
+}}
+|-
+{{Spindata/Ranger|col=6|type=Ice
+|group=Psychic
+|assist=Psychic
+|field=None
+|loop=9
+|MinEXP=68
+|MaxEXP=82
+|browser=Jynx swings its hips as if it's dancing while walking. Beware of its kiss attack!
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Ice
+|group=Psychic
+|assist=Psychic
+|field=Teleport
+|fieldpower=-
+|browser=It attacks by launching strange orbs. It protects itself with a psychic {{m|Barrier}}.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Ice
+|att=4
+|def=3
+|speed=3
+}}
+{{Spindata/RumbleBlast|col=3|type=Ice
+|att=4
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Ice|ndex=124
+|power=2
+}}
+{{Spindata/Shuffle|col=3|type=Ice|ndex=124|num=472
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Barrier Bash+
+|skilldesc=Sometimes removes three barrier-type disruptions.
+|swapper=Block Shot
+}}
+|-
+{{Spindata/GO|col=6|type=Ice|ndex=124
+|hatch=N/A{{tt|*|10&nbsp;km Eggs obtained prior to December 12, 2016 can hatch into Jynx}}
+|buddy=5
+|evolution=N/A
+|stamina=130
+|attack=223
+|defense=182
+|fast={{m|Frost Breath}}, {{m|Pound}}{{tt|*|Prior to February 16, 2017}}, {{m|Confusion}}{{tt|*|From February 16, 2017 onward}}
+|special={{m|Draining Kiss}}, {{m|Ice Punch}}{{tt|*|Prior to February 16, 2017}}, {{m|Avalanche}}{{tt|*|From February 16, 2017 onward}}, {{m|Psyshock}}
+}}
+|}
+
+===Evolution===
+{{Evobox-2
+|type1=Ice
+|type2=Psychic
+|pictype=art
+|no1=238
+|name1=Smoochum
+|type1-1=Ice
+|type2-1=Psychic
+|breed={{MS|Egg}}<br>{{color2|000|Pokémon Breeding|Breed}}
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no2=124
+|name2=Jynx
+|type1-2=Ice
+|type2-2=Psychic}}
+
+===Sprites===
+{{Spritebox/Header|type=Ice|type2=Psychic}}
+{{Spritebox/1|ndex=124}}
+{{Spritebox/2|ndex=124}}
+{{Spritebox/3|ndex=124}}
+{{Spritebox/4|ndex=124}}
+{{Spritebox/5|ndex=124}}
+{{Spritebox/6|ndex=124}}
+{{Spritebox/7|ndex=124}}
+{{Spritebox/Footer|124|Jynx}}
+
+====Japanese sprites====
+These sprites are not used in the Virtual Console releases.
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{ice color dark}}; background: #{{ice color}}"
+|-
+| style="{{roundy|80px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:140px"| [[File:Spr 2g 124 jp.png]]<br>[[File:Spr 2g 124 s jp.png]]
+| style="{{roundy|80px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:140px"| [[File:Spr 2s 124 jp.png]]<br>[[File:Spr 2s 124 s jp.png]]
+| style="{{roundy|80px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:140px"| [[File:Spr 2c 124 jp.png]]<br>[[File:Spr 2c 124 s jp.png]]
+| style="{{roundy|80px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:150px"| [[File:Spr b 2g 124 jp.png]]<br>[[File:Spr b 2g 124 s jp.png]]
+| style="{{roundy|80px}} border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:150px"| [[File:Spr b 2c 124 jp.png]]<br>[[File:Spr b 2c 124 s jp.png]]
+|-
+| Gold
+| Silver
+| Crystal
+| Gold/Silver back
+| Crystal back
+|}
+
+====Virtual Console sprites====
+{| style="margin:auto; text-align:center; font-size: 80%; {{roundy|20px}} border: 2px solid #{{ice color dark}}; background: #{{ice color}}"
+|-
+| style="{{roundy|80px}}; border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:80px"| [[File:Spr 1y 124 vc.png]]
+| style="{{roundy|80px}}; border: 2px solid #{{psychic color dark}}; background: #{{psychic color light}}; width:80px"| [[File:Spr b g1 124 vc.png]]
+|-
+| Yellow
+| Yellow back
+|}
+
+==Trivia==
+[[File:Jynx Foot.png|thumb|right|200px|Jynx's foot]]
+*No Pokémon have the same [[List of Pokémon with unique type combinations|type combination]] as Jynx and its pre-evolution, {{p|Smoochum}}.
+* As its Pokédex entries state that Jynx speaks an incomprehensible language, the player, as a Pokémon, cannot understand anything it says in the {{pkmn|Mystery Dungeon series}}.
+* When Jynx faints in the {{g|Stadium series}}, everything but its hair vanishes, implying that its armor and black "skin" is darkness. Similarly, in {{pkmn|Colosseum}} and [[Pokémon XD: Gale of Darkness|XD]], it simply vanishes upon fainting.
+* Although Jynx has been seen to possess feet in the anime, it does not have a [[footprint]].
+** When Jynx is viewed from underneath via the 3D-rendered Pokédex in the Stadium and {{pkmn|X and Y}} games, nothing but darkness is shown underneath its dress.
+* A [[Capsule Monsters]] [[Media:Capsule Monsters Buhi.jpg|concept sketch]] depicts an unused Pokémon design with the same Pokédex number as Jynx.
+* Jynx has the longest [[cry]] of any Pokémon, lasting 2.238 seconds.
+* Jynx's sprite in the Virtual Console re-release of {{pkmn|Yellow}} is technically impossible for a [[Game Boy Color]] game. Its Virtual Console sprite contains five different colors (black, white, red, yellow, and purple), but actual Game Boy Color games can only store up to four colors per sprite (the original sprite used black, white, red, and yellow).
+
+===Controversy===
+[[File:124Jynx OS anime.png|thumb|right|Jynx's original design in the anime|150px]]
+{{wp|Carole Boston Weatherford}}, a cultural critic, claimed that Jynx, which appeared in ''[[Holiday Hi-Jynx]]'', was a negative racial stereotype of African-Americans in an article titled "Politically Incorrect Pokémon" on the magazine ''Black World Today''. She chiefly compared Jynx to the racist characters in ''{{wp|The Story of Little Black Sambo}}'', and further compared Jynx to {{wp|Mr. Popo}} of the {{wp|Dragon Ball}} franchise, a character who is also potentially offensive in his design.
+
+Weatherford's complaint caused many repercussions in the Pokémon franchise. The sprites of Jynx in the Western releases of {{game2|Gold|Silver|Crystal}} were edited, and [[EP250]] was cut from international airings of the anime. A sequence depicting Jynx in its original design in ''[[AG013|All Things Bright and Beautifly!]]'' was also cut from the dub. Jynx's design was officially revised by [[Game Freak]] to be purple rather than black, including in Japan and South Korea; this change was reflected in later [[core series]] games (starting with {{game|Ruby and Sapphire|s}}) and in the [[Pokémon anime]] starting in ''[[AG115|Mean With Envy]]''. Although the manga is colored in black-and-white, Jynx appearing in [[VIZ Media]]'s reissues of [[Pokémon Adventures]] are recolored as a dark gray rather than a straight black, suggesting that they are purple instead of black. It is also recolored to purple on the back cover of the reissue of {{PAV|4}}. The [[Virtual Console]] versions of {{g|Snap}}, {{ga|Pokémon Trading Card Game}}, and international {{game|Yellow}} also recolor Jynx's face. Jynx was recolored in the ending credits of [[PK01]] and [[PK04]] for the 2012 Japanese Blu-ray release. A recolored version of ''Holiday Hi-Jynx'' aired in Japan and is available on the Japanese [[Amazon Video]] and [[Netflix]]. Since 2014, English language DVD releases do not include ''[[Holiday Hi-Jynx]]'', ''[[EP090|Stage Fight!]]'', and ''[[EP099|The Mandarin Island Miss Match]]'', which all feature Jynx in its original design.
+
+In recent years, some fans of Pokémon have noted that Jynx may be inspired by {{wp|ganguro}}, a Japanese fashion where women tan heavily, bleach their hair, and apply large amounts of makeup, instead of a black stereotype. This theory is mainly based on Jynx's long, straight, blonde hair, a common attribute of ganguro fashion. Another theory is that Jynx is based on the Nordic goddess {{wp|Hel}}, who was often depicted has having a face half white-half black and who ruled {{wp|Niflheim}}, primarily depicted as a land of primordial ice and cold. Some fans say this is supported by Jynx sharing traits with the iconic opera singing "{{wp|It ain't over 'til the fat lady sings|Fat Lady}}," who is pop-culturally portrayed dressed as the {{wp|valkyrie}} {{wp|Brünnhilde}}. Another possible origin is {{wp|Yama-uba}}, the mountain Crone.
+
+===Origin===
+{{Bulbanews|On the Origin of Species: Jynx}}
+What Jynx is based on is a controversial topic within the fandom, although common interpretations are a Nordic or a Viking woman (possibly {{wp|Hel (goddess)|Hel}}, goddess of the underworld), or ''{{wp|ganguro}}'' (face-black). Also, the fact that Jynx are depicted as Santa's helpers in the anime may reference the folklore character {{wp|Zwarte Piet}}.
+
+Jynx also has the traits of a female opera singer, especially the iconic cartoon depiction of the {{wp|It ain't over till the fat lady sings|fat lady}}; {{g|Snap}} and its third generation sprites depict it singing, especially the Emerald sprite that animates it singing a high note. Jynx may also have origins in the Japanese spirits known as {{wp|Yuki-onna}}, who lack feet, akin to Jynx's feet being covered by its dress.
+
+It may also be based on {{wp|Yama-uba}} (also called Yamanba), a {{wp|yōkai}} which is described as always wearing a tattered red kimono, having whitish-blonde hair, control over snow, dark-colored skin, and large lips, traits which are evident in Jynx. "Yamanba" is also a slang for the extreme end of ganguro fashion, which involves bleached hair, artificial tanning, and heavy applying of brightly-colored lipstick.
+
+Its revised coloring may be based on purple discoloration of the skin, a common symptom of {{wp|frostbite}}. This fits with Jynx's {{t|Ice}} type and how it is found in very cold places.
+
+====Name origin====
+Jynx is a corruption of ''{{wp|jinx}}'', a curse or hex of bad luck.
+
+Rougela may be a feminized corruption of ''{{wp|Rouge (cosmetics)|rouge}}'', a type of makeup and also the French word for ''red''.
+
+==In other languages==
+{{Other languages|type=ice|type2=psychic
+|ja=ルージュラ ''Rougela''|jameaning=From ''rouge''
+|fr=Lippoutou|frmeaning=From ''lip'' and ''{{tt|poutou|kiss}}''
+|es=Jynx|esmeaning=Same as English name
+|de=Rossana|demeaning=From ''{{tt|rosso|Italian for 'red'}}''
+|it=Jynx|itmeaning=Same as English name
+|ko=루주라 ''Rujura''|komeaning=Transliteration of Japanese name
+|zh_yue=紅唇娃 ''Hùhngsèuhnwā''|zh_yuemeaning=Literally "Red lipped doll"
+|zh_cmn=迷唇姐 ''Míchúnjiě''|zh_cmnmeaning=Literally "Bewildering lip lady"
+|hi=जिंक्स ''Jynx''|himeaning=Transcription of English name
+|ru=Джинкс ''Dzhinks''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Jynx (MPJ)]]
+
+==External links==
+* [[wp:Jynx|Article on Wikipedia]]
+
+==Notes==
+<references />
+
+{{PokémonPrevNext/Head|type=Ice|type2=Psychic}}
+{{PokémonPrevNext/Pokémon|type=Ice|prevnum=123|prev=Scyther|nextnum=125|next=Electabuzz}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Pokémon that are included in the Japan-only Pokémon Stadium]]
+[[Category:Pokémon with cross-generational evolutions]]
+
+[[de:Rossana]]
+[[fr:Lippoutou]]
+[[it:Jynx]]
+[[ja:ルージュラ]]
+[[pl:Jynx]]
+[[zh:迷唇姐]]

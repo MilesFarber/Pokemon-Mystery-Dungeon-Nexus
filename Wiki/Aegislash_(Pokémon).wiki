@@ -1,0 +1,388 @@
+{{PokémonPrevNext/Head|type=Steel|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=680|prev=Doublade|nextnum=682|next=Spritzee}}
+|}
+{{Pokémon Infobox
+|name=Aegislash
+|jname=ギルガルド
+|jtranslit=Girugarudo
+|tmname=Gillguard
+|category=Royal Sword
+|typebox=1
+|type1=Steel
+|type2=Ghost
+|form1=Shield Forme
+|form2=Blade Forme
+|abilityn=1
+|abilitylayout=1
+|ability1=Stance Change
+|ndex=681
+|karea=Central
+|kdex=119
+|height-ftin=5'07"
+|height-m=1.7
+|weight-lbs=116.8
+|weight-kg=53.0
+|egggroupn=1
+|egggroup1=Mineral
+|eggcycles=20
+|evforms=2
+|evtotal=3
+|evde=2
+|evsd=1
+|evat2=2
+|evsa2=1
+|expyield=234
+|lv100exp=1,000,000
+|gendercode=127
+|color=Brown
+|catchrate=45
+|body=05
+|pokefordex=aegislash
+|generation=6
+|friendship=70
+}}
+'''Aegislash''' ([[List of Japanese Pokémon names|Japanese]]: '''ギルガルド''' ''Gillguard'') is a dual-type {{2t|Steel|Ghost}} {{OBP|Pokémon|species}} introduced in [[Generation VI]].
+
+It [[evolution|evolves]] from {{p|Doublade}} when exposed to a [[Dusk Stone]]. It is the final form of {{p|Honedge}}.
+
+Aegislash has the ability to [[List of Pokémon with form differences#Aegislash|change forms]] during battle, depending on the moves it is using.
+
+==Biology==
+Aegislash's body resembles a golden sword with the blade pointing downwards. The edge of the blade is white and somewhat serrated near the tip. Its single eye, which is purple with a white, linear pupil, sits where the blade meets the hilt, where it is surrounded by black coloration. The handle is thick at its base, tapers as it progresses to the end, and is striated. Two cloth-like arms emerge from the sides of the hilt. Each arm is primarily black and ends in lavender, transitioned by a slight whorl between the two colors. It carries an ornate shield in at least one of its arms, usually the left arm.
+
+Aegislash is capable of {{a|Stance Change|changing its stance}} in the middle of battle, depending on what moves it uses. It carries out offensive moves in its '''Blade Forme''', in which it carries its shield in its left arm and exposes its blade, which it uses to slash its opponents. Defensive moves are performed in its '''Shield Forme''', in which it holds its shield up in front of its blade, with both of its arms crossed behind the shield.
+
+It is said to be able to detect the innate qualities of leadership; legend has it that whoever Aegislash recognizes as a worthy leader is destined to become king. Indeed, this Pokémon has attended and served generations of kings. It is also known to use its spectral power to manipulate people and Pokémon alike. Aegislash is the [[Signature move|only known Pokémon]] that can learn {{m|King's Shield}}.
+
+==In the anime==
+[[File:Sawyer Aegislash Shield Forme.png|thumb|left|210px|Aegislash in its Shield Forme in the {{pkmn|anime}}]]
+[[File:Sawyer Aegislash Blade Forme.png|thumb|210px|Aegislash in its Blade Forme in the {{pkmn|anime}}]]
+===Major appearances===
+Aegislash debuted in ''[[M17|Diancie and the Cocoon of Destruction]]'', under the ownership of [[Argus Steel]].
+
+Aegislash made its main series debut in ''[[XY126|Valuable Experience for All!]]'', under the ownership of [[Sawyer]]. It was revealed to have evolved from a {{p|Doublade}} sometime before the episode.
+
+===Minor appearances===
+An Aegislash appeared in ''[[M19|Volcanion and the Mechanical Marvel]]''.
+
+===Pokédex entries===
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY126|Aegislash|Ash's Pokédex|Aegislash, the Royal Sword Pokémon and the evolved form of Doublade. Stories say Aegislash can detect the natural qualities of leadership, recognizing a true king.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+
+==In the manga==
+[[File:Celosia Aegislash Adventures.png|100px|thumb|left|Shield Forme Aegislash in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+[[File:Celosia Aegislash Blade Forme Adventures.png|200px|thumb|Blade Forme Aegislash in [[Pokémon Adventures]]]]
+[[Celosia]] of [[Team Flare]] owns an Aegislash, which she used in conjunction with her {{p|Honedge}} to possess {{adv|Shauna}} in ''[[PAXY05|Kangaskhan...Kangascan't]]'', which it was in her Shield Forme. She later battled against [[Korrina's Lucario]] in both her Shield and Blade Forme in ''[[PAXY07|Lucky Lucario Was Here]]''. Later she was used to possess numerous {{tc|Sky Trainer}}s and later possessed the [[Vaniville Town]] residents before they escaped. During the final battle in ''[[PAXY38|Xerneas Gives]]'', after {{adv|Shauna}}'s Kitty defeated Celosia's {{p|Doublade}}, Aegislash attempted to attack them only to be defeated by Korrina's Lucario, knocking both it and its trainer out.
+
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PAXY06]]|Generations of kings were attended by these Pokémon, which used their spectral power to manipulate and control people and Pokémon.}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Aegislash (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Super Mystery Dungeon]]: An Aegislash in [[Noe Town]] has the name Gilbrand, a reference to a shield and sword.
+
+===Pokédex entries===
+{{Dex/Header|type=steel|type2=ghost}}
+{{Dex/NA|gen=VI}}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=Generations of kings were attended by these Pokémon, which used their spectral power to manipulate and control people and Pokémon.}}
+{{Dex/Entry1|v=Y|entry=Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Generations of kings were attended by these Pokémon, which used their spectral power to manipulate and control people and Pokémon.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=steel|type2=ghost}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Doublade}}}}
+{{Availability/Entry2/None||v=Omega Ruby|v2=Alpha Sapphire}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Doublade}}}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Doublade}}}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Steel|type2=Ghost}}
+{{Availability/NA|gen=VI}}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Blade-and-Shield Path#Stage 4|Blade-and-Shield Path: Stage 4]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Pedra Valley|Pedra Valley: Stage 207]]<br>[[Marron Trail|Marron Trail: Stage 680]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Dark Land#Royal Armory|Dark Land: Royal Armory]] <small>(Back Boss)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 11|Area 11: Stage 06]] <small>(Shield Form only)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+{{eventAvail/h|Region|type=steel|type2=ghost}}
+{{eventAvail|{{gameabbrev6|XY}}|2014 World Championships Aegislash|All|United States|50|August 16 to 17, 2014|link=List of local event Pokémon distributions in Generation VI#2014 World Championships Aegislash}}
+|}
+
+===Held items===
+{{HeldItems
+|type=steel|type2=ghost
+|event1=Weakness Policy|event1type=None|event1rar=100
+}}
+
+===Stats===
+====Base stats====
+=====Shield Forme=====
+{{BaseStats
+|type=Steel
+|type2=Ghost
+|HP=60
+|Attack=50
+|Defense=150
+|SpAtk=50
+|SpDef=150
+|Speed=60}}
+
+=====Blade Forme=====
+{{BaseStats
+|type=Steel
+|type2=Ghost
+|HP=60
+|Attack=150
+|Defense=50
+|SpAtk=150
+|SpDef=50
+|Speed=60}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Steel
+|type2=Ghost
+|Normal=  0
+|Flying= 50
+|Fighting= 0
+|Ground= 200
+|Rock=   50
+|Bug=   25
+|Poison=  0
+|Ghost=  200
+|Steel=  50
+|Fire=  200
+|Water=  100
+|Grass=  50
+|Electric=100
+|Psychic= 50
+|Ice=   50
+|Dragon=  50
+|Dark=  200
+|Fairy=50
+|notes=yes
+|ghost=yes
+|newfighting=2
+|newnormal=½
+|steel=yes
+|newpoison=½
+}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Aegislash|Steel|Ghost|6}}
+{{learnlist/level7|1|Fury Cutter|Bug|Physical|40|95|20}}
+{{learnlist/level7|1|Pursuit|Dark|Physical|40|100|20}}
+{{learnlist/level7|1|Autotomize|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|1|Shadow Sneak|Ghost|Physical|40|100|30||'''}}
+{{learnlist/level7|1|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|1|Iron Defense|Steel|Status|&mdash;|&mdash;|15}}
+{{learnlist/level7|1|Night Slash|Dark|Physical|70|100|15}}
+{{learnlist/level7|1|Power Trick|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Iron Head|Steel|Physical|80|100|15||'''}}
+{{learnlist/level7|1|Head Smash|Rock|Physical|150|80|5}}
+{{learnlist/level7|1|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/level7|1|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/level7|1|King's Shield|Steel|Status|&mdash;|&mdash;|10}}
+{{learnlist/level7|1|Sacred Sword|Fighting|Physical|90|100|15}}
+{{learnlist/levelf/7|Aegislash|Steel|Ghost|6}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Aegislash|Steel|Ghost|6}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM11|Sunny Day|Fire|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM30|Shadow Ball|Ghost|Special|80|100|15||'''}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM54|False Swipe|Normal|Physical|40|100|40}}
+{{learnlist/tm7|TM59|Brutal Swing|Dark|Physical|60|100|20}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM74|Gyro Ball|Steel|Physical|&mdash;|100|5||'''}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM91|Flash Cannon|Steel|Special|80|100|10||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Aegislash|Steel|Ghost|6}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Aegislash|Steel|Ghost|6}}
+{{learnlist/breed7|{{MSP|562|Yamask}}{{MSP|563|Cofagrigus}}|Destiny Bond|Ghost|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|679|Honedge}}{{MSP|680|Doublade}}{{MSP|707|Klefki}}|Metal Sound|Steel|Status|&mdash;|85|40}}
+{{learnlist/breed7|{{MSP|679|Honedge}}{{MSP|680|Doublade}}{{MSP|681|Aegislash}}|Shadow Sneak|Ghost|Physical|40|100|30||'''}}
+{{learnlist/breed7|{{MSP|476|Probopass}}|Wide Guard|Rock|Status|&mdash;|&mdash;|10}}
+{{learnlist/breedf/7|Aegislash|Steel|Ghost|6}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Aegislash|Steel|Ghost|6}}
+{{learnlist/tutor7|After You|Normal|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Iron Defense|Steel|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Iron Head|Steel|Physical|80|100|15||'''|no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutorf/7|Aegislash|Steel|Ghost|6}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Aegislash|Steel|Ghost|6}}
+{{learnlist/prevo7|679|Honedge||680|Doublade||Tackle|Normal|Physical|40|100|35}}
+{{learnlist/prevo7|679|Honedge||680|Doublade||Metal Sound|Steel|Status|&mdash;|85|40}}
+{{learnlist/prevo7|679|Honedge||680|Doublade||Retaliate|Normal|Physical|70|100|5}}
+{{learnlist/prevof/7|Aegislash|Steel|Ghost|6}}
+
+===Side game data===
+{{Spindata/Head|type=Steel|type2=Ghost}}
+{{Template:Spindata/Battle Trozei|col=6|type=Steel|ndex=681
+|power=3
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Steel|ndex=681|num=205
+|min=70
+|max=140
+|raisemaxlevel=20
+|skill=Counterattack
+|skilldesc=Deals even more damage the more disruptions there are.
+|swapper=Blindside
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=steel
+|type2=ghost
+|pictype=art
+|no1=679
+|name1=Honedge
+|type1-1=Steel
+|type2-1=Ghost
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 35}}
+|no2=680
+|name2=Doublade
+|type1-2=Steel
+|type2-2=Ghost
+|evo2={{bag|Dusk Stone}}<br>{{color2|000|Dusk Stone}}
+|no3=681
+|name3=Aegislash
+|type1-3=Steel
+|type2-3=Ghost
+}}
+
+===Sprites===
+{{Spritebox/Header|type=steel|ghost}}
+{{Spritebox/NA|gen=VI}}
+{{Spritebox/6/2Forms|ndex=681|form1=B}}
+{{Spritebox/7/2Forms|ndex=681|form1=B}}
+{{Spritebox/Footer|681|Aegislash}}
+
+==Trivia==
+* Shield Forme Aegislash has the highest base {{stat|Special Defense}} stat of all {{type|Ghost}} Pokémon, is tied with {{p|Doublade}} for the highest base {{stat|Defense}} of all Ghost type Pokémon, and is tied with {{p|Registeel}} and {{p|Probopass}} for the highest base Special Defense stat of all Steel type Pokémon.
+* No other Pokémon has the same [[List of Pokémon with unique type combinations|type combination]] as Aegislash and its {{p|Honedge|evolutionary}} {{p|Doublade|relatives}}.
+* Aegislash, along with its {{p|Honedge|evolutionary}} {{p|Doublade|relatives}}, were designed by [[Hitoshi Ariga]].<ref>[http://hitoshiariga.deviantart.com/art/Pocket-Monsters-XY-413536751 Pocket Monsters XY by HitoshiAriga on deviantART]</ref>
+
+===Origin===
+Aegislash appears to be based on a possessed sword and shield. Its disposition to sense an owner's potential as leaders and kings, seems to draw inspiration from the ideas of mythical swords of European legend, chiefly Excalibur.
+
+====Name origin====
+Aegislash is a combination of ''{{wp|Aegis}}'' ({{wp|Zeus}}'s shield in Greek mythology) and ''slash''.
+
+Gillguard may be a combination of ''{{wp|Gilgamesh}}'' or ''gild'' (to cover with a layer of gold), 斬る ''kiru'' (to slay with a blade) or ''kill'', and ''guard''.
+
+==In other languages==
+{{Other languages|type=steel|type2=ghost
+|ja=ギルガルド ''Gillguard''|jameaning=Possibly from ''Gilgamesh'', {{tt|斬る ''kiru''|to slay with a blade}}, ''kill'', and ''guard''
+|fr=Exagide|frmeaning=From ''{{wp|Excalibur}}'', ''{{tt|Agiades|Agiads, one of the two dynasties in Sparta}}'', and ''{{tt|Égide|Aegis}}''
+|es=Aegislash|esmeaning=Same as English name
+|de=Durengard|demeaning=From ''{{wp|Durendal}}'' and ''{{tt|garde|French for guard}}''
+|it=Aegislash|itmeaning=Same as English name
+|ko=킬가르도 ''Kilgareudo''|komeaning=From {{tt|킬 ''kil''|kill}}, ''Gilgamesh'', ''guard'', {{tt|가르다''gareuda''|cut}}, and {{tt|도 (刀) ''do''|sword}}
+|zh_yue=堅盾劍怪 ''Gīntéuhngimgwaai''|zh_yuemeaning=From {{tt|堅 ''gīn''|firm}}, {{tt|盾 ''téuhn''|shield}}, {{tt|劍 ''gim''|sword}}, and {{tt|怪 ''gwaai''|freak}}
+|zh_cmn=堅盾劍怪 / 坚盾剑怪 ''Jiāndùnjiànguài''|zh_cmnmeaning=From {{tt|堅 / 坚 ''jiān''|firm}}, {{tt|盾 ''dùn''|shield}}, {{tt|劍 / 剑 ''jiàn''|sword}}, and {{tt|怪 ''guài''|freak}}
+|hi=एगीस्लाश ''Aegislash''|himeaning=Transcription of English name
+|ru=Иджислаш ''Idzhislash''|rumeaning=From English name
+}}
+{{-}}
+{| style="float:left"
+|-
+| style="vertical-align:top" |
+''Shield Forme''
+{{langtable
+|color={{steel color}}|bordercolor={{ghost color}}
+|ja=シールドフォルム ''Shield Forme''
+|zh_yue=盾牌形態 ''{{tt|Téuhnpàaih Yìhngtaai|Shield Forme}}''
+|zh_cmn=盾牌形態 / 盾牌形态 ''{{tt|Dùnpái Xíngtài|Shield Forme}}''
+|fr=Forme Parade
+|de=Schildform
+|it=Forma Scudo
+|ko=실드폼 ''Shield Forme''
+|es=Forma Escudo}}
+| style="vertical-align:top" |
+''Blade Forme''
+{{langtable
+|color={{steel color}}|bordercolor={{ghost color}}
+|ja=ブレードフォルム ''Blade Forme''
+|zh_yue=刀劍形態 ''{{tt|Dōugim Yìhngtaai|Blade Forme}}''
+|zh_cmn=刀劍形態 / 刀剑形态 ''{{tt|Dāojiàn Xíngtài|Blade Forme}}''
+|fr=Forme Assaut
+|de=Klingenform
+|it=Forma Spada
+|ko=블레이드폼 ''Blade Forme''
+|es=Forma Filo}}
+|}{{-}}
+
+==Notes==
+<references/>
+
+==External links==
+
+{{PokémonPrevNext/Head|type=Steel|type2=Ghost}}
+{{PokémonPrevNext/Pokémon|type=Steel|prevnum=680|prev=Doublade|nextnum=682|next=Spritzee}}
+|}
+{{Project Pokédex notice}}
+
+[[de:Durengard]]
+[[fr:Exagide]]
+[[it:Aegislash]]
+[[ja:ギルガルド]]
+[[pl:Aegislash]]
+[[zh:坚盾剑怪]]

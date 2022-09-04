@@ -1,0 +1,859 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Raichu}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=025|prev=Pikachu|nextnum=027|next=Sandshrew|round=none}}
+{{PokémonPrevNext/Disambig|species=Raichu}}
+|}
+{{Pokémon Infobox
+|name=Raichu
+|jname=ライチュウ
+|jtranslit=Raichū
+|tmname=Raichu
+|forme=2
+|form1=Raichu
+|form2=Alolan Raichu
+|image2=026Raichu-Alola.png
+|ndex=026
+|jdex=023
+|hdex=157
+|hdex6=164
+|sdex=105
+|karea=Central
+|kdex=037
+|adex=026
+|fbrow=024
+|abrow=003
+|obrow=006
+|opbrow=155
+|type1=Electric
+|form2type1=Electric
+|form2type2=Psychic
+|category=Mouse
+|height-ftin=2'07"
+|height-m=0.8
+|height-ftin2=2'04"
+|height-m2=0.7
+|weight-lbs=66.1
+|weight-kg=30.0
+|weight-lbs2=46.3
+|weight-kg2=21.0
+|abilitylayout=2+1
+|ability1=Static
+|ability2-1=Surge Surfer
+|abilityd=Lightning Rod
+|abilitydcaption=Raichu
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Fairy
+|eggcycles=10
+|evtotal=3
+|evsp=3
+|expyield=218<!--214 in Gen V-VI-->
+|oldexp=122
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|formcolors=yes
+|catchrate=75
+|body=06
+|pokefordex=raichu
+|generation=1
+|friendship=70
+}}
+'''Raichu''' ([[List of Japanese Pokémon names|Japanese]]: '''ライチュウ''' ''Raichu'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Pikachu}} when exposed to a [[Thunder Stone]]. It is the final form of {{p|Pichu}}.
+
+In [[Alola]], Raichu has a [[regional variant]] that is {{2t|Electric|Psychic}}. It evolves from Pikachu when exposed to a Thunder Stone. All Pikachu in Alola will evolve into this form regardless of their origin.
+
+==Biology==
+Raichu is a bipedal, rodent-like Pokémon. Raichu is covered in dark orange fur with a white belly. Its bifurcated ears are brown on the outside, yellow on the insides, and end in a distinctive curl. There are circular yellow markings on its cheek where its electric sacs are, and it has a triangular, dark brown nose. Its arms and feet have patches of brown fur at the end, and the soles of its big feet are tan with a circular orange pad. On its back are two horizontal brown stripes. Its long, thin tail has a lightning bolt-shaped end. This lightning bolt is smaller on females. The tail is used to gather electricity from the atmosphere, or it can be planted in the ground to search for electricity. Its tail also serves to protect itself from its own power.
+
+Raichu exudes a weak electrical charge from all its body and slightly glows in the dark, and is capable of storing over 100,000 volts of electricity. However, it will become aggressive if it has stored too much electricity. To keep from reaching this state, it discharges electricity through its tail into the ground. This leads to scorched patches near its nest. If Raichu's sacs are fully charged, its ears will stand straight up and its muscles become stimulated. Raichu is found in {{DL|List of Pokémon by habitat|Forest Pokémon|forests and woodlands.}} Like the {{p|Pichu|two}} {{p|Pikachu|others}} in its evolutionary family, Raichu is able to learn {{m|Volt Tackle}} as a [[signature move]].
+
+In Alola, Raichu has lighter coloring and more rounded features. Its eyes are blue with yellow half-circles along the bottom. It has large yellow ears with an inner spiral toward the base and brown on the inside. These ears are thicker and less pointed than a standard Raichu's ear. In addition to its white belly, Alolan Raichu has white markings on its paws with bright yellow lines between its digits. The stripes on its back have also turned white, and there is a small, white circular marking on each heel. The lightning bolt-shaped tip of its tail has rounded edges. By collecting its psychic power in its tail, it is able to ride it like a {{wp|surfboard}} and float in the air. While its cheek sacs are still used to store electricity, rubbing them releases a sweet aroma. This is also thought to be connected to its psychic abilities. Raichu's transformation in [[Alola]] into Alolan Raichu is a mystery, but the natives suppose that maybe it ate too many sweet, fluffy pancakes.<ref>http://www.pokemon-sunmoon.com/en-us/pokemon/alolan-raichu/</ref> Alolan Raichu  is the [[signature move|only known Pokémon]] capable of using the exclusive [[Z-Move]] {{m|Stoked Sparksurfer}}.
+
+==In the anime==
+[[File:Raichu anime.png|thumb|250px|Raichu in the {{pkmn|anime}}]]
+[[File:Nina Raichu.png|thumb|250px|Alolan Raichu in the anime]]
+===In the main series===
+====Major appearances====
+=====[[Lt. Surge's Raichu]]=====
+[[Lt. Surge]], the [[Gym Leader]] of [[Vermilion City]], has a Raichu that defeated [[Ash's Pikachu]] with its sheer power in ''[[EP014|Electric Shock Showdown]]''. After discussing evolution with Pikachu to match Raichu's power, Ash used a strategy relying on Pikachu's speed to defeat Raichu the next day.
+
+=====Other=====
+Raichu was one of the four Pokémon causing trouble for {{AP|Pikachu}} and his friends in ''[[PK01|Pikachu's Vacation]]'', along with {{p|Marill}}, {{p|Snubbull}}, and {{p|Cubone}}.
+
+In ''[[EP069|Lights, Camera, Quack-tion]]'', a girl named {{OBP|Katrina|EP069}} decided to use her {{DL|Katrina (EP069)|Raichu}} in the [[Cleavon Schpielbunk]] film "{{DL|Movies in the Pokémon world|Pokémon in Love}}".
+
+''[[EP090|Stage Fight!]]'' was about a stage show that featured "{{pkmn2|talking}}" Pokémon. [[Kay]]'s {{DL|Kay|Raichu}} was supposed be a part of these shows, but it had stage fright.
+
+A {{DL|Abigail|Sugar|Raichu}} named Sugar appeared in ''[[DP024|Cooking Up a Sweet Story]]''. It evolved from the restaurant owner, [[Abigail]]'s, missing Pikachu.
+
+Another {{DL|Sho|Raichu}} appeared in ''[[DP074|Pika and Goliath!]]'', under the ownership of [[Sho]]. It battled against [[Ash's Pikachu]] twice in that episode.
+
+The [[Pokémon Summer Academy]] has a very skittish {{DL|Ash|Raichu}} for its students. It appeared in ''[[DP088|Camping It Up!]]'' where it was trained by {{Ash}}.
+
+Another {{DL|Volkner|Raichu}} appeared in ''[[DP165|Flint Sparks the Fire!]]'' and ''[[DP166|The Fleeing Tower of Sunyshore!]]'' under the ownership of [[Volkner]].
+
+{{an|Tierno}}'s {{DL|Tierno (anime)|Raichu}} appeared in ''[[XY065|Good Friends, Great Training!]]'' and ''[[XY126|Valuable Experience for All!]]''. Tierno used Raichu in his battle against Ash along with {{TP|Tierno|Wartortle}} battling Pikachu and {{AP|Goodra}} but were eventually defeated. Raichu later battled [[Sawyer]], defeating {{DL|Sawyer|Aegislash}} before being recalled after fighting {{DL|Sawyer|Slurpuff}}. Raichu later battled {{TP|Sawyer|Sceptile}} but soon lost.
+
+An [[Regional variant|Alolan]] {{DL|Nina|Raichu}} debuted in ''[[SM013|Racing to a Big Event!]]'', under the ownership of [[Nina]]. Nina used her Raichu as her partner during the [[Pokémon Pancake Race]].
+
+====Minor appearances====
+A Raichu also appeared in ''[[EP028|Pokémon Fashion Flash]]'', ''[[M01|Mewtwo Strikes Back]]'' and ''[[EP108|Pokémon Double Trouble]]''.
+
+A Raichu appeared in ''[[EP040|The Battling Eevee Brothers]]'' during the evolution party in [[Stone Town]].
+
+Multiple Raichu also appeared in ''[[M02|The Power of One]]''.
+
+A {{DL|Ellen|Raichu}} belonging to [[Ellen]] was seen herding {{p|Mareep}} in ''[[EP139|Mild 'n Wooly]]''.
+
+A Raichu was one of the Pokémon seen at the [[Pokémon Swap Meet]] in ''[[EP146|Tricks of the Trade]]''.
+
+A Raichu appeared in ''[[EP169|Beauty and the Breeder]]'' where it participated in [[Pokémon Beauty Contest|a Pokémon breeding competition]].
+
+Raichu made a cameo in ''[[The Legend of Thunder!]]''. It was one of the {{t|Electric}} Pokémon that were lured by the "Miracle Crystal" that [[Attila]] and [[Hun]] were using. Raichu tried to be the hero by zapping the crystal, but the attack bounced back to itself.
+
+Raichu is one of the Pokémon that were affected by the crystal in ''[[EP242|As Clear As Crystal]]''.
+
+A Raichu appeared in ''[[AG122|Deceit and Assist]]'' under the ownership of a [[Pokémon Coordinator]] participating in the [[Hoenn Grand Festival]].
+
+Another Raichu appeared in ''[[DP149|Sticking With Who You Know!]]'', falling in love with a {{p|Squirtle}} due to the effect of [[Professor Kodama]]'s machine.
+
+Three Raichu appeared in ''[[XY001|Kalos, Where Dreams and Adventures Begin!]]''
+
+A Raichu appeared in a fantasy in ''[[XY012|To Catch a Pokémon Smuggler!]]'', evolving from a {{p|Pikachu}} using a [[Thunder Stone]].
+
+A Raichu appeared in ''[[SM003|Loading the Dex!]]'' as a silhouette that [[Rotom Pokédex]] brought up.
+
+Two Raichu appeared in ''[[SM042|Alola, Kanto!]]'', with one appearing in a fantasy.
+
+====Pokédex entries====
+{{Animedexheader|Kanto}}
+{{Animedexbody|EP014|Raichu|Ash's Pokédex|Raichu, a Mouse Pokémon of the {{t|Electric}} element. Raichu is the evolved form of {{p|Pikachu}}. It can shock with more than 100,000 volts, enough to render a {{p|Dragonite}} unconscious.}}
+|}
+{| width="100%" style="background: #{{colorschemedark|Kanto}}"
+|-
+| width="100%" style="text-align:right; background: #{{colorschemelight|Kanto}}; {{roundybottom|10px}}" | <small>''' Original series entries continue below.'''</small>
+|}
+|}
+{{Animedexheader|Pika}}
+{{Animedexbody|PK01|Raichu|Dexter|Raichu, the evolved form of Pikachu. Pikachu and Raichu are both Mouse Pokémon of the electric variety. Combined voltage approaching shockingly dangerous levels.}}
+{{Animedexfooter/Pokémon|original|Pika}}
+{{Animedexheader|Kalos}}
+{{Animedexbody|XY065|Raichu|Serena's Pokédex|Raichu, the Mouse Pokémon and the evolved form of Pikachu. Raichu's tail functions as a ground and releases electricity into the surface, which keeps it from shocking itself.}}
+{{Animedexfooter/Pokémon|''XY''|Kalos}}
+{{Animedexheader|Alola}}
+{{Animedexbody|SM013|Raichu|Rotom Pokédex|Raichu, Alola Form. The Mouse Pokémon. An {{t|Electric}} and {{t|Psychic}} type. Raichu manipulates electricity with its mind, and its psychic powers allow it to use its tail as transportation.}}
+{{Animedexfooter/Pokémon|''Sun & Moon''|Alola}}
+
+===In Pokémon Origins===
+[[File:Lt Surge Raichu PO.png|thumb|250px|Raichu in [[Pokémon Origins]]]]
+====[[Lt. Surge's Raichu]]====
+{{OBP|Red|Origins}} battled Lt. Surge's Raichu in ''[[PO02|File 2: Cubone]]''.
+{{-}}
+
+==In the manga==
+[[File:Lt Surge Raichu Adventures.png|thumb|200px|Raichu in [[Pokémon Adventures]]]]
+===In the Magical Pokémon Journey manga===
+{{main|Sandy's Raichu}}
+In the [[Magical Pokémon Journey]] manga series, a Raichu appears in the bonus chapter ''[[PPPB14|Raichu's Best Friend]]''. In the chapter, the ghost of a Trainer named [[Sandy]] wishes to be reunited with her old friend Raichu.
+
+===In the Pokémon Adventures manga===
+{{main|Lt. Surge's Raichu}}
+[[Lt. Surge]] has a Raichu in [[Pokémon Adventures]], which was first seen in [[Silph Co.]] in ''[[PS029|Go for the Golbat]]'' but never participated in battles until fighting the [[Masked Man]] in his [[Mahogany Town#Places of Interest|Mahogany Hideout]], where it helped Surge break in and seemingly backed the mastermind into a corner, until his {{p|Houndour}} called upon dozens of wild Houndour to thwart Surge, instead. The former [[Team Rocket]] triad member barely escaped with his life after having many of his {{p|Electrode}} self-destruct.
+
+In ''[[PS179|The Last Battle XIII]]'' a Raichu was one of the Pokémon sent to help the fight in [[Ilex Forest]].
+
+The Battle Factory rented a Raichu which was stolen by [[Guile Hideout]] in ''[[PS334|The Final Battle VII]]''.
+
+[[Volkner]] has a Raichu which he used it in his battle against {{adv|Platinum}} in ''[[PS404|Encountering Elekid]]''.
+
+In ''[[PS442|Out-Odding Oddish]]'', a Raichu appeared in the [[Pokéathlon]].
+
+===In the Pokémon Zensho manga===
+{{Zensho|Satoshi}} had a {{p|Pikachu}} that chose to evolve into a Raichu to help him defeat the [[Elite Four]] in [[Pokémon Zensho]].
+
+===In the Pokémon Pocket monsters manga===
+{{OBP|Blue|Pocket Monsters}} has a Raichu which he used to battle {{OBP|Red|Pocket Monsters}} in ''[[PM054|The Pokémon Banana League (Part 1)]]''.
+{{-}}
+
+===Pokédex entries===
+{{Mangadexheader}}
+{{Mangadexbody|Pokémon Adventures|[[PS139]]|When the electricity accumulated in Raichu's cheeks reach a maximum, its ears will become pointed.{{tt|*|Chuang Yi's translation}}}}
+{{Mangadexfooter}}
+
+==In the TCG==
+{{main|Raichu (TCG)}}
+
+==In the TFG==
+One Raichu figure has been released.
+
+* {{TFG|Next Quest}}: {{TFG ID|Next Quest|Raichu|19}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team]]: Raichu is part of an unnamed rescue team which gathers at [[Pokémon Square]] just before the player and partner are able to access [[Magma Cavern]].
+
+===Pokédex entries===
+====Raichu====
+{{Dex/Header|type=Electric}}
+{{Dex/Gen|gen=I}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=Its long tail serves as a ground to protect itself from its own high voltage power.}}
+{{Dex/Entry1|v=Yellow|entry=When electricity builds up inside its body, it becomes feisty. It also glows in the dark.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Its electrical attacks may reach 10,000 volts. It discharges electricity from its tail, so it is not harmed by its own power.}}
+|}
+|}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.}}
+{{Dex/Entry1|v=Silver|entry=If the electric pouches in its cheeks become fully charged, both ears will stand straight up.}}
+{{Dex/Entry1|v=Crystal|entry=If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=If the electrical sacks become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu searches for electricity by planting its tail in the ground.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.}}
+{{Dex/Entry1|v=FireRed|entry=Its electric charges can reach even 100,000 volts. Careless contact can cause even an {{wp|Indian Elephant|Indian elephant}} to faint.}}
+{{Dex/Entry1|v=LeafGreen|entry=Its long tail serves as ground to protect itself from its own high-voltage power.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It turns aggressive if it has too much electricity in its body. It discharges power through its tail.}}
+{{Dex/Entry1|v=Pearl|entry=It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.}}
+{{Dex/Entry1|v=Platinum|entry=Its tail discharges electricity into the ground, protecting it from getting shocked.}}
+{{Dex/Entry1|v=HeartGold|entry=When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.}}
+{{Dex/Entry1|v=SoulSilver|entry=If the electric pouches in its cheeks become fully charged, both ears will stand straight up.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Its tail discharges electricity into the ground, protecting it from getting shocked.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Its tail discharges electricity into the ground, protecting it from getting shocked.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=When its electricity builds, its muscles are stimulated, and it becomes more aggressive than usual.}}
+{{Dex/Entry1|v=Y|entry=It can loose 100,000-volt bursts of electricity, instantly downing foes several times its size.}}
+{{Dex/Entry1|v=Omega Ruby|t=fff|entry=If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=This Pokémon exudes a weak electrical charge from all over its body that makes it take on a slight glow in darkness. Raichu plants its tail in the ground to discharge electricity.}}
+|}
+|}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It unleashes electric shocks that can reach 100,000 volts. When agitated, it can knock out even an Indian elephant.}}
+{{Dex/Entry1|v=Moon|entry=It becomes aggressive when it has electricity stored up. At such times, even its Trainer has to take care to avoid being attacked.}}
+{{Dex/Entry1|v=Ultra Sun|entry=As electricity builds up inside its body, it becomes more aggressive. One theory is that the electricity buildup is actually causing stress.}}
+{{Dex/Entry1|v=Ultra Moon|entry=Because so many Trainers like the way Pikachu looks, you don't see this Pokémon very often.}}
+|}
+|}
+{{Dex/Footer}}
+
+====Alolan Raichu====
+{{Dex/Header|type=Electric|type2=Psychic}}
+{{Dex/NA|gen=VII}}
+{{Dex/Gen|gen=VII}}
+{{Dex/Entry1|v=Sun|entry=It only evolves to this form in the Alola region. According to researchers, its diet is one of the causes of this change.}}
+{{Dex/Entry1|v=Moon|entry=It uses psychokinesis to control electricity. It hops aboard its own tail, using psychic power to lift the tail and move about while riding it.}}
+{{Dex/Entry1|v=Ultra Sun|entry=It focuses psychic energy into its tail and rides it like it's surfing. Another name for this Pokémon is “hodad.”}}
+{{Dex/Entry1|v=Ultra Moon|entry=When you rub its cheeks, a sweet fragrance comes wafting out. However, you'll also get a light shock!}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Red|area=[[Cerulean Cave]]}}
+{{Availability/Entry1|1|v=Blue|t=fff|area={{FB|Kanto|Power Plant}}, [[Cerulean Cave]]}}
+{{Availability/Entry1|1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area={{FB|Kanto|Power Plant}}, [[Cerulean Cave]]}}
+{{Availability/Entry1/None|1|v=Yellow}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|2|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+{{Availability/Entry1|v=Platinum|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Pikachu}} (Alola Form)<br>[[Trade]] (Normal Form)}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|area=[[Evolution|Evolve]] {{p|Pikachu}} (Alola Form)<br>[[Evolution|Evolve]] {{p|Pikachu}} in [[Ultra Space]] (Normal Form)}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area={{OBP|Viridian Forest|Channel}}}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=FFF|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 8]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Sekra Range]], [[Fiore Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Sky Stairway]] (1F-49F)}}
+{{Availability/Entry1|v=Ranger: SoA|link=Pokémon Ranger: Shadows of Almia|color={{SoA color}}|area=[[Ice Lake]], [[Almia Castle]], [[Volcano Cave]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode B & S)</small>}}
+{{Availability/Entry1|v=PokéPark Wii|link=PokéPark Wii: Pikachu's Adventure|color={{grass color}}|area=[[Cavern Zone]], [[Haunted Zone]]}}
+{{Availability/Entry1|v=Ranger: GS|link=Pokémon Ranger: Guardian Signs|color={{GS color}}|area=[[Sophian Road]], [[Mt. Sorbet]], [[Canal Ruins]], [[Oblivia Ruins]], [[Thunder Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Autumnwood: [[Firebreathing Mountain]], Forest: [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=PokéPark 2|link=PokéPark 2: Wonders Beyond|color={{grass color}}|area=[[Cove Area]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Evolution|Evolve]] {{p|Pikachu}}}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Silent Tundra]] (B1-B26, Mapless Street), [[Dreamy Island]] (Mapless Street), [[Cape at the Edge]] (B1-B29), Magnagate dungeons}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Conductor Room#Rumbling Magnetic Motors|Conductor Room: Rumbling Magnetic Motors]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 6|Renegade Meadow: Stage 6]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Silbern Museum|Silbern Museum: Stage 103]]<br>Event: [[Special Stages#Second release|''Pokémon Safari'']] <small>(Second release; Winking)</small><br>Event: ''{{DL|Special Stages|High-Speed Challenge|Raichu Appears}}'' <small>(Alola Form)</small>}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Gold Plateau#Tricky Factory|Gold Plateau: Tricky Factory]] <small>(All Areas)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Electric|Frontier=yes
+|rby1=Gold Leaf|rby1type=None|rby=100|rby1image=no|rby1link=Gold and Silver Leaves
+|e1=Oran Berry|e1type=None|e1rar=5
+|dppt1=Oran Berry|dppt1type=Berry|dppt1rar=5
+|hgss1=Oran Berry|hgss1type=Berry|hgss1rar=5
+}}
+
+===Stats===
+====Base stats====
+=====Generation I-V=====
+{{Stats
+|type=Electric
+|HP=60
+|Attack=90
+|Defense=55
+|Special=90
+|SpAtk=90
+|SpDef=80
+|Speed=100}}
+
+=====Generation VI onward=====
+{{Stats
+|type=Electric
+|HP=60
+|Attack=90
+|Defense=55
+|SpAtk=90
+|SpDef=80
+|Speed=110}}
+
+=====Alolan Raichu=====
+{{Stats
+|type=Electric
+|type2=Psychic
+|HP=60
+|Attack=85
+|Defense=50
+|SpAtk=95
+|SpDef=85
+|Speed=110}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Electric
+|Speed=2
+|SpeedMax=3
+|Power=4
+|PowerMax=5
+|Technique=4
+|TechniqueMax=5
+|Stamina=4
+|StaminaMax=5
+|Jump=2
+|JumpMax=3}}
+
+===Type effectiveness===
+====Raichu====
+{{TypeEffectiveness
+|type1=Electric
+|Normal=100
+|Fighting=100
+|Flying=50
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=100
+|Ghost=100
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=100
+|Ice=100
+|Dragon=100
+|Dark=100
+|Fairy=100
+|notes=yes
+|lightningrod=maybe}}
+
+====Alolan Raichu====
+{{TypeEffectiveness
+|type1=Electric
+|type2=Psychic
+|Normal=100
+|Fighting=50
+|Flying=50
+|Poison=100
+|Ground=200
+|Rock=100
+|Bug=200
+|Ghost=200
+|Steel=50
+|Fire=100
+|Water=100
+|Grass=100
+|Electric=50
+|Psychic=50
+|Ice=100
+|Dragon=100
+|Dark=200
+|Fairy=100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+=====Raichu=====
+{{learnlist/levelh/7|Raichu|Electric|Electric|1}}
+{{learnlist/level7|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level7|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|1|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/levelf/7|Raichu|Electric|Electric|1}}
+
+=====Alolan Raichu=====
+{{learnlist/levelh/7|Raichu|Electric|Psychic|7}}
+{{learnlist/level7|1|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/level7|1|Speed Swap|Psychic|Status|—|—|10}}
+{{learnlist/level7|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level7|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level7|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level7|1|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/level7|{{tt|Evo.|Learned upon evolving}}|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/levelf/7|Raichu|Electric|Psychic|1}}
+
+====By [[TM]]/[[HM]]====
+=====Raichu=====
+{{learnlist/tmh/7|Raichu|Electric|Electric|1}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Raichu|Electric|Electric|1}}
+
+=====Alolan Raichu=====
+{{learnlist/tmh/7|Raichu|Electric|Psychic|7}}
+{{learnlist/tm7|TM03|Psyshock|Psychic|Special|80|100|10||'''}}
+{{learnlist/tm7|TM04|Calm Mind|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|—|90|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM15|Hyper Beam|Normal|Special|150|90|5}}
+{{learnlist/tm7|TM16|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm7|TM20|Safeguard|Normal|Status|—|—|25}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM24|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm7|TM25|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|—|100|20}}
+{{learnlist/tm7|TM29|Psychic|Psychic|Special|90|100|10||'''}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|—|—|15}}
+{{learnlist/tm7|TM33|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|—|—|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|—|100|15}}
+{{learnlist/tm7|TM46|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM49|Echoed Voice|Normal|Special|40|100|15}}
+{{learnlist/tm7|TM52|Focus Blast|Fighting|Special|120|70|5}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm7|TM57|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm7|TM68|Giga Impact|Normal|Physical|150|90|5}}
+{{learnlist/tm7|TM72|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm7|TM73|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm7|TM86|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|—|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm7|TM93|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|—|—|20}}
+{{learnlist/tmf/7|Raichu|Electric|Psychic|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Raichu|Electric|Electric|2}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|176|Togetic}}{{MSP|263|Zigzagoon}}{{MSP|264|Linoone}}{{MSP|311|Plusle}}{{MSP|766|Passimian}}|Bestow|Normal|Status|—|—|15}}
+{{learnlist/breed7|{{MSP|027A|Sandshrew}}{{MSP|273|Seedot}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|417|Pachirisu}}{{MSP|504|Patrat}}<br>{{MSP|505|Watchog}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|734|Yungoos}}{{MSP|735|Gumshoos}}{{MSP|749|Mudbray}}<br>{{MSP|750|Mudsdale}}{{MSP|759|Stufful}}{{MSP|760|Bewear}}|Bide|Normal|Physical|—|—|10}}
+{{learnlist/breed7|{{MSP|179|Mareep}}{{MSP|180|Flaaffy}}{{MSP|181|Ampharos}}{{MSP|309|Electrike}}{{MSP|310|Manectric}}{{MSP|311|Plusle}}<br>{{MSP|312|Minun}}{{MSP|403|Shinx}}{{MSP|404|Luxio}}{{MSP|405|Luxray}}{{MSP|522|Blitzle}}{{MSP|523|Zebstrika}}<br>{{MSP|587|Emolga}}{{MSP|702|Dedenne}}{{MSP|777|Togedemaru}}|Charge|Electric|Status|—|—|20}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|036|Clefable}}{{MSP|039|Jigglypuff}}{{MSP|300|Skitty}}{{MSP|531|Audino}}{{MSP|677|Espurr}}<br>{{MSP|678|Meowstic}}{{MSP|682|Spritzee}}{{MSP|683|Aromatisse}}{{MSP|700|Sylveon}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}<br>{{MSP|730|Primarina}}|Disarming Voice|Fairy|Special|40|—|15}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|036|Clefable}}{{MSP|039|Jigglypuff}}{{MSP|040|Wigglytuff}}{{MSP|300|Skitty}}{{MSP|301|Delcatty}}<br>{{MSP|531|Audino}}{{MSP|572|Minccino}}{{MSP|619|Mienfoo}}{{MSP|620|Mienshao}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}<br>{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Double Slap|Normal|Physical|15|85|10}}
+{{learnlist/breed7|{{MSP|310|Manectric}}{{MSP|405|Luxray}}{{MSP|777|Togedemaru}}|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|176|Togetic}}{{MSP|287|Slakoth}}{{MSP|288|Vigoroth}}<br>{{MSP|289|Slaking}}{{MSP|311|Plusle}}{{MSP|312|Minun}}{{MSP|363|Spheal}}{{MSP|364|Sealeo}}{{MSP|365|Walrein}}<br>{{MSP|501|Oshawott}}{{MSP|502|Dewott}}{{MSP|503|Samurott}}{{MSP|572|Minccino}}{{MSP|587|Emolga}}{{MSP|728|Popplio}}<br>{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Encore|Normal|Status|—|100|5}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|221|Piloswine}}{{MSP|473|Mamoswine}}{{MSP|231|Phanpy}}{{MSP|288|Vigoroth}}<br>{{MSP|417|Pachirisu}}{{MSP|427|Buneary}}{{MSP|428|Lopunny}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}|Endure|Normal|Status|—|—|10}}
+{{learnlist/breed7|{{MSP|052|Meowth}}{{MSP|052A|Meowth}}{{MSP|053|Persian}}{{MSP|053A|Persian}}{{MSP|274|Nuzleaf}}{{MSP|300|Skitty}}<br>{{MSP|301|Delcatty}}{{MSP|431|Glameow}}{{MSP|432|Purugly}}{{MSP|509|Purrloin}}{{MSP|510|Liepard}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|677|Espurr}}{{MSP|678|Meowstic}}|Fake Out|Normal|Physical|40|100|10}}
+{{learnlist/breed7|{{MSP|206|Dunsparce}}{{MSP|220|Swinub}}{{MSP|231|Phanpy}}{{MSP|263|Zigzagoon}}{{MSP|287|Slakoth}}{{MSP|289|Slaking}}<br>{{MSP|324|Torkoal}}{{MSP|327|Spinda}}{{MSP|613|Cubchoo}}{{MSP|614|Beartic}}{{MSP|659|Bunnelby}}{{MSP|660|Diggersby}}<br>{{MSP|682|Spritzee}}{{MSP|683|Aromatisse}}{{MSP|759|Stufful}}{{MSP|760|Bewear}}{{MSP|775|Komala}}|Flail|Normal|Physical|—|100|15}}
+{{learnlist/breed7|{{MSP|035|Clefairy}}{{MSP|420|Cherubi}}{{MSP|421|Cherrim}}{{MSP|517|Munna}}{{MSP|518|Musharna}}{{MSP|653|Fennekin}}<br>{{MSP|654|Braixen}}{{MSP|655|Delphox}}|Lucky Chant|Normal|Status|—|—|30}}
+{{learnlist/breed7|{{MSP|225|Delibird}}|Present|Normal|Physical|—|90|15}}
+{{learnlist/breed7|{{MSP|058|Growlithe}}{{MSP|288|Vigoroth}}{{MSP|506|Lillipup}}{{MSP|507|Herdier}}{{MSP|508|Stoutland}}{{MSP|619|Mienfoo}}<br>{{MSP|620|Mienshao}}{{MSP|626|Bouffalant}}{{MSP|745Mn|Lycanroc}}{{MSP|766|Passimian}}|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/breed7|{{MSP|181|Ampharos}}|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/breed7|{{MSP|190|Aipom}}{{MSP|424|Ambipom}}{{MSP|572|Minccino}}{{MSP|573|Cinccino}}|Tickle|Normal|Status|—|100|20}}
+{{learnlist/breed7|{{bag3|Light Ball}}{{tt|*|If either parent holds a Light Ball, Pichu will know Volt Tackle. Volt Tackle cannot be inherited as an Egg move.}}|Volt Tackle|Electric|Physical|120|100|15||'''}}
+{{learnlist/breed7|{{MSP|176|Togetic}}{{MSP|684|Swirlix}}{{MSP|685|Slurpuff}}|Wish|Normal|Status|—|—|10}}
+{{learnlist/breedf/7|Raichu|Electric|Electric|2|form=yes}}
+
+====By [[Move Tutor|tutoring]]====
+=====Raichu=====
+{{learnlist/tutorh/7|Raichu|Electric|Electric|2}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutorf/7|Raichu|Electric|Electric|2}}
+{{-}}
+
+=====Alolan Raichu=====
+{{learnlist/tutorh/7|Raichu|Electric|Psychic|7}}
+{{learnlist/tutor7|Ally Switch|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Covet|Normal|Physical|60|100|25|||no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15||'''|no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Helping Hand|Normal|Status|—|—|20|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Knock Off|Dark|Physical|65|100|20|||no|yes}}
+{{learnlist/tutor7|Laser Focus|Normal|Status|—|—|30|||no|yes}}
+{{learnlist/tutor7|Magic Coat|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Magic Room|Psychic|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Magnet Rise|Electric|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Recycle|Normal|Status|—|—|10|||no|yes}}
+{{learnlist/tutor7|Shock Wave|Electric|Special|60|—|20||'''|no|yes}}
+{{learnlist/tutor7|Signal Beam|Bug|Special|75|100|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Telekinesis|Psychic|Status|—|—|15|||no|yes}}
+{{learnlist/tutor7|Thunder Punch|Electric|Physical|75|100|15||'''|no|yes}}
+{{learnlist/tutorf/7|Raichu|Electric|Psychic|7}}
+
+====By a prior [[evolution]]====
+{{learnlist/prevoh/7|Raichu|Electric|Electric|1}}
+{{learnlist/prevo7|172|Pichu|||||Charm|Fairy|Status|—|100|20}}
+{{learnlist/prevo7|172|Pichu|||||Sweet Kiss|Fairy|Status|—|75|10}}
+{{learnlist/prevo7|172|Pichu|||||Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/prevo7|025|Pikachu|||||Growl|Normal|Status|—|100|40}}
+{{learnlist/prevo7|025|Pikachu|||||Play Nice|Normal|Status|—|—|20}}
+{{learnlist/prevo7|025|Pikachu|||||Electro Ball|Electric|Special|—|100|10|'''}}
+{{learnlist/prevo7|025|Pikachu|||||Feint|Normal|Physical|30|100|10}}
+{{learnlist/prevo7|025|Pikachu|||||Spark|Electric|Physical|65|100|20|'''}}
+{{learnlist/prevo7|025|Pikachu|||||Nuzzle|Electric|Physical|20|100|20|'''}}
+{{learnlist/prevo7|025|Pikachu|||||Discharge|Electric|Special|80|100|15|'''}}
+{{learnlist/prevo7|025|Pikachu|||||Slam|Normal|Physical|80|75|20}}
+{{learnlist/prevo7|025|Pikachu|||||Agility|Psychic|Status|—|—|30}}
+{{learnlist/prevo7|025|Pikachu|t||||Volt Tackle|Electric|Physical|120|100|15|'''}}
+{{learnlist/prevo7|025|Pikachu|e||||Surf|Water|Special|90|100|15||{{sup/7|USUM}}}}
+{{learnlist/prevo7|025|Pikachu|e||||Celebrate|Normal|Status|—|—|40}}
+{{learnlist/prevo7|025|Pikachu|e||||Hold Hands|Normal|Status|—|—|40}}
+{{learnlist/prevo7|025|Pikachu|e||||Teeter Dance|Normal|Status|—|100|20}}
+{{learnlist/prevo7|025|Pikachu|e||||Happy Hour|Normal|Status|—|—|30}}
+{{learnlist/prevof/7|Raichu|Electric|Electric|1|form=yes}}
+
+===Side game data===
+{{Spindata/Head|type=Electric}}
+{{Spindata/Pinball|col=2|type=Electric|ndex=026|acquisition=Evolve|evolved=yes}}
+{{Spindata/PinballRS|col=2|type=Electric|ndex=026|acquisition=Evolve|evolved=yes}}
+{{Spindata/Trozei|col=2|type=Electric|ndex=026|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Electric|ndex=026
+|body=1
+|rate=Evolve
+|area=Energetic Forest
+|P1=I'll send foes flying with my {{m|Thunderbolt}}!
+|P2=Urf... My health is down to half.
+|P3=I'm staggering...If I don't recharge somewhere, I'll drop...
+|PL=Leveled up! Electric power is overflowing!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Electric|ndex=026
+|body=1
+|rate=-12
+|IQ=D
+}}
+|-
+{{Spindata/Ranger|col=6|type=Electric
+|group=Electric
+|assist=Electric
+|fieldpower=3
+|field=Recharge
+|loop=3
+|MinEXP=15
+|MaxEXP=15
+|browser=Raichu discharges energy to greatly recharge the [[Capture Styler|Styler]]'s energy.
+}}
+|-
+{{Spindata/Ranger SoA|col=6|type=Electric
+|group=Electric
+|assist=Recharge
+|field=Recharge
+|fieldpower=4
+|browser=It attacks by powerfully blasting thunderbolts from its body.
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Electric
+|group=Electric
+|assist=Recharge
+|field=Recharge
+|fieldpower=4
+|assistp=Electric
+|fieldp=Electrify
+|browser=It restores the Styler Energy.
+}}
+|-
+{{Spindata/Rumble|col=3|type=Electric
+|att=3
+|def=3
+|speed=4
+}}
+{{Spindata/RumbleBlast|col=3|type=Electric
+|att=3
+|def=3
+|speed=4
+}}
+|-
+{{Spindata/PokéPark|col=6|type=Electric|ndex=026
+|Pad=Raichu often play in the [[Cavern Zone]] or the [[Haunted Zone]]. Their favorite Attractions are {{DL|Attractions|Bastiodon's Block Barrage}} and {{DL|Attractions|Tangrowth's Swing-Along}}.
+}}
+|-
+{{Spindata/PokéPark2|col=6|type=Electric|ndex=026
+|strong=&nbsp;
+|weak=[[File:Pikachu icon.png|link=Pikachu (Pokémon)]]
+|pad=When it comes to Electric-Type moves, he has no equal. He saw the potential in Pikachu and made him his apprentice.
+}}
+|-
+{{Spindata/Conquest|col=6|type=Electric|ndex=026
+|HP=2
+|atk=3
+|def=2
+|spd=4
+|range=3
+|move=Volt Tackle
+|ability1=Static
+|ability2=Instinct
+|ability3=Lightningrod
+|evo=Evolves from {{p|Pikachu}} when its [[link]] is improved while its [[Warrior]] is equipped with a [[Thunder Stone|Thunderstone]]
+|link={{DL|List of Pokémon Conquest characters|Akizane}}, '''[[Hanbei]]''', and {{DL|List of Pokémon Conquest characters|Sōrin}}
+}}
+|-
+{{Spindata/Battle Trozei|col=6|type=Electric|ndex=026
+|power=2
+|skill=Flinch Attack
+|skilldesc=Briefly stops wild Pokémon from taking action.
+}}
+|-
+{{Spindata/Shuffle|col=3|type=Electric|ndex=026|num=017
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Paralyze
+|skilldesc=Leaves the foe paralyzed.
+|swapper=Lightning
+}}
+{{Spindata/Shuffle|col=3|type=Electric|ndex=026Winking|num=017
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Rock Break+
+|skilldesc=Sometimes destroys three breakable-rock disruptions.
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Electric|ndex=026A|stype=Psychic|num=017
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Risk-Taker
+|skilldesc=Increases damage randomly.
+}}
+|-
+{{Spindata/GO|col=6|type=Electric|ndex=026
+|hatch=N/A
+|buddy=1
+|evolution=N/A
+|stamina=120
+|attack=193
+|defense=165
+|fast={{m|Thunder Shock}}{{tt|*|Prior to February 16, 2017}}, {{m|Volt Switch}}{{tt|*|From February 16, 2017 onward}}, {{m|Spark}}
+|special={{m|Brick Break}}, {{m|Thunder Punch}}, {{m|Thunder}}{{tt|*|Prior to February 16, 2017}}, {{m|Wild Charge}}{{tt|*|From February 16, 2017 onward}}
+}}
+|}
+
+===Evolution===
+{{Evobox
+|family=Baby
+|sprite1=172Pichu
+|name1=Pichu
+|type1-1=Electric
+|evotype1=Friendship
+|sprite2=025Pikachu
+|name2=Pikachu
+|type1-2=Electric
+|evotype2=Stone
+|evostone2=Thunder Stone
+|sprite3=026Raichu
+|name3=Raichu
+|type1-3=Electric
+|evotype2a=Stone
+|evostone2a=Thunder Stone
+|form3a=Alola Form
+|sprite3a=026Raichu-Alola
+|name3a=Raichu
+|type1-3a=Electric
+|type2-3a=Psychic
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/1|ndex=026}}
+{{Spritebox/2|ndex=026}}
+{{Spritebox/3|ndex=026}}
+{{Spritebox/4/Gender|ndex=026}}
+{{Spritebox/5/Gender|ndex=026}}
+{{Spritebox/6/Gender|ndex=026}}
+{{Spritebox/7/2FormsGender|ndex=026|form1=A}}
+{{Spritebox/Footer|026|Raichu}}
+
+==Trivia==
+* No other Pokémon has the same [[type]] [[List of Pokémon with unique type combinations|combination]] as Alolan Raichu.
+* In {{game|Red and Blue|s}}, there is a {{tc|Scientist}} at the [[Pokémon Lab]] in [[Cinnabar Island]] who will trade a Raichu for an {{p|Electrode}}. If the player talks to him after the trade, he will mention that the Raichu evolved, which is not possible. This mistake was due to the original translation of the script of the [[Pokémon Blue Version (Japanese)|Japanese Blue]] (in which this person traded a Graveler for a Kadabra) rather than that of {{game|Red and Green|s}}. This error was corrected in {{game|FireRed and LeafGreen|s}}, as the script was retranslated.
+* Raichu's FireRed and Sun Pokédex entries reference a 1903 documentary film called Electrocuting an Elephant by {{wp|Thomas Edison}}.
+* Several Pokédex entries claim Raichu can discharge up to {{m|Thunderbolt|100,000 volts}}. However, its Stadium entry claims it can only discharge up to 10,000 volts. This is likely a translation error due to the way numbers are read in Japanese, where 100,000 literally reads "ten ten-thousands".
+* Raichu [[List of Pokémon that appear in every regional Pokédex|appears in every regional Pokédex]] except the [[List of Pokémon by Unova Pokédex number|Unova Pokédex]].
+* Although {{p|Pikachu}} is the starter of {{game|Yellow}}, it is not possible to directly evolve it into Raichu in the game, and must be traded in from {{2v2|Red|Blue}}. This inability to evolve Pikachu is a reference to [[Ash's Pikachu]] in the anime.
+* Raichu and its {{p|Pikachu|pre-evolved form}} share their {{pkmn|category}} with {{p|Rattata}}, {{p|Raticate}}, {{p|Sandshrew}}, and {{p|Sandslash}}. They are all known as the Mouse Pokémon.
+** They all have at least one family member with a [[regional variant]] in Alola.
+* Raichu's number in the [[National Pokédex]] and the [[List of Pokémon by Alola Pokédex number|Alola Pokédex]] are the same: 026.
+* Alolan Raichu is the only regional variant Pokémon to have a [[Z-Move]] exclusive to it.
+
+===Origin===
+Raichu's legs and long tail are like those of a {{wp|kangaroo rat}}.
+
+Alolan Raichu is likely based on the concept of {{DL|Pikachu variant|surfing Pikachu}} and the sport of {{wp|surfing}} itself, which originated in Hawaii. Its design appears to have been influenced by [[Puka]], a {{DL|Pikachu variants|surfing Pikachu}} that appeared in the anime. In the [[Pokémon Stadium series]], Raichu rides on its tail when using the move {{m|Surf}}.
+
+====Name origin====
+Raichu is a combination of 雷 ''rai'' (thunder) and チューチュー ''chūchū'' (the sound of squeaking).
+
+==In other languages==
+{{Other languages|type=Electric|type2=Electric
+|ja=ライチュウ ''Raichu''|jameaning= From {{tt|雷 ''rai''|Thunder}} and チューチュー ''chūchū'' (the sound of squeaking)
+|fr=Raichu|frmeaning=Same as Japanese name
+|es=Raichu|esmeaning=Same as Japanese name
+|de=Raichu|demeaning=Same as Japanese name
+|it=Raichu|itmeaning=Same as Japanese name
+|ko=라이츄 ''Raichu''|komeaning=Same as Japanese name
+|zh_yue=雷超 ''Lèuihchīu''|zh_yuemeaning=Transliteration of Japanese name. Also from {{tt|雷 ''lèuih''|thunder}} and {{tt|超 ''chīu''|super}}
+|zh_cmn=雷丘 ''Léiqiū''|zh_cmnmeaning=Transliteration of its Japanese name, also 雷 ''léi'' means "thunder"
+|hi=राईछू ''Raichu''|himeaning=Transcription of Japanese name
+|lt=Raičiu|ltmeaning=From English name
+|ru=Райчу ''Raychu''|rumeaning=Transcription of Japanese name
+}}
+
+<br clear="left">
+
+==Related articles==
+* [[Lt. Surge's Raichu]]
+* [[Red's Pikachu (Pocket Monsters)|Red's Raichu]]
+* [[Sandy's Raichu]]
+
+==Notes==
+<references />
+
+==External links==
+* {{wp|Raichu|Article on Wikipedia}}
+
+{{-}}
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=025|prev=Pikachu|nextnum=027|next=Sandshrew|round=yes}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Brown-colored Pokémon]]<!--Alolan Raichu-->
+[[Category:Pokémon whose base stats changed in Generation VI]]
+
+[[de:Raichu]]
+[[fr:Raichu]]
+[[it:Raichu]]
+[[ja:ライチュウ]]
+[[pl:Raichu]]
+[[zh:雷丘]]

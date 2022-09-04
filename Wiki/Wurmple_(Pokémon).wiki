@@ -1,0 +1,433 @@
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/GO|species=Wurmple}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=264|prev=Linoone|nextnum=266|next=Silcoon|round=none}}
+{{PokémonPrevNext/Disambig|species=Wurmple}}
+|}
+{{Pokémon Infobox
+|name=Wurmple
+|jname=ケムッソ
+|tmname=Kemusso
+|ndex=265
+|hdex=014
+|fbrow=154
+|sdex=048
+|type1=Bug
+|category=Worm
+|height-ftin=1'00"
+|height-m=0.3
+|weight-lbs=7.9
+|weight-kg=3.6
+|abilitylayout=2
+|ability1=Shield Dust
+|abilityd=Run Away
+|egggroupn=1
+|egggroup1=Bug
+|eggcycles=15
+|evtotal=1
+|evhp=1
+|expyield=56<!--39 in Gen V-VI-->
+|oldexp=54
+|lv100exp=1,000,000
+|gendercode=127
+|color=Red
+|catchrate=255
+|body=14
+|pokefordex=wurmple
+|generation=3
+|friendship=70
+}}
+'''Wurmple''' ([[List of Japanese Pokémon names|Japanese]]: '''ケムッソ''' ''Kemusso'') is a {{type|Bug}} {{OBP|Pokémon|species}} introduced in [[Generation III]].
+
+Wurmple will [[Evolution|evolve]] into either {{p|Silcoon}} or {{p|Cascoon}} starting at [[level]] 7 depending on its [[personality value]]. As personality values cannot be influenced or seen by the player, what a given Wurmple will evolve into is essentially random. From there, the Silcoon or Cascoon will evolve again starting at level 10 into {{p|Beautifly}} or {{p|Dustox}} respectively.
+
+==Biology==
+Wurmple is a small, caterpillar-like Pokémon. Its body is mainly red with a cream underside and face. It has large yellow eyes with dark pupils. It has one sharp yellow stinger on its head and two of them on its rear. It has a tall, erect, red spine behind its forehead and a similar, smaller spine behind that. It has small spikes running down the top portions of its body and five pairs of stubby white limbs.
+
+Wurmple has suction pads at the tips of its feet, which allow it to cling to glass or tree branches without slipping. It can spit a white silk that turns gooey when exposed to the air. It can release poison from its tail spikes, which can weaken and poison foes. Wurmple lives in {{DL|List of Pokémon by habitat|Forest Pokémon|forests}}. It eats leaves and pulls bark off trees to feed on the sap. {{p|Taillow}}, {{p|Swellow}}, and {{p|Starly}} are natural predators of Wurmple.
+
+==In the anime==
+===In the main series===
+[[File:May Wurmple.png|thumb|left|250px|Wurmple in the {{pkmn|anime}}]]
+====Major appearances====
+=====[[May's Wurmple]]=====
+{{an|May}} {{pkmn2|caught}} a Wurmple in ''[[AG014|All in a Day's Wurmple]]''. May's Wurmple evolved into {{p|Silcoon}} in ''[[AG024|A Corphish Out of Water]]'', and then into {{p|Beautifly}} in ''[[AG028|Seeing is Believing!]]''.
+
+=====[[Jessie's Wurmple]]=====
+[[Jessie]] also caught a Wurmple in ''All in a Day's Wurmple''. Jessie's Wurmple evolved into a {{p|Cascoon}} in the same episode that May's Wurmple evolved in, and later evolved into {{p|Dustox}}, which was also the same episode where May's Silcoon had evolved into a Beautifly.
+
+=====[[Aaron's Wurmple]]=====
+{{TP|Aaron|Wurmple}} was shown in ''[[DP099|A Trainer and Child Reunion!]]'' as a Pokémon that was released by {{EF|Aaron}} when he was younger. It returned years later as a {{p|Beautifly}}.
+
+====Minor appearances====
+A Wurmple appeared in ''[[AG119|The Ribbon Cup Caper]]'' at the S.S. St. Flower's [[Pokémon Center]].
+
+A Wurmple made a brief appearance in a flashback in ''[[M10|The Rise of Darkrai]]''.
+
+A Wurmple appeared in ''[[M16|Genesect and the Legend Awakened]]'' at [[Pokémon Hills]].
+
+====Pokédex entries====
+{{Animedexheader|Hoenn}}
+{{Animedexbody|AG014|Wurmple|Ash's Pokédex|Wurmple, the Worm Pokémon. Wurmple live primarily off of sap from trees. The suction cups on its feet keep it from slipping.}}
+{{Animedexfooter/Pokémon|''Advanced Generation''|Hoenn}}
+
+===In the Pokémon Omega Ruby and Alpha Sapphire Animated Trailer===
+Two Wurmple appeared in the [[Pokémon Omega Ruby and Pokémon Alpha Sapphire Animated Trailer]], where they surrounded {{ga|May}} and her {{p|Torchic}}, only for Torchic to scare them away with a {{type|Fire}} attack.
+
+===In Pokémon Generations===
+[[File:Spoink Seedot Wurmple PG.png|thumb|250px|Wurmple in [[Pokémon Generations]]]]
+A wild Wurmple appeared in ''[[PG08|The Cavern]]'', where it was running away from a storm which a [[Primal Reversion|Primal]] {{p|Kyogre}} was creating.
+{{-}}
+
+==In the manga==
+[[File:Wurmple Adventures.png|thumb|200px|Wurmple in [[Pokémon Adventures]]]]
+===In the Pokémon Adventures manga===
+Wurmple first appeared in ''[[PS182|Making Mirth with Mightyena]]''.
+
+===In the Pokémon Diamond and Pearl Adventure! manga===
+Several {{tc|Galactic Grunt}}s are seen using Wurmple. Among these grunts is [[B-2]], whose Wurmple first appeared in ''[[DPA02|Hareta's Very First Pokémon Battle!!]]''.
+
+A Wurmple appeared in ''[[DPAS5|Return to Hareta's Home Forest!]]''.
+
+===In the Pokémon Mystery Dungeon: Ginji's Rescue Team manga===
+A Wurmple appeared in ''[[GRT1|Pokémon to the Rescue!]]''.
+
+===In the W Mission Story: Pokémon Ranger - the Comic manga===
+[[Solana]] captured a Wurmple using her Capture Styler.
+
+==In the TCG==
+{{main|Wurmple (TCG)}}
+
+==Game data==
+===NPC appearances===
+* [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness]]: Wurmple is one of the members of [[Team Tasty]], alongside {{p|Swellow}}. A running joke is that Wurmple is terrified that Swellow is going to eat him, and that's why he named their team that. Only at the end of the game does Swellow realize this.
+
+===Pokédex entries===
+{{Dex/Header|type=Bug}}
+{{Dex/NA|gen=III}}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Using the spikes on its rear end, Wurmple peels the bark off trees and feeds on the sap that oozes out. This Pokémon's feet are tipped with suction pads that allow it to cling to glass without slipping.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=Wurmple is targeted by {{p|Swellow}} as prey. This Pokémon will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It sticks to tree branches and eats leaves. The thread it spits from its mouth, which becomes gooey when it touches air, slows the movement of its foes.}}
+{{Dex/Entry2|v=FireRed|v2=LeafGreen|entry=It lives amidst tall grass and in forests. When attacked, it resists by pointing its venomous spikes at the foe.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry1|v=Diamond|entry=It loves to eat leaves. If it is attacked by a {{p|Starly}}, it will defend itself with its spiked rear.}}
+{{Dex/Entry1|v=Pearl|entry=It spits a white silk that turns sticky when it contacts air. It is used to immobilize foes.}}
+{{Dex/Entry1|v=Platinum|entry=Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.}}
+{{Dex/Entry2|v=HeartGold|v2=SoulSilver|entry=It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=It loves to eat leaves. If it is attacked by a {{p|Starly}}, it will defend itself with its spiked rear.}}
+{{Dex/Entry1|v=Y|entry=It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Using the spikes on its rear end, Wurmple peels the bark off trees and feeds on the sap that oozes out. This Pokémon's feet are tipped with suction pads that allow it to cling to glass without slipping.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=Wurmple is targeted by {{p|Swellow}} as prey. This Pokémon will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area=[[Route]]s {{rtn|101|Hoenn}}, {{rtn|102|Hoenn}}, and {{rtn|104|Hoenn}}, [[Petalburg Woods]]}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Route]]s {{rtn|101|Hoenn}}, {{rtn|102|Hoenn}}, and {{rtn|104|Hoenn}}, [[Petalburg Woods]]}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1/None|v=Colosseum}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Eterna Forest]], [[Honey]] trees}}
+{{Availability/Entry1|v=Platinum|area=[[Route]]s {{rtn|204|Sinnoh}} and {{rtn|205|Sinnoh}}, [[Eterna Forest]], [[Honey]] trees}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Route]]s {{rtn|1|Kanto}}, {{rtn|2|Kanto}}, {{rtn|3|Kanto}}, {{rtn|4|Kanto}}, {{rtn|12|Kanto}}, {{rtn|13|Kanto}}, {{rtn|14|Kanto}}, {{rtn|15|Kanto}} {{rtn|18|Kanto}}, {{rtn|21|Kanto}}, and {{rtn|22|Kanto}}, [[Pallet Town]], [[Viridian City]], [[Pewter City]], [[Fuchsia City]] ([[Headbutt tree]]s)<br>[[National Park]] ([[Bug-Catching Contest]]){{dotw|Th}}{{dotw|Sa}}}}
+{{Availability/Entry1|v=Pal Park|color=71AD64|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+{{Availability/Entry1|v=Pokéwalker|color=FF3333|link=Pokéwalker|area={{pw|Hoenn Field}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1/None|v=Black}}
+{{Availability/Entry1|v=White|area=[[White Forest]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2}}
+{{Availability/Entry1|v=Dream World|color={{dream color}}|area={{dwa|Dream Park}}}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=fff|area={{pkmn|breeding|Breed}} {{p|Cascoon}}, {{p|Dustox}}, or {{p|Beautifly}}}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area=[[Route]]s {{rtn|101|Hoenn}}, {{rtn|102|Hoenn}}, and {{rtn|104|Hoenn}}, [[Petalburg Woods]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2/None|v=Sun|v2=Moon|area=[[Pokémon Bank]]}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon|area=[[Pokémon Bank]]}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Bug}}
+{{Availability/NA|gen=III}}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|color={{ruby color}}|t=fff|area=Hatch from {{pkmn|Egg}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 7]], [[Secret Storage 16]], Endless Level 12, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Joyous Tower]] (1F-2F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Olive Jungle]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Mystifying Forest]] (B1F-B13F), [[Mystery Jungle]] (B1F-B29F), [[Midnight Forest]] (B1F-B21F)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Mystifying Forest]] (B1F-B13F), [[Mystery Jungle]] (B1F-B29F), [[Midnight Forest]] (B1F-B21F)}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Forest: [[Challenger's Ground]], [[Echo Valley]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Challenge Battle#Lord of the Bugs|Challenge Battle: Lord of the Bugs]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Safari Jungle#Sunday Stage 1|Safari Jungle: Stage 1]]{{dotw|Su}}}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Prasino Woods|Prasino Woods: Stage 567]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Ruby Volcano#Giant Redwood|Ruby Volcano: Giant Redwood]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 13|Area 13: Stage 04]]}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=Bug
+|pokemon=Wurmple
+|oras1=Pecha Berry|oras1type=Berry|oras1rar=50
+|oras2=Bright Powder|oras2type=None|oras2rar=5
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=Bug
+|HP=     45
+|Attack= 45
+|Defense=35
+|SpAtk=  20
+|SpDef=  30
+|Speed=  20}}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Bug
+|Speed=1
+|SpeedMax=3
+|Power=2
+|PowerMax=3
+|Technique=4
+|TechniqueMax=5
+|Stamina=1
+|StaminaMax=4
+|Jump=2
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=Bug
+|Normal=  100
+|Fighting= 50
+|Flying=  200
+|Poison=  100
+|Ground=   50
+|Rock=    200
+|Bug=     100
+|Ghost=   100
+|Steel=   100
+|Fire=    200
+|Water=   100
+|Grass=    50
+|Electric=100
+|Psychic= 100
+|Ice=     100
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Wurmple|Bug|Bug|3}}
+{{learnlist/level7|1|Tackle|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|String Shot|Bug|Status|&mdash;|95|40}}
+{{learnlist/level7|5|Poison Sting|Poison|Physical|15|100|35||''}}
+{{learnlist/level7|15|Bug Bite|Bug|Physical|60|100|20||'''}}
+{{learnlist/levelf/7|Wurmple|Bug|Bug|3}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Wurmple|Bug|Bug|3}}
+{{learnlist/tm7null}}
+{{learnlist/tmf/7|Wurmple|Bug|Bug|3}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Wurmple|Bug|Bug|3}}
+{{learnlist/breed7null}}
+{{learnlist/breedf/7|Wurmple|Bug|Bug|3}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Wurmple|Bug|Bug|3}}
+{{learnlist/tutor7|Bug Bite|Bug|Physical|60|100|20||'''|no|yes}}
+{{learnlist/tutor7|Electroweb|Electric|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutorf/7|Wurmple|Bug|Bug|3}}
+
+===Side game data===
+{{Spindata/Head|type=Bug}}
+{{Spindata/PinballRS|col=3|type=Bug|ndex=265|acquisition=Hatch}}
+{{Spindata/Trozei|col=3|type=Bug|ndex=265|rarity=Common}}
+|-
+{{Spindata/MDRB|col=6|type=Bug|ndex=265
+|body=1
+|rate=7.4
+|area=Mist-Rise Forest
+|P1=When I'm attacked, I strike back with my poisonous spikes!
+|P2=Ouch... I lost half my HP pretty quickly...
+|P3=I might have had it... I don't know if I can even make poison...
+|PL=OK! Level up! My poisonous spikes grew meaner, too!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Bug|ndex=265
+|body=1
+|rate=6.4
+|IQ=A
+}}
+|-
+{{Spindata/Ranger|col=6|type=Bug
+|group=Bug
+|assist=Bug
+|fieldpower=0
+|field=None
+|loop=3
+|MinEXP=11
+|MaxEXP=25
+|browser=Wurmple moves slowly even when it is in a hurry. As a result, it is easy to capture.
+}}
+|-
+{{Spindata/RumbleBlast|col=3|type=Bug
+|att=1
+|def=1
+|speed=2
+}}
+{{Spindata/Battle Trozei|col=3|type=Bug|ndex=265
+|power=1
+}}
+|-
+{{Spindata/Shuffle|col=6|type=Bug|ndex=265|num=699
+|min=30
+|max=100
+|raisemaxlevel=10
+|skill=Paralysis Combo
+|skilldesc=Increases damage done by combos if the foe is paralyzed.
+|swapper=Bug Combo
+}}
+|-
+{{Spindata/GO|col=6|type=Bug|ndex=265
+|hatch=2 km
+|buddy=1
+|evocandy=12
+|stamina=90
+|attack=75
+|defense=61
+|fast={{m|Tackle}}, {{m|Bug Bite}}
+|special={{m|Struggle}}
+}}
+|}
+
+===Evolution===
+{{Evobox
+|family=Normal
+|sprite1=265Wurmple
+|name1=Wurmple
+|type1-1=Bug
+|evotype1=Level
+|level1=7
+|sprite2=266Silcoon
+|name2=Silcoon
+|type1-2=Bug
+|evotype2=Level
+|level2=10
+|sprite3=267Beautifly
+|name3=Beautifly
+|type1-3=Bug
+|type2-3=Flying
+|evotype1a=Level
+|level1a=7
+|sprite2a=268Cascoon
+|name2a=Cascoon
+|type1-2a=Bug
+|evotype2a=Level
+|level2a=10
+|sprite3a=269Dustox
+|name3a=Dustox
+|type1-3a=Bug
+|type2-3a=Poison
+}}
+
+===Sprites===
+{{Spritebox/Header|type=Bug}}
+{{Spritebox/NA|gen=III}}
+{{Spritebox/3|ndex=265}}
+{{Spritebox/4|ndex=265}}
+{{Spritebox/5|ndex=265}}
+{{Spritebox/6|ndex=265}}
+{{Spritebox/7|ndex=265}}
+{{Spritebox/Footer|265|Wurmple}}
+
+==Trivia==
+* Wurmple shares its {{pkmn|category}} with {{p|Caterpie}}. They are both known as the Worm Pokémon.
+* Wurmple is the only Pokémon whose branched evolutions evolve further. All other Pokémon with a branch in their evolutionary line either evolve once before the branch or do not have any other evolutionary event besides the one which is branched.
+* Wurmple is the only Pokémon whose evolution is directly influenced by its [[personality value]]. Pokémon whose evolution is influenced by their [[gender]] are also technically evolving based on their personality value, although unlike Wurmple, their determined evolution can be known in advance.
+* Prior to Generation VI, Wurmple's body style was [[File:Body02.png]].
+===Origin===
+Wurmple is based on a {{wp|caterpillar}}.
+
+====Name origin====
+Wurmple is a combination of ''{{wp|worm}}'' and ''rumple'' (referring to the wrinkled texture of its skin). The ending of Wurmple may also come from ''simple''.
+
+Kemusso is derived from 毛虫 ''kemushi'' (caterpillar).
+
+==In other languages==
+{{Other languages|type=Bug|type2=Bug
+|ja=ケムッソ ''Kemusso''|jameaning=From {{tt|毛虫 ''kemushi''|caterpillar}}
+|fr=Chenipotte|frmeaning=From {{tt|''chenille''|caterpillar}}, and a corruption of {{tt|''pote''|buddy}}
+|es=Wurmple|esmeaning=Same as English name
+|de=Waumpel|demeaning=From its English name
+|it=Wurmple|itmeaning=Same as English name
+|ko=개무소 ''Gaemuso''|komeaning=Transliteration of Japanese name
+|zh_cmn=刺尾蟲 / 刺尾虫 ''Cìwěichóng''|zh_cmnmeaning=Literally "Sting-tailed bug"
+|hi=रामपल ''Wurmple''|himeaning=Transcription of English name
+|ru=Вурмпл ''Vurmpl''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[May's Beautifly|May's Wurmple]]
+* [[Jessie's Dustox|Jessie's Wurmple]]
+* [[Aaron's Wurmple]]
+
+==External links==
+
+{{-}}
+{{PokémonPrevNext/Head|type=Bug}}
+{{PokémonPrevNext/Pokémon|type=Bug|prevnum=264|prev=Linoone|nextnum=266|next=Silcoon}}
+|}
+{{Project Pokédex notice}}
+
+[[Category:Body style 02 Pokémon]]<!--Prior to Gen VI-->
+
+[[de:Waumpel]]
+[[fr:Chenipotte]]
+[[it:Wurmple]]
+[[ja:ケムッソ]]
+[[pl:Wurmple]]
+[[zh:刺尾虫]]

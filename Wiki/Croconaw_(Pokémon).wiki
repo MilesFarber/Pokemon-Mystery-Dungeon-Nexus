@@ -1,0 +1,520 @@
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/GO|species=Croconaw}}
+{{PokémonPrevNext/Pokémon|type=Water|species=Croconaw|prevnum=158|prev=Totodile|nextnum=160|next=Feraligatr|round=none}}
+{{PokémonPrevNext/Disambig|species=Croconaw}}
+|}
+{{Pokémon Infobox
+|name=Croconaw
+|jname=アリゲイツ
+|jtranslit=Arigeitsu
+|tmname=Alligates
+|ndex=159
+|jdex=008
+|fbrow=074
+|obrow=091
+|opbrow=020
+|typebox=1
+|type1=Water
+|category=Big Jaw
+|height-ftin=3'07"
+|height-m=1.1
+|weight-lbs=55.1
+|weight-kg=25.0
+|abilityn=d
+|ability1=Torrent
+|abilityd=Sheer Force
+|egggroupn=2
+|egggroup1=Monster
+|egggroup2=Water 1
+|eggcycles=20
+|evtotal=2
+|evat=1
+|evde=1
+|expyield=142
+|oldexp=143
+|gendercode=31
+|lv100exp=1,059,860
+|color=Blue
+|catchrate=45
+|body=06
+|pokefordex=croconaw
+|generation=2
+|friendship=70
+}}
+'''Croconaw''' ([[List of Japanese Pokémon names|Japanese]]: '''アリゲイツ''' ''Alligates'') is a {{type|Water}} {{OBP|Pokémon|species}} introduced in [[Generation II]].
+
+It [[Evolution|evolves]] from {{p|Totodile}} starting at [[level]] 18 and evolves into {{p|Feraligatr}} starting at level 30.
+
+==Biology==
+Croconaw is a medium-sized, bipedal, crocodilian Pokémon with a blue and yellow body. Croconaw has three clusters of red spikes on its body: one with three points on its head like a crest, one with two points on its back, and a diamond-shaped spike on its tail. Black markings surround its red eyes. Its lower jaw is yellow and pronounced, and its chest has an asymmetrical, yellow pattern resembling a spotted animal skin. Although Croconaw has been described as always having forty-eight fangs lining its mouth, only six are discernible with four visible when the mouth is closed. It is capable of regrowing lost fangs. Its teeth are positioned like barbed fishing hooks and are impossible to pull out with ordinary strength. Croconaw can rarely be found {{DL|List of Pokémon by habitat|Water's-edge Pokémon|near water}}.
+
+==In the anime==
+[[File:Officer Jenny Croconaw.png|thumb|left|220px|Croconaw in the {{pkmn|anime}}]]
+===Major appearances===
+====[[Wani-Wani]]====
+{{jo|Marina}} owned a Croconaw named [[Wani-Wani]], which was used in a fair few battles as well as against [[Attila]] and [[Hun]]. As revealed in ''[[DP041|A Stand-Up Sit-Down!]]'', it became a Feraligatr.
+
+====[[Khoury's Croconaw]]====
+[[Khoury]]'s {{p|Totodile}} evolved in ''[[DP147|Bagged Then Tagged!]]'' during a [[Multi Battle|Tag Battle]] against [[Ash's Monferno]] and [[Dawn's Cyndaquil]], where it was partnered with {{an|Lyra}}'s {{p|Chikorita}}. Despite evolving into Croconaw, they were defeated.
+
+====Other====
+[[Ranger Mason]], a Forest Ranger of Mt. Silver, had a Croconaw in ''[[EP264|Mother Of All Battles]]''.
+
+A Croconaw was used by one of two [[Ryan and Bryan|twin brothers]] in ''[[DP029|The Champ Twins!]]'' in a battle against Ash and {{an|Dawn}}. The other twin used {{p|Quilava}}. The twins were able to defeat [[Ash's Turtwig]] and [[Dawn's Piplup]] due to the other team's lack of teamwork, but they were defeated in the rematch.
+
+A Croconaw appeared in ''[[BW129|The Pirates of Decolore!]]''. It was shown in a flashback that Croconaw's Trainer had abandoned the Big Jaw Pokémon complaining that he lost another Gym battle because of Croconaw. Croconaw seemed to be the leader of the pirates. After losing in a Double Battle between Ash, {{AP|Snivy}}, and {{AP|Pignite}}, Croconaw and the other pirates stopped stealing and joined Officer Jenny's coast guard after apologizing to everybody they stole from.
+
+===Minor appearances===
+In the beginning of ''[[M04|Celebi: The Voice of the Forest]]'', {{Ash}} battled against a [[Pokémon Trainer]] who had a Croconaw.
+
+A Croconaw appeared in the opening sequence of ''[[M07|Destiny Deoxys]]''.
+
+A Croconaw made a small appearance in ''[[M10|The Rise of Darkrai]]'' as one of the Pokémon {{mov|Darkrai|Darkrai|10}} hit with a {{m|Dark Void}}.
+
+A Croconaw appeared in ''[[DP088|Camping It Up!]]''.
+
+===Pokédex entries===
+{{Animedexheader|Sinnoh}}
+{{Animedexbody|DP029|Croconaw|Dawn's Pokédex|Croconaw, the Big Jaw Pokémon, and the evolved form of {{p|Totodile}}. It opens its mouth wide and attacks, and if it loses its teeth, they regrow quickly.}}
+{{Animedexbody|DP147|Croconaw|Lyra's Pokédex|Croconaw, the Big Jaw Pokémon, and the evolved form of {{p|Totodile}}. Once it bites down on something, it won't let go until it loses its fangs. But new fangs grow back quickly.}}
+{{Animedexbody|DP147|Croconaw's attacks|Khoury's Pokédex|The moves Croconaw is able to use are: {{m|Bite}}, {{m|Aqua Tail}}, {{m|Superpower}}, and {{m|Hydro Pump}}.}}
+{{Animedexfooter/Pokémon|''Diamond & Pearl''|Sinnoh}}
+
+==In the manga==
+[[File:Gold Croconaw Golden Boys.png|thumb|200px|Croconaw in [[Pokémon Gold & Silver: The Golden Boys|The Golden Boys]]]]
+===In the Pokémon Adventures manga===
+{{main|Silver's Croconaw}}
+{{adv|Silver}}'s Totodile evolves into a Croconaw in ''[[PS098|Totodile Rock]]'', which then becomes a {{p|Feraligatr}} with the other two starters whilst fighting the powerful, angry {{p|Lugia}} of the [[Whirl Islands]].
+
+In ''[[PS442|Out-Odding Oddish]]'', a Croconaw appeared in the [[Pokéathlon]].
+
+===In the Pokémon Gold & Silver: The Golden Boys manga===
+{{main|Gold's Croconaw}}
+In [[Pokémon Gold & Silver: The Golden Boys|The Golden Boys]], {{GnB|Gold}} starts with a Totodile that later evolves into a Croconaw.
+
+===In the Pocket Monsters HGSS Jō's Big Adventure manga===
+{{main|Jō's Croconaw}}
+In ''[[Pocket Monsters HGSS Jō's Big Adventure]]'', [[Jō]] owned a Totodile that evolved into Croconaw, and then into Feraligatr.
+
+==In the TCG==
+{{main|Croconaw (TCG)}}
+
+==Game data==
+===Pokédex entries===
+{{Dex/Header|type=water}}
+{{Dex/NA|gen=II}}
+{{Dex/Gen|gen=II}}
+{{Dex/Entry1|v=Gold|entry=If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.}}
+{{Dex/Entry1|v=Silver|entry=It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in.}}
+{{Dex/Entry1|v=Crystal|entry=The tips of its fangs are slanted backward. Once those fangs clamp down, the prey has no hope of escape.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.}}
+|}
+|}
+{{Dex/Gen|gen=III}}
+{{Dex/Entry2|v=Ruby|v2=Sapphire|t=FFF|t2=FFF|entry=Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=Once its jaws clamp down on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like fishhooks, they become irremovably embedded.}}
+{{Dex/Entry1|v=FireRed|entry=It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in.}}
+{{Dex/Entry1|v=LeafGreen|entry=If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.}}
+|}
+|}
+{{Dex/Gen|gen=IV}}
+{{Dex/Entry3|v=Diamond|v2=Pearl|v3=Platinum|entry=Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.}}
+{{Dex/Entry1|v=HeartGold|entry=If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.}}
+{{Dex/Entry1|v=SoulSilver|entry=It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in.}}
+|}
+|}
+{{Dex/Gen|gen=V}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.}}
+|}
+|}
+{{Dex/Gen|gen=VI}}
+{{Dex/Entry1|v=X|t=FFF|entry=If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.}}
+{{Dex/Entry1|v=Y|entry=Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place.}}
+{{Dex/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|entry=Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.}}
+|}
+|}
+{{Dex/Footer}}
+
+===Game locations===
+{{Availability/Header|type=water}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area=[[Evolution|Evolve]] {{p|Totodile}}}}
+{{Availability/Entry1|v=Crystal|area=[[Evolution|Evolve]] {{p|Totodile}}}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2/None|v=Ruby|v2=Sapphire}}
+{{Availability/Entry1|v=Emerald|t=FFF|area=[[Evolution|Evolve]] {{p|Totodile}}}}
+{{Availability/Entry2/None|v=FireRed|v2=LeafGreen}}
+{{Availability/Entry1|v=Colosseum|area=[[Phenac City]] {{color2|{{shadow color}}|Shadow Pokémon|(Shadow)}}}}
+{{Availability/Entry1|v=XD|t=FFF|link=Pokémon XD: Gale of Darkness|area=[[Evolution|Evolve]] {{p|Totodile}}}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2/None|v=Diamond|v2=Pearl}}
+{{Availability/Entry1/None|v=Platinum}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Evolution|Evolve]] {{p|Totodile}}}}
+{{Availability/Entry1|v=Pal Park|color={{locationcolor/light|water}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Pond}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2/None|v=X|v2=Y}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=fff|t2=fff|area=[[Evolution|Evolve]] {{p|Totodile}}}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area=[[Evolution|Evolve]] {{p|Totodile}}}}
+{{Availability/Entry2/None|v=Ultra Sun|v2=Ultra Moon}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Water}}
+{{Availability/NA|gen=II}}
+{{Availability/Gen|gen=II}}
+{{Availability/NA/Side|gen=II}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Huge Storage 2]], [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Northwind Field]] (27F-29F), [[Mt. Faraway]] (30F-39F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (game)|area=[[Waterworks]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Lake Afar]] (B1-B24)}}
+{{Availability/Entry1|v=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{water color}}|area=[[Evolution|Evolve]] {{p|Totodile}}}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area=[[Sophian Road]], [[Dark Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Beach: [[Rugged Flats]]}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Dream Gate#Wet and Wild Battle|Dream Gate: Wet and Wild Battle]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Pitch-Black Cavern#Stage 5|Pitch-Black Cavern: Stage 5]]}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Blau Salon|Blau Salon: Stage 437]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Fairy Land#Rippling Shoal|Fairy Land: Rippling Shoal]] <small>(All Areas, Entrance Boss)</small>}}
+|}
+|}
+{{Availability/Footer}}
+
+===Held items===
+{{HeldItems
+|type=water
+|colo1=Mystic Water|colo1type=None|colo1rar=100
+}}
+
+===Stats===
+====Base stats====
+{{BaseStats
+|type=water
+|HP=     65
+|Attack= 80
+|Defense=80
+|SpAtk=  59
+|SpDef=  63
+|Speed=  58 }}
+
+====Pokéathlon stats====
+{{Pokéthlon
+|type=Water
+|Speed=2
+|SpeedMax=3
+|Power=4
+|PowerMax=5
+|Technique=2
+|TechniqueMax=3
+|Stamina=4
+|StaminaMax=5
+|Jump=3
+|JumpMax=3
+}}
+
+===Type effectiveness===
+{{TypeEffectiveness
+|type1=water
+|Normal=  100
+|Fighting=100
+|Flying=  100
+|Poison=  100
+|Ground=  100
+|Rock=    100
+|Bug=     100
+|Ghost=   100
+|Steel=    50
+|Fire=     50
+|Water=    50
+|Grass=   200
+|Electric=200
+|Psychic= 100
+|Ice=      50
+|Dragon=  100
+|Dark=    100
+|Fairy=   100}}
+
+===Learnset===
+====By [[Level|leveling up]]====
+{{learnlist/levelh/7|Croconaw|Water|Water|2}}
+{{learnlist/level7|1|Scratch|Normal|Physical|40|100|35}}
+{{learnlist/level7|1|Leer|Normal|Status|&mdash;|100|30}}
+{{learnlist/level7|1|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|6|Water Gun|Water|Special|40|100|25||'''}}
+{{learnlist/level7|8|Rage|Normal|Physical|20|100|20}}
+{{learnlist/level7|13|Bite|Dark|Physical|60|100|25}}
+{{learnlist/level7|15|Scary Face|Normal|Status|&mdash;|100|10}}
+{{learnlist/level7|21|Ice Fang|Ice|Physical|65|95|15}}
+{{learnlist/level7|24|Flail|Normal|Physical|&mdash;|100|15}}
+{{learnlist/level7|30|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/level7|33|Chip Away|Normal|Physical|70|100|20}}
+{{learnlist/level7|39|Slash|Normal|Physical|70|100|20}}
+{{learnlist/level7|42|Screech|Normal|Status|&mdash;|85|40}}
+{{learnlist/level7|48|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/level7|51|Aqua Tail|Water|Physical|90|90|10||'''}}
+{{learnlist/level7|57|Superpower|Fighting|Physical|120|100|5}}
+{{learnlist/level7|60|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/levelf/7|Croconaw|Water|Water|2}}
+
+====By [[TM]]/[[HM]]====
+{{learnlist/tmh/7|Croconaw|Water|Water|2}}
+{{learnlist/tm7|TM01|Work Up|Normal|Status|&mdash;|&mdash;|30}}
+{{learnlist/tm7|TM02|Dragon Claw|Dragon|Physical|80|100|15}}
+{{learnlist/tm7|TM05|Roar|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM06|Toxic|Poison|Status|&mdash;|90|10}}
+{{learnlist/tm7|TM07|Hail|Ice|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM10|Hidden Power|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM13|Ice Beam|Ice|Special|90|100|10}}
+{{learnlist/tm7|TM14|Blizzard|Ice|Special|110|70|5}}
+{{learnlist/tm7|TM17|Protect|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM18|Rain Dance|Water|Status|&mdash;|&mdash;|5}}
+{{learnlist/tm7|TM21|Frustration|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM27|Return|Normal|Physical|&mdash;|100|20}}
+{{learnlist/tm7|TM31|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm7|TM32|Double Team|Normal|Status|&mdash;|&mdash;|15}}
+{{learnlist/tm7|TM39|Rock Tomb|Rock|Physical|60|95|15}}
+{{learnlist/tm7|TM40|Aerial Ace|Flying|Physical|60|&mdash;|20}}
+{{learnlist/tm7|TM42|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm7|TM44|Rest|Psychic|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM45|Attract|Normal|Status|&mdash;|100|15}}
+{{learnlist/tm7|TM48|Round|Normal|Special|60|100|15}}
+{{learnlist/tm7|TM55|Scald|Water|Special|80|100|15||'''}}
+{{learnlist/tm7|TM56|Fling|Dark|Physical|&mdash;|100|10}}
+{{learnlist/tm7|TM65|Shadow Claw|Ghost|Physical|70|100|15}}
+{{learnlist/tm7|TM75|Swords Dance|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tm7|TM80|Rock Slide|Rock|Physical|75|90|10}}
+{{learnlist/tm7|TM87|Swagger|Normal|Status|&mdash;|85|15}}
+{{learnlist/tm7|TM88|Sleep Talk|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM90|Substitute|Normal|Status|&mdash;|&mdash;|10}}
+{{learnlist/tm7|TM94|Surf|Water|Special|90|100|15||'''}}
+{{learnlist/tm7|TM98|Waterfall|Water|Physical|80|100|15||'''}}
+{{learnlist/tm7|TM100|Confide|Normal|Status|&mdash;|&mdash;|20}}
+{{learnlist/tmf/7|Croconaw|Water|Water|2}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/7|Croconaw|Water|Water|2}}
+{{learnlist/breed7|{{MSP|138|Omanyte}}{{MSP|139|Omastar}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|222|Corsola}}{{MSP|369|Relicanth}}<br>{{MSP|408|Cranidos}}{{MSP|409|Rampardos}}{{MSP|410|Shieldon}}{{MSP|411|Bastiodon}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}<br>{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}{{MSP|698|Amaura}}{{MSP|699|Aurorus}}|Ancient Power|Rock|Special|60|100|5}}
+{{learnlist/breed7|{{MSP|055|Golduck}}{{MSP|086|Seel}}{{MSP|087|Dewgong}}{{MSP|140|Kabuto}}{{MSP|141|Kabutops}}{{MSP|283|Surskit}}<br>{{MSP|395|Empoleon}}{{MSP|400|Bibarel}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}<br>{{MSP|594|Alomomola}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Aqua Jet|Water|Physical|40|100|20||'''}}
+{{learnlist/breed7|{{MSP|143|Snorlax}}{{MSP|411|Bastiodon}}|Block|Normal|Status|&mdash;|&mdash;|5}}
+{{learnlist/breed7|{{MSP|143|Snorlax}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}<br>{{MSP|248|Tyranitar}}{{MSP|295|Exploud}}{{MSP|341|Corphish}}{{MSP|342|Crawdaunt}}{{MSP|365|Walrein}}{{MSP|367|Huntail}}<br>{{MSP|387|Turtwig}}{{MSP|388|Grotle}}{{MSP|389|Torterra}}{{MSP|399|Bidoof}}{{MSP|400|Bibarel}}{{MSP|419|Floatzel}}<br>{{MSP|445|Garchomp}}{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|621|Druddigon}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}<br>{{MSP|713|Avalugg}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Crunch|Dark|Physical|80|100|15}}
+{{learnlist/breed7|{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|147|Dratini}}{{MSP|148|Dragonair}}{{MSP|149|Dragonite}}<br>{{MSP|610|Axew}}{{MSP|611|Fraxure}}{{MSP|612|Haxorus}}|Dragon Dance|Dragon|Status|&mdash;|&mdash;|20}}
+{{learnlist/breed7|{{MSP|293|Whismur}}|Fake Tears|Dark|Status|&mdash;|100|20|*}}
+{{learnlist/breed7|{{MSP|032|Nidoran♂}}{{MSP|033|Nidorino}}|Flatter|Dark|Status|&mdash;|100|15}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|060|Poliwag}}<br>{{MSP|061|Poliwhirl}}{{MSP|116|Horsea}}{{MSP|117|Seadra}}{{MSP|230|Kingdra}}{{MSP|131|Lapras}}{{MSP|138|Omanyte}}<br>{{MSP|139|Omastar}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}{{MSP|160|Feraligatr}}{{MSP|183|Marill}}{{MSP|184|Azumarill}}<br>{{MSP|223|Remoraid}}{{MSP|224|Octillery}}{{MSP|226|Mantine}}{{MSP|258|Mudkip}}{{MSP|271|Lombre}}{{MSP|279|Pelipper}}<br>{{MSP|350|Milotic}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}{{MSP|369|Relicanth}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}<br>{{MSP|395|Empoleon}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|535|Tympole}}{{MSP|536|Palpitoad}}{{MSP|537|Seismitoad}}<br>{{MSP|564|Tirtouga}}{{MSP|565|Carracosta}}{{MSP|594|Alomomola}}{{MSP|656|Froakie}}{{MSP|657|Frogadier}}{{MSP|658|Greninja}}<br>{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}{{MSP|728|Popplio}}{{MSP|729|Brionne}}{{MSP|730|Primarina}}|Hydro Pump|Water|Special|110|80|5||'''}}
+{{learnlist/breed7|{{MSP|460|Abomasnow}}|Ice Punch|Ice|Physical|75|100|15}}
+{{learnlist/breed7|{{MSP|304|Aron}}{{MSP|305|Lairon}}{{MSP|306|Aggron}}{{MSP|394|Prinplup}}{{MSP|395|Empoleon}}|Metal Claw|Steel|Physical|50|95|35}}
+{{learnlist/breed7|{{MSP|194|Wooper}}{{MSP|195|Quagsire}}{{MSP|258|Mudkip}}{{MSP|369|Relicanth}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|618|Stunfisk}}{{MSP|771|Pyukumuku}}|Mud Sport|Ground|Status|&mdash;|&mdash;|15}}
+{{learnlist/breed7|{{MSP|034|Nidoking}}{{MSP|104|Cubone}}{{MSP|105|Marowak}}{{MSP|105A|Marowak}}{{MSP|158|Totodile}}{{MSP|159|Croconaw}}<br>{{MSP|160|Feraligatr}}{{MSP|246|Larvitar}}{{MSP|247|Pupitar}}{{MSP|248|Tyranitar}}{{MSP|696|Tyrunt}}{{MSP|697|Tyrantrum}}|Thrash|Normal|Physical|120|100|10}}
+{{learnlist/breed7|{{MSP|007|Squirtle}}{{MSP|008|Wartortle}}{{MSP|009|Blastoise}}{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|079|Slowpoke}}<br>{{MSP|080|Slowbro}}{{MSP|199|Slowking}}{{MSP|131|Lapras}}{{MSP|223|Remoraid}}{{MSP|226|Mantine}}{{MSP|278|Wingull}}<br>{{MSP|279|Pelipper}}{{MSP|350|Milotic}}{{MSP|367|Huntail}}{{MSP|368|Gorebyss}}{{MSP|422|Shellos}}{{MSP|423|Gastrodon}}<br>{{MSP|580|Ducklett}}{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|656|Froakie}}{{MSP|657|Frogadier}}{{MSP|658|Greninja}}<br>{{MSP|690|Skrelp}}{{MSP|691|Dragalge}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}|Water Pulse|Water|Special|60|100|20||'''}}
+{{learnlist/breed7|{{MSP|054|Psyduck}}{{MSP|055|Golduck}}{{MSP|060|Poliwag}}{{MSP|061|Poliwhirl}}{{MSP|086|Seel}}{{MSP|183|Marill}}<br>{{MSP|184|Azumarill}}{{MSP|271|Lombre}}{{MSP|279|Pelipper}}{{MSP|283|Surskit}}{{MSP|284|Masquerain}}{{MSP|350|Milotic}}<br>{{MSP|368|Gorebyss}}{{MSP|393|Piplup}}{{MSP|394|Prinplup}}{{MSP|418|Buizel}}{{MSP|419|Floatzel}}{{MSP|580|Ducklett}}<br>{{MSP|581|Swanna}}{{MSP|594|Alomomola}}{{MSP|692|Clauncher}}{{MSP|693|Clawitzer}}{{MSP|751|Dewpider}}{{MSP|752|Araquanid}}|Water Sport|Water|Status|&mdash;|&mdash;|15}}
+{{learnlist/breedf/7|Croconaw|Water|Water|2}}
+
+====By [[Move Tutor|tutoring]]====
+{{learnlist/tutorh/7|Croconaw|Water|Water|2}}
+{{learnlist/tutor7|Aqua Tail|Water|Physical|90|90|10||'''|no|yes}}
+{{learnlist/tutor7|Block|Normal|Status|—|—|5|||no|yes}}
+{{learnlist/tutor7|Focus Punch|Fighting|Physical|150|100|20|||no|yes}}
+{{learnlist/tutor7|Ice Punch|Ice|Physical|75|100|15|||no|yes}}
+{{learnlist/tutor7|Icy Wind|Ice|Special|55|95|15|||no|yes}}
+{{learnlist/tutor7|Iron Tail|Steel|Physical|100|75|15|||no|yes}}
+{{learnlist/tutor7|Low Kick|Fighting|Physical|—|100|20|||no|yes}}
+{{learnlist/tutor7|Snore|Normal|Special|50|100|15|||no|yes}}
+{{learnlist/tutor7|Spite|Ghost|Status|—|100|10|||no|yes}}
+{{learnlist/tutor7|Superpower|Fighting|Physical|120|100|5|||no|yes}}
+{{learnlist/tutor7|Uproar|Normal|Special|90|100|10|||no|yes}}
+{{learnlist/tutor7|Water Pledge|Water|Special|80|100|10||'''|yes|yes}}
+{{learnlist/tutor7|Water Pulse|Water|Special|60|100|20||'''|no|yes}}
+{{learnlist/tutorf/7|Croconaw|Water|Water|2}}
+
+====By a prior [[evolution]]====
+{{Learnlist/prevoh/7|Croconaw|Water|Water|2}}
+{{Learnlist/prevo7null}}
+{{Learnlist/prevof/7|Croconaw|Water|Water|2}}
+
+===={{Trading Card Game}}-only moves====
+{| class="roundy" style="margin:auto; background: #{{tcg water color light}}; border: 3px solid #{{tcg water color}}"
+! Move
+! Card
+|- style="background:#fff"
+| {{m|Tackle}}
+| [[Croconaw (Neo Genesis 32)]]<br>[[Croconaw (Expedition 74)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Take Down}}
+| style="background:#fff; {{roundybr|5px}}" | [[Croconaw (Expedition 74)]]
+|}
+
+===Side game data===
+{{Spindata/Head|type=Water}}
+{{Spindata/Trozei|col=6|type=Water|ndex=159|rarity=Rare}}
+|-
+{{Spindata/MDRB|col=6|type=Water|ndex=159
+|body=1
+|rate=-19
+|area=Rub-a-Dub River
+|P1=It doesn't matter if I lose my fangs--they grow back in!
+|P2=My health is getting down to around half.
+|P3=I'm exhausted... I can't open my jaws...
+|PL=Leveled up! I can feel more fangs growing in!
+}}
+|-
+{{Spindata/MDTDS|col=6|type=Water|ndex=159
+|body=1
+|rate=-10
+|IQ=E
+}}
+|-
+{{Spindata/Ranger|col=6|type=Water
+|group=Water
+|assist=Water
+|fieldpower=2
+|field=Soak
+|loop=5
+|MinEXP=30
+|MaxEXP=55
+|browser=Croconaw attacks with globs of water. Beware of puddles on the ground, too!
+}}
+|-
+{{Spindata/Ranger GS|col=6|type=Water
+|group=Water
+|assist=Water
+|field=Crush
+|fieldpower=3
+|browser=It shoots orbs of water to attack.
+}}
+|-
+{{Spindata/RumbleBlast|col=6|type=Water
+|att=2
+|def=3
+|speed=3
+}}
+|-
+{{Spindata/Battle Trozei|col=3|type=Water|ndex=159
+|power=2
+}}
+{{Spindata/Shuffle|col=6|type=Water|ndex=159|num=586
+|min=60
+|max=105
+|raisemaxlevel=5
+|skill=Cross Attack
+|skilldesc=Increases damage when making a + shaped match.
+}}
+|-
+{{Spindata/GO|col=6|type=Water|ndex=159
+|hatch=N/A
+|buddy=3
+|evocandy=100
+|stamina=130
+|attack=150
+|defense=151
+|fast={{m|Water Gun}}, {{m|Scratch}}
+|special={{m|Crunch}}, {{m|Ice Punch}}, {{m|Water Pulse}}
+}}
+|}
+
+===Evolution===
+{{Evobox-3
+|type1=Water
+|no1=158
+|name1=Totodile
+|type1-1=Water
+|evo1={{bag|Rare Candy}}<br>{{color2|000|Level|Level 18}}
+|no2=159
+|name2=Croconaw
+|type1-2=Water
+|evo2={{bag|Rare Candy}}<br>{{color2|000|Level|Level 30}}
+|no3=160
+|name3=Feraligatr
+|type1-3=Water
+}}
+
+===Sprites===
+{{Spritebox/Header|type=water}}
+{{Spritebox/NA|gen=II}}
+{{Spritebox/2|ndex=159}}
+{{Spritebox/3|ndex=159}}
+{{Spritebox/4|ndex=159}}
+{{Spritebox/5|ndex=159}}
+{{Spritebox/6|ndex=159}}
+{{Spritebox/7|ndex=159}}
+{{Spritebox/Footer|159|Croconaw}}
+
+==Trivia==
+===Origin===
+Croconaw is based on a {{wp|crocodilian}}. Also, the head spikes and the pattern on the chest seem to be based on the wild hair and animal-skin cloth worn by {{wp|caveman|cavemen}}.
+
+====Name origin====
+Croconaw is a combination of ''{{wp|crocodile}}'' and ''gnaw'', though it may also involve ''maw'' or ''jaw''.
+
+Alligates is derived from ''{{wp|alligator}}''.
+
+==In other languages==
+{{Other languages|type=water|type2=water
+|ja=アリゲイツ ''Alligates''|jameaning=From ''{{wp|alligator}}''
+|fr=Crocrodil|frmeaning=From ''crocodile'' and ''{{tt|croc|fang}}''
+|es=Croconaw|esmeaning=Same as English name
+|de=Tyracroc|demeaning=From ''{{tt|Tyrann|tyrant}}'' and ''{{tt|Krokodil|crocodile}}''
+|it=Croconaw|itmeaning=Same as English name
+|ko=엘리게이 ''Elligei''|komeaning=From ''alligator''
+|zh_yue=藍鱷 ''Làahm'ngohk''|zh_yuemeaning=Means "Blue {{wp|crocodilian}}"
+|zh_cmn=藍鱷 / 蓝鳄 ''Lán'è ''|zh_cmnmeaning=Means "Blue {{wp|crocodilian}}"
+|hi=क्रोकोनव ''Croconaw''|himeaning=Transcription of English name
+|ru=Кроконав ''Krokonav''|rumeaning=Transcription of English name
+}}
+<br clear="left">
+
+==Related articles==
+* [[Silver's Croconaw]]
+* [[Khoury's Croconaw]]
+* [[Wani-Wani]]
+* [[Gold's Croconaw]]
+* [[Jō's Croconaw]]
+
+==Notes==
+<references/>
+
+==External links==
+* {{wp|Totodile, Croconaw, and Feraligtr|Article on Wikipedia}}
+
+{{PokémonPrevNext/Head|type=Water}}
+{{PokémonPrevNext/Pokémon|type=Water|species=Croconaw|prevnum=158|prev=Totodile|nextnum=160|next=Feraligatr|round=yes}}
+|}
+{{-}}
+{{Project Pokédex notice}}
+
+[[Category:Shadow Pokémon in Pokémon Colosseum]]
+
+[[de:Tyracroc]]
+[[fr:Crocrodil]]
+[[it:Croconaw]]
+[[ja:アリゲイツ]]
+[[pl:Croconaw]]
+[[zh:蓝鳄]]
