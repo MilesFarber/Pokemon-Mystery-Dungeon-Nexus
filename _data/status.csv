@@ -1,23 +1,133 @@
-id,identifier
--1,unknown
-0,none
-1,paralysis
-2,sleep
-3,freeze
-4,burn
-5,poison
-6,confusion
-7,infatuation
-8,trap
-9,nightmare
-12,torment
-13,disable
-14,yawn
-15,heal-block
-17,no-type-immunity
-18,leech-seed
-19,embargo
-20,perish-song
-21,ingrain
-24,silence
-42,tar-shot
+Object.Name.DefaultText,Object.Desc.DefaultText,Object.Emoticon
+Bind,"The Pokémon is rendered incapable of any action, and takes gradual damage from the foe. This status wears off after a few turns.",
+Blinker,"The Pokémon has its Attack Range limited, allowing it to hit only targets in front. This status wears off after many turns have passed.",Blind_Blue
+Bouncing,The Pokémon is in mid-air from a bounce and can avoid most moves. It will unleash the move on its next turn.,
+Burned,"The Pokémon will take some damage every turn, and its Attack will be lowered. This status wears off after a few turns.",Burn
+Charge,"The Pokémon is charging electrical energy, boosting the power of an Electric-type attack. This status wears off after a few turns.",
+Charging Focus Punch,The Pokémon is charging Focus Punch. It will unleash the move on its next attack.,
+Charging Razor Wind,The Pokémon is charging Razor Wind. It will unleash the move on its next turn.,
+Charging Skull Bash,The Pokémon is charging Skull Bash. It will unleash the move on its next turn.,
+Charging Sky Attack,The Pokémon is charging Sky Attack. It will unleash the move on its next turn.,
+Charging Solar Beam,The Pokémon is charging Solar Beam. It will unleash the move on its next turn.,
+Chasing,"Every time the target makes a move, this Pokémon will automatically warp to it. This status wears off after a few turns.",Exclaim_DarkBlue
+Clamp,"The Pokémon is rendered incapable of any action, and takes gradual damage from the foe. This status wears off after a few turns.",
+Confused,"The Pokémon is confused, causing its movements and attacks to vary wildly. Attacks that target foes can also target friends, and vice versa.",Confuse
+Conversion,The Pokémon will change its type to match its moves. This status wears off after a few turns.,Cycle_Green
+Conversion 2,The Pokémon will change its type to resist incoming moves. This status wears off after a few turns.,Cycle_White
+Counter,The Pokémon will return damage from physical attacks back at the user with double the power. This status wears off after a few turns.,Sword_Brown
+Crits Landed,,
+Cursed,The Pokémon is cursed and will take damage each time it attacks a foe. This status wears off after a few turns.,Skull_Red
+Decoy,"The Pokémon is made into a Decoy, making it a target of everyone's attacks. This status wears off after many turns have passed.",
+Defense Curl,,
+Destiny Bond,"Any damage done to this Pokémon from direct attacks is also done to the target of the Destiny Bond. This status wears off after a few turns, or if the Pokémon moves.",Skull_DarkBlue
+Detect,"The Pokémon is protected from all moves. This status wears off after a few turns, or if the Pokémon attacks.",Shield_Brown
+Digging,"The Pokémon is digging underground and can avoid most moves and obstacles. It will resurface in a few turns, or when it chooses to attack.",
+Disable,The Pokémon has one of its moves disabled and cannot use it.,
+Diving,"The Pokémon is hiding underwater and can avoid most moves. It will resurface in a few turns, or when it chooses to attack.",
+Doom Desire,The Pokémon will be attacked at a few turns in the future. Nearby allies will also take splash damage when the attack hits.,
+Electrified,The Pokémon has all of its moves converted to the Electric-type. This status wears off after a few turns.,Cycle_Yellow
+Embargo,"The Pokémon is rendered incapable of using any items, and its held item item loses its effect. This status wears off after many turns have passed.",X_Brown
+Encore,"The Pokémon is given an encore, forcing it to repeat the last move it used. This status wears off after a few turns.",Exclaim_Pink
+Endure,"The Pokémon is bracing itself, preventing it from fainting from a direct attack. This status wears off after a few turns, or if the Pokémon moves.",Exclaim_Red
+Enraged,The Pokémon will gain a boost to its Attack each time it takes damage from an attack. This status wears off after a few turns.,Fist_Yellow
+Exposed,"All attacks made on the Pokémon will ignore its resistances, immunities, and evasion changes.",Exposed_Yellow
+Fire Pledge,The Pokémon is ready to unleash a follow-up attack whenever a foe is attacked. This status wears off after a few turns.,Sword_Brown
+Fire Spin,"The Pokémon is trapped in a vortex of fire, taking gradual damage and preventing it from moving. This status wears off after a few turns.",
+Cringing,The Pokémon is cringing and cannot attack or use items. This status wears off on the next turn.,
+Flying,"The Pokémon is flying and can avoid most moves and obstacles. It will drop back down in a few turns, or when it chooses to attack.",
+Focus Energy,The Pokémon is focused and can land critical hits more easily. This status wears off after many turns have passed.,Sword_Pink
+Follow Me,The Pokémon is the center of attention and will redirect any attack targetting its allies. This status wears off after a few turns.,Exclaim_Pink
+Frozen,"The Pokémon is frozen and incapable of acting or being affected by moves. This status wears off after a few turns, or if the Pokémon is hit by a Fire-type attack.",
+Friendly Fire,,
+Future Sight,The Pokémon will be attacked a few turns in the future. Nearby allies will also take splash damage when the attack hits.,
+Grass Pledge,The Pokémon is ready to unleash a follow-up attack whenever a foe is attacked. This status wears off after a few turns.,Sword_Brown
+Grudge,Enemies that damage this Pokémon with attacks will have all their moves lose PP. This status wears off after many turns have passed.,Shield_Purple
+Heal Block,The Pokémon is prevented from restoring its HP. This status wears off after many turns have passed.,X_Gray
+Illusion,The Pokémon has disguised itself as a different Pokémon. Wild Pokémon of the same species will not attack it.,
+Immobilized,The Pokémon is immobilized and cannot move. This status wears off after a few turns.,
+In Love,The Pokémon is infatuated with the enemy and cannot target it with any moves or items. This status wears off after a few turns.,Exclaim_Pink
+Infestation,"The Pokémon is trapped by an infestation, taking gradual damage and preventing it from moving. This status wears off after a few turns.",
+Ingrain,"The Pokémon's roots are planted in the ground, gradually restoring its HP and preventing it from moving. This status wears off after a few turns.",
+Invisible,The Pokémon is invisible and cannot be seen by other Pokémon. This status wears off after a few turns.,
+Last Ally Move,,
+Last Move Hit By Other,,
+Last Targeted By,,
+Last Used Move,,
+Last Used Move Slot,,
+Leech Seed,The Pokémon's HP is sapped and given to a foe every turn. This status wears off if there are no foes around.,
+Light Screen,The Pokémon takes half damage from special attacks. This status wears off after a few turns.,Shield_Yellow
+Lucky Chant,The Pokémon is protected from critical hits and the additional effects of attacking moves. This status wears off after many turns have passed.,Cycle_White
+Magic Coat,The Pokémon will reflect any moves that inflict status back at the user. This status wears off after a few turns.,Shield_Green
+Magma Storm,"The Pokémon is trapped by a vortex of magma, taking gradual damage and preventing it from moving. This status wears off after a few turns.",
+Magnet Rise,"The Pokémon is levitating with electromagnetism, allowing it to avoid Ground-type attacks. This status wears off after many turns have passed.",Cycle_Yellow
+Mental-Charged,The Pokémon is protected against move-binding effects. This status wears off after many turns have passed.,Cycle_Red
+Metal Burst,"All damage done to this Pokémon will be reflected on all nearby foes. This status wears off after a few turns, or if the Pokémon moves.",Shield_DarkBlue
+Mini-Counter,The Pokémon will return damage from all attacks back at the user. This status wears off after many turns have passed.,Shield_Pink
+Minimized,,
+Miracle Eye,"All attacks made by the Pokémon will ignore the target's resistances, immunities, and evasion changes.",Sight_Red
+Mirror Coat,The Pokémon will return damage from special attacks back at the user with double the power. This status wears off after a few turns.,Shield_Pink
+Missed All Last Turn,,
+Mist,"The Pokémon is surrounded in mist, preventing others from dropping its stats. This status wears off after many turns have passed.",Shield_White
+Accuracy,"The Pokémon's Accuracy has been modified, allowing its attacks to hit more or less often.",Arrow_Up_Pink
+Attack,"The Pokémon's Attack has been modified, doing more or less damage with Physical attacks.",Arrow_Up_Red
+Defense,"The Pokémon's Defense has been modified, causing it to take more or less damage from Physical attacks.",Arrow_Up_Green
+Evasion,"The Pokémon's Evasion has been modified, allowing it to dodge attacks more or less often.",Arrow_Up_Yellow
+Range,,
+Special Attack,"The Pokémon's Special Attack has been modified, doing more or less damage with Special attacks.",Arrow_Up_Purple
+Special Defense,"The Pokémon's Special Defense has been modified, causing it to take more or less damage from Special attacks.",Arrow_Up_White
+Movement Speed,The Pokémon's Movement Speed has been modified to move faster or slower than usual.,
+Nightmare,The Pokémon takes gradual damage every turn when it is sleeping. This status wears off after many turns have passed.,Skull_Pink
+None,,
+Outrage,"The Pokémon will use Outrage repeatedly until the status wears off. This status wears off after a few turns, leaving the Pokémon confused from fatigue.",
+Paralyzed,The Pokémon is paralyzed and cannot attack in consecutive turns. This status wears off after a few turns.,
+Paused,The Pokémon is rendered incapable of taking any action. This status wears off after a few turns.,
+Perish Song,"The Pokémon has heard Perish Song, and will faint when its countdown reaches zero.",
+Petal Dance,"The Pokémon will use Petal Dance repeatedly until the status wears off. This status wears off after a few turns, leaving the Pokémon confused from fatigue.",
+Phantom Force,"The Pokémon vanished completely and can avoid moves and obstacles. It will reappear in a few turns, or when it chooses to attack.",
+Pierce,The Pokémon's attacks and items can hit through multiple targets and walls.,Sword_LightBlue
+Poisoned,The Pokémon gradually takes damage every time it attacks. Its natural HP recovery is also stopped.,Skull_White
+Badly Poisoned,The Pokémon takes gradually worsening damage every time it attacks. Its natural HP recovery is also stopped.,Skull_Purple
+Powder,The Pokémon is covered in a powder that causes an explosion when exposed to fire or electricity.,Exclaim_White
+Power-Charged,"The Pokémon is able to use moves without charging or recharging, and its PP is prevented from dropping. This status wears off after many turns have passed.",
+Protect,"The Pokémon is protected from all moves. This status wears off after a few turns, or if the Pokémon attacks.",Shield_Green
+Quick Guard,The Pokémon is protected from moves that have a long range. This status wears off after a few turns.,Shield_Red
+Rage Powder,The Pokémon is enraged by the enemy and cannot target anyone else with any moves or items. This status wears off after a few turns.,Fist_Red
+Recruit Boost,The Pokémon's chances of recruiting other members is temporarily increased.,
+Reflect,The Pokémon takes half damage from physical attacks. This status wears off after a few turns.,Shield_Blue
+Regeneration,The Pokémon gradually regains HP each turn. This status wears off after a few turns.,Cycle_Green
+Retaliate,"The Pokémon is ready to retaliate, unleashing the move whenever a nearby foe attacks an ally. This status wears off after a few turns.",Sword_Brown
+Roosting,"The Pokémon is roosting, eliminating its Flying-type matchups. This status wears off when the Pokémon moves.",
+Safeguard,The Pokémon is protected from bad status effects with a veil. This status wears off after many turns have passed.,Shield_Tan
+Sand Tomb,"The Pokémon is trapped in quicksand, taking gradual damage and preventing it from moving. This status wears off after a few turns.",
+Shadow Force,"The Pokémon vanished completely and can avoid moves and obstacles. Its Movement Speed is also boosted. It will reappear in a few turns, or when it chooses to attack.",
+Shopkeeper,,
+Asleep,"The Pokémon is asleep and incapable of any action until it wakes up. This status wears off after a few turns, or if the Pokémon is attacked.",Sleep
+Sleepless,The Pokémon is prevented from becoming drowsy or sleeping. This status wears off after many turns have passed.,Exposed_Red
+Slip,The Pokémon is given the ability to traverse water.,
+Snatch,The Pokémon is ready to snatch any stat-boosting move that foes use on themselves. This status wears off after a few turns.,Question_DarkBlue
+Stat-Charged,"The Pokémon is protected from all stat changes, including its own.",Cycle_White
+Status Protection,The Pokémon is protected from a certain status effect. This status wears off after many turns have passed.,Shield_Brown
+Stockpile,"The Pokémon has stockpiled energy, to use in the moves Swallow or Spit Up. It also increases its Defense and Special Defense. This status wears off after many turns have passed.",
+Super Mobile,The Pokémon is given the ability to traverse walls.,
+Sure Shot,The Pokémon's attacks cannot miss. This status wears off after many turns have passed.,Sword_LightBlue
+Taunted,The Pokémon is taunted into only using attacking moves. This status wears off after many turns have passed.,Fist_DarkBlue
+Telekinesis,"The Pokémon is floating from telekinesis, preventing it from moving or avoiding attacks. This status wears off after a few turns.",
+Thrash,"The Pokémon will use Thrash repeatedly until the status wears off. This status wears off after a few turns, leaving the Pokémon confused from fatigue.",
+Times Move Used,,
+Torment,The Pokémon is prevented from using the same move twice in a row. This status wears off after many turns have passed.,Exclaim_DarkBlue
+Type-Boosted,The Pokémon has moves of a certain type boosted. This status wears off after many turns have passed.,Arrow_Up_Red
+Type-Converted,The Pokémon has all of its moves converted to a single type.,Sword_Yellow
+Type-Protected,The Pokémon is protected from moves of a certain type. This status wears off after many turns have passed.,Shield_Green
+Veiled,,
+Was Hurt Last Turn,,
+Water Pledge,The Pokémon is ready to unleash a follow-up attack whenever a foe is attacked. This status wears off after a few turns.,Sword_Brown
+Weakness Drain,The Pokémon will have its HP restored if hit by a super-effective move. This status wears off after many turns have passed.,Cycle_DarkBlue
+Whirlpool,"The Pokémon is trapped in a whirlpool, taking gradual damage and preventing it from moving. This status wears off after a few turns.",
+Wide Guard,The Pokémon is protected from moves that hit in a wide range. This status wears off after a few turns.,Shield_White
+Wish,The Pokémon will have its HP restored a few turns in the future. The amount of HP restored depends on the Maximum HP of the user.,Exclaim_Yellow
+Wrap,"The Pokémon is rendered incapable of any action, and takes gradual damage from the foe. This status wears off after a few turns.",
+Yawning,The Pokémon is yawning and will fall asleep in a few turns.,Yawn
+Aqua Ring,The Pokémon is surrounded by a veil of water that gradually restores its HP. This status wears off after a few turns.,Cycle_Blue
+Area Counter,All damage done to this Pokémon of a certain category of moves will be reflected on all foes within 3 tiles. This status wears off after many turns have passed.,Shield_DarkBlue
+Belch,"The Pokémon is ready to belch, unleashing the attack whenever it eats a food item. This status wears off after a few turns.",Exclaim_Purple
+Biding,"The Pokémon is storing energy for an attack. In a few turns, it will unleash the energy, doing double the amount of damage it took while biding.",
