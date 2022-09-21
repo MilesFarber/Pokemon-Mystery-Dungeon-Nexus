@@ -748,3 +748,5 @@ ID,Generation,Name,Alt Name,Old Description,New Description,Target,type_id,Hit R
 747,3,Shadow Sky,,,,The entire field.  Affects all Pokémon.,Shadow,,,,,0,None,,,10006,
 748,3,Wide Slash,,,,Wide Slash,Unknown,,,,,,,,,,
 749,3,Vacuum Cut,,,,The entire field.  Affects all Pokémon.,Unknown,,,,,,,,,,
+750,3,Excavate,,,,,,,,,,,,,,,
+751,3,Spin Slash,,,,,,,,,,,,,,,
