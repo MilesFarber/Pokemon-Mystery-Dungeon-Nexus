@@ -135,12 +135,12 @@ Eevee|Eevee Tail|Raises Defense by 3|⭐|Eevee Card|Raises Sp. Defense by 3|⭐|
 Vaporeon|Aqua Collar|May afflict attacking enemies with a Cringe status condition.|⭐⭐⭐|||||||||||||
 Jolteon|Volt Collar|May afflict attacking enemies with a Paralysis status condition.|⭐⭐⭐|||||||||||||
 Flareon|Fire Collar|May afflict attacking enemies with a Burn status condition.|⭐⭐⭐|||||||||||||
-Porygon|AI Brooch|When hit, it changes type to one that resists the attacking move.|⭐⭐|||||||||||||
+Porygon|AI Brooch|When hit; it changes type to one that resists the attacking move.|⭐⭐|||||||||||||
 Omanyte|Spike Brooch|Reflect and Light Screen do not affect this Pokémon's moves.|⭐⭐|||||||||||||
 Omastar|Aged Scarf|Recovers HP when hit by a Grass move.|⭐⭐|||||||||||||
 Kabuto|Kabuto Hat|Pokémon cannot be inflicted with the Confusion status condition.|⭐⭐|||||||||||||
 Kabutops|Kabu-Torc|Recovers HP when hit by a Grass move.|⭐⭐|||||||||||||
-Aerodactyl|Old Brooch|Increases amount of PP foes use, in addition to Aerodactyl's Pressure Ability.|⭐⭐|||||||||||||
+Aerodactyl|Old Brooch|Increases amount of PP foes use; in addition to Aerodactyl's Pressure Ability.|⭐⭐|||||||||||||
 Snorlax|Snorlax Gasp|Raises Sp. Attack by 5|⭐|Snorlax Fang|Raises Attack by 5|⭐|Valor Charm|Raises Attack and Sp. Attack by 5|⭐⭐|Glee Scarf|Recovers HP when hit by a Fighting move.|⭐⭐⭐||||
 Articuno|Freeze Veil|May leave Articuno with 1 HP after being hit by a fatal blow.|⭐⭐⭐|||||||||||||
 Zapdos|Thunder Veil|May leave Zapdos with 1 HP after being hit by a fatal blow.|⭐⭐⭐|||||||||||||
@@ -148,7 +148,7 @@ Moltres|Fire Veil|May leave Moltres with 1 HP after being hit by a fatal blow.|�
 Dratini|Dragon Sash|Boosts Evasion by 2 during the Fog weather condition.|⭐⭐|||||||||||||
 Dragonair|Aloft Mantle|Adds 2 to base PP of all moves.|⭐⭐|||||||||||||
 Dragonite|Mirage Cape|Recovers HP when hit by an Ice move.|⭐⭐|||||||||||||
-Mewtwo|Havoc Robe|Increases amount of PP foes use, in addition to Mewtwo's Pressure Ability.|⭐⭐⭐|||||||||||||
+Mewtwo|Havoc Robe|Increases amount of PP foes use; in addition to Mewtwo's Pressure Ability.|⭐⭐⭐|||||||||||||
 Mew|Life Ring|Protects Mew from status conditions.|⭐⭐⭐|Music Box|Makes recruiting Pokemon 50% easier|⭐⭐⭐||||||||||
 Chikorita|Chiko-Claw|Raises Attack by 5|⭐|Chiko-Card|Raises Sp. Defense by 3|⭐|Dawn Jewel|Raises Attack by 5 and Sp. Defense by 3|⭐⭐|Fresh Bow|Increases maximum HP by 10.|⭐⭐⭐||||
 Bayleef|Bayleef Claw|Raises Attack by 5|⭐|Bayleef Card|Raises Sp. Defense by 3|⭐|Bayleef Seal|Raises Attack by 5 and Sp. Defense by 3|⭐⭐|Spice Bow|Increases the amount of HP recovered through HP-draining moves.|⭐⭐⭐||||
@@ -247,7 +247,7 @@ Suicune|Aqua Mantle|Special moves are weakened to half their strength on Suicune
 Larvitar|Larvitar Bow|May afflict attacking enemies with a Cringe status condition.|⭐⭐|||||||||||||
 Pupitar|Pupita-Scarf|Halves damage taken from Selfdestruct or Explosion|⭐⭐|||||||||||||
 Tyranitar|Crash Claw|Recovers HP when hit by a Fighting move.|⭐⭐|||||||||||||
-Lugia|Silver Veil|Increases amount of PP foes use, in addition to Lugia's Pressure Ability.|⭐⭐⭐|Tidal Bell|Increases maximum HP by 10.|⭐⭐⭐||||||||||
+Lugia|Silver Veil|Increases amount of PP foes use; in addition to Lugia's Pressure Ability.|⭐⭐⭐|Tidal Bell|Increases maximum HP by 10.|⭐⭐⭐||||||||||
 Ho-Oh|Rainbow Veil|Status conditions are reflected from Ho-Oh back to the user.|⭐⭐⭐|Clear Bell|Increases maximum HP by 10.|⭐⭐⭐||||||||||
 Celebi|Chrono Veil|Restores 1 PP to all of Celebi's moves when it reaches another floor.|⭐⭐⭐|||||||||||||
 Treecko|Treeck-Thorn|Raises Attack by 5|⭐|Treeck-Card|Raises Sp. Defense by 3|⭐|Forest Ore|Raises Attack by 5 and Sp. Defense by 3|⭐⭐|Guard Ring|Increases maximum HP by 10.|⭐⭐⭐||||
@@ -355,7 +355,7 @@ Shuppet|Shuppet Cape|Boosts Evasion by 2 during the Cloudy weather condition.|�
 Banette|Ominous Torc|Recovers HP when hit by a Ghost move.|⭐⭐|||||||||||||
 Duskull|Duskull Ruff|Protects from the Sleep status condition.|⭐⭐|||||||||||||
 Dusclops|Illusion Bow|May afflict attacking enemies with a Sleep status condition.|⭐⭐|||||||||||||
-Tropius|Tropius Bow|May afflict attacking enemies with a Poison, Paralysis, or Sleep status condition.|⭐⭐|||||||||||||
+Tropius|Tropius Bow|May afflict attacking enemies with a Poison; Paralysis; or Sleep status condition.|⭐⭐|||||||||||||
 Chimecho|Chime-Scarf|Recovers HP when hit by a Dark move.|⭐⭐|||||||||||||
 Absol|Perish Torc|May afflict attacking enemies with a Perish Song status condition.|⭐⭐|||||||||||||
 Wynaut|Wynaut Tail|Raises Defense by 3|⭐|Wynaut Card|Raises Sp. Defense by 3|⭐|Grin Charm|Raises Defense and Sp. Defense by 3 each|⭐⭐|Cheery Scarf|Increases maximum HP by 10.|⭐⭐⭐|Laugh Dust|Raises the chance of enemies dropping boxes.|⭐⭐⭐|
@@ -384,7 +384,7 @@ Kyogre|Seabed Veil|Kyogre can attack twice in one turn during the Rain weather c
 Groudon|Terra Ring|Groudon can attack twice in one turn during the Sunny weather condition.|⭐⭐⭐|Red Orb|Activates Primal Reversion|⭐⭐⭐||||||||||
 Rayquaza|SkyHigh Veil|Rayquaza can attack twice in one turn during the Clear weather condition.|⭐⭐⭐|Meteor Shard|Activates Megaevolution when using Dragon Ascent|⭐⭐⭐|Jade Orb|Nullifies Primal Reversion to any Pokemon in the Dungeon|⭐⭐⭐|||||||
 Jirachi|Wish Mantle|Completely restores Jirachi's HP when entering a new floor.|⭐⭐⭐|Wish Stone|Spawns a Treasure item at the final floor of any Dungeon|⭐⭐⭐||||||||||
-Deoxys|Revive Robe|Increases amount of PP foes use, in addition to Deoxys' Pressure Ability.|⭐⭐⭐|Meteorite|Counters 1/4 of the damage a foe does back at the foe.|⭐⭐⭐||||||||||
+Deoxys|Revive Robe|Increases amount of PP foes use; in addition to Deoxys' Pressure Ability.|⭐⭐⭐|Meteorite|Counters 1/4 of the damage a foe does back at the foe.|⭐⭐⭐||||||||||
 Turtwig|Lucky Leaf|Raises Defense by 3|⭐|Turtwig Card|Raises Sp. Defense by 3|⭐|Sprout Rock|Raises Defense and Sp. Defense by 3 each|⭐⭐|Leafy Hat|Increases maximum HP by 10.|⭐⭐⭐||||
 Grotle|Grotle Twig|Raises Defense by 3|⭐|Grotle Claw|Raises Attack by 5|⭐|Grotle Crest|Raises Attack by 5 and Defense by 3|⭐⭐|Woody Scarf|Increases the amount of HP recovered through HP-draining moves.|⭐⭐⭐||||
 Torterra|Tort-Claw|Raises Sp. Attack by 5|⭐|Tort-Horn|Raises Attack by 5|⭐|Tort-Seal|Raises Attack and Sp. Attack by 5 each|⭐⭐|Forest Torc|Recovers HP when hit by a Grass move.|⭐⭐⭐||||
@@ -411,7 +411,7 @@ Rampardos|Skull Helmet|Recovers HP when hit by a Steel move.|⭐⭐|||||||||||||
 Shieldon|Rebound Bow|Makes thrown or hurled items bounce off the Pokémon.|⭐⭐|||||||||||||
 Bastiodon|Block Brooch|Recovers HP when hit by a Fighting move.|⭐⭐|||||||||||||
 Burmy|Straw Cape|Increases maximum HP by 10.|⭐⭐|||||||||||||
-Wormadam|Worma-Bow|May afflict attacking enemies with a Poisoned, a Paralysis, or a Sleep status condition. |⭐⭐|||||||||||||
+Wormadam|Worma-Bow|May afflict attacking enemies with a Poisoned; a Paralysis; or a Sleep status condition. |⭐⭐|||||||||||||
 Mothim|Mothim Bow|Recovers HP when hit by a Rock move.|⭐⭐|||||||||||||
 Combee|Nectar Bow|Foes are more likely to drop boxes.|⭐⭐|||||||||||||
 Vespiquen|Vespi-Torc|Recovers HP when hit by a Rock move.|⭐⭐|||||||||⭐⭐⭐||||
@@ -468,7 +468,7 @@ Electivire|Electi-Claw|Raises Attack by 5|⭐|Electi-Card|Raises Sp. Defense by 
 Magmortar|Magmor-Claw|Raises Attack by 5|⭐|Magmor-Card|Raises Sp. Defense by 3|⭐|Vulcan Rock|Raises Attack by 5 and Sp. Defense by 3|⭐⭐|Burning Torc|Recovers HP when hit by a Water move.|⭐⭐⭐||||
 Togekiss|Togek-Wing|Raises Attack by 5|⭐|Togek-Card|Raises Sp. Defense by 3|⭐|Ovation Rock|Raises Attack by 5 and Sp. Defense by 3|⭐⭐|Glitter Robe|Recovers HP when hit by an Electric move.|⭐⭐⭐||||
 Yanmega|Yanmega Bow|Recovers HP when hit by a Rock move.|⭐⭐|||||||||||||
-Leafeon|Virid Collar|May afflict attacking enemies with a Poisoned, a Paralysis, or a Sleep status condition.|⭐⭐⭐|||||||||||||
+Leafeon|Virid Collar|May afflict attacking enemies with a Poisoned; a Paralysis; or a Sleep status condition.|⭐⭐⭐|||||||||||||
 Glaceon|Icy Collar|May afflict attacking enemies with a Frozen status condition.|⭐⭐⭐|||||||||||||
 Gliscor|Gliscor Cape|Recovers HP when hit by an Ice move.|⭐⭐|||||||||||||
 Mamoswine|Glacier Cape|Recovers HP when hit by a Steel move.|⭐⭐|||||||||||||
@@ -478,15 +478,15 @@ Probopass|Probo-Hat|Recovers HP when hit by a Fighting move.|⭐⭐|||||||||||||
 Dusknoir|Unlucky Sash|Recovers HP when hit by a Ghost move.|⭐⭐|||||||||||||
 Froslass|Froslass Bow|Recovers HP when hit by a Dark move.|⭐⭐|||||||||||||
 Rotom|Plasma Veil|May afflict attacking enemies with a Paralysis status condition.|⭐⭐⭐|Secret Key|Activates Appliance Switch|⭐⭐⭐||||||||||
-Uxie|Edify Robe|If Uxie is attacked when it has little health, it may warp to a different area on the same floor.|⭐⭐⭐|||||||||||||
-Mesprit|Charity Robe|If Mesprit is attacked when it has little health, it may warp to a different area on the same floor.|⭐⭐⭐|||||||||||||
-Azelf|Hope Robe|If Azelf is attacked when it has little health, it may warp to a different area on the same floor.|⭐⭐⭐|||||||||||||
+Uxie|Edify Robe|If Uxie is attacked when it has little health; it may warp to a different area on the same floor.|⭐⭐⭐|||||||||||||
+Mesprit|Charity Robe|If Mesprit is attacked when it has little health; it may warp to a different area on the same floor.|⭐⭐⭐|||||||||||||
+Azelf|Hope Robe|If Azelf is attacked when it has little health; it may warp to a different area on the same floor.|⭐⭐⭐|||||||||||||
 Dialga|Time Shield|Physical moves are weakened to half their strength on Dialga.|⭐⭐⭐|Adamant Orb|Activates Primal Reversion|⭐⭐⭐||||||||||
 Palkia|Air Blade|Boosts damage Palkia inflicts by 1.5 times.|⭐⭐⭐|Lustrous Orb|Activates Primal Reversion|⭐⭐⭐||||||||||
 Heatran|Searing Ring|Completely restores Heatran's HP when entering a new floor.|⭐⭐⭐|Magma Stone|Attacks twice in one turn during the Sunny weather condition.|⭐⭐⭐||||||||||
 Regigigas|Ancient Ring|Protects Regigigas from status conditions.|⭐⭐⭐|||||||||||||
 Giratina|Nether Veil|May afflict attacking foes with a Constricted status condition.|⭐⭐⭐|Griseous Orb|Activates Origin Forme|⭐⭐⭐|Red Chain|Nullifies Primal Reversion to any Pokemon in the Dungeon|⭐⭐⭐|||||||
-Cresselia|Lunar Veil|When moves that increase stats are used on Cresselia, the rest of the party also gets the effects.|⭐⭐⭐|Lunar Wing|Immune to Sleep, Yawn, Napping, and Nightmare|⭐⭐⭐||||||||||
+Cresselia|Lunar Veil|When moves that increase stats are used on Cresselia; the rest of the party also gets the effects.|⭐⭐⭐|Lunar Wing|Immune to Sleep; Yawn; Napping; and Nightmare|⭐⭐⭐||||||||||
 Phione|Phione Song|Raises Defense by 3|⭐|Phione Card|Raises Sp. Defense by 3|⭐|Wave Jewel|Raises Defense and Sp. Defense by 3 each|⭐⭐|Ripple Cape|Recovers HP when Phione enters a water terrain.|⭐⭐⭐|Marine Cache|Heals status conditions when Phione enters a water terrain.|⭐⭐⭐|
 Manaphy|Tidal Cape|Recovers HP when Manaphy enters a water terrain.|⭐⭐⭐|||||||||||||
 Darkrai|Eclipse Robe|May afflict attacking enemies with a Nightmare status condition.|⭐⭐⭐|Dark Veil|Avoids waking up sleeping Pokemon|⭐⭐⭐||||||||||
