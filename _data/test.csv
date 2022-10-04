@@ -4,19 +4,19 @@ ignore,This is text one linebreak below. It will appear on the same line.
 ignore,
 ignore,This is text TWO linebreaks below. It will NOT appear on the same line.
 ignore,
-ignore,"~~This is striked text, using two tildes, delet this.🔫~~"
+ignore,~~This is striked text; using two tildes; delet this.🔫~~
 ignore,
-ignore,"*This is italic text, using one asterisk.*"
+ignore,*This is italic text; using one asterisk.*
 ignore,
 ignore,_You can also use one underscore._
 ignore,
-ignore,"**This is bold text, using two asterisks.**"
+ignore,**This is bold text; using two asterisks.**
 ignore,
-ignore,"*This is italic, but you can add **two asterisks to turn the italic bold, and end both with three asterisks.***"
+ignore,*This is italic; but you can add **two asterisks to turn the italic bold; and end both with three asterisks.***
 ignore,
-ignore,"*~~You can do the same~~ in reverse, and **even** in between.*"
+ignore,*~~You can do the same~~ in reverse; and **even** in between.*
 ignore,
-ignore,"> This is a quote, using a GreaterThan sign."
+ignore,> This is a quote; using a GreaterThan sign.
 ignore,
 ignore,Smol text at the <sub>bottom</sub> using HTML subscript tags.
 ignore,
@@ -25,7 +25,7 @@ ignore,
 ignore,Use a colon one line below to describe a term.
 ignore,: Description of the term.
 ignore,
-ignore,"Add `{: .label .label-color }`, replacing color with one of the colors below to create labels."
+ignore,Add `{: .label .label-color }`; replacing color with one of the colors below to create labels.
 ignore,
 ignore,Blue
 ignore,{: .label .label-blue }
@@ -64,7 +64,7 @@ ignore,##### pls halp
 ignore,
 ignore,###### a
 ignore,
-ignore,"1. Use a number, a period, and space"
+ignore,1. Use a number; a period; and space
 ignore,2. To make an ordered list.
 ignore,
 ignore,* Use an asterisk and space
@@ -104,7 +104,7 @@ ignore,    - level 3 item (Unordered)
 ignore,    - level 3 item (Unordered)
 ignore,- level 1 item (Unordered)
 ignore,
-ignore,"Asterisk, space, asterisk, space, asterisk..."
+ignore,Asterisk; space; asterisk; space; asterisk...
 ignore,* * *
 ignore,...creates a horizontal bar.
 ignore,
@@ -119,22 +119,22 @@ ignore,}
 ignore,```
 ignore,
 ignore,```md
-ignore,"Specify md to display normal text. Long lines outside of code blocks wrap around, but long lines inside code blocks do not. This is a long enough text to demonstrate this. Did you know that in terms of Human to Pokemon breeding Vaporeon is- ok sorry."
+ignore,Specify md to display normal text. Long lines outside of code blocks wrap around; but long lines inside code blocks do not. This is a long enough text to demonstrate this. Did you know that in terms of Human to Pokemon breeding Vaporeon is- ok sorry.
 ignore,```
 ignore,
-ignore,"To create a link, put the name of the link between square parentheses, then put the link itself between round parentheses, with no spaces."
+ignore,To create a link; put the name of the link between square parentheses; then put the link itself between round parentheses; with no spaces.
 ignore,
 ignore,[This is a link to a local Markdown page.](./index.md)
 ignore,
 ignore,[This is a link to another webpage.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ignore,
 ignore,Add `{: .btn }` next to ) to create a button.
-ignore,"[The two links above,](./index.md){: .btn }"
+ignore,[The two links above;](./index.md){: .btn }
 ignore,[But as buttons.](https://www.youtube.com/watch?v=dQw4w9WgXcQ){: .btn }
 ignore,
-ignore,"[You can link files too. If the file can't display on a browser window, a download will start.](https://static.f-list.net/images/avatar/tokumei%20kii.png)"
+ignore,[You can link files too. If the file can't display on a browser window; a download will start.](https://static.f-list.net/images/avatar/tokumei%20kii.png)
 ignore,
-ignore,"Add ! at the beginning before the square parenthesis to embed. You cannot embed links or webpages, only files. There's no need to put anything inside the square parenthesis when you're embedding."
+ignore,Add ! at the beginning before the square parenthesis to embed. You cannot embed links or webpages; only files. There's no need to put anything inside the square parenthesis when you're embedding.
 ignore,
 ignore,This is a smol PNG one line below.
 ignore,![](https://static.f-list.net/images/avatar/tokumei%20kii.png)
@@ -143,24 +143,14 @@ ignore,This is a l o r g e PNG two lines below.
 ignore,
 ignore,![](https://static.f-list.net/images/charinline/a0/ce/a0ceb589e437b739a897f116d9e9065a62d338bf.png)
 ignore,
-ignore,"Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, .LOG, .TXT, .PDF, or .ZIP."
+ignore,Embedded files cannot be bigger than 10MB; and must be either .PNG; .JPG; .SVG; .LOG; .TXT; .PDF; or .ZIP.
 ignore,
-ignore,"Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop (x86) Chromium and Firefox."
+ignore,Animated files such as .GIF; .MP4; or .MOV; will only embed properly on Desktop (x86) Chromium and Firefox.
 ignore,
-ignore,|Use vertical bars to create a table.|Use monospace fonts to avoid confusion.|
-ignore,|Cells can vary in width|And do not need to be perfectly aligned within columns.|
 ignore,
-ignore,| Left                        | Center           |              Right |
-ignore,|:----------------------------|:----------------:|-------------------:|
-ignore,| To tell text where to align | Use :- :-: or -: | On the second row. |
-ignore,
-ignore,{% assign row = site.data.markdown[0] %}
-ignore,{% for row in site.data.markdown %}{% if forloop.first %}{% for pair in row %}|{{ pair[0] }}{% endfor %}{% endif %}|
-ignore,{% for pair in row %}|{{ pair[1] }}{% endfor %}{% endfor %}|
-ignore,
-ignore,"You can make footnotes with a caret and a number, between square brackets[^1]."
+ignore,You can make footnotes with a caret and a number; between square brackets[^1].
 ignore,You can also use whatever name you want instead of a number.[^Name]
 ignore,
-ignore,"[^1]: Add a colon (NOT semicolon) to invoke the footnote, make sure it's at the bottom of the page and at the beginning of the line."
+ignore,[^1]: Add a colon (NOT semicolon) to invoke the footnote; make sure it's at the bottom of the page and at the beginning of the line.
 ignore,[^Name]: Although it will still display as a number with certain themes.
 ignore,
