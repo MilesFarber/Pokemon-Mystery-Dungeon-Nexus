@@ -112,8 +112,8 @@ Nesting an unordered list inside an ordered list inside an unordered list.
   1. level 2 item (Ordered)
     - level 3 item (Unordered)
     - level 3 item (Unordered)
-  1. level 4 item (Ordered)
-  1. level 4 item (Ordered)
+      1. level 4 item (Ordered)
+      1. level 4 item (Ordered)
     - level 3 item (Unordered)
     - level 3 item (Unordered)
 - level 1 item (Unordered)
@@ -121,12 +121,6 @@ Nesting an unordered list inside an ordered list inside an unordered list.
 Asterisk, space, asterisk, space, asterisk...
 * * *
 ...creates a horizontal bar.
-
-<details><summary>This is a clickable Collapse with a Label.</summary>
-<p>
-To create a Collapse, use the HTML tag `details`, then `p`, then `/p`, then `/details`, between LessThan and GreaterThan signs. To add a Label to the collapse, add the HTML tags `summary` and `/summary` on the right of the `details` HTML tag. Collapses aren't recommended because they're complicated, can't embed many things and require extra clicks to read the content.
-</p>
-</details>
 
 `Use grave accents for tiny code or keywords.`
 
@@ -170,9 +164,9 @@ Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop 
 |Use vertical bars to create a table.|Use monospace fonts to avoid confusion.|
 |Cells can vary in width|And do not need to be perfectly aligned within columns.|
 
-|Left|Center|Right|
-|:-|:-:|-:|
-|To tell text where to align|Use :- :-: or -:|On the second row.|
+| Left                        | Center           |              Right |
+|:----------------------------|:----------------:|-------------------:|
+| To tell text where to align | Use :- :-: or -: | On the second row. |
 
 {% assign row = site.data.markdown[0] %}
 {% for row in site.data.markdown %}{% if forloop.first %}{% for pair in row %}|{{ pair[0] }}{% endfor %}{% endif %}|
