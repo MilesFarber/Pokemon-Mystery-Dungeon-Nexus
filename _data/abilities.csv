@@ -1,234 +1,234 @@
-"ID","Name","Description"
-1,"Stench","By releasing stench when attacking this Pokémon may cause the target to flinch."
-2,"Drizzle","The Pokémon makes it rain when it enters a battle."
-3,"Speed Boost","Its Speed stat is boosted every turn."
-4,"Battle Armor","Hard armor protects the Pokémon from critical hits."
-5,"Sturdy","It cannot be knocked out with one hit. One-hit KO moves cannot knock it out either."
-6,"Damp","Prevents the use of explosive moves such as Self-Destruct by dampening its surroundings."
-7,"Limber","Its limber body protects the Pokémon from paralysis."
-8,"Sand Veil","Boosts the Pokémon’s evasiveness in a sandstorm."
-9,"Static","The Pokémon is charged with static electricity so contact with it may cause paralysis."
-10,"Volt Absorb","Restores HP if hit by an Electric-type move instead of taking damage."
-11,"Water Absorb","Restores HP if hit by a Water-type move instead of taking damage."
-12,"Oblivious","The Pokémon is oblivious and that keeps it from being infatuated or falling for taunts."
-13,"Cloud Nine","Eliminates the effects of weather."
-14,"Compound Eyes","The Pokémon’s compound eyes boost its accuracy."
-15,"Insomnia","The Pokémon is suffering from insomnia and cannot fall asleep."
-16,"Color Change","The Pokémon’s type becomes the type of the move used on it."
-17,"Immunity","The immune system of the Pokémon prevents it from getting poisoned."
-18,"Flash Fire","Powers up the Pokémon’s Fire-type moves if it’s hit by one."
-19,"Shield Dust","This Pokémon’s dust blocks the additional effects of attacks taken."
-20,"Own Tempo","This Pokémon has its own tempo and that prevents it from becoming confused."
-21,"Suction Cups","This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out."
-22,"Intimidate","The Pokémon intimidates opposing Pokémon upon entering battle lowering their Attack stat."
-23,"Shadow Tag","This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping."
-24,"Rough Skin","This Pokémon inflicts damage with its rough skin to the attacker on contact."
-25,"Wonder Guard","Its mysterious power only lets supereffective moves hit the Pokémon."
-26,"Levitate","By floating in the air the Pokémon receives full immunity to all Ground-type moves."
-27,"Effect Spore","Contact with the Pokémon may inflict poison sleep or paralysis on its attacker."
-28,"Synchronize","The attacker will receive the same status condition if it inflicts a burn poison or paralysis to the Pokémon."
-29,"Clear Body","Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats."
-30,"Natural Cure","All status conditions heal when the Pokémon switches out."
-31,"Lightning Rod","The Pokémon draws in all Electric-type moves. Instead of being hit by Electric-type moves it boosts its Sp. Atk."
-32,"Serene Grace","Boosts the likelihood of additional effects occurring when attacking."
-33,"Swift Swim","Boosts the Pokémon’s Speed stat in rain."
-34,"Chlorophyll","Boosts the Pokémon’s Speed stat in harsh sunlight."
-35,"Illuminate","Raises the likelihood of meeting wild Pokémon by illuminating the surroundings."
-36,"Trace","When it enters a battle the Pokémon copies an opposing Pokémon’s Ability."
-37,"Huge Power","Doubles the Pokémon’s Attack stat."
-38,"Poison Point","Contact with the Pokémon may poison the attacker."
-39,"Inner Focus","The Pokémon’s intensely focused and that protects the Pokémon from flinching."
-40,"Magma Armor","The Pokémon is covered with hot magma which prevents the Pokémon from becoming frozen."
-41,"Water Veil","The Pokémon is covered with a water veil which prevents the Pokémon from getting a burn."
-42,"Magnet Pull","Prevents Steel-type Pokémon from escaping using its magnetic force."
-43,"Soundproof","Soundproofing gives the Pokémon full immunity to all sound-based moves."
-44,"Rain Dish","The Pokémon gradually regains HP in rain."
-45,"Sand Stream","The Pokémon summons a sandstorm when it enters a battle."
-46,"Pressure","By putting pressure on the opposing Pokémon it raises their PP usage."
-47,"Thick Fat","The Pokémon is protected by a layer of thick fat which halves the damage taken from Fire- and Ice-type moves."
-48,"Early Bird","The Pokémon awakens from sleep twice as fast as other Pokémon."
-49,"Flame Body","Contact with the Pokémon may burn the attacker."
-50,"Run Away","Enables a sure getaway from wild Pokémon."
-51,"Keen Eye","Keen eyes prevent other Pokémon from lowering this Pokémon’s accuracy."
-52,"Hyper Cutter","The Pokémon’s proud of its powerful pincers. They prevent other Pokémon from lowering its Attack stat."
-53,"Pickup","The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle too."
-54,"Truant","The Pokémon can’t use a move if it had used a move on the previous turn."
-55,"Hustle","Boosts the Attack stat but lowers accuracy."
-56,"Cute Charm","Contact with the Pokémon may cause infatuation."
-57,"Plus","Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle."
-58,"Minus","Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle."
-59,"Forecast","The Pokémon transforms with the weather to change its type to Water Fire or Ice."
-60,"Sticky Hold","Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon."
-61,"Shed Skin","The Pokémon may heal its own status conditions by shedding its skin."
-62,"Guts","It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat."
-63,"Marvel Scale","The Pokémon’s marvelous scales boost the Defense stat if it has a status condition."
-64,"Liquid Ooze","The oozed liquid has a strong stench which damages attackers using any draining move."
-65,"Overgrow","Powers up Grass-type moves when the Pokémon’s HP is low."
-66,"Blaze","Powers up Fire-type moves when the Pokémon’s HP is low."
-67,"Torrent","Powers up Water-type moves when the Pokémon’s HP is low."
-68,"Swarm","Powers up Bug-type moves when the Pokémon’s HP is low."
-69,"Rock Head","Protects the Pokémon from recoil damage."
-70,"Drought","Turns the sunlight harsh when the Pokémon enters a battle."
-71,"Arena Trap","Prevents opposing Pokémon from fleeing."
-72,"Vital Spirit","The Pokémon is full of vitality and that prevents it from falling asleep."
-73,"White Smoke","The Pokémon is protected by its white smoke which prevents other Pokémon from lowering its stats."
-74,"Pure Power","Using its pure power the Pokémon doubles its Attack stat."
-75,"Shell Armor","A hard shell protects the Pokémon from critical hits."
-76,"Air Lock","Eliminates the effects of weather."
-77,"Tangled Feet","Raises evasiveness if the Pokémon is confused."
-78,"Motor Drive","Boosts its Speed stat if hit by an Electric-type move instead of taking damage."
-79,"Rivalry","Becomes competitive and deals more damage to Pokémon of the same gender but deals less to Pokémon of the opposite gender."
-80,"Steadfast","The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches."
-81,"Snow Cloak","Boosts evasiveness in a hailstorm."
-82,"Gluttony","Makes the Pokémon eat a held Berry when its HP drops to half or less which is sooner than usual."
-83,"Anger Point","The Pokémon is angered when it takes a critical hit and that maxes its Attack stat."
-84,"Unburden","Boosts the Speed stat if the Pokémon’s held item is used or lost."
-85,"Heatproof","The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it."
-86,"Simple","The stat changes the Pokémon receives are doubled."
-87,"Dry Skin","Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight and increases the damage received from Fire-type moves."
-88,"Download","Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective."
-89,"Iron Fist","Powers up punching moves."
-90,"Poison Heal","Restores HP if the Pokémon is poisoned instead of losing HP."
-91,"Adaptability","Powers up moves of the same type as the Pokémon."
-92,"Skill Link","Maximizes the number of times multistrike moves hit."
-93,"Hydration","Heals status conditions if it’s raining."
-94,"Solar Power","Boosts the Sp. Atk stat in harsh sunlight but HP decreases every turn."
-95,"Quick Feet","Boosts the Speed stat if the Pokémon has a status condition."
-96,"Normalize","All the Pokémon’s moves become Normal type. The power of those moves is boosted a little."
-97,"Sniper","Powers up moves if they become critical hits when attacking."
-98,"Magic Guard","The Pokémon only takes damage from attacks."
-99,"No Guard","The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land."
-100,"Stall","The Pokémon moves after all other Pokémon do."
-101,"Technician","Powers up the Pokémon’s weaker moves."
-102,"Leaf Guard","Prevents status conditions in harsh sunlight."
-103,"Klutz","The Pokémon can’t use any held items."
-104,"Mold Breaker","Moves can be used on the target regardless of its Abilities."
-105,"Super Luck","The Pokémon is so lucky that the critical-hit ratios of its moves are boosted."
-106,"Aftermath","Damages the attacker if it contacts the Pokémon with a finishing hit."
-107,"Anticipation","The Pokémon can sense an opposing Pokémon’s dangerous moves."
-108,"Forewarn","When it enters a battle the Pokémon can tell one of the moves an opposing Pokémon has."
-109,"Unaware","When attacking the Pokémon ignores the target Pokémon’s stat changes."
-110,"Tinted Lens","The Pokémon can use “not very effective” moves to deal regular damage."
-111,"Filter","Reduces the power of supereffective attacks taken."
-112,"Slow Start","For five turns the Pokémon’s Attack and Speed stats are halved."
-113,"Scrappy","The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves."
-114,"Storm Drain","Draws in all Water-type moves. Instead of being hit by Water-type moves it boosts its Sp. Atk."
-115,"Ice Body","The Pokémon gradually regains HP in a hailstorm."
-116,"Solid Rock","Reduces the power of supereffective attacks taken."
-117,"Snow Warning","The Pokémon summons a hailstorm when it enters a battle."
-118,"Honey Gather","The Pokémon may gather Honey after a battle."
-119,"Frisk","When it enters a battle the Pokémon can check an opposing Pokémon’s held item."
-120,"Reckless","Powers up moves that have recoil damage."
-121,"Multitype","Changes the Pokémon’s type to match the Plate or Z-Crystal it holds."
-122,"Flower Gift","Boosts the Attack and Sp. Def stats of itself and allies in harsh sunlight."
-123,"Bad Dreams","Reduces the HP of sleeping opposing Pokémon."
-124,"Pickpocket","Steals an item from an attacker that made direct contact."
-125,"Sheer Force","Removes additional effects to increase the power of moves when attacking."
-126,"Contrary","Makes stat changes have an opposite effect."
-127,"Unnerve","Unnerves opposing Pokémon and makes them unable to eat Berries."
-128,"Defiant","Boosts the Pokémon’s Attack stat sharply when its stats are lowered."
-129,"Defeatist","Halves the Pokémon’s Attack and Sp. Atk stats when its HP becomes half or less."
-130,"Cursed Body","May disable a move used on the Pokémon."
-131,"Healer","Sometimes heals an ally’s status condition."
-132,"Friend Guard","Reduces damage done to allies."
-133,"Weak Armor","Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat."
-134,"Heavy Metal","Doubles the Pokémon’s weight."
-135,"Light Metal","Halves the Pokémon’s weight."
-136,"Multiscale","Reduces the amount of damage the Pokémon takes while its HP is full."
-137,"Toxic Boost","Powers up physical attacks when the Pokémon is poisoned."
-138,"Flare Boost","Powers up special attacks when the Pokémon is burned."
-139,"Harvest","May create another Berry after one is used."
-140,"Telepathy","Anticipates an ally’s attack and dodges it."
-141,"Moody","Raises one stat sharply and lowers another every turn."
-142,"Overcoat","Protects the Pokémon from things like sand hail and powder."
-143,"Poison Touch","May poison a target when the Pokémon makes contact."
-144,"Regenerator","Restores a little HP when withdrawn from battle."
-145,"Big Pecks","Protects the Pokémon from Defense-lowering effects."
-146,"Sand Rush","Boosts the Pokémon’s Speed stat in a sandstorm."
-147,"Wonder Skin","Makes status moves more likely to miss."
-148,"Analytic","Boosts move power when the Pokémon moves last."
-149,"Illusion","Comes out disguised as the Pokémon in the party’s last spot."
-150,"Imposter","The Pokémon transforms itself into the Pokémon it’s facing."
-151,"Infiltrator","Passes through the opposing Pokémon’s barrier substitute and the like and strikes."
-152,"Mummy","Contact with the Pokémon changes the attacker’s Ability to Mummy."
-153,"Moxie","The Pokémon shows moxie and that boosts the Attack stat after knocking out any Pokémon."
-154,"Justified","Being hit by a Dark-type move boosts the Attack stat of the Pokémon for justice."
-155,"Rattled","Dark- Ghost- and Bug-type moves scare the Pokémon and boost its Speed stat."
-156,"Magic Bounce","Reflects status moves instead of getting hit by them."
-157,"Sap Sipper","Boosts the Attack stat if hit by a Grass-type move instead of taking damage."
-158,"Prankster","Gives priority to a status move."
-159,"Sand Force","Boosts the power of Rock- Ground- and Steel-type moves in a sandstorm."
-160,"Iron Barbs","Inflicts damage on the attacker upon contact with iron barbs."
-161,"Zen Mode","Changes the Pokémon’s shape when HP is half or less."
-162,"Victory Star","Boosts the accuracy of its allies and itself."
-163,"Turboblaze","Moves can be used on the target regardless of its Abilities."
-164,"Teravolt","Moves can be used on the target regardless of its Abilities."
-165,"Aroma Veil","Protects itself and its allies from attacks that limit their move choices."
-166,"Flower Veil","Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats."
-167,"Cheek Pouch","Restores HP as well when the Pokémon eats a Berry."
-168,"Protean","Changes the Pokémon’s type to the type of the move it’s about to use."
-169,"Fur Coat","Halves the damage from physical moves."
-170,"Magician","The Pokémon steals the held item of a Pokémon it hits with a move."
-171,"Bulletproof","Protects the Pokémon from some ball and bomb moves."
-172,"Competitive","Boosts the Sp. Atk stat sharply when a stat is lowered."
-173,"Strong Jaw","The Pokémon’s strong jaw boosts the power of its biting moves."
-174,"Refrigerate","Normal-type moves become Ice-type moves. The power of those moves is boosted a little."
-175,"Sweet Veil","Prevents itself and ally Pokémon from falling asleep."
-176,"Stance Change","The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield."
-177,"Gale Wings","Gives priority to Flying-type moves when the Pokémon’s HP is full."
-178,"Mega Launcher","Powers up aura and pulse moves."
-179,"Grass Pelt","Boosts the Pokémon’s Defense stat on Grassy Terrain."
-180,"Symbiosis","The Pokémon passes its item to an ally that has used up an item."
-181,"Tough Claws","Powers up moves that make direct contact."
-182,"Pixilate","Normal-type moves become Fairy-type moves. The power of those moves is boosted a little."
-183,"Gooey","Contact with the Pokémon lowers the attacker’s Speed stat."
-184,"Aerilate","Normal-type moves become Flying-type moves. The power of those moves is boosted a little."
-185,"Parental Bond","Parent and child each attacks."
-186,"Dark Aura","Powers up each Pokémon’s Dark-type moves."
-187,"Fairy Aura","Powers up each Pokémon’s Fairy-type moves."
-188,"Aura Break","The effects of “Aura” Abilities are reversed to lower the power of affected moves."
-189,"Primordial Sea","The Pokémon changes the weather to nullify Fire-type attacks."
-190,"Desolate Land","The Pokémon changes the weather to nullify Water-type attacks."
-191,"Delta Stream","The Pokémon changes the weather to eliminate all of the Flying type’s weaknesses."
-192,"Stamina","Boosts the Defense stat when hit by an attack."
-193,"Wimp Out","The Pokémon cowardly switches out when its HP becomes half or less."
-194,"Emergency Exit","The Pokémon sensing danger switches out when its HP becomes half or less."
-195,"Water Compaction","Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move."
-196,"Merciless","The Pokémon’s attacks become critical hits if the target is poisoned."
-197,"Shields Down","When its HP becomes half or less the Pokémon’s shell breaks and it becomes aggressive."
-198,"Stakeout","Doubles the damage dealt to the target’s replacement if the target switches out."
-199,"Water Bubble","Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn."
-200,"Steelworker","Powers up Steel-type moves."
-201,"Berserk","Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to become half or less."
-202,"Slush Rush","Boosts the Pokémon’s Speed stat in a hailstorm."
-203,"Long Reach","The Pokémon uses its moves without making contact with the target."
-204,"Liquid Voice","All sound-based moves become Water-type moves."
-205,"Triage","Gives priority to a healing move."
-206,"Galvanize","Normal-type moves become Electric-type moves. The power of those moves is boosted a little."
-207,"Surge Surfer","Doubles the Pokémon’s Speed stat on Electric Terrain."
-208,"Schooling","When it has a lot of HP the Pokémon forms a powerful school. It stops schooling when its HP is low."
-209,"Disguise","Once per battle the shroud that covers the Pokémon can protect it from an attack."
-210,"Battle Bond","Defeating an opposing Pokémon strengthens the Pokémon’s bond with its Trainer and it becomes Ash-Greninja. Water Shuriken gets more powerful."
-211,"Power Construct","Other Cells gather to aid when its HP becomes half or less. Then the Pokémon changes its form to Complete Forme."
-212,"Corrosion","The Pokémon can poison the target even if it’s a Steel or Poison type."
-213,"Comatose","It’s always drowsing and will never wake up. It can attack without waking up."
-214,"Queenly Majesty","Its majesty pressures the opposing Pokémon making it unable to attack using priority moves."
-215,"Innards Out","Damages the attacker landing the finishing hit by the amount equal to its last HP."
-216,"Dancer","When another Pokémon uses a dance move it can use a dance move following it regardless of its Speed."
-217,"Battery","Powers up ally Pokémon’s special moves."
-218,"Fluffy","Halves the damage taken from moves that make direct contact but doubles that of Fire-type moves."
-219,"Dazzling","Surprises the opposing Pokémon making it unable to attack using priority moves."
-220,"Soul-Heart","Boosts its Sp. Atk stat every time a Pokémon faints."
-221,"Tangling Hair","Contact with the Pokémon lowers the attacker’s Speed stat."
-222,"Receiver","The Pokémon copies the Ability of a defeated ally."
-223,"Power of Alchemy","The Pokémon copies the Ability of a defeated ally."
-224,"Beast Boost","The Pokémon boosts its most proficient stat each time it knocks out a Pokémon."
-225,"RKS System","Changes the Pokémon’s type to match the memory disc it holds."
-226,"Electric Surge","Turns the ground into Electric Terrain when the Pokémon enters a battle."
-227,"Psychic Surge","Turns the ground into Psychic Terrain when the Pokémon enters a battle."
-228,"Misty Surge","Turns the ground into Misty Terrain when the Pokémon enters a battle."
-229,"Grassy Surge","Turns the ground into Grassy Terrain when the Pokémon enters a battle."
-230,"Full Metal Body","Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats."
-231,"Shadow Shield","Reduces the amount of damage the Pokémon takes while its HP is full."
-232,"Prism Armor","Reduces the power of supereffective attacks taken."
-233,"Neuroforce","Powers up moves that are super effective."
+ID,Name,Description,Rare Quality
+1,Stench,By releasing stench when attacking this Pokémon may cause the target to flinch.,Emotion: Team is immune to Insane; Confusion and Flinching
+2,Drizzle,The Pokémon makes it rain when it enters a battle.,Riled Up: Boosts AT and SA once when hit by an enemy.
+3,Speed Boost,Its Speed stat is boosted every turn.,Enlightened: Teammates can use Enlightenments immediately.
+4,Battle Armor,Hard armor protects the Pokémon from critical hits.,Forge a Path: Consumes Belly to break down walls.
+5,Sturdy,It cannot be knocked out with one hit. One-hit KO moves cannot knock it out either.,Shared Happiness: If a teammate's status condition is healed; it also heals the whole team's status conditions.
+6,Damp,Prevents the use of explosive moves such as Self-Destruct by dampening its surroundings.,Evasive Rhythm: The team can dodge multi hit attacks much easier.
+7,Limber,Its limber body protects the Pokémon from paralysis.,Strike Back: If anyone in the team is attacked from behind; the foe's AT and SA is lowered.
+8,Sand Veil,Boosts the Pokémon’s evasiveness in a sandstorm.,Notorious Restoration: Items restore more HP and Belly.
+9,Static,The Pokémon is charged with static electricity so contact with it may cause paralysis.,Squeeze Out: The whole team can squeeze extra PP once per battle.
+10,Volt Absorb,Restores HP if hit by an Electric-type move instead of taking damage.,Mind Over Matter: Wonder tiles restore a bit of HP and heal status conditions.
+11,Water Absorb,Restores HP if hit by a Water-type move instead of taking damage.,Recoil Boost: Moves that recoil do 2X damage.
+12,Oblivious,The Pokémon is oblivious and that keeps it from being infatuated or falling for taunts.,Steamroll: Ignores types and abilities lowering a move's damage.
+13,Cloud Nine,Eliminates the effects of weather.,Friendly: Foes have a chance of temporarily fighting for the team. Doesn't boost recruit chance.
+14,Compound Eyes,The Pokémon’s compound eyes boost its accuracy.,Squad Up: The bigger the team; the easier it becomes to recruit Pokemon.
+15,Insomnia,The Pokémon is suffering from insomnia and cannot fall asleep.,Wary Walk: The whole Team is immune to traps.
+16,Color Change,The Pokémon’s type becomes the type of the move used on it.,Notorious Healing: The rate at which HP restores naturally is sped up. 
+17,Immunity,The immune system of the Pokémon prevents it from getting poisoned.,Food Finder: Tiny Apples spawn much more often.
+18,Flash Fire,Powers up the Pokémon’s Fire-type moves if it’s hit by one.,Link Boost: The power of linked moves is boosted.
+19,Shield Dust,This Pokémon’s dust blocks the additional effects of attacks taken.,Small Stomach: Anyone in the team can fill up their belly with any food.
+20,Own Tempo,This Pokémon has its own tempo and that prevents it from becoming confused.,Strike Back: If anyone in the team is attacked from behind; the foe's AT and SA is lowered.
+21,Suction Cups,This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out.,Funnel Fun: Corridors restore HP faster.
+22,Intimidate,The Pokémon intimidates opposing Pokémon upon entering battle lowering their Attack stat.,Brawl: Teammates get a bit stronger when there are many foes.
+23,Shadow Tag,This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping.,Small Stomach: Anyone in the team can fill up their belly with any food.
+24,Rough Skin,This Pokémon inflicts damage with its rough skin to the attacker on contact.,Shared Happiness: If a teammate's status condition is healed; it also heals the whole team's status conditions.
+25,Wonder Guard,Its mysterious power only lets supereffective moves hit the Pokémon.,Brawl: Teammates get a bit stronger when there are many foes.
+26,Levitate,By floating in the air the Pokémon receives full immunity to all Ground-type moves.,Blast Control: Damage the team takes from explosions is reduced. 
+27,Effect Spore,Contact with the Pokémon may inflict poison sleep or paralysis on its attacker.,Common Quality: Each teammate gets a second tiny Rare Quality that's randomized in each floor.
+28,Synchronize,The attacker will receive the same status condition if it inflicts a burn poison or paralysis to the Pokémon.,Notorious Fasting: The team won't take damage from hunger; but will still be unable to heal.
+29,Clear Body,Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.,Heartstrings: If a teammate's connection faints; they get an extra Finisher.
+30,Natural Cure,All status conditions heal when the Pokémon switches out.,Evasive Rhythm: The team can dodge multi hit attacks much easier.
+31,Lightning Rod,The Pokémon draws in all Electric-type moves. Instead of being hit by Electric-type moves it boosts its Sp. Atk.,Lonely Courage: When a Pok�mon has no nearby teammates; it gets very strong.
+32,Serene Grace,Boosts the likelihood of additional effects occurring when attacking.,Mind Over Matter: Wonder tiles restore a bit of HP and heal status conditions.
+33,Swift Swim,Boosts the Pokémon’s Speed stat in rain.,No U: Reflects teammates's Rare Qualities back at them.
+34,Chlorophyll,Boosts the Pokémon’s Speed stat in harsh sunlight.,Mind Over Matter: Wonder tiles restore a bit of HP and heal status conditions.
+35,Illuminate,Raises the likelihood of meeting wild Pokémon by illuminating the surroundings.,Small Stomach: Anyone in the team can fill up their belly with any food.
+36,Trace,When it enters a battle the Pokémon copies an opposing Pokémon’s Ability.,Thrown Item Boost: Items thrown from the team are uncatchable and do increased damage.
+37,Huge Power,Doubles the Pokémon’s Attack stat.,Tight Formation: The more team members; the lower the damage from wide-ranging moves.
+38,Poison Point,Contact with the Pokémon may poison the attacker.,Heartstrings: If a teammate's connection faints; they get an extra Finisher.
+39,Inner Focus,The Pokémon’s intensely focused and that protects the Pokémon from flinching.,Food Finder: Tiny Apples spawn much more often.
+40,Magma Armor,The Pokémon is covered with hot magma which prevents the Pokémon from becoming frozen.,Unyelding Bravery: Teammates can revive once per day without using items.
+41,Water Veil,The Pokémon is covered with a water veil which prevents the Pokémon from getting a burn.,Leap Ahead: Pokemon behind the leader can leap ahead; use a short range move; and hop back behind in one turn.
+42,Magnet Pull,Prevents Steel-type Pokémon from escaping using its magnetic force.,Food Finder: Tiny Apples spawn much more often.
+43,Soundproof,Soundproofing gives the Pokémon full immunity to all sound-based moves.,Riled Up: Boosts AT and SA once when hit by an enemy.
+44,Rain Dish,The Pokémon gradually regains HP in rain.,Squad Up: The bigger the team; the easier it becomes to recruit Pokemon.
+45,Sand Stream,The Pokémon summons a sandstorm when it enters a battle.,Foresight: The team can change what move they're about to use if the foe is going to use a dangerous move.
+46,Pressure,By putting pressure on the opposing Pokémon it raises their PP usage.,Friendly: Foes have a chance of temporarily fighting for the team. Doesn't boost recruit chance.
+47,Thick Fat,The Pokémon is protected by a layer of thick fat which halves the damage taken from Fire- and Ice-type moves.,Leap Ahead: Pokemon behind the leader can leap ahead; use a short range move; and hop back behind in one turn.
+48,Early Bird,The Pokémon awakens from sleep twice as fast as other Pokémon.,Forge a Path: Consumes Belly to break down walls.
+49,Flame Body,Contact with the Pokémon may burn the attacker.,Thrown Item Boost: Items thrown from the team are uncatchable and do increased damage.
+50,Run Away,Enables a sure getaway from wild Pokémon.,Rapid Bullseye: Moves that hit multiple times will never miss. 
+51,Keen Eye,Keen eyes prevent other Pokémon from lowering this Pokémon’s accuracy.,Army Of Two: If there's only one teammate; that teammate gets a big stat boost.
+52,Hyper Cutter,The Pokémon’s proud of its powerful pincers. They prevent other Pokémon from lowering its Attack stat.,Notorious Healing: The rate at which HP restores naturally is sped up. 
+53,Pickup,The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle too.,XP Boost: Grants additional XP to the team when a foe is defeated.
+54,Truant,The Pokémon can’t use a move if it had used a move on the previous turn.,Leap Ahead: Pokemon behind the leader can leap ahead; use a short range move; and hop back behind in one turn.
+55,Hustle,Boosts the Attack stat but lowers accuracy.,Enlightened: Teammates can use Enlightenments immediately.
+56,Cute Charm,Contact with the Pokémon may cause infatuation.,Narrow Focus: Moves used in corridors will never miss. 
+57,Plus,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.,PP Siphon: Drains PP from an enemy.
+58,Minus,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.,Wary Walk: The whole Team is immune to traps.
+59,Forecast,The Pokémon transforms with the weather to change its type to Water Fire or Ice.,XP Boost: Grants additional XP to the team when a foe is defeated.
+60,Sticky Hold,Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon.,Blast Control: Damage the team takes from explosions is reduced. 
+61,Shed Skin,The Pokémon may heal its own status conditions by shedding its skin.,Sales Pitch: The team can sell items at higher price.
+62,Guts,It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat.,Bargain: Items can be bought at a lower price from shops.
+63,Marvel Scale,The Pokémon’s marvelous scales boost the Defense stat if it has a status condition.,Forge a Path: Consumes Belly to break down walls.
+64,Liquid Ooze,The oozed liquid has a strong stench which damages attackers using any draining move.,Brawl: Teammates get a bit stronger when there are many foes.
+65,Overgrow,Powers up Grass-type moves when the Pokémon’s HP is low.,Wary Walk: The whole Team is immune to traps.
+66,Blaze,Powers up Fire-type moves when the Pokémon’s HP is low.,Friendly: Foes have a chance of temporarily fighting for the team. Doesn't boost recruit chance.
+67,Torrent,Powers up Water-type moves when the Pokémon’s HP is low.,Evasive Rhythm: The team can dodge multi hit attacks much easier.
+68,Swarm,Powers up Bug-type moves when the Pokémon’s HP is low.,Riled Up: Boosts AT and SA once when hit by an enemy.
+69,Rock Head,Protects the Pokémon from recoil damage.,Steamroll: Ignores types and abilities lowering a move's damage.
+70,Drought,Turns the sunlight harsh when the Pokémon enters a battle.,Mind Over Matter: Wonder tiles restore a bit of HP and heal status conditions.
+71,Arena Trap,Prevents opposing Pokémon from fleeing.,Notorious Healing: The rate at which HP restores naturally is sped up. 
+72,Vital Spirit,The Pokémon is full of vitality and that prevents it from falling asleep.,XP Boost: Grants additional XP to the team when a foe is defeated.
+73,White Smoke,The Pokémon is protected by its white smoke which prevents other Pokémon from lowering its stats.,Small Stomach: Anyone in the team can fill up their belly with any food.
+74,Pure Power,Using its pure power the Pokémon doubles its Attack stat.,Blast Control: Damage the team takes from explosions is reduced. 
+75,Shell Armor,A hard shell protects the Pokémon from critical hits.,Talent Boost: Teammates's Rare Qualities are boosted.
+76,Air Lock,Eliminates the effects of weather.,Notorious Restoration: Items restore more HP and Belly.
+77,Tangled Feet,Raises evasiveness if the Pokémon is confused.,Smiles Go For Miles: Completing a mission gives the whole team a huge stat boost.
+78,Motor Drive,Boosts its Speed stat if hit by an Electric-type move instead of taking damage.,Bargain: Items can be bought at a lower price from shops.
+79,Rivalry,Becomes competitive and deals more damage to Pokémon of the same gender but deals less to Pokémon of the opposite gender.,Shared Happiness: If a teammate's status condition is healed; it also heals the whole team's status conditions.
+80,Steadfast,The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches.,Squeeze Out: The whole team can squeeze extra PP once per battle.
+81,Snow Cloak,Boosts evasiveness in a hailstorm.,Link Boost: The power of linked moves is boosted.
+82,Gluttony,Makes the Pokémon eat a held Berry when its HP drops to half or less which is sooner than usual.,Funnel Fun: Corridors restore HP faster.
+83,Anger Point,The Pokémon is angered when it takes a critical hit and that maxes its Attack stat.,Small Stomach: Anyone in the team can fill up their belly with any food.
+84,Unburden,Boosts the Speed stat if the Pokémon’s held item is used or lost.,Lonely Courage: When a Pok�mon has no nearby teammates; it gets very strong.
+85,Heatproof,The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it.,Squad Up: The bigger the team; the easier it becomes to recruit Pokemon.
+86,Simple,The stat changes the Pokémon receives are doubled.,Brawl: Teammates get a bit stronger when there are many foes.
+87,Dry Skin,Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight and increases the damage received from Fire-type moves.,Forge a Path: Consumes Belly to break down walls.
+88,Download,Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective.,PP Siphon: Drains PP from an enemy.
+89,Iron Fist,Powers up punching moves.,PP Siphon: Drains PP from an enemy.
+90,Poison Heal,Restores HP if the Pokémon is poisoned instead of losing HP.,Bargain: Items can be bought at a lower price from shops.
+91,Adaptability,Powers up moves of the same type as the Pokémon.,Thrown Item Boost: Items thrown from the team are uncatchable and do increased damage.
+92,Skill Link,Maximizes the number of times multistrike moves hit.,Bargain: Items can be bought at a lower price from shops.
+93,Hydration,Heals status conditions if it’s raining.,Notorious Fasting: The team won't take damage from hunger; but will still be unable to heal.
+94,Solar Power,Boosts the Sp. Atk stat in harsh sunlight but HP decreases every turn.,Collective Strike: All teammates have the same speed stat as the fastest teammate.
+95,Quick Feet,Boosts the Speed stat if the Pokémon has a status condition.,Long Range Rescue: The team can rescue a Pokemon just by being in the same floor.
+96,Normalize,All the Pokémon’s moves become Normal type. The power of those moves is boosted a little.,Friendly: Foes have a chance of temporarily fighting for the team. Doesn't boost recruit chance.
+97,Sniper,Powers up moves if they become critical hits when attacking.,PP Siphon: Drains PP from an enemy.
+98,Magic Guard,The Pokémon only takes damage from attacks.,Riled Up: Boosts AT and SA once when hit by an enemy.
+99,No Guard,The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.,PP Siphon: Drains PP from an enemy.
+100,Stall,The Pokémon moves after all other Pokémon do.,Shared Happiness: If a teammate's status condition is healed; it also heals the whole team's status conditions.
+101,Technician,Powers up the Pokémon’s weaker moves.,Reality Bending: Teammates's moves always hit regardless of distance or accuracy.
+102,Leaf Guard,Prevents status conditions in harsh sunlight.,Link Boost: The power of linked moves is boosted.
+103,Klutz,The Pokémon can’t use any held items.,Link Boost: The power of linked moves is boosted.
+104,Mold Breaker,Moves can be used on the target regardless of its Abilities.,Recoil Boost: Moves that recoil do 2X damage.
+105,Super Luck,The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.,Strike Back: If anyone in the team is attacked from behind; the foe's AT and SA is lowered.
+106,Aftermath,Damages the attacker if it contacts the Pokémon with a finishing hit.,Warmth: 50% chance of a teammate not fainting if another teammate is right next to it.
+107,Anticipation,The Pokémon can sense an opposing Pokémon’s dangerous moves.,Tight Formation: The more team members; the lower the damage from wide-ranging moves.
+108,Forewarn,When it enters a battle the Pokémon can tell one of the moves an opposing Pokémon has.,Sales Pitch: The team can sell items at higher price.
+109,Unaware,When attacking the Pokémon ignores the target Pokémon’s stat changes.,Evasive Rhythm: The team can dodge multi hit attacks much easier.
+110,Tinted Lens,The Pokémon can use “not very effective” moves to deal regular damage.,Link Boost: The power of linked moves is boosted.
+111,Filter,Reduces the power of supereffective attacks taken.,Riled Up: Boosts AT and SA once when hit by an enemy.
+112,Slow Start,For five turns the Pokémon’s Attack and Speed stats are halved.,Link Boost: The power of linked moves is boosted.
+113,Scrappy,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves.,Black Glint: Teammates can use Z-Moves multiple times.
+114,Storm Drain,Draws in all Water-type moves. Instead of being hit by Water-type moves it boosts its Sp. Atk.,Steamroll: Ignores types and abilities lowering a move's damage.
+115,Ice Body,The Pokémon gradually regains HP in a hailstorm.,Steamroll: Ignores types and abilities lowering a move's damage.
+116,Solid Rock,Reduces the power of supereffective attacks taken.,PP Siphon: Drains PP from an enemy.
+117,Snow Warning,The Pokémon summons a hailstorm when it enters a battle.,Strike Back: If anyone in the team is attacked from behind; the foe's AT and SA is lowered.
+118,Honey Gather,The Pokémon may gather Honey after a battle.,Strike Back: If anyone in the team is attacked from behind; the foe's AT and SA is lowered.
+119,Frisk,When it enters a battle the Pokémon can check an opposing Pokémon’s held item.,Leap Ahead: Pokemon behind the leader can leap ahead; use a short range move; and hop back behind in one turn.
+120,Reckless,Powers up moves that have recoil damage.,Friendly: Foes have a chance of temporarily fighting for the team. Doesn't boost recruit chance.
+121,Multitype,Changes the Pokémon’s type to match the Plate or Z-Crystal it holds.,Tight Formation: The more team members; the lower the damage from wide-ranging moves.
+122,Flower Gift,Boosts the Attack and Sp. Def stats of itself and allies in harsh sunlight.,Food Finder: Tiny Apples spawn much more often.
+123,Bad Dreams,Reduces the HP of sleeping opposing Pokémon.,Mind Over Matter: Wonder tiles restore a bit of HP and heal status conditions.
+124,Pickpocket,Steals an item from an attacker that made direct contact.,Lonely Courage: When a Pok�mon has no nearby teammates; it gets very strong.
+125,Sheer Force,Removes additional effects to increase the power of moves when attacking.,Notorious Fasting: The team won't take damage from hunger; but will still be unable to heal.
+126,Contrary,Makes stat changes have an opposite effect.,Funnel Fun: Corridors restore HP faster.
+127,Unnerve,Unnerves opposing Pokémon and makes them unable to eat Berries.,XP Boost: Grants additional XP to the team when a foe is defeated
+128,Defiant,Boosts the Pokémon’s Attack stat sharply when its stats are lowered.,Sales Pitch: The team can sell items at higher price.
+129,Defeatist,Halves the Pokémon’s Attack and Sp. Atk stats when its HP becomes half or less.,Sales Pitch: The team can sell items at higher price.
+130,Cursed Body,May disable a move used on the Pokémon.,Leave Half: A Big Apple; Perfect Apple; Max Elixir; or Reviver Seed leave behind an Apple; Max Ether; or Tiny Reviver Seed when used.
+131,Healer,Sometimes heals an ally’s status condition.,Food Finder: Tiny Apples spawn much more often.
+132,Friend Guard,Reduces damage done to allies.,Tight Formation: The more team members; the lower the damage from wide-ranging moves.
+133,Weak Armor,Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat.,Link Boost: The power of linked moves is boosted.
+134,Heavy Metal,Doubles the Pokémon’s weight.,Enlightened: Teammates can use Enlightenments immediately.
+135,Light Metal,Halves the Pokémon’s weight.,Heartstrings: If a teammate's connection faints; they get an extra Finisher.
+136,Multiscale,Reduces the amount of damage the Pokémon takes while its HP is full.,Leave Half: A Big Apple; Perfect Apple; Max Elixir; or Reviver Seed leave behind an Apple; Max Ether; or Tiny Reviver Seed when used. 
+137,Toxic Boost,Powers up physical attacks when the Pokémon is poisoned.,Lonely Courage: When a Pok�mon has no nearby teammates; it gets very strong.
+138,Flare Boost,Powers up special attacks when the Pokémon is burned.,Leave Half: A Big Apple; Perfect Apple; Max Elixir; or Reviver Seed leave behind an Apple; Max Ether; or Tiny Reviver Seed when used. 
+139,Harvest,May create another Berry after one is used.,Synced Breathing: Teammates Crit more often the bigger the team is.
+140,Telepathy,Anticipates an ally’s attack and dodges it.,Squeeze Out: The whole team can squeeze extra PP once per battle.
+141,Moody,Raises one stat sharply and lowers another every turn.,Yang: Doubles nearby Zekrom's speed
+142,Overcoat,Protects the Pokémon from things like sand hail and powder.,Army Of Two: If there's only one teammate; that teammate gets a big stat boost.
+143,Poison Touch,May poison a target when the Pokémon makes contact.,Hand Catching: Team gets stronger and stronger the longer the fight is.
+144,Regenerator,Restores a little HP when withdrawn from battle.,Notorious Restoration: Items restore more HP and Belly.
+145,Big Pecks,Protects the Pokémon from Defense-lowering effects.,Notorious Healing: The rate at which HP restores naturally is sped up. 
+146,Sand Rush,Boosts the Pokémon’s Speed stat in a sandstorm.,Thrown Item Boost: Items thrown from the team are uncatchable and do increased damage.
+147,Wonder Skin,Makes status moves more likely to miss.,Riled Up: Boosts AT and SA once when hit by an enemy.
+148,Analytic,Boosts move power when the Pokémon moves last.,Notorious Healing: The rate at which HP restores naturally is sped up. 
+149,Illusion,Comes out disguised as the Pokémon in the party’s last spot.,Friendly: Foes have a chance of temporarily fighting for the team. Doesn't boost recruit chance.
+150,Imposter,The Pokémon transforms itself into the Pokémon it’s facing.,Lonely Courage: When a Pok�mon has no nearby teammates; it gets very strong.
+151,Infiltrator,Passes through the opposing Pokémon’s barrier substitute and the like and strikes.,Bargain: Items can be bought at a lower price from shops.
+152,Mummy,Contact with the Pokémon changes the attacker’s Ability to Mummy.,Bargain: Items can be bought at a lower price from shops.
+153,Moxie,The Pokémon shows moxie and that boosts the Attack stat after knocking out any Pokémon.,Army Of Two: If there's only one teammate; that teammate gets a big stat boost.
+154,Justified,Being hit by a Dark-type move boosts the Attack stat of the Pokémon for justice.,Rapid Bullseye: Moves that hit multiple times will never miss. 
+155,Rattled,Dark- Ghost- and Bug-type moves scare the Pokémon and boost its Speed stat.,Mind Over Matter: Wonder tiles restore a bit of HP and heal status conditions.
+156,Magic Bounce,Reflects status moves instead of getting hit by them.,Notorious Fasting: The team won't take damage from hunger; but will still be unable to heal.
+157,Sap Sipper,Boosts the Attack stat if hit by a Grass-type move instead of taking damage.,Leap Ahead: Pokemon behind the leader can leap ahead; use a short range move; and hop back behind in one turn.
+158,Prankster,Gives priority to a status move.,Synced Breathing: Teammates Crit more often the bigger the team is.
+159,Sand Force,Boosts the power of Rock- Ground- and Steel-type moves in a sandstorm.,Funnel Fun: Corridors restore HP faster.
+160,Iron Barbs,Inflicts damage on the attacker upon contact with iron barbs.,Rapid Bullseye: Moves that hit multiple times will never miss. 
+161,Zen Mode,Changes the Pokémon’s shape when HP is half or less.,Squeeze Out: The whole team can squeeze extra PP once per battle.
+162,Victory Star,Boosts the accuracy of its allies and itself.,Shared Happiness: If a teammate's status condition is healed; it also heals the whole team's status conditions.
+163,Turboblaze,Moves can be used on the target regardless of its Abilities.,Sales Pitch: The team can sell items at higher price.
+164,Teravolt,Moves can be used on the target regardless of its Abilities.,Lonely Courage: When a Pok�mon has no nearby teammates; it gets very strong.
+165,Aroma Veil,Protects itself and its allies from attacks that limit their move choices.,Squeeze Out: The whole team can squeeze extra PP once per battle.
+166,Flower Veil,Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats.,Friendly: Foes have a chance of temporarily fighting for the team. Doesn't boost recruit chance.
+167,Cheek Pouch,Restores HP as well when the Pokémon eats a Berry.,XP Boost: Grants additional XP to the team when a foe is defeated.
+168,Protean,Changes the Pokémon’s type to the type of the move it’s about to use.,Collective Strike: All teammates have the same speed stat as the fastest teammate.
+169,Fur Coat,Halves the damage from physical moves.,Steamroll: Ignores types and abilities lowering a move's damage.
+170,Magician,The Pokémon steals the held item of a Pokémon it hits with a move.,Recoil Boost: Moves that recoil do 2X damage.
+171,Bulletproof,Protects the Pokémon from some ball and bomb moves.,Leave Half: A Big Apple; Perfect Apple; Max Elixir; or Reviver Seed leave behind an Apple; Max Ether; or Tiny Reviver Seed when used. 
+172,Competitive,Boosts the Sp. Atk stat sharply when a stat is lowered.,Forge a Path: Consumes Belly to break down walls.
+173,Strong Jaw,The Pokémon’s strong jaw boosts the power of its biting moves.,Squad Up: The bigger the team; the easier it becomes to recruit Pokemon.
+174,Refrigerate,Normal-type moves become Ice-type moves. The power of those moves is boosted a little.,Thrown Item Boost: Items thrown from the team are uncatchable and do increased damage.
+175,Sweet Veil,Prevents itself and ally Pokémon from falling asleep.,Evasive Rhythm: The team can dodge multi hit attacks much easier.
+176,Stance Change,The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield.,Recoil Boost: Moves that recoil do 2X damage.
+177,Gale Wings,Gives priority to Flying-type moves when the Pokémon’s HP is full.,Squad Up: The bigger the team; the easier it becomes to recruit Pokemon.
+178,Mega Launcher,Powers up aura and pulse moves.,Notorious Restoration: Items restore more HP and Belly.
+179,Grass Pelt,Boosts the Pokémon’s Defense stat on Grassy Terrain.,Hang In There: For each teammate with Insane; non-Insane teammates get a huge stat boost.
+180,Symbiosis,The Pokémon passes its item to an ally that has used up an item.,Food Finder: Tiny Apples spawn much more often.
+181,Tough Claws,Powers up moves that make direct contact.,Squeeze Out: The whole team can squeeze extra PP once per battle.
+182,Pixilate,Normal-type moves become Fairy-type moves. The power of those moves is boosted a little.,Enlightened: Teammates can use Enlightenments immediately.
+183,Gooey,Contact with the Pokémon lowers the attacker’s Speed stat.,Brawl: Teammates get a bit stronger when there are many foes.
+184,Aerilate,Normal-type moves become Flying-type moves. The power of those moves is boosted a little.,Stimulation: All stats are boosted when Belly is above half capacity; but it drains faster.
+185,Parental Bond,Parent and child each attacks.,Machine Learning: Teammates have max IQ and all AI skills unlocked.
+186,Dark Aura,Powers up each Pokémon’s Dark-type moves.,Machine Learning: Teammates have max IQ and all AI skills unlocked.
+187,Fairy Aura,Powers up each Pokémon’s Fairy-type moves.,Food Finder: Tiny Apples spawn much more often.
+188,Aura Break,The effects of “Aura” Abilities are reversed to lower the power of affected moves.,Synced Breathing: Teammates Crit more often the bigger the team is.
+189,Primordial Sea,The Pokémon changes the weather to nullify Fire-type attacks.,Taiyou: Team is immune to Curse; Grudge; and Perish Song.
+190,Desolate Land,The Pokémon changes the weather to nullify Water-type attacks.,Narrow Focus: Moves used in corridors will never miss. 
+191,Delta Stream,The Pokémon changes the weather to eliminate all of the Flying type’s weaknesses.,Army Of Two: If there's only one teammate; that teammate gets a big stat boost.
+192,Stamina,Boosts the Defense stat when hit by an attack.,Wary Walk: The whole Team is immune to traps.
+193,Wimp Out,The Pokémon cowardly switches out when its HP becomes half or less.,Wary Walk: The whole Team is immune to traps.
+194,Emergency Exit,The Pokémon sensing danger switches out when its HP becomes half or less.,Brawl: Teammates get a bit stronger when there are many foes.
+195,Water Compaction,Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move.,Yin: Doubles nearby Reshiram's speed
+196,Merciless,The Pokémon’s attacks become critical hits if the target is poisoned.,Overclocking: Team boosts SP if hit. If Codd is hit by teammates; they transfer any Speed boost to him.
+197,Shields Down,When its HP becomes half or less the Pokémon’s shell breaks and it becomes aggressive.,Narrow Focus: Moves used in corridors will never miss. 
+198,Stakeout,Doubles the damage dealt to the target’s replacement if the target switches out.,Shared Happiness: If a teammate's status condition is healed; it also heals the whole team's status conditions.
+199,Water Bubble,Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn.,Deception: Teammates are immune to non-damaging moves during battle.
+200,Steelworker,Powers up Steel-type moves.,Squad Up: The bigger the team; the easier it becomes to recruit Pokemon.
+201,Berserk,Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to become half or less.,
+202,Slush Rush,Boosts the Pokémon’s Speed stat in a hailstorm.,
+203,Long Reach,The Pokémon uses its moves without making contact with the target.,
+204,Liquid Voice,All sound-based moves become Water-type moves.,
+205,Triage,Gives priority to a healing move.,
+206,Galvanize,Normal-type moves become Electric-type moves. The power of those moves is boosted a little.,
+207,Surge Surfer,Doubles the Pokémon’s Speed stat on Electric Terrain.,
+208,Schooling,When it has a lot of HP the Pokémon forms a powerful school. It stops schooling when its HP is low.,
+209,Disguise,Once per battle the shroud that covers the Pokémon can protect it from an attack.,
+210,Battle Bond,Defeating an opposing Pokémon strengthens the Pokémon’s bond with its Trainer and it becomes Ash-Greninja. Water Shuriken gets more powerful.,
+211,Power Construct,Other Cells gather to aid when its HP becomes half or less. Then the Pokémon changes its form to Complete Forme.,
+212,Corrosion,The Pokémon can poison the target even if it’s a Steel or Poison type.,
+213,Comatose,It’s always drowsing and will never wake up. It can attack without waking up.,
+214,Queenly Majesty,Its majesty pressures the opposing Pokémon making it unable to attack using priority moves.,
+215,Innards Out,Damages the attacker landing the finishing hit by the amount equal to its last HP.,
+216,Dancer,When another Pokémon uses a dance move it can use a dance move following it regardless of its Speed.,
+217,Battery,Powers up ally Pokémon’s special moves.,
+218,Fluffy,Halves the damage taken from moves that make direct contact but doubles that of Fire-type moves.,
+219,Dazzling,Surprises the opposing Pokémon making it unable to attack using priority moves.,
+220,Soul-Heart,Boosts its Sp. Atk stat every time a Pokémon faints.,
+221,Tangling Hair,Contact with the Pokémon lowers the attacker’s Speed stat.,
+222,Receiver,The Pokémon copies the Ability of a defeated ally.,
+223,Power of Alchemy,The Pokémon copies the Ability of a defeated ally.,
+224,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.,
+225,RKS System,Changes the Pokémon’s type to match the memory disc it holds.,
+226,Electric Surge,Turns the ground into Electric Terrain when the Pokémon enters a battle.,
+227,Psychic Surge,Turns the ground into Psychic Terrain when the Pokémon enters a battle.,
+228,Misty Surge,Turns the ground into Misty Terrain when the Pokémon enters a battle.,
+229,Grassy Surge,Turns the ground into Grassy Terrain when the Pokémon enters a battle.,
+230,Full Metal Body,Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats.,
+231,Shadow Shield,Reduces the amount of damage the Pokémon takes while its HP is full.,
+232,Prism Armor,Reduces the power of supereffective attacks taken.,
+233,Neuroforce,Powers up moves that are super effective.,
