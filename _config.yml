@@ -5,10 +5,10 @@ remote_theme: just-the-docs/just-the-docs
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Zeitgeist
-description: A Pokemon Mystery Dungeon Database
-baseurl: "/Zeitgeist" # the subpath of your site, e.g. /blog
-url: "https://ZeitgeistPMD.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title: Pokémon Mystery Dungeon Nexus
+description: A Pokémon Mystery Dungeon Database Index
+baseurl: "/PMDNexus" # the subpath of your site, e.g. /blog
+url: "https://PMDNexus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/logo.png"
@@ -22,12 +22,12 @@ search:
   heading_level: 6
   # Maximum amount of previews per search result
   # Default: 3
-  previews: 16
+  previews: 8
   # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
+  # Default: 8
   preview_words_before: 8
   # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
+  # Default: 16
   preview_words_after: 8
   # Set the search token separator
   # Default: /[\s\-/]+/
@@ -67,7 +67,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "View this site on Github"
-gh_edit_repository: "https://github.com/FlarosOverfield/Zeitgeist" # the github URL for your repo
+gh_edit_repository: "https://github.com/FlarosOverfield/Pokemon-Mystery-Dungeon-Nexus" # the github URL for your repo
 gh_edit_branch: "trainer" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
