@@ -882,9 +882,9 @@ ID,Category,Name,Description,Value,Recipe
 881,Key Item,Expedition Bag,Allows the entire team to hold a LOT of items in a shared inventory! Equipment still needs to be equipped to be effective.,,
 882,Key Item,Expedition Gadget,A gadget that allows reading data from a Connection Orb. It also has a map. It doesn't update automatically like the Wonder Map; but it's much more accurate!,,
 883,Key Item,Connection Orb,A Connection Orb that links an Expedition Team to the Nexus. It also allows any recruit to be available anywhere you want!,,
-884,Key Item,Pokemon Travel Team Crate,Contains Travel Badges; a Travel Backpack; a Pokemon Index; and a Traveler Crystal! Perfect for aspiring Travelers and Travel Teams!,,
-885,Key Item,Traveler Badge,An incredible badge that holds the Power Of Saving. It allows any team to save their progress; or save any Pokemon in a Mystery Dungeon by warping to safety!,,
-886,Key Item,Travel Backpack,Allows the entire team to hold a LOT of items in a shared inventory! Equipment still needs to be equipped to be effective.,,
+884,Key Item,Pokemon Discovery Team Crate,Contains Discovery Badges; a Discovery Backpack; a Pokemon Index; and a Discoverer Crystal! Perfect for aspiring Discoverers and Discovery Teams!,,
+885,Key Item,Discoverer Badge,An incredible badge that holds the Power Of Saving. It allows any team to save their progress; or save any Pokemon in a Mystery Dungeon by warping to safety!,,
+886,Key Item,Discovery Backpack,Allows the entire team to hold a LOT of items in a shared inventory! Equipment still needs to be equipped to be effective.,,
 887,Key Item,Pokemon Index,An incredible digital book that stores every little piece of information discovered by the team; either locally or up to the Nexus!,,
 888,Key Item,Traveler Crystal,An advanced device shaped like a round crystal; that grants countless methods of communication and transfer among teams all over the world!,,
 889,Key Item,Key Stone,A rainbow stone resonating with the same immense power that connects Human and Pokemon. It allows any Pokemon with a Mega Stone to Megaevolve.,,
@@ -892,7 +892,7 @@ ID,Category,Name,Description,Value,Recipe
 891,Key Item,Radiant Stone,A resplendent stone resonating with the same immense power that connects Human and Pokemon. It allows any Pokemon to use a Finisher or an Enlightenment.,,
 892,Key Item,Carubyncle,A mystical red gem slotted in a body part... grants eternal youth?,,
 893,Key Item,Entercard,Use 4 of them to generate a Magnagate; an artificial; long range Mystery Dungeon made from ley lines for traveling long distances!,,
-894,Key Item,Golden Entercard,An incredibly powerful Entercard crafted by the Swords Of Justice; it creates a Golden Magnagate; a long range portal with no Mystery Dungeon inside!,,Entercard + Gold Ingot
+894,Key Item,Golden Entercard,An incredibly powerful Entercard crafted by the Swords Of Justice; it creates a Golden Magnagate; a long range portal with absolutely no trace of a Mystery Dungeon inside. Comfy!,,Entercard + Gold Ingot
 895,Key Item,Clear Wing,A clear; transparent wing... nearly indestructible. It seems like it's missing something...,,
 896,Key Item,Red Wing,A wing that's been dyed a strong shade of red; almost glowing. It's still not finished.,,
 897,Key Item,Sunset Wing,A wing dyed with gradients from sunset skies. It's almost there...,,
