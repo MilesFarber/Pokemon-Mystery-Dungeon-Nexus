@@ -155,7 +155,7 @@ This is a smol PNG one line below.
 
 This is a l o r g e PNG two lines below.
 
-![](https://static.f-list.net/images/charinline/a0/ce/a0ceb589e437b739a897f116d9e9065a62d338bf.png)
+![](./Refs/Zorua Zoroark.png)
 
 Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, .LOG, .TXT, .PDF, or .ZIP.
 
