@@ -7,7 +7,7 @@ permalink: Characters
 # Comparisons
 
 {% assign row = site.data.comparisons[0] %}
-{% for row in site.data.comparisons %}{% for pair in row %}###{{ pair[1] }}{% endfor %}
+{% for row in site.data.comparisons %}{% for pair in row %}###{{ pair[1] }}{% endfor %}{% endfor %}
 
 # Character sheets
 
