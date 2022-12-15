@@ -155,7 +155,7 @@ This is a smol PNG one line below.
 
 This is a l o r g e PNG two lines below.
 
-![](./Refs/Zorua Zoroark.png)
+![](./Comparisons/Zorua Zoroark.png)
 
 Embedded files cannot be bigger than 10MB, and must be either .PNG, .JPG, .SVG, .LOG, .TXT, .PDF, or .ZIP.
 
