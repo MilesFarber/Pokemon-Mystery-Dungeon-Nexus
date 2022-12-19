@@ -187,7 +187,7 @@ ID,Name,Category,Description,Value,Recipe
 186,![](./Items/Berry - Babiri Berry.png) Babiri Berry,Berry,This berry is very tough with a strong flavor. It was used to make medicine in the past. It changes the Pokémon to the Steel type through the rest of the floor.,100,
 187,![](./Items/Berry - Roseli Berry.png) Roseli Berry,Berry,A shockingly sweet berry that makes the most rigid hearts melt. It's a great juice ingredient. It changes the Pokémon to the Fairy type through the rest of the floor.,100,
 188,![](./Items/Berry - Chilan Berry.png) Chilan Berry,Berry,This berry can be cored out and dried to make a whistle. Blowing through its hole makes an eye-tearing sound. It changes the Pokémon to the Normal type through the rest of the floor.,100,
-189,![](./Items/Berry - Chiliad Berry.png) Chiliad Berry,Berry,A lookalike item for the Chiliad Berry. It causes a hostile Deoxys to warp next to the Pokemon eating it! But why!?,100,
+189,![](./Items/Berry - Chiliad Berry.png) Chiliad Berry,Berry,A lookalike item for the Chilan Berry. It causes a hostile Deoxys to warp next to the Pokemon eating it! But why!?,100,
 190,![](./Items/Berry - Liechi Berry.png) Liechi Berry,Berry,This Berry is surrounded by mystery. It is rumored to be imbued with the power of the sea. It raises Attack by 3 stages.,75,Synthesis (Spelon + Watmel)
 191,![](./Items/Berry - Ganlon Berry.png) Ganlon Berry,Berry,This Berry is surrounded by mystery. It is rumored to be imbued with the power of the land. It raises Defense by 3 stages.,75,Synthesis (Pamtre + Durin)
 192,![](./Items/Berry - Salac Berry.png) Salac Berry,Berry,This Berry is surrounded by mystery. It is rumored to be imbued with the power of the sky. It raises Speed by 3 stages.,75,Synthesis (Watmel + Belue)
@@ -552,7 +552,7 @@ ID,Name,Category,Description,Value,Recipe
 551,![](./Items/Food - Mega Donut.png) Mega Donut,Food,A thick; round Donut! Fills the Pokemon's belly by 100; or temporarily increases Belly Size by 1 if already full; and randomly; permanently increases one of the Pokemon's stats by 1... thrice!,1500,
 552,![](./Items/Food - Four Leaf Cookie.png) Four Leaf Cookie,Food,A fortune cookie. Fills the Pokemon's belly by 25; or temporarily increases Belly Size by 1 if already full; and randomly; permanently increases one of the Pokemon's stats by 1... a random number of times between 1 and 4!,2000,
 553,![](./Items/Food - Sweet Chocolate.png) Sweet Chocolate,Food,Just objectively the best thing ever. Fills the Pokemon's belly by 25; or temporarily increases Belly Size by 1 if already full. Permanently increases all the Pokemon's stats by 1!,2500,
-554,![](./Items/Food - Grimy Food.png) Grimy Food,Food,Yuck. Fills the Pokemon's belly by 25; or temporarily increases Belly Size by 1 if already full. However; it will also inflict a random status problem because it's covered in filthy grime. Be careful of what user eat!,1,
+554,![](./Items/Food - Grimy Food.png) Grimy Food,Food,Yuck. Fills the Pokemon's belly by 25; or temporarily increases Belly Size by 1 if already full. However; it will also inflict a random status problem because it's covered in filthy grime. Be careful of what you eat!,1,
 555,![](./Items/Food - Grim Food.png) Grim Food,Food,Lookalike item for Grimy Food. Eating this will turn user Ghost type and allows user to walk through walls! It also fills the Belly by 5.,1,
 556,![](./Items/Food - Sweet Heart.png) Sweet Heart,Food,A piece of cloyingly sweet chocolate. Heals 50 HP and increases IQ by 1. It also fills the Belly by 5.,,
 557,![](./Items/Food - Leftovers.png) Leftovers,Food,Some seemingly neverending Apple leftovers... when eaten; fills the Pokemon's Belly by just 1; but it also stops Belly depletion until the next floor.,,
@@ -883,7 +883,7 @@ ID,Name,Category,Description,Value,Recipe
 891,![](./Items/Key Item - Radiant Stone.png) Radiant Stone,Key Item,A resplendent stone resonating with the same immense power that connects Human and Pokemon. It allows any Pokemon to use a Finisher or an Enlightenment.,,
 892,![](./Items/Key Item - Carubyncle.png) Carubyncle,Key Item,A mystical red gem slotted in a body part... grants eternal youth?,,
 893,![](./Items/Key Item - Entercard.png) Entercard,Key Item,Use 4 of them to generate a Magnagate; an artificial; long range Mystery Dungeon made from ley lines for traveling long distances!,,
-894,![](./Items/Key Item - Golden Entercard.png) Golden Entercard,Key Item,An incredibly powerful Entercard crafted by the Swords Of Justice; it creates a Golden Magnagate; a long range portal with absolutely no trace of a Mystery Dungeon inside. Comfy!,,Entercard + Gold Ingot
+894,![](./Items/Key Item - Golden Entercard.png) Golden Entercard,Key Item,An incredibly powerful Entercard crafted by the Swords Of Justice. Using four of them creates a Golden Magnagate; a long range portal with absolutely no trace of a Mystery Dungeon inside. Comfy!,,Entercard + Gold Ingot
 895,![](./Items/Key Item - Clear Wing.png) Clear Wing,Key Item,A clear; transparent wing... nearly indestructible. It seems like it's missing something...,,
 896,![](./Items/Key Item - Red Wing.png) Red Wing,Key Item,A wing that's been dyed a strong shade of red; almost glowing. It's still not finished.,,
 897,![](./Items/Key Item - Sunset Wing.png) Sunset Wing,Key Item,A wing dyed with gradients from sunset skies. It's almost there...,,
