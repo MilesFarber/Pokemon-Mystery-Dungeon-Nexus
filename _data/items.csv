@@ -783,6 +783,15 @@ ID,Name,Category,Description,Value,Recipe
 782,![](./Items/Head Equipment - Counterfeit Scanner.png) Counterfeit Scanner,Head Equipment,Lens with a database that makes Lookalike items glow red.,,
 783,![](./Items/Head Equipment - Counterbait Scanner.png) Counterbait Scanner,Head Equipment,Lookalike item for Counterfeit Scanner. Any wild Pokemon damaged by the holder will get the Counter status effect!,,
 784,![](./Items/Head Equipment - Bounty Scanner.png) Bounty Scanner,Head Equipment,Facial recognition lens that scans wild Pokemon for any bounties.,,
+785,![](./Items/Medicine - Full Incense.png) Full Incense,Medicine,An exotic smelling incense used for crafting Cologne and Purifying Scents.,,
+786,![](./Items/Medicine - Lax Incense.png) Lax Incense,Medicine,An incense with a tricky aroma used for crafting Cologne and Purifying Scents.,,
+787,![](./Items/Medicine - Luck Incense.png) Luck Incense,Medicine,An incense with a luxurious scent used for crafting Cologne and Purifying Scents.,,
+788,![](./Items/Medicine - Odd Incense.png) Odd Incense,Medicine,A weird; but soothing incense used for crafting Cologne and Purifying Scents.,,
+789,![](./Items/Medicine - Rock Incense.png) Rock Incense,Medicine,A heavy incense used for crafting Cologne and Purifying Scents.,,
+790,![](./Items/Medicine - Wave Incense.png) Wave Incense,Medicine,A marine scented incense used for crafting Cologne and Purifying Scents.,,
+791,![](./Items/Medicine - Rose Incense.png) Rose Incense,Medicine,A flowery incense used for crafting Cologne and Purifying Scents.,,
+792,![](./Items/Medicine - Pure Incense.png) Pure Incense,Medicine,A vanilla; clean smelling incense used for crafting Cologne and Purifying Scents.,,
+793,![](./Items/Medicine - Cologne.png) Cologne,Medicine,Used to turn Incenses into Purifying Scents.,,Luminous Water + Apple + Any Incense
 794,![](./Items/Involith - Freeze Involith.png) Freeze Involith,Involith,A carefully carved glyph emblem that allows the leader to temporarily summon one (1) Articuno in battle for 5 turns. It's destroyed after use.,,
 795,![](./Items/Involith - Electric Involith.png) Electric Involith,Involith,A carefully carved glyph emblem that allows the leader to temporarily summon one (1) Zapdos in battle for 5 turns. It's destroyed after use.,,
 796,![](./Items/Involith - Flame Involith.png) Flame Involith,Involith,A carefully carved glyph emblem that allows the leader to temporarily summon one (1) Moltres in battle for 5 turns. It's destroyed after use.,,
@@ -1018,15 +1027,6 @@ ID,Name,Category,Description,Value,Recipe
 1026,![](./Items/Materials - Well Water.png) Well Water,Materials,A very refreshing water spring; used for crafting.,,Spring Water * 4
 1027,![](./Items/Materials - Rainbow Drops.png) Rainbow Drops,Materials,A remarkably refreshing water spring; used for crafting.,,Well Water * 4
 1028,![](./Items/Materials - Luminous Water.png) Luminous Water,Materials,A fantastically refreshing water spring; said to heal both Humans and Pokemon; used for crafting.,,Rainbow Drops * 4
-785,![](./Items/Medicine - Full Incense.png) Full Incense,Medicine,An exotic smelling incense used for crafting Cologne and Purifying Scents.,,
-786,![](./Items/Medicine - Lax Incense.png) Lax Incense,Medicine,An incense with a tricky aroma used for crafting Cologne and Purifying Scents.,,
-787,![](./Items/Medicine - Luck Incense.png) Luck Incense,Medicine,An incense with a luxurious scent used for crafting Cologne and Purifying Scents.,,
-788,![](./Items/Medicine - Odd Incense.png) Odd Incense,Medicine,A weird; but soothing incense used for crafting Cologne and Purifying Scents.,,
-789,![](./Items/Medicine - Rock Incense.png) Rock Incense,Medicine,A heavy incense used for crafting Cologne and Purifying Scents.,,
-790,![](./Items/Medicine - Wave Incense.png) Wave Incense,Medicine,A marine scented incense used for crafting Cologne and Purifying Scents.,,
-791,![](./Items/Medicine - Rose Incense.png) Rose Incense,Medicine,A flowery incense used for crafting Cologne and Purifying Scents.,,
-792,![](./Items/Medicine - Pure Incense.png) Pure Incense,Medicine,A vanilla; clean smelling incense used for crafting Cologne and Purifying Scents.,,
-793,![](./Items/Medicine - Cologne.png) Cologne,Medicine,Used to turn Incenses into Purifying Scents.,,Luminous Water + Apple + Any Incense
 1029,![](./Items/Medicine - Energy Powder.png) Energy Powder,Medicine,A very bitter medicinal powder. When consumed; it restores 100 HP; but lowers Connection by 1 and causes the Discord status condition.,,
 1030,![](./Items/Medicine - Energy Root.png) Energy Root,Medicine,An extremely bitter medicinal root. When consumed; it restores 300 HP; but lowers Connection by 1.,,
 1031,![](./Items/Medicine - Heal Powder.png) Heal Powder,Medicine,A scandalously bitter medicinal powder. It fully heals all status conditions when consumed; but lowers Connection by 1.,,
@@ -1054,6 +1054,7 @@ ID,Name,Category,Description,Value,Recipe
 1053,![](./Items/Medicine - Repel.png) Repel,Medicine,A powerful repellant that gives wild Pokemon that have a lower level than the leader the Terrified status condition for 100 turns.,,
 1054,![](./Items/Medicine - Super Repel.png) Super Repel,Medicine,A powerful repellant that gives wild Pokemon that have a lower level than the leader the Terrified status condition for 200 turns.,,
 1055,![](./Items/Medicine - Max Repel.png) Max Repel,Medicine,A powerful repellant that gives wild Pokemon that have a lower level than the leader the Terrified status condition for 300 turns.,,
+1056,![](./Items/Tool - Ability Capsule.png) Ability Capsule,Tool,A capsule that allows a Pokémon to switch abilities while in a Dungeon.,800,
 1057,![](./Items/Medicine - Joy Scent.png) Joy Scent,Medicine,A soothing cologne that can be used to massage a Shadow Pokemon and restore their heart gauge by 10.,,Incense * 1 + Cologne + Heart Potion
 1058,![](./Items/Medicine - Excite Scent.png) Excite Scent,Medicine,A soothing cologne that can be used to massage a Shadow Pokemon and restore their heart gauge by 100.,,Incense * 3 + Cologne + Heart Potion
 1059,![](./Items/Medicine - Vivid Scent.png) Vivid Scent,Medicine,A soothing cologne that can be used to massage a Shadow Pokemon and restore their heart gauge by 1000!,,Incense * 10 + Cologne + Heart Potion
@@ -1316,7 +1317,6 @@ ID,Name,Category,Description,Value,Recipe
 1316,![](./Items/Tile - Green Door.png) Green Door,Tile,A massive green door with a lock. Whoever built it wanted to make it very obvious that it's green...,,
 1317,![](./Items/Tile - Red Door.png) Red Door,Tile,A massive red door with a lock. Whoever built it wanted to make it very obvious that it's red...,,
 1318,![](./Items/Tile - Yellow Door.png) Yellow Door,Tile,A massive yellow door with a lock. Whoever built it wanted to make it very obvious that it's yellow...,,
-1056,![](./Items/Tool - Ability Capsule.png) Ability Capsule,Tool,A capsule that allows a Pokémon to switch abilities while in a Dungeon.,800,
 1319,![](./Items/Tool - Growth Mulch.png) Growth Mulch,Tool,Makes growth time of a Berry plant 75% of usual; but causes soil to dry out 50% faster.,,
 1320,![](./Items/Tool - Damp Mulch.png) Damp Mulch,Tool,Makes soil dry out 50% slower; but causes growth time of a Berry plant to be 150% of usual.,,
 1321,![](./Items/Tool - Stable Mulch.png) Stable Mulch,Tool,Makes Berries stay on plant for 150% of usual time before dropping off.,,
