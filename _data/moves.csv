@@ -730,110 +730,123 @@ ID,Gen,Name,Type,AC (MD),AC,PW,PP,PR,Charge,Recoil,Power,Resist,Description,Old 
 729,7,Point Blank,Dark,100,100,110,10,3,,,Attack,Defense,"The user suddenly appears in front of the foe to strike, causing them to flinch. It fails on targets directly in front, and deactivates the user's abilities for a turn.",,,,,,
 730,7,Dragon Fury,Dragon,100,100,200,5,0,1,,S. Attack,S. Defense,"The user charges two orbs of pure energy together on the first turn, then unleashes a devastating red beam on the next. This move is supereffective on Fairy types.",,,,,,
 731,F,Absolute Zero,Ice,,,150,,,,,Attack,Defense,Uses foe's SD; always Freezes,,,,,,
-732,F,Bogsuu,Dragon,,,300,,,,,Attack,Defense,Fails if teammates haven't been hit before this move,,,,,,
-733,F,Boring!,Psychic,,,,,,,,,,Immune to damage; copies foe's move with 4X damage ,,,,,,
-734,F,Burnout,Fire,,,200,,,,,S. Attack,S. Defense,Burns user; foes; and even teammates,,,,,,
-735,F,Cell Fusion,Dragon,,,,,,,,,,Heals 100% HP and all status conditions,,,,,,
-736,F,Defibrillation,Electric,,,,,,,,,,Revives all teammates with 1 HP.,,,,,,
-737,F,Dicepocalypse,Normal,,,,,,,,,,Uses random Finisher,,,,,,
-738,F,Dreamland Express,Fighting Bug,,,50,,,,,Attack,Defense,Hits 3 times; causes sleep,,,,,,
-739,F,Empyrean ,Normal,,,,,,,,,,All damage to team and foes is nullified for 5 turns,,,,,,
-740,F,Eternal Obscurity,Ghost,,,200,,,,,S. Attack,S. Defense,Causes Insane,,,,,,
-741,F,Fate Defiance,Dragon,,,,,,,,,,Reverses time up to 5 turns,,,,,,
-742,F,Frozen Blood,Ice Ghost,,,,,,,,,,50% OHKO chance; fails if foe is higher level,,,,,,
-743,F,Galactic Damnation,Ghost,,,,,,,,,,If user is hit by any move from anyone; so is the target,,,,,,
-744,F,Gemstone Smash,Fairy,,,300,,,,,Attack,Defense,Turns off Megaevolution,,,,,,
-745,F,Good Night,Normal,,,,,,,,,,Causes Sleep to all foes,,,,,,
-746,F,Draco Geyser,Water Dragon,,,200,,,,,S. Attack,S. Defense,10% Burn chance,,,,,,
-747,F,For Answer,Dragon,,,,,,,,,,Charges 3 turns; +6 All Stats,,,,,,
-748,F,Gigabar Pressure,Psychic,,,,,,,,,,Blocks all foe's moves; items; and PP restoration,,,,,,
-749,F,Gravity Curvature,Dragon,,,150,,,,,S. Attack,S. Defense,-3 SP to all foes,,,,,,
-750,F,Great Pillar Smash,Fighting,,,500,,,,3,Attack,Defense,3 turn recharge,,,,,,
-751,F,Heartbound,Fairy,,,,,,,,,,"Gives the user and a close connection the Heartbound status, but only if they're next to eachother",,,,,,
-752,F,Hishou Senpuu Ken,Fighting,,,50,,,,,Attack,Defense,Hits 5 times; foe flies 1 turn; 50% recoil if it misses,,,,,,
-753,F,Life Whisper,Normal,,,,,,,,,,Humans and Humans turned Pokemon cannot faint for 5 turns.,,,,,,
-754,F,Light Beacon,Electric,,,,,,,,,,+1 Priority; all foes's moves target the user; immune to all moves,,,,,,
-755,F,Lunar Eclipse,Psychic,,,,,,,,,,Requires Solar Eclipse in same turn; Heals 50% HP per turn,,,,,,
-756,F,Miracle,Fairy,,,,,,,,,,Fully revives a fainted ally.,,,,,,
-757,F,Morte,Dark,,,,,,,,,,0.5X Max HP to all foes,,,,,,
-758,F,Muon Kick,Fighting Electric,,,300,,,,,Attack,Defense,Fails if user is hit,,,,,,
-759,F,Nobiken,Fire,,,,,,,,Attack,Defense,1 turn charge; 50% OHKO chance; fails if foe is higher level,,,,,,
-760,F,One For All,Fighting,,,,,,,,,,Doubles power of moves with Sword in the name,,,,,,
-761,F,Orbital Cannon,Steel,,,200,,,,,S. Attack,S. Defense,Flies up 1 turn; never misses,,,,,,
-762,F,Overclocking,Electric,,,,,,,,S. Attack,S. Defense,1 turn charge; stops time for 10 turns. Paralyses user at the end.,,,,,,
-763,F,Phoenix Shine,Fire,,,,,,,,,,Requires War Haze; fully revives user if fainted,,,,,,
-764,F,Radiant Solar Flare,Grass Fire,,,400,,,,,S. Attack,S. Defense,1 turn charge; team is immune to status conditions for 5 turns,,,,,,
-765,F,Ragnarok,Psychic,,,300,,,,,S. Attack,S. Defense,1 turn charge; causes Confusion.,,,,,,
-766,F,Rending Fists,Fighting Ghost,,,33,,,,,Attack,Defense,Hits ? times; causes Insane,,,,,,
-767,F,Rising Sawblade Kick,Fighting,,,70,,,,,Attack,Defense,Hits 3 to 5 times; turns off Megaevolution,,,,,,
-768,F,Rockstar,Electric Fire,,,,,,,,,,+3 to all stats if a sound or wave move is used the same turn.,,,,,,
-769,F,Scorching Howl,Fire,,,200,,,,,S. Attack,S. Defense,1 turn charge; lasts 5 turns,,,,,,
-770,F,Shin Senken,Normal,,,,,,,,,,10 turn countdown; OHKO's all foes,,,,,,
-771,F,Shocking Roar,Electric,,,200,,,,,Attack,Defense,1 turn charge; lasts 5 turns,,,,,,
-772,F,Skull Sledgehammer,Steel,,,300,,,,,Attack,Defense,-2 Priority; causes Confusion,,,,,,
-773,F,Solar Eclipse,Psychic,,,,,,,,,,Requires Lunar Eclipse in same turn; Heals 50% HP per turn,,,,,,
-774,F,Stellar Bang,Normal,,,500,,,,,S. Attack,S. Defense,Requires Stellar Chill on the same turn; fails if one stat is still lowered.,,,,,,
-775,F,Stellar Chill,Normal,,,,,,,,,,"Requires Stellar Bang on the same turn; +6 to all stats of Stellar Bang user, but only for 1 turn.",,,,,,
-776,F,Stronghold,Water,,,,,,,,,,3 turn charge; +6 all stats; immune to type effectiveness,,,,,,
-778,F,Stun Grenade,Electric,,,100,,,,,S. Attack,S. Defense,Causes Paralysis and Confusion to all foes,,,,,,
-779,F,Taiyouken,Grass,,,,,,,,Attack,Defense,1 turn charge; 50% OHKO chance; fails if foe is higher level,,,,,,
-780,F,Thor Axe,Electric Steel,,,200,,,,,Attack,Defense,2X damage on digging foes,,,,,,
-781,F,Thunderous Wave,Electric,,,50,,,,,S. Attack,S. Defense,"OHKO's Water types and diving foes, fails if foe is higher level",,,,,,
-782,F,Time's Up,Ghost,,,300,,,,,Attack,Defense,33% Recoil,,,,,,
-783,F,Timeline Shift,Psychic,,,,,,,,,,Randomizes everyone's status,,,,,,
-784,F,Torrential Flood,Water Electric Ice,,,400,,,,,S. Attack,S. Defense,1 turn charge; three types at once,,,,,,
-785,F,Trinity,???,,,,,,,,,,"The user releases a near infinite amount of pure, neutral energy in the field. The entire floor is reset, including all boosts, statuses, fields, weathers, barriers, substitutes, and terrains.",,,,,,
-786,F,Tsar Bomba,Normal,,,999,,,,,S. Attack,S. Defense,User faints,,,,,,
-787,F,Ultimatum Rush ,Fighting Steel,,,,,,,,,,Does damage equal to user's Max HP; user faints,,,,,,
-788,F,Vita,Fairy,,,,,,,,,,2X Max HP to all teammates,,,,,,
-789,F,Volcanic Storm,Fire Ground Rock,,,400,,,,,Attack,Defense,1 turn charge; three types at once,,,,,,
-790,F,Whale Darkness,Water,,,,,,,,,,Requires War Mist; removes and blocks all healing; reviving; and buffs,,,,,,
-791,F,Whirlwind Typhoon,???,,,200,,,,,???,???,Type change from weather and field; coin toss between AT and SA,,,,,,
-792,F,Windswept Mist,Psychic Poison,,,,,,,,,,Causes Sleep and Insane; never misses,,,,,,
-793,F,Yamidakunai,Dark Steel,,,150,,,,,Attack,Defense,+3 Priority,,,,,,
-794,F,YooomTAH!,Normal Fairy,,,200,,,,,S. Attack,S. Defense,2X Damage to sleeping foes ,,,,,,
-795,F,Zantetsuken,Water,,,,,,,,Attack,Defense,1 turn charge; 50% OHKO chance; fails if foe is higher level,,,,,,
-796,F,Zettahertz Missile,Electric,,,500,,,,,Attack,Defense,1 turn charge; Causes Paralysis to user,,,,,,
-797,F,Zip Up,Ghost,,,,,,,,,,Traps foe for 7 turns,,,,,,
-798,Z,Breakneck Blitz,Normal,-1,,???,1,0,,,???,???,"The user builds up its momentum using its Z-Power and crashes into the target at full speed. The power varies, depending on the original move.",The user builds up its momentum using its Z-Power and crashes into the target at full speed. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Breakneck Blitz,,,1
-799,Z,All Out Pummeling,Fighting,-1,,???,1,0,,,???,???,"The user rams an energy orb created by its Z-Power into the target with full force. The power varies, depending on the original move.",The user rams an energy orb created by its Z-Power into the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",All-Out Pummeling,,,1
-800,Z,Supersonic Skystrike,Flying,-1,,???,1,0,,,???,???,"The user soars up with its Z-Power and plummets toward the target at full speed. The power varies, depending on the original move.",The user soars up with its Z-Power and plummets toward the target at full speed. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Supersonic Skystrike,,,1
-801,Z,Acid Downpour,Poison,-1,,???,1,0,,,???,???,"The user creates a poisonous swamp using its Z-Power and sinks the target into it at full force. The power varies, depending on the original move.",The user creates a poisonous swamp using its Z-Power and sinks the target into it at full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Acid Downpour,,,1
-802,Z,Tectonic Rage,Ground,-1,,???,1,0,,,???,???,"The user burrows deep into the ground and slams into the target with the full force of its Z-Power. The power varies, depending on the original move.",The user burrows deep into the ground and slams into the target with the full force of its Z-Power. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Tectonic Rage,,,1
-803,Z,Continental Crush,Rock,-1,,???,1,0,,,???,???,"The user summons a huge rock mountain using its Z-Power and drops it onto the target with full force. The power varies, depending on the original move.",The user summons a huge rock mountain using its Z-Power and drops it onto the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Continental Crush,,,1
-804,Z,Savage Spin Out,Bug,-1,,???,1,0,,,???,???,"The user binds the target with full force with threads of silk that the user spits using its Z-Power. The power varies, depending on the original move.",The user binds the target with full force with threads of silk that the user spits using its Z-Power. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Savage Spin-Out,,,1
-805,Z,Never Ending Nightmare,Ghost,-1,,???,1,0,,,???,???,"Deep-seated grudges summoned by the user's Z-Power trap the target. The power varies, depending on the original move.",Deep-seated grudges summoned by the user’s Z-Power trap the target. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Never-Ending Nightmare,,,1
-806,Z,Corkscrew Crash,Steel,-1,,???,1,0,,,???,???,"The user spins very fast and rams into the target with the full force of its Z-Power. The power varies, depending on the original move.",The user spins very fast and rams into the target with the full force of its Z-Power. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Corkscrew Crash,,,1
-807,Z,Inferno Overdrive,Fire,-1,,???,1,0,,,???,???,The user breathes a stream of intense fire toward the target with the full force of its Z-Power. The power varies depending on the original move.,The user breathes a stream of intense fire toward the target with the full force of its Z-Power. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Inferno Overdrive,,,1
-808,Z,Hydro Vortex,Water,-1,,???,1,0,,,???,???,"The user creates a huge whirling current using its Z-Power to swallow the target with full force. The power varies, depending on the original move.",The user creates a huge whirling current using its Z-Power to swallow the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Hydro Vortex,,,1
-809,Z,Bloom Doom,Grass,-1,,???,1,0,,,???,???,"The user collects energy from plants using its Z-Power and attacks the target with full force. The power varies, depending on the original move.",The user collects energy from plants using its Z-Power and attacks the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Bloom Doom,,,1
-810,Z,Gigavolt Havoc,Electric,-1,,???,1,0,,,???,???,"The user hits the target with a powerful electric current collected by its Z-Power. The power varies, depending on the original move.",The user hits the target with a powerful electric current collected by its Z-Power. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Gigavolt Havoc,,,1
-811,Z,Shattered Psyche,Psychic,-1,,???,1,0,,,???,???,"The user controls the target with its Z-Power and hurts the target with full force. The power varies, depending on the original move.",The user controls the target with its Z-Power and hurts the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Shattered Psyche,,,1
-812,Z,Subzero Slammer,Ice,-1,,???,1,0,,,???,???,"The user dramatically drops the temperature using its Z-Power and freezes the target with full force. The power varies, depending on the original move.",The user dramatically drops the temperature using its Z-Power and freezes the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Subzero Slammer,,,1
-813,Z,Devastating Drake,Dragon,-1,,???,1,0,,,???,???,"The user materializes its aura using its Z-Power and attacks the target with full force. The power varies, depending on the original move.",The user materializes its aura using its Z-Power and attacks the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Devastating Drake,,,1
-814,Z,Black Hole Eclipse,Dark,-1,,???,1,0,,,???,???,"The user gathers dark energy using its Z-Power and sucks the target into it. The power varies, depending on the original move.",The user gathers dark energy using its Z-Power and sucks the target into it. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Black Hole Eclipse,,,1
-815,Z,Twinkle Tackle,Fairy,-1,,???,1,0,,,???,???,"The user creates a very charming space using its Z-Power and totally toys with the target. The power varies, depending on the original move.",The user creates a very charming space using its Z-Power and totally toys with the target. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Twinkle Tackle,,,1
-816,Z,Catastropika,Electric,-1,,210,1,0,,,Attack,Defense,"The user, Pikachu, surrounds itself with the maximum amount of electricity using its Z-Power and pounces on its target with full force.",The user Pikachu surrounds itself with the maximum amount of electricity using its Z-Power and pounces on its target with full force.,"One other Pokémon on the field, selected by the trainer.",Catastropika,,,1
-817,Z,Sinister Arrow Raid,Ghost,-1,,180,1,0,,,Attack,Defense,"The user, Decidueye, creates countless arrows using its Z-Power and shoots the target with full force.",The user Decidueye creates countless arrows using its Z-Power and shoots the target with full force.,"One other Pokémon on the field, selected by the trainer.",Sinister Arrow Raid,,,1
-818,Z,Malicious Moonsault,Dark,-1,,180,1,0,,,Attack,Defense,"The user, Incineroar, strengthens its body using its Z-Power and crashes into the target with full force.",The user Incineroar strengthens its body using its Z-Power and crashes into the target with full force.,"One other Pokémon on the field, selected by the trainer.",Malicious Moonsault,,,1
-819,Z,Oceanic Operetta,Water,-1,,195,1,0,,,S. Attack,S. Defense,"The user, Primarina, summons a massive amount of water using its Z-Power and attacks the target with full force.",The user Primarina summons a massive amount of  water using its Z-Power and attacks the target with  full force.,"One other Pokémon on the field, selected by the trainer.",Oceanic Operetta,,,1
-820,Z,Guardian of Alola,Fairy,-1,,,1,0,,,S. Attack,S. Defense,"The user, the Land Spirit Pokémon, obtains Alola's energy using its Z-Power and attacks the target with full force. This reduces the target's HP greatly.",The user the Land Spirit Pokémon obtains Alola’s energy using its Z-Power and attacks the target with full force. This reduces the target’s HP greatly.,"One other Pokémon on the field, selected by the trainer.",Guardian of Alola,,,413
-821,Z,Soul Stealing 7 Star Strike,Ghost,-1,,195,1,0,,,Attack,Defense,"After obtaining Z-Power, the user, Marshadow, punches and kicks the target consecutively with full force.",After obtaining Z-Power the user Marshadow punches and kicks the target consecutively with full force.,"One other Pokémon on the field, selected by the trainer.",Soul-Stealing 7-Star Strike,,,1
-822,Z,Stoked Sparksurfer,Electric,-1,,175,1,0,,,S. Attack,S. Defense,"After obtaining Z-Power, the user, Alolan Raichu, attacks the target with full force. This move leaves the target with paralysis.",After obtaining Z-Power the user Alolan Raichu attacks the target with full force. This move leaves the target with paralysis.,"One other Pokémon on the field, selected by the trainer.",Stoked Sparksurfer,,100,7
-823,Z,Pulverizing Pancake,Normal,-1,,210,1,0,,,Attack,Defense,"Z-Power brings out the true capabilities of the user, Snorlax. The Pokémon moves its enormous body energetically and attacks the target with full force.",Z-Power brings out the true capabilities of the user Snorlax. The Pokémon moves its enormous body energetically and attacks the target with full force.,"One other Pokémon on the field, selected by the trainer.",Pulverizing Pancake,,,1
-824,Z,Extreme Evoboost,Normal,-1,,,1,0,,,None,None,"After obtaining Z-Power, the user, Eevee, gets energy from its evolved friends and boosts its stats sharply.",After obtaining Z-Power the user Eevee gets energy from its evolved friends and boosts its stats sharply.,The user.,Extreme Evoboost,,100,414
-825,Z,Genesis Supernova,Psychic,-1,,185,1,0,,,S. Attack,S. Defense,"After obtaining Z-Power, the user, Mew, attacks the target with full force. The terrain will be charged with psychic energy.",After obtaining Z-Power the user Mew attacks the target with full force. The terrain will be charged with psychic energy.,"One other Pokémon on the field, selected by the trainer.",Genesis Supernova,,,415
-826,Z,10'000'000 Volt Thunderbolt,Electric,-1,,195,1,0,,,S. Attack,S. Defense,"The user, Pikachu wearing a cap, powers up a jolt of electricity using its Z-Power and unleashes it. Critical hits land more easily.",The user Pikachu wearing a cap powers up a jolt of electricity using its Z-Power and unleashes it. Critical hits land more easily.,"One other Pokémon on the field, selected by the trainer.","10,000,000 Volt Thunderbolt",,,1
-827,Z,Searing Sunraze Smash,Steel,-1,,200,1,0,,,Attack,Defense,"After obtaining Z-Power, the user, Solgaleo, attacks the target with full force. This move can ignore the effect of the target's Ability.",After obtaining Z-Power the user Solgaleo attacks the target with full force. This move can ignore the effect of the target’s Ability.,"One other Pokémon on the field, selected by the trainer.",Searing Sunraze Smash,,,411
-828,Z,Menacing Moonraze Maelstrom,Ghost,-1,,200,1,0,,,S. Attack,S. Defense,"After obtaining Z-Power, the user, Lunala, attacks the target with full force. This move can ignore the effect of the target's Ability.",After obtaining Z-Power the user Lunala attacks the target with full force. This move can ignore the effect of the target’s Ability.,"One other Pokémon on the field, selected by the trainer.",Menacing Moonraze Maelstrom,,,411
-829,Z,Let’s Snuggle Forever,Fairy,-1,,190,1,0,,,Attack,Defense,"After obtaining Z-Power, the user, Mimikyu, punches the target with full force.",After obtaining Z-Power the user Mimikyu punches the target with full force.,"One other Pokémon on the field, selected by the trainer.",Let's Snuggle Forever,,,417
-830,Z,Splintered Stormshards,Rock,-1,,190,1,0,,,Attack,Defense,"After obtaining Z-Power, the user, Lycanroc, attacks the target with full force. This move negates the effect on the battlefield.",After obtaining Z-Power the user Lycanroc attacks the target with full force. This move negates the effect on the battlefield.,"One other Pokémon on the field, selected by the trainer.",Splintered Stormshards,,,418
-831,Z,Clangorous Soulblaze,Dragon,-1,,185,1,0,,,S. Attack,S. Defense,"After obtaining Z-Power, the user, Kommo-o, attacks the opposing Pokémon with full force. This move boosts the user's stats.",After obtaining Z-Power the user Kommo-o attacks the opposing Pokémon with full force. This move boosts the user’s stats.,All opposing Pokémon.,Clangorous Soulblaze,,100,419
-832,Z,Light That Burns the Sky,Psychic,-1,,200,1,0,,,S. Attack,S. Defense,"This attack inflicts Attack or Sp. Atk damage— whichever stat is higher for the user, Necrozma. This move ignores the target's Ability.",This attack inflicts Attack or Sp. Atk damage— whichever stat is higher for the user Necrozma.  This move ignores the target’s Ability.,"One other Pokémon on the field, selected by the trainer.",Light That Burns the Sky,,,416
-833,Z,Ethereal Helix Storm,,,,,,,,,,,,,,Ethereal Helix Storm,,,
-834,Z,Shining Shooting Star,,,,,,,,,,,,,,Shining Shooting Star,,,
-835,Z,Buster Sword,,,,,,,,,,,,,,Buster Sword,,,
-836,Z,Ancestral Sandsong,,,,,,,,,,,,,,Ancestral Sandsong,,,
-837,Z,Light Of Shinto,,,,,,,,,,,,,,Light Of Shinto,,,
-838,Z,Shattering Deception,,,,,,,,,,,,,,Shattering Deception,,,
-839,Z,Divine Retribution,,,,,,,,,,,,,,Divine Retribution,,,
+732,F,Astral Shift,,,,,,,,,,,Separates body and spirit; only body can take damage; only spirit can inflict damage.,,,,,,
+733,F,Bogsuu,Dragon,,,300,,,,,Attack,Defense,Fails if teammates haven't been hit before this move,,,,,,
+734,F,Boring!,Psychic,,,,,,,,,,Immune to damage; copies foe's move with 4X damage ,,,,,,
+735,F,Burnout,Fire,,,200,,,,,S. Attack,S. Defense,Burns user; foes; and even teammates,,,,,,
+736,F,Cell Fusion,Dragon,,,,,,,,,,Heals 100% HP and all status conditions,,,,,,
+737,F,Defibrillation,Electric,,,,,,,,,,Revives all teammates with 1 HP.,,,,,,
+738,F,Denied,,,,,,,,,,,Disables all of one foe's moves,,,,,,
+739,F,Dicepocalypse,Normal,,,,,,,,,,Uses random Finisher,,,,,,
+740,F,Dreamland Express,Fighting Bug,,,50,,,,,Attack,Defense,Hits 3 times; causes sleep,,,,,,
+741,F,Empyrean ,Normal,,,,,,,,,,All damage to team and foes is nullified for 5 turns,,,,,,
+742,F,Eternal Obscurity,Ghost,,,200,,,,,S. Attack,S. Defense,Causes Insane,,,,,,
+743,F,Equivalent Exchange,,,,,,,,,,,It allows using one item without consuming it. Leaves the user with 1 HP.,,,,,,
+744,F,Fate Defiance,Dragon,,,,,,,,,,Reverses time up to 5 turns,,,,,,
+745,F,Frozen Blood,Ice Ghost,,,,,,,,,,50% OHKO chance; fails if foe is higher level,,,,,,
+746,F,Galactic Damnation,Ghost,,,,,,,,,,If user is hit by any move from anyone; so is the target,,,,,,
+747,F,Gemstone Smash,Fairy,,,300,,,,,Attack,Defense,Turns off Megaevolution,,,,,,
+748,F,Good Night,Normal,,,,,,,,,,Causes Sleep to all foes,,,,,,
+749,F,Draco Geyser,Water Dragon,,,200,,,,,S. Attack,S. Defense,10% Burn chance,,,,,,
+750,F,For Answer,Dragon,,,,,,,,,,Charges 3 turns; +6 All Stats,,,,,,
+751,F,Gigabar Pressure,Psychic,,,,,,,,,,Blocks all foe's moves; items; and PP restoration,,,,,,
+752,F,Gravity Curvature,Dragon,,,150,,,,,S. Attack,S. Defense,-3 SP to all foes,,,,,,
+753,F,Great Pillar Smash,Fighting,,,500,,,,3,Attack,Defense,3 turn recharge,,,,,,
+754,F,Heartbound,Fairy,,,,,,,,,,"Gives the user and a close connection the Heartbound status, but only if they're next to eachother",,,,,,
+755,F,Hishou Senpuu Ken,Fighting,,,50,,,,,Attack,Defense,Hits 5 times; foe flies 1 turn; 50% recoil if it misses,,,,,,
+756,F,Life Whisper,Normal,,,,,,,,,,Humans and Humans turned Pokemon cannot faint for 5 turns.,,,,,,
+757,F,Light Beacon,Electric,,,,,,,,,,+1 Priority; all foes's moves target the user; immune to all moves,,,,,,
+758,F,Lunar Eclipse,Psychic,,,,,,,,,,Requires Solar Eclipse in same turn; Heals 50% HP per turn,,,,,,
+759,F,Machine Learning,,,,,,,,,,,An advanced AI will control the user's body for 5 turns. What in the world...?,,,,,,
+760,F,Miracle,Fairy,,,,,,,,,,Fully revives a fainted ally.,,,,,,
+761,F,Morte,Dark,,,,,,,,,,0.5X Max HP to all foes,,,,,,
+762,F,Muon Kick,Fighting Electric,,,300,,,,,Attack,Defense,Fails if user is hit,,,,,,
+763,F,Nobiken,Fire,,,,,,,,Attack,Defense,1 turn charge; 50% OHKO chance; fails if foe is higher level,,,,,,
+764,F,One For All,Fighting,,,,,,,,,,Doubles power of moves with Sword in the name,,,,,,
+765,F,Orbital Cannon,Steel,,,200,,,,,S. Attack,S. Defense,Flies up 1 turn; never misses,,,,,,
+766,F,Overclocking,Electric,,,,,,,,S. Attack,S. Defense,1 turn charge; stops time for 10 turns. Paralyses user at the end.,,,,,,
+767,F,Phoenix Shine,Fire,,,,,,,,,,Requires War Haze; fully revives user if fainted,,,,,,
+768,F,Radiant Solar Flare,Grass Fire,,,400,,,,,S. Attack,S. Defense,1 turn charge; team is immune to status conditions for 5 turns,,,,,,
+769,F,Ragnarok,Psychic,,,300,,,,,S. Attack,S. Defense,1 turn charge; causes Confusion.,,,,,,
+770,F,Reality Bending,,,,,,,,,,,"Randomizes the Accuracy and Evasion of all Pokemon in the room, including teammates.",,,,,,
+771,F,Rending Fists,Fighting Ghost,,,33,,,,,Attack,Defense,Hits ? times; causes Insane,,,,,,
+772,F,Rising Sawblade Kick,Fighting,,,70,,,,,Attack,Defense,Hits 3 to 5 times; turns off Megaevolution,,,,,,
+773,F,Rockstar,Electric Fire,,,,,,,,,,+3 to all stats if a sound or wave move is used the same turn.,,,,,,
+774,F,Scorching Howl,Fire,,,200,,,,,S. Attack,S. Defense,1 turn charge; lasts 5 turns,,,,,,
+775,F,Shin Senken,Normal,,,,,,,,,,10 turn countdown; OHKO's all foes,,,,,,
+776,F,Shocking Roar,Electric,,,200,,,,,Attack,Defense,1 turn charge; lasts 5 turns,,,,,,
+777,F,Skull Sledgehammer,Steel,,,300,,,,,Attack,Defense,-2 Priority; causes Confusion,,,,,,
+778,F,Solar Eclipse,Psychic,,,,,,,,,,Requires Lunar Eclipse in same turn; Heals 50% HP per turn,,,,,,
+779,F,Stellar Bang,Normal,,,500,,,,,S. Attack,S. Defense,Requires Stellar Chill on the same turn; fails if one stat is still lowered.,,,,,,
+780,F,Stellar Chill,Normal,,,,,,,,,,"Requires Stellar Bang on the same turn; +6 to all stats of Stellar Bang user, but only for 1 turn.",,,,,,
+781,F,Stronghold,Water,,,,,,,,,,3 turn charge; +6 all stats; immune to type effectiveness,,,,,,
+782,F,Stun Grenade,Electric,,,100,,,,,S. Attack,S. Defense,Causes Paralysis and Confusion to all foes,,,,,,
+783,F,Taiyouken,Grass,,,,,,,,Attack,Defense,1 turn charge; 50% OHKO chance; fails if foe is higher level,,,,,,
+784,F,Thor Axe,Electric Steel,,,200,,,,,Attack,Defense,2X damage on digging foes,,,,,,
+785,F,Thunderous Wave,Electric,,,50,,,,,S. Attack,S. Defense,"OHKO's Water types and diving foes, fails if foe is higher level",,,,,,
+786,F,Time's Up,Ghost,,,300,,,,,Attack,Defense,33% Recoil,,,,,,
+787,F,Timeline Shift,Psychic,,,,,,,,,,Randomizes everyone's status,,,,,,
+788,F,Torrential Flood,Water Electric Ice,,,400,,,,,S. Attack,S. Defense,1 turn charge; three types at once,,,,,,
+789,F,Trinity,???,,,,,,,,,,"The user releases a near infinite amount of pure, neutral energy in the field. The entire floor is reset, including all boosts, statuses, fields, weathers, barriers, substitutes, and terrains.",,,,,,
+790,F,Tsar Bomba,Normal,,,999,,,,,S. Attack,S. Defense,User faints,,,,,,
+791,F,Ultimatum Rush ,Fighting Steel,,,,,,,,,,Does damage equal to user's Max HP; user faints,,,,,,
+792,F,Vita,Fairy,,,,,,,,,,2X Max HP to all teammates,,,,,,
+793,F,Volcanic Storm,Fire Ground Rock,,,400,,,,,Attack,Defense,1 turn charge; three types at once,,,,,,
+794,F,Whale Darkness,Water,,,,,,,,,,Requires War Mist; removes and blocks all healing; reviving; and buffs,,,,,,
+795,F,Whirlwind Typhoon,???,,,200,,,,,???,???,Type change from weather and field; coin toss between AT and SA,,,,,,
+796,F,Windswept Mist,Psychic Poison,,,,,,,,,,Causes Sleep and Insane; never misses,,,,,,
+797,F,Yamidakunai,Dark Steel,,,150,,,,,Attack,Defense,+3 Priority,,,,,,
+798,F,YooomTAH!,Normal Fairy,,,200,,,,,S. Attack,S. Defense,2X Damage to sleeping foes ,,,,,,
+799,F,Zantetsuken,Water,,,,,,,,Attack,Defense,1 turn charge; 50% OHKO chance; fails if foe is higher level,,,,,,
+800,F,Zettahertz Missile,Electric,,,500,,,,,Attack,Defense,1 turn charge; Causes Paralysis to user,,,,,,
+801,F,Zip Up,Ghost,,,,,,,,,,Traps foe for 7 turns,,,,,,
+802,,Carbon Gene,Shadow,,,,,,,,,,Can be activated any time; 2X SD,,,,,,
+803,,Helium Gene,Shadow,,,,,,,,,,Can be activated any time; 2X SA,,,,,,
+804,,Hydrogen Gene,Shadow,,,,,,,,,,Can be activated any time; 2X EV,,,,,,
+805,,Iron Gene,Shadow,,,,,,,,,,Can be activated any time; 2X DF,,,,,,
+806,,Neon Gene,Shadow,,,,,,,,,,Can be activated any time; 2X SP,,,,,,
+807,,Nitrogen Gene,Shadow,,,,,,,,,,Can be activated any time; 2X AC,,,,,,
+808,,Oxygen Gene,Shadow,,,,,,,,,,Can be activated any time; 2X AT,,,,,,
+809,,Silicon Gene,Shadow,,,,,,,,,,Can be activated any time; 2X HP,,,,,,
+810,Z,Breakneck Blitz,Normal,-1,,???,1,0,,,???,???,"The user builds up its momentum using its Z-Power and crashes into the target at full speed. The power varies, depending on the original move.",The user builds up its momentum using its Z-Power and crashes into the target at full speed. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Breakneck Blitz,,,1
+811,Z,All Out Pummeling,Fighting,-1,,???,1,0,,,???,???,"The user rams an energy orb created by its Z-Power into the target with full force. The power varies, depending on the original move.",The user rams an energy orb created by its Z-Power into the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",All-Out Pummeling,,,1
+812,Z,Supersonic Skystrike,Flying,-1,,???,1,0,,,???,???,"The user soars up with its Z-Power and plummets toward the target at full speed. The power varies, depending on the original move.",The user soars up with its Z-Power and plummets toward the target at full speed. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Supersonic Skystrike,,,1
+813,Z,Acid Downpour,Poison,-1,,???,1,0,,,???,???,"The user creates a poisonous swamp using its Z-Power and sinks the target into it at full force. The power varies, depending on the original move.",The user creates a poisonous swamp using its Z-Power and sinks the target into it at full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Acid Downpour,,,1
+814,Z,Tectonic Rage,Ground,-1,,???,1,0,,,???,???,"The user burrows deep into the ground and slams into the target with the full force of its Z-Power. The power varies, depending on the original move.",The user burrows deep into the ground and slams into the target with the full force of its Z-Power. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Tectonic Rage,,,1
+815,Z,Continental Crush,Rock,-1,,???,1,0,,,???,???,"The user summons a huge rock mountain using its Z-Power and drops it onto the target with full force. The power varies, depending on the original move.",The user summons a huge rock mountain using its Z-Power and drops it onto the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Continental Crush,,,1
+816,Z,Savage Spin Out,Bug,-1,,???,1,0,,,???,???,"The user binds the target with full force with threads of silk that the user spits using its Z-Power. The power varies, depending on the original move.",The user binds the target with full force with threads of silk that the user spits using its Z-Power. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Savage Spin-Out,,,1
+817,Z,Never Ending Nightmare,Ghost,-1,,???,1,0,,,???,???,"Deep-seated grudges summoned by the user's Z-Power trap the target. The power varies, depending on the original move.",Deep-seated grudges summoned by the user’s Z-Power trap the target. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Never-Ending Nightmare,,,1
+818,Z,Corkscrew Crash,Steel,-1,,???,1,0,,,???,???,"The user spins very fast and rams into the target with the full force of its Z-Power. The power varies, depending on the original move.",The user spins very fast and rams into the target with the full force of its Z-Power. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Corkscrew Crash,,,1
+819,Z,Inferno Overdrive,Fire,-1,,???,1,0,,,???,???,The user breathes a stream of intense fire toward the target with the full force of its Z-Power. The power varies depending on the original move.,The user breathes a stream of intense fire toward the target with the full force of its Z-Power. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Inferno Overdrive,,,1
+820,Z,Hydro Vortex,Water,-1,,???,1,0,,,???,???,"The user creates a huge whirling current using its Z-Power to swallow the target with full force. The power varies, depending on the original move.",The user creates a huge whirling current using its Z-Power to swallow the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Hydro Vortex,,,1
+821,Z,Bloom Doom,Grass,-1,,???,1,0,,,???,???,"The user collects energy from plants using its Z-Power and attacks the target with full force. The power varies, depending on the original move.",The user collects energy from plants using its Z-Power and attacks the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Bloom Doom,,,1
+822,Z,Gigavolt Havoc,Electric,-1,,???,1,0,,,???,???,"The user hits the target with a powerful electric current collected by its Z-Power. The power varies, depending on the original move.",The user hits the target with a powerful electric current collected by its Z-Power. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Gigavolt Havoc,,,1
+823,Z,Shattered Psyche,Psychic,-1,,???,1,0,,,???,???,"The user controls the target with its Z-Power and hurts the target with full force. The power varies, depending on the original move.",The user controls the target with its Z-Power and hurts the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Shattered Psyche,,,1
+824,Z,Subzero Slammer,Ice,-1,,???,1,0,,,???,???,"The user dramatically drops the temperature using its Z-Power and freezes the target with full force. The power varies, depending on the original move.",The user dramatically drops the temperature using its Z-Power and freezes the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Subzero Slammer,,,1
+825,Z,Devastating Drake,Dragon,-1,,???,1,0,,,???,???,"The user materializes its aura using its Z-Power and attacks the target with full force. The power varies, depending on the original move.",The user materializes its aura using its Z-Power and attacks the target with full force. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Devastating Drake,,,1
+826,Z,Black Hole Eclipse,Dark,-1,,???,1,0,,,???,???,"The user gathers dark energy using its Z-Power and sucks the target into it. The power varies, depending on the original move.",The user gathers dark energy using its Z-Power and sucks the target into it. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Black Hole Eclipse,,,1
+827,Z,Twinkle Tackle,Fairy,-1,,???,1,0,,,???,???,"The user creates a very charming space using its Z-Power and totally toys with the target. The power varies, depending on the original move.",The user creates a very charming space using its Z-Power and totally toys with the target. The power varies depending on the original move.,"One other Pokémon on the field, selected by the trainer.",Twinkle Tackle,,,1
+828,Z,Catastropika,Electric,-1,,210,1,0,,,Attack,Defense,"The user, Pikachu, surrounds itself with the maximum amount of electricity using its Z-Power and pounces on its target with full force.",The user Pikachu surrounds itself with the maximum amount of electricity using its Z-Power and pounces on its target with full force.,"One other Pokémon on the field, selected by the trainer.",Catastropika,,,1
+829,Z,Sinister Arrow Raid,Ghost,-1,,180,1,0,,,Attack,Defense,"The user, Decidueye, creates countless arrows using its Z-Power and shoots the target with full force.",The user Decidueye creates countless arrows using its Z-Power and shoots the target with full force.,"One other Pokémon on the field, selected by the trainer.",Sinister Arrow Raid,,,1
+830,Z,Malicious Moonsault,Dark,-1,,180,1,0,,,Attack,Defense,"The user, Incineroar, strengthens its body using its Z-Power and crashes into the target with full force.",The user Incineroar strengthens its body using its Z-Power and crashes into the target with full force.,"One other Pokémon on the field, selected by the trainer.",Malicious Moonsault,,,1
+831,Z,Oceanic Operetta,Water,-1,,195,1,0,,,S. Attack,S. Defense,"The user, Primarina, summons a massive amount of water using its Z-Power and attacks the target with full force.",The user Primarina summons a massive amount of  water using its Z-Power and attacks the target with  full force.,"One other Pokémon on the field, selected by the trainer.",Oceanic Operetta,,,1
+832,Z,Guardian of Alola,Fairy,-1,,,1,0,,,S. Attack,S. Defense,"The user, the Land Spirit Pokémon, obtains Alola's energy using its Z-Power and attacks the target with full force. This reduces the target's HP greatly.",The user the Land Spirit Pokémon obtains Alola’s energy using its Z-Power and attacks the target with full force. This reduces the target’s HP greatly.,"One other Pokémon on the field, selected by the trainer.",Guardian of Alola,,,413
+833,Z,Soul Stealing 7 Star Strike,Ghost,-1,,195,1,0,,,Attack,Defense,"After obtaining Z-Power, the user, Marshadow, punches and kicks the target consecutively with full force.",After obtaining Z-Power the user Marshadow punches and kicks the target consecutively with full force.,"One other Pokémon on the field, selected by the trainer.",Soul-Stealing 7-Star Strike,,,1
+834,Z,Stoked Sparksurfer,Electric,-1,,175,1,0,,,S. Attack,S. Defense,"After obtaining Z-Power, the user, Alolan Raichu, attacks the target with full force. This move leaves the target with paralysis.",After obtaining Z-Power the user Alolan Raichu attacks the target with full force. This move leaves the target with paralysis.,"One other Pokémon on the field, selected by the trainer.",Stoked Sparksurfer,,100,7
+835,Z,Pulverizing Pancake,Normal,-1,,210,1,0,,,Attack,Defense,"Z-Power brings out the true capabilities of the user, Snorlax. The Pokémon moves its enormous body energetically and attacks the target with full force.",Z-Power brings out the true capabilities of the user Snorlax. The Pokémon moves its enormous body energetically and attacks the target with full force.,"One other Pokémon on the field, selected by the trainer.",Pulverizing Pancake,,,1
+836,Z,Extreme Evoboost,Normal,-1,,,1,0,,,None,None,"After obtaining Z-Power, the user, Eevee, gets energy from its evolved friends and boosts its stats sharply.",After obtaining Z-Power the user Eevee gets energy from its evolved friends and boosts its stats sharply.,The user.,Extreme Evoboost,,100,414
+837,Z,Genesis Supernova,Psychic,-1,,185,1,0,,,S. Attack,S. Defense,"After obtaining Z-Power, the user, Mew, attacks the target with full force. The terrain will be charged with psychic energy.",After obtaining Z-Power the user Mew attacks the target with full force. The terrain will be charged with psychic energy.,"One other Pokémon on the field, selected by the trainer.",Genesis Supernova,,,415
+838,Z,10'000'000 Volt Thunderbolt,Electric,-1,,195,1,0,,,S. Attack,S. Defense,"The user, Pikachu wearing a cap, powers up a jolt of electricity using its Z-Power and unleashes it. Critical hits land more easily.",The user Pikachu wearing a cap powers up a jolt of electricity using its Z-Power and unleashes it. Critical hits land more easily.,"One other Pokémon on the field, selected by the trainer.","10,000,000 Volt Thunderbolt",,,1
+839,Z,Searing Sunraze Smash,Steel,-1,,200,1,0,,,Attack,Defense,"After obtaining Z-Power, the user, Solgaleo, attacks the target with full force. This move can ignore the effect of the target's Ability.",After obtaining Z-Power the user Solgaleo attacks the target with full force. This move can ignore the effect of the target’s Ability.,"One other Pokémon on the field, selected by the trainer.",Searing Sunraze Smash,,,411
+840,Z,Menacing Moonraze Maelstrom,Ghost,-1,,200,1,0,,,S. Attack,S. Defense,"After obtaining Z-Power, the user, Lunala, attacks the target with full force. This move can ignore the effect of the target's Ability.",After obtaining Z-Power the user Lunala attacks the target with full force. This move can ignore the effect of the target’s Ability.,"One other Pokémon on the field, selected by the trainer.",Menacing Moonraze Maelstrom,,,411
+841,Z,Let’s Snuggle Forever,Fairy,-1,,190,1,0,,,Attack,Defense,"After obtaining Z-Power, the user, Mimikyu, punches the target with full force.",After obtaining Z-Power the user Mimikyu punches the target with full force.,"One other Pokémon on the field, selected by the trainer.",Let's Snuggle Forever,,,417
+842,Z,Splintered Stormshards,Rock,-1,,190,1,0,,,Attack,Defense,"After obtaining Z-Power, the user, Lycanroc, attacks the target with full force. This move negates the effect on the battlefield.",After obtaining Z-Power the user Lycanroc attacks the target with full force. This move negates the effect on the battlefield.,"One other Pokémon on the field, selected by the trainer.",Splintered Stormshards,,,418
+843,Z,Clangorous Soulblaze,Dragon,-1,,185,1,0,,,S. Attack,S. Defense,"After obtaining Z-Power, the user, Kommo-o, attacks the opposing Pokémon with full force. This move boosts the user's stats.",After obtaining Z-Power the user Kommo-o attacks the opposing Pokémon with full force. This move boosts the user’s stats.,All opposing Pokémon.,Clangorous Soulblaze,,100,419
+844,Z,Light That Burns the Sky,Psychic,-1,,200,1,0,,,S. Attack,S. Defense,"This attack inflicts Attack or Sp. Atk damage— whichever stat is higher for the user, Necrozma. This move ignores the target's Ability.",This attack inflicts Attack or Sp. Atk damage— whichever stat is higher for the user Necrozma.  This move ignores the target’s Ability.,"One other Pokémon on the field, selected by the trainer.",Light That Burns the Sky,,,416
+845,Z,Ethereal Helix Storm,,,,,,,,,,,,,,Ethereal Helix Storm,,,
+846,Z,Shining Shooting Star,,,,,,,,,,,,,,Shining Shooting Star,,,
+847,Z,Buster Sword,,,,,,,,,,,,,,Buster Sword,,,
+848,Z,Ancestral Sandsong,,,,,,,,,,,,,,Ancestral Sandsong,,,
+849,Z,Light Of Shinto,,,,,,,,,,,,,,Light Of Shinto,,,
+850,Z,Shattering Deception,,,,,,,,,,,,,,Shattering Deception,,,
+851,Z,Divine Retribution,,,,,,,,,,,,,,Divine Retribution,,,
