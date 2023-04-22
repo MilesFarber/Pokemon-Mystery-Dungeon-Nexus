@@ -339,3 +339,4 @@ ID,Name,Generation,Delta Exclusive,Description
 338,Regik,7,Yes,"When entering a new floor, Regik is substituted with a completely random ability."
 339,Mind Over Matter,7,Yes,Wonder tiles will heal all status conditions.
 340,Lonely Courage,7,Yes,"When the Pokemon has no nearby teammates, all it's stats are boosted by 1 stage."
+341,Heartbound,7,Yes,"Gives the user and a close connection the Heartbound status, but only if they're next to eachother"

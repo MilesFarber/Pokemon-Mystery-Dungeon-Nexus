@@ -743,7 +743,7 @@ ID,Gen,Name,Type,AC (MD),AC,PW,PP,PR,Charge,Recoil,Power,Resist,Description,Old 
 742,F,Galactic Damnation,Ghost,,,,,,,,,,If user is hit by any move from anyone; so is the target,,,,,,
 743,F,Good Night,Normal,,,,,,,,,,Causes Sleep to all foes,,,,,,
 744,F,For Answer,Dragon,,,,,,,,,,Charges 3 turns; +6 All Stats,,,,,,
-745,F,Heartbound,Fairy,,,,,,,,,,"Gives the user and a close connection the Heartbound status, but only if they're next to eachother",,,,,,
+745,F,,Fairy,,,,,,,,,,,,,,,,
 746,F,Hishou Senpuu Ken?,Fighting,,,50,,,,,Attack,Defense,Hits 5 times; foe flies 1 turn; 50% recoil if it misses,,,,,,
 747,F,Life Whisper,Normal,,,,,,,,,,Humans and Humans turned Pokemon cannot faint for 5 turns.,,,,,,
 748,F,Light Beacon,Electric,,,,,,,,,,+1 Priority; all foes's moves target the user; immune to all moves,,,,,,
