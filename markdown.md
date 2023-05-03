@@ -175,5 +175,5 @@ Animated files such as .GIF, .MP4, or .MOV, will only embed properly on Desktop 
 You can make footnotes with a caret and a number, between square brackets[^1].
 You can also use whatever name you want instead of a number.[^Name]
 
-[^1]: Add a colon (NOT semicolon) to invoke the footnote, make sure it's at the bottom of the page and at the beginning of the line.
+[^1]: Add a colon (NOT semicolon) to invoke the footnote, make sure it's at the bottom of the page and at the beginning of the line or it won't work.
 [^Name]: Although it will still display as a number with certain themes.
