@@ -721,7 +721,7 @@ ID,Gen,Name,Type,AC (MD),AC,PW,PP,PR,Charge,Recoil,Power,Resist,Description,Old 
 720,7,Photon Geyser,Psychic,100,100,100,5,0,,,S. Attack,S. Defense,The user attacks a target with a pillar of light. This move inflicts Attack or Sp. Atk damage—whichever stat is higher for the user.,The user attacks a target with a pillar of light. This move inflicts Attack or Sp. Atk damage—whichever stat is higher for the user.,"One other Pokémon on the field, selected by the trainer.",Photon Geyser,,,1
 721,7,Double Iron Bash,Steel,,100,60,5,0,,,Attack,Defense,,,"One other Pokémon on the field, selected by the trainer.",Double Iron Bash,,30,45
 722,7,One Inch Punch ,???,,,500,,,,,Attack,Defense,1 turn charge; -1 AT; SA; SP and crit chance; might miss,,,,,,
-723,7,Mesmerize ,Fairy,,,,,,,,,,-6 AT to foe; 1 turn recharge,,,,,,
+723,7,Mesmerize ,Fairy,,,,,,,,,,-3 AT and SA to foe; 1 turn recharge,,,,,,
 724,7,Phantom Hand ,Ghost,,,,,,,,,,Foe can't move the next turn,,,,,,
 725,7,Pheromone Leash ,Poison,,,,,,,,,,Causes Infatuation to all genders,,,,,,
 726,7,Stun Gun Kiai ,???,,,150,,,,,Attack,Defense,Causes paralysis; 1 turn recharge,,,,,,
