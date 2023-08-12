@@ -405,7 +405,7 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 351I,351,Castform (Snowy Form),Weather Pokémon,Common,No,Ice,,Fairy,Amorphous,Forecast,Moody,White Smoke,70,70,70,70,70,70,420,1,2,30,"1'00""",Ball,0.5,Fast,70,-10,45,147,25
 351W,351,Castform (Rainy Form),Weather Pokémon,Common,No,Water,,Fairy,Amorphous,Forecast,Moody,White Smoke,70,70,70,70,70,70,420,1,2,30,"1'00""",Ball,0.5,Fast,70,-10,45,147,25
 352,,Kecleon,Color Swap Pokémon,Rare,No,Normal,,Field,,Color Change,Adaptability,Protean,60,90,70,60,120,40,440,22,49,99,"3'03""",Upright,0.5,Slow,70,45,200,154,20
-353,,Shuppet,Puppet Pokémon,Uncommon,Special,Ghost,,Amorphous,,Insomnia,Frisk,Cursed Body,44,75,35,63,33,45,295,2,5,61,"2'00""",Ball,0.5,Very Fast,30,63,225,59,25
+353,,Shuppet,Puppet Pokémon,Uncommon,No,Ghost,,Amorphous,,Insomnia,Frisk,Cursed Body,44,75,35,63,33,45,295,2,5,61,"2'00""",Ball,0.5,Very Fast,30,63,225,59,25
 354,353,Banette,Marionette Pokémon,Uncommon,No,Ghost,,Amorphous,,Insomnia,Frisk,Cursed Body,64,115,65,83,63,65,455,13,28,109,"3'07""",Upright,0.5,Very Fast,30,-30,45,159,25
 354M,354,Banette (Mega Banette),Marionette Pokémon,Uncommon,No,Ghost,,Amorphous,,Prankster,Frisk,Cursed Body,64,165,75,93,83,75,555,13,29,119,"3'11""",Upright,0.5,Very Fast,30,-30,45,159,25
 355,,Duskull,Requiem Pokémon,Common,No,Ghost,,Amorphous,,Levitate,Cursed Body,Frisk,20,40,90,30,90,25,295,15,33,79,"2'07""",Arms,0.5,Very Fast,30,48,190,59,25
@@ -700,7 +700,7 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 604,603,Eelektross,EleFish Pokémon,Common,No,Electric,,Amorphous,,Levitate,Damp,Static,85,115,80,105,80,50,515,81,178,211,"6'11""",Fish,0.5,Very Slow,60,-70,30,232,20
 605,,Elgyem,Cerebral Pokémon,Common,No,Psychic,,Human-Like,,Telepathy,Synchronize,Analytic,55,55,55,85,55,30,335,9,20,51,"1'08""",Upright,0.5,Fast,50,70,255,67,20
 606,605,Beheeyem,Cerebral Pokémon,Common,No,Psychic,,Human-Like,,Telepathy,Synchronize,Analytic,75,75,75,125,95,40,485,35,76,99,"3'03""",Humanoid,0.5,Fast,50,-15,90,170,20
-607,,Litwick,Candle Pokémon,Common,No,Ghost,Fire,Amorphous,,Flash Fire,Flame Body,Infiltrator,50,30,55,65,55,20,275,3,7,30,"1'00""",Blob,0.5,Slow,50,48,190,55,20
+607,,Litwick,Candle Pokémon,Common,Special,Ghost,Fire,Amorphous,,Flash Fire,Flame Body,Infiltrator,50,30,55,65,55,20,275,3,7,30,"1'00""",Blob,0.5,Slow,50,48,190,55,20
 608,607,Lampent,Lamp Pokémon,Common,No,Ghost,Fire,Amorphous,,Flash Fire,Flame Body,Infiltrator,60,40,60,95,60,55,370,13,29,61,"2'00""",Arms,0.5,Slow,50,1,90,130,20
 609,608,Chandelure,Luring Pokémon,Common,No,Ghost,Fire,Amorphous,,Flash Fire,Flame Body,Infiltrator,60,55,90,145,90,80,520,34,76,99,"3'03""",Arms,0.5,Slow,40,-57,45,260,20
 610,,Axew,Tusk Pokémon,Rare,Special,Dragon,,Monster,Dragon,Rivalry,Mold Breaker,Unnerve,46,87,60,30,40,57,320,18,40,61,"2'00""",Upright,0.5,Very Slow,30,25,75,64,40
