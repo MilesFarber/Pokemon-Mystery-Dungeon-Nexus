@@ -1,201 +1,207 @@
-Team,Name,Surname,Occupation,Items,[Connections]
-Academy,Alaine,Lille,Alchemist,Crystal Sphere: Generates an Orb in exchange of HP ~ Philosopher Stone: Transmutates items ~ Wide Lens: +1 AC,None
-Academy,Alphonse,Darrel,Librarian,Fashion Case: Stores Accessories,
-Academy,Fluctus,Pennae,Fossil Researcher,Sticky Barb: Damages the holder ~ Ring Target: Holder loses type immunities and resistances ~ Choice Scarf: +1 SP; but can only use one move,Crush: Doreikun Furai
-Ampere,Kira,Taubee,Battery,Electric Seed: +1 DF in Electric Terrain,
-Ampere,Kari,Taubee,Battery,Electric Seed: +1 DF in Electric Terrain,
-Army,Phil,Maibum,Strategist,Shinai: -1 AT and SA; +1 AC and EV,None
-Army,Isaac,Frost,Sergeant,Blue Flute: Cures Sleep,
-Army,Arnold,Higgins,Swordsman,Galladite: Triggers Megaevolution ~ Persim Band: Prevents Confusion,
-Army,Bob,Abraham,Lieutenant,Bottle Caps (15): Temporarily boosts a stat depending on Species ~ Flynium Z: Turns a Flying move into Supersonic Skystrike,
-Army,Mac,Sandman,Boxer,Choice Band: +1 AT; but can only use one move,
-BCV,Golmi,Zahra,Vice Leader,Grassium Z: Turns a Grass move into Bloom Doom ~ Venusaurite: Triggers Megaevolution,
-BCV,Kona,Ginji,Leader,Charizardite X: Triggers Megaevolution ~ Charizardite Y: Triggers Megaevolution,
-Ballistic,Dimitri,Ural, Juggernaut,Aggronite: Triggers Megaevolution ~ Hard Stone: Boosts Rock moves ~ Rockium Z: Turns a Rock move into Continental Crush,
-Ballistic,Vincent,Odin,Sentinel,Expert Belt: Powers up super effective moves.,
-Ballistic,Yoroi,Ginji,Striker,Tyranitarite: Triggers Megaevolution ~ Rocky Helmet: Damages foes doing contact,
-Bold,Kaden,Frei,Hoo-Aah,Double Edge Knuckles: Fighting moves do 2X damage; but have 33% recoil,
-Bold,Long,Wei,Monk,Absorb Bulb (13): +1 SA if hit by Water Type moves ~ Luminous Moss (11): +1 SD if hit by Water Type Moves,
-Bold,Helen,Loki,Leader,Queen's Rock: Guarantees Flinching,
-Bold,Paris,Loke,Leader,King's Rock: Guarantees Flinching,
-Bold,Roman,Lesnar,Bodyguard,Weakness Policy: +2 AT and SA if holder is hit by a Super Effective move ~ Goggle Specs: Reveals hidden traps and invisible Pokemon,
-Bold,Frank,Mercer,Rifleman,Mystic Water: Boosts Water moves ~ Waterium Z: Turns a Water move into Hydro Vortex ~ Blastoisinite: Triggers Megaevolution,
-Bouken,Yonaka,Fubuki,Leader,Carubyncle: Red gem slotted in her scythe; grants eternal youth. ~ Absolite: Triggers Megaevolution ~ Wisp Pendant: Necklace crafted by Storm Fall; protects from Shadow type,Boyfriend: Averly Lamanna ~ Trainer: Niko Harmonia ~ Daughter: Kouri Fubuki ~ Friend: Hadrian Seraphim
-Bouken,Capella,Chronos,Timeline Technician,Shell Bell: All damage drains 10% HP ~ Gear Charm: Locates Time Gears and Space Gears. ~ Relic Fragment: Grants access to the Temporal Tower,
-Bouken,Altair,Chronos,Guide,Black Flute: Decreases wild encounters - Machine Case: Holds TMs; HMs; and PMs. ~ Wonder Gem: Hatches Manaphy and Phione eggs much faster,
-Bouken,Natsu,Hizashi,Scout,Sky Gift Wrapper: Creates Sky Gift Boxes; which spawn rare items; but only when gifted to a close friend ~ Gracidea Flower: Triggers Sky Forme,Friend: Vega Chronos; Lyra Chronos
-Bouken,Tsutarou,Tengoku,Evolution Researcher,Pass Orb (85): Orbs that can be converted to Pass Powers from the Entralink,Mother: Tsutami Tengoku ~ Father: Dairou Tengoku
-Bouken,Niko,Harmonia,Vice Leader,Sona Powerplant: Immune to damage during Illusion. ~ Zoroarkium Z: Turns Night Daze into Cunning Devastation,
-Brawl,Julian,Mach,Shaolin,Assault Vest: Boosts SD; but cannot use status moves ~ Substitute Scarf: First damage from wild Pokemon is capped at 25% HP,
-Brawl,Squall,Bastet,Doggo,Protective Pads: Nullifies contact debuffs ~ Steelium Z: Turns a Steel move into Corkscrew Crash,None
-Brawl,Elise,Hanley,Fighter,Charcoal: Boosts Fire moves ~ Blazikenite: Triggers Megaevolution,
-Brawl,Fergus,Lockhart,Fighter,Trinket Box: Holds Exclusive Items,
-Charm,Barbara,Limestone,Leader,Shin Guards: Fighting type moves don't recoil ~ Lopunnite: Grants Megaevolution,Friend: Onna Limestone; Puck Sora
-Charm,Pauline,Limestone,Vice Leader,Bounce Band: Bounces thrown items back to foe ~ Medicham: Triggers Megaevolution,
-Charm,Sigrid,Limestone,Vice Leader,Gardevoirite: Triggers Megaevolution ~ Mystery Part: Reveals nearby Legendaries,
-Chronos,Lyra,Chronos,Vice Leader,United Scarf: Enhanced Coalition Scarf that boosts team attacks. ~ Aura Bow: Changes color based on holder's aura; +1 AT; SA; DF; SD. ~ Treasure Bag: Allows Teams to hold more than 3 items,Husband: Vega Chronos ~ Friends: Sirius Chronos; Betelgeuse Chronos
-Chronos,Vega,Chronos,Leader,United Scarf: Enhanced Coalition Scarf that boosts team attacks. ~ Lucarionite: Triggers Megaevolution ~ Treasure Bag: Allows Teams to hold more than 3 items,Wife: Lyra Chronos ~ Friends: Sirius Chronos; Betelgeuse Chronos; Codd Branford
-Chronos,Sirius,Chronos,Officer,United Scarf: Enhanced Coalition Scarf that boosts team attacks. ~ Counterfeit Scanner: Lookalike Items glow ~ Treasure Bag: Allows Teams to hold more than 3 items,Friends: Lyra Chronos; Vega Chronos; Betelgeuse Chronos
-Chronos,Betelgeuse,Chronos,Officer,United Scarf: Enhanced Coalition Scarf that boosts team attacks. ~ Bounty Scanner: Scans Pokemon to check if they're Outlaws or Wanted ~ Treasure Bag: Allows Teams to hold more than 3 items,Friends: Lyra Chronos; Vega Chronos; Sirius Chronos
-Competitive,Kallistos,Abel,Vice Leader,Binding Band: Increases trap damage,
-Competitive,Lara,Steffen,Leader,Sharp Beak: Boosts Flying moves ~ Drag Wing: -1 AC and EV; +2 AT and SA,
-Competitive,Sebastian,Madden,Vice Leader,Red Flute: Cures Infatuation ~ Free Ribbon: Prevents trapping and binding,
-Cosmos,Peahina,Houkuu,Vice Leader,N-Solarizer: A machine to separate a Necrozma from a Solgaleo. ~ Lunalium Z: Turns Moongeist Beam into Menacing Moonraze Maelstrom ~ Moon Flute: +2 SP if held by Lunala,Brother: Lailona Houkuu ~ Friend: Cavum Nirum
-Cosmos,Cavum,Nirum,Leader,Ultranecrozium Z: Turns Photon Geyser into Light That Burns The Sky during Ultra Burst. ~ Space Globe: +1 AT and SA when held by a Legendary ~ Sparkling Stone: Powers up Z-Moves,Friends: Peahina Houkuu; Lailona Houkuu; Libidine Ludibrium; Codd Branford
-Cosmos,Lailona,Houkuu,Vice Leader,N-Lunarizer: A machine to separate a Necrozma from a Lunala. ~ Solgalium Z: Turns Sunsteel Strike into Searing Sunraze Smash ~ Sun Flute: +2 SP if held by Solgaleo,Sister: Peahina Houkuu ~ Friend: Cavum Nirum
-Darktime,Sheol,Gehenna,Owner,Choice Band: +1 AT; but can only use one move,
-Darktime,Batu,Chingis,Archivist,Glass Case: Grants Immunity to Water type,
-Darktime,Theo,Elmer,Butler,Gem Case: Holds one-time type boosting Gems ~ Light Clay: Barriers don't expire ~ Sablenite: Triggers Megaevolution,
-Decipher,Hadrian,Seraph,Megaevolution Scientist,Yukikyuu: Bracelet gifted by Yonaka Fubuki that turns off a foe Shadow going in Reverse mode. Has a Connection Orb built in.,Friend: Yonaka Fubuki
-Decipher,Henry,Navarro,Cipher Researcher,Shiny Charm: Attracts Shiny Pokemon ~ Cologne Case: Holds Purifying Scents ~ Time Flute: Purifies a Pokemon a little,None
-Decipher,Rachel,Teller,Cipher Researcher,Toxic Orb: Inflicts Badly Poisoned on holder,None
-Dimension Guard,Kongouseki,Izanami,Leader,Adamant Orb: Boosts Dragon and Steel type moves if held by a Dialga; grants Primal Reversion,Brother: Shinju Izanagi ~ Friend: Samael Amphithere
-Dimension Guard,Gelida,Tempore,Agent,Nevermelt Ice: Boosts Ice moves,
-Dimension Guard,Finnegan,Beck,Agent,Shiny Leaf: Makes Humans friendly ~ Carefree Bandana: +2 EV in sunlight ~ Wailmer Pail: Waters berries,None
-Dimension Guard,Samael,Amphithere,Leader,Griseous Orb: Boosts Dragon and Ghost type moves if held by a Giratina; grants Origin Form. ~ Black Sludge: Restores HP to Ghost types; damages others ~ Red Chain: Grants Immunity to Judgement,Friends: Shinju Izanagi; Kongouseki Izanami
-Dimension Guard,Shinju,Izanagi,Leader,Lustrous Orb: Boosts Dragon and Water type moves if held by a Palkia; grants Primal Reversion,Sister: Kongouseki Izanami ~ Friend: Samael Amphithere
-Ensei,Kigaru,Ensei,Vice Chief,Chip Bag: Holds Devices ~ Munch Band: +1 AT and SA; lowers belly quicker,
-Ensei,Akira,Shun,Chief,Ampharosite: Triggers Megaevolution ~ Connection Orb: Scans a Pokemon's connections ~ Golden Looplet: Holds Emeras,
-Ensei,Onna,Limestone,Archaeologist,Mawilite: Triggers Megaevolution,Mentor: Pauline Limestone ~ Chief: Akira Shun
-Excalibur,Lithos,Excalibur,Vice Leader,Ammo Belt: Holds Throwing Items ~ Curve Band: Can redirect thrown items in mid air ~ Lockon Specs: Throwable Items have infinite range,
-Excalibur,Noemie,Simon,Teacher,White Flute: Increases wild encounters,
-Excalibur,Selene,Excalibur,Vice Leader,Firium Z: Turns a Fire move into Inferno Overdrive ~ Enchanted Quiver: Holds Wands,
-Excalibur,Cooper,Excalibur,Leader,Dodge Scarf: Dodges thrown items ~ Smoke Ball: +2 EV while fleeing ~ Defuse Scarf: 50% chance of disabling triggered traps,
-Excalibur,Bennett,Simon,Bouncer,Choice Band: +1 AT; but can only use one move,
-Gale,Judith,Holzer,Move Teacher?,Carubyncle: Red gem slotted in her beak; grants eternal youth. ~ Botany Diorama: Holds Seeds,
-Gale,Pina,Hanraads,Uh...,Life Orb: Drains HP to power up moves. ,
-Gale,Minato,Iwai,Leader,Metal Coat: Boosts Steel moves,
-Ganden,Awan,Ganden,Enforcer,Glory Band: Enhanced Twist Band that prevents all stats from lowering. ~ Cubonium Z: Turns Bonemerang into Parent's Help ~ Rescue Toolbox: Allows Teams to hold more than 3 items,Friends: Adam Ganden; Eve Ganden
-Ganden,Adam,Ganden,Leader,Glory Band: Enhanced Twist Band that prevents all stats from lowering.  ~ Pikanium Z: Turns Volt Tackle into Catastropika ~ Rescue Toolbox: Allows Teams to hold more than 3 items,Wife: Eve Ganden ~ Friend: Awan Ganden
-Ganden,Eve,Ganden,Vice Leader,Glory Band: Enhanced Twist Band that prevents all stats from lowering. ~ Gummi Case: Holds Gummies ~ Rescue Toolbox: Allows Teams to hold more than 3 items,Husband: Adam Ganden ~ Friend: Awan Ganden
-Ganden,Tatsuya,Honda,Surveillance,Weather Band: Grants immunity to weather,
-Gatekeeper,John,Burnham,Chest Buster,Treasure Helmet: Can smash open Treasure Boxes ~ Power Herb: Skips move charging,
-Gatekeeper,Canto,Dahl,Voice Of Life,Dragon Fang: Boosts Dragon moves ~ Dragonium Z: Turns a Dragon move into Devastating Drake ~ Quick Claw: 50% chance +1 Priority,
-Gatekeeper,Ai,Nonaka,Magnagate Scientist,Entercards (14): Summon long-range dungeons from ley lines using 4 cards. ~ Psychium Z: Turns a Psychic move into Shattered Psyche,Husband: Kosuke Toriumi
-Gatekeeper,Remi,Toriumi,Magnagate Tester,Kosuke Plush: A Kosuke Plush. ~  Cover Band: 25% chance of parrying an attack to a teammate with low HP,Brother: Kosuke Toriumi
-Gatekeeper,Kosuke,Toriumi,Magnagate Scientist,Entercards (19): Summon long-range dungeons from ley lines using 4 cards. ~ Darkinium Z: Turns a Dark move into Black Hole Eclipse,Wife: Ai Nonaka ~ Sister: Remi Toriumi
-Gatekeeper,Giulio,Nimbus,Scout,Carubyncle: Red gem slotted in his belly; grants eternal youth.,
-Gatekeeper,Isabelle,Burnham,Housewife?,Air Balloon: Immunity to Ground type moves; pops if hit,
-Gearbox,Ether,Dusk,Vice Leader,Power Seed (43): Allows changing a move's type to user's Hidden Power,
-Gearbox,Megara,Hermagoras,Guardian,Lunar Wing: If held by Cresselia; Lunar Dance leaves 1 HP instead of fainting,
-Gearbox,Hades,Hermagoras,Guardian,Black Cloak: If held by Darkrai; Dark Void never misses,
-Gearbox,Swanun,Acquati,Chef,Forage Bag: Holds food ~ Portable Stand: Crafts Food anywhere,
-Gearbox,Jack,Garland,Vice Leader,Reaper Cloth: +1 EV and AC if held by Dusknoir,
-Gearbox,Lucas,Dawn,Leader,Stealth Scarf: Nearby Pokemon don't wake up ~ Sceptilite: Triggers Megaevolution,
-Glitter,Ricardo,Milos,Simulator?,Metal Powder: +1 DF and SD if held by Ditto ~ Quick Powder: +1 SP when held by Ditto,
-Glitter,Halcyon,Beri,Artist,Pink Tail: Boost Fairy moves ~ Eevium Z: Turns Last Resort into Extreme Evoboost ~ Pass Scarf: Baton Passes a move's secondary effects to a teammate,None
-Glitter,Caius,Lewin,Hair Stylist,Travel Trunk: Holds Outfits ~ Hair Dresser: Holds Trims,
-Glitter,Elton,Armada,Seashell Conservatoire Student,Nylon Guitar: 1% chance of causing Deaf. ~ Everstone: Prevents evolving ~ Eviolite: +1 DF and SD if holder can evolve,Milf: Cefca Pagliaccio
-Haruna,Matilde,Quemar,Guitarist,Iron Ball: Halves speed; heavy damage when thrown. ~ Racket Band: Immediately wakes up teammates,Crush: Dairou Tengoku ~ Friends: Nirvana Moksha; Cefca Pagliaccio; Flaros Overfield
-Haruna,Floras,Overfield,Fujisancho Vice Administrator,Roselily: A parting gift. Grants Immunity to Insane ~ Latiasite: Grants Megaevolution ~ Latiosite: Grants Megaevolution,Boyfriend: Flaros Overfield
-Haruna,Flaros,Overfield,Fujisancho Administrator,Soul Dew: Boosts Dragon and Psychic moves if held by Latias or Latios ~ Eon Flute: +2 SP if held by Latias or Latios ~ Enigma Stone: +50% HP if held by Latias or Latios,Lie: Floras Overfield ~ Trainer: Jiyu Einni ~ Friends: Matilde Quemar; Nirvana Moksha; Cefca Pagliaccio; Glacialis Vicis
-Haruna,Cefca,Pagliaccio,Seashell Conservatoire Teacher,Hair Beads: All Infatuated foes cannot recover. ~ Primarium Z: Turns Sparkling Aria into Oceanic Operetta,Non-Consensual Sex Slaves: Nirvana Moksha; Matilde Quemar; Flaros Overfield ~ Adorb Seal: Elton Armada
-Haruna,Nirvana,Moksha,Acad�mie De Nantes Student,Griseous Pendant: A vine necklace with a Griesous Orb shard as trinket; slightly boosts Dragon and Ghost type moves. ~ Soccermom Scarf: It's a scarf. ~ Big Root: Increases HP draining from moves,Friends: Matilde Quemar; Cefca Pagliaccio; Flaros Overfield
-Haruna,Tokumei,Kii,Fujisancho Vice Administrator,Bleached Battlesash: Resists OHKO's with 1HP left; recharges. ~ Whale Lamp: Boosts Water and Dragon type moves. ~ Expert Belt: +20% PW with supereffective moves.,Boyfren: Flaros Overfield
-Helix,Poly,Nucleus,Vice Geneticist,Deoxium Z: Turns Psycho Boost into Ethereal Helix Storm ~ Stamina Band: Lowers belly slower,
-Helix,Libidine,Ludibrium,Geneticist,Mewnium Z: Turns Psychic into Genesis Supernova. ~ Leftovers: Slowly restores HP. ~ White Cornet: +1 to all stats if held by Mew,Friend: Cavum Nirum; Codd Branford ~ Pupils: Myuuichi Jikken; Myuurei Jikken
-Helix,Myuuichi,Jikken,Gene Tester,Mewtwonite Y: Grants Megaevolution Y ~ Twisted Spoon: Boosts Psychic moves ~ Wisdom Crown: +1 SA,Mentor: Libidine Ludibrium ~ Brother: Myuurei Jikken
-Helix,Myuurei,Jikken,Gene Tester,Mewtwonite X: Grants Megaevolution X ~ Twisted Spoon: Boosts Psychic moves ~ Persistence Crown: +1 SD,Mentor: Libidine Ludibrium ~ Sister: Myuuichi Jikken
-Hilink,Wuji,Zettairedo,Mystery Continent Guardian,DNA Splicer: A wedge that can fuse a Kyurem with a Reshiram or a Zekrom. ~ God Stone: Reverts Kyurem to God Orb; making it unable to move; but immune to damage,Rivals: Shiro Ryuumouto; Kuro Ryuuniki
-Hilink,Eunice,Vulcanium,Dancer,Destiny Knot: Reflects Infatuation,
-Hilink,Camille,Benson,Pole Dancer?,Music Box: Stores Songs,
-Hilink,Noelle,Hilink,Leader,Hilink Forest Charm: Grants Access to the Dream World ~ Pass Orbs (2): Triggers a Pass Power ~ Scent Brewer: Holds Incenses,
-Hilink,Shiro,Ryuumouto,Leader,Focus Sash: Resists OHKO's with 1 HP left. ~ Light Stone: Reverts Reshiram to Light Orb; making it unable to move; but immune to damage,Brother: Kuro Ryuuniki
-Hilink,Kuro,Ryuuniki,Leader,Focus Sash: Resists OHKO's with 1HP left. ~ Dark Stone: Reverts Zekrom to Dark Orb; making it unable to move; but immune to damage,Sister: Shiro Ryuumouto
-Hunt,Gavril,Windsor,Prober,Flame Siphon: Fire Lash does 2X damage ~ Terrain Extender: Field effects don't expire,
-Hunt,James,Anderson,Body Builder,Incinium Z: Turns Darkest Lariat into Malicious Moonsault,
-Hunt,Teodor,Niagara,GET OUT OF MY SWAMP,Alert Specs: Teammates's items can't be stolen ~ Swampertite: Triggers Megaevolution,
-Hunt,Dan,Hood,Sniper,Decidium Z: Turns Spirit Shackle into Sinister Arrow Raid ~ Snipe Band: +1 Crit chance,
-Jeonsa,Hankari,Park,Retired Nuricom League Champion,Garchompite: Grants Megaevolution ~ Groundium Z: Turns a Ground move into Tectonic Rage ~ Champion Crown: +1 to all stats when near a human.,Girlfriend: Jeongi Park ~ Trainer: Sejun Park
-Jeonsa,Quincy,Apostolov,Bartender,Heart Scale (22): Temporarily turns one foe friendly ~ Present Crafter: Holds Gifts,
-Jeonsa,Jeongi,Park,Retired Nuricom League Champion,Berry Pots: Grows berries while traveling ~ Champion Crown: +1 to all stats when near a human. ~ Wobbinder: Holds Lottery Tickets,Boyfriend: Hankari Park ~ Trainer: Sejun Park
-Jeonsa,Rupert,Jade,Cleric,Lucky Egg: 2X XP ~ Wind Specs: Thrown Items avoid teammates ~ Fairium Z: Turns a Fairy move into Twinkle Tackle,
-Justice,Edward,Shield,Musketeer,Savior Cape: +1 DF and SD for each teammate wearing a Savior Cape,
-Justice,Lewis,Kelpie,Leader,Savior Cape: +1 DF and SD for each teammate wearing a Savior Cape ~ Justice Emblem: Allows the holder to perform Team Attacks when alone; by summoning another Pokemon's spirit. ~ Resokelium Z: Turns Secret Sword into Buster Sword,Crush: Mocha Otonanou
-Justice,Rocco,Shield,Musketeer,Savior Cape: +1 DF and SD for each teammate wearing a Savior Cape,
-Justice,Diane,Shield,Musketeer,Savior Cape: +1 DF and SD for each teammate wearing a Savior Cape,
-Kahuna,Yvonne,Aetos,Tailor,Tiny Scarf: +1 EV,
-Kahuna,Akio,Ito,Drummer,Kommonium Z: Turns Clanging Scales into Clangorous Soulblaze,
-Kahuna,Hilde,Verona,Support,Nectar Jars (11): Allows Oricorio to Style Shift ~ Prop Case: Holds Dancing Props,
-Kahuna,Fenrir,Verona,Totem,Lycanium Z: Turns Stone Edge into Splintered Stormshards,
-Kami,Viktor,Bosch,Disciple,Prism Scale: +1 SD and EV when held by Milotic ~ Beauty Scarf: +1 SD and AC when held by Milotic,
-Kami,Tristan,Morgan,Programmer,Carubyncle: Red gem slotted in his right ear; grants eternal youth. ~ Cleanse Tag: Decreases wild encounters,None
-Kami,Midas,Theos,Astronomer,Disc Binder: Holds all RKS Memories. ~ Reflex Headband: 10% chance of parrying any move ~ Unoolbox: Holds Unown Stones,Mentor: Seikon Tsukitsune
-Kami,Seikon,Tsukitsune,Shrine Guardian,Carubyncle: Red gem slotted in his chest; grants eternal youth. ~ Eevee Beads: Praying beads with all evolutionary stones attached: Fire; Water; Thunder; Leaf; Ice; Moon; Sun; Shiny; Dusk; and Dawn. Can evolve any Eevee or Eeveelution. ~ Ninetalium Z: Turns Will-O-Wisp into Light Of Shinto,Pupil: Midas Theos
-Kaze,Kenkyo,Kaze,Sand Continent Guard,Bond Ring: Doubles HP of another Pokemon holding Bond Ring.,Husband: Hokori Kaze
-Kaze,Hokori,Kaze,Sand Continent Guard,Bond Ring: Doubles HP of another Pokemon holding Bond Ring.,Wife: Kenkyo Kaze
-Labor,Ixion,Lapith,News Reporter,Volt Saddle: +1 SP to whole team if held by Zebstrika,
-Labor,Silver,Hyde,Terraforming,Soft Sand: Boosts Ground moves,
-Labor,Satya,Jonas,Programmer,Icium Z: Turns an Ice move into Subzero Slammer ~ Charm Band: Resets foe's priority,
-Labor,Terry,Walton,Professor,Normalium Z: Turns a Normal move into Breakneck Blitz ~ Silk Scarf: Boosts Normal moves,
-Labor,Gary,Alexis,Move Teacher,Amulet Coin: 2X Poke',
-Labor,Tony,Korg,Builder,Lagging Tail: Holder moves last ~ Efficient Bandana: Sometimes saves PP when using a move,
-Labor,Jeronimo,Cantu,Don't Ask,Link Box: Allows move linking~ Big Eater Belt: 2X Belly from food,
-Loophole,Xenocrates,Edda,Death Cocoon Guard,Life Herb: Skips charge and recharge turns once,Crush: Yggdrasil Edda ~ Friend: Zephyr Edda
-Loophole,Yggdrasil,Edda,Life Tree Guard,Death Orb: Drains opponent's HP; lowers power of holder's moves.,Crush: Xenocrates Edda ~ Friend: Zephyr Edda
-Loophole,Zephyr,Edda,Leader,Carbon Cells (6): Triggers 100% Form immediately; single use. ~ Zygarde Cube: Stores Moves and Cells ~ Time Space Orb (1): +6 all stats,Friends: Yggdrasil Edda; Xenocrates Edda; Jake Northstar
-Mamba,Lonly,Abaddon,Occult,Plain Ribbon: Does nothing...?,
-Mamba,Zeus,Kimi,Officer,Magnet: Boosts Electric moves ~ Pocket Baller: Holds Apricorns,
-Mamba,Ton,Rosemary,Modeler,Zoom Lens: +2 Crit Chance if holder moves last ~ Unstick Cap: Prevents Items from being sticky,
-Ocean Guard,Varm,Gravling,Journalist,Flame Orb: Burns holder,None
-Ocean Guard,Ryuujin,Estrus,Leader,Silver Koto: Triggers War Mist when played. ~ Sacred Ash (23): Can only be used by Ho-Oh and Lugia; fully Revives Pokemon ~ Tidal Bell: +50% HP if held by Lugia,Sister: Fenhuang Estrus
-Pukurin,Chichi,Sora,Vice Guildmaster,Scope Lens: +1 Crit Chance,
-Pukurin,Puck,Sora,Guildmaster,Defend Globe: Makes holder immune to Flying type ~ Melee Headband: Causes Rest to launch nearby foes ~ Straw Hat: +1 to all stats if user has low HP,
-Pukurin,Ishtar,Harel,Astronomer,Jirachium Z: Turns Doom Desire into Shining Shooting Star ~ Gold Ribbon: Poke' spawns more often,
-Rebel,Catherine,Sniders,Thief,Jemmy Ring: Holds Keys and Picks ~ Prosper Ribbon: Heals status conditions and HP when finding Poke',
-Rebel,Valeriya,Medved,Delinquent,Obsidian Shard: +1 Crit chance if held by Lycanroc ~ Yellow Flute: Cures Confusion,
-Rebel,Dora,Morales,Boss,Red Card: Forces foe to switch once if holder is hit ~ Banettite: Triggers Megaevolution,
-Ryu,Alan,Turing,The Human God,Azure Flute: Triggers Omni ~ Arceusium Z: Turns Judgement into Divine Retribution during Omni ~ Legend Plate: Allows Arceus to type change.,
-Ryu,Sid,Tensei,Ex-Metsu Leader,Mugen Turbocharger: A gene splicer that exponentially increases a Mugen Gene's power. ~ Network Drive: Can turn into any Drive in exchange of 1 level.,Rival: Codd Branford
-Ryu,Jake,Northstar,Martial Arts Specialist,Life Orb: Drains HP to power up moves. ~ Black Belt: Boosts Fighting Moves ~ Marshadium Z: Turns Spectral Thief into Soul Stealing 7 Star Strike,Mentor: Codd Branford ~ Friend: Zephyr Edda
-Ryu,Sheng,Zhandou,Vice-President of Nuricom Alliance,Fightinium Z: Turns a Fighting move into All Out Pummeling,Husband: Codd Branford
-Ryu,Codd,Branford,President of Nuricom Alliance,Nurichaku Chaincoil: Nunchucks with Tesla coils on each end. x2 AT in exchange of 1 HP per successful move. ~ Nurigou Magnetar: Compressed Neutron Star piece. Immune to Trick Room and Ground/Rock type moves. ~ Nurimitsu Goudachi: Replaces a move with any Slash move.,Wife: Sheng Zhandou ~ Pupil: Jake Northstar ~ Friends: Cavum Nirum; Vega Chronos ~ Rival: Sid Tensei
-Sky Guard,Eleri,Moloney,Vice Leader,Evergreen Leaf: +30% Power of healing moves ~ Passthrough Scarf: Allows walking on water or lava,
-Sky Guard,Fenhuang,Estrus,Leader,Gold Erhu: Triggers War Haze when played. ~ Sacred Ash (23): Can only be used by Ho-Oh and Lugia; fully Revives Pokemon ~ Clear Bell: +50% HP if held by Ho-Oh,Brother: Ryuujin Estrus
-Slime,Edana,Apollion,Dragon,Bounce Band: Bounces thrown items back to foe,
-Slime,Lorenzo,Apollion,Dragon,Fickle Ribbon: +2 Crit; but holder cannot use same move twice,
-Solar,Shufen,Lin,Mantis,Green Tea: Acts as sunlight for one Pokemon. ~ Silver Powder: Boosts Bug move,
-Solar,Sofia,Valiente,Gardener,Lucky Ribbon: Immune to Crits,
-Solar,Tatsuhiro,Satou,Gamer?,Mental Herb: Immune to Bind and Trapped,
-Solar,Bruce,Pitaya,Leader,Honey: Attracts Wild Pokemon ~ Miracle Seed: Boosts Grass moves,
-Sonic,Laverne,Clacher,Singer,Magnet: Boosts Electric moves,
-Sonic,Basant,Dwight,Photographer,Flashbox: Takes Pictures ~ Album: Stores Pictures,
-Sonic,Asuka,Kimura,Trapper,Bright Powder: Lowers foe's AC,
-Sonic,Nika,Tes,Move Expert,Ampharosite: Triggers Megaevolution ~ Choice Ribbon: +1 Crit; but can only choose one move ~ Secret Potion (3): Can only be used by Ampharos; fully Revives Pokemon,
-Sonic,Kenta,Miyake,Sound Engineer,Black Glasses: Boosts Dark moves ~ Noivernium Z: Turns Boom Burst into Sonic Boom,
-Sonic,Todd,Haberkorn,Electronics And Soldering,Electrium Z: Turns an Electric move into Gigavolt Havoc ~ X-Ray Specs: Lost Pokemon; Teammates; and Items glow through walls.,
-Stinger,Mhyrielle,Gorbold,Escort?,Carubyncle: Red gem slotted in her back; grants eternal youth.  ~ Heart Pendant: Boosts HP by 50%,
-Stinger,Maki,Katsuo,Leader,Eject Button: Switches with teammate if hit ~ Poisonium Z: Turns a Poison move into Acid Downpour,
-Stinger,Max,Keikei,Vice Leader,White Herb (4): Nullifies one status move ~ Razor Fang: +10% flinch chance,
-Tengoku,Senpu,Tengoku,Commander,Hope Cape: Enhanced Reunion Cape that allows teleportation ~ Vexillum Pack: Holds Flags ~ Adventure Backpack: Allows Teams to hold more than 3 items,Friends: Dairou Tengoku; Tsutami Tengoku; Susanoo Tengoku ~ Rival: Nezumi Tengoku
-Tengoku,Dairou,Tengoku,Tengoku Leader,Hope Cape: Enhanced Reunion Cape that allows teleportation ~ Mystic Water: Boosts Water moves ~ Adventure Backpack: Allows Teams to hold more than 3 items,Wife: Tsutami Tengoku ~ Son: Tsutarou Tengoku ~ Friends: Susanoo Tengoku; Senpu Tengoku; Nezumi Tengoku
-Tengoku,Nezumi,Tengoku,Commander,Hope Cape: Enhanced Reunion Cape that allows teleportation ~ Aloraichium Z: Turns Thunderbolt into Stoked Sparksurfer ~ Adventure Backpack: Allows Teams to hold more than 3 items,Friends: Dairou Tengoku; Tsutami Tengoku; Susanoo Tengoku ~ Rival: Senpu Tengoku
-Tengoku,Martin,Ivanov,Disability Aid Doctor,Safety Goggles: Grants immunity to weather and powders ~ Ability Capsule (3): Swaps Ability,
-Tengoku,Tsutami,Tengoku,Tengoku Vice-Leader,Hope Cape: Enhanced Reunion Cape that allows teleportation ~ Miracle Seed: Boosts Grass moves ~ Adventure Backpack: Allows Teams to hold more than 3 items,Husband: Dairou Tengoku ~ Son: Tsutarou Tengoku ~ Friends: Susanoo Tengoku; Nezumi Tengoku; Senpuu Tengoku
-Tengoku,Susanoo,Tengoku,Vice Leader,Hope Cape: Enhanced Reunion Cape that allows teleportation ~ Charcoal: Boosts Fire moves ~ Adventure Backpack: Allows Teams to hold more than 3 items,''Rivals'': Dairou Tengoku; Tsutami Tengoku ~ Friends: Nezumi Tengoku; Senpuu Tengoku
-Tread,Fennel,Stroll,Round Line,Fluffy Tail: Distracts Pokemon,
-Tread,Cedric,Stroll,Sharp Line,Scope Lens: +1 Crit Chance,
-Triumph,Rami,Yoshino,V-Wheel Operator,Courage Crown: +1 AT ~  Wonder Launcher: Launches Pucks that cause various effects; needs to be recharged ~ V-Wheel: Controls Weather,
-Triumph,Mira,Yoshino,Medal Delivery,Effort Crown: +1 DF ~ Medal Box: Carries Medals to reward teams ~ Reveal Glass: Reveals Form Change Enlightenments,
-Ultra,Atlas,Attacus,Portal Operator,Buginium Z: Turns a Bug move into Savage Spinout ~ Macho Brace: 2X XP in exchange of Speed ~ Fuelshaker: Holds Vitamins,
-Ultra,Takumi,Tsunoda,Paper,Focus Sash: Resists OHKO's with 1 HP left. ,
-Ultra,Yitzhak,Ephaestus,Seer,Metronome: Boosts a move used repeatedly,
-Vigilante,Cole,Sand,Leader,Thick Club: 2X AT when held by Marowak ~ Amber Tear (12): Guarantees one recruit ~ Lagging Tail: Holder moves last ,
-Vigilante,Pichai,Rara,Support?,Hollow Coin: Psychic moves never miss ~ Customer Scarf: Dodges attacks from teammates,
-Vigilante,Arthur,Capitani,Stylist,Phantom Armor: Grants Immunity to Fighting moves,
-Wave,Katie,Ziegler,Swimming Teacher,Carubyncle: Red gem slotted in her forehead; grants eternal youth. ~ Seal Case: Holds Seals,
-Wave,Ellen,Mori,Weather Forecast,Carubyncle: Red gem slotted in her tail; grants eternal youth. ~ Eviolite: +1 DF and SD if holder can evolve ~ Adrenaline Orb (32): If one stat decreases; another increases.,
-Wave,Chiyoko,Shinoda,Shinobi,Pierce Band: Thrown items go through walls and Pokemon ~ Trap Scarf: Prevents traps from activating,
-Wave,Lydia,Samaras,Leader,Float Stone: Halves weight of holder ~ Restore Ribbon: Heals HP quicker; lowers belly quicker,
-Wave,Dorothy,Welch,Nurse,Joy Ribbon: 2X XP ~ Friend Bow: Recruit Pokemon easier,
-Weather Guard,Behemoth,Mikado,Leader,Red Orb: Grants Primal Reversion ~ Terra Cymbal: +1 AT and SP when held by Groudon,''Bruh'': Leviathan Mikado ~ Rival: Ziz Mikado
-Weather Guard,Leviathan,Mikado,Leader,Blue Orb: Grants Primal Reversion ~ Aqua Monica: +1 SA and SP when held by Kyogre,''Broo'': Behemoth Mikado ~ Rival: Ziz Mikado
-Weather Guard,Ziz,Mikado,Leader,Green Orb: Grants Mega Evolution ~ Sky Melodica: +3 AC if held by Rayquaza,Hates pretty much everything and everyone.
-Weather Guard,Aston,Jackson,Proxy,Cell Battery: +1 AT if hit by Electric moves ~ Insomniscope: Immune to Sleep; Nightmare; and Yawning,
-Yuubin,Murray,Kumar,Supply Delivery,Ride Pager: Allows calling for Ride teams or Couriers,
-Yuubin,Mocha,Otonanou,Classified Package Delivery,Soothe Bell: Makes Humans friendly,Rival: Doreikun Furai
-Yuubin,Doreikun,Furai,Unclassified Package Delivery,Choice Specs: +1 SA; but can only use one move ~ Flygonium Z: Turns Fissure into Ancestral Sandsong,Rival: Mocha Otonanou ~ Crush: Nirvana Moksha
-Zero,Jennifer,Escade,Medic,Audinite: Triggers Megaevolution ~ Heal Powder: Heals Status Conditions,
-Zero,Bentley,Zero,Grunt,Grip Claw: Trap moves last longer ~ Poison Barb: Boosts Poison moves,
-Zero,Angelo,Zero,Leader,Ghostium Z: Turns a Ghost move into Never Ending Nightmare ~ Spell Tag: Boosts Ghost moves ~ Gengarite: Triggers Megaevolution,
-Zero,Mitra,Abiodun,Bounty Hunter,Razor Claw: +3 Crit Chance if held by Weavile,
+Team Name,Alias,Leader Name,Leader Surname,Team Type,Continent Of Issuance,Badge Rank,Estimated Value,Items,Connections
+Go Getters,Ganden,,,,,,,,
+Poképals,Chronos,,,,,,,,
+Paradise,Tengoku,,,,,,,,
+Highwind,Excalibur,,,,,,,,
+Neo,Asaki,,,,,,,,
+,,,,,,,,,
+Academy,,Alaine,Lille,Alchemist,,,,Crystal Sphere: Generates an Orb in exchange of HP ~ Philosopher Stone: Transmutates items ~ Wide Lens: +1 AC,None
+Academy,,Alphonse,Darrel,Librarian,,,,Fashion Case: Stores Accessories,
+Academy,,Fluctus,Pennae,Fossil Researcher,,,,Sticky Barb: Damages the holder ~ Ring Target: Holder loses type immunities and resistances ~ Choice Scarf: +1 SP; but can only use one move,Crush: Doreikun Furai
+Ampere,,Kira,Taubee,Battery,,,,Electric Seed: +1 DF in Electric Terrain,
+Ampere,,Kari,Taubee,Battery,,,,Electric Seed: +1 DF in Electric Terrain,
+Army,,Phil,Maibum,Strategist,,,,Shinai: -1 AT and SA; +1 AC and EV,None
+Army,,Isaac,Frost,Sergeant,,,,Blue Flute: Cures Sleep,
+Army,,Arnold,Higgins,Swordsman,,,,Galladite: Triggers Megaevolution ~ Persim Band: Prevents Confusion,
+Army,,Bob,Abraham,Lieutenant,,,,Bottle Caps (15): Temporarily boosts a stat depending on Species ~ Flynium Z: Turns a Flying move into Supersonic Skystrike,
+Army,,Mac,Sandman,Boxer,,,,Choice Band: +1 AT; but can only use one move,
+BCV,,Golmi,Zahra,Vice Leader,,,,Grassium Z: Turns a Grass move into Bloom Doom ~ Venusaurite: Triggers Megaevolution,
+BCV,,Kona,Ginji,Leader,,,,Charizardite X: Triggers Megaevolution ~ Charizardite Y: Triggers Megaevolution,
+Ballistic,,Dimitri,Ural, Juggernaut,,,,Aggronite: Triggers Megaevolution ~ Hard Stone: Boosts Rock moves ~ Rockium Z: Turns a Rock move into Continental Crush,
+Ballistic,,Vincent,Odin,Sentinel,,,,Expert Belt: Powers up super effective moves.,
+Ballistic,,Yoroi,Ginji,Striker,,,,Tyranitarite: Triggers Megaevolution ~ Rocky Helmet: Damages foes doing contact,
+Bold,,Kaden,Frei,Hoo-Aah,,,,Double Edge Knuckles: Fighting moves do 2X damage; but have 33% recoil,
+Bold,,Long,Wei,Monk,,,,Absorb Bulb (13): +1 SA if hit by Water Type moves ~ Luminous Moss (11): +1 SD if hit by Water Type Moves,
+Bold,,Helen,Loki,Leader,,,,Queen's Rock: Guarantees Flinching,
+Bold,,Paris,Loke,Leader,,,,King's Rock: Guarantees Flinching,
+Bold,,Roman,Lesnar,Bodyguard,,,,Weakness Policy: +2 AT and SA if holder is hit by a Super Effective move ~ Goggle Specs: Reveals hidden traps and invisible Pokemon,
+Bold,,Frank,Mercer,Rifleman,,,,Mystic Water: Boosts Water moves ~ Waterium Z: Turns a Water move into Hydro Vortex ~ Blastoisinite: Triggers Megaevolution,
+Bouken,,Yonaka,Fubuki,Leader,,,,Carubyncle: Red gem slotted in her scythe; grants eternal youth. ~ Absolite: Triggers Megaevolution ~ Wisp Pendant: Necklace crafted by Storm Fall; protects from Shadow type,Boyfriend: Averly Lamanna ~ Trainer: Niko Harmonia ~ Daughter: Kouri Fubuki ~ Friend: Hadrian Seraphim
+Bouken,,Capella,Chronos,Timeline Technician,,,,Shell Bell: All damage drains 10% HP ~ Gear Charm: Locates Time Gears and Space Gears. ~ Relic Fragment: Grants access to the Temporal Tower,
+Bouken,,Altair,Chronos,Guide,,,,Black Flute: Decreases wild encounters - Machine Case: Holds TMs; HMs; and PMs. ~ Wonder Gem: Hatches Manaphy and Phione eggs much faster,
+Bouken,,Natsu,Hizashi,Scout,,,,Sky Gift Wrapper: Creates Sky Gift Boxes; which spawn rare items; but only when gifted to a close friend ~ Gracidea Flower: Triggers Sky Forme,Friend: Vega Chronos; Lyra Chronos
+Bouken,,Tsutarou,Tengoku,Evolution Researcher,,,,Pass Orb (85): Orbs that can be converted to Pass Powers from the Entralink,Mother: Tsutami Tengoku ~ Father: Dairou Tengoku
+Bouken,,Niko,Harmonia,Vice Leader,,,,Sona Powerplant: Immune to damage during Illusion. ~ Zoroarkium Z: Turns Night Daze into Cunning Devastation,
+Brawl,,Julian,Mach,Shaolin,,,,Assault Vest: Boosts SD; but cannot use status moves ~ Substitute Scarf: First damage from wild Pokemon is capped at 25% HP,
+Brawl,,Squall,Bastet,Doggo,,,,Protective Pads: Nullifies contact debuffs ~ Steelium Z: Turns a Steel move into Corkscrew Crash,None
+Brawl,,Elise,Hanley,Fighter,,,,Charcoal: Boosts Fire moves ~ Blazikenite: Triggers Megaevolution,
+Brawl,,Fergus,Lockhart,Fighter,,,,Trinket Box: Holds Exclusive Items,
+Charm,,Barbara,Limestone,Leader,,,,Shin Guards: Fighting type moves don't recoil ~ Lopunnite: Grants Megaevolution,Friend: Onna Limestone; Puck Sora
+Charm,,Pauline,Limestone,Vice Leader,,,,Bounce Band: Bounces thrown items back to foe ~ Medicham: Triggers Megaevolution,
+Charm,,Sigrid,Limestone,Vice Leader,,,,Gardevoirite: Triggers Megaevolution ~ Mystery Part: Reveals nearby Legendaries,
+Chronos,,Lyra,Chronos,Vice Leader,,,,United Scarf: Enhanced Coalition Scarf that boosts team attacks. ~ Aura Bow: Changes color based on holder's aura; +1 AT; SA; DF; SD. ~ Treasure Bag: Allows Teams to hold more than 3 items,Husband: Vega Chronos ~ Friends: Sirius Chronos; Betelgeuse Chronos
+Chronos,,Vega,Chronos,Leader,,,,United Scarf: Enhanced Coalition Scarf that boosts team attacks. ~ Lucarionite: Triggers Megaevolution ~ Treasure Bag: Allows Teams to hold more than 3 items,Wife: Lyra Chronos ~ Friends: Sirius Chronos; Betelgeuse Chronos; Codd Branford
+Chronos,,Sirius,Chronos,Officer,,,,United Scarf: Enhanced Coalition Scarf that boosts team attacks. ~ Counterfeit Scanner: Lookalike Items glow ~ Treasure Bag: Allows Teams to hold more than 3 items,Friends: Lyra Chronos; Vega Chronos; Betelgeuse Chronos
+Chronos,,Betelgeuse,Chronos,Officer,,,,United Scarf: Enhanced Coalition Scarf that boosts team attacks. ~ Bounty Scanner: Scans Pokemon to check if they're Outlaws or Wanted ~ Treasure Bag: Allows Teams to hold more than 3 items,Friends: Lyra Chronos; Vega Chronos; Sirius Chronos
+Competitive,,Kallistos,Abel,Vice Leader,,,,Binding Band: Increases trap damage,
+Competitive,,Lara,Steffen,Leader,,,,Sharp Beak: Boosts Flying moves ~ Drag Wing: -1 AC and EV; +2 AT and SA,
+Competitive,,Sebastian,Madden,Vice Leader,,,,Red Flute: Cures Infatuation ~ Free Ribbon: Prevents trapping and binding,
+Cosmos,,Peahina,Houkuu,Vice Leader,,,,N-Solarizer: A machine to separate a Necrozma from a Solgaleo. ~ Lunalium Z: Turns Moongeist Beam into Menacing Moonraze Maelstrom ~ Moon Flute: +2 SP if held by Lunala,Brother: Lailona Houkuu ~ Friend: Cavum Nirum
+Cosmos,,Cavum,Nirum,Leader,,,,Ultranecrozium Z: Turns Photon Geyser into Light That Burns The Sky during Ultra Burst. ~ Space Globe: +1 AT and SA when held by a Legendary ~ Sparkling Stone: Powers up Z-Moves,Friends: Peahina Houkuu; Lailona Houkuu; Libidine Ludibrium; Codd Branford
+Cosmos,,Lailona,Houkuu,Vice Leader,,,,N-Lunarizer: A machine to separate a Necrozma from a Lunala. ~ Solgalium Z: Turns Sunsteel Strike into Searing Sunraze Smash ~ Sun Flute: +2 SP if held by Solgaleo,Sister: Peahina Houkuu ~ Friend: Cavum Nirum
+Darktime,,Sheol,Gehenna,Owner,,,,Choice Band: +1 AT; but can only use one move,
+Darktime,,Batu,Chingis,Archivist,,,,Glass Case: Grants Immunity to Water type,
+Darktime,,Theo,Elmer,Butler,,,,Gem Case: Holds one-time type boosting Gems ~ Light Clay: Barriers don't expire ~ Sablenite: Triggers Megaevolution,
+Decipher,,Hadrian,Seraph,Megaevolution Scientist,,,,Yukikyuu: Bracelet gifted by Yonaka Fubuki that turns off a foe Shadow going in Reverse mode. Has a Connection Orb built in.,Friend: Yonaka Fubuki
+Decipher,,Henry,Navarro,Cipher Researcher,,,,Shiny Charm: Attracts Shiny Pokemon ~ Cologne Case: Holds Purifying Scents ~ Time Flute: Purifies a Pokemon a little,None
+Decipher,,Rachel,Teller,Cipher Researcher,,,,Toxic Orb: Inflicts Badly Poisoned on holder,None
+Dimension Guard,,Kongouseki,Izanami,Leader,,,,Adamant Orb: Boosts Dragon and Steel type moves if held by a Dialga; grants Primal Reversion,Brother: Shinju Izanagi ~ Friend: Samael Amphithere
+Dimension Guard,,Gelida,Tempore,Agent,,,,Nevermelt Ice: Boosts Ice moves,
+Dimension Guard,,Finnegan,Beck,Agent,,,,Shiny Leaf: Makes Humans friendly ~ Carefree Bandana: +2 EV in sunlight ~ Wailmer Pail: Waters berries,None
+Dimension Guard,,Samael,Amphithere,Leader,,,,Griseous Orb: Boosts Dragon and Ghost type moves if held by a Giratina; grants Origin Form. ~ Black Sludge: Restores HP to Ghost types; damages others ~ Red Chain: Grants Immunity to Judgement,Friends: Shinju Izanagi; Kongouseki Izanami
+Dimension Guard,,Shinju,Izanagi,Leader,,,,Lustrous Orb: Boosts Dragon and Water type moves if held by a Palkia; grants Primal Reversion,Sister: Kongouseki Izanami ~ Friend: Samael Amphithere
+Ensei,,Kigaru,Ensei,Vice Chief,,,,Chip Bag: Holds Devices ~ Munch Band: +1 AT and SA; lowers belly quicker,
+Ensei,,Akira,Shun,Chief,,,,Ampharosite: Triggers Megaevolution ~ Connection Orb: Scans a Pokemon's connections ~ Golden Looplet: Holds Emeras,
+Ensei,,Onna,Limestone,Archaeologist,,,,Mawilite: Triggers Megaevolution,Mentor: Pauline Limestone ~ Chief: Akira Shun
+Excalibur,,Lithos,Excalibur,Vice Leader,,,,Ammo Belt: Holds Throwing Items ~ Curve Band: Can redirect thrown items in mid air ~ Lockon Specs: Throwable Items have infinite range,
+Excalibur,,Noemie,Simon,Teacher,,,,White Flute: Increases wild encounters,
+Excalibur,,Selene,Excalibur,Vice Leader,,,,Firium Z: Turns a Fire move into Inferno Overdrive ~ Enchanted Quiver: Holds Wands,
+Excalibur,,Cooper,Excalibur,Leader,,,,Dodge Scarf: Dodges thrown items ~ Smoke Ball: +2 EV while fleeing ~ Defuse Scarf: 50% chance of disabling triggered traps,
+Excalibur,,Bennett,Simon,Bouncer,,,,Choice Band: +1 AT; but can only use one move,
+Gale,,Judith,Holzer,Move Teacher?,,,,Carubyncle: Red gem slotted in her beak; grants eternal youth. ~ Botany Diorama: Holds Seeds,
+Gale,,Pina,Hanraads,Uh...,,,,Life Orb: Drains HP to power up moves. ,
+Gale,,Minato,Iwai,Leader,,,,Metal Coat: Boosts Steel moves,
+Ganden,,Awan,Ganden,Enforcer,,,,Glory Band: Enhanced Twist Band that prevents all stats from lowering. ~ Cubonium Z: Turns Bonemerang into Parent's Help ~ Rescue Toolbox: Allows Teams to hold more than 3 items,Friends: Adam Ganden; Eve Ganden
+Ganden,,Adam,Ganden,Leader,,,,Glory Band: Enhanced Twist Band that prevents all stats from lowering.  ~ Pikanium Z: Turns Volt Tackle into Catastropika ~ Rescue Toolbox: Allows Teams to hold more than 3 items,Wife: Eve Ganden ~ Friend: Awan Ganden
+Ganden,,Eve,Ganden,Vice Leader,,,,Glory Band: Enhanced Twist Band that prevents all stats from lowering. ~ Gummi Case: Holds Gummies ~ Rescue Toolbox: Allows Teams to hold more than 3 items,Husband: Adam Ganden ~ Friend: Awan Ganden
+Ganden,,Tatsuya,Honda,Surveillance,,,,Weather Band: Grants immunity to weather,
+Gatekeeper,,John,Burnham,Chest Buster,,,,Treasure Helmet: Can smash open Treasure Boxes ~ Power Herb: Skips move charging,
+Gatekeeper,,Canto,Dahl,Voice Of Life,,,,Dragon Fang: Boosts Dragon moves ~ Dragonium Z: Turns a Dragon move into Devastating Drake ~ Quick Claw: 50% chance +1 Priority,
+Gatekeeper,,Ai,Nonaka,Magnagate Scientist,,,,Entercards (14): Summon long-range dungeons from ley lines using 4 cards. ~ Psychium Z: Turns a Psychic move into Shattered Psyche,Husband: Kosuke Toriumi
+Gatekeeper,,Remi,Toriumi,Magnagate Tester,,,,Kosuke Plush: A Kosuke Plush. ~  Cover Band: 25% chance of parrying an attack to a teammate with low HP,Brother: Kosuke Toriumi
+Gatekeeper,,Kosuke,Toriumi,Magnagate Scientist,,,,Entercards (19): Summon long-range dungeons from ley lines using 4 cards. ~ Darkinium Z: Turns a Dark move into Black Hole Eclipse,Wife: Ai Nonaka ~ Sister: Remi Toriumi
+Gatekeeper,,Giulio,Nimbus,Scout,,,,Carubyncle: Red gem slotted in his belly; grants eternal youth.,
+Gatekeeper,,Isabelle,Burnham,Housewife?,,,,Air Balloon: Immunity to Ground type moves; pops if hit,
+Gearbox,,Ether,Dusk,Vice Leader,,,,Power Seed (43): Allows changing a move's type to user's Hidden Power,
+Gearbox,,Megara,Hermagoras,Guardian,,,,Lunar Wing: If held by Cresselia; Lunar Dance leaves 1 HP instead of fainting,
+Gearbox,,Hades,Hermagoras,Guardian,,,,Black Cloak: If held by Darkrai; Dark Void never misses,
+Gearbox,,Swanun,Acquati,Chef,,,,Forage Bag: Holds food ~ Portable Stand: Crafts Food anywhere,
+Gearbox,,Jack,Garland,Vice Leader,,,,Reaper Cloth: +1 EV and AC if held by Dusknoir,
+Gearbox,,Lucas,Dawn,Leader,,,,Stealth Scarf: Nearby Pokemon don't wake up ~ Sceptilite: Triggers Megaevolution,
+Glitter,,Ricardo,Milos,Simulator?,,,,Metal Powder: +1 DF and SD if held by Ditto ~ Quick Powder: +1 SP when held by Ditto,
+Glitter,,Halcyon,Beri,Artist,,,,Pink Tail: Boost Fairy moves ~ Eevium Z: Turns Last Resort into Extreme Evoboost ~ Pass Scarf: Baton Passes a move's secondary effects to a teammate,None
+Glitter,,Caius,Lewin,Hair Stylist,,,,Travel Trunk: Holds Outfits ~ Hair Dresser: Holds Trims,
+Glitter,,Elton,Armada,Seashell Conservatoire Student,,,,Nylon Guitar: 1% chance of causing Deaf. ~ Everstone: Prevents evolving ~ Eviolite: +1 DF and SD if holder can evolve,Milf: Cefca Pagliaccio
+Haruna,,Matilde,Quemar,Guitarist,,,,Iron Ball: Halves speed; heavy damage when thrown. ~ Racket Band: Immediately wakes up teammates,Crush: Dairou Tengoku ~ Friends: Nirvana Moksha; Cefca Pagliaccio; Flaros Overfield
+Haruna,,Floras,Overfield,Fujisancho Vice Administrator,,,,Roselily: A parting gift. Grants Immunity to Insane ~ Latiasite: Grants Megaevolution ~ Latiosite: Grants Megaevolution,Boyfriend: Flaros Overfield
+Haruna,,Flaros,Overfield,Fujisancho Administrator,,,,Soul Dew: Boosts Dragon and Psychic moves if held by Latias or Latios ~ Eon Flute: +2 SP if held by Latias or Latios ~ Enigma Stone: +50% HP if held by Latias or Latios,Lie: Floras Overfield ~ Trainer: Jiyu Einni ~ Friends: Matilde Quemar; Nirvana Moksha; Cefca Pagliaccio; Glacialis Vicis
+Haruna,,Cefca,Pagliaccio,Seashell Conservatoire Teacher,,,,Hair Beads: All Infatuated foes cannot recover. ~ Primarium Z: Turns Sparkling Aria into Oceanic Operetta,Non-Consensual Sex Slaves: Nirvana Moksha; Matilde Quemar; Flaros Overfield ~ Adorb Seal: Elton Armada
+Haruna,,Nirvana,Moksha,Acad�mie De Nantes Student,,,,Griseous Pendant: A vine necklace with a Griesous Orb shard as trinket; slightly boosts Dragon and Ghost type moves. ~ Soccermom Scarf: It's a scarf. ~ Big Root: Increases HP draining from moves,Friends: Matilde Quemar; Cefca Pagliaccio; Flaros Overfield
+Haruna,,Tokumei,Kii,Fujisancho Vice Administrator,,,,Bleached Battlesash: Resists OHKO's with 1HP left; recharges. ~ Whale Lamp: Boosts Water and Dragon type moves. ~ Expert Belt: +20% PW with supereffective moves.,Boyfren: Flaros Overfield
+Helix,,Poly,Nucleus,Vice Geneticist,,,,Deoxium Z: Turns Psycho Boost into Ethereal Helix Storm ~ Stamina Band: Lowers belly slower,
+Helix,,Libidine,Ludibrium,Geneticist,,,,Mewnium Z: Turns Psychic into Genesis Supernova. ~ Leftovers: Slowly restores HP. ~ White Cornet: +1 to all stats if held by Mew,Friend: Cavum Nirum; Codd Branford ~ Pupils: Myuuichi Jikken; Myuurei Jikken
+Helix,,Myuuichi,Jikken,Gene Tester,,,,Mewtwonite Y: Grants Megaevolution Y ~ Twisted Spoon: Boosts Psychic moves ~ Wisdom Crown: +1 SA,Mentor: Libidine Ludibrium ~ Brother: Myuurei Jikken
+Helix,,Myuurei,Jikken,Gene Tester,,,,Mewtwonite X: Grants Megaevolution X ~ Twisted Spoon: Boosts Psychic moves ~ Persistence Crown: +1 SD,Mentor: Libidine Ludibrium ~ Sister: Myuuichi Jikken
+Hilink,,Wuji,Zettairedo,Mystery Continent Guardian,,,,DNA Splicer: A wedge that can fuse a Kyurem with a Reshiram or a Zekrom. ~ God Stone: Reverts Kyurem to God Orb; making it unable to move; but immune to damage,Rivals: Shiro Ryuumouto; Kuro Ryuuniki
+Hilink,,Eunice,Vulcanium,Dancer,,,,Destiny Knot: Reflects Infatuation,
+Hilink,,Camille,Benson,Pole Dancer?,,,,Music Box: Stores Songs,
+Hilink,,Noelle,Hilink,Leader,,,,Hilink Forest Charm: Grants Access to the Dream World ~ Pass Orbs (2): Triggers a Pass Power ~ Scent Brewer: Holds Incenses,
+Hilink,,Shiro,Ryuumouto,Leader,,,,Focus Sash: Resists OHKO's with 1 HP left. ~ Light Stone: Reverts Reshiram to Light Orb; making it unable to move; but immune to damage,Brother: Kuro Ryuuniki
+Hilink,,Kuro,Ryuuniki,Leader,,,,Focus Sash: Resists OHKO's with 1HP left. ~ Dark Stone: Reverts Zekrom to Dark Orb; making it unable to move; but immune to damage,Sister: Shiro Ryuumouto
+Hunt,,Gavril,Windsor,Prober,,,,Flame Siphon: Fire Lash does 2X damage ~ Terrain Extender: Field effects don't expire,
+Hunt,,James,Anderson,Body Builder,,,,Incinium Z: Turns Darkest Lariat into Malicious Moonsault,
+Hunt,,Teodor,Niagara,GET OUT OF MY SWAMP,,,,Alert Specs: Teammates's items can't be stolen ~ Swampertite: Triggers Megaevolution,
+Hunt,,Dan,Hood,Sniper,,,,Decidium Z: Turns Spirit Shackle into Sinister Arrow Raid ~ Snipe Band: +1 Crit chance,
+Jeonsa,,Hankari,Park,Retired Nuricom League Champion,,,,Garchompite: Grants Megaevolution ~ Groundium Z: Turns a Ground move into Tectonic Rage ~ Champion Crown: +1 to all stats when near a human.,Girlfriend: Jeongi Park ~ Trainer: Sejun Park
+Jeonsa,,Quincy,Apostolov,Bartender,,,,Heart Scale (22): Temporarily turns one foe friendly ~ Present Crafter: Holds Gifts,
+Jeonsa,,Jeongi,Park,Retired Nuricom League Champion,,,,Berry Pots: Grows berries while traveling ~ Champion Crown: +1 to all stats when near a human. ~ Wobbinder: Holds Lottery Tickets,Boyfriend: Hankari Park ~ Trainer: Sejun Park
+Jeonsa,,Rupert,Jade,Cleric,,,,Lucky Egg: 2X XP ~ Wind Specs: Thrown Items avoid teammates ~ Fairium Z: Turns a Fairy move into Twinkle Tackle,
+Justice,,Edward,Shield,Musketeer,,,,Savior Cape: +1 DF and SD for each teammate wearing a Savior Cape,
+Justice,,Lewis,Kelpie,Leader,,,,Savior Cape: +1 DF and SD for each teammate wearing a Savior Cape ~ Justice Emblem: Allows the holder to perform Team Attacks when alone; by summoning another Pokemon's spirit. ~ Resokelium Z: Turns Secret Sword into Buster Sword,Crush: Mocha Otonanou
+Justice,,Rocco,Shield,Musketeer,,,,Savior Cape: +1 DF and SD for each teammate wearing a Savior Cape,
+Justice,,Diane,Shield,Musketeer,,,,Savior Cape: +1 DF and SD for each teammate wearing a Savior Cape,
+Kahuna,,Yvonne,Aetos,Tailor,,,,Tiny Scarf: +1 EV,
+Kahuna,,Akio,Ito,Drummer,,,,Kommonium Z: Turns Clanging Scales into Clangorous Soulblaze,
+Kahuna,,Hilde,Verona,Support,,,,Nectar Jars (11): Allows Oricorio to Style Shift ~ Prop Case: Holds Dancing Props,
+Kahuna,,Fenrir,Verona,Totem,,,,Lycanium Z: Turns Stone Edge into Splintered Stormshards,
+Kami,,Viktor,Bosch,Disciple,,,,Prism Scale: +1 SD and EV when held by Milotic ~ Beauty Scarf: +1 SD and AC when held by Milotic,
+Kami,,Tristan,Morgan,Programmer,,,,Carubyncle: Red gem slotted in his right ear; grants eternal youth. ~ Cleanse Tag: Decreases wild encounters,None
+Kami,,Midas,Theos,Astronomer,,,,Disc Binder: Holds all RKS Memories. ~ Reflex Headband: 10% chance of parrying any move ~ Unoolbox: Holds Unown Stones,Mentor: Seikon Tsukitsune
+Kami,,Seikon,Tsukitsune,Shrine Guardian,,,,Carubyncle: Red gem slotted in his chest; grants eternal youth. ~ Eevee Beads: Praying beads with all evolutionary stones attached: Fire; Water; Thunder; Leaf; Ice; Moon; Sun; Shiny; Dusk; and Dawn. Can evolve any Eevee or Eeveelution. ~ Ninetalium Z: Turns Will-O-Wisp into Light Of Shinto,Pupil: Midas Theos
+Kaze,,Kenkyo,Kaze,Sand Continent Guard,,,,Bond Ring: Doubles HP of another Pokemon holding Bond Ring.,Husband: Hokori Kaze
+Kaze,,Hokori,Kaze,Sand Continent Guard,,,,Bond Ring: Doubles HP of another Pokemon holding Bond Ring.,Wife: Kenkyo Kaze
+Labor,,Ixion,Lapith,News Reporter,,,,Volt Saddle: +1 SP to whole team if held by Zebstrika,
+Labor,,Silver,Hyde,Terraforming,,,,Soft Sand: Boosts Ground moves,
+Labor,,Satya,Jonas,Programmer,,,,Icium Z: Turns an Ice move into Subzero Slammer ~ Charm Band: Resets foe's priority,
+Labor,,Terry,Walton,Professor,,,,Normalium Z: Turns a Normal move into Breakneck Blitz ~ Silk Scarf: Boosts Normal moves,
+Labor,,Gary,Alexis,Move Teacher,,,,Amulet Coin: 2X Poke',
+Labor,,Tony,Korg,Builder,,,,Lagging Tail: Holder moves last ~ Efficient Bandana: Sometimes saves PP when using a move,
+Labor,,Jeronimo,Cantu,Don't Ask,,,,Link Box: Allows move linking~ Big Eater Belt: 2X Belly from food,
+Loophole,,Xenocrates,Edda,Death Cocoon Guard,,,,Life Herb: Skips charge and recharge turns once,Crush: Yggdrasil Edda ~ Friend: Zephyr Edda
+Loophole,,Yggdrasil,Edda,Life Tree Guard,,,,Death Orb: Drains opponent's HP; lowers power of holder's moves.,Crush: Xenocrates Edda ~ Friend: Zephyr Edda
+Loophole,,Zephyr,Edda,Leader,,,,Carbon Cells (6): Triggers 100% Form immediately; single use. ~ Zygarde Cube: Stores Moves and Cells ~ Time Space Orb (1): +6 all stats,Friends: Yggdrasil Edda; Xenocrates Edda; Jake Northstar
+Mamba,,Lonly,Abaddon,Occult,,,,Plain Ribbon: Does nothing...?,
+Mamba,,Zeus,Kimi,Officer,,,,Magnet: Boosts Electric moves ~ Pocket Baller: Holds Apricorns,
+Mamba,,Ton,Rosemary,Modeler,,,,Zoom Lens: +2 Crit Chance if holder moves last ~ Unstick Cap: Prevents Items from being sticky,
+Ocean Guard,,Varm,Gravling,Journalist,,,,Flame Orb: Burns holder,None
+Ocean Guard,,Ryuujin,Estrus,Leader,,,,Silver Koto: Triggers War Mist when played. ~ Sacred Ash (23): Can only be used by Ho-Oh and Lugia; fully Revives Pokemon ~ Tidal Bell: +50% HP if held by Lugia,Sister: Fenhuang Estrus
+Pukurin,,Chichi,Sora,Vice Guildmaster,,,,Scope Lens: +1 Crit Chance,
+Pukurin,,Puck,Sora,Guildmaster,,,,Defend Globe: Makes holder immune to Flying type ~ Melee Headband: Causes Rest to launch nearby foes ~ Straw Hat: +1 to all stats if user has low HP,
+Pukurin,,Ishtar,Harel,Astronomer,,,,Jirachium Z: Turns Doom Desire into Shining Shooting Star ~ Gold Ribbon: Poke' spawns more often,
+Rebel,,Catherine,Sniders,Thief,,,,Jemmy Ring: Holds Keys and Picks ~ Prosper Ribbon: Heals status conditions and HP when finding Poke',
+Rebel,,Valeriya,Medved,Delinquent,,,,Obsidian Shard: +1 Crit chance if held by Lycanroc ~ Yellow Flute: Cures Confusion,
+Rebel,,Dora,Morales,Boss,,,,Red Card: Forces foe to switch once if holder is hit ~ Banettite: Triggers Megaevolution,
+Ryu,,Alan,Turing,The Human God,,,,Azure Flute: Triggers Omni ~ Arceusium Z: Turns Judgement into Divine Retribution during Omni ~ Legend Plate: Allows Arceus to type change.,
+Ryu,,Sid,Tensei,Ex-Metsu Leader,,,,Mugen Turbocharger: A gene splicer that exponentially increases a Mugen Gene's power. ~ Network Drive: Can turn into any Drive in exchange of 1 level.,Rival: Codd Branford
+Ryu,,Jake,Northstar,Martial Arts Specialist,,,,Life Orb: Drains HP to power up moves. ~ Black Belt: Boosts Fighting Moves ~ Marshadium Z: Turns Spectral Thief into Soul Stealing 7 Star Strike,Mentor: Codd Branford ~ Friend: Zephyr Edda
+Ryu,,Sheng,Zhandou,Vice-President of Nuricom Alliance,,,,Fightinium Z: Turns a Fighting move into All Out Pummeling,Husband: Codd Branford
+Ryu,,Codd,Branford,President of Nuricom Alliance,,,,Nurichaku Chaincoil: Nunchucks with Tesla coils on each end. x2 AT in exchange of 1 HP per successful move. ~ Nurigou Magnetar: Compressed Neutron Star piece. Immune to Trick Room and Ground/Rock type moves. ~ Nurimitsu Goudachi: Replaces a move with any Slash move.,Wife: Sheng Zhandou ~ Pupil: Jake Northstar ~ Friends: Cavum Nirum; Vega Chronos ~ Rival: Sid Tensei
+Sky Guard,,Eleri,Moloney,Vice Leader,,,,Evergreen Leaf: +30% Power of healing moves ~ Passthrough Scarf: Allows walking on water or lava,
+Sky Guard,,Fenhuang,Estrus,Leader,,,,Gold Erhu: Triggers War Haze when played. ~ Sacred Ash (23): Can only be used by Ho-Oh and Lugia; fully Revives Pokemon ~ Clear Bell: +50% HP if held by Ho-Oh,Brother: Ryuujin Estrus
+Slime,,Edana,Apollion,Dragon,,,,Bounce Band: Bounces thrown items back to foe,
+Slime,,Lorenzo,Apollion,Dragon,,,,Fickle Ribbon: +2 Crit; but holder cannot use same move twice,
+Solar,,Shufen,Lin,Mantis,,,,Green Tea: Acts as sunlight for one Pokemon. ~ Silver Powder: Boosts Bug move,
+Solar,,Sofia,Valiente,Gardener,,,,Lucky Ribbon: Immune to Crits,
+Solar,,Tatsuhiro,Satou,Gamer?,,,,Mental Herb: Immune to Bind and Trapped,
+Solar,,Bruce,Pitaya,Leader,,,,Honey: Attracts Wild Pokemon ~ Miracle Seed: Boosts Grass moves,
+Sonic,,Laverne,Clacher,Singer,,,,Magnet: Boosts Electric moves,
+Sonic,,Basant,Dwight,Photographer,,,,Flashbox: Takes Pictures ~ Album: Stores Pictures,
+Sonic,,Asuka,Kimura,Trapper,,,,Bright Powder: Lowers foe's AC,
+Sonic,,Nika,Tes,Move Expert,,,,Ampharosite: Triggers Megaevolution ~ Choice Ribbon: +1 Crit; but can only choose one move ~ Secret Potion (3): Can only be used by Ampharos; fully Revives Pokemon,
+Sonic,,Kenta,Miyake,Sound Engineer,,,,Black Glasses: Boosts Dark moves ~ Noivernium Z: Turns Boom Burst into Sonic Boom,
+Sonic,,Todd,Haberkorn,Electronics And Soldering,,,,Electrium Z: Turns an Electric move into Gigavolt Havoc ~ X-Ray Specs: Lost Pokemon; Teammates; and Items glow through walls.,
+Stinger,,Mhyrielle,Gorbold,Escort?,,,,Carubyncle: Red gem slotted in her back; grants eternal youth.  ~ Heart Pendant: Boosts HP by 50%,
+Stinger,,Maki,Katsuo,Leader,,,,Eject Button: Switches with teammate if hit ~ Poisonium Z: Turns a Poison move into Acid Downpour,
+Stinger,,Max,Keikei,Vice Leader,,,,White Herb (4): Nullifies one status move ~ Razor Fang: +10% flinch chance,
+Tengoku,,Senpu,Tengoku,Commander,,,,Hope Cape: Enhanced Reunion Cape that allows teleportation ~ Vexillum Pack: Holds Flags ~ Adventure Backpack: Allows Teams to hold more than 3 items,Friends: Dairou Tengoku; Tsutami Tengoku; Susanoo Tengoku ~ Rival: Nezumi Tengoku
+Tengoku,,Dairou,Tengoku,Tengoku Leader,,,,Hope Cape: Enhanced Reunion Cape that allows teleportation ~ Mystic Water: Boosts Water moves ~ Adventure Backpack: Allows Teams to hold more than 3 items,Wife: Tsutami Tengoku ~ Son: Tsutarou Tengoku ~ Friends: Susanoo Tengoku; Senpu Tengoku; Nezumi Tengoku
+Tengoku,,Nezumi,Tengoku,Commander,,,,Hope Cape: Enhanced Reunion Cape that allows teleportation ~ Aloraichium Z: Turns Thunderbolt into Stoked Sparksurfer ~ Adventure Backpack: Allows Teams to hold more than 3 items,Friends: Dairou Tengoku; Tsutami Tengoku; Susanoo Tengoku ~ Rival: Senpu Tengoku
+Tengoku,,Martin,Ivanov,Disability Aid Doctor,,,,Safety Goggles: Grants immunity to weather and powders ~ Ability Capsule (3): Swaps Ability,
+Tengoku,,Tsutami,Tengoku,Tengoku Vice-Leader,,,,Hope Cape: Enhanced Reunion Cape that allows teleportation ~ Miracle Seed: Boosts Grass moves ~ Adventure Backpack: Allows Teams to hold more than 3 items,Husband: Dairou Tengoku ~ Son: Tsutarou Tengoku ~ Friends: Susanoo Tengoku; Nezumi Tengoku; Senpuu Tengoku
+Tengoku,,Susanoo,Tengoku,Vice Leader,,,,Hope Cape: Enhanced Reunion Cape that allows teleportation ~ Charcoal: Boosts Fire moves ~ Adventure Backpack: Allows Teams to hold more than 3 items,''Rivals'': Dairou Tengoku; Tsutami Tengoku ~ Friends: Nezumi Tengoku; Senpuu Tengoku
+Tread,,Fennel,Stroll,Round Line,,,,Fluffy Tail: Distracts Pokemon,
+Tread,,Cedric,Stroll,Sharp Line,,,,Scope Lens: +1 Crit Chance,
+Triumph,,Rami,Yoshino,V-Wheel Operator,,,,Courage Crown: +1 AT ~  Wonder Launcher: Launches Pucks that cause various effects; needs to be recharged ~ V-Wheel: Controls Weather,
+Triumph,,Mira,Yoshino,Medal Delivery,,,,Effort Crown: +1 DF ~ Medal Box: Carries Medals to reward teams ~ Reveal Glass: Reveals Form Change Enlightenments,
+Ultra,,Atlas,Attacus,Portal Operator,,,,Buginium Z: Turns a Bug move into Savage Spinout ~ Macho Brace: 2X XP in exchange of Speed ~ Fuelshaker: Holds Vitamins,
+Ultra,,Takumi,Tsunoda,Paper,,,,Focus Sash: Resists OHKO's with 1 HP left. ,
+Ultra,,Yitzhak,Ephaestus,Seer,,,,Metronome: Boosts a move used repeatedly,
+Vigilante,,Cole,Sand,Leader,,,,Thick Club: 2X AT when held by Marowak ~ Amber Tear (12): Guarantees one recruit ~ Lagging Tail: Holder moves last ,
+Vigilante,,Pichai,Rara,Support?,,,,Hollow Coin: Psychic moves never miss ~ Customer Scarf: Dodges attacks from teammates,
+Vigilante,,Arthur,Capitani,Stylist,,,,Phantom Armor: Grants Immunity to Fighting moves,
+Wave,,Katie,Ziegler,Swimming Teacher,,,,Carubyncle: Red gem slotted in her forehead; grants eternal youth. ~ Seal Case: Holds Seals,
+Wave,,Ellen,Mori,Weather Forecast,,,,Carubyncle: Red gem slotted in her tail; grants eternal youth. ~ Eviolite: +1 DF and SD if holder can evolve ~ Adrenaline Orb (32): If one stat decreases; another increases.,
+Wave,,Chiyoko,Shinoda,Shinobi,,,,Pierce Band: Thrown items go through walls and Pokemon ~ Trap Scarf: Prevents traps from activating,
+Wave,,Lydia,Samaras,Leader,,,,Float Stone: Halves weight of holder ~ Restore Ribbon: Heals HP quicker; lowers belly quicker,
+Wave,,Dorothy,Welch,Nurse,,,,Joy Ribbon: 2X XP ~ Friend Bow: Recruit Pokemon easier,
+Weather Guard,,Behemoth,Mikado,Leader,,,,Red Orb: Grants Primal Reversion ~ Terra Cymbal: +1 AT and SP when held by Groudon,''Bruh'': Leviathan Mikado ~ Rival: Ziz Mikado
+Weather Guard,,Leviathan,Mikado,Leader,,,,Blue Orb: Grants Primal Reversion ~ Aqua Monica: +1 SA and SP when held by Kyogre,''Broo'': Behemoth Mikado ~ Rival: Ziz Mikado
+Weather Guard,,Ziz,Mikado,Leader,,,,Green Orb: Grants Mega Evolution ~ Sky Melodica: +3 AC if held by Rayquaza,Hates pretty much everything and everyone.
+Weather Guard,,Aston,Jackson,Proxy,,,,Cell Battery: +1 AT if hit by Electric moves ~ Insomniscope: Immune to Sleep; Nightmare; and Yawning,
+Yuubin,,Murray,Kumar,Supply Delivery,,,,Ride Pager: Allows calling for Ride teams or Couriers,
+Yuubin,,Mocha,Otonanou,Classified Package Delivery,,,,Soothe Bell: Makes Humans friendly,Rival: Doreikun Furai
+Yuubin,,Doreikun,Furai,Unclassified Package Delivery,,,,Choice Specs: +1 SA; but can only use one move ~ Flygonium Z: Turns Fissure into Ancestral Sandsong,Rival: Mocha Otonanou ~ Crush: Nirvana Moksha
+Zero,,Jennifer,Escade,Medic,,,,Audinite: Triggers Megaevolution ~ Heal Powder: Heals Status Conditions,
+Zero,,Bentley,Zero,Grunt,,,,Grip Claw: Trap moves last longer ~ Poison Barb: Boosts Poison moves,
+Zero,,Angelo,Zero,Leader,,,,Ghostium Z: Turns a Ghost move into Never Ending Nightmare ~ Spell Tag: Boosts Ghost moves ~ Gengarite: Triggers Megaevolution,
+Zero,,Mitra,Abiodun,Bounty Hunter,,,,Razor Claw: +3 Crit Chance if held by Weavile,
