@@ -1,14 +1,14 @@
 ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Group 2,First Ability,Second Ability,Hidden Ability,HP,AT,DF,SA,SD,SP,TT,Height (cm),Height (ft in),Weight (kg),Weight (lbs),Shape,♂/♀ Ratio,Growth,Base Connection,Spawn Modifier,Apricorn Chance,Experience,Days To Hatch
-1,,Bulbasaur,Seed Pokémon,Uncommon,Classic,Grass,Poison,Monster,Grass,Overgrow,Sap Sipper,Chlorophyll,45,49,49,65,65,45,318,71,"2'04""",7,15,Quadruped,0.875,Slow,50,19,45,64,20
+1,,Bulbasaur,Seed Pokémon,Uncommon,Trio,Grass,Poison,Monster,Grass,Overgrow,Sap Sipper,Chlorophyll,45,49,49,65,65,45,318,71,"2'04""",7,15,Quadruped,0.875,Slow,50,19,45,64,20
 2,1,Ivysaur,Seed Pokémon,Uncommon,No,Grass,Poison,Monster,Grass,Overgrow,Sap Sipper,Chlorophyll,60,62,63,80,80,60,405,99,"3'03""",13,29,Quadruped,0.875,Slow,50,-11,45,142,20
 3,2,Venusaur,Seed Pokémon,Uncommon,No,Grass,Poison,Monster,Grass,Overgrow,Sap Sipper,Chlorophyll,80,82,83,100,100,80,525,201,"6'07""",100,221,Quadruped,0.875,Slow,40,-60,45,263,20
 3M,3,Venusaur (Mega Venusaur),Seed Pokémon,Uncommon,No,Grass,Poison,Monster,Grass,Thick Fat,Sap Sipper,Chlorophyll,80,100,123,122,120,80,625,239,"7'10""",155,343,Quadruped,0.875,Slow,40,-60,45,263,20
-4,,Charmander,Lizard Pokémon,Uncommon,Classic,Fire,,Monster,Dragon,Blaze,Defiant,Solar Power,39,52,43,60,50,65,309,61,"2'00""",8,19,Upright,0.875,Slow,50,19,45,62,20
+4,,Charmander,Lizard Pokémon,Uncommon,Trio,Fire,,Monster,Dragon,Blaze,Defiant,Solar Power,39,52,43,60,50,65,309,61,"2'00""",8,19,Upright,0.875,Slow,50,19,45,62,20
 5,4,Charmeleon,Flame Pokémon,Uncommon,No,Fire,,Monster,Dragon,Blaze,Defiant,Solar Power,58,64,58,80,65,80,405,109,"3'07""",19,42,Upright,0.875,Slow,50,-11,45,142,20
 6,5,Charizard,Flame Pokémon,Uncommon,No,Fire,Flying,Monster,Dragon,Blaze,Defiant,Solar Power,78,84,78,109,85,100,534,170,"5'07""",90,200,Upright,0.875,Slow,40,-60,45,267,20
 6X,6,Charizard (Mega Charizard X),Flame Pokémon,Uncommon,No,Fire,Dragon,Monster,Dragon,Tough Claws,Defiant,Solar Power,78,130,111,130,85,100,634,170,"5'07""",110,244,Upright,0.875,Slow,40,-60,45,267,20
 6Y,6,Charizard (Mega Charizard Y),Flame Pokémon,Uncommon,No,Fire,Flying,Monster,Dragon,Drought,Defiant,Solar Power,78,104,78,159,115,100,634,170,"5'07""",101,222,Upright,0.875,Slow,40,-60,45,267,20
-7,,Squirtle,Tiny Turtle Pokémon,Uncommon,Classic,Water,,Monster,Water 1,Torrent,Swift Swim,Rain Dish,44,48,65,50,64,43,314,51,"1'08""",9,20,Upright,0.875,Slow,50,19,45,63,20
+7,,Squirtle,Tiny Turtle Pokémon,Uncommon,Trio,Water,,Monster,Water 1,Torrent,Swift Swim,Rain Dish,44,48,65,50,64,43,314,51,"1'08""",9,20,Upright,0.875,Slow,50,19,45,63,20
 8,7,Wartortle,Turtle Pokémon,Uncommon,No,Water,,Monster,Water 1,Torrent,Swift Swim,Rain Dish,59,63,80,65,80,58,405,99,"3'03""",22,50,Upright,0.875,Slow,50,-11,45,142,20
 9,8,Blastoise,Shellfish Pokémon,Uncommon,No,Water,,Monster,Water 1,Torrent,Swift Swim,Rain Dish,79,83,100,85,105,78,530,160,"5'03""",86,189,Upright,0.875,Slow,40,-60,45,265,20
 9M,9,Blastoise (Mega Blastoise),Shellfish Pokémon,Uncommon,No,Water,,Monster,Water 1,Mega Launcher,Swift Swim,Rain Dish,79,103,120,135,115,78,630,160,"5'03""",101,223,Upright,0.875,Slow,40,-60,45,265,20
@@ -183,13 +183,13 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 150X,150,Mewtwo (Mega Mewtwo X),Genetic Pokémon,Legendary,No,Psychic,Fighting,Undiscovered,,Steadfast,Pressure,Unnerve,106,190,100,154,100,130,780,231,"7'07""",127,280,Upright,,Very Slow,0,-25,3,340,50
 150Y,150,Mewtwo (Mega Mewtwo Y),Genetic Pokémon,Legendary,No,Psychic,,Undiscovered,,Insomnia,Pressure,Unnerve,106,150,70,194,120,140,780,150,"4'11""",33,73,Upright,,Very Slow,0,-25,3,340,50
 151,,Mew,New Species Pokémon,Mythical,No,Psychic,,Undiscovered,,Synchronize,Pressure,Telepathy,100,100,100,100,100,100,600,41,"1'04""",4,9,Upright,,Slow,90,-10,45,300,50
-152,,Chikorita,Leaf Pokémon,Uncommon,Classic,Grass,,Monster,Grass,Overgrow,Chlorophyll,Leaf Guard,45,49,65,49,65,45,318,89,"2'11""",6,14,Quadruped,0.875,Slow,70,19,45,64,20
+152,,Chikorita,Leaf Pokémon,Uncommon,Trio,Grass,,Monster,Grass,Overgrow,Chlorophyll,Leaf Guard,45,49,65,49,65,45,318,89,"2'11""",6,14,Quadruped,0.875,Slow,70,19,45,64,20
 153,152,Bayleef,Leaf Pokémon,Uncommon,No,Grass,,Monster,Grass,Overgrow,Chlorophyll,Leaf Guard,60,62,80,63,80,60,405,119,"3'11""",16,35,Quadruped,0.875,Slow,70,-11,45,142,20
 154,153,Meganium,Herb Pokémon,Uncommon,No,Grass,,Monster,Grass,Overgrow,Chlorophyll,Leaf Guard,80,82,100,83,100,80,525,180,"5'11""",101,222,Quadruped,0.875,Slow,60,-57,45,236,20
-155,,Cyndaquil,Fire Mouse Pokémon,Uncommon,Classic,Fire,,Field,,Blaze,Quick Feet,Flash Fire,39,52,43,60,50,65,309,51,"1'08""",8,17,Humanoid,0.875,Slow,70,19,45,62,20
+155,,Cyndaquil,Fire Mouse Pokémon,Uncommon,Trio,Fire,,Field,,Blaze,Quick Feet,Flash Fire,39,52,43,60,50,65,309,51,"1'08""",8,17,Humanoid,0.875,Slow,70,19,45,62,20
 156,155,Quilava,Volcano Pokémon,Uncommon,No,Fire,,Field,,Blaze,Quick Feet,Flash Fire,58,64,58,80,65,80,405,89,"2'11""",19,42,Quadruped,0.875,Slow,70,-11,45,142,20
 157,156,Typhlosion,Volcano Pokémon,Uncommon,No,Fire,,Field,,Blaze,Quick Feet,Flash Fire,78,84,78,109,85,100,534,170,"5'07""",80,175,Quadruped,0.875,Slow,60,-57,45,240,20
-158,,Totodile,Big Jaw Pokémon,Uncommon,Classic,Water,,Monster,Water 1,Torrent,Unburden,Sheer Force,50,65,64,44,48,43,314,61,"2'00""",9,21,Upright,0.875,Slow,70,19,45,63,20
+158,,Totodile,Big Jaw Pokémon,Uncommon,Trio,Water,,Monster,Water 1,Torrent,Unburden,Sheer Force,50,65,64,44,48,43,314,61,"2'00""",9,21,Upright,0.875,Slow,70,19,45,63,20
 159,158,Croconaw,Big Jaw Pokémon,Uncommon,No,Water,,Monster,Water 1,Torrent,Unburden,Sheer Force,65,80,80,59,63,58,405,109,"3'07""",25,55,Upright,0.875,Slow,70,-11,45,142,20
 160,159,Feraligatr,Big Jaw Pokémon,Uncommon,No,Water,,Monster,Water 1,Torrent,Unburden,Sheer Force,85,105,100,79,83,78,530,231,"7'07""",89,196,Upright,0.875,Slow,60,-57,45,239,20
 161,,Sentret,Scout Pokémon,Common,No,Normal,,Field,,Run Away,Keen Eye,Frisk,35,46,34,35,45,20,215,79,"2'07""",6,13,Quadruped,0.5,Fast,70,70,255,43,15
@@ -289,15 +289,15 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 249,,Lugia,Diving Pokémon,Legendary,No,Psychic,Flying,Undiscovered,,Pressure,Magic Guard,Multiscale,106,90,130,90,154,110,680,521,"17'01""",216,476,Wings,,Very Slow,0,-25,3,340,50
 250,,Ho-Oh,Rainbow Pokémon,Legendary,No,Fire,Flying,Undiscovered,,Pressure,Magic Guard,Regenerator,106,130,90,110,154,90,680,381,"12'06""",199,439,Wings,,Very Slow,0,-25,3,340,50
 251,,Celebi,Time Travel Pokémon,Mythical,No,Psychic,Grass,Undiscovered,,Natural Cure,Aroma Veil,Serene Grace,100,100,100,100,100,100,600,61,"2'00""",5,11,Humanoid,,Slow,90,-10,45,300,50
-252,,Treecko,Wood Gecko Pokémon,Uncommon,Classic,Grass,,Monster,Dragon,Overgrow,Prism Armor,Unburden,40,45,35,65,55,70,310,51,"1'08""",5,11,Upright,0.875,Slow,50,19,45,62,20
+252,,Treecko,Wood Gecko Pokémon,Uncommon,Trio,Grass,,Monster,Dragon,Overgrow,Prism Armor,Unburden,40,45,35,65,55,70,310,51,"1'08""",5,11,Upright,0.875,Slow,50,19,45,62,20
 253,252,Grovyle,Wood Gecko Pokémon,Uncommon,No,Grass,,Monster,Dragon,Overgrow,Prism Armor,Unburden,50,65,45,85,65,95,405,89,"2'11""",22,48,Upright,0.875,Slow,50,-11,45,142,20
 254,253,Sceptile,Forest Pokémon,Uncommon,No,Grass,,Monster,Dragon,Overgrow,Prism Armor,Unburden,70,85,65,105,85,120,530,170,"5'07""",52,115,Upright,0.875,Slow,40,-57,45,265,20
 254M,254,Sceptile (Mega Sceptile),Forest Pokémon,Uncommon,No,Grass,,Monster,Dragon,Lightning Rod,Prism Armor,Unburden,70,110,75,145,85,145,630,191,"6'03""",55,122,Upright,0.875,Slow,40,-57,45,265,20
-255,,Torchic,Chick Pokémon,Uncommon,Classic,Fire,,Field,,Blaze,Solid Rock,Speed Boost,45,60,40,70,50,45,310,41,"1'04""",2,6,Legs,0.875,Slow,50,19,45,62,20
+255,,Torchic,Chick Pokémon,Uncommon,Trio,Fire,,Field,,Blaze,Solid Rock,Speed Boost,45,60,40,70,50,45,310,41,"1'04""",2,6,Legs,0.875,Slow,50,19,45,62,20
 256,255,Combusken,Young Fowl Pokémon,Uncommon,No,Fire,Fighting,Field,,Blaze,Solid Rock,Speed Boost,60,85,60,85,60,55,405,89,"2'11""",20,43,Upright,0.875,Slow,50,-11,45,142,20
 257,256,Blaziken,Blaze Pokémon,Uncommon,No,Fire,Fighting,Field,,Blaze,Solid Rock,Speed Boost,80,120,70,110,70,80,530,191,"6'03""",52,115,Upright,0.875,Slow,40,-57,45,265,20
 257M,257,Blaziken (Mega Blaziken),Blaze Pokémon,Uncommon,No,Fire,Fighting,Field,,Speed Boost,Solid Rock,Speed Boost,80,160,80,130,80,100,630,191,"6'03""",52,115,Upright,0.875,Slow,40,-57,45,265,20
-258,,Mudkip,Mud Fish Pokémon,Uncommon,Classic,Water,,Monster,Water 1,Torrent,Filter,Damp,50,70,50,50,50,40,310,41,"1'04""",8,17,Quadruped,0.875,Slow,50,19,45,62,20
+258,,Mudkip,Mud Fish Pokémon,Uncommon,Trio,Water,,Monster,Water 1,Torrent,Filter,Damp,50,70,50,50,50,40,310,41,"1'04""",8,17,Quadruped,0.875,Slow,50,19,45,62,20
 259,258,Marshtomp,Mud Fish Pokémon,Uncommon,No,Water,Ground,Monster,Water 1,Torrent,Filter,Damp,70,85,70,60,70,50,405,71,"2'04""",28,62,Upright,0.875,Slow,50,-11,45,142,20
 260,259,Swampert,Mud Fish Pokémon,Uncommon,No,Water,Ground,Monster,Water 1,Torrent,Filter,Damp,100,110,90,85,90,60,535,150,"4'11""",82,181,Upright,0.875,Slow,40,-57,45,268,20
 260M,260,Swampert (Mega Swampert),Mud Fish Pokémon,Uncommon,No,Water,Ground,Monster,Water 1,Swift Swim,Filter,Damp,100,150,110,95,110,70,635,191,"6'03""",102,225,Upright,0.875,Slow,40,-57,45,268,20
@@ -405,7 +405,7 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 351I,351,Castform (Snowy Form),Weather Pokémon,Common,No,Ice,,Fairy,Amorphous,Forecast,Moody,White Smoke,70,70,70,70,70,70,420,30,"1'00""",1,2,Ball,0.5,Fast,70,-10,45,147,25
 351W,351,Castform (Rainy Form),Weather Pokémon,Common,No,Water,,Fairy,Amorphous,Forecast,Moody,White Smoke,70,70,70,70,70,70,420,30,"1'00""",1,2,Ball,0.5,Fast,70,-10,45,147,25
 352,,Kecleon,Color Swap Pokémon,Rare,No,Normal,,Field,,Color Change,Adaptability,Protean,60,90,70,60,120,40,440,99,"3'03""",22,49,Upright,0.5,Slow,70,45,200,154,20
-353,,Shuppet,Puppet Pokémon,Uncommon,No,Ghost,,Amorphous,,Insomnia,Frisk,Cursed Body,44,75,35,63,33,45,295,61,"2'00""",2,5,Ball,0.5,Very Fast,30,63,225,59,25
+353,,Shuppet,Puppet Pokémon,Uncommon,Special,Ghost,,Amorphous,,Insomnia,Frisk,Cursed Body,44,75,35,63,33,45,295,61,"2'00""",2,5,Ball,0.5,Very Fast,30,63,225,59,25
 354,353,Banette,Marionette Pokémon,Uncommon,No,Ghost,,Amorphous,,Insomnia,Frisk,Cursed Body,64,115,65,83,63,65,455,109,"3'07""",13,28,Upright,0.5,Very Fast,30,-30,45,159,25
 354M,354,Banette (Mega Banette),Marionette Pokémon,Uncommon,No,Ghost,,Amorphous,,Prankster,Frisk,Cursed Body,64,165,75,93,83,75,555,119,"3'11""",13,29,Upright,0.5,Very Fast,30,-30,45,159,25
 355,,Duskull,Requiem Pokémon,Common,No,Ghost,,Amorphous,,Levitate,Cursed Body,Frisk,20,40,90,30,90,25,295,79,"2'07""",15,33,Arms,0.5,Very Fast,30,48,190,59,25
@@ -452,13 +452,13 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 386A,386,Deoxys (Attack Forme),DNA Pokémon,Mythical,No,Psychic,,Undiscovered,,Pressure,Moody,Beast Boost,50,180,20,180,20,150,600,170,"5'07""",61,134,Humanoid,,Very Slow,0,-25,3,270,50
 386D,386,Deoxys (Defense Forme),DNA Pokémon,Mythical,No,Psychic,,Undiscovered,,Pressure,Moody,Beast Boost,50,70,160,70,160,90,600,170,"5'07""",61,134,Humanoid,,Very Slow,0,-25,3,270,50
 386S,386,Deoxys (Speed Forme),DNA Pokémon,Mythical,No,Psychic,,Undiscovered,,Pressure,Moody,Beast Boost,50,95,90,95,90,180,600,170,"5'07""",61,134,Humanoid,,Very Slow,0,-25,3,270,50
-387,,Turtwig,Tiny Leaf Pokémon,Uncommon,Classic,Grass,,Monster,Grass,Overgrow,Effect Spore,Shell Armor,55,68,64,45,55,31,318,41,"1'04""",10,23,Quadruped,0.875,Slow,70,19,45,64,20
+387,,Turtwig,Tiny Leaf Pokémon,Uncommon,Trio,Grass,,Monster,Grass,Overgrow,Effect Spore,Shell Armor,55,68,64,45,55,31,318,41,"1'04""",10,23,Quadruped,0.875,Slow,70,19,45,64,20
 388,387,Grotle,Grove Pokémon,Uncommon,No,Grass,,Monster,Grass,Overgrow,Effect Spore,Shell Armor,75,89,85,55,65,36,405,109,"3'07""",97,214,Quadruped,0.875,Slow,70,-11,45,142,20
 389,388,Torterra,Continent Pokémon,Uncommon,No,Grass,Ground,Monster,Grass,Overgrow,Effect Spore,Shell Armor,95,109,105,75,85,56,525,221,"7'03""",310,683,Quadruped,0.875,Slow,60,-57,45,236,20
-390,,Chimchar,Chimp Pokémon,Uncommon,Classic,Fire,,Field,Human-Like,Blaze,Flame Body,Iron Fist,44,58,44,58,44,61,309,51,"1'08""",6,14,Upright,0.875,Slow,70,19,45,62,20
+390,,Chimchar,Chimp Pokémon,Uncommon,Trio,Fire,,Field,Human-Like,Blaze,Flame Body,Iron Fist,44,58,44,58,44,61,309,51,"1'08""",6,14,Upright,0.875,Slow,70,19,45,62,20
 391,390,Monferno,Playful Pokémon,Uncommon,No,Fire,Fighting,Field,Human-Like,Blaze,Flame Body,Iron Fist,64,78,52,78,52,81,405,89,"2'11""",22,49,Upright,0.875,Slow,70,-11,45,142,20
 392,391,Infernape,Flame Pokémon,Uncommon,No,Fire,Fighting,Field,Human-Like,Blaze,Flame Body,Iron Fist,76,104,71,104,71,108,534,119,"3'11""",55,121,Upright,0.875,Slow,60,-57,45,240,20
-393,,Piplup,Penguin Pokémon,Uncommon,Classic,Water,,Water 1,Field,Torrent,Gooey,Defiant,53,51,53,61,56,40,314,41,"1'04""",5,12,Humanoid,0.875,Slow,70,19,45,63,20
+393,,Piplup,Penguin Pokémon,Uncommon,Trio,Water,,Water 1,Field,Torrent,Gooey,Defiant,53,51,53,61,56,40,314,41,"1'04""",5,12,Humanoid,0.875,Slow,70,19,45,63,20
 394,393,Prinplup,Penguin Pokémon,Uncommon,No,Water,,Water 1,Field,Torrent,Gooey,Defiant,64,66,68,81,76,50,405,79,"2'07""",23,51,Upright,0.875,Slow,70,-11,45,142,20
 395,394,Empoleon,Emperor Pokémon,Uncommon,No,Water,Steel,Water 1,Field,Torrent,Gooey,Defiant,84,86,88,111,101,60,530,170,"5'07""",85,186,Upright,0.875,Slow,60,-57,45,239,20
 396,,Starly,Starling Pokémon,Common,No,Normal,Flying,Flying,,Keen Eye,Intimidate,Reckless,40,55,30,30,30,60,245,30,"1'00""",2,4,Wings,0.5,Slow,70,70,255,49,15
@@ -579,13 +579,13 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 492S,492,Shaymin (Sky Forme),Gratitude Pokémon,Mythical,No,Grass,Flying,Undiscovered,,Serene Grace,Speed Boost,Flower Veil,100,103,75,120,75,127,600,41,"1'04""",5,12,Quadruped,,Slow,90,-10,45,270,50
 493,,Arceus,Alpha Pokémon,Mythical,No,Normal,,Undiscovered,,Multitype,Neuroforce,RKS System,120,120,120,120,120,120,720,320,"10'06""",320,706,Quadruped,,Very Slow,0,-25,3,324,50
 494,,Victini,Victory Pokémon,Mythical,No,Psychic,Fire,Undiscovered,,Victory Star,Flash Fire,Aura Break,100,100,100,100,100,100,600,41,"1'04""",4,9,Humanoid,0,Very Slow,90,-25,3,300,50
-495,,Snivy,Grass Snake Pokémon,Uncommon,Classic,Grass,,Field,Grass,Overgrow,Super Luck,Contrary,45,45,55,45,55,63,308,61,"2'00""",8,18,Upright,0.875,Slow,70,19,45,62,20
+495,,Snivy,Grass Snake Pokémon,Uncommon,Trio,Grass,,Field,Grass,Overgrow,Super Luck,Contrary,45,45,55,45,55,63,308,61,"2'00""",8,18,Upright,0.875,Slow,70,19,45,62,20
 496,495,Servine,Grass Snake Pokémon,Uncommon,No,Grass,,Field,Grass,Overgrow,Super Luck,Contrary,60,60,75,60,75,83,413,79,"2'07""",16,35,Upright,0.875,Slow,70,-11,45,145,20
 497,496,Serperior,Regal Pokémon,Uncommon,No,Grass,,Field,Grass,Overgrow,Super Luck,Contrary,75,75,95,75,95,113,528,330,"10'10""",63,139,Squiggle,0.875,Slow,60,-57,45,238,20
-498,,Tepig,Fire Pig Pokémon,Uncommon,Classic,Fire,,Field,,Blaze,Super Luck,Thick Fat,65,63,45,45,45,45,308,51,"1'08""",10,22,Quadruped,0.875,Slow,70,19,45,62,20
+498,,Tepig,Fire Pig Pokémon,Uncommon,Trio,Fire,,Field,,Blaze,Super Luck,Thick Fat,65,63,45,45,45,45,308,51,"1'08""",10,22,Quadruped,0.875,Slow,70,19,45,62,20
 499,498,Pignite,Fire Pig Pokémon,Uncommon,No,Fire,Fighting,Field,,Blaze,Super Luck,Thick Fat,90,93,55,70,55,55,418,99,"3'03""",56,122,Upright,0.875,Slow,70,-11,45,146,20
 500,499,Emboar,Mega Fire Pig Pokémon,Uncommon,No,Fire,Fighting,Field,,Blaze,Super Luck,Thick Fat,110,123,65,100,65,65,528,160,"5'03""",150,331,Upright,0.875,Slow,60,-57,45,238,20
-501,,Oshawott,Sea Otter Pokémon,Uncommon,Classic,Water,,Field,,Torrent,Super Luck,Shell Armor,55,55,45,63,45,45,308,51,"1'08""",6,13,Upright,0.875,Slow,70,19,45,62,20
+501,,Oshawott,Sea Otter Pokémon,Uncommon,Trio,Water,,Field,,Torrent,Super Luck,Shell Armor,55,55,45,63,45,45,308,51,"1'08""",6,13,Upright,0.875,Slow,70,19,45,62,20
 502,501,Dewott,Discipline Pokémon,Uncommon,No,Water,,Field,,Torrent,Super Luck,Shell Armor,75,75,60,83,60,60,413,79,"2'07""",24,54,Upright,0.875,Slow,70,-11,45,145,20
 503,502,Samurott,Formidable Pokémon,Uncommon,No,Water,,Field,,Torrent,Super Luck,Shell Armor,95,100,85,108,70,70,528,150,"4'11""",95,209,Quadruped,0.875,Slow,60,-57,45,238,20
 504,,Patrat,Scout Pokémon,Common,No,Normal,,Field,,Run Away,Keen Eye,Analytic,45,55,39,35,39,42,255,51,"1'08""",12,26,Quadruped,0.5,Fast,70,70,255,51,15
@@ -700,7 +700,7 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 604,603,Eelektross,EleFish Pokémon,Common,No,Electric,,Amorphous,,Levitate,Damp,Static,85,115,80,105,80,50,515,211,"6'11""",81,178,Fish,0.5,Very Slow,60,-70,30,232,20
 605,,Elgyem,Cerebral Pokémon,Common,No,Psychic,,Human-Like,,Telepathy,Synchronize,Analytic,55,55,55,85,55,30,335,51,"1'08""",9,20,Upright,0.5,Fast,50,70,255,67,20
 606,605,Beheeyem,Cerebral Pokémon,Common,No,Psychic,,Human-Like,,Telepathy,Synchronize,Analytic,75,75,75,125,95,40,485,99,"3'03""",35,76,Humanoid,0.5,Fast,50,-15,90,170,20
-607,,Litwick,Candle Pokémon,Common,Special,Ghost,Fire,Amorphous,,Flash Fire,Flame Body,Infiltrator,50,30,55,65,55,20,275,30,"1'00""",3,7,Blob,0.5,Slow,50,48,190,55,20
+607,,Litwick,Candle Pokémon,Common,No,Ghost,Fire,Amorphous,,Flash Fire,Flame Body,Infiltrator,50,30,55,65,55,20,275,30,"1'00""",3,7,Blob,0.5,Slow,50,48,190,55,20
 608,607,Lampent,Lamp Pokémon,Common,No,Ghost,Fire,Amorphous,,Flash Fire,Flame Body,Infiltrator,60,40,60,95,60,55,370,61,"2'00""",13,29,Arms,0.5,Slow,50,1,90,130,20
 609,608,Chandelure,Luring Pokémon,Common,No,Ghost,Fire,Amorphous,,Flash Fire,Flame Body,Infiltrator,60,55,90,145,90,80,520,99,"3'03""",34,76,Arms,0.5,Slow,40,-57,45,260,20
 610,,Axew,Tusk Pokémon,Rare,Special,Dragon,,Monster,Dragon,Rivalry,Mold Breaker,Unnerve,46,87,60,30,40,57,320,61,"2'00""",18,40,Upright,0.5,Very Slow,30,25,75,64,40
@@ -750,15 +750,15 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 648A,648P,Meloetta (Aria Forme),Melody Pokémon,Mythical,No,Normal,Psychic,Undiscovered,,Serene Grace,Tangling Hair,Moody,100,77,77,128,128,90,600,61,"2'00""",6,14,Humanoid,,Very Slow,90,-25,3,270,50
 648P,648A,Meloetta (Pirouette Forme),Melody Pokémon,Mythical,No,Normal,Fighting,Undiscovered,,Serene Grace,Tangling Hair,Moody,100,128,90,77,77,128,600,61,"2'00""",6,14,Humanoid,,Very Slow,90,-25,3,270,50
 649,,Genesect,Paleozoic Pokémon,Mythical,No,Bug,Steel,Undiscovered,,Download,Analytic,Compound Eyes,71,120,95,120,95,99,600,150,"4'11""",83,182,Humanoid,,Very Slow,0,-25,3,300,50
-650,,Chespin,Spiny Nut Pokémon,Uncommon,Classic,Grass,,Field,,Overgrow,Battle Bond,Bulletproof,56,61,65,48,45,38,313,41,"1'04""",9,20,Upright,0.875,Slow,70,19,45,63,20
+650,,Chespin,Spiny Nut Pokémon,Uncommon,Trio,Grass,,Field,,Overgrow,Battle Bond,Bulletproof,56,61,65,48,45,38,313,41,"1'04""",9,20,Upright,0.875,Slow,70,19,45,63,20
 651,650,Quilladin,Spiny Armor Pokémon,Uncommon,No,Grass,,Field,,Overgrow,Battle Bond,Bulletproof,61,78,95,56,58,57,405,71,"2'04""",29,64,Upright,0.875,Slow,70,-11,45,142,20
 652,651,Chesnaught,Spiny Armor Pokémon,Uncommon,No,Grass,Fighting,Field,,Overgrow,Battle Bond,Bulletproof,88,107,122,74,75,64,530,160,"5'03""",90,198,Upright,0.875,Slow,60,-57,45,239,20
 652B,652,Chesnaught (Battle Bond),Spiny Armor Pokémon,Uncommon,No,Grass,Fighting,Field,,Overgrow,Battle Bond,Bulletproof,88,107,122,74,75,64,530,160,"5'03""",174,384,Upright,0.875,Slow,60,-57,45,239,20
-653,,Fennekin,Fox Pokémon,Uncommon,Classic,Fire,,Field,,Blaze,Battle Bond,Magician,40,45,40,62,60,60,307,41,"1'04""",9,21,Quadruped,0.875,Slow,70,19,45,61,20
+653,,Fennekin,Fox Pokémon,Uncommon,Trio,Fire,,Field,,Blaze,Battle Bond,Magician,40,45,40,62,60,60,307,41,"1'04""",9,21,Quadruped,0.875,Slow,70,19,45,61,20
 654,653,Braixen,Fox Pokémon,Uncommon,No,Fire,,Field,,Blaze,Battle Bond,Magician,59,59,58,90,70,73,409,99,"3'03""",15,32,Upright,0.875,Slow,70,-11,45,143,20
 655,654,Delphox,Fox Pokémon,Uncommon,No,Fire,Psychic,Field,,Blaze,Battle Bond,Magician,75,69,72,114,100,104,534,150,"4'11""",39,86,Upright,0.875,Slow,60,-57,45,240,20
 655B,655,Delphox (Battle Bond),Fox Pokémon,Uncommon,No,Fire,Psychic,Field,,Blaze,Battle Bond,Magician,75,69,72,114,100,104,534,150,"4'11""",40,88,Upright,0.875,Slow,60,-57,45,240,20
-656,,Froakie,Bubble Frog Pokémon,Uncommon,Classic,Water,,Water 1,,Torrent,Battle Bond,Protean,41,56,40,62,44,71,314,30,"1'00""",7,15,Quadruped,0.875,Slow,70,19,45,63,20
+656,,Froakie,Bubble Frog Pokémon,Uncommon,Trio,Water,,Water 1,,Torrent,Battle Bond,Protean,41,56,40,62,44,71,314,30,"1'00""",7,15,Quadruped,0.875,Slow,70,19,45,63,20
 657,656,Frogadier,Bubble Frog Pokémon,Uncommon,No,Water,,Water 1,,Torrent,Battle Bond,Protean,54,63,52,83,56,97,405,61,"2'00""",11,24,Humanoid,0.875,Slow,70,-11,45,142,20
 658,657,Greninja,Ninja Pokémon,Uncommon,No,Water,Dark,Water 1,,Torrent,Battle Bond,Protean,72,95,67,103,71,122,530,150,"4'11""",40,88,Humanoid,0.875,Slow,60,-57,45,239,20
 658B,658,Greninja (Battle Bond),Ninja Pokémon,Uncommon,No,Water,Dark,Water 1,,Torrent,Battle Bond,Protean,72,145,67,153,71,132,640,150,"4'11""",37,82,Humanoid,0.875,Slow,60,-57,45,239,20
@@ -837,13 +837,13 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 720C,720U,Hoopa (Hoopa Confined),Mischief Pokémon,Mythical,No,Psychic,Ghost,Undiscovered,,Magician,Prankster,Arena Trap,80,110,60,150,130,70,600,51,"1'08""",9,20,Arms,,Very Slow,90,-25,3,270,50
 720U,720C,Hoopa (Hoopa Unbound),Djinn Pokémon,Mythical,No,Psychic,Dark,Undiscovered,,Magician,Prankster,Arena Trap,80,160,60,170,130,80,680,650,"21'04""",490,1080,Arms,,Very Slow,90,-25,3,270,50
 721,,Volcanion,Steam Pokémon,Mythical,No,Fire,Water,Undiscovered,,Water Absorb,Heatproof,Sap Sipper,80,110,120,130,90,70,600,170,"5'07""",195,430,Quadruped,,Very Slow,90,-25,3,300,50
-722,,Rowlet,Grass Quill Pokémon,Uncommon,Classic,Grass,Flying,Flying,,Overgrow,Technician,Long Reach,68,55,55,50,50,42,320,30,"1'00""",1,3,Wings,0.875,Slow,50,-10,45,64,15
+722,,Rowlet,Grass Quill Pokémon,Uncommon,Trio,Grass,Flying,Flying,,Overgrow,Technician,Long Reach,68,55,55,50,50,42,320,30,"1'00""",1,3,Wings,0.875,Slow,50,-10,45,64,15
 723,722,Dartrix,Blade Quill Pokémon,Uncommon,No,Grass,Flying,Flying,,Overgrow,Technician,Long Reach,78,75,75,70,70,52,420,71,"2'04""",16,35,Wings,0.875,Slow,40,-30,45,147,15
 724,723,Decidueye,Arrow Quill Pokémon,Uncommon,No,Grass,Ghost,Flying,,Overgrow,Technician,Long Reach,78,107,75,100,100,70,530,160,"5'03""",37,81,Wings,0.875,Slow,40,-57,45,265,15
-725,,Litten,Fire Cat Pokémon,Uncommon,Classic,Fire,,Field,,Blaze,Technician,Intimidate,45,65,40,60,40,70,320,41,"1'04""",4,10,Quadruped,0.875,Slow,50,-10,45,64,15
+725,,Litten,Fire Cat Pokémon,Uncommon,Trio,Fire,,Field,,Blaze,Technician,Intimidate,45,65,40,60,40,70,320,41,"1'04""",4,10,Quadruped,0.875,Slow,50,-10,45,64,15
 726,725,Torracat,Fire Cat Pokémon,Uncommon,No,Fire,,Field,,Blaze,Technician,Intimidate,65,85,50,80,50,90,420,71,"2'04""",25,55,Quadruped,0.875,Slow,40,-30,45,147,15
 727,726,Incineroar,Heel Pokémon,Uncommon,No,Fire,Dark,Field,,Blaze,Technician,Intimidate,95,115,90,80,90,60,530,180,"5'11""",83,183,Upright,0.875,Slow,40,-57,45,265,15
-728,,Popplio,Sea Lion Pokémon,Uncommon,Classic,Water,,Water 1,Field,Torrent,Technician,Liquid Voice,50,54,54,66,56,40,320,41,"1'04""",7,17,Fish,0.875,Slow,50,-10,45,64,15
+728,,Popplio,Sea Lion Pokémon,Uncommon,Trio,Water,,Water 1,Field,Torrent,Technician,Liquid Voice,50,54,54,66,56,40,320,41,"1'04""",7,17,Fish,0.875,Slow,50,-10,45,64,15
 729,728,Brionne,Pop Star Pokémon,Uncommon,No,Water,,Water 1,Field,Torrent,Technician,Liquid Voice,60,69,69,91,81,50,420,61,"2'00""",18,39,Fish,0.875,Slow,40,-30,45,147,15
 730,729,Primarina,Soloist Pokémon,Uncommon,No,Water,Fairy,Water 2,Field,Torrent,Technician,Liquid Voice,80,74,74,126,116,60,530,180,"5'11""",44,97,Fish,0.875,Slow,40,-57,45,265,15
 731,,Pikipek,Woodpecker Pokémon,Common,No,Normal,Flying,Flying,,Keen Eye,Skill Link,Pickup,35,75,30,30,30,65,265,30,"1'00""",1,3,Wings,0.5,Fast,70,65,255,53,15
