@@ -657,8 +657,8 @@ ID,EVOID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Gro
 567,566,Archeops,First Bird Pokémon,Common,No,Rock,Flying,Flying,Water 3,Defeatist,Frisk,Technician,75,140,65,112,65,110,567,140,"4'07""",32,71,Wings,0.875,Fast,40,-30,45,177,30
 568,,Trubbish,Trash Bag Pokémon,Common,No,Poison,,Mineral,,Stench,Sticky Hold,Aftermath,50,50,62,40,62,65,329,61,"2'00""",31,68,Humanoid,0.5,Fast,50,48,190,66,20
 569,568,Garbodor,Trash Heap Pokémon,Common,No,Poison,,Mineral,,Stench,Weak Armor,Aftermath,80,95,82,60,82,75,474,191,"6'03""",107,237,Humanoid,0.5,Fast,40,-26,60,166,20
-570,,Zorua,Tricky Fox Pokémon,Rare,Special,Dark,,Field,,Illusion,Infiltrator,Sniper,40,65,40,80,40,65,330,71,"2'04""",13,28,Quadruped,0.875,Slow,50,25,75,66,25
-571,570,Zoroark,Illusion Fox Pokémon,Rare,No,Dark,,Field,,Illusion,Infiltrator,Sniper,60,105,60,120,60,105,510,160,"5'03""",81,179,Upright,0.875,Slow,40,-30,45,179,20
+570,,Zorua,Tricky Fox Pokémon,Rare,Special,Dark,,Field,,Illusion,Infiltrator,Prankster,40,65,40,80,40,65,330,71,"2'04""",13,28,Quadruped,0.875,Slow,50,25,75,66,25
+571,570,Zoroark,Illusion Fox Pokémon,Rare,No,Dark,,Field,,Illusion,Infiltrator,Prankster,60,105,60,120,60,105,510,160,"5'03""",81,179,Upright,0.875,Slow,40,-30,45,179,20
 572,,Minccino,Chinchilla Pokémon,Uncommon,Special,Normal,,Field,,Cute Charm,Technician,Skill Link,55,50,40,40,40,75,300,41,"1'04""",6,13,Quadruped,0.5,Very Fast,50,70,255,60,15
 573,572,Cinccino,Scarf Pokémon,Uncommon,No,Normal,,Field,,Cute Charm,Technician,Skill Link,75,95,60,65,60,115,470,51,"1'08""",7,17,Quadruped,0.5,Very Fast,40,-26,60,165,15
 574,,Gothita,Fixation Pokémon,Common,No,Psychic,,Human-Like,,Frisk,Competitive,Shadow Tag,45,30,50,55,65,45,290,41,"1'04""",6,13,Humanoid,0.5,Slow,50,50,200,58,20

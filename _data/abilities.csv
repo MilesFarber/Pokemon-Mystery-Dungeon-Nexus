@@ -276,13 +276,13 @@ ID,Name,Generation,Delta Exclusive,Description
 275,Fast Friend,3,Yes,Improves the chances that defeated enemies will want to join the team. Boosts recruitment chance by 5%. 
 276,No Charger,3,Yes,"The Pokémon charges then unleashes any move that normally requires 2 turns in only one turn. Powering up these charge-up moves so quickly consumes 2 PP, however. When the Pokémon's attack frequency is boosted by Unburden, Swift Swim, or Chlorophyll, the second instant use of an affected move will cost an additional 1 PP, consuming 3 PP total."
 277,Map Surveyor,3,Yes,The Pokémon is able to sense the layout of the dungeon floor. Does not reveal the location of the stairs.
-278,Stairwind Seeker,5,Yes,The Pokemon will use the wind to detect when a room next to the current one might have stairs.
 279,Trap Seer,3,Yes,"If the Pokémon is on an undiscovered trap, upon taking a step it will make the trap visible without setting it off. Stepping on an exposed trap will still have an effect, however. In combination with Trap Avoider, the danger of traps practically disappears."
 280,House Avoider,3,Yes,"The Pokémon senses nearby Monster Houses. It will shiver and stop in place for 1 turn when it detects one, 1 tile short of activating it."
 281,Pierce Hurler,3,Yes,"Pokémon's thrown items pierce through walls and other Pokémon without stopping, but impact all Pokémon they hit along the way. Thrown items may still miss, unless the leader throws an item while holding Lockon Specs."
 282,Nature Gifter,3,Yes,"The effects of any Seed or Berry that the Pokémon eats spread to the whole party. This IQ Skill only works for the team leader. Does not include Blast Seeds, Dough Seeds, or Reviver and Reviser Seeds when eaten from the Treasure Bag. Seeds and Berries thrown at a leader with this skill are unaffected, even if the leader threw them at a Pokémon holding a Bounce Band or at themselves with a Curve Band."
 283,Absolute Mover,3,Yes,"The Pokémon gains the ability to cross water and lava, walk through gulleys, and dig its way through walls."
 284,Super Mobile,3,Yes,"The Pokémon gains the ability to walk on water, lava, and clouds. It can also dig its way through walls. Digging through walls with this skill does not increase belly consumption. "
+278,Stairwind Seeker,5,Yes,The Pokemon will use the wind to detect when a room next to the current one might have stairs.
 285,Nutritionist,5,Yes,"The Pokemon sometimes restores 1 extra HP, PP or Belly when drinking or eating food."
 286,Power Pitching,5,Yes,"The Pokemon's thrown items will travel infinitely until they hit something, instead of falling after 10 tiles."
 287,Dimensional Scream,5,Yes,Provides a detailed description of what will happen on the next turn.
