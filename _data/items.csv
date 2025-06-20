@@ -1067,7 +1067,7 @@ ID,Category,Name,Description,Value,Recipe
 1071,Medicine,Repel,A powerful repellant that gives wild Pokemon that have a lower level than the leader the Terrified status condition for 100 turns.,,
 1072,Medicine,Super Repel,A powerful repellant that gives wild Pokemon that have a lower level than the leader the Terrified status condition for 200 turns.,,
 1073,Medicine,Max Repel,A powerful repellant that gives wild Pokemon that have a lower level than the leader the Terrified status condition for 300 turns.,,
-1074,Tool,Ability Capsule,A capsule that allows a Pokémon to switch abilities while in a Dungeon.,800,
+1074,Tool,Ability Capsule,A capsule that allows a Pokémon to unlock another Ability.,800,
 1075,Medicine,Joy Scent,A soothing cologne that can be used to massage a Shadow Pokemon and restore their heart gauge by 10.,,Incense * 1 + Cologne + Heart Potion
 1076,Medicine,Excite Scent,A soothing cologne that can be used to massage a Shadow Pokemon and restore their heart gauge by 100.,,Incense * 3 + Cologne + Heart Potion
 1077,Medicine,Vivid Scent,A soothing cologne that can be used to massage a Shadow Pokemon and restore their heart gauge by 1000!,,Incense * 10 + Cologne + Heart Potion
