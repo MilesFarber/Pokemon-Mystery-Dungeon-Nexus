@@ -1162,5 +1162,4 @@ ID,Pokemon,Class,Rarity,Starter,First Type,Second Type,Egg Group 1,Egg Group 2,F
 807,Zeraora,Thunderclap Pokémon,Mythical,No,Electric,,Undiscovered,,Volt Absorb,Galvanize,Static,88,112,75,102,80,143,600,150,"4'11""",44,98,Humanoid,,Very Slow,0,-25,3,300,50,
 808,Meltan,Hex Nut Pokémon,Mythical,No,Steel,,Undiscovered,,Magnet Pull,Iron Fist,Anger Point,46,65,65,55,35,34,300,20,"0'08""",8,18,Ball,,Very Slow,0,-25,3,150,50,
 809,Melmetal,Hex Nut Pokémon,Mythical,No,Steel,,Undiscovered,,Iron Fist,Magnet Pull,Anger Point,135,143,143,80,65,34,600,249,"8'02""",800,1764,Humanoid,,Very Slow,0,-25,3,300,50,
-810P,Eeveon (Pokémon),Révolution Pokémon,Mythical,No,Normal,,Undiscovered,,Protean,Adaptability,Anticipation,100,100,100,100,100,100,600,119,"3'11""",35,77,Quadruped,0.875,Very Slow,100,70,3,400,50,
-810🌈,Eeveon (The Power Of Pokémon),Révolution Pokémon,Mythical,No,Normal,Light,Undiscovered,,Protean,Adaptability,Anticipation,150,150,150,150,150,150,900,221,"7'03""",47,104,Quadruped,0.875,Very Slow,100,70,3,400,50,
+810,Eeveon,Révolution Pokémon,Mythical,No,Normal,,Undiscovered,,Protean,Adaptability,Anticipation,100,100,100,100,100,100,600,119,"3'11""",35,77,Quadruped,0.875,Very Slow,100,70,3,400,50,
