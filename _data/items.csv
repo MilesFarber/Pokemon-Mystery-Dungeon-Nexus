@@ -216,10 +216,10 @@ ID,Category,Name,Description,Value,Recipe
 215,Berry,Niniku Berry,An extremely rare Berry synthesized from the Enigma Berry. It gives Sleep immunity when eaten; until the end of the whole dungeon.,100,[5 Dry] Synthesis (Enigma + Pamtre)
 216,Cloth Equipment,Plain Ribbon,An item that has no effect even if held by a Pokémon.,100	,
 217,Cloth Equipment,Cheri Band,A spicy band that prevents the Pokémon from getting a Paralysis status.,,Plain Ribbon + Cheri Berry
-218,Cloth Equipment,Chesto Sash,A dry sash that prevents the Pokémon from getting a Sleep status.,,Plain Ribbon + Chesto Berry
+218,Cloth Equipment,Chesto Ribbon,A dry ribbon that prevents the Pokémon from getting a Sleep status.,,Plain Ribbon + Chesto Berry
 219,Cloth Equipment,Pecha Scarf,A sweet scarf that prevents the Pokémon from getting a Poisoned or Badly Poisoned status.,1200,Plain Ribbon + Pecha Berry
-220,Cloth Equipment,Rawst Ribbon,A bitter ribbon that prevents the Pokémon from getting a Burn status.,,Plain Ribbon + Rawst Berry
-221,Cloth Equipment,Aspear Ribbon,A sour ribbon that prevents the Pokémon from getting a Frozen status.,,Plain Ribbon + Aspear Berry
+220,Cloth Equipment,Rawst Sash,A bitter sash that prevents the Pokémon from getting a Burn status.,,Plain Ribbon + Rawst Berry
+221,Cloth Equipment,Aspear Scarf,A sour scarf that prevents the Pokémon from getting a Frozen status.,,Plain Ribbon + Aspear Berry
 222,Cloth Equipment,Leppa Berry,A popular ribbon that doubles every move's max PP.,,Plain Ribbon + Leppa Berry
 223,Cloth Equipment,Oran Berry,A gifted scarf that makes Oran Berries appear 50% more often in dungeons.,,Plain Ribbon + Oran Berry
 224,Cloth Equipment,Persim Berry,A colorful band that prevents the Pokémon from getting a Confused status.,1500,Plain Ribbon + Persim Berry
