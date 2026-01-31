@@ -19,7 +19,7 @@
         }
 
         #search {
-            width: 80%;
+            width: 75%;
             padding: 8px;
             font-size: 16px;
             margin-bottom: 8px;
@@ -78,7 +78,7 @@
 
 <input id="search" type="text" placeholder="Search Pokémon by name, type, etc...">
 
-<select id="sort" style="padding:8px; font-size:16px; margin-bottom:8px; background-color: #222; color: #eee; border: 1px solid #444; border-radius: 8px;">
+<select id="sort" style="padding:8px; font-size:12px; margin-bottom:8px; background-color: #222; color: #eee; border: 1px solid #444; border-radius: 8px;">
     <option value="ID">Sort by ID</option>
     <option value="HP">Sort by Health Points Stat</option>
     <option value="AT">Sort by Attack Stat</option>
@@ -133,7 +133,7 @@ const typeColors = {
 let headers = []; // CSV headers
 let pokemonData = []; // Pokémon data array
 
-fetch("pokemon.csv") // Fetch the CSV file
+fetch("https://raw.githubusercontent.com/MilesFarber/Pokemon-Mystery-Dungeon-Nexus/refs/heads/Leader/_data/pokemon.csv") // Fetch the CSV file
     .then(r => r.text()) // Get text content
     .then(text => { // Parse CSV
         const rows = text.trim().split("\n").map(r => r.split(",")); // Split into rows and columns
