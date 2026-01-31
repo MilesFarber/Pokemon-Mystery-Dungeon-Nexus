@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Pokédex</title>
+    <style>
+    body {
+        font-family: 'Lexend', 'OpenDyslexic', 'Verdana', sans-serif;
+        font-size: 12px;
+        line-height: 1.5;
+        letter-spacing: 0.5px;
+        background: #111;
+        color: #eee;
+    }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        #search {
+            width: 80%;
+            padding: 8px;
+            font-size: 16px;
+            margin-bottom: 8px;
+            border-radius: 8px;
+            border: 1px solid #222;
+            background-color: #111;
+            color: #eee;
+        }
+
+        #grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(256px, 1fr));
+            gap: 8px;
+        }
+
+        #layout {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 8px;
+        }
+
+        #details {
+            position: sticky;
+            top: 8px;
+            height: fit-content;
+        }
+
+        .card {
+            background: #222;
+            padding: 8px;
+            border-radius: 8px;
+            cursor: pointer;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+            transition: transform 0.1s;
+        }
+
+        .card:hover {
+            transform: scale(1.1);
+        }
+
+        .details {
+            margin-top: 8px;
+            padding: 8px;
+            background: #222;
+            color: #eee;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+            white-space: pre-line;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Pokédex</h1>
+
+<input id="search" type="text" placeholder="Search Pokémon by name, type, etc...">
+
+<select id="sort" style="padding:8px; font-size:16px; margin-bottom:8px; background-color: #222; color: #eee; border: 1px solid #444; border-radius: 8px;">
+    <option value="ID">Sort by ID</option>
+    <option value="HP">Sort by Health Points Stat</option>
+    <option value="AT">Sort by Attack Stat</option>
+    <option value="DF">Sort by Defense Stat</option>
+    <option value="SA">Sort by Special Attack Stat</option>
+    <option value="SD">Sort by Special Defense Stat</option>
+    <option value="SP">Sort by Speed Stat</option>
+    <option value="TT">Sort by Total Stats</option>
+    <option value="Height (cm)">Sort by Height</option>
+    <option value="Weight (lbs)">Sort by Weight</option>
+    <option value="♂/♀ Ratio">Sort by Gender Ratio</option>
+    <option value="Base Connection">Sort by Base Connection</option>
+    <option value="Spawn Modifier">Sort by Spawn Modifier</option>
+    <option value="Apricorn Chance">Sort by Apricorn Chance</option>
+    <option value="Experience">Sort by Experience</option>
+    <option value="Days To Hatch">Sort by Days To Hatch</option>
+    <option value="Pokémon">Sort by Name (Experimental)</option>
+</select>
+
+<div id="layout">
+    <div id="grid"></div>
+    <div id="details" class="details"></div>
+</div>
+
+<script>
+const grid = document.getElementById("grid"); // Grid container
+const detailsBox = document.getElementById("details"); // Details panel
+const searchInput = document.getElementById("search"); // Search input
+const typeColors = {
+    Normal:   "#333",
+    Grass:    "#261",
+    Fire:     "#621",
+    Water:    "#126",
+    Electric: "#661",
+    Ice:      "#166",
+    Fighting: "#641",
+    Poison:   "#313",
+    Ground:   "#652",
+    Flying:   "#346",
+    Psychic:  "#523",
+    Bug:      "#451",
+    Rock:     "#553",
+    Ghost:    "#426",
+    Dragon:   "#215",
+    Dark:     "#111",
+    Steel:    "#566",
+    Fairy:    "#635",
+    Shadow:   "#000",
+    Light:    "#777"
+}; // Type to color mapping
+
+let headers = []; // CSV headers
+let pokemonData = []; // Pokémon data array
+
+fetch("_data/pokemon.csv") // Fetch the CSV file
+    .then(r => r.text()) // Get text content
+    .then(text => { // Parse CSV
+        const rows = text.trim().split("\n").map(r => r.split(",")); // Split into rows and columns
+        headers = rows.shift(); // Extract headers
+        pokemonData = rows.map(r => Object.fromEntries(headers.map((h, i) => [h, r[i]]))); // Map rows to objects
+
+        renderGrid(pokemonData); // Initial render
+    }) // Handle successful fetch
+    .catch(err => { // Handle errors
+        detailsBox.style.display = "block"; // Show details box
+        detailsBox.textContent = "Error loading CSV:\n" + err.message; // Display error message
+    }); // Catch fetch errors
+
+function renderGrid(list) { // Render Pokémon grid
+    grid.innerHTML = ""; // Clear existing content
+    list.forEach(p => { // For each Pokémon
+        const card = document.createElement("div"); // Create card element
+        card.className = "card"; // Assign card class
+        card.textContent = `${p.ID} — ${p.Pokémon}`; // Set card text
+
+        const primaryType = p["Primary Type"] || ""; // Get primary type
+        const secondaryType = p["Secondary Type"] || ""; // Get secondary type
+
+        const primaryColor = typeColors[primaryType]; // Get primary type color
+        const secondaryColor = typeColors[secondaryType]; // Get secondary type color
+
+        if (primaryColor && secondaryColor) { // If dual-type
+            card.style.background = `linear-gradient(135deg, ${primaryColor}, ${secondaryColor})`; // Gradient background
+            card.style.color = "white"; // White text
+        } else if (primaryColor) { // If single-type
+            card.style.background = primaryColor; // Solid background
+            card.style.color = "white"; // White text
+        } else { // If no type or error
+            card.style.background = "#FFF"; // Default background
+            card.style.color = "black"; // Black text
+        } // Set colors based on type
+
+        card.addEventListener("click", () => showDetails(p)); // Click to show details
+        grid.appendChild(card); // Add card to grid
+    }); // For each Pokémon
+} // Render grid function
+
+const sortSelect = document.getElementById("sort"); // Sort select element
+
+sortSelect.addEventListener("change", () => { // On sort change
+
+    const sorted = [...pokemonData].sort((a, b) => { // Sort Pokémon data
+        const key = sortSelect.value; // Get selected sort key
+
+        const numA = Number(a[key]); // Convert to number
+        const numB = Number(b[key]); // Convert to number
+
+        const valA = Number.isFinite(numA) ? numA : 0; // Fallback to 0
+        const valB = Number.isFinite(numB) ? numB : 0; // Fallback to 0
+
+        return valA - valB; // Numeric sort
+    }); // Sort function
+
+    renderGrid(sorted); // Render sorted grid
+}); // Sort change event listener
+
+function showDetails(p) { // Show Pokémon details
+    let text = ""; // Initialize text
+    headers.forEach(h => { // For each header
+        text += `${h}: ${p[h]}\n`; // Append header and value
+    }); // For each header
+
+    detailsBox.textContent = text; // Set details text
+    detailsBox.style.display = "block"; // Show details box
+} // Show details function
+
+searchInput.addEventListener("input", () => { // On search input
+    applyFilters(); // Apply filters
+}); // Search input event listener
+
+sortSelect.addEventListener("change", () => { // On sort change
+    applyFilters(); // Apply filters
+}); // Sort change event listener
+
+function applyFilters() { // Apply search and sort filters at the same time
+    const q = searchInput.value.toLowerCase(); // Search query
+    const key = sortSelect.value; // Sort key
+
+    let filtered = pokemonData.filter(p => // Filter Pokémon by search query
+        Object.values(p).some(v => v.toLowerCase().includes(q)) // Check if any value includes query
+    ); // Filter function
+
+    filtered.sort((a, b) => { // Sort filtered results
+        const key = sortSelect.value; // Get sort key
+
+        const numA = Number(a[key]); // Convert to number
+        const numB = Number(b[key]); // Convert to number
+
+        if (Number.isFinite(numA) && Number.isFinite(numB)) { // If both are numbers
+            return numA - numB; // Numeric sort
+        } // If both are numbers
+
+        const A = (a[key] || "").toString().toLowerCase(); // Fallback to string
+        const B = (b[key] || "").toString().toLowerCase(); // Fallback to string
+
+        return A.localeCompare(B); // String sort
+    }); // Sort function
+
+    renderGrid(filtered); // Render filtered and sorted grid
+}; // Apply filters function
+</script>
+</body>
+</html>
