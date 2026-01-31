@@ -133,7 +133,7 @@ const typeColors = {
 let headers = []; // CSV headers
 let pokemonData = []; // Pokémon data array
 
-fetch("_data/pokemon.csv") // Fetch the CSV file
+fetch("https://raw.githubusercontent.com/MilesFarber/Pokemon-Mystery-Dungeon-Nexus/refs/heads/Leader/_data/pokemon.csv") // Fetch the CSV file
     .then(r => r.text()) // Get text content
     .then(text => { // Parse CSV
         const rows = text.trim().split("\n").map(r => r.split(",")); // Split into rows and columns
